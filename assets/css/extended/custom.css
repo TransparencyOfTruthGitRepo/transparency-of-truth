@@ -481,3 +481,26 @@ mark {
   border-top: 1px solid rgba(255,255,255,0.06);
   padding-top: 1rem;
 }
+/* 404 page */
+.error-page {
+  text-align: center;
+  padding: 6rem 1rem;
+  max-width: 480px;
+  margin: 0 auto;
+}
+.error-page h1 {
+  font-size: 6rem;
+  opacity: 0.12;
+  line-height: 1;
+  margin-bottom: 1rem;
+}
+.error-msg {
+  opacity: 0.55;
+  margin-bottom: 2rem;
+}
+.error-links {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}

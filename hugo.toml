@@ -1,6 +1,6 @@
 baseURL = "https://transparencyoftruth.com/"
 languageCode = "en-us"
-title = "Transparency for Truth"
+title = "Transparency of Truth"
 theme = "PaperMod"
 enableRobotsTXT = true
 buildDrafts = false
@@ -9,9 +9,9 @@ buildExpired = false
 paginate = 20
 [params]
 env = "production"
-title = "Transparency for Truth"
+title = "Transparency of Truth"
 description = "A verifiable, source-first database of every elected official in the United States."
-author = "Transparency for Truth"
+author = "Transparency of Truth"
 defaultTheme = "dark"
 ShowReadingTime = true
 ShowShareButtons = false
