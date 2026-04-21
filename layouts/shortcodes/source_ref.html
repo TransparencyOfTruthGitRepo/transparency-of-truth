@@ -1,9 +1,9 @@
-{{ $id := .Get "id" }}
-{{ range hugo.Data.sources.master.sources }}
+﻿{{ $id := .Get "id" }}
+{{ range site.Data.sources.master.sources }}
   {{ if eq .id $id }}
     <cite class="source-ref">
       <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a>
-      <span class="source-meta">{{ .publisher }} · Retrieved {{ .retrieved_at }}</span>
+      <span class="source-meta">{{ .publisher }} Â· Retrieved {{ .retrieved_at }}</span>
       {{ if .archived_url }}
         <a class="archive-link" href="{{ .archived_url }}" target="_blank" rel="noopener noreferrer">[Archive]</a>
       {{ end }}

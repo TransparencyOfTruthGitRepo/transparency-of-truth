@@ -1,4 +1,4 @@
-{{ define "main" }}
+﻿{{ define "main" }}
 <article class="state-page">
   <header class="state-header">
     <div class="state-title-row">
@@ -6,14 +6,14 @@
       <span class="state-abbrev">{{ .Params.state_abbrev }}</span>
     </div>
     {{ $slug := .File.ContentBaseName }}
-    {{ $officials := index hugo.Data.officials $slug }}
+    {{ $officials := index site.Data.officials $slug }}
     {{ if and $officials $officials.officials }}
     <div class="state-meta-bar">
       <span class="meta-item">{{ len $officials.officials }} officials tracked</span>
-      <span class="meta-divider">·</span>
+      <span class="meta-divider">Â·</span>
       <span class="meta-item">Last updated: {{ $officials.last_updated }}</span>
-      <span class="meta-divider">·</span>
-      <span class="meta-item status-source-confirmed-label">source-confirmed — verification in progress</span>
+      <span class="meta-divider">Â·</span>
+      <span class="meta-item status-source-confirmed-label">source-confirmed â€” verification in progress</span>
     </div>
     {{ end }}
   </header>
@@ -21,7 +21,7 @@
   <div class="state-content">{{ .Content }}</div>
 
   {{ $slug := .File.ContentBaseName }}
-  {{ $officials := index hugo.Data.officials $slug }}
+  {{ $officials := index site.Data.officials $slug }}
 
   {{ if and $officials $officials.officials }}
 
@@ -71,7 +71,7 @@
     </section>
   {{ end }}
 
-  {{ $statedata := index hugo.Data.states $slug }}
+  {{ $statedata := index site.Data.states $slug }}
   {{ if $statedata }}
   <section class="state-sources">
     <h2>Primary Sources</h2>

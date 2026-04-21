@@ -1,13 +1,13 @@
-{{ define "main" }}
+﻿{{ define "main" }}
 
-{{/* ── Compute live stats from data ── */}}
+{{/* â”€â”€ Compute live stats from data â”€â”€ */}}
 {{ $totalOfficials := 0 }}
 {{ $statesWithData := 0 }}
 {{ $sourceCount := 0 }}
 
 {{ range (where .Site.RegularPages "Type" "states") }}
   {{ $slug := .File.ContentBaseName }}
-  {{ $data := index hugo.Data.officials $slug }}
+  {{ $data := index site.Data.officials $slug }}
   {{ if and $data $data.officials }}
     {{ $totalOfficials = add $totalOfficials (len $data.officials) }}
     {{ if gt (len $data.officials) 0 }}
@@ -16,7 +16,7 @@
   {{ end }}
 {{ end }}
 
-{{ with hugo.Data.sources }}
+{{ with site.Data.sources }}
   {{ with .master }}
     {{ with .sources }}
       {{ $sourceCount = len . }}
@@ -28,7 +28,7 @@
   <h1>Transparency of Truth</h1>
   <p class="home-tagline">Verifiable public records on every elected official in America. Primary sources only. No opinion. No agenda.</p>
   <div class="hero-cta-row">
-    <a href="/states/" class="btn-primary">Browse All States →</a>
+    <a href="/states/" class="btn-primary">Browse All States â†’</a>
     <a href="/methodology/" class="btn-ghost">Our Methodology</a>
   </div>
 </div>
@@ -43,7 +43,7 @@
     <span class="stat-label">States with Data</span>
   </div>
   <div class="stat-block">
-    <span class="stat-number">{{ if gt $sourceCount 0 }}{{ $sourceCount }}{{ else }}—{{ end }}</span>
+    <span class="stat-number">{{ if gt $sourceCount 0 }}{{ $sourceCount }}{{ else }}â€”{{ end }}</span>
     <span class="stat-label">Source Documents</span>
   </div>
   <div class="stat-block">
@@ -55,12 +55,12 @@
 <section class="state-grid-section">
   <div class="section-header-row">
     <h2>Browse by State</h2>
-    <a href="/states/" class="view-all-link">View all →</a>
+    <a href="/states/" class="view-all-link">View all â†’</a>
   </div>
   <div class="state-grid">
     {{ range (where .Site.RegularPages "Type" "states") }}
     {{ $slug := .File.ContentBaseName }}
-    {{ $data := index hugo.Data.officials $slug }}
+    {{ $data := index site.Data.officials $slug }}
     <a href="{{ .RelPermalink }}" class="state-card {{ if and $data $data.officials }}has-data{{ end }}">
       <span class="state-abbrev-badge">{{ .Params.state_abbrev }}</span>
       <span class="state-name">{{ .Title }}</span>
@@ -75,8 +75,8 @@
 <section class="home-mission">
   <div class="mission-inner">
     <h2>Why This Exists</h2>
-    <p>Every American deserves to know who represents them, how to contact them, and what their official record shows. This site compiles that information from government sources — not media, not opinion — and makes it freely accessible, verifiable, and permanent.</p>
-    <a href="/integrity/" class="btn-ghost">Read Our Integrity Pledge →</a>
+    <p>Every American deserves to know who represents them, how to contact them, and what their official record shows. This site compiles that information from government sources â€” not media, not opinion â€” and makes it freely accessible, verifiable, and permanent.</p>
+    <a href="/integrity/" class="btn-ghost">Read Our Integrity Pledge â†’</a>
   </div>
 </section>
 
