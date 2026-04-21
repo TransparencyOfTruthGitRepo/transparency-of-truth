@@ -308,3 +308,79 @@
   margin-bottom: 1.5rem;
   max-width: 100%;
 }
+/* Search page */
+.search-page {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+.search-page h1 { margin-bottom: 1.5rem; }
+.search-bar-wrap {
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+.search-input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 8px;
+  color: inherit;
+  outline: none;
+  transition: border-color 0.2s;
+}
+.search-input:focus {
+  border-color: rgba(255,255,255,0.3);
+}
+.search-count {
+  display: block;
+  font-size: 0.75rem;
+  opacity: 0.4;
+  margin-top: 0.5rem;
+}
+.search-results {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.search-result-card {
+  display: block;
+  padding: 0.85rem 1rem;
+  border: 1px solid rgba(255,255,255,0.07);
+  border-radius: 8px;
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.15s, border-color 0.15s;
+}
+.search-result-card:hover {
+  background: rgba(255,255,255,0.04);
+  border-color: rgba(255,255,255,0.18);
+}
+.sr-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin-bottom: 0.25rem;
+}
+.sr-meta {
+  font-size: 0.8rem;
+  opacity: 0.55;
+}
+.sr-badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  padding: 1px 7px;
+  border-radius: 4px;
+  margin-top: 0.4rem;
+}
+.search-empty {
+  opacity: 0.4;
+  font-style: italic;
+  padding: 1rem 0;
+}
+mark {
+  background: rgba(212, 168, 67, 0.3);
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 2px;
+}

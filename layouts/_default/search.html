@@ -1,0 +1,81 @@
+{{ define "main" }}
+<div class="search-page">
+  <h1>Search Officials</h1>
+  <div class="search-bar-wrap">
+    <input
+      type="text"
+      id="search-input"
+      class="search-input"
+      placeholder="Search by name, office, state, or party..."
+      autofocus
+      autocomplete="off"
+    />
+    <span class="search-count" id="search-count"></span>
+  </div>
+  <div id="search-results" class="search-results"></div>
+</div>
+
+<script>
+(async function() {
+  const input = document.getElementById('search-input');
+  const results = document.getElementById('search-results');
+  const countEl = document.getElementById('search-count');
+
+  let index = [];
+  try {
+    const res = await fetch('/index.json');
+    index = await res.json();
+  } catch(e) {
+    results.innerHTML = '<p class="search-empty">Search index unavailable.</p>';
+    return;
+  }
+
+  const officials = index.filter(i => i.type === 'official');
+  const pages = index.filter(i => i.type === 'page');
+
+  function highlight(text, query) {
+    if (!query) return text;
+    const re = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')})`, 'gi');
+    return text.replace(re, '<mark>$1</mark>');
+  }
+
+  function render(query) {
+    const q = query.trim().toLowerCase();
+
+    if (!q) {
+      results.innerHTML = '';
+      countEl.textContent = `${officials.length} officials indexed`;
+      return;
+    }
+
+    const matched = index.filter(item => {
+      return (
+        item.title.toLowerCase().includes(q) ||
+        (item.summary && item.summary.toLowerCase().includes(q)) ||
+        (item.state && item.state.toLowerCase().includes(q)) ||
+        (item.party && item.party.toLowerCase().includes(q)) ||
+        (item.office && item.office.toLowerCase().includes(q))
+      );
+    });
+
+    countEl.textContent = `${matched.length} result${matched.length !== 1 ? 's' : ''}`;
+
+    if (!matched.length) {
+      results.innerHTML = '<p class="search-empty">No results found.</p>';
+      return;
+    }
+
+    results.innerHTML = matched.map(item => `
+      <a href="${item.url}" class="search-result-card ${item.type}">
+        <div class="sr-title">${highlight(item.title, q)}</div>
+        <div class="sr-meta">${highlight(item.summary || '', q)}</div>
+        ${item.type === 'official' ? `<span class="sr-badge party-${(item.party||'').toLowerCase()}">${item.party || ''}</span>` : ''}
+      </a>
+    `).join('');
+  }
+
+  input.addEventListener('input', () => render(input.value));
+  render('');
+})();
+</script>
+{{ end }}

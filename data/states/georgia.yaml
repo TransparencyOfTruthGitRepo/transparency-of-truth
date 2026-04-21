@@ -2,10 +2,15 @@ state: georgia
 state_abbrev: GA
 capital: Atlanta
 last_roster_update: "2026-04-20"
+official_count: 14
 executive_source_urls:
   - "https://gov.georgia.gov"
+  - "https://ltgov.georgia.gov"
   - "https://law.georgia.gov"
   - "https://sos.ga.gov"
+  - "https://agr.georgia.gov"
+  - "https://oci.georgia.gov"
+  - "https://dol.georgia.gov"
 legislative_source_urls:
   - "https://www.senate.ga.gov"
   - "https://www.house.ga.gov"

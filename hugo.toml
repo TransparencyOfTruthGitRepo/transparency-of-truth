@@ -28,6 +28,10 @@ Title = "Truth is Public Record"
 Content = "Every elected official. Every contact. Every source. Verified and open."
 [menu]
 [[menu.main]]
+name = "Search"
+url = "/search/"
+weight = 6
+[[menu.main]]
 identifier = "states"
 name = "States"
 url = "/states/"
