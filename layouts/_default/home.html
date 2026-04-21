@@ -1,33 +1,39 @@
 {{ define "main" }}
+
+{{/* ── Compute live stats from data ── */}}
+{{ $totalOfficials := 0 }}
+{{ $statesWithData := 0 }}
+{{ $sourceCount := 0 }}
+
+{{ range (where .Site.RegularPages "Type" "states") }}
+  {{ $slug := .File.ContentBaseName }}
+  {{ $data := index hugo.Data.officials $slug }}
+  {{ if and $data $data.officials }}
+    {{ $totalOfficials = add $totalOfficials (len $data.officials) }}
+    {{ if gt (len $data.officials) 0 }}
+      {{ $statesWithData = add $statesWithData 1 }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ with hugo.Data.sources }}
+  {{ with .master }}
+    {{ with .sources }}
+      {{ $sourceCount = len . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
 <div class="home-hero">
   <h1>Transparency of Truth</h1>
-  <p class="home-tagline">Verifiable public records on every elected official in America. Primary sources only.</p>
-</div>
-
-<section class="state-grid-section">
-  <h2>Browse by State</h2>
-  <div class="state-grid">
-    {{ range (where .Site.RegularPages "Type" "states") }}
-    <a href="{{ .RelPermalink }}" class="state-card">
-      <span class="state-abbrev-badge">{{ .Params.state_abbrev }}</span>
-      <span class="state-name">{{ .Title }}</span>
-    </a>
-    {{ end }}
+  <p class="home-tagline">Verifiable public records on every elected official in America. Primary sources only. No opinion. No agenda.</p>
+  <div class="hero-cta-row">
+    <a href="/states/" class="btn-primary">Browse All States →</a>
+    <a href="/methodology/" class="btn-ghost">Our Methodology</a>
   </div>
-</section>
+</div>
 
 <section class="home-stats">
   <div class="stat-block">
-    <span class="stat-number">50</span>
-    <span class="stat-label">States</span>
-  </div>
-  <div class="stat-block">
-    <span class="stat-number">3</span>
-    <span class="stat-label">Verified Officials</span>
-  </div>
-  <div class="stat-block">
-    <span class="stat-number">100%</span>
-    <span class="stat-label">Primary Sources</span>
-  </div>
-</section>
-{{ end }}
+    <span class="stat-number">{{ $totalOfficials }}</span>
+    <span 
