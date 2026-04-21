@@ -32,3 +32,85 @@
 .roster-date { font-size: 0.8rem; opacity: 0.5; margin-top: 0.5rem; }
 .source-ref { display: block; font-size: 0.85rem; border-left: 3px solid rgba(255,255,255,0.15); padding-left: 0.75rem; margin: 0.5rem 0; }
 .source-meta { display: block; font-size: 0.75rem; opacity: 0.6; margin-top: 2px; }
+/* Homepage */
+.home-hero {
+  text-align: center;
+  padding: 3rem 1rem 2rem;
+}
+.home-hero h1 {
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+}
+.home-tagline {
+  font-size: 1.1rem;
+  opacity: 0.7;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.state-grid-section {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+.state-grid-section h2 {
+  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+  opacity: 0.8;
+}
+.state-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.75rem;
+}
+.state-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem 0.5rem;
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 8px;
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.2s, border-color 0.2s;
+  gap: 0.4rem;
+}
+.state-card:hover {
+  background: rgba(255,255,255,0.05);
+  border-color: rgba(255,255,255,0.2);
+}
+.state-abbrev-badge {
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+.state-name {
+  font-size: 0.75rem;
+  opacity: 0.6;
+  text-align: center;
+}
+.home-stats {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  padding: 2rem 1rem 3rem;
+  border-top: 1px solid rgba(255,255,255,0.06);
+  max-width: 600px;
+  margin: 0 auto;
+}
+.stat-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+}
+.stat-number {
+  font-size: 2rem;
+  font-weight: 700;
+}
+.stat-label {
+  font-size: 0.8rem;
+  opacity: 0.5;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}

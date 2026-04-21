@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="home-hero">
+  <h1>Transparency of Truth</h1>
+  <p class="home-tagline">Verifiable public records on every elected official in America. Primary sources only.</p>
+</div>
+
+<section class="state-grid-section">
+  <h2>Browse by State</h2>
+  <div class="state-grid">
+    {{ range (where .Site.RegularPages "Type" "states") }}
+    <a href="{{ .RelPermalink }}" class="state-card">
+      <span class="state-abbrev-badge">{{ .Params.state_abbrev }}</span>
+      <span class="state-name">{{ .Title }}</span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+
+<section class="home-stats">
+  <div class="stat-block">
+    <span class="stat-number">50</span>
+    <span class="stat-label">States</span>
+  </div>
+  <div class="stat-block">
+    <span class="stat-number">3</span>
+    <span class="stat-label">Verified Officials</span>
+  </div>
+  <div class="stat-block">
+    <span class="stat-number">100%</span>
+    <span class="stat-label">Primary Sources</span>
+  </div>
+</section>
+{{ end }}
