@@ -16,10 +16,12 @@
   {{ end }}
 {{ end }}
 
-{{ with site.Data.sources }}
-  {{ with .master }}
-    {{ with .sources }}
-      {{ $sourceCount = len . }}
+{{ range site.Data.officials }}
+  {{ if .officials }}
+    {{ range .officials }}
+      {{ if .source_urls }}
+        {{ $sourceCount = add $sourceCount (len .source_urls) }}
+      {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}
