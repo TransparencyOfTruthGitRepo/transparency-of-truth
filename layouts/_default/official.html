@@ -1,0 +1,145 @@
+{{ define "main" }}
+<article class="official-profile">
+
+  <div class="profile-breadcrumb">
+    <a href="/states/">States</a>
+    <span>›</span>
+    <a href="/states/{{ .Params.state }}/">{{ .Params.state_abbrev }}</a>
+    <span>›</span>
+    <span>{{ .Params.full_name }}</span>
+  </div>
+
+  <header class="profile-header">
+    <div class="profile-title-row">
+      <h1>{{ .Params.full_name }}</h1>
+      {{ if .Params.party }}
+        <span class="party-badge party-{{ .Params.party | lower }}">{{ .Params.party }}</span>
+      {{ end }}
+    </div>
+    <p class="profile-office">{{ .Params.office_title }} · {{ .Params.state_abbrev }}</p>
+    {{ if .Params.review_status }}
+      <span class="review-status status-{{ .Params.review_status }}">
+        {{ if eq .Params.review_status "seeded" }}⚠ Seeded — pending source verification{{ end }}
+        {{ if eq .Params.review_status "source-confirmed" }}✓ Source confirmed{{ end }}
+        {{ if eq .Params.review_status "verified" }}✓ Verified{{ end }}
+      </span>
+    {{ end }}
+  </header>
+
+  {{ if .Params.bio_short }}
+  <section class="profile-section">
+    <h2>About</h2>
+    <p>{{ .Params.bio_short }}</p>
+  </section>
+  {{ end }}
+
+  <section class="profile-section">
+    <h2>Contact & Office</h2>
+    <div class="contact-grid">
+      {{ if .Params.phone }}
+      <div class="contact-item">
+        <span class="contact-label">Phone</span>
+        <a href="tel:{{ .Params.phone }}">{{ .Params.phone }}</a>
+      </div>
+      {{ end }}
+      {{ if .Params.email }}
+      <div class="contact-item">
+        <span class="contact-label">Email</span>
+        <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
+      </div>
+      {{ end }}
+      {{ if .Params.official_website }}
+      <div class="contact-item">
+        <span class="contact-label">Official Website</span>
+        <a href="{{ .Params.official_website }}" target="_blank" rel="noopener noreferrer">{{ .Params.official_website }}</a>
+      </div>
+      {{ end }}
+      {{ if .Params.office_page_url }}
+      <div class="contact-item">
+        <span class="contact-label">Profile Page</span>
+        <a href="{{ .Params.office_page_url }}" target="_blank" rel="noopener noreferrer">View official profile →</a>
+      </div>
+      {{ end }}
+      {{ if .Params.district }}
+      <div class="contact-item">
+        <span class="contact-label">District</span>
+        <span>{{ .Params.district }}</span>
+      </div>
+      {{ end }}
+      {{ if .Params.chamber }}
+      <div class="contact-item">
+        <span class="contact-label">Chamber</span>
+        <span>{{ .Params.chamber | title }}</span>
+      </div>
+      {{ end }}
+      {{ if .Params.jurisdiction_name }}
+      <div class="contact-item">
+        <span class="contact-label">Jurisdiction</span>
+        <span>{{ .Params.jurisdiction_name }}</span>
+      </div>
+      {{ end }}
+      {{ if .Params.address }}
+      <div class="contact-item">
+        <span class="contact-label">Address</span>
+        <span>{{ .Params.address }}</span>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="profile-section profile-sources">
+    <h2>Primary Sources</h2>
+    {{ if .Params.source_ids }}
+    <ul class="source-list">
+      {{ range .Params.source_ids }}
+      <li><a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a></li>
+      {{ end }}
+    </ul>
+    {{ else }}
+    <p class="evidence-empty">No sources linked yet.</p>
+    {{ end }}
+    {{ if .Params.retrieved_at }}
+    <p class="source-note">Data retrieved: {{ .Params.retrieved_at }}</p>
+    {{ end }}
+    {{ if .Params.last_verified }}
+    <p class="source-note">Last verified: {{ .Params.last_verified }}</p>
+    {{ end }}
+  </section>
+
+  <section class="profile-section profile-evidence">
+    <h2>Evidence & Documents</h2>
+    {{ if .Params.document_ids }}
+    <ul class="source-list">
+      {{ range .Params.document_ids }}
+      <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+    {{ else }}
+    <p class="evidence-empty">No documents filed yet. <a href="/contribute/">Contribute a source →</a></p>
+    {{ end }}
+  </section>
+
+  {{ if .Params.committees }}
+  <section class="profile-section">
+    <h2>Committees</h2>
+    <ul class="committee-list">
+      {{ range .Params.committees }}
+      <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+
+  {{ if .Params.notes }}
+  <section class="profile-section">
+    <h2>Notes</h2>
+    <p>{{ .Params.notes }}</p>
+  </section>
+  {{ end }}
+
+  <div class="profile-back-row">
+    <a href="/states/{{ .Params.state }}/" class="btn-ghost">← Back to {{ .Params.state_abbrev }} Officials</a>
+  </div>
+
+</article>
+{{ end }}
