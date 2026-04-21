@@ -1,0 +1,108 @@
+{{ define "main" }}
+<div class="contribute-page">
+
+  <header class="contribute-header">
+    <h1>Contribute a Source</h1>
+    <p class="contribute-intro">Submit a primary source document, court filing, official record, or government publication for review. All submissions are manually verified before publication. Anonymous submissions are accepted.</p>
+  </header>
+
+  <div class="contribute-guidelines">
+    <h2>What we accept</h2>
+    <ul>
+      <li>Official government documents (PDFs, filings, transcripts)</li>
+      <li>Court records and legal filings</li>
+      <li>Campaign finance records (FEC, state equivalents)</li>
+      <li>Legislative voting records with source links</li>
+      <li>Publicly archived government pages</li>
+      <li>Official meeting minutes and agendas</li>
+    </ul>
+    <h2>What we do not accept</h2>
+    <ul>
+      <li>Opinion pieces, editorials, or commentary</li>
+      <li>Social media posts as standalone evidence</li>
+      <li>Anonymous allegations without documentary support</li>
+      <li>Paywalled content without a public archive link</li>
+    </ul>
+  </div>
+
+  <form
+    action="https://formspree.io/f/xzdyaaja"
+    method="POST"
+    class="contribute-form"
+  >
+    <input type="hidden" name="_subject" value="New source submission — Transparency of Truth">
+    <input type="text" name="_gotcha" style="display:none">
+
+    <div class="form-group">
+      <label for="official_name">Official Name <span class="required">*</span></label>
+      <input type="text" id="official_name" name="official_name" placeholder="e.g. Brian Kemp" required>
+    </div>
+
+    <div class="form-group">
+      <label for="state">State <span class="required">*</span></label>
+      <select id="state" name="state" required>
+        <option value="">— Select a state —</option>
+        <option>Alabama</option><option>Alaska</option><option>Arizona</option>
+        <option>Arkansas</option><option>California</option><option>Colorado</option>
+        <option>Connecticut</option><option>Delaware</option><option>Florida</option>
+        <option>Georgia</option><option>Hawaii</option><option>Idaho</option>
+        <option>Illinois</option><option>Indiana</option><option>Iowa</option>
+        <option>Kansas</option><option>Kentucky</option><option>Louisiana</option>
+        <option>Maine</option><option>Maryland</option><option>Massachusetts</option>
+        <option>Michigan</option><option>Minnesota</option><option>Mississippi</option>
+        <option>Missouri</option><option>Montana</option><option>Nebraska</option>
+        <option>Nevada</option><option>New Hampshire</option><option>New Jersey</option>
+        <option>New Mexico</option><option>New York</option><option>North Carolina</option>
+        <option>North Dakota</option><option>Ohio</option><option>Oklahoma</option>
+        <option>Oregon</option><option>Pennsylvania</option><option>Rhode Island</option>
+        <option>South Carolina</option><option>South Dakota</option><option>Tennessee</option>
+        <option>Texas</option><option>Utah</option><option>Vermont</option>
+        <option>Virginia</option><option>Washington</option><option>West Virginia</option>
+        <option>Wisconsin</option><option>Wyoming</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="source_url">Source URL <span class="required">*</span></label>
+      <input type="url" id="source_url" name="source_url" placeholder="https://..." required>
+      <span class="field-hint">Direct link to the official document or archived page</span>
+    </div>
+
+    <div class="form-group">
+      <label for="archive_url">Archive URL</label>
+      <input type="url" id="archive_url" name="archive_url" placeholder="https://web.archive.org/...">
+      <span class="field-hint">Recommended — archive.org or archive.ph snapshot</span>
+    </div>
+
+    <div class="form-group">
+      <label for="source_type">Source Type <span class="required">*</span></label>
+      <select id="source_type" name="source_type" required>
+        <option value="">— Select type —</option>
+        <option>Court filing</option>
+        <option>Campaign finance record</option>
+        <option>Legislative vote record</option>
+        <option>Government PDF / document</option>
+        <option>Official meeting minutes</option>
+        <option>Archived government page</option>
+        <option>Other official record</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="description">Description <span class="required">*</span></label>
+      <textarea id="description" name="description" rows="4" placeholder="Briefly describe what this document shows and why it is relevant..." required></textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="submitter_email">Your Email (optional)</label>
+      <input type="email" id="submitter_email" name="submitter_email" placeholder="Only needed if you want a follow-up">
+      <span class="field-hint">Never published. Used only for follow-up questions about this submission.</span>
+    </div>
+
+    <button type="submit" class="btn-submit">Submit Source →</button>
+  </form>
+
+  <p class="contribute-footer">All submissions are reviewed manually. Accepted sources are attributed to the originating government body, not the submitter. Questions? <a href="/contact/">Contact us</a>.</p>
+
+</div>
+{{ end }}

@@ -384,3 +384,100 @@ mark {
   border-radius: 2px;
   padding: 0 2px;
 }
+/* Contribute form */
+.contribute-page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+.contribute-header { margin-bottom: 2rem; }
+.contribute-intro {
+  opacity: 0.65;
+  line-height: 1.7;
+  margin-top: 0.5rem;
+}
+.contribute-guidelines {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.07);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 2rem;
+  font-size: 0.88rem;
+}
+.contribute-guidelines h2 {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  opacity: 0.45;
+  margin-bottom: 0.5rem;
+  margin-top: 1rem;
+}
+.contribute-guidelines h2:first-child { margin-top: 0; }
+.contribute-guidelines ul {
+  padding-left: 1.25rem;
+  opacity: 0.7;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+.contribute-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+.form-group label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  opacity: 0.8;
+}
+.required { color: #d4a843; }
+.form-group input,
+.form-group select,
+.form-group textarea {
+  padding: 0.65rem 0.9rem;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 6px;
+  color: inherit;
+  font-size: 0.9rem;
+  outline: none;
+  transition: border-color 0.2s;
+  width: 100%;
+}
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  border-color: rgba(255,255,255,0.3);
+}
+.field-hint {
+  font-size: 0.75rem;
+  opacity: 0.4;
+}
+.btn-submit {
+  padding: 0.75rem 1.5rem;
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 6px;
+  color: inherit;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s;
+  align-self: flex-start;
+}
+.btn-submit:hover {
+  background: rgba(255,255,255,0.13);
+  border-color: rgba(255,255,255,0.3);
+}
+.contribute-footer {
+  margin-top: 2rem;
+  font-size: 0.8rem;
+  opacity: 0.4;
+  border-top: 1px solid rgba(255,255,255,0.06);
+  padding-top: 1rem;
+}
