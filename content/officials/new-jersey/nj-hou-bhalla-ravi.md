@@ -1,0 +1,22 @@
+---
+title: "Ravi Bhalla"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "nj-hou-bhalla-ravi"
+full_name: "Ravi Bhalla"
+state: "new-jersey"
+state_abbrev: "NJ"
+office_title: "State Representative"
+chamber: "house"
+district: "32"
+party: "Democratic"
+status: "active"
+official_website: "https://njleg.state.nj.us/legislative-roster/509/assemblyman-bhalla"
+email: "asmbhalla@njleg.org"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

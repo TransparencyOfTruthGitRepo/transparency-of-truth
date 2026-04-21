@@ -1,0 +1,22 @@
+---
+title: "Janice Rich"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "co-sen-rich-janice"
+full_name: "Janice Rich"
+state: "colorado"
+state_abbrev: "CO"
+office_title: "State Senator"
+chamber: "senate"
+district: "7"
+party: "Republican"
+status: "active"
+official_website: "https://leg.colorado.gov/legislators/janice-rich"
+email: "janicerichsd7@gmail.com"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

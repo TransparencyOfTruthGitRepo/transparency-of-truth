@@ -1,0 +1,22 @@
+---
+title: "Ed Orcutt"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "wa-hou-orcutt-ed"
+full_name: "Ed Orcutt"
+state: "washington"
+state_abbrev: "WA"
+office_title: "State Representative"
+chamber: "house"
+district: "20"
+party: "Republican"
+status: "active"
+official_website: "https://EdOrcutt.houserepublicans.wa.gov/"
+email: "ed.orcutt@leg.wa.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

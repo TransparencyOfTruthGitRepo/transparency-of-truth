@@ -1,0 +1,22 @@
+---
+title: "Joe Seiwert"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "ks-hou-seiwert-joe"
+full_name: "Joe Seiwert"
+state: "kansas"
+state_abbrev: "KS"
+office_title: "State Representative"
+chamber: "house"
+district: "101"
+party: "Republican"
+status: "active"
+official_website: "https://www.kslegislature.gov/li/b2025_26/members/rep_seiwert_joe_1/"
+email: "joe.seiwert@house.ks.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

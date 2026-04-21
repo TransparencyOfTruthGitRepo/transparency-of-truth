@@ -1,0 +1,22 @@
+---
+title: "Alonzo Knox"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "la-hou-knox-alonzo"
+full_name: "Alonzo Knox"
+state: "louisiana"
+state_abbrev: "LA"
+office_title: "State Representative"
+chamber: "house"
+district: "93"
+party: "Democratic"
+status: "active"
+official_website: "https://house.louisiana.gov/H_Reps/members.aspx?ID=93"
+email: "hse093@legis.la.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

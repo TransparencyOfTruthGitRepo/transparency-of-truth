@@ -1,4 +1,2562 @@
 ﻿state: new-mexico
 state_abbrev: NM
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: nm-hou-martinez-alan
+  openstates_id: ocd-person/be61f240-c0ad-4a98-8ad5-d30f4c5f4a06
+  full_name: Alan Martinez
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HMAAL.jpg
+  phone: ""
+  email: alan.martinez@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HMAAL
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alan_Martinez_(New_Mexico)
+  - https://en.wikipedia.org/wiki/Alan_Martinez
+  - https://www.linkedin.com/in/alanmartinez
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HMAAL
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-reeb-andi
+  openstates_id: ocd-person/c4caca3c-faa3-445f-91e0-cce9edd53a5a
+  full_name: Andi Reeb
+  office_title: State Representative
+  chamber: house
+  district: "64"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HREEB.jpg
+  phone: ""
+  email: andrea.reeb@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HREEB
+  twitter: ""
+  source_urls:
+  - https://andreareeb.com/meet-andrea
+  - https://ballotpedia.org/Andrea_Reeb
+  - https://en.wikipedia.org/wiki/Andrea_Reeb
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HREEB
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-romero-andrea
+  openstates_id: ocd-person/ed0ba54a-4fc3-4c50-aa0d-f74b1f0e86f6
+  full_name: Andrea Romero
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HROAN.jpg
+  phone: ""
+  email: andrea@andrearomero.com
+  address: ""
+  official_website: https://www.linkedin.com/in/andreadromero/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrea_Romero
+  - https://en.wikipedia.org/wiki/Andrea_Romero
+  - https://justfacts.votesmart.org/candidate/biography/180803/andrea-romero
+  - https://www.linkedin.com/in/andreadromero
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HROAN
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-charley-angel
+  openstates_id: ocd-person/948ee9a0-a718-46f1-a1fe-35eb97f01fad
+  full_name: Angel Charley
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Democratic
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/65a92fa05202ee2b13428333/630e642f-dfc6-48c0-930b-c25b16d80e76/Headshot.jpg
+  phone: ""
+  email: angel.charley@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SCHAR
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Angel_Charley
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SCHAR
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-rubio-angelica
+  openstates_id: ocd-person/ea2a9403-248c-4474-aea0-47b45265e0be
+  full_name: Angelica Rubio
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HRUBI.jpg
+  phone: ""
+  email: angelica.rubio@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/angelicarubio/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Angelica_Rubio
+  - https://en.wikipedia.org/wiki/Angelica_Rubio
+  - https://justfacts.votesmart.org/candidate/biography/168321/angelica-rubio
+  - https://www.linkedin.com/in/angelicarubio
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HRUBI
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-mejia-angelita
+  openstates_id: ocd-person/75986bbd-3629-4520-a770-f86c46f423ab
+  full_name: Angelita Mejia
+  office_title: State Representative
+  chamber: house
+  district: "58"
+  party: Republican
+  status: active
+  photo_url: https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/assets/v3/editorial/5/0f/50f20b06-de3c-11ee-8fb3-1b97c5eaf40c/65ec9fd35dc59.image.jpg?resize=457%2C500
+  phone: ""
+  email: angelita.mejia@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HMEAN
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Angelita_Mejia
+  - https://en.wikipedia.org/wiki/Angelita_Mejia
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HMEAN
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-gonzales-anita
+  openstates_id: ocd-person/ee127909-55b5-4854-b3c6-2e45e19b7156
+  full_name: Anita Gonzales
+  office_title: State Representative
+  chamber: house
+  district: "70"
+  party: Democratic
+  status: active
+  photo_url: https://anita4newmexico.com/wp-content/uploads/2024/02/Anita-ABOUT.jpg
+  phone: ""
+  email: anita.gonzales@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HGOAN
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Anita_Gonzales
+  - https://www.linkedin.com/in/anita-gonzales-1a07a645
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HGOAN
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-thornton-ant
+  openstates_id: ocd-person/02d806fd-fb8f-4d66-b9b8-6dacd2bd9656
+  full_name: Ant Thornton
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://antthorntonfornm.com/wp-content/uploads/2024/02/Ant-Thornton-768x768.jpg
+  phone: ""
+  email: anthony.thornton@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=STHOR
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Anthony_L._Thornton
+  - https://www.linkedin.com/in/anthony-%E2%80%9Cant%E2%80%9D-thornton-25b2347
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=STHOR
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-lopez-antoinette
+  openstates_id: ocd-person/3dcac810-1d9b-4a4d-9e82-8b6e49eba735
+  full_name: Antoinette Sedillo Lopez
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SSEDI.jpg
+  phone: ""
+  email: a.sedillolopez@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/antoinette-sedillo-lopez-ab3a5014/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Antoinette_Sedillo_Lopez
+  - https://en.wikipedia.org/wiki/Antoinette_Sedillo_Lopez
+  - https://www.linkedin.com/in/antoinette-sedillo-lopez-ab3a5014
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SSEDI
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-maestas-moe
+  openstates_id: ocd-person/2913173a-2bfe-4474-8bdc-d145f868c4de
+  full_name: Moe Maestas
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SMAEM.jpg
+  phone: ""
+  email: antonio.maestas@nmlegis.gov
+  address: ""
+  official_website: https://nmlegis.gov/Members/Legislator?SponCode=smaem
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Antonio_Maestas
+  - https://en.wikipedia.org/wiki/Moe_Maestas
+  - https://moejustice.com
+  - https://nmlegis.gov/Members/Legislator?SponCode=smaem
+  - https://www.linkedin.com/in/antonio-moe​-maestas-1262466
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HMAES
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SMAEM
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-cruz-art
+  openstates_id: ocd-person/057c7d79-a168-4b7b-ae96-66cf41e4f115
+  full_name: Art De La Cruz
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HDELA.jpg
+  phone: ""
+  email: art.delacruz@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HDELA
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Art_De_La_Cruz
+  - https://en.wikipedia.org/wiki/Art_De_La_Cruz
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HDELA
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-shendo-benny
+  openstates_id: ocd-person/145aba4a-89ba-4c17-b1ec-2f4b568f5048
+  full_name: Benny Shendo
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SSHEN.jpg
+  phone: ""
+  email: benny.shendo@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SSHEN
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Benny_Shendo
+  - https://en.wikipedia.org/wiki/Benny_Shendo
+  - https://justfacts.votesmart.org/candidate/biography/102414/benny-shendo-jr
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SSHEN
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-hall-bill
+  openstates_id: ocd-person/e0e4fcc9-1e0c-49f8-894d-223c863d61f8
+  full_name: Bill Hall
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: bill.hall@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HHABI
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Hall_(New_Mexico)
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HHABI
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-baca-brian
+  openstates_id: ocd-person/05f3609c-c2a6-42fc-bf6a-5141f8050ff8
+  full_name: Brian Baca
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HBACB.jpg
+  phone: ""
+  email: brian.baca@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HBACB
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Baca
+  - https://en.wikipedia.org/wiki/Brian_Baca
+  - https://www.linkedin.com/in/brian-baca-03191bb2
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HBACB
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-ezzell-candy
+  openstates_id: ocd-person/46464f19-1bda-489f-93cf-3772d0445407
+  full_name: Candy Ezzell
+  office_title: State Senator
+  chamber: senate
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HEZZE.jpg
+  phone: ""
+  email: csecows@aol.com
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HEZZE
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Candy_Spence_Ezzell
+  - https://en.wikipedia.org/wiki/Candy_Ezzell
+  - https://justfacts.votesmart.org/candidate/biography/43577/candy-ezzell
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HEZZE
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SEZZE
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-hamblen-carrie
+  openstates_id: ocd-person/83df260f-2110-4d39-8e19-6a2edc33491d
+  full_name: Carrie Hamblen
+  office_title: State Senator
+  chamber: senate
+  district: "38"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SHAMB.jpg
+  phone: ""
+  email: carrie.hamblen@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SHAMB
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Carrie_Hamblen
+  - https://en.wikipedia.org/wiki/Carrie_Hamblen
+  - https://hamblennmsenate38.com/about-carrie
+  - https://www.linkedin.com/in/carrie-hamblen-87a4a7b
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SHAMB
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-cullen-catherine
+  openstates_id: ocd-person/35f36593-4252-4205-b123-cc7236e96954
+  full_name: Catherine Cullen
+  office_title: State Representative
+  chamber: house
+  district: "57"
+  party: Republican
+  status: active
+  photo_url: https://cullen4nm.com/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHBzJTNBJTJGJTJGY3VsbGVuNG5tLmNvbSUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyNCUyRjA3JTJGSU1HXzMyMjguanBnJmNhY2hlTWFya2VyPTE3MzAxNTM0NzYtMTUyNzQyJnRva2VuPTU0MDM0MzcxMmJiYWYyZmY.q.jpg
+  phone: ""
+  email: catherine.cullen@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HCUCA
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Catherine_Cullen
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HCUCA
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-brown-cathrynn
+  openstates_id: ocd-person/8b51e39c-5f4c-48dd-affd-b97c6062d87e
+  full_name: Cathrynn Brown
+  office_title: State Representative
+  chamber: house
+  district: "55"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HBROW.jpg
+  phone: ""
+  email: c.brown.nm55@gmail.com
+  address: ""
+  official_website: https://www.linkedin.com/in/cathrynnbrown/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cathrynn_Brown
+  - https://en.wikipedia.org/wiki/Cathrynn_Brown
+  - https://justfacts.votesmart.org/candidate/biography/110625/cathrynn-brown
+  - https://www.linkedin.com/in/cathrynnbrown
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HBROW
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-little-charlotte
+  openstates_id: ocd-person/052e06cd-7f58-4c3c-8640-be1d8842a19b
+  full_name: Charlotte Little
+  office_title: State Representative
+  chamber: house
+  district: "68"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HLITC.jpg
+  phone: ""
+  email: charlotte.little@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HLITC
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Charlotte_Little
+  - https://en.wikipedia.org/wiki/Charlotte_Little
+  - https://www.linkedin.com/in/charlotte-little-6709974
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HLITC
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-chandler-chris
+  openstates_id: ocd-person/6ecab682-9ccf-4777-940d-afa418b601b8
+  full_name: Chris Chandler
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HCHAN.jpg
+  phone: ""
+  email: christine.chandler@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/christine-chandler-b567865a/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Christine_Chandler
+  - https://en.wikipedia.org/wiki/Christine_Chandler
+  - https://www.linkedin.com/in/christine-chandler-b567865a
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAN
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-nava-cindy
+  openstates_id: ocd-person/631f715e-754c-4410-a967-1e5a928ae971
+  full_name: Cindy Nava
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/cms.ipressroom.com/175/files/20187/5b883c6f2cfac267c6377417_Cindy+Nava+1/Cindy+Nava+1_mid.jpg
+  phone: ""
+  email: cindy.nava@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SNACI
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cindy_Nava
+  - https://en.wikipedia.org/wiki/Cindy_Nava
+  - https://www.linkedin.com/in/cindy-nava-77245b32
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SNACI
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-brandt-craig
+  openstates_id: ocd-person/365e015d-5011-4126-8b07-0b0f90a949c7
+  full_name: Craig Brandt
+  office_title: State Senator
+  chamber: senate
+  district: "40"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SBRAN.jpg
+  phone: ""
+  email: craig.brandt@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/craigbrandtnm/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Craig_Brandt
+  - https://en.wikipedia.org/wiki/Craig_Brandt
+  - https://justfacts.votesmart.org/candidate/biography/139123/craig-brandt
+  - https://www.linkedin.com/in/craigbrandtnm
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SBRAN
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-parajn-cristina
+  openstates_id: ocd-person/8819e763-061e-4f30-9828-af635428b41a
+  full_name: Cristina Parajón
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HPARA.jpg
+  phone: ""
+  email: cristina.parajon@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HPARA
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cristina_Paraj%C3%B3n
+  - https://en.wikipedia.org/wiki/Cristina_Paraj%C3%B3n
+  - https://www.linkedin.com/in/cristina-paraj%C3%B3n-8a2ab1146
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HPARA
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-brantley-crystal
+  openstates_id: ocd-person/1ed6a003-54c1-4da3-b297-0cec8ddf4882
+  full_name: Crystal Brantley
+  office_title: State Senator
+  chamber: senate
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SDIAM.jpg
+  phone: ""
+  email: crystal.diamond@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SBRAC
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Crystal_Diamond_Brantley
+  - https://en.wikipedia.org/wiki/Crystal_Diamond
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SBRAC
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SDIAM
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-borrego-cynthia
+  openstates_id: ocd-person/2e2ecadf-7236-48c5-8145-e7fea6fcd393
+  full_name: Cynthia Borrego
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HBORR.jpg
+  phone: ""
+  email: cynthia.borrego@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HBORR
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cynthia_Borrego
+  - https://en.wikipedia.org/wiki/Cynthia_Borrego
+  - https://www.linkedin.com/in/cynthia-d-borrego-899bb732
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HBORR
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-johnson-wonda
+  openstates_id: ocd-person/69fcccf7-9cfb-4c8f-978a-c85fbd55922d
+  full_name: Wonda Johnson
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HJOHD.jpg
+  phone: ""
+  email: dwonda.johnson@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HJOHD
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/D._Wonda_Johnson
+  - https://en.wikipedia.org/wiki/Doreen_Wonda_Johnson
+  - https://www.linkedin.com/in/d-wanda-johnson-b4806211
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HJOHD
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-gallegos-david
+  openstates_id: ocd-person/9d5296b7-b8b1-40c8-a8ce-246f719b8ff0
+  full_name: David Gallegos
+  office_title: State Senator
+  chamber: senate
+  district: "41"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SGADM.jpg
+  phone: ""
+  email: david@ramirezandsonsinc.com
+  address: ""
+  official_website: https://www.linkedin.com/in/david-gallegos-02427756/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_M._Gallegos
+  - https://en.wikipedia.org/wiki/David_Gallegos
+  - https://justfacts.votesmart.org/candidate/biography/139056/david-gallegos
+  - https://www.linkedin.com/in/david-gallegos-02427756
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HGADV
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SGADM
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-hochmanvigil-day
+  openstates_id: ocd-person/124f1c82-12f1-45ab-b21e-67cc4a529d18
+  full_name: Day Hochman-Vigil
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HHOCH.jpg
+  phone: ""
+  email: dayan.hochman-vigil@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/day-hochman-vigil-3536a036/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dayan_Hochman-Vigil
+  - https://en.wikipedia.org/wiki/Dayan_Hochman-Vigil
+  - https://justfacts.votesmart.org/candidate/biography/180778/day-hochman-vigil
+  - https://www.linkedin.com/in/day-hochman-vigil-3536a036
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HHOCH
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-omalley-debbie
+  openstates_id: ocd-person/e347c564-d1f5-4fb8-a24d-47218fa754e7
+  full_name: Debbie O'Malley
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Democratic
+  status: active
+  photo_url: https://www.naco.org/sites/default/files/styles/349x333/public/PIC_OMalley%2C%20Debbie.webp
+  phone: ""
+  email: debbie.o'malley@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SOMAL
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Debbie_O%27Malley
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SOMAL
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-sariana-debbie
+  openstates_id: ocd-person/8cb27ec7-dc78-49b1-bc3f-18ad2beb76b6
+  full_name: Debbie Sariñana
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HSARI.jpg
+  phone: ""
+  email: debbie.sarinana@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/debra-sarinana-05a362141/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Debra_Marie_Sarinana
+  - https://en.wikipedia.org/wiki/Debra_M._Sari%C3%B1ana
+  - https://www.linkedin.com/in/debra-sarinana-05a362141
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HSARI
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-lente-derrick
+  openstates_id: ocd-person/0421351b-6a8c-4731-bf93-5029d6b4feab
+  full_name: Derrick Lente
+  office_title: State Representative
+  chamber: house
+  district: "65"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HLENT.jpg
+  phone: ""
+  email: derrick.lente@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HLENT
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Derrick_J._Lente
+  - https://en.wikipedia.org/wiki/Derrick_Lente
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HLENT
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-torresvelsquez-diane
+  openstates_id: ocd-person/c8e6de13-632b-4e09-8d1f-ff8ab2431acc
+  full_name: Diane Torres-Velásquez
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Democratic
+  status: active
+  photo_url: https://static.wixstatic.com/media/4db618_2eb9e70e0469459fa20a1b6a172d7f67~mv2.jpg/v1/fill/w_200,h_200,fp_0.47_0.36,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/image000000.jpg
+  phone: ""
+  email: diane.torres-velasquez@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HTOLE
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elizabeth_Torres-Velasquez
+  - https://www.linkedin.com/in/diane-torres-velasquez-48a3702b
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HTOLE
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-gallegos-doreen
+  openstates_id: ocd-person/6563f869-64f5-42fb-9707-263fee6f59dc
+  full_name: Doreen Gallegos
+  office_title: State Representative
+  chamber: house
+  district: "52"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HGADO.jpg
+  phone: ""
+  email: doreen.gallegos@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HGADO
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Doreen_Y._Gallegos
+  - https://en.wikipedia.org/wiki/Doreen_Gallegos
+  - https://justfacts.votesmart.org/candidate/biography/139044/doreen-gallegos
+  - https://www.linkedin.com/in/doreen-gallegos-a3423b43
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HGADO
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-cortez-elaine
+  openstates_id: ocd-person/810e1619-ebae-4139-be1e-778e252a09b0
+  full_name: Elaine Sena Cortez
+  office_title: State Representative
+  chamber: house
+  district: "62"
+  party: Republican
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/6101dbe38853cb26aaf1d169/482eeab7-b7c0-4dfc-bc83-1b4ecc0e66b4/945A8275-Edit.jpg
+  phone: ""
+  email: elaine.senacortez@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HSEEL
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elaine_Sena_Cortez
+  - https://www.linkedin.com/in/dr-elaine-sena-cortez-117b37211
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HSEEL
+  - https://www.senacortez.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-chvez-eleanor
+  openstates_id: ocd-person/19ad7971-bfe4-49e2-bc0f-c5416df1f241
+  full_name: Eleanor Chávez
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HCHAL.jpg
+  phone: ""
+  email: eleanor.chavez@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAL
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Eleanor_Chavez
+  - https://en.wikipedia.org/wiki/Eleanor_Chavez
+  - https://www.linkedin.com/in/eleanor-chavez-08378a12
+  - https://www.nmlegis.gov/members/Legislator?SponCode=HCHAL
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAL
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-stefanics-liz
+  openstates_id: ocd-person/1ed4e059-94c6-4404-b28e-0dc572112d03
+  full_name: Liz Stefanics
+  office_title: State Senator
+  chamber: senate
+  district: "39"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SSTEF.jpg
+  phone: ""
+  email: lstefanics@msn.com
+  address: ""
+  official_website: https://www.linkedin.com/in/liz-stefanics-140488151/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Liz_Stefanics
+  - https://en.wikipedia.org/wiki/Liz_Stefanics
+  - https://justfacts.votesmart.org/candidate/biography/11985/elizabeth-stefanics
+  - https://www.linkedin.com/in/liz-stefanics-0487b56
+  - https://www.linkedin.com/in/liz-stefanics-140488151
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEF
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-thomson-liz
+  openstates_id: ocd-person/13ad8eb1-a64f-4a08-8c68-a1488466128f
+  full_name: Liz Thomson
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HTHOE.jpg
+  phone: ""
+  email: liz.thomson@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HTHOE
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elizabeth_L._Thomson
+  - https://en.wikipedia.org/wiki/Elizabeth_Thomson_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/138977/elizabeth-thomson
+  - https://www.linkedin.com/in/liz-thomson-47a97a25
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HTHOE
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-romero-andrs
+  openstates_id: ocd-person/5cf6976d-e616-4579-a194-ec3c37260ebd
+  full_name: Andrés Romero
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HROMA.jpg
+  phone: ""
+  email: andres.romero@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HROMA
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/G._Andres_Romero
+  - https://en.wikipedia.org/wiki/G._Andr%C3%A9s_Romero
+  - https://justfacts.votesmart.org/candidate/biography/150987/andres-romero
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HROMA
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-ramos-gabriel
+  openstates_id: ocd-person/6677ca7f-f961-44f1-a241-d14280762f5d
+  full_name: Gabriel Ramos
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: http://www.nmlegis.gov/Images/Legislators/Senate/SRAMO.jpg
+  phone: ""
+  email: gabriel.ramos@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/gabriel-ramos-a5aa74109/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gabriel_Ramos
+  - https://en.wikipedia.org/wiki/Gabriel_Ramos_(politician)
+  - https://www.linkedin.com/in/gabriel-ramos-0a767457
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SRAMO
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-armstrong-gail
+  openstates_id: ocd-person/9564298b-dc55-4037-8205-5eca1c2063dc
+  full_name: Gail Armstrong
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HARMG.jpg
+  phone: ""
+  email: gail@gailfornewmexico.com
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HARMG
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gail_Armstrong
+  - https://en.wikipedia.org/wiki/Gail_Armstrong_(politician)
+  - https://www.linkedin.com/in/gail-armstrong-03029b63
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HARMG
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-muoz-george
+  openstates_id: ocd-person/b4c20aea-b56c-4a19-a89a-788c53d995d7
+  full_name: George Muñoz
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SMUNO.jpg
+  phone: ""
+  email: george.munoz@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SMUNO
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/George_Munoz
+  - https://en.wikipedia.org/wiki/George_Mu%C3%B1oz_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/103938/george-munoz
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SMUNO
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-vincent-harlan
+  openstates_id: ocd-person/e7e8e973-411b-45fd-8fd7-7e4ea7d9f1be
+  full_name: Harlan Vincent
+  office_title: State Representative
+  chamber: house
+  district: "56"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HVINC.jpg
+  phone: ""
+  email: harlan.vincent@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HVINC
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Harlan_Vincent
+  - https://en.wikipedia.org/wiki/Harlan_Vincent
+  - https://harlanvincentfornm.com/about.php
+  - https://www.linkedin.com/in/harlan-vincent-01357ba7
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HVINC
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-pope-harold
+  openstates_id: ocd-person/713e2881-4ecb-4d66-9bd3-6422c898df91
+  full_name: Harold Pope
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SPOPE.jpg
+  phone: ""
+  email: harold.popejr@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SPOPE
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Harold_Pope_Jr.
+  - https://en.wikipedia.org/wiki/Harold_Pope_Jr.
+  - https://www.linkedin.com/in/harold-pope-jr-53351321
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SPOPE
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-berghmans-heather
+  openstates_id: ocd-person/e5d44d75-76df-41fc-87ae-27bc4c943d50
+  full_name: Heather Berghmans
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/HeatherBerghmans24.jpg
+  phone: ""
+  email: heather.berghmans@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SBERG
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Heather_Berghmans
+  - https://en.wikipedia.org/wiki/Heather_Berghmans
+  - https://www.linkedin.com/in/hberghmans
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SBERG
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-chatfield-jack
+  openstates_id: ocd-person/c41b373a-7376-4084-b0de-3648cfce9b05
+  full_name: Jack Chatfield
+  office_title: State Representative
+  chamber: house
+  district: "67"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HCHAT.jpg
+  phone: ""
+  email: jack.chatfield@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAT
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jackey_Chatfield
+  - https://en.wikipedia.org/wiki/Jack_Chatfield
+  - https://justfacts.votesmart.org/candidate/biography/180816/jack-chatfield
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAT
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-townsend-jim
+  openstates_id: ocd-person/667a8a3c-dbe9-4aba-b768-e90be503df88
+  full_name: Jim Townsend
+  office_title: State Senator
+  chamber: senate
+  district: "34"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HTOWJ.jpg
+  phone: ""
+  email: townsend@pvtn.net
+  address: ""
+  official_website: https://www.linkedin.com/in/jim-townsend-5897b633/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_Townsend_(New_Mexico)
+  - https://en.wikipedia.org/wiki/James_G._Townsend
+  - https://justfacts.votesmart.org/candidate/biography/168398/jim-townsend
+  - https://www.linkedin.com/in/jim-townsend-5897b633
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HTOWJ
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=STOWJ
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-anyanonu-janelle
+  openstates_id: ocd-person/bc8985ad-c6e6-42cd-b2d5-30688e4616a1
+  full_name: Janelle Anyanonu
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HANYA.jpg
+  phone: ""
+  email: janelle.anyanonu@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HANYA
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Janelle_Anyanonu
+  - https://en.wikipedia.org/wiki/Janelle_Anyanonu
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HANYA
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-martnez-javier
+  openstates_id: ocd-person/221a42af-f54f-4e66-b648-9b0028165595
+  full_name: Javier Martínez
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HMARJ.jpg
+  phone: ""
+  email: javier.martinez@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HMARJ
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Javier_I._Martinez
+  - https://en.wikipedia.org/wiki/Javier_Mart%C3%ADnez_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/150977/javier-martinez
+  - https://www.linkedin.com/in/javier-mart%C3%ADnez-719283145
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HMARJ
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-block-jay
+  openstates_id: ocd-person/ee5fab91-b6eb-43be-bf26-300302eec5d1
+  full_name: Jay Block
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jay_Block.jpg
+  phone: ""
+  email: jay.block@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SBLOC
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jay_Block
+  - https://www.linkedin.com/in/jay-block-lt-col-usaf-retired-35159589
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SBLOC
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-steinborn-jeff
+  openstates_id: ocd-person/601202fc-f916-4be1-ae20-8c437293817e
+  full_name: Jeff Steinborn
+  office_title: State Senator
+  chamber: senate
+  district: "36"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SSTEI.jpg
+  phone: ""
+  email: jeff.steinborn@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/jeff-steinborn-57879346/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Steinborn
+  - https://en.wikipedia.org/wiki/Jeff_Steinborn
+  - https://www.linkedin.com/in/jeff-steinborn-57879346
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEI
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-jones-jenifer
+  openstates_id: ocd-person/6968fa09-cbf8-42a5-a5a6-132b0b663103
+  full_name: Jenifer Jones
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HJONJ.jpg
+  phone: ""
+  email: jenifer.jones@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HJONJ
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jenifer_Jones
+  - https://en.wikipedia.org/wiki/Jenifer_Jones
+  - https://www.linkedin.com/in/jenifer-m-jones-91278026b
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HJONJ
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-mason-jimmy
+  openstates_id: ocd-person/d92a32b1-e3ef-43d7-8e63-c24e59c52b3d
+  full_name: Jimmy Mason
+  office_title: State Representative
+  chamber: house
+  district: "66"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HMASO.jpg
+  phone: ""
+  email: jimmy.mason@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HMASO
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jimmy_Mason
+  - https://en.wikipedia.org/wiki/Jimmy_Mason_(politician)
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HMASO
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-ferrary-joanne
+  openstates_id: ocd-person/05309266-c7a0-455b-94f2-ebf1d436daff
+  full_name: Joanne Ferrary
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HFERJ.jpg
+  phone: ""
+  email: joanne.ferrary@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HFERJ
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joanne_J._Ferrary
+  - https://en.wikipedia.org/wiki/Joanne_Ferrary
+  - https://justfacts.votesmart.org/candidate/biography/139018/joanne-ferrary
+  - https://www.linkedin.com/in/joanne-ferrary-74a6b559
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HFERJ
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-block-john
+  openstates_id: ocd-person/fd2e3bdc-3ca7-495c-b853-8a4db020e4d0
+  full_name: John Block
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HBLOC.jpg
+  phone: ""
+  email: john.block@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HBLOC
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Block
+  - https://en.wikipedia.org/wiki/John_Block_(New_Mexico_politician)
+  - https://pinonpost.com/about
+  - https://www.linkedin.com/in/johnfornm
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HBLOC
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-henry-jon
+  openstates_id: ocd-person/3c29303f-1a07-4767-9172-b7f453918d77
+  full_name: Jon Henry
+  office_title: State Representative
+  chamber: house
+  district: "54"
+  party: Republican
+  status: active
+  photo_url: https://assets.civicengine.com/uploads/candidate/headshot/810348/810348.jpg
+  phone: ""
+  email: jonathan.henry@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HHENR
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jonathan_Henry
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HHENR
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-cervantes-joe
+  openstates_id: ocd-person/14f0186e-bf9b-46aa-aa00-1ccc8f58490b
+  full_name: Joe Cervantes
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SCERV.jpg
+  phone: ""
+  email: joseph.cervantes@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SCERV
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joseph_Cervantes
+  - https://en.wikipedia.org/wiki/Joe_Cervantes
+  - https://justfacts.votesmart.org/candidate/biography/55143/joe-cervantes
+  - https://www.linkedin.com/in/joseph-cervantes-82846821
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SCERV
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-hernandez-joseph
+  openstates_id: ocd-person/854e0c8a-0093-4282-8544-8d20bafde8f6
+  full_name: Joseph Hernandez
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Democratic
+  status: active
+  photo_url: https://progressivevotersguide.com/sites/default/files/styles/candidate/public/new%20mexico/2024/general/Joseph%20H.jpg?itok=DRcr52HE
+  phone: ""
+  email: joseph.hernandez@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HHEJO
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joseph_Hernandez
+  - https://www.linkedin.com/in/joseph-hernandez-877761117
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HHEJO
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-sanchez-joseph
+  openstates_id: ocd-person/0ed175a3-3c71-4b42-bf53-9435d0f93f52
+  full_name: Joseph Sanchez
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HSAJO.jpg
+  phone: ""
+  email: joseph.sanchez@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HSAJO
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joseph_Sanchez_(New_Mexico)
+  - https://en.wikipedia.org/wiki/Joseph_L._Sanchez
+  - https://www.linkedin.com/in/joseph-sanchez-p-e-ba981141
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HSAJO
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-sanchez-joshua
+  openstates_id: ocd-person/82528266-9d6a-4fb3-854e-be9ab6a549b7
+  full_name: Joshua Sanchez
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SSANJ.jpg
+  phone: ""
+  email: jas4nm@gmail.com
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SSANJ
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joshua_A._Sanchez
+  - https://en.wikipedia.org/wiki/Joshua_A._Sanchez
+  - https://justfacts.votesmart.org/candidate/191188/joshua-sanchez
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SSANJ
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-hernandez-josh
+  openstates_id: ocd-person/71b8feb5-0bbd-45bd-9b25-c6dc7642962b
+  full_name: Josh Hernandez
+  office_title: State Representative
+  chamber: house
+  district: "60"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HHERN.jpg
+  phone: ""
+  email: joshua.hernandez@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HHERN
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joshua_Hernandez_(New_Mexico)
+  - https://en.wikipedia.org/wiki/Joshua_Hernandez
+  - https://www.linkedin.com/in/dapengi
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HHERN
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-garratt-joy
+  openstates_id: ocd-person/930a9ffb-d292-49d5-8c43-c42bdab290ff
+  full_name: Joy Garratt
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HGARR.jpg
+  phone: ""
+  email: joy.garratt@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/joygarratt/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joy_I._Garratt
+  - https://en.wikipedia.org/wiki/Joy_Garratt
+  - https://justfacts.votesmart.org/candidate/biography/168124/joy-garratt
+  - https://www.linkedin.com/in/joygarratt
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HGARR
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-cates-kathleen
+  openstates_id: ocd-person/73fc9839-619a-4ad5-bbbd-dfaf7f308e09
+  full_name: Kathleen Cates
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HCATE.jpg
+  phone: ""
+  email: kathleen.cates@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HCATE
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kathleen_Cates
+  - https://en.wikipedia.org/wiki/Kathleen_Cates
+  - https://www.linkedin.com/in/kathleen-holmes-cates-b179831ab
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HCATE
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-duhigg-katy
+  openstates_id: ocd-person/cce76180-bf09-413a-9d9d-1cc8ae7cf2db
+  full_name: Katy Duhigg
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SDUHI.jpg
+  phone: ""
+  email: katy.duhigg@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SDUHI
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Katy_Duhigg
+  - https://en.wikipedia.org/wiki/Katy_Duhigg
+  - https://sutinfirm.com/lawyers/katy-m-duhigg
+  - https://www.linkedin.com/in/katyduhigg
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SDUHI
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-ortez-kristina
+  openstates_id: ocd-person/0dd8a8ff-99c5-4d1a-90fb-3b74398a4141
+  full_name: Kristina Ortez
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HORTE.jpg
+  phone: ""
+  email: kristina.ortez@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HORTE
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kristina_Ortez
+  - https://en.wikipedia.org/wiki/Kristina_Ortez
+  - https://www.linkedin.com/in/kristina-ortez-703b3b43
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HORTE
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-scott-larry
+  openstates_id: ocd-person/febbd8f4-a85e-476c-b96f-52f4f759f8c7
+  full_name: Larry Scott
+  office_title: State Senator
+  chamber: senate
+  district: "42"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HSCOT.jpg
+  phone: ""
+  email: larry.scott@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HSCOT
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Larry_Scott
+  - https://en.wikipedia.org/wiki/Larry_R._Scott
+  - https://justfacts.votesmart.org/candidate/biography/150991/larry-scott
+  - https://www.linkedin.com/in/larry-scott-9a94703b
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HSCOT
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SSCOL
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-jaramillo-leo
+  openstates_id: ocd-person/9b0d6912-d333-4ae7-b626-ce643099a43d
+  full_name: Leo Jaramillo
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SJARA.jpg
+  phone: ""
+  email: leo.jaramillo@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SJARA
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Leo_Jaramillo
+  - https://en.wikipedia.org/wiki/Leo_Jaramillo
+  - https://www.linkedin.com/in/leo-jaramillo-586963186
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SJARA
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-lpez-linda
+  openstates_id: ocd-person/ecc60fc8-8598-4650-8a55-6e91d24e991e
+  full_name: Linda López
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SLOPE.jpg
+  phone: ""
+  email: linda.lopez@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/linda-lopez-018b9111/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Linda_Lopez,_New_Mexico_Senator
+  - https://en.wikipedia.org/wiki/Linda_M._Lopez
+  - https://justfacts.votesmart.org/candidate/biography/10302/linda-lopez
+  - https://www.linkedin.com/in/linda-lopez-018b9111
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SLOPE
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-trujillo-linda
+  openstates_id: ocd-person/4cbcf352-3f7a-412d-afc6-568dc4b94400
+  full_name: Linda Trujillo
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: http://www.nmlegis.gov/Images/Legislators/House/HTRUL.jpg
+  phone: ""
+  email: linda.trujillo@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HTRUL
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Linda_Trujillo
+  - https://en.wikipedia.org/wiki/Linda_Trujillo
+  - https://justfacts.votesmart.org/candidate/biography/168393/linda-trujillo
+  - https://www.linkedin.com/in/linda-trujillo-606472240
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HTRUL
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=STRUL
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-serrato-linda
+  openstates_id: ocd-person/570bb94a-0500-44de-8983-ca259e0d4a60
+  full_name: Linda Serrato
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HSERR.jpg
+  phone: ""
+  email: linda.serrato@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HSERR
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Linda_Serrato
+  - https://en.wikipedia.org/wiki/Linda_Serrato
+  - https://www.linkedin.com/in/lindaserratoybarra
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HSERR
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-terrazas-luis
+  openstates_id: ocd-person/6f02eec7-0afe-4f15-ad56-653148da00c0
+  full_name: Luis Terrazas
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HTERR.jpg
+  phone: ""
+  email: luis.terrazas@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HTERR
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Luis_Terrazas
+  - https://en.wikipedia.org/wiki/Luis_Terrazas_(politician)
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HTERR
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-matthews-marian
+  openstates_id: ocd-person/c2fb0283-189c-4b0c-9d99-7b70d2f62c40
+  full_name: Marian Matthews
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HMATT.jpg
+  phone: ""
+  email: marian.matthews@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/marianmatthews/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marian_Matthews
+  - https://en.wikipedia.org/wiki/Marian_Matthews
+  - https://www.linkedin.com/in/marianmatthews
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HMATT
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-anaya-marianna
+  openstates_id: ocd-person/bc194113-8c8a-4cba-b1f4-25269c72a9fd
+  full_name: Marianna Anaya
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MariannaAnaya.jpg
+  phone: ""
+  email: marianna.anaya@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HANMA
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marianna_Anaya
+  - https://en.wikipedia.org/wiki/Marianna_Anaya
+  - https://www.linkedin.com/in/mariannaanaya
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HANMA
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-duncan-mark
+  openstates_id: ocd-person/aa8f331c-d541-4acd-b025-e218e01764e2
+  full_name: Mark Duncan
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HDUNC.jpg
+  phone: ""
+  email: mark.duncan@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HDUNC
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Duncan_(New_Mexico)
+  - https://en.wikipedia.org/wiki/Mark_Duncan_(politician)
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HDUNC
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-murphy-mark
+  openstates_id: ocd-person/406c0ab4-c372-42bc-ba14-77181dc7c418
+  full_name: Mark Murphy
+  office_title: State Representative
+  chamber: house
+  district: "59"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: mark.murphy@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HMURP
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Murphy_(New_Mexico)
+  - https://www.linkedin.com/in/mark-murphy-909b7135
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HMURP
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-garcia-martha
+  openstates_id: ocd-person/fb0443f9-b6d7-4b3b-a87e-0d8b143ed64b
+  full_name: Martha Garcia
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: martha.garcia@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/members/Legislator?SponCode=HGAMA
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Martha_Garcia_(New_Mexico)
+  - https://www.nmlegis.gov/members/Legislator?SponCode=HGAMA
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-hickey-martin
+  openstates_id: ocd-person/88fd357f-3fb1-4c2b-b49b-555231011c46
+  full_name: Martin Hickey
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SHICK.jpg
+  phone: ""
+  email: martin.hickey@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SHICK
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Martin_Hickey
+  - https://en.wikipedia.org/wiki/Martin_Hickey
+  - https://www.linkedin.com/in/martin-hickey-ab64894b
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SHICK
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-zamora-martin
+  openstates_id: ocd-person/dc968f82-503e-4246-9124-b880fd6ae3ae
+  full_name: Martin Zamora
+  office_title: State Representative
+  chamber: house
+  district: "63"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HZAMO.jpg
+  phone: ""
+  email: martin.zamora@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HZAMO
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Martin_Ruben_Zamora
+  - https://en.wikipedia.org/wiki/Martin_R._Zamora
+  - https://justfacts.votesmart.org/candidate/biography/180813/martin-zamora
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HZAMO
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-mcqueen-matthew
+  openstates_id: ocd-person/e3affc46-1790-48ba-ae36-5c00473d6c35
+  full_name: Matthew McQueen
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HMCQU.jpg
+  phone: ""
+  email: matthew.mcqueen@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/matthew-mcqueen-86a8322/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matthew_McQueen
+  - https://en.wikipedia.org/wiki/Matthew_McQueen_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/150981/matthew-mcqueen
+  - https://www.linkedin.com/in/matthew-mcqueen-86a8322
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HMCQU
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-dixon-meredith
+  openstates_id: ocd-person/ac49b3cf-9fb8-4fa1-af55-4b35a6570c87
+  full_name: Meredith Dixon
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HDIXO.jpg
+  phone: ""
+  email: meredith.dixon@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HDIXO
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Meredith_Dixon
+  - https://en.wikipedia.org/wiki/Meredith_Dixon
+  - https://www.linkedin.com/in/meredith-dixon-230b834
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HDIXO
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-cadena-micaela
+  openstates_id: ocd-person/5b9af862-0f9f-42b2-a694-f80055129d6c
+  full_name: Micaela Cadena
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HCADA.jpg
+  phone: ""
+  email: micaela.cadena@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/micaela-cadena-95541a183/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Micaela_Lara_Cadena
+  - https://en.wikipedia.org/wiki/Micaela_Lara_Cadena
+  - https://www.linkedin.com/in/micaela-lara-cadena-95541a183
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HCADA
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-padilla-michael
+  openstates_id: ocd-person/ce888eff-62f5-41c0-9114-651c43f77aba
+  full_name: Michael Padilla
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SPADI.jpg
+  phone: ""
+  email: michael.padilla@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/michaelpadilla1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Padilla_(New_Mexico)
+  - https://en.wikipedia.org/wiki/Michael_Padilla
+  - https://justfacts.votesmart.org/candidate/biography/103955/michael-padilla
+  - https://www.linkedin.com/in/michaelpadilla1
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SPADI
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-garca-miguel
+  openstates_id: ocd-person/3363aa83-2490-4631-b04b-9a52fdbad14b
+  full_name: Miguel García
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HGAMP.jpg
+  phone: ""
+  email: miguel.garcia@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HGAMP
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Miguel_Garcia_(New_Mexico)
+  - https://en.wikipedia.org/wiki/Miguel_Garcia_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/12346/miguel-garcia
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HGAMP
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-stewart-mimi
+  openstates_id: ocd-person/f1144347-0a16-43e4-97b9-01308a890631
+  full_name: Mimi Stewart
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SSTEW.jpg
+  phone: ""
+  email: mimi.stewart@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEW
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mimi_Stewart
+  - https://en.wikipedia.org/wiki/Mimi_Stewart
+  - https://justfacts.votesmart.org/candidate/biography/8357/mimi-stewart
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEW
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-figueroa-natalie
+  openstates_id: ocd-person/48969449-b004-4ca3-a72b-8508e95e0051
+  full_name: Natalie Figueroa
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HFIGU.jpg
+  phone: ""
+  email: natalie.figueroa@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/natalie-figueroa-150a0670/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Natalie_R._Figueroa
+  - https://en.wikipedia.org/wiki/Natalie_Figueroa_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/168298/natalie-figueroa
+  - https://www.linkedin.com/in/natalie-figueroa-150a0670
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HFIGU
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SFIGU
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-small-nathan
+  openstates_id: ocd-person/57440e55-06ad-4f1f-8aa5-3bdd31a805dd
+  full_name: Nathan Small
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HSMAL.jpg
+  phone: ""
+  email: nathan.small@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/nathan-small-20685816/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nathan_P._Small
+  - https://en.wikipedia.org/wiki/Nathan_Small
+  - https://www.linkedin.com/in/nathan-small-20685816
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HSMAL
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-chavez-nicole
+  openstates_id: ocd-person/f2ed2dd1-ba2d-48cd-8365-cbb149b459e9
+  full_name: Nicole Chavez
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/NicoleChavez.jpeg
+  phone: ""
+  email: nicole.chavez@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HCHNI
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nicole_Chavez
+  - https://www.linkedin.com/in/nicole-chavez-a490a8a
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HCHNI
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-tobiassen-nicole
+  openstates_id: ocd-person/daefbf8d-768f-4dab-8f4f-0a272e2cb697
+  full_name: Nicole Tobiassen
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Republican
+  status: active
+  photo_url: https://nicolefornm.com/wp-content/uploads/2023/06/Nicole-Tobiassen-Headshot-3-768x512.jpg
+  phone: ""
+  email: nicole.tobiassen@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=STOBI
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nicole_Tobiassen
+  - https://en.wikipedia.org/wiki/Nicole_Tobiassen
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=STOBI
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-herndon-pamelya
+  openstates_id: ocd-person/800d2a2e-1622-4ab2-b290-3c537b38bdf8
+  full_name: Pamelya Herndon
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HHEPA.jpg
+  phone: ""
+  email: pamelya.herndon@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HHEPA
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pamelya_Herndon
+  - https://en.wikipedia.org/wiki/Pamelya_Herndon
+  - https://www.linkedin.com/in/pamelya-herndon-4055929
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HHEPA
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-boone-pat
+  openstates_id: ocd-person/4093c9b8-d07a-4a12-b13b-abbd4130b1fe
+  full_name: Pat Boone
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://senatorpatboone.com/wp-content/uploads/2024/03/Pat-Boone-Photo-1.jpg
+  phone: ""
+  email: pat.boone@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SBOON
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patrick_Boone_IV
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SBOON
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-woods-pat
+  openstates_id: ocd-person/6a28626b-9919-4d77-9b62-44ad1d45215d
+  full_name: Pat Woods
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SWOOD.jpg
+  phone: ""
+  email: pat.woods@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/pat-woods-abb44b46/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pat_Woods
+  - https://en.wikipedia.org/wiki/Pat_Woods_(politician)
+  - https://www.linkedin.com/in/pat-woods-abb44b46
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SWOOD
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-lundstrom-patty
+  openstates_id: ocd-person/94eed261-74bb-4f8b-a0ab-62b2a7ff8e98
+  full_name: Patty Lundstrom
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HLUND.jpg
+  phone: ""
+  email: patricia.lundstrom@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/patty-lundstrom-a47ba450/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patricia_Lundstrom
+  - https://en.wikipedia.org/wiki/Patricia_Lundstrom
+  - https://www.linkedin.com/in/patty-lundstrom-a47ba450
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HLUND
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-caballero-pat
+  openstates_id: ocd-person/20dc90cf-7805-4609-8631-45db1973cd5c
+  full_name: Pat Roybal Caballero
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HROYB.jpg
+  phone: ""
+  email: pat.roybalcaballero@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/patricia-roybal-caballero-2007b135/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patricia_A._Roybal_Caballero
+  - https://en.wikipedia.org/wiki/Patricia_Roybal_Caballero
+  - https://www.linkedin.com/in/patricia-roybal-caballero-2007b135
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HROYB
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-abeyta-paulene
+  openstates_id: ocd-person/8cc272e5-bf6a-441e-9b0a-407ed6361afa
+  full_name: Paulene Abeyta
+  office_title: State Representative
+  chamber: house
+  district: "69"
+  party: Democratic
+  status: active
+  photo_url: https://womencount.org/wp-content/uploads/2024/03/Michelle-Paulene-Abeyta-300x300.jpeg
+  phone: ""
+  email: michelle.abeyta@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/members/Legislator?SponCode=HABMI
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michelle_Abeyta
+  - https://www.linkedin.com/in/michelle-paulene-abeyta-8265b8173
+  - https://www.nmlegis.gov/members/Legislator?SponCode=HABMI
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-campos-pete
+  openstates_id: ocd-person/e2f7dd70-36fc-4b65-8dfd-19fcc1d63e38
+  full_name: Pete Campos
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SCAMP.jpg
+  phone: ""
+  email: pete.campos@nmlegis.gov
+  address: ""
+  official_website: https://petecampos.com
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pete_Campos
+  - https://en.wikipedia.org/wiki/Pete_Campos
+  - https://justfacts.votesmart.org/candidate/biography/5789/pete-campos
+  - https://petecampos.com
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SCAMP
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-wirth-peter
+  openstates_id: ocd-person/7595b557-0c70-44e3-a26b-af533d1ca94d
+  full_name: Peter Wirth
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SWIRT.jpg
+  phone: ""
+  email: peter.wirth@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SWIRT
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Peter_Wirth
+  - https://en.wikipedia.org/wiki/Peter_Wirth_(politician)
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SWIRT
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-pettigrew-randy
+  openstates_id: ocd-person/a36bdc41-5666-4208-b8f0-8d9012d31f22
+  full_name: Randy Pettigrew
+  office_title: State Representative
+  chamber: house
+  district: "61"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HPETT.jpg
+  phone: ""
+  email: randall.pettigrew@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HPETT
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Randall_Pettigrew
+  - https://en.wikipedia.org/wiki/Randall_Pettigrew
+  - https://justfacts.votesmart.org/candidate/biography/191485/randall-pettigrew
+  - https://www.linkedin.com/in/randall-t-pettigrew-pe-27133336
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HPETT
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-lara-ray
+  openstates_id: ocd-person/e8d69d4c-dfd4-4e22-939a-cc356ba7ac05
+  full_name: Ray Lara
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HLARA.jpg
+  phone: ""
+  email: raymundo.lara@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HLARA
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Raymundo_Lara
+  - https://en.wikipedia.org/wiki/Raymundo_Lara
+  - https://www.linkedin.com/in/raymundo-lara-1217b989
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HLARA
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-dow-rebecca
+  openstates_id: ocd-person/2904a9a3-7e21-4c6f-b40a-e79288ca1b49
+  full_name: Rebecca Dow
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HDOWR.jpg
+  phone: ""
+  email: rebecca.dow@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/rebecca-dow-43670a15/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rebecca_L._Dow
+  - https://en.wikipedia.org/wiki/Rebecca_Dow
+  - https://justfacts.votesmart.org/candidate/biography/168388/rebecca-dow
+  - https://www.linkedin.com/in/rebecca-dow-43670a15
+  - https://www.nmlegis.gov/Members/Former_Legislator?SponCode=HDOWR
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HDOWR
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-szczepanski-reena
+  openstates_id: ocd-person/0b7d9451-0462-4064-b28e-6d44123edd1e
+  full_name: Reena Szczepanski
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HSZCZ.jpg
+  phone: ""
+  email: reena.szczepanski@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HSCZE
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Reena_Szczepanski
+  - https://en.wikipedia.org/wiki/Reena_Szczepanski
+  - https://www.linkedin.com/in/reenaszcz
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HSCZE
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HSZCZ
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-wilson-rex
+  openstates_id: ocd-person/0884aac3-cddb-4374-88e1-94bf623410f3
+  full_name: Rex Wilson
+  office_title: State Senator
+  chamber: senate
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: rex.wilson@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SWIRE
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rex_Wilson
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SWIRE
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-gonzales-bobby
+  openstates_id: ocd-person/5e9a828c-3dfb-4f88-8dfe-f8fccf11ef78
+  full_name: Bobby Gonzales
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SGONZ.jpg
+  phone: ""
+  email: roberto.gonzales@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SGONZ
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Roberto_Gonzales
+  - https://en.wikipedia.org/wiki/Roberto_Gonzales
+  - https://justfacts.votesmart.org/candidate/biography/5837/roberto-gonzales
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SGONZ
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-montoya-rod
+  openstates_id: ocd-person/948ba2f7-fd71-42ed-a35a-e692b76d2ca2
+  full_name: Rod Montoya
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HMONR.jpg
+  phone: ""
+  email: roddmontoya@gmail.com
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HMONR
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rodney_Montoya
+  - https://en.wikipedia.org/wiki/Rod_Montoya
+  - https://justfacts.votesmart.org/candidate/biography/150983/rod-montoya
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HMONR
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-silva-sarah
+  openstates_id: ocd-person/a9377979-b109-4e11-b338-89b203c04527
+  full_name: Sarah Silva
+  office_title: State Representative
+  chamber: house
+  district: "53"
+  party: Democratic
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/66d0e643284c6d63d067a073/8916e12c-d13c-49fb-810a-2c7ffb58d300/SilvaSarah.JPG
+  phone: ""
+  email: sarah.silva@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HSISA
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sarah_Silva
+  - https://www.linkedin.com/in/sarah-silva-36369527
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HSISA
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-pinto-shannon
+  openstates_id: ocd-person/fa98430a-5031-4c64-bd6d-8a6f0cc4043e
+  full_name: Shannon Pinto
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SPINS.jpg
+  phone: ""
+  email: shannon.pinto@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SPINS
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shannon_Pinto
+  - https://en.wikipedia.org/wiki/Shannon_Pinto
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SPINS
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-lord-stefani
+  openstates_id: ocd-person/eef5df5d-b9da-4ac3-9a3e-7f6ba775e6d7
+  full_name: Stefani Lord
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HLORD.jpg
+  phone: ""
+  email: stefani.lord@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HLORD
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stefani_Lord
+  - https://en.wikipedia.org/wiki/Stefani_Lord
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HLORD
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-lanier-steve
+  openstates_id: ocd-person/82ac8832-cb59-4ea3-b6e7-a74e2115f37d
+  full_name: Steve Lanier
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://www.naco.org/sites/default/files/styles/349x333/public/Steve%20Lanier.webp
+  phone: ""
+  email: steve.lanier@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SLANI
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Lanier
+  - https://en.wikipedia.org/wiki/Steve_D._Lanier
+  - https://justfacts.votesmart.org/candidate/biography/215387/steve-lanier
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SLANI
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-herrera-susan
+  openstates_id: ocd-person/d5d0e9d9-bd6f-4f28-9a3f-13a56cadcc0f
+  full_name: Susan Herrera
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HHERS.jpg
+  phone: ""
+  email: susan.herrera@nmlegis.gov
+  address: ""
+  official_website: https://www.linkedin.com/in/susan-herrera-62757815/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Susan_Herrera
+  - https://en.wikipedia.org/wiki/Susan_K._Herrera
+  - https://www.linkedin.com/in/susan-herrera-62757815
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HHERS
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-moya-tanya
+  openstates_id: ocd-person/f2394325-2797-4403-8f77-7f4dd3db0bb9
+  full_name: Tanya Moya
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HMIRA.jpg
+  phone: ""
+  email: tanya.mirabalmoya@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HMIRA
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tanya_Mirabal_Moya
+  - https://en.wikipedia.org/wiki/Tanya_Mirabal_Moya
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HMIRA
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-lujn-tara
+  openstates_id: ocd-person/a564eb5c-5c29-43ef-a40f-241efb70ef8d
+  full_name: Tara Luján
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HLUTA.jpg
+  phone: ""
+  email: tara.lujan@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HLUTA
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tara_Lujan
+  - https://en.wikipedia.org/wiki/Tara_Lujan
+  - https://www.linkedin.com/in/tara-lujan-142531258
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HLUTA
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-sharer-bill
+  openstates_id: ocd-person/7a7be318-78b1-49c6-bd98-f2b9b7476372
+  full_name: Bill Sharer
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SSHAR.jpg
+  phone: ""
+  email: bill@williamsharer.com
+  address: ""
+  official_website: https://www.linkedin.com/in/william-sharer-71248033/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Sharer
+  - https://en.wikipedia.org/wiki/William_Sharer
+  - https://justfacts.votesmart.org/candidate/biography/43442/bill-sharer
+  - https://www.linkedin.com/in/william-sharer-71248033
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SSHAR
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-sen-soules-bill
+  openstates_id: ocd-person/33aa9a6b-b106-4216-8ea5-82d85cd2250a
+  full_name: Bill Soules
+  office_title: State Senator
+  chamber: senate
+  district: "37"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/Senate/SSOUL.jpg
+  phone: ""
+  email: bill.soules@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=SSOUL
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_P._Soules
+  - https://en.wikipedia.org/wiki/William_Soules
+  - https://justfacts.votesmart.org/candidate/biography/139118/bill-soules
+  - https://www.linkedin.com/in/bill-soules-76792b7a
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=SSOUL
+  - https://www.nmlegis.gov/Members/Legislator_List?T=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nm-hou-gurrola-yanira
+  openstates_id: ocd-person/bc947ac1-c584-4e5f-84a9-ea9f6ac959c6
+  full_name: Yanira Gurrola
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: https://www.nmlegis.gov/Images/Legislators/House/HGURR.jpg
+  phone: ""
+  email: yanira.gurrola@nmlegis.gov
+  address: ""
+  official_website: https://www.nmlegis.gov/Members/Legislator?SponCode=HGURR
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Yanira_Gurrola_Valenzuela
+  - https://en.wikipedia.org/wiki/Yanira_Gurrola
+  - https://www.linkedin.com/in/yanira-gurrola-valenzuela-80594bb5
+  - https://www.nmlegis.gov/members/Legislator?SponCode=HGURR
+  - https://www.nmlegis.gov/Members/Legislator?SponCode=HGURR
+  - https://www.nmlegis.gov/Members/Legislator_List?T=R
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

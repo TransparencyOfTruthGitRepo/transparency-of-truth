@@ -1,4 +1,3518 @@
 ﻿state: tennessee
 state_abbrev: TN
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: tn-sen-lowe-adam
+  openstates_id: ocd-person/b3bd4f95-946f-4b4b-b58f-ab78345847b7
+  full_name: Adam Lowe
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/599b12_afa74a3390064dd386df25e882ac9659~mv2.jpeg/v1/fill/w_675,h_716,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/599b12_afa74a3390064dd386df25e882ac9659~mv2.jpeg
+  phone: ""
+  email: sen.adam.lowe@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S1
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/J._Adam_Lowe
+  - https://en.wikipedia.org/wiki/J._Adam_Lowe
+  - https://justfacts.votesmart.org/candidate/133392/j-adam-lowe
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S1
+  - https://www.linkedin.com/in/jadamlowe
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-behn-aftyn
+  openstates_id: ocd-person/6dc4d8e8-aa2c-423b-8f5c-8ed4666a27db
+  full_name: Aftyn Behn
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Aftyn_Behn.png
+  phone: ""
+  email: rep.aftyn.behn@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H51
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Aftyn_Behn
+  - https://en.wikipedia.org/wiki/Aftyn_Behn
+  - https://justfacts.votesmart.org/candidate/biography/212285/aftyn-behn
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=h51
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H51
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-farmer-andrew
+  openstates_id: ocd-person/ad23d4a9-9a62-40a5-94a5-246f7741c3e2
+  full_name: Andrew Farmer
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h17.jpg
+  phone: ""
+  email: rep.andrew.farmer@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H17
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrew_Farmer
+  - https://en.wikipedia.org/wiki/Andrew_Farmer
+  - https://justfacts.votesmart.org/candidate/biography/138632/andrew-farmer
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H17
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h17.html
+  - https://www.linkedin.com/in/andrew-farmer-67621335
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-maberry-aron
+  openstates_id: ocd-person/0b5b90de-2d94-424f-ab28-b434696cb5a9
+  full_name: Aron Maberry
+  office_title: State Representative
+  chamber: house
+  district: "68"
+  party: Republican
+  status: active
+  photo_url: https://www.cmcss.net/wp-content/uploads/elementor/thumbs/L10A9877-2-scaled-qx0h1ahjmd2n4yug9v0d3onejmbo99kwtpl6ybvbxo.jpg
+  phone: ""
+  email: rep.aron.maberry@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H68
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Aron_Maberry
+  - https://en.wikipedia.org/wiki/Aron_Maberry
+  - https://justfacts.votesmart.org/candidate/biography/216641/aron-maberry
+  - https://votemaberry.com/about-aron-maberry
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H68
+  - https://www.linkedin.com/in/aronmaberry
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-massey-becky
+  openstates_id: ocd-person/592971a7-2e11-4bed-a57d-71187e174329
+  full_name: Becky Massey
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s6.jpg
+  phone: ""
+  email: sen.becky.massey@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S6
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Becky_Duncan_Massey
+  - https://en.wikipedia.org/wiki/Becky_Duncan_Massey
+  - https://justfacts.votesmart.org/candidate/biography/135260/becky-massey
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S6
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S6&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s6.html
+  - https://www.linkedin.com/in/becky-duncan-massey-14898aa
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-powers-bill
+  openstates_id: ocd-person/46b6a1b2-f0c0-4e9a-a506-a81e12e329f5
+  full_name: Bill Powers
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s22.jpg
+  phone: ""
+  email: sen.bill.powers@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S22
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Powers_(Tennessee)
+  - https://en.wikipedia.org/wiki/Bill_Powers_(American_politician)
+  - https://justfacts.votesmart.org/candidate/160448/bill-powers
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S22
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S22&ga=114
+  - https://www.billpowerstn.com
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s22.html
+  - https://www.linkedin.com/in/bill-powers-58a1a47
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-mitchell-bo
+  openstates_id: ocd-person/e0272220-99f1-4cfb-9d29-946b86279e0b
+  full_name: Bo Mitchell
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h50.jpg
+  phone: ""
+  email: rep.bo.mitchell@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H50
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bo_Mitchell
+  - https://en.wikipedia.org/wiki/Bo_Mitchell
+  - https://justfacts.votesmart.org/candidate/biography/80054/bo-mitchell
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H50
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h50.html
+  - https://www.linkedin.com/in/bo-mitchell-9318638
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-watson-bo
+  openstates_id: ocd-person/86d5ff12-369b-41a4-9626-237425063c1b
+  full_name: Bo Watson
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s11.jpg
+  phone: ""
+  email: sen.bo.watson@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S11
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bo_Watson
+  - https://en.wikipedia.org/wiki/Bo_Watson
+  - https://justfacts.votesmart.org/candidate/biography/48696/bo-watson
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S11
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S11
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s11.html
+  - https://www.linkedin.com/in/bo-watson-a649695
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-freeman-bob
+  openstates_id: ocd-person/c8a26be8-8de1-434b-864a-21697f8f15d4
+  full_name: Bob Freeman
+  office_title: State Representative
+  chamber: house
+  district: "56"
+  party: Democratic
+  status: active
+  photo_url: https://www.capitol.tn.gov/house/members/images/H56.jpg
+  phone: ""
+  email: rep.bob.freeman@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H56
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bob_Freeman_(Tennessee)
+  - https://en.wikipedia.org/wiki/Bob_Freeman_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/182470/bob-freeman
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H56
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h56.html
+  - https://www.linkedin.com/in/bob-freeman-b6b58839
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-harshbarger-bobby
+  openstates_id: ocd-person/841e5585-a49a-4754-95d4-682d974b4ff4
+  full_name: Bobby Harshbarger
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://tennesseelookout.com/wp-content/uploads/2024/09/Bobby-Harshbarger-975x1024.jpeg
+  phone: ""
+  email: sen.bobby.harshbarger@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S4
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bobby_Harshbarger
+  - https://en.wikipedia.org/wiki/Bobby_Harshbarger
+  - https://justfacts.votesmart.org/candidate/216367/bobby-harshbarger
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S4
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S4&ga=114
+  - https://www.linkedin.com/in/robert-harshbarger-iii-505529b6
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-taylor-brent
+  openstates_id: ocd-person/d3f48e28-4ee5-4027-9670-0d617ca6048e
+  full_name: Brent Taylor
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/BrentTaylor_TN.jpeg
+  phone: ""
+  email: sen.brent.taylor@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S31
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brent_Taylor_(Tennessee)
+  - https://en.wikipedia.org/wiki/Brent_Taylor_(Tennessee_politician)
+  - https://justfacts.votesmart.org/candidate/48828/brent-taylor
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S31
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S31
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-martin-brock
+  openstates_id: ocd-person/de8e2d6f-efd8-45f5-b261-5963db78b909
+  full_name: Brock Martin
+  office_title: State Representative
+  chamber: house
+  district: "79"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Brock-Martin.PNG
+  phone: ""
+  email: rep.brock.martin@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-brock-martin/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brock_Martin
+  - https://justfacts.votesmart.org/candidate/biography/206907/brock-martin
+  - https://tnhousegop.org/members/representative-brock-martin
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H79
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-terry-bryan
+  openstates_id: ocd-person/a9676141-e809-4554-9d0c-283916c36f63
+  full_name: Bryan Terry
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h48.jpg
+  phone: ""
+  email: rep.bryan.terry@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-bryan-terry/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bryan_Terry
+  - https://en.wikipedia.org/wiki/Bryan_Terry
+  - https://justfacts.votesmart.org/candidate/biography/153281/bryan-terry
+  - https://tnhousegop.org/members/representative-bryan-terry
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H48
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H48
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h48.html
+  - https://www.linkedin.com/in/bryan-terry-9b670813
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-hulsey-bud
+  openstates_id: ocd-person/1e3046c6-b44b-43dd-9cb2-937f40e97a6a
+  full_name: Bud Hulsey
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h2.jpg
+  phone: ""
+  email: rep.bud.hulsey@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H2
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bud_Hulsey
+  - https://en.wikipedia.org/wiki/Bud_Hulsey
+  - https://justfacts.votesmart.org/candidate/biography/153238/bud-hulsey
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H2
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h2.html
+  - https://www.linkedin.com/in/bud-hulsey-ba55a9ba
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-hemmer-caleb
+  openstates_id: ocd-person/625050ba-cb23-4c09-b62b-818e544d987d
+  full_name: Caleb Hemmer
+  office_title: State Representative
+  chamber: house
+  district: "59"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/hemmercaleb.jpg
+  phone: ""
+  email: rep.caleb.hemmer@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H59
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Caleb_Hemmer
+  - https://en.wikipedia.org/wiki/Caleb_Hemmer
+  - https://justfacts.votesmart.org/candidate/biography/206794/caleb-hemmer
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H59
+  - https://www.linkedin.com/in/calebhemmer
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-sexton-cameron
+  openstates_id: ocd-person/421c9380-99f4-47ff-9d70-5c5eced05a89
+  full_name: Cameron Sexton
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h25.jpg
+  phone: ""
+  email: speaker.cameron.sexton@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H25
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cameron_Sexton
+  - https://en.wikipedia.org/wiki/Cameron_Sexton
+  - https://justfacts.votesmart.org/candidate/biography/125418/cameron-sexton
+  - https://tnhousegop.org/members/speaker-cameron-sexton
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H25
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H25
+  - https://www.cameronsexton.com
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h25.html
+  - https://www.linkedin.com/in/cameron-sexton-140214154
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-oliver-charlane
+  openstates_id: ocd-person/0ce3dbf9-c880-480b-a623-7d9da870bb01
+  full_name: Charlane Oliver
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/CharlaneOliver.png
+  phone: ""
+  email: sen.charlane.oliver@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S19
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Charlane_Oliver
+  - https://en.wikipedia.org/wiki/Charlane_Oliver
+  - https://justfacts.votesmart.org/candidate/206796/charlane-oliver
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S19
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S19&ga=114
+  - https://www.linkedin.com/in/charlaneoliver
+  - https://www.oliverfortnsenate.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-baum-charlie
+  openstates_id: ocd-person/7c874269-afdd-4d41-a9da-b0ddb903bb6f
+  full_name: Charlie Baum
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/H37.jpg
+  phone: ""
+  email: rep.charlie.baum@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-charlie-baum/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Charlie_Baum
+  - https://en.wikipedia.org/wiki/Charlie_Baum
+  - https://justfacts.votesmart.org/candidate/biography/182443/charlie-baum
+  - https://tnhousegop.org/members/representative-charlie-baum
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H37
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h37.html
+  - https://www.linkedin.com/in/charles-baum-a7039598
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-hurt-chris
+  openstates_id: ocd-person/35764262-91cb-4a03-a2ee-5c87a0f5026e
+  full_name: Chris Hurt
+  office_title: State Representative
+  chamber: house
+  district: "82"
+  party: Republican
+  status: active
+  photo_url: https://capitol.tn.gov/house/members/images/H82.jpg
+  phone: ""
+  email: rep.chris.hurt@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-chris-hurt/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Hurt
+  - https://ballotpedia.org/Chris_Hurt_(Tennessee)
+  - https://en.wikipedia.org/wiki/Chris_Hurt
+  - https://justfacts.votesmart.org/candidate/biography/182507/chris-hurt
+  - https://tnhousegop.org/members/representative-chris-hurt
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H82
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h82.html
+  - https://www.linkedin.com/in/chris-hurt-35205197
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-todd-chris
+  openstates_id: ocd-person/5854880e-f10d-4c24-9593-4ae567fec8d7
+  full_name: Chris Todd
+  office_title: State Representative
+  chamber: house
+  district: "73"
+  party: Republican
+  status: active
+  photo_url: https://www.capitol.tn.gov/house/members/images/H73.jpg
+  phone: ""
+  email: rep.chris.todd@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-chris-todd/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Todd_(Tennessee)
+  - https://en.wikipedia.org/wiki/Chris_Todd_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/182499/chris-todd
+  - https://tnhousegop.org/members/representative-chris-todd
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H73
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H73
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h73.html
+  - https://www.linkedin.com/in/christopherptodd
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-boyd-clark
+  openstates_id: ocd-person/7fa67dd6-999c-4116-a136-32633710f6b0
+  full_name: Clark Boyd
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h46.jpg
+  phone: ""
+  email: rep.clark.boyd@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H46
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Clark_Boyd
+  - https://justfacts.votesmart.org/candidate/biography/153222/clark-boyd
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H46
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h46.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-doggett-clay
+  openstates_id: ocd-person/bdfd00ac-13a8-4208-b687-e46e980d79de
+  full_name: Clay Doggett
+  office_title: State Representative
+  chamber: house
+  district: "70"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/H70.jpg
+  phone: ""
+  email: rep.clay.doggett@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-clay-doggett/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Clay_Doggett
+  - https://en.wikipedia.org/wiki/Clay_Doggett
+  - https://justfacts.votesmart.org/candidate/biography/182490/clay-doggett
+  - https://tnhousegop.org/members/representative-clay-doggett
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H70
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h70.html
+  - https://www.linkedin.com/in/clay-doggett-4378a592
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-howell-dan
+  openstates_id: ocd-person/311de632-eabb-46da-b547-5fbd73b97769
+  full_name: Dan Howell
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h22.jpg
+  phone: ""
+  email: rep.dan.howell@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H22
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dan_Howell
+  - https://en.wikipedia.org/wiki/Dan_Howell_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/153254/dan-howell
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H22
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h22.html
+  - https://www.linkedin.com/in/dan-howell-99aa6b126
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-wright-dave
+  openstates_id: ocd-person/4d4a531e-1122-4155-a4e3-9c7069aaebc7
+  full_name: Dave Wright
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/H19.jpg
+  phone: ""
+  email: rep.dave.wright@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-dave-wright/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dave_Wright_(Tennessee)
+  - https://en.wikipedia.org/wiki/Dave_Wright_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/108378/dave-wright
+  - https://tnhousegop.org/members/representative-dave-wright
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H19
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H19
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h19.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-hawk-david
+  openstates_id: ocd-person/646c2358-84c6-46bf-aca7-555283f31744
+  full_name: David Hawk
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h5.jpg
+  phone: ""
+  email: rep.david.hawk@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-david-hawk/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Hawk
+  - https://en.wikipedia.org/wiki/David_B._Hawk
+  - https://justfacts.votesmart.org/candidate/biography/49150/david-hawk
+  - https://tnhousegop.org/members/representative-david-hawk
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H5
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h5.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-white-dawn
+  openstates_id: ocd-person/80bf42b1-4942-4187-af19-94e830333ce2
+  full_name: Dawn White
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s13.jpg
+  phone: ""
+  email: sen.dawn.white@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S13
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dawn_White
+  - https://en.wikipedia.org/wiki/Dawn_White
+  - https://justfacts.votesmart.org/candidate/biography/138657/dawn-white
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S13
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S13
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s13.html
+  - https://www.linkedin.com/in/dawn-white-13219012
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-moody-debra
+  openstates_id: ocd-person/d07683be-bda8-4af9-be0b-9bf3c1e441e7
+  full_name: Debra Moody
+  office_title: State Representative
+  chamber: house
+  district: "81"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h81.jpg
+  phone: ""
+  email: rep.debra.moody@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H81
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Debra_Moody
+  - https://en.wikipedia.org/wiki/Debra_Moody
+  - https://justfacts.votesmart.org/candidate/biography/138810/debra-moody
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H81
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h81.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-powers-dennis
+  openstates_id: ocd-person/67643e56-9e53-437b-999d-987f8b0692c1
+  full_name: Dennis Powers
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h36.jpg
+  phone: ""
+  email: rep.dennis.powers@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H36
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dennis_Powers_(Tennessee)
+  - https://en.wikipedia.org/wiki/Dennis_Powers
+  - https://justfacts.votesmart.org/candidate/biography/12119/dennis-powers
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H36
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h36.html
+  - https://www.linkedin.com/in/dennis-powers-1349a32a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-butler-ed
+  openstates_id: ocd-person/a94ac42a-6b1e-4ecf-acd4-32c2e463e059
+  full_name: Ed Butler
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Republican
+  status: active
+  photo_url: http://edbutlerfortn.com/wp-content/uploads/2018/04/Ed-Butler.jpg
+  phone: ""
+  email: rep.ed.butler@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H41
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ed_Butler_(Tennessee)
+  - https://en.wikipedia.org/wiki/Ed_Butler_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/170244/ed-butler
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H41
+  - https://www.linkedin.com/in/ed-butler-1760ba307
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-jackson-ed
+  openstates_id: ocd-person/93024b02-926b-4414-8826-147b14739a2b
+  full_name: Ed Jackson
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: https://capitol.tn.gov/senate/members/images/S25.jpg
+  phone: ""
+  email: sen.ed.jackson@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S25
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ed_Jackson
+  - https://en.wikipedia.org/wiki/Ed_Jackson_(Tennessee_politician)
+  - https://justfacts.votesmart.org/candidate/biography/153232/ed-jackson
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S25
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S25&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s27.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-davis-elaine
+  openstates_id: ocd-person/4c4c679e-fb3d-4ad2-bdfe-f7c077f2d82a
+  full_name: Elaine Davis
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/62669899a296e67b1d34963d/13e0ac0c-9c86-423e-baa5-655fb75829bf/ElaineDavis2022-1.jpg
+  phone: ""
+  email: rep.elaine.davis@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-elaine-davis/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elaine_Davis
+  - https://en.wikipedia.org/wiki/Elaine_Davis_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/108373/elaine-davis
+  - https://tnhousegop.org/members/representative-elaine-davis
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H18
+  - https://www.linkedin.com/in/elaine-davis-21155314
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-heltonhaynes-esther
+  openstates_id: ocd-person/f0cdd239-6095-49bc-9d82-e8ebd7c10254
+  full_name: Esther Helton-Haynes
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://capitol.tn.gov/house/members/images/H30.jpg
+  phone: ""
+  email: rep.esther.helton@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-esther-helton-haynes/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Esther_Helton
+  - https://ballotpedia.org/Esther_Helton-Haynes
+  - https://en.wikipedia.org/wiki/Esther_Helton-Haynes
+  - https://justfacts.votesmart.org/candidate/biography/182434/esther-helton-haynes
+  - https://tnhousegop.org/members/representative-esther-helton-haynes
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H30
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h30.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-haile-ferrell
+  openstates_id: ocd-person/f539ae98-f5d7-4290-9835-f64a1ab0a8c7
+  full_name: Ferrell Haile
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s18.jpg
+  phone: ""
+  email: sen.ferrell.haile@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S18
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ferrell_Haile
+  - https://en.wikipedia.org/wiki/Ferrell_Haile
+  - https://justfacts.votesmart.org/candidate/biography/49009/ferrell-haile
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S18
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S18&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s18.html
+  - https://www.linkedin.com/in/ferrell-haile-068ba72b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-atchley-fred
+  openstates_id: ocd-person/a9c952eb-ff76-4d8c-9dbd-820b8909622e
+  full_name: Fred Atchley
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/2859e9_1cd01bea042640618e87046b22a3e1ef~mv2.png/v1/crop/x_578,y_0,w_2532,h_2534/fill/w_434,h_434,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2023%201204%20Atchley%20Thank%20You%20Cards.png
+  phone: ""
+  email: rep.fred.atchley@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H12&ga=114
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Fred_Atchley
+  - https://en.wikipedia.org/wiki/Fred_Atchley
+  - https://justfacts.votesmart.org/candidate/biography/99759/fred-atchley
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H12&ga=114
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-hardaway-ga
+  openstates_id: ocd-person/740ad1ee-4445-41ef-b6b9-1d31185b4916
+  full_name: G.A. Hardaway
+  office_title: State Representative
+  chamber: house
+  district: "93"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h93.jpg
+  phone: ""
+  email: rep.ga.hardaway@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H93
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/G.A._Hardaway
+  - https://en.wikipedia.org/wiki/G._A._Hardaway
+  - https://justfacts.votesmart.org/candidate/biography/70007/g-a-hardaway-sr
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H93
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h93.html
+  - https://www.linkedin.com/in/g-a-hardaway-sr-2a209685
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-salinas-gabby
+  openstates_id: ocd-person/15ba8ea2-6fd3-47e2-8a3c-98e87712b367
+  full_name: Gabby Salinas
+  office_title: State Representative
+  chamber: house
+  district: "96"
+  party: Democratic
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/587e30b61b10e3f62fc61ab4/242a6f6e-67d2-4fa8-8e51-c70a3b595274/IMG_1959.jpg
+  phone: ""
+  email: rep.gabby.salinas@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H96&ga=114
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gabby_Salinas
+  - https://en.wikipedia.org/wiki/Gabby_Salinas
+  - https://justfacts.votesmart.org/candidate/182387/gabby-salinas
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H96&ga=114
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H96&ga=114
+  - https://www.linkedin.com/in/gabriela-salinas-47a4422b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-hicks-gary
+  openstates_id: ocd-person/2c60cce4-42aa-44e7-85fe-ab30d8e38979
+  full_name: Gary Hicks
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h9.jpg
+  phone: ""
+  email: rep.gary.hicks@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-gary-hicks/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gary_Hicks_(Tennessee)
+  - https://en.wikipedia.org/wiki/Gary_Hicks_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/100745/gary-hicks-jr
+  - https://tnhousegop.org/members/representative-gary-hicks
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H9
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h9.html
+  - https://www.linkedin.com/in/gary-hicks-455a1a8
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-bulso-gino
+  openstates_id: ocd-person/7e3d4405-71b3-44f8-8e51-9d329ce10838
+  full_name: Gino Bulso
+  office_title: State Representative
+  chamber: house
+  district: "61"
+  party: Republican
+  status: active
+  photo_url: https://votegino.com/wp-content/uploads/2022/04/gino.png
+  phone: ""
+  email: rep.gino.bulso@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H61
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gino_Bulso
+  - https://bulso.com/gino-bulso
+  - https://bulso.com/the-firm/gino-bulso
+  - https://justfacts.votesmart.org/candidate/biography/182476/gino-bulso
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H61
+  - https://www.linkedin.com/in/betterwithbulso
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-johnson-gloria
+  openstates_id: ocd-person/4dbbf89b-69ab-459f-97ee-c53866e81296
+  full_name: Gloria Johnson
+  office_title: State Representative
+  chamber: house
+  district: "90"
+  party: Democratic
+  status: active
+  photo_url: https://capitol.tn.gov/house/members/images/H90.jpg
+  phone: ""
+  email: rep.gloria.johnson@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H90
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gloria_Johnson_(Tennessee)
+  - https://en.wikipedia.org/wiki/Gloria_Johnson_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/138629/gloria-johnson
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H90
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h13.html
+  - https://www.linkedin.com/in/gloria-johnson-8396437
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-martin-greg
+  openstates_id: ocd-person/3fb15ce3-c606-4e25-bc6f-1c374bb52cf6
+  full_name: Greg Martin
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Republican
+  status: active
+  photo_url: https://www.capitol.tn.gov/house/members/images/h26.jpg
+  phone: ""
+  email: rep.greg.martin@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H26
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Greg_Martin_(Tennessee)
+  - https://en.wikipedia.org/wiki/Greg_Martin_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/187538/greg-martin
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H26
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h26.html
+  - https://www.linkedin.com/in/greg-martin-ba517b89
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-vital-greg
+  openstates_id: ocd-person/1035ecfa-8b33-472b-8aa9-2c6286c7fb59
+  full_name: Greg Vital
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: https://www.capitol.tn.gov/house/members/images/h29.jpg
+  phone: ""
+  email: rep.greg.vital@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-greg-vital/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Greg_Vital
+  - https://en.wikipedia.org/wiki/Greg_Vital
+  - https://justfacts.votesmart.org/candidate/biography/138995/greg-vital
+  - https://tnhousegop.org/members/representative-greg-vital
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H29
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H29
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h29.html
+  - https://www.linkedin.com/in/greg-a-vital-46439628
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-love-harold
+  openstates_id: ocd-person/2b7b0735-2adf-4d15-8dab-e32cf871d1d9
+  full_name: Harold Love
+  office_title: State Representative
+  chamber: house
+  district: "58"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h58.jpg
+  phone: ""
+  email: rep.harold.love@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H58
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Harold_Love
+  - https://en.wikipedia.org/wiki/Harold_Love
+  - https://justfacts.votesmart.org/candidate/25301/harold-love-jr
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H58
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h58.html
+  - https://www.linkedin.com/in/harold-love-048b2210
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-campbell-heidi
+  openstates_id: ocd-person/b4356789-3561-4110-ad59-00c7cf36e0fd
+  full_name: Heidi Campbell
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://www.capitol.tn.gov/senate/members/images/S20.jpg
+  phone: ""
+  email: sen.heidi.campbell@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S20
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Heidi_Campbell
+  - https://en.wikipedia.org/wiki/Heidi_Campbell_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/193429/heidi-campbell
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S20
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S20&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s20.html
+  - https://www.linkedin.com/in/heidi-campbell-b249bb
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-rudder-iris
+  openstates_id: ocd-person/96432d4d-ecdf-4fa0-8a20-e8a5636fb7dd
+  full_name: Iris Rudder
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: https://data.openstates.org/images/small/ocd-person/96432d4d-ecdf-4fa0-8a20-e8a5636fb7dd
+  phone: ""
+  email: rep.iris.rudder@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-iris-rudder/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Iris_Rudder
+  - https://en.wikipedia.org/wiki/Iris_Rudder
+  - https://justfacts.votesmart.org/candidate/biography/163549/iris-rudder
+  - https://tnhousegop.org/members/representative-iris-rudder
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H39
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H39
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h39.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-johnson-jack
+  openstates_id: ocd-person/83e732c5-55af-4d56-b3ed-9ff358ed641e
+  full_name: Jack Johnson
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://bloximages.newyork1.vip.townnews.com/williamsonherald.com/content/tncms/assets/v3/editorial/b/5f/b5ffcba0-f751-11e8-8648-bf381c197480/5c05b9b74599d.image.jpg?resize=334%2C500
+  phone: ""
+  email: sen.jack.johnson@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S27
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jack_Johnson
+  - https://en.wikipedia.org/wiki/Jack_Johnson_(American_politician)
+  - https://justfacts.votesmart.org/candidate/biography/67802/jack-johnson
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S27
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S27&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s23.html
+  - https://www.linkedin.com/in/jack-johnson-97baaa143
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-mccalmon-jake
+  openstates_id: ocd-person/f954892c-82e4-48ff-ae0c-c7e10c251335
+  full_name: Jake McCalmon
+  office_title: State Representative
+  chamber: house
+  district: "63"
+  party: Republican
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/58f80179be65944c6f5eeb8a/94dc5fac-95f7-4b57-8c52-6bffa35d2a20/JakeMcCalmon-3.jpg
+  phone: ""
+  email: rep.jake.mccalmon@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-jake-mccalmon/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jake_McCalmon
+  - https://en.wikipedia.org/wiki/Jake_McCalmon
+  - https://justfacts.votesmart.org/candidate/biography/206887/jake-mccalmon
+  - https://tnhousegop.org/members/representative-jake-mccalmon
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H63
+  - https://www.linkedin.com/in/jake-mccalmon-5a43271b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-bowling-janice
+  openstates_id: ocd-person/f48dc5f3-1c31-4654-a6be-1b9d20ecb3b2
+  full_name: Janice Bowling
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s16.jpg
+  phone: ""
+  email: sen.janice.bowling@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S16
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Janice_Bowling
+  - https://en.wikipedia.org/wiki/Janice_Bowling
+  - https://justfacts.votesmart.org/candidate/biography/49078/janice-bowling
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S16
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S16&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s16.html
+  - https://www.linkedin.com/in/janice-bowling-01b41134
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-powell-jason
+  openstates_id: ocd-person/7a2b1f85-6a85-41af-8b81-44d585e0041a
+  full_name: Jason Powell
+  office_title: State Representative
+  chamber: house
+  district: "53"
+  party: Democratic
+  status: active
+  photo_url: https://www.tennessean.com/gcdn/-mm-/6f03ca527b37558797b9ff3612df6f1ca4cc9386/c=0-42-1946-2637/local/-/media/Nashville/2015/02/11/B9316214695Z.1_20150211202701_000_GF79UD55G.1-0.jpg
+  phone: ""
+  email: rep.jason.powell@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H53
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jason_Powell
+  - https://en.wikipedia.org/wiki/Jason_Powell
+  - https://justfacts.votesmart.org/candidate/biography/65608/jason-powell
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H53
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h53.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-zachary-jason
+  openstates_id: ocd-person/984fd95f-0554-4b7b-aa3e-b72af6ae1aee
+  full_name: Jason Zachary
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h14.jpg
+  phone: ""
+  email: rep.jason.zachary@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-jason-zachary/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jason_Zachary
+  - https://en.wikipedia.org/wiki/Jason_Zachary
+  - https://justfacts.votesmart.org/candidate/biography/146213/jason-zachary
+  - https://tnhousegop.org/members/representative-jason-zachary
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H14
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H14
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h14.html
+  - https://www.linkedin.com/in/jason-zachary-79a39015
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-reedy-jay
+  openstates_id: ocd-person/380a255b-fef0-4cd9-9f33-3d5b5d163c68
+  full_name: Jay Reedy
+  office_title: State Representative
+  chamber: house
+  district: "74"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h74.jpg
+  phone: ""
+  email: rep.jay.reedy@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H74
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jay_Reedy
+  - https://en.wikipedia.org/wiki/Jay_Reedy
+  - https://justfacts.votesmart.org/candidate/biography/153314/jay-reedy
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H74
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h74.html
+  - https://www.linkedin.com/in/jay-reedy-b071b892
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-yarbro-jeff
+  openstates_id: ocd-person/eda112b7-c5bc-4d24-95b8-3651090e1da4
+  full_name: Jeff Yarbro
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s21.jpg
+  phone: ""
+  email: sen.jeff.yarbro@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S21
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Yarbro
+  - https://en.wikipedia.org/wiki/Jeff_Yarbro
+  - https://justfacts.votesmart.org/candidate/biography/125593/jeff-yarbro
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S21
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S21
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s21.html
+  - https://www.linkedin.com/in/jeff-yarbro-61a4122
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-faison-jeremy
+  openstates_id: ocd-person/c01a4deb-373d-48a9-b4a2-19125c6e1fe2
+  full_name: Jeremy Faison
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h11.jpg
+  phone: ""
+  email: rep.jeremy.faison@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-jeremy-faison/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeremy_Faison
+  - https://en.wikipedia.org/wiki/Jeremy_Faison
+  - https://justfacts.votesmart.org/candidate/biography/125397/jeremy-faison
+  - https://tnhousegop.org/members/representative-jeremy-faison
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H11
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h11.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-moon-jerome
+  openstates_id: ocd-person/27331b48-e198-4de9-ac44-e30509c8c26b
+  full_name: Jerome Moon
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h8.jpg
+  phone: ""
+  email: rep.jerome.moon@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H8
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jerome_Moon
+  - https://en.wikipedia.org/wiki/Jerome_Moon
+  - https://justfacts.votesmart.org/candidate/biography/133193/jerome-moon
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H8
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h8.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-chism-jesse
+  openstates_id: ocd-person/108691a2-9f24-41c5-b4c8-606c7cdf036b
+  full_name: Jesse Chism
+  office_title: State Representative
+  chamber: house
+  district: "85"
+  party: Democratic
+  status: active
+  photo_url: https://www.capitol.tn.gov/house/members/images/H85.jpg
+  phone: ""
+  email: rep.jesse.chism@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H85
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jesse_Chism
+  - https://en.wikipedia.org/wiki/Jesse_Chism
+  - https://justfacts.votesmart.org/candidate/biography/182512/jesse-chism
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H85
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h85.html
+  - https://www.linkedin.com/in/jesse-chism-ba730b44
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-seal-jessie
+  openstates_id: ocd-person/b37537b4-ac38-4d83-ba16-025fcb7f0dc6
+  full_name: Jessie Seal
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jason_Weakley_20241023_122227.jpg
+  phone: ""
+  email: sen.jessie.seal@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S8&ga=114
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jessie_Seal
+  - https://en.wikipedia.org/wiki/Jessie_Seal
+  - https://justfacts.votesmart.org/candidate/216372/jessie-seal
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S8&ga=114
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S8&ga=114
+  - https://www.linkedin.com/in/jessie-seal-833044ba
+  - https://www.linkedin.com/in/jessie-seal-95409b220
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-barrett-jody
+  openstates_id: ocd-person/2689e641-85b8-4753-bd0f-28e2cdfc1568
+  full_name: Jody Barrett
+  office_title: State Representative
+  chamber: house
+  district: "69"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jody-Barrett.PNG
+  phone: ""
+  email: rep.jody.barrett@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H69
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jody_Barrett
+  - https://justfacts.votesmart.org/candidate/biography/206893/jody-barrett
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H69
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-towns-joe
+  openstates_id: ocd-person/7a3177a1-118c-48ce-bbb8-17ebb1240e00
+  full_name: Joe Towns
+  office_title: State Representative
+  chamber: house
+  district: "84"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h84.jpg
+  phone: ""
+  email: rep.joe.towns@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H84
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_Towns_Jr.
+  - https://en.wikipedia.org/wiki/Joe_Towns
+  - https://justfacts.votesmart.org/candidate/biography/24457/joe-towns-jr
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H84
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H84
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h84.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-hensley-joey
+  openstates_id: ocd-person/fccb09fc-b331-4bba-8b84-fbd4ab3e3227
+  full_name: Joey Hensley
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s28.jpg
+  phone: ""
+  email: sen.joey.hensley@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S28
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joey_Hensley
+  - https://en.wikipedia.org/wiki/Joey_Hensley
+  - https://justfacts.votesmart.org/candidate/48811/joey-hensley
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S28
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S28&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s28.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-crawford-john
+  openstates_id: ocd-person/d1ead0ef-cc7a-48b3-9fec-0afc8b9d013d
+  full_name: John Crawford
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h1.jpg
+  phone: ""
+  email: rep.john.crawford@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-john-crawford/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Crawford_(Tennessee)
+  - https://en.wikipedia.org/wiki/John_Crawford_(Tennessee_politician)
+  - https://justfacts.votesmart.org/candidate/biography/66050/john-crawford
+  - https://tnhousegop.org/members/representative-john-crawford
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H1
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h1.html
+  - https://www.linkedin.com/in/john-crawford-83335547
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-gillespie-john
+  openstates_id: ocd-person/927edca0-8b67-40c6-b786-4cbfac5b344f
+  full_name: John Gillespie
+  office_title: State Representative
+  chamber: house
+  district: "97"
+  party: Republican
+  status: active
+  photo_url: https://www.capitol.tn.gov/house/members/images/h97.jpg
+  phone: ""
+  email: rep.john.gillespie@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-john-gillespie/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Gillespie
+  - https://en.wikipedia.org/wiki/John_Gillespie_(Tennessee_politician)
+  - https://justfacts.votesmart.org/candidate/biography/193527/john-gillespie
+  - https://tnhousegop.org/members/representative-john-gillespie
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H97
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h97.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-clemmons-john
+  openstates_id: ocd-person/87464fca-8690-4e1e-a7aa-499008a9c0b1
+  full_name: John Clemmons
+  office_title: State Representative
+  chamber: house
+  district: "55"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h55.jpg
+  phone: ""
+  email: rep.john.ray.clemmons@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H55
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Ray_Clemmons
+  - https://en.wikipedia.org/wiki/John_Ray_Clemmons
+  - https://justfacts.votesmart.org/candidate/biography/153298/john-clemmons
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H55
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h55.html
+  - https://www.linkedin.com/in/john-ray-clemmons-7247854
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-stevens-john
+  openstates_id: ocd-person/cb6c477c-ceb7-41af-ab96-b03debc1b7e3
+  full_name: John Stevens
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s24.jpg
+  phone: ""
+  email: sen.john.stevens@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S24
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Stevens_(Tennessee)
+  - https://en.wikipedia.org/wiki/John_Stevens_(Tennessee)
+  - https://justfacts.votesmart.org/candidate/biography/139031/john-stevens
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S24
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S24
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s24.html
+  - https://www.linkedin.com/in/john-stevens-1a334837
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-garrett-johnny
+  openstates_id: ocd-person/8aeb3cc6-b0ca-4af6-ae9d-06aca0c6ae14
+  full_name: Johnny Garrett
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Republican
+  status: active
+  photo_url: https://www.spencerfane.com/wp-content/uploads/2023/05/garrett-j-731x1024.jpg
+  phone: ""
+  email: rep.johnny.garrett@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H45
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Johnny_Garrett
+  - https://en.wikipedia.org/wiki/Johnny_Garrett_(politician)
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H45
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h45.html
+  - https://www.linkedin.com/in/johnnycgarrett
+  - https://www.spencerfane.com/professionals/johnny-garrett
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-shaw-johnny
+  openstates_id: ocd-person/36e97a50-c2e3-42a4-8f2d-97b4f176ddb1
+  full_name: Johnny Shaw
+  office_title: State Representative
+  chamber: house
+  district: "80"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h80.jpg
+  phone: ""
+  email: rep.johnny.shaw@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H80
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Johnny_Shaw
+  - https://en.wikipedia.org/wiki/Johnny_Shaw
+  - https://justfacts.votesmart.org/candidate/biography/48857/johnny-shaw
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H80
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H80
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h80.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-pearson-justin
+  openstates_id: ocd-person/df116f27-98bd-497d-a5bc-9f1d7ddff506
+  full_name: Justin Pearson
+  office_title: State Representative
+  chamber: house
+  district: "86"
+  party: Democratic
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/638e0e4731cb8444ce5a20e8/1d467f44-2f5f-42d0-96e9-8819eee165fb/Justin_21.jpg
+  phone: ""
+  email: rep.justin.j.pearson@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H86
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Justin_Pearson_(Tennessee)
+  - https://en.wikipedia.org/wiki/Justin_J._Pearson
+  - https://justfacts.votesmart.org/candidate/biography/211334/justin-pearson
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H86
+  - https://www.linkedin.com/in/justinjpearson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-jones-justin
+  openstates_id: ocd-person/7d04ddd1-fbe5-452e-a649-1ca3aac0e0a3
+  full_name: Justin Jones
+  office_title: State Representative
+  chamber: house
+  district: "52"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JustinJones_TN_HD52.jpg
+  phone: ""
+  email: rep.justin.jones@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H52
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Justin_Jones_(Tennessee_House_candidate)
+  - https://en.wikipedia.org/wiki/Justin_Jones_(Tennessee_politician)
+  - https://justfacts.votesmart.org/candidate/biography/139778/justin-jones
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H52
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-lafferty-justin
+  openstates_id: ocd-person/34114218-f0eb-4864-8f4a-156c4cc71cdb
+  full_name: Justin Lafferty
+  office_title: State Representative
+  chamber: house
+  district: "89"
+  party: Republican
+  status: active
+  photo_url: https://fluxconsole.com/files/image/131170
+  phone: ""
+  email: rep.justin.lafferty@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H89
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Justin_Lafferty
+  - https://en.wikipedia.org/wiki/Justin_Lafferty
+  - https://justfacts.votesmart.org/candidate/biography/182523/justin-lafferty
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H89
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h89.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-camper-karen
+  openstates_id: ocd-person/807f5a72-fe61-460c-86a3-c65a6b9eaca1
+  full_name: Karen Camper
+  office_title: State Representative
+  chamber: house
+  district: "87"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h87.jpg
+  phone: ""
+  email: rep.karen.camper@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H87
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Karen_Camper
+  - https://en.wikipedia.org/wiki/Karen_Camper
+  - https://justfacts.votesmart.org/candidate/biography/104685/karen-camper
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H87
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h87.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-keisling-kelly
+  openstates_id: ocd-person/51baddf9-a3d9-47c6-81e5-00b6608c6767
+  full_name: Kelly Keisling
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h38.jpg
+  phone: ""
+  email: rep.kelly.keisling@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-kelly-keisling/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kelly_Keisling
+  - https://en.wikipedia.org/wiki/Kelly_Keisling
+  - https://justfacts.votesmart.org/candidate/biography/125428/kelly-keisling
+  - https://tnhousegop.org/members/representative-kelly-keisling
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H38
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h38.html
+  - https://www.linkedin.com/in/rep-kelly-keisling-04734a39
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-yager-ken
+  openstates_id: ocd-person/908edc68-a862-455c-a609-7619977252d1
+  full_name: Ken Yager
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s12.jpg
+  phone: ""
+  email: sen.ken.yager@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S12
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ken_Yager
+  - https://en.wikipedia.org/wiki/Ken_Yager
+  - https://justfacts.votesmart.org/candidate/biography/104797/ken-yager
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S12
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S12
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s12.html
+  - https://www.kenyager.com
+  - https://www.linkedin.com/in/ken-yager-8972a948
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-roberts-kerry
+  openstates_id: ocd-person/872517bf-9780-44e2-9532-87dfd816ec4c
+  full_name: Kerry Roberts
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: https://fluxconsole.com/files/image/131100
+  phone: ""
+  email: sen.kerry.roberts@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S23
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kerry_Roberts
+  - https://en.wikipedia.org/wiki/Kerry_Roberts
+  - https://justfacts.votesmart.org/candidate/biography/124647/kerry-roberts
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S23
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S23
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s25.html
+  - https://www.linkedin.com/in/kerryeroberts
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-raper-kevin
+  openstates_id: ocd-person/96936d32-69d1-4956-a3e7-12833239e2bb
+  full_name: Kevin Raper
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kevin-Raper.PNG
+  phone: ""
+  email: rep.kevin.raper@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H24
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kevin_Raper
+  - https://en.wikipedia.org/wiki/Kevin_Raper
+  - https://justfacts.votesmart.org/candidate/biography/206826/kevin-raper
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H24
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-vaughan-kevin
+  openstates_id: ocd-person/6246e527-70a9-4591-bb46-6354c6e11107
+  full_name: Kevin Vaughan
+  office_title: State Representative
+  chamber: house
+  district: "95"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h95.jpg
+  phone: ""
+  email: rep.kevin.vaughan@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H95
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kevin_Vaughan
+  - https://en.wikipedia.org/wiki/Kevin_Vaughan
+  - https://justfacts.votesmart.org/candidate/biography/176201/kevin-vaughan
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H95
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H95
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h95.html
+  - https://www.linkedin.com/in/kevin-vaughan-58119757
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-capley-kip
+  openstates_id: ocd-person/1ea53db6-5fee-4603-9f8e-fd63694b45fa
+  full_name: Kip Capley
+  office_title: State Representative
+  chamber: house
+  district: "71"
+  party: Republican
+  status: active
+  photo_url: https://votecapley.com/wp-content/uploads/2022/01/capley2-4.png
+  phone: ""
+  email: rep.kip.capley@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-kip-capley/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kip_Capley
+  - https://en.wikipedia.org/wiki/Kip_Capley
+  - https://justfacts.votesmart.org/candidate/biography/206897/kip-capley
+  - https://tnhousegop.org/members/representative-kip-capley
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H71
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-haston-kirk
+  openstates_id: ocd-person/65b1d39e-414c-46c2-9aca-8cea5b6cba8b
+  full_name: Kirk Haston
+  office_title: State Representative
+  chamber: house
+  district: "72"
+  party: Republican
+  status: active
+  photo_url: https://capitol.tn.gov/house/members/images/H72.jpg
+  phone: ""
+  email: rep.kirk.haston@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H72
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kirk_Haston
+  - https://en.wikipedia.org/wiki/Kirk_Haston
+  - https://justfacts.votesmart.org/candidate/biography/182493/kirk-haston
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H72
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h72.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-miller-larry
+  openstates_id: ocd-person/3e7acb18-4b9e-45d5-9787-dbce0f1959d8
+  full_name: Larry Miller
+  office_title: State Representative
+  chamber: house
+  district: "88"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h88.jpg
+  phone: ""
+  email: rep.larry.miller@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H88
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Larry_Miller_(Tennessee_representative)
+  - https://en.wikipedia.org/wiki/Larry_Miller_(Tennessee_politician)
+  - https://justfacts.votesmart.org/candidate/biography/24460/larry-miller
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H88
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h88.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-reeves-lee
+  openstates_id: ocd-person/f7006293-9fb3-4053-bd79-d77f84c6e59a
+  full_name: Lee Reeves
+  office_title: State Representative
+  chamber: house
+  district: "65"
+  party: Republican
+  status: active
+  photo_url: https://bloximages.newyork1.vip.townnews.com/williamsonherald.com/content/tncms/assets/v3/editorial/7/43/743d158c-3f0e-11ef-855e-4b97c0d5f896/668f0f9e62e96.image.jpg?resize=394%2C500
+  phone: ""
+  email: rep.lee.reeves@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-lee-reeves/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lee_Reeves
+  - https://en.wikipedia.org/wiki/Lee_Reeves_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/216629/lee-reeves
+  - https://tnhousegop.org/members/representative-lee-reeves
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H65&ga=114
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H65&ga=114
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-lamar-london
+  openstates_id: ocd-person/44fda210-d5be-4785-ae5e-0072b4111a67
+  full_name: London Lamar
+  office_title: State Senator
+  chamber: senate
+  district: "33"
+  party: Democratic
+  status: active
+  photo_url: https://www.capitol.tn.gov/senate/members/images/s33.jpg
+  phone: ""
+  email: sen.london.lamar@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S33
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/London_Lamar
+  - https://en.wikipedia.org/wiki/London_Lamar
+  - https://justfacts.votesmart.org/candidate/182530/london-lamar
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S33
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S33&ga=114
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h91.html
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s33.html
+  - https://www.linkedin.com/in/london-lamar-b052b929
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-russell-lowell
+  openstates_id: ocd-person/df1bd786-8e1a-4c9d-bd7a-bf8250213dc3
+  full_name: Lowell Russell
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Republican
+  status: active
+  photo_url: https://www.capitol.tn.gov/house/members/images/H21.jpg
+  phone: ""
+  email: rep.lowell.russell@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H21
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lowell_Russell
+  - https://en.wikipedia.org/wiki/Lowell_Russell
+  - https://justfacts.votesmart.org/candidate/biography/182416/lowell-russell
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H21
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H21
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h21.html
+  - https://www.linkedin.com/in/lowell-russell-024393148
+  - https://www.linkedin.com/in/lowell-russell-649429151
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-cochran-mark
+  openstates_id: ocd-person/a8461189-9673-4d76-a01d-fa7dddc33a28
+  full_name: Mark Cochran
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: https://www.capitol.tn.gov/house/members/images/H23.jpg
+  phone: ""
+  email: rep.mark.cochran@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-mark-cochran/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Cochran
+  - https://en.wikipedia.org/wiki/Mark_Cochran
+  - https://justfacts.votesmart.org/candidate/biography/182418/mark-cochran
+  - https://tnhousegop.org/members/representative-mark-cochran
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H23
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h23.html
+  - https://www.linkedin.com/in/mark-cochran-10b614b1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-pody-mark
+  openstates_id: ocd-person/47dee87e-231d-4c39-b0a2-6905a85ddbf8
+  full_name: Mark Pody
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s17.jpg
+  phone: ""
+  email: sen.mark.pody@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S17
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Pody
+  - https://en.wikipedia.org/wiki/Mark_Pody
+  - https://justfacts.votesmart.org/candidate/biography/125439/mark-pody
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S17
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S17&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s17.html
+  - https://www.linkedin.com/in/markpody
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-white-mark
+  openstates_id: ocd-person/8765a8d9-17ac-4a88-90e3-ef1f7d1b4e61
+  full_name: Mark White
+  office_title: State Representative
+  chamber: house
+  district: "83"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h83.jpg
+  phone: ""
+  email: rep.mark.white@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H83
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_White_(Tennessee)
+  - https://en.wikipedia.org/wiki/Mark_White_(Tennessee_politician)
+  - https://justfacts.votesmart.org/candidate/biography/48823/mark-white
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H83
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H83
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h83.html
+  - https://www.linkedin.com/in/mark-white-80507041
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-littleton-mary
+  openstates_id: ocd-person/ec8815da-568a-436a-88ed-1e9da240fe80
+  full_name: Mary Littleton
+  office_title: State Representative
+  chamber: house
+  district: "78"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h78.jpg
+  phone: ""
+  email: rep.mary.littleton@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-mary-littleton/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mary_Littleton
+  - https://en.wikipedia.org/wiki/Mary_Littleton
+  - https://justfacts.votesmart.org/candidate/138796/mary-littleton
+  - https://tnhousegop.org/members/representative-mary-littleton
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H78
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H78
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h78.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-hale-michael
+  openstates_id: ocd-person/7bad87b9-12ec-4e74-a3ec-945bc78c5f5f
+  full_name: Michael Hale
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Michael_Hale_20230524_083209.jpeg
+  phone: ""
+  email: rep.michael.hale@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H40
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Hale_(Tennessee)
+  - https://en.wikipedia.org/wiki/Michael_Hale
+  - https://justfacts.votesmart.org/candidate/biography/206873/michael-hale
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H40
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-lankford-michael
+  openstates_id: ocd-person/4ac298c0-370f-4b1d-b41c-29d3ec4f6f09
+  full_name: Michael Lankford
+  office_title: State Representative
+  chamber: house
+  district: "75"
+  party: Republican
+  status: active
+  photo_url: https://montgomerytn.gov/storage/departments/commission/commissioner/Commissioners-Sept-2022/MichaelLankford.jpg
+  phone: ""
+  email: rep.michael.lankford@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H75
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Lankford
+  - https://en.wikipedia.org/wiki/Michael_Lankford
+  - https://justfacts.votesmart.org/candidate/223611/michael-lankford
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H75
+  - https://www.linkedin.com/in/michael-lankford
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-carringer-michele
+  openstates_id: ocd-person/6e3a4ce2-b37c-4bd0-8def-100aba672a50
+  full_name: Michele Carringer
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: http://nebula.wsimg.com/ec18d700041ee80017970cc4f5b0d8cb?AccessKeyId=C9D09D69010A6C1BCFA5&disposition=0&alloworigin=1
+  phone: ""
+  email: rep.michele.carringer@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-michele-carringer/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michele_Carringer
+  - https://en.wikipedia.org/wiki/Michele_Carringer
+  - https://justfacts.votesmart.org/candidate/113855/michele-carringer
+  - https://tnhousegop.org/members/representative-michele-carringer
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H16
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h16.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-reneau-michele
+  openstates_id: ocd-person/435383cc-dc4b-40cb-a55f-d554dcd9d6b7
+  full_name: Michele Reneau
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Rebecca_Day_20240808_092357.jpg
+  phone: ""
+  email: rep.michele.reneau@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-michele-reneau/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michele_Reneau
+  - https://en.wikipedia.org/wiki/Michele_Reneau
+  - https://tnhousegop.org/members/representative-michele-reneau
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H27&ga=114
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H27&ga=114
+  - https://www.linkedin.com/in/michelereneau
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-sparks-mike
+  openstates_id: ocd-person/092dd5d6-fb25-494c-ad16-78f0034df92f
+  full_name: Mike Sparks
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h49.jpg
+  phone: ""
+  email: rep.mike.sparks@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H49
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Sparks_(Tennessee)
+  - https://en.wikipedia.org/wiki/Mike_Sparks
+  - https://justfacts.votesmart.org/candidate/biography/99698/mike-sparks
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H49
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H49
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h49.html
+  - https://www.linkedin.com/in/mike-sparks-73783646
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-fritts-monty
+  openstates_id: ocd-person/eb738f26-e0b1-4c51-af77-024bfed96183
+  full_name: Monty Fritts
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/fd35b0_10146244fb184e609fc7bce8e27b2b82~mv2.png/v1/fill/w_252,h_358,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Monty%20Image%20cropped%20(1)_edited.png
+  phone: ""
+  email: rep.monty.fritts@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-monty-fritts/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Monty_Fritts
+  - https://en.wikipedia.org/wiki/Monty_Fritts
+  - https://tnhousegop.org/members/representative-monty-fritts
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H32
+  - https://www.linkedin.com/in/monty-fritts-595a4380
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-walley-page
+  openstates_id: ocd-person/88788ad3-d3e0-4846-9bd7-bc7b7f0b9759
+  full_name: Page Walley
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/S26.jpg
+  phone: ""
+  email: sen.page.walley@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S26
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Page_Walley
+  - https://justfacts.votesmart.org/candidate/biography/24455/page-walley
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S26
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S26&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s26.html
+  - https://www.linkedin.com/in/page-walley-8ab113b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-marsh-pat
+  openstates_id: ocd-person/2670b6b7-f648-454d-a70e-bd84792d304d
+  full_name: Pat Marsh
+  office_title: State Representative
+  chamber: house
+  district: "62"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h62.jpg
+  phone: ""
+  email: rep.pat.marsh@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-pat-marsh/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pat_Marsh
+  - https://en.wikipedia.org/wiki/Pat_Marsh
+  - https://justfacts.votesmart.org/candidate/biography/116508/pat-marsh
+  - https://tnhousegop.org/members/representative-pat-marsh
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H62
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h62.html
+  - https://www.linkedin.com/in/pat-marsh-90370b78
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-bailey-paul
+  openstates_id: ocd-person/8e49fca4-e0d8-4273-adab-265632163d86
+  full_name: Paul Bailey
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s15.jpg
+  phone: ""
+  email: sen.paul.bailey@capitol.tn.gov
+  address: ""
+  official_website: https://paulbaileyfortn.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Bailey_(Tennessee)
+  - https://en.wikipedia.org/wiki/Paul_Bailey_(politician)
+  - https://paulbaileyfortn.com
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S15
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S15&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s15.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-rose-paul
+  openstates_id: ocd-person/1793564f-19a5-4ac9-91c3-7cbb47843c2b
+  full_name: Paul Rose
+  office_title: State Senator
+  chamber: senate
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s32.jpg
+  phone: ""
+  email: sen.paul.rose@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S32
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Rose
+  - https://en.wikipedia.org/wiki/Paul_Rose_(American_politician)
+  - https://justfacts.votesmart.org/candidate/biography/185953/paul-rose
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S32
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S32
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s32.html
+  - https://www.linkedin.com/in/paul-rose-6a144816
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-sherrell-paul
+  openstates_id: ocd-person/3c4af105-7b55-4c00-af88-af574ea05493
+  full_name: Paul Sherrell
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h43.jpg
+  phone: ""
+  email: rep.paul.sherrell@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-paul-sherrell/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Sherrell
+  - https://en.wikipedia.org/wiki/Paul_Sherrell
+  - https://justfacts.votesmart.org/candidate/biography/170257/paul-sherrell
+  - https://tnhousegop.org/members/representative-paul-sherrell
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H43
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H43
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h43.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-mcnally-randy
+  openstates_id: ocd-person/e00c236d-6153-4618-96f8-12e6a1d639aa
+  full_name: Randy McNally
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s5.jpg
+  phone: ""
+  email: sen.randy.mcnally@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S5
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Randy_McNally
+  - https://en.wikipedia.org/wiki/Randy_McNally
+  - https://justfacts.votesmart.org/candidate/biography/24356/randy-mcnally
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S5
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S5&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s5.html
+  - https://www.linkedin.com/in/randy-mcnally-0505053a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-akbari-raumesh
+  openstates_id: ocd-person/9c949092-7bff-4859-bea7-46d9c37ed513
+  full_name: Raumesh Akbari
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s29.jpg
+  phone: ""
+  email: sen.raumesh.akbari@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S29
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Raumesh_Akbari
+  - https://en.wikipedia.org/wiki/Raumesh_Akbari
+  - https://justfacts.votesmart.org/candidate/biography/145407/raumesh-akbari
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S29
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S29&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s29.html
+  - https://www.linkedin.com/in/raumesh-akbari-b391b16
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-alexander-becky
+  openstates_id: ocd-person/5110ee0d-fc68-4126-8ff2-7db3814afe66
+  full_name: Becky Jo Alexander
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://www.capitol.tn.gov/house/members/images/h7.jpg
+  phone: ""
+  email: rep.rebecca.alexander@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H7
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rebecca_Alexander
+  - https://en.wikipedia.org/wiki/Rebecca_Alexander_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/193440/rebecca-alexander
+  - https://rebeccaalexander.com
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H7
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h7.html
+  - https://www.linkedin.com/in/rebecca-alexander-512751118
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-jones-renea
+  openstates_id: ocd-person/22be6e69-17be-43cf-aba3-bf06d4c7b54c
+  full_name: Renea Jones
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://reneajones.com/wp-content/uploads/2023/12/aboutimage.jpg
+  phone: ""
+  email: rep.renea.jones@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H4
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Renea_Jones
+  - https://en.wikipedia.org/wiki/Renea_Jones
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H4
+  - https://www.linkedin.com/in/renea-jones-09613647
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-parkinson-antonio
+  openstates_id: ocd-person/785aed65-3e87-42fe-8e71-307ce08f44ae
+  full_name: Antonio Parkinson
+  office_title: State Representative
+  chamber: house
+  district: "98"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Antonio_Parkinson.jpg
+  phone: ""
+  email: rep.antonio.parkinson@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H98
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Antonio_Parkinson
+  - https://en.wikipedia.org/wiki/Antonio_Parkinson
+  - https://justfacts.votesmart.org/candidate/128741/antonio-parkinson
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H98
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h98.html
+  - https://www.linkedin.com/in/antonio-parkinson-60102421
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-briggs-richard
+  openstates_id: ocd-person/9d744074-d7ae-4004-8912-bae320633c46
+  full_name: Richard Briggs
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s7.jpg
+  phone: ""
+  email: sen.richard.briggs@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S7
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Richard_Briggs_(Tennessee)
+  - https://en.wikipedia.org/wiki/Richard_Briggs
+  - https://justfacts.votesmart.org/candidate/biography/108375/richard-briggs
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S7
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S7&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s7.html
+  - https://www.linkedin.com/in/richard-briggs-40073146
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-eldridge-rick
+  openstates_id: ocd-person/c79fb980-4ee3-40ce-9737-62e369c61fe0
+  full_name: Rick Eldridge
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/H10.jpg
+  phone: ""
+  email: rep.rick.eldridge@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H10
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rick_Eldridge
+  - https://en.wikipedia.org/wiki/Rick_Eldridge
+  - https://justfacts.votesmart.org/candidate/biography/133773/rick-eldridge
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H10
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H10
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h10.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-scarbrough-rick
+  openstates_id: ocd-person/e38dc213-a42e-43ec-8924-236dc2d9ef35
+  full_name: Rick Scarbrough
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: https://tnhousegop.org/wp-content/uploads/2025/01/Scarbrough-scaled.jpg
+  phone: ""
+  email: rep.rick.scarbrough@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H33
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Richard_Scarbrough
+  - https://en.wikipedia.org/wiki/Rick_Scarbrough
+  - https://justfacts.votesmart.org/candidate/216555/rick-scarbrough
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H33
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H33
+  - https://www.linkedin.com/in/rick-scarbrough-aa812161
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-stevens-robert
+  openstates_id: ocd-person/c8be1020-e805-46a9-a8b0-79e206b57540
+  full_name: Robert Stevens
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://capitol.tn.gov/house/members/images/H13.jpg
+  phone: ""
+  email: rep.robert.stevens@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H13
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Stevens_(Tennessee)
+  - https://en.wikipedia.org/wiki/Robert_Stevens_(Tennessee_politician)
+  - https://justfacts.votesmart.org/candidate/biography/153284/robert-stevens
+  - https://stevenslawtn.com/attorney-profile
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H13
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H13
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-gant-ron
+  openstates_id: ocd-person/e7a2a416-0d33-4d78-8ee5-cf79628df4bd
+  full_name: Ron Gant
+  office_title: State Representative
+  chamber: house
+  district: "94"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h94.jpg
+  phone: ""
+  email: rep.ron.gant@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H94
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ron_Gant
+  - https://ballotpedia.org/Ron_M._Gant
+  - https://en.wikipedia.org/wiki/Ron_Gant_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/98086/ron-gant
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H94
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h94.html
+  - https://www.linkedin.com/in/ron-m-gant-94081b24
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-travis-ron
+  openstates_id: ocd-person/7429d345-6ad7-421c-936b-3ef9755c6d1f
+  full_name: Ron Travis
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h31.jpg
+  phone: ""
+  email: rep.ron.travis@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-ron-travis/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ron_Travis
+  - https://en.wikipedia.org/wiki/Ron_Travis
+  - https://justfacts.votesmart.org/candidate/138649/ron-travis
+  - https://tnhousegop.org/members/representative-ron-travis
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H31
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H31
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h31.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-glynn-ronnie
+  openstates_id: ocd-person/12e6200c-0859-4582-9f55-31dd55eb3b0e
+  full_name: Ronnie Glynn
+  office_title: State Representative
+  chamber: house
+  district: "67"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/1Aug232020602PM_80182230_BLUE-min.png
+  phone: ""
+  email: rep.ronnie.glynn@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H67
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ronnie_Glynn
+  - https://en.wikipedia.org/wiki/Ronnie_Glynn
+  - https://justfacts.votesmart.org/candidate/193431/ronnie-glynn
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H67
+  - https://www.linkedin.com/in/ronnieglynn
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-bricken-rush
+  openstates_id: ocd-person/271c14e0-433b-42ce-91c5-c01ad5ccfc41
+  full_name: Rush Bricken
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Republican
+  status: active
+  photo_url: https://data.openstates.org/images/small/ocd-person/271c14e0-433b-42ce-91c5-c01ad5ccfc41
+  phone: ""
+  email: rep.rush.bricken@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H47
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rush_Bricken
+  - https://en.wikipedia.org/wiki/Rush_Bricken
+  - https://justfacts.votesmart.org/candidate/biography/97314/rush-bricken
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H47
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h47.html
+  - https://www.linkedin.com/in/rush-bricken-a230694b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-crowe-rusty
+  openstates_id: ocd-person/b8b305e5-ff02-4f8d-8ef1-61a4a7ecf54a
+  full_name: Rusty Crowe
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s3.jpg
+  phone: ""
+  email: sen.rusty.crowe@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S3
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rusty_Crowe
+  - https://en.wikipedia.org/wiki/Rusty_Crowe
+  - https://justfacts.votesmart.org/candidate/biography/24342/rusty-crowe
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S3
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S3&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s3.html
+  - https://www.rustycrowetn.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-grills-rusty
+  openstates_id: ocd-person/d00c0511-6872-4f2a-9d48-cf8d2a60e199
+  full_name: Rusty Grills
+  office_title: State Representative
+  chamber: house
+  district: "77"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h77.jpg
+  phone: ""
+  email: rep.rusty.grills@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H77
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rusty_Grills
+  - https://en.wikipedia.org/wiki/Rusty_Grills
+  - https://justfacts.votesmart.org/candidate/biography/133675/rusty-grills
+  - https://tnhousegop.org/members/representative-rusty-grills
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H77
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h77.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-williams-ryan
+  openstates_id: ocd-person/df3f9935-b7e2-4f76-a461-115487c57721
+  full_name: Ryan Williams
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h42.jpg
+  phone: ""
+  email: rep.ryan.williams@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H42
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ryan_Williams_(Tennessee)
+  - https://en.wikipedia.org/wiki/Ryan_Williams_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/113713/ryan-williams
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H42
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H42
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h42.html
+  - https://www.linkedin.com/in/rep-ryan-williams-b32a346
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-kumar-doc
+  openstates_id: ocd-person/57b51b23-1a38-47dd-bd4f-49954df01971
+  full_name: Doc Kumar
+  office_title: State Representative
+  chamber: house
+  district: "66"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h66.jpg
+  phone: ""
+  email: rep.sabi.kumar@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H66
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sabi_Kumar
+  - https://en.wikipedia.org/wiki/Sabi_%22Doc%22_Kumar
+  - https://justfacts.votesmart.org/candidate/biography/153308/sabi-kumar
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H66
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h66.html
+  - https://www.linkedin.com/in/sabi-%E2%80%98doc%E2%80%99-kumar-md-547220188
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-mckenzie-sam
+  openstates_id: ocd-person/810d9aeb-b666-4acc-b098-deaf265df277
+  full_name: Sam McKenzie
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h15.jpg
+  phone: ""
+  email: rep.sam.mckenzie@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H15
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sam_McKenzie
+  - https://en.wikipedia.org/wiki/Sam_McKenzie
+  - https://justfacts.votesmart.org/candidate/biography/108369/samuel-mckenzie
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H15
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h15.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-kyle-sara
+  openstates_id: ocd-person/f1eb839c-83c6-471f-865e-1d87344fb58c
+  full_name: Sara Kyle
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s30.jpg
+  phone: ""
+  email: sen.sara.kyle@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S30
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sara_Kyle
+  - https://en.wikipedia.org/wiki/Sara_Kyle
+  - https://justfacts.votesmart.org/candidate/biography/155856/sara-kyle
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S30
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S30&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s30.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-cepicky-scott
+  openstates_id: ocd-person/da306a9e-f227-4cf4-bfd8-c7d6cb4c7eac
+  full_name: Scott Cepicky
+  office_title: State Representative
+  chamber: house
+  district: "64"
+  party: Republican
+  status: active
+  photo_url: https://capitol.tn.gov/house/members/images/H64.jpg
+  phone: ""
+  email: rep.scott.cepicky@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-scott-cepicky/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_Cepicky
+  - https://en.wikipedia.org/wiki/Scott_Cepicky
+  - https://justfacts.votesmart.org/candidate/biography/134051/scott-cepicky
+  - https://tnhousegop.org/members/representative-scott-cepicky
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H64
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h64.html
+  - https://www.linkedin.com/in/scott-cepicky-07708ba
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-reeves-shane
+  openstates_id: ocd-person/fa4bd8d0-c567-4434-a24a-6d0bf9759f0b
+  full_name: Shane Reeves
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/senate/members/images/s14.jpg
+  phone: ""
+  email: sen.shane.reeves@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S14
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shane_Reeves
+  - https://en.wikipedia.org/wiki/Shane_Reeves
+  - https://justfacts.votesmart.org/candidate/177642/shane-reeves
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S14
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S14
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s14.html
+  - https://www.linkedin.com/in/shanereeves68
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-brooks-shaundelle
+  openstates_id: ocd-person/93b13ac4-5a82-40fb-b646-2fe7c07f8ac1
+  full_name: Shaundelle Brooks
+  office_title: State Representative
+  chamber: house
+  district: "60"
+  party: Democratic
+  status: active
+  photo_url: https://images.bradyunited.org/production/images/Shaundelle-Brooks.jpeg?w=400&h=336&fm=webp&auto=compress&fit=crop&dm=1717513962&s=8dee64026b44a29de45f896285fc7b35
+  phone: ""
+  email: rep.shaundelle.brooks@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H60
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shaundelle_Brooks
+  - https://brooksforstatehouse.com/about-me
+  - https://en.wikipedia.org/wiki/Shaundelle_Brooks
+  - https://justfacts.votesmart.org/candidate/biography/216610/shaundelle-brooks
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H60
+  - https://www.linkedin.com/in/shaundelle-brooks-58a7ab36
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-southerland-steve
+  openstates_id: ocd-person/37dddeca-88ef-4254-b6f2-b2ddd6526665
+  full_name: Steve Southerland
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: https://capitol.tn.gov/senate/members/images/S9.jpg
+  phone: ""
+  email: sen.steve.southerland@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S9
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Southerland_(Tennessee)
+  - https://en.wikipedia.org/wiki/Steve_Southerland_(Tennessee_politician)
+  - https://justfacts.votesmart.org/candidate/48766/steve-southerland
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S9
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S9
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s1.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-lynn-susan
+  openstates_id: ocd-person/b593203d-3346-4a33-8a97-94cc9614d5c5
+  full_name: Susan Lynn
+  office_title: State Representative
+  chamber: house
+  district: "57"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h57.jpg
+  phone: ""
+  email: rep.susan.lynn@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-susan-lynn/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Susan_Lynn
+  - https://en.wikipedia.org/wiki/Susan_Lynn
+  - https://justfacts.votesmart.org/candidate/biography/48869/susan-lynn
+  - https://tnhousegop.org/members/representative-susan-lynn
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H57
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h57.html
+  - https://www.linkedin.com/in/susan-lynn-8723b6a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-darby-tandy
+  openstates_id: ocd-person/5cec9957-0b24-47d0-94b6-6f41e8f259bc
+  full_name: Tandy Darby
+  office_title: State Representative
+  chamber: house
+  district: "76"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h76.jpg
+  phone: ""
+  email: rep.tandy.darby@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-tandy-darby/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tandy_Darby
+  - https://en.wikipedia.org/wiki/Tandy_Darby
+  - https://justfacts.votesmart.org/candidate/biography/193487/tandy-darby
+  - https://tnhousegop.org/members/representative-tandy-darby
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H76
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h76.html
+  - https://www.linkedin.com/in/tandy-darby-70b382121
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-hicks-tim
+  openstates_id: ocd-person/d3ad0df9-8812-46b9-8fb3-6433036a1a9f
+  full_name: Tim Hicks
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h6.jpg
+  phone: ""
+  email: rep.tim.hicks@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-tim-hicks/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tim_Hicks_(Tennessee)
+  - https://en.wikipedia.org/wiki/Tim_Hicks_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/193437/tim-hicks
+  - https://tnhousegop.org/members/representative-tim-hicks
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H6
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h6.html
+  - https://www.linkedin.com/in/tim-hicks-b34b9463
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-rudd-tim
+  openstates_id: ocd-person/78c1a569-dcc0-446c-a995-f871964df056
+  full_name: Tim Rudd
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h34.jpg
+  phone: ""
+  email: rep.tim.rudd@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H34
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tim_Rudd
+  - https://en.wikipedia.org/wiki/Tim_Rudd
+  - https://justfacts.votesmart.org/candidate/170213/tim-rudd
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H34
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H34
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h34.html
+  - https://www.linkedin.com/in/tim-rudd-8aa55125
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-hill-timothy
+  openstates_id: ocd-person/206d00d3-65a9-4922-82d8-48f09a411863
+  full_name: Timothy Hill
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TimothyHill.jpg
+  phone: ""
+  email: rep.timothy.hill@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-timothy-hill/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Timothy_Hill
+  - https://en.wikipedia.org/wiki/Timothy_Hill_%28politician%29
+  - https://justfacts.votesmart.org/candidate/biography/125373/timothy-hill
+  - https://tnhousegop.org/members/representative-timothy-hill
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H3
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-gardenhire-todd
+  openstates_id: ocd-person/d5d2e89a-5467-4f69-a77d-70caaa351086
+  full_name: Todd Gardenhire
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: https://capitol.tn.gov/senate/members/images/S10.jpg
+  phone: ""
+  email: sen.todd.gardenhire@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S10
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Todd_Gardenhire
+  - https://justfacts.votesmart.org/candidate/biography/138996/todd-gardenhire
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S10
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S10&ga=114
+  - https://www.capitol.tn.gov/senate/members
+  - https://www.capitol.tn.gov/senate/members/
+  - https://www.capitol.tn.gov/senate/members/s10.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-warner-todd
+  openstates_id: ocd-person/a7947036-fe6d-4ace-8e6e-78445dc4e19f
+  full_name: Todd Warner
+  office_title: State Representative
+  chamber: house
+  district: "92"
+  party: Republican
+  status: active
+  photo_url: https://www.capitol.tn.gov/house/members/images/h92.jpg
+  phone: ""
+  email: rep.todd.warner@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-todd-warner/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Todd_Warner
+  - https://en.wikipedia.org/wiki/Todd_Warner
+  - https://justfacts.votesmart.org/candidate/biography/193526/todd-warner
+  - https://tnhousegop.org/members/representative-todd-warner
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H92
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H92
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h92.html
+  - https://www.linkedin.com/in/todd-warner-7831a975
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-sen-hatcher-tom
+  openstates_id: ocd-person/6567e0e2-9ecf-4129-b838-e3618b4cf786
+  full_name: Tom Hatcher
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/6570c60e478ebd26777cfd83/7e2e888c-6da6-4b8f-a79f-279c8e5cd2c2/365772199_7298985810116788_8248702436261909523_n.jpg
+  phone: ""
+  email: sen.tom.hatcher@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S2&ga=114
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Hatcher
+  - https://en.wikipedia.org/wiki/Tom_Hatcher_(politician)
+  - https://justfacts.votesmart.org/candidate/216363/tom-hatcher
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S2&ga=114
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S2&ga=114
+  - https://www.linkedin.com/in/tom-hatcher-599864b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-leatherwood-tom
+  openstates_id: ocd-person/37db89c5-6814-450a-8259-5e6d1a046e4f
+  full_name: Tom Leatherwood
+  office_title: State Representative
+  chamber: house
+  district: "99"
+  party: Republican
+  status: active
+  photo_url: https://d33byq9npfy6u9.cloudfront.net/4/tom-leatherwood/u/original/1333880/tomleatherwoodmug.jpg
+  phone: ""
+  email: rep.tom.leatherwood@capitol.tn.gov
+  address: ""
+  official_website: https://tnhousegop.org/members/representative-tom-leatherwood/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Leatherwood
+  - https://en.wikipedia.org/wiki/Tom_Leatherwood
+  - https://justfacts.votesmart.org/candidate/biography/24355/tom-leatherwood
+  - https://tnhousegop.org/members/representative-tom-leatherwood
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H99
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h99.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-stinnett-tommy
+  openstates_id: ocd-person/ed22e9c7-ddb2-4772-b664-04d4e31cce5b
+  full_name: Tommy Stinnett
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Tom_Stinnett_2025.jpg
+  phone: ""
+  email: rep.tom.stinnett@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H20
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Stinnett
+  - https://en.wikipedia.org/wiki/Tom_Stinnett
+  - https://justfacts.votesmart.org/candidate/162586/tom-stinnett
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H20
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H20
+  - https://www.linkedin.com/in/tommy-stinnett-9a4057113
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-harris-torrey
+  openstates_id: ocd-person/8036dedc-9be1-4935-9a37-df3f95033110
+  full_name: Torrey Harris
+  office_title: State Representative
+  chamber: house
+  district: "91"
+  party: Democratic
+  status: active
+  photo_url: https://capitol.tn.gov/house/members/images/H91.jpg
+  phone: ""
+  email: rep.torrey.harris@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H91
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Torrey_Harris
+  - https://en.wikipedia.org/wiki/Torrey_Harris
+  - https://justfacts.votesmart.org/candidate/182528/torrey-harris
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H91
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h90.html
+  - https://www.linkedin.com/in/torreyharris
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-dixie-vincent
+  openstates_id: ocd-person/ee804d8a-2f07-4271-83a7-0179f4c3445c
+  full_name: Vincent Dixie
+  office_title: State Representative
+  chamber: house
+  district: "54"
+  party: Democratic
+  status: active
+  photo_url: https://www.capitol.tn.gov/house/members/images/H54.jpg
+  phone: ""
+  email: rep.vincent.dixie@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H54
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Vincent_Dixie
+  - https://en.wikipedia.org/wiki/Vincent_Dixie
+  - https://justfacts.votesmart.org/candidate/biography/182467/vincent-dixie
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H54
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h54.html
+  - https://www.linkedin.com/in/vincent-dixie-29441612
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-lamberth-william
+  openstates_id: ocd-person/5026d19f-d4ec-47b2-b106-f318a45e8585
+  full_name: William Lamberth
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.tn.gov/house/members/images/h44.jpg
+  phone: ""
+  email: rep.william.lamberth@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H44
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Lamberth
+  - https://en.wikipedia.org/wiki/William_Lamberth
+  - https://justfacts.votesmart.org/candidate/138679/william-lamberth
+  - https://tnhousegop.org/members/leader-william-lamberth
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H44
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h44.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-slater-william
+  openstates_id: ocd-person/33aa517f-98cc-4c9a-8bae-5b41542555fa
+  full_name: William Slater
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: https://bloximages.newyork1.vip.townnews.com/gallatinnews.com/content/tncms/assets/v3/editorial/e/3b/e3b758f4-03a2-11ed-9c70-97c00c9ae5a8/62d0609f6cb1e.image.jpg
+  phone: ""
+  email: rep.william.slater@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H35
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Slater
+  - https://en.wikipedia.org/wiki/William_Slater_%28Tennessee_politician%29
+  - https://justfacts.votesmart.org/candidate/206839/william-slater
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H35
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H35
+  - https://www.linkedin.com/in/williamslaterjd
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: tn-hou-hakeem-yusuf
+  openstates_id: ocd-person/73d17744-fdda-495d-b5a8-c44342fc5b38
+  full_name: Yusuf Hakeem
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Democratic
+  status: active
+  photo_url: https://data.openstates.org/images/small/ocd-person/73d17744-fdda-495d-b5a8-c44342fc5b38
+  phone: ""
+  email: rep.yusuf.hakeem@capitol.tn.gov
+  address: ""
+  official_website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H28
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Yusuf_Hakeem
+  - https://en.wikipedia.org/wiki/Yusuf_Hakeem
+  - https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+  - https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H28
+  - https://www.capitol.tn.gov/house/members
+  - https://www.capitol.tn.gov/house/members/
+  - https://www.capitol.tn.gov/house/members/h28.html
+  - https://www.linkedin.com/in/yusuf-hakeem-541818107
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

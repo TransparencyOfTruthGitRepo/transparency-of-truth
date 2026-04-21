@@ -1,0 +1,22 @@
+---
+title: "Robert Stevens"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "tn-hou-stevens-robert"
+full_name: "Robert Stevens"
+state: "tennessee"
+state_abbrev: "TN"
+office_title: "State Representative"
+chamber: "house"
+district: "13"
+party: "Republican"
+status: "active"
+official_website: "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H13"
+email: "rep.robert.stevens@capitol.tn.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

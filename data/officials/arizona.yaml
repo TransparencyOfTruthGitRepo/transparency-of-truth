@@ -1,4 +1,2163 @@
 ﻿state: arizona
 state_abbrev: AZ
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: az-hou-marquez-aaron
+  openstates_id: ocd-person/c6a181c7-b58e-4c2a-aa2d-9ca31fc6548f
+  full_name: Aaron Marquez
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: https://cmsv2-assets.apptegy.net/uploads/23522/file/3233138/f4ffcd47-cd48-4c93-a121-db3084965d55.jpeg
+  phone: ""
+  email: amarquez@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2355
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Aaron_Marquez
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2355
+  - https://www.linkedin.com/in/aaronmarquez
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-kolodin-alex
+  openstates_id: ocd-person/102ffcb1-3028-401f-b74f-6f45db25e05e
+  full_name: Alex Kolodin
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Alexander_Kolodin.jpeg
+  phone: ""
+  email: akolodin@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2174
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alexander_Kolodin
+  - https://justfacts.votesmart.org/candidate/biography/192510/alexander-kolodin
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2174
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2318
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/alexander-kolodin-16535222
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-hernndez-alma
+  openstates_id: ocd-person/6dba6afa-b274-4273-b8c6-270d27214eee
+  full_name: Alma Hernández
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/HERNANDEZ_A.jpg
+  phone: ""
+  email: ahernandez@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&legislator=2033
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alma_Hernandez_(Arizona)
+  - https://en.wikipedia.org/wiki/Alma_Hernandez
+  - https://justfacts.votesmart.org/candidate/biography/184546/alma-hernandez
+  - https://www.azleg.gov/house-member/?legislature=55&legislator=2033
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2312
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/alma-hernandez-a64b47156
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-ortiz-analise
+  openstates_id: ocd-person/87e6206a-c16e-4038-a86f-0d5c88b993e3
+  full_name: Analise Ortiz
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/ORTIZ.jpg
+  phone: ""
+  email: analise.ortiz@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2178
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Analise_Ortiz
+  - https://en.wikipedia.org/wiki/Analise_Ortiz
+  - https://justfacts.votesmart.org/candidate/biography/205629/analise-ortiz
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2178
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2384
+  - https://www.linkedin.com/in/analise-ortiz
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-abeytia-anna
+  openstates_id: ocd-person/2e9c0206-d392-48a3-a599-7f6d226527b7
+  full_name: Anna Abeytia
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/57leg/House/ABEYTIA.jpg
+  phone: ""
+  email: aabeytia@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2366
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Anna_Abeytia
+  - https://en.wikipedia.org/wiki/Anna_Abeytia
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2366
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-villegas-betty
+  openstates_id: ocd-person/81d12f3a-b635-4111-be8d-a71d2f7565f2
+  full_name: Betty Villegas
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://upload.wikimedia.org/wikipedia/commons/3/36/Betty_Villegas_by_Gage_Skidmore.jpg
+  phone: ""
+  email: bvillegas@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2274
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Betty_Villegas
+  - https://en.wikipedia.org/wiki/Betty_Villegas
+  - https://justfacts.votesmart.org/candidate/biography/184515/betty-villegas
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2274
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2346
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/bettyvillegasaz
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-pingerelli-beverly
+  openstates_id: ocd-person/77be0e97-4c93-4332-a9f9-9348560fdf98
+  full_name: Beverly Pingerelli
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PINGERELLI.jpg
+  phone: ""
+  email: bpingerelli@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&legislator=2071
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Beverly_Pingerelli
+  - https://en.wikipedia.org/wiki/Beverly_Pingerelli
+  - https://justfacts.votesmart.org/candidate/192549/beverly-pingerelli
+  - https://www.azleg.gov/house-member/?legislature=55&legislator=2071
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2333
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/beverly-pingerelli-a20a3318
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-fernandez-brian
+  openstates_id: ocd-person/5425612b-fb2c-4857-8f75-31523345eb2b
+  full_name: Brian Fernandez
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/FERNANDEZ.jpg
+  phone: ""
+  email: bfernandez@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2101
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Fernandez
+  - https://en.wikipedia.org/wiki/Brian_Fernandez_(politician)
+  - https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2101
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2379
+  - https://www.linkedin.com/in/briansfernandez
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-garcia-brian
+  openstates_id: ocd-person/c13f449f-0423-4ad5-836b-69913aad6600
+  full_name: Brian Garcia
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Democratic
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/57leg/House/GARCIA.jpg
+  phone: ""
+  email: bgarcia@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2358
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Garcia
+  - https://justfacts.votesmart.org/candidate/biography/216876/brian-garcia
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2358
+  - https://www.legistorm.com/bo.php/core_person/edit/core_person_id/211707
+  - https://www.linkedin.com/in/briangarciaaz
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-werner-carine
+  openstates_id: ocd-person/051cb7cf-e965-49a7-844a-a8830447df0c
+  full_name: Carine Werner
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/164676.jpg
+  phone: ""
+  email: cwerner@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=57&legislator=2389
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Carine_Werner
+  - https://en.wikipedia.org/wiki/Carine_Werner
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2389
+  - https://www.linkedin.com/in/carinewerner
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-miranda-catherine
+  openstates_id: ocd-person/6241112b-910b-4ad8-9c0d-9caad318874f
+  full_name: Catherine Miranda
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/MIRANDA.jpg
+  phone: ""
+  email: cmiranda@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=56&legislator=2138
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Catherine_Miranda
+  - https://en.wikipedia.org/wiki/Catherine_Miranda
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=56&legislator=2138
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2392
+  - https://www.linkedin.com/in/catherine-miranda-635ba6116
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-aguilar-cesar
+  openstates_id: ocd-person/b1da595a-8c97-42f8-ae58-694c17efa3f3
+  full_name: Cesar Aguilar
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/57leg/House/AGUILAR.jpg
+  phone: ""
+  email: caguilar@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2146
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cesar_Aguilar_(Arizona)
+  - https://en.wikipedia.org/wiki/Cesar_Aguilar
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2146
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2293
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/cesar-aguilar-1904187a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-lopez-chris
+  openstates_id: ocd-person/9128a4e7-1464-483c-8642-0d878da05619
+  full_name: Chris Lopez
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/651b0dc83f033107360db6a8/3cdfad91-9aeb-434f-ae53-bb6febf9025d/LOPEZ+STATE+FAIR.2+VERTICAL.jpg
+  phone: ""
+  email: clopez@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2364
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Lopez_(Arizona)
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2364
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-mathis-chris
+  openstates_id: ocd-person/b2ed48a3-b9ae-42be-a2c8-22a47477acfd
+  full_name: Chris Mathis
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Democratic
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/57leg/House/MATHIS.jpg
+  phone: ""
+  email: cmathis@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2103
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Christopher_Mathis
+  - https://en.wikipedia.org/wiki/Christopher_Mathis
+  - https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2103
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2322
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/christopher-mathis-65347812
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-reim-cody
+  openstates_id: ocd-person/367990a3-3e02-455b-97b3-6b8dc34d9bbf
+  full_name: Cody Reim
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/57leg/House/REIM.jpg
+  phone: ""
+  email: creim@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2417
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cody_Reim
+  - https://en.wikipedia.org/wiki/Cody_Reim
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2417
+  - https://www.linkedin.com/in/cody-r-224540115
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-hernandez-consuelo
+  openstates_id: ocd-person/0a4e4b0a-a16e-475b-8aa1-75088657d8c1
+  full_name: Consuelo Hernandez
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/57leg/House/HERNANDEZ_C.jpg
+  phone: ""
+  email: chernandez@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2169
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Consuelo_Hernandez
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2169
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2313
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/consuelo-hernandez-7aa21a3b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-farnsworth-dave
+  openstates_id: ocd-person/263ebe9c-566a-4b5c-bfbc-ea1f1d0dc3f2
+  full_name: Dave Farnsworth
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/FARNSWORTH.jpg
+  phone: ""
+  email: dfarnsworth@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=56&legislator=2123
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Farnsworth
+  - https://en.wikipedia.org/wiki/Dave_Farnsworth
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=56&legislator=2123
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2378
+  - https://www.linkedin.com/in/david-farnsworth-748ba632
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-gowan-david
+  openstates_id: ocd-person/51520de4-0e87-475b-91d2-99aa18addf72
+  full_name: David Gowan
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/GOWAN.jpg
+  phone: ""
+  email: dgowan@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=55&legislator=1968
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Gowan
+  - https://en.wikipedia.org/wiki/David_Gowan_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/28241/david-gowan-sr
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=55&legislator=1968
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2382
+  - https://www.linkedin.com/in/david-gowan-912b2518
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-livingston-david
+  openstates_id: ocd-person/6e8f2c0d-c9d3-4cb5-ae59-5264cb6d61a7
+  full_name: David Livingston
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/LIVINGSTON.jpg
+  phone: ""
+  email: dlivingston@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&legislator=2175&session=128
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Livingston
+  - https://en.wikipedia.org/wiki/David_Livingston_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/141496/david-livingston
+  - https://www.azleg.gov/house-member/?legislature=56&legislator=2175&session=128
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2319
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.azleg.gov/MemberRoster/?body=S
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=55&legislator=1976
+  - https://www.linkedin.com/in/david-livingston-32179052
+  - https://www.linkedin.com/in/davidalivingston
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-marshall-david
+  openstates_id: ocd-person/8bc6f450-7fc4-4258-bf5a-86465e85b9fb
+  full_name: David Marshall
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/56leg/House/MARSHALL.jpg
+  phone: ""
+  email: dmarshall@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2179
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Marshall_(Arizona)
+  - https://en.wikipedia.org/wiki/David_Marshall_(Arizona_politician)
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2179
+  - https://www.azleg.gov/memberroster/?body=H
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-epstein-mitzi
+  openstates_id: ocd-person/f0175b18-52a0-407d-af38-c1fe118e209d
+  full_name: Mitzi Epstein
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/EPSTEIN.jpg
+  phone: ""
+  email: mepstein@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1881
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Denise_Epstein
+  - https://en.wikipedia.org/wiki/Denise_Epstein
+  - https://justfacts.votesmart.org/candidate/biography/153884/mitzi-epstein
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=56&legislator=2122
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2377
+  - https://www.linkedin.com/in/mitziepstein
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-lunanjera-elda
+  openstates_id: ocd-person/93db82ca-c8b1-43e4-98ce-ba52f4d0f635
+  full_name: Elda Luna-Nájera
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/EldaLunaNajera2024.JPG
+  phone: ""
+  email: eluna-najera@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2281
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elda_Luna-N%C3%A1jera
+  - https://en.wikipedia.org/wiki/Elda_Luna-N%C3%A1jera
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2281
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2349
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-diaz-eva
+  openstates_id: ocd-person/e1cd66fa-a0de-45fd-ae53-a4db7d178d21
+  full_name: Eva Diaz
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/DIAZ.jpg
+  phone: ""
+  email: eva.diaz@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=56&legislator=2121
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Eva_Diaz
+  - https://en.wikipedia.org/wiki/Eva_Diaz_(Arizona_politician)
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=56&legislator=2121
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2376
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-bravo-flavio
+  openstates_id: ocd-person/36cc8d88-e944-4889-b8ab-cf5610f3f03e
+  full_name: Flavio Bravo
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://chci.org/wp-content/uploads/2019/09/Bravo-Flavio.jpg
+  phone: ""
+  email: fbravo@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2150
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Flavio_Bravo
+  - https://en.wikipedia.org/wiki/Flavio_Bravo
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=56&legislator=2271
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2399
+  - https://www.linkedin.com/in/flaviogbravo
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-carroll-frank
+  openstates_id: ocd-person/faca0001-6681-450b-9577-6185f4f49a3d
+  full_name: Frank Carroll
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/CARROLL.jpg
+  phone: ""
+  email: fcarroll@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1906
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Frank_Carroll
+  - https://en.wikipedia.org/wiki/Frank_Carroll_(Arizona_politician)
+  - https://justfacts.votesmart.org/candidate/biography/184604/frank-carroll
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=56&legislator=2120
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2375
+  - https://www.linkedin.com/in/frank-carroll-b1b2a821
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-griffin-gail
+  openstates_id: ocd-person/1e39adcf-868d-4722-a07b-09fcd36ad9ed
+  full_name: Gail Griffin
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/GRIFFIN.jpg
+  phone: ""
+  email: ggriffin@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&legislator=2053
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gail_Griffin
+  - https://en.wikipedia.org/wiki/Gail_Griffin
+  - https://justfacts.votesmart.org/candidate/biography/12274/gail-griffin
+  - https://www.azleg.gov/house-member/?legislature=55&legislator=2053
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2309
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.legistorm.com/bo.php/core_person/edit/core_person_id/189190
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-angius-hildy
+  openstates_id: ocd-person/a739b3e9-8161-4b10-b007-3d1e90de791f
+  full_name: Hildy Angius
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/ANGIUS.jpg
+  phone: ""
+  email: hangius@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=57&legislator=2373
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Hildy_Angius
+  - https://en.wikipedia.org/wiki/Hildy_Angius
+  - https://justfacts.votesmart.org/candidate/biography/156980/hildy-angius
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2373
+  - https://www.linkedin.com/in/hildy-angius-0b9a7a1a1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-hoffman-jake
+  openstates_id: ocd-person/35f7056c-9f29-4b66-9ae0-f041fe6e7e05
+  full_name: Jake Hoffman
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/HOFFMAN.jpg
+  phone: ""
+  email: jake.hoffman@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2066
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jake_Hoffman_(Arizona)
+  - https://en.wikipedia.org/wiki/Jake_Hoffman_(Arizona_politician)
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=56&legislator=2130
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2385
+  - https://www.linkedin.com/in/jakemhoffman
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-taylor-james
+  openstates_id: ocd-person/70f55f83-fed8-497f-86a9-94b6d428b9b4
+  full_name: James Taylor
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: https://www.azcentral.com/gcdn/authoring/authoring-images/2024/05/29/PPHX/73887409007-james-taylor-gop-candidate-for-the-arizona-house-of-representatives-in-ld-29.jpg?width=300&height=359&fit=crop&format=pjpg&auto=webp
+  phone: ""
+  email: jtaylor@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2370
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_Taylor_(Arizona)
+  - https://en.wikipedia.org/wiki/James_Taylor_(Arizona_politician)
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2370
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-shamp-janae
+  openstates_id: ocd-person/c94f542a-52e0-4831-8479-02793a97ccd9
+  full_name: Janae Shamp
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/SHAMP.jpg
+  phone: ""
+  email: jshamp@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=56&legislator=2141
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Janae_Shamp
+  - https://en.wikipedia.org/wiki/Janae_Shamp
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=56&legislator=2141
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2395
+  - https://www.linkedin.com/in/janae-shamp-44b07a339
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-connolly-janeen
+  openstates_id: ocd-person/acfd8972-7a82-41f3-9fd7-0993cfa7365c
+  full_name: Janeen Connolly
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JaneenConnolly2024.jpg
+  phone: ""
+  email: jconnolly@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2357
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Janeen_Connolly
+  - https://en.wikipedia.org/wiki/Janeen_Connolly
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2357
+  - https://www.linkedin.com/in/janeen-connolly-formerly-rohovit-38963a213
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-mesnard-jd
+  openstates_id: ocd-person/06adeea1-c37c-4dd1-8be5-92e9b5d3556e
+  full_name: J.D. Mesnard
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/MESNARD.jpg
+  phone: ""
+  email: jmesnard@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=56&legislator=2137
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/J.D._Mesnard
+  - https://en.wikipedia.org/wiki/J._D._Mesnard
+  - https://www.azleg.gov/MemberRoster/?body=S
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=56&legislator=2137
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2391
+  - https://www.linkedin.com/in/javanmesnard
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-weninger-jeff
+  openstates_id: ocd-person/de8a5959-6572-44a9-bea5-ed73c27dd0ce
+  full_name: Jeff Weninger
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/WENINGER.jpg
+  phone: ""
+  email: jweninger@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2361
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Weninger
+  - https://en.wikipedia.org/wiki/Jeff_Weninger
+  - https://justfacts.votesmart.org/candidate/biography/71915/jeff-weninger
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2361
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/jeffweninger
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-gillette-john
+  openstates_id: ocd-person/fd68e4c2-0463-477c-81ea-e2e36273e12b
+  full_name: John Gillette
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/6/1b/61ba5bf8-e969-11e5-953b-3ba1ad504638/56e5e78dbc277.image.jpg
+  phone: ""
+  email: jgillette@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2161
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Gillette
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2161
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2306
+  - https://www.azleg.gov/memberroster/?body=H
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-kavanagh-john
+  openstates_id: ocd-person/b6144266-5383-491f-8c87-df8fd11805ea
+  full_name: John Kavanagh
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/KAVANAGH.jpg
+  phone: ""
+  email: jkavanagh@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&legislator=2056
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Kavanagh
+  - https://en.wikipedia.org/wiki/John_Kavanagh_(Arizona_politician)
+  - https://justfacts.votesmart.org/candidate/biography/68209/john-kavanagh
+  - https://www.azleg.gov/house-member/?legislature=55&legislator=2056
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2386
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-willoughby-julie
+  openstates_id: ocd-person/d19ab410-5bc3-4160-b279-765e25d959ab
+  full_name: Julie Willoughby
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/56leg/House/WILLOUGHBY.jpg
+  phone: ""
+  email: jwilloughby@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2270
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Julie_Willoughby
+  - https://en.wikipedia.org/wiki/Julie_Willoughby
+  - https://justfacts.votesmart.org/candidate/biography/184592/julie-willoughby
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2270
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2344
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/julie-willoughby-b3a6791a4
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-cavero-junelle
+  openstates_id: ocd-person/94895484-6eda-42d7-823b-a4eab17071e8
+  full_name: Junelle Cavero
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://static.wixstatic.com/media/d096d8_c9a25023041540c296a3b81e09b137e8~mv2.png/v1/crop/x_0,y_247,w_2800,h_2553/fill/w_327,h_298,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Junelle%20Cavero_KO.png
+  phone: ""
+  email: jcavero@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=128&legislator=2287
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Junelle_Cavero
+  - https://en.wikipedia.org/wiki/Junelle_Cavero
+  - https://justfacts.votesmart.org/candidate/biography/205549/junelle-cavero
+  - https://www.azleg.gov/house-member/?legislature=56&session=128&legislator=2287
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2351
+  - https://www.linkedin.com/in/junellecavero
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-olson-justin
+  openstates_id: ocd-person/448cb969-a498-4826-ad1e-c443fe9b8057
+  full_name: Justin Olson
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: http://www.azleg.gov/alisImages/MemberPhotos/51leg/House/OLSON.gif
+  phone: ""
+  email: jolson@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&legislator=2359
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Justin_Olson
+  - https://en.wikipedia.org/wiki/Justin_Olson
+  - https://www.azleg.gov/house-member/?legislature=57&legislator=2359
+  - https://www.linkedin.com/in/justin-olson-3938585a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-wilmeth-justin
+  openstates_id: ocd-person/2706e746-45b7-4586-8d06-8b80e99d3869
+  full_name: Justin Wilmeth
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/WILMETH.jpg
+  phone: ""
+  email: jwilmeth@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&legislator=2068
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Justin_Wilmeth
+  - https://en.wikipedia.org/wiki/Justin_Wilmeth
+  - https://www.azleg.gov/house-member/?legislature=55&legislator=2068
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2342
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/jcwilmeth
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-payne-kevin
+  openstates_id: ocd-person/4b336587-cb71-4a49-9cf8-514cdd2771ff
+  full_name: Kevin Payne
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PAYNE.jpg
+  phone: ""
+  email: kpayne@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&legislator=2023
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kevin_Payne
+  - https://en.wikipedia.org/wiki/Kevin_Payne_(politician)
+  - https://www.azleg.gov/house-member/?legislature=55&legislator=2023
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2387
+  - https://www.linkedin.com/in/kevin-payne-32a61895
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-volk-kevin
+  openstates_id: ocd-person/183af2d0-dd61-476d-873f-305ae591968f
+  full_name: Kevin Volk
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Alyssa_Perrini_20240808_093111.jpeg
+  phone: ""
+  email: kvolk@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2365
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kevin_Volk
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2365
+  - https://www.linkedin.com/in/kevinvolk
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-powell-khyl
+  openstates_id: ocd-person/bd3fb0ce-720a-4137-bd45-87fb6bcf8649
+  full_name: Khyl Powell
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Khyl_Powell_20240619_062043.jpg
+  phone: ""
+  email: kpowell@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2362
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Khyl_Powell
+  - https://en.wikipedia.org/wiki/Khyl_Powell
+  - https://justfacts.votesmart.org/candidate/216888/khyl-powell
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2362
+  - https://www.linkedin.com/in/khyl-powell-2bb84a11
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-sears-kiana
+  openstates_id: ocd-person/78fce9ac-3aa4-484f-b345-f55bbbf9db9b
+  full_name: Kiana Sears
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/SEARS.jpg
+  phone: ""
+  email: ksears@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=57&legislator=2415
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kiana_Sears
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2415
+  - https://www.linkedin.com/in/kiana-maria-sears
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-kuby-lauren
+  openstates_id: ocd-person/159091af-9aa8-4cb8-8c9c-9e20ba83c0ed
+  full_name: Lauren Kuby
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/LaurenKuby24.jpg
+  phone: ""
+  email: lkuby@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=57&legislator=2390
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lauren_Kuby
+  - https://en.wikipedia.org/wiki/Lauren_Kuby
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2390
+  - https://www.linkedin.com/in/laurenkuby
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-hendrix-laurin
+  openstates_id: ocd-person/45d0b998-57ed-4c6f-ae22-bdbc4262f3e3
+  full_name: Laurin Hendrix
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/57leg/House/HENDRIX.jpg
+  phone: ""
+  email: lhendrix@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2172
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Laurin_Hendrix
+  - https://en.wikipedia.org/wiki/Laurin_Hendrix
+  - https://justfacts.votesmart.org/candidate/106551/laurin-hendrix
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2172
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2316
+  - https://www.azleg.gov/MemberRoster.asp?Session_ID=89&body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/laurin-hendrix-8242166b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-alston-lela
+  openstates_id: ocd-person/030638cb-5fcd-4637-8c59-c129e28db988
+  full_name: Lela Alston
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/ALSTON.jpg
+  phone: ""
+  email: lalston@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=55&legislator=1978
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lela_Alston
+  - https://en.wikipedia.org/wiki/Lela_Alston
+  - https://justfacts.votesmart.org/candidate/biography/123722/lela-alston
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=55&legislator=1978
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2371
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-biasiucci-leo
+  openstates_id: ocd-person/433aab5d-35be-48cc-80a9-f468d5279022
+  full_name: Leo Biasiucci
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BIASIUCCI.jpg
+  phone: ""
+  email: lbiasiucci@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&legislator=2034
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Leo_Biasiucci
+  - https://en.wikipedia.org/wiki/Leo_Biasiucci
+  - https://justfacts.votesmart.org/candidate/biography/171694/leo-biasiucci
+  - https://www.azleg.gov/house-member/?legislature=55&legislator=2034
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2294
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/leo4azhouse
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-fink-lisa
+  openstates_id: ocd-person/981d0aee-d239-4acc-9da8-1332481e57ee
+  full_name: Lisa Fink
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://www.azvoterguide.com/wp-content/uploads/2024/06/Fink16-photo.jpg
+  phone: ""
+  email: lfink@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2369
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lisa_Fink
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2369
+  - https://www.linkedin.com/in/lisa-fink-11a05413
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-austin-lorena
+  openstates_id: ocd-person/90a36fec-df56-4f22-bf16-790866d5b227
+  full_name: Lorena Austin
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: https://thestoryexchange.org/app/uploads/2022/08/Lorena-Austin.jpg
+  phone: ""
+  email: laustin@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2206
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lorena_Austin
+  - https://en.wikipedia.org/wiki/Lorena_Austin
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2206
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2343
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/lorenaaustinaz
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-contreras-lupe
+  openstates_id: ocd-person/095a6754-d7ca-4f1f-b562-974d92e7eb3c
+  full_name: Lupe Contreras
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: https://npr.brightspotcdn.com/dims4/default/ccf2d8e/2147483647/strip/true/crop/189x266+0+0/resize/880x1239!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fknau%2Ffiles%2F202004%2Flupe_contreras.jpeg
+  phone: ""
+  email: lcontreras@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2156
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lupe_Contreras
+  - https://en.wikipedia.org/wiki/Lupe_Contreras
+  - https://justfacts.votesmart.org/candidate/biography/141487/lupe-contreras
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2156
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2301
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.azleg.gov/MemberRoster/?body=S
+  - https://www.azleg.gov/memberroster/?body=S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-diaz-lupe
+  openstates_id: ocd-person/bc52f516-a13b-4490-a12c-7b98fa3969e5
+  full_name: Lupe Diaz
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DIAZ.jpg
+  phone: ""
+  email: ldiaz@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2100
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lupe_Diaz
+  - https://en.wikipedia.org/wiki/Lupe_Diaz
+  - https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2100
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2304
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/lupediaz
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-hernandez-lydia
+  openstates_id: ocd-person/7a33e2bd-8394-45d9-967b-0c39430ff39b
+  full_name: Lydia Hernandez
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/57leg/House/HERNANDEZ_L.jpg
+  phone: ""
+  email: lhernandez@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2170
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lydia_Hernandez
+  - https://en.wikipedia.org/wiki/Lydia_Hernandez
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2170
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2314
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/lydia-hernandez-34619232
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-peshlakai-mae
+  openstates_id: ocd-person/bcc217f5-fe08-4213-b8a5-78d1e4d64184
+  full_name: Mae Peshlakai
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/56leg/House/PESHLAKAI.jpg
+  phone: ""
+  email: mpeshlakai@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2190
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mae_Peshlakai
+  - https://en.wikipedia.org/wiki/Mae_Peshlakai
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2190
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2332
+  - https://www.azleg.gov/memberroster/?body=H
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-sandoval-mariana
+  openstates_id: ocd-person/3b6fa6b2-0a60-4f2e-9fd8-0882b04d9e0b
+  full_name: Mariana Sandoval
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/56leg/House/SANDOVAL.jpg
+  phone: ""
+  email: msandoval@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2194
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mariana_Sandoval
+  - https://en.wikipedia.org/wiki/Mariana_Sandoval
+  - https://justfacts.votesmart.org/candidate/192539/mariana-sandoval
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2194
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2334
+  - https://www.azleg.gov/memberroster/?body=H
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-finchem-mark
+  openstates_id: ocd-person/77415ae8-cbbc-4f67-ac01-3f749d44ff08
+  full_name: Mark Finchem
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/FINCHEM.jpg
+  phone: ""
+  email: mfinchem@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1865
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Finchem
+  - https://en.wikipedia.org/wiki/Mark_Finchem
+  - https://justfacts.votesmart.org/candidate/biography/153852/mark-finchem
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2372
+  - https://www.linkedin.com/in/markfinchem
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-gress-matt
+  openstates_id: ocd-person/bfb503ce-dcb1-444b-9484-8a90e73c6a6f
+  full_name: Matt Gress
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MattGress.png
+  phone: ""
+  email: mgress@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2163
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matt_Gress
+  - https://en.wikipedia.org/wiki/Matt_Gress
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2163
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2308
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/mattgress
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-carbone-michael
+  openstates_id: ocd-person/8db06598-a7e1-4b25-9e76-6a2be0d9eae3
+  full_name: Michael Carbone
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/57leg/House/CARBONE.jpg
+  phone: ""
+  email: mcarbone@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2153
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Carbone
+  - https://en.wikipedia.org/wiki/Michael_Carbone
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2153
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2298
+  - https://www.azleg.gov/memberroster/?body=H
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-way-michael
+  openstates_id: ocd-person/555adc5f-cc3a-46b1-a00b-8fb209bc457e
+  full_name: Michael Way
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://azcapitoltimes.com/wp-content/blogs.dir/1/files/2024/08/Michael-Way.png
+  phone: ""
+  email: mway@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2363
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Way
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2363
+  - https://www.linkedin.com/in/michael-way-783066a1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-pea-michele
+  openstates_id: ocd-person/68c38dfc-a12b-4c51-8b70-c4e02931cddf
+  full_name: Michele Peña
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MichelePena.png
+  phone: ""
+  email: mpena@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2189
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michele_Pena
+  - https://en.wikipedia.org/wiki/Michele_Pena
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2189
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2331
+  - https://www.azleg.gov/memberroster/?body=H
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-tsosie-myron
+  openstates_id: ocd-person/a437a3ce-e3ba-44ec-af75-3308e70f5a87
+  full_name: Myron Tsosie
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/57leg/House/TSOSIE.jpg
+  phone: ""
+  email: mtsosie@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&legislator=2037
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Myron_Tsosie
+  - https://en.wikipedia.org/wiki/Myron_Tsosie
+  - https://justfacts.votesmart.org/candidate/biography/184557/myron-tsosie
+  - https://www.azleg.gov/house-member/?legislature=55&legislator=2037
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2341
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/myron-tsosie-1a240574
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-gutierrez-nancy
+  openstates_id: ocd-person/f9216229-6490-412d-aa30-8baac5c2be3e
+  full_name: Nancy Gutierrez
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Democratic
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/56leg/House/GUTIERREZ.jpg
+  phone: ""
+  email: ngutierrez@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2165
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nancy_Gutierrez
+  - https://justfacts.votesmart.org/candidate/biography/205615/nancy-gutierrez
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2165
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2310
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/nancy-gutierrez-0268253a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-carter-neal
+  openstates_id: ocd-person/17f344ec-ffe3-46fe-ba7a-8efdc5fbf2fd
+  full_name: Neal Carter
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CARTER.jpg
+  phone: ""
+  email: ncarter@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2098
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Neal_Carter
+  - https://en.wikipedia.org/wiki/Neal_Carter_(politician)
+  - https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2098
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2297
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/nealcarterpodcast
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-kupper-nick
+  openstates_id: ocd-person/8595d83f-1e95-4c0d-8c24-100a4a763a8f
+  full_name: Nick Kupper
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/57leg/House/KUPPER.jpg
+  phone: ""
+  email: nkupper@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2367
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nick_Kupper
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2367
+  - https://www.legistorm.com/bo.php/core_person/edit/core_person_id/517293
+  - https://www.linkedin.com/in/nick-kupper
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-santos-oscar
+  openstates_id: ocd-person/a4fabea6-f50e-4fe9-8696-8b4505a481e8
+  full_name: Oscar De Los Santos
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/56leg/House/DE_LOS_SANTOS.jpg
+  phone: ""
+  email: odelossantos@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2158
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Oscar_De_Los_Santos
+  - https://pdsoros.org/fellows/oscar-de-los-santos
+  - https://pdsoros.org/meet-the-fellows/oscar-de-los-santos
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2158
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2303
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.pdsoros.org/meet-the-fellows/oscar-de-los-santos
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-carter-pamela
+  openstates_id: ocd-person/d78cb0f9-fd3c-472e-aeb8-716abd42f26e
+  full_name: Pamela Carter
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/PamelaCarter2024.jpg
+  phone: ""
+  email: pcarter@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2354
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pamela_Carter
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2354
+  - https://www.linkedin.com/in/pamela-carter-0713944b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-contreras-patty
+  openstates_id: ocd-person/61dc96d8-140a-4042-b832-ac51bf0796f3
+  full_name: Patty Contreras
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Patty_Contreras.jpeg
+  phone: ""
+  email: pcontreras@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2157
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patricia_Contreras
+  - https://en.wikipedia.org/wiki/Patty_Contreras
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2157
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2302
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/patty-contreras-71ba62178
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-sundareshan-priya
+  openstates_id: ocd-person/7ff01dde-5112-436f-a267-dd7a7f91ec9b
+  full_name: Priya Sundareshan
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/SUNDARESHAN.jpg
+  phone: ""
+  email: psundareshan@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=56&legislator=2143
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Priya_Sundareshan
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=56&legislator=2143
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2397
+  - https://www.linkedin.com/in/priya-sundareshan-340b908
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-nguyen-quang
+  openstates_id: ocd-person/a4f969ab-e79a-4364-9a93-ad8c75ccf668
+  full_name: Quang Nguyen
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/NGUYEN.jpg
+  phone: ""
+  email: qnguyen@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&legislator=2063
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Quang_Nguyen
+  - https://en.wikipedia.org/wiki/Quang_Nguyen
+  - https://justfacts.votesmart.org/candidate/biography/192521/quang-nguyen
+  - https://www.azleg.gov/house-member/?legislature=55&legislator=2063
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2326
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/quang-nguyen-20b72172
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-crews-quant
+  openstates_id: ocd-person/0fb2e73b-b140-4669-a9bd-b75facb342dd
+  full_name: Quantá Crews
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://static.wixstatic.com/media/adaad5_bffecd22c43440d18ef9083b2464b1fd~mv2.jpg/v1/fill/w_925,h_1156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/adaad5_bffecd22c43440d18ef9083b2464b1fd~mv2.jpg
+  phone: ""
+  email: qcrews@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2272
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Quanta_Crews
+  - https://en.wikipedia.org/wiki/Quant%C3%A1_Crews
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2272
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2345
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/quantacrews
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-keshel-rachel
+  openstates_id: ocd-person/11b313a8-0f20-4d81-8060-4ec7e65f1a29
+  full_name: Rachel Keshel
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/57leg/House/KESHEL.jpg
+  phone: ""
+  email: rkeshel@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2173
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rachel_Keshel
+  - https://en.wikipedia.org/wiki/Rachel_Jones_(Arizona_politician)
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2173
+  - https://www.azleg.gov/house-member/?legislature=57&legislator=2317
+  - https://www.azleg.gov/memberroster/?body=H
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-heap-ralph
+  openstates_id: ocd-person/176a6d0b-88bb-45fa-bf37-b4610972b2ae
+  full_name: Ralph Heap
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ralph_Heap.jpg
+  phone: ""
+  email: rheap@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2360
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ralph_Heap
+  - https://en.wikipedia.org/wiki/Ralph_Heap
+  - https://justfacts.votesmart.org/candidate/153821/ralph-heap
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2360
+  - https://www.linkedin.com/in/ralph-heap-6a534987
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-gabaldn-rosanna
+  openstates_id: ocd-person/6de57177-1b9e-4864-bb87-97c528842030
+  full_name: Rosanna Gabaldón
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/GABALD%C3%93N.gif
+  phone: ""
+  email: rgabaldon@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=55&legislator=1956
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rosanna_Gabaldon
+  - https://en.wikipedia.org/wiki/Rosanna_Gabald%C3%B3n
+  - https://justfacts.votesmart.org/candidate/biography/141336/rosanna-gabaldon
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=55&legislator=1956
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2380
+  - https://www.linkedin.com/in/rosanna-gabaldon-a8563620
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-gonzales-sally
+  openstates_id: ocd-person/3c965e03-1e51-4f10-a037-4fb2f35292c5
+  full_name: Sally Gonzales
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/GONZALES.jpg
+  phone: ""
+  email: sgonzales@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=55&legislator=1957
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sally_Ann_Gonzales
+  - https://en.wikipedia.org/wiki/Sally_Ann_Gonzales
+  - https://justfacts.votesmart.org/candidate/biography/12275/sally-gonzales
+  - https://www.azleg.gov/MemberRoster/?body=S
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=55&legislator=1957
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2381
+  - https://www.linkedin.com/in/sally-ann-gonzales-1452a532
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-liguori-sarah
+  openstates_id: ocd-person/99f91f84-b1db-4a48-897a-4f87593357ea
+  full_name: Sarah Liguori
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/LIGUORI.jpg
+  phone: ""
+  email: sliguori@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=128&legislator=2279
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sarah_Liguori
+  - https://en.wikipedia.org/wiki/Sarah_Liguori
+  - https://www.azleg.gov/house-member/?legislature=56&session=128&legislator=2279
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2347
+  - https://www.linkedin.com/in/sarah-liguori-b1aa58b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-bliss-selina
+  openstates_id: ocd-person/bdcadc0a-7e86-4e6a-8e27-4896dbb094ce
+  full_name: Selina Bliss
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rsz_mar162020527pm_80182230_435a2599nwnbbliss2.jpg
+  phone: ""
+  email: sbliss@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2149
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Selina_Bliss
+  - https://en.wikipedia.org/wiki/Selina_Bliss
+  - https://justfacts.votesmart.org/candidate/biography/192519/selina-bliss
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2149
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2296
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/selina-bliss
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-blattman-seth
+  openstates_id: ocd-person/4b29d125-27ee-46c7-a6ac-ed870c1f10a7
+  full_name: Seth Blattman
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: https://cdn.runforsomething.net/candidates/2020/w9466-blattman.jpg
+  phone: ""
+  email: sblattman@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2148
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Seth_Blattman
+  - https://en.wikipedia.org/wiki/Seth_Blattman
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2148
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2295
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/sethblattman
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-bolick-shawnna
+  openstates_id: ocd-person/355be281-2f88-4108-b894-62c54b67fba3
+  full_name: Shawnna Bolick
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BOLICK.jpg
+  phone: ""
+  email: sbolick@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=56&legislator=2273
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shawnna_Bolick
+  - https://en.wikipedia.org/wiki/Shawnna_Bolick
+  - https://justfacts.votesmart.org/candidate/biography/123699/shawnna-bolick
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=56&legislator=2273
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2400
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-travers-stacey
+  openstates_id: ocd-person/7bd58fc8-e6df-4091-86c6-c64f54b96c35
+  full_name: Stacey Travers
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/57leg/House/TRAVERS.jpg
+  phone: ""
+  email: stravers@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2203
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Anastasia_Travers
+  - https://en.wikipedia.org/wiki/Stacey_Travers
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2203
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2340
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/stacey-travers-446226229
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-hamilton-stephanie
+  openstates_id: ocd-person/df482d8a-1ed9-41ae-b4ba-d73d4cd9aa39
+  full_name: Stephanie Stahl Hamilton
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/STAHL_HAMILTON.jpg
+  phone: ""
+  email: sstahlhamilton@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&legislator=2199&session=128
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephanie_Stahl_Hamilton
+  - https://en.wikipedia.org/wiki/Stephanie_Stahl_Hamilton
+  - https://justfacts.votesmart.org/candidate/192535/stephanie-stahl-hamilton
+  - https://www.azleg.gov/house-member/?legislature=56&legislator=2199&session=128
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2338
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=55&legislator=2093
+  - https://www.linkedin.com/in/stephanie-stahl-hamilton-a59b48a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-simacek-stephanie
+  openstates_id: ocd-person/bf406953-ad2b-43f7-95ea-3af060525c90
+  full_name: Stephanie Simacek
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Democratic
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/57leg/House/SIMACEK.jpg
+  phone: ""
+  email: ssimacek@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2353
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephanie_Simacek
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2353
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-montenegro-steve
+  openstates_id: ocd-person/37f8815d-1672-42dd-9e9b-305449d7bb8b
+  full_name: Steve Montenegro
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: http://www.azleg.gov/alisImages/MemberPhotos/49leg/House/MONTENEGRO.gif
+  phone: ""
+  email: smontenegro@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2183
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_B._Montenegro
+  - https://en.wikipedia.org/wiki/Steve_Montenegro
+  - https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2183
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2325
+  - https://www.azleg.gov/MemberRoster.asp?Session_ID=115&body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.azleg.gov/MemberRoster/?body=S
+  - https://www.linkedin.com/in/steve-montenegro-25576222
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-martinez-teresa
+  openstates_id: ocd-person/0fa874b7-acab-4f29-b800-56bd54f375fe
+  full_name: Teresa Martinez
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/30908.jpg
+  phone: ""
+  email: tmartinez@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2096
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Teresa_Martinez
+  - https://en.wikipedia.org/wiki/Teresa_Martinez
+  - https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2096
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2323
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.linkedin.com/in/teresa-martinez-65661216
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-hatathlie-theresa
+  openstates_id: ocd-person/384e8b4c-d85b-4414-9372-40116a10b3b6
+  full_name: Theresa Hatathlie
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/HATATHLIE.jpg
+  phone: ""
+  email: thatathlie@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=56&legislator=2128
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Theresa_Hatathlie
+  - https://en.wikipedia.org/wiki/Theresa_Hatathlie
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=56&legislator=2128
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2383
+  - https://www.linkedin.com/in/theresa-hatathlie-8a7280119
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-shope-tj
+  openstates_id: ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015
+  full_name: T.J. Shope
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/SHOPE.png
+  phone: ""
+  email: tshope@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1871
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/T.J._Shope
+  - https://en.wikipedia.org/wiki/T._J._Shope
+  - https://justfacts.votesmart.org/candidate/biography/141366/tj-shope
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/MemberRoster/?body=S
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=56&legislator=2142
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2396
+  - https://www.linkedin.com/in/t-j-shope-76585a132
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-dunn-tim
+  openstates_id: ocd-person/0b8c9973-1ae5-4af3-8a73-713c8365eccd
+  full_name: Tim Dunn
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DUNN.jpg
+  phone: ""
+  email: tdunn@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=55&legislator=2031
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tim_Dunn_(Arizona)
+  - https://en.wikipedia.org/wiki/Tim_Dunn_(politician)
+  - https://www.azleg.gov/house-member/?legislature=55&legislator=2031
+  - https://www.azleg.gov/MemberRoster/?body=H
+  - https://www.azleg.gov/memberroster/?body=H
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2388
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-rivero-tony
+  openstates_id: ocd-person/ec93f89c-d32f-4f34-bbe9-1aeb8305a065
+  full_name: Tony Rivero
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/RIVERO.jpg
+  phone: ""
+  email: trivero@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1870
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tony_Rivero
+  - https://en.wikipedia.org/wiki/Tony_Rivero
+  - https://justfacts.votesmart.org/candidate/biography/129363/tony-rivero
+  - https://www.azleg.gov/House/House-member/?legislature=57&session=129&legislator=2368
+  - https://www.azleg.gov/MemberRoster/?body=H
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-leach-vince
+  openstates_id: ocd-person/00f9103d-191e-40ca-8f5c-e5bf806896a6
+  full_name: Vince Leach
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/LEACH.jpg
+  phone: ""
+  email: vleach@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=55&legislator=1965
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Vince_Leach
+  - https://en.wikipedia.org/wiki/Vince_Leach
+  - https://justfacts.votesmart.org/candidate/biography/153854/vince-leach
+  - https://www.azleg.gov/MemberRoster/?body=S
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=55&legislator=1965
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2398
+  - https://www.linkedin.com/in/vince-leach-9a07ab1a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-hou-blackman-walt
+  openstates_id: ocd-person/d4068bfb-d487-4fde-b36e-7db0ac5cae38
+  full_name: Walt Blackman
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://azleg.gov/alisImages/MemberPhotos/57leg/House/BLACKMAN.jpg
+  phone: ""
+  email: wblackman@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2356
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Walter_Blackman
+  - https://en.wikipedia.org/wiki/Walter_Blackman
+  - https://justfacts.votesmart.org/candidate/biography/184551/walt-blackman
+  - https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2356
+  - https://www.linkedin.com/in/rep-walt-blackman-b7076a2a4
+  - https://www.linkedin.com/in/walt-blackman-67a268119
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-petersen-warren
+  openstates_id: ocd-person/66e496a4-a407-4af1-add3-ef6899b89807
+  full_name: Warren Petersen
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/PETERSEN.jpg
+  phone: ""
+  email: wpetersen@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=55&legislator=1966
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Warren_Petersen
+  - https://en.wikipedia.org/wiki/Warren_Petersen
+  - https://justfacts.votesmart.org/candidate/biography/141381/warren-petersen
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=55&legislator=1966
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2393
+  - https://www.linkedin.com/in/warren-petersen-68487425
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: az-sen-rogers-wendy
+  openstates_id: ocd-person/417c9599-7617-4b6d-ac0a-1d1b2a005f4e
+  full_name: Wendy Rogers
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/ROGERS.jpg
+  phone: ""
+  email: wrogers@azleg.gov
+  address: ""
+  official_website: https://www.azleg.gov/senate-member/?legislature=55&legislator=1960
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Wendy_Rogers
+  - https://en.wikipedia.org/wiki/Wendy_Rogers_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/123618/wendy-rogers
+  - https://www.azleg.gov/MemberRoster/?body=S
+  - https://www.azleg.gov/memberroster/?body=S
+  - https://www.azleg.gov/senate-member/?legislature=55&legislator=1960
+  - https://www.azleg.gov/senate-member/?legislature=57&legislator=2394
+  - https://www.linkedin.com/in/wendyrogersaz
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

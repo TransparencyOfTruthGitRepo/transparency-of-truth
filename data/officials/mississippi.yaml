@@ -1,4 +1,4042 @@
 ﻿state: mississippi
 state_abbrev: MS
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: ms-sen-butler-albert
+  openstates_id: ocd-person/c012fed5-c753-4a01-9c3c-9924d178c24d
+  full_name: Albert Butler
+  office_title: State Senator
+  chamber: senate
+  district: "37"
+  party: Democratic
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/senate/butler.jpg
+  phone: ""
+  email: abutler@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/butler.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Albert_Butler
+  - https://billstatus.ls.state.ms.us/members/senate/butler.xml
+  - https://billstatus.ls.state.ms.us/members/senate/butler_(36th).xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Albert_Butler
+  - https://justfacts.votesmart.org/candidate/biography/69811/albert-butler
+  - https://www.linkedin.com/in/albert-butler-06b5402b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-berry-andy
+  openstates_id: ocd-person/80fca1ba-017c-4941-990c-a5e2ff34aea0
+  full_name: Andy Berry
+  office_title: State Senator
+  chamber: senate
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/senate/Berry.jpg
+  phone: ""
+  email: aberry@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/berry.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andy_Berry
+  - https://billstatus.ls.state.ms.us/members/senate/berry.xml
+  - https://www.linkedin.com/in/andy-berry-031945130
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-boyd-andy
+  openstates_id: ocd-person/95d25b69-8eb7-44cd-a789-54351e17970c
+  full_name: Andy Boyd
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/boyd_(37).jpg
+  phone: ""
+  email: aboyd@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/boyd_(37).xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andy_Boyd
+  - https://billstatus.ls.state.ms.us/members/house/boyd_(37).xml
+  - https://billstatus.ls.state.ms.us/members/house/boyd_(37th).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Andy_Boyd
+  - https://justfacts.votesmart.org/candidate/evaluations/211082/andy-boyd
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-hill-angela
+  openstates_id: ocd-person/4004cf9a-6d23-4323-b158-00f22078d2b4
+  full_name: Angela Hill
+  office_title: State Senator
+  chamber: senate
+  district: "40"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/hill.jpg
+  phone: ""
+  email: ahill@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/hill.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Angela_Hill
+  - https://billstatus.ls.state.ms.us/members/senate/hill.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Angela_Burks_Hill
+  - https://justfacts.votesmart.org/candidate/biography/130344/angela-hill
+  - https://www.linkedin.com/in/angela-hill-0870a6a7
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-cockerham-angela
+  openstates_id: ocd-person/83f9f72e-ec2d-4351-a227-d8a6aec18eed
+  full_name: Angela Cockerham
+  office_title: State Representative
+  chamber: house
+  district: "96"
+  party: Independent
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Angela_Cockerham.jpg
+  phone: ""
+  email: acockerham@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/cockerham.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Angela_Cockerham
+  - https://billstatus.ls.state.ms.us/members/house/cockerham.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Angela_Cockerham
+  - https://justfacts.votesmart.org/candidate/biography/56520/angela-cockerham
+  - https://www.linkedin.com/in/angela-cockerham-498938102
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-turnerford-angela
+  openstates_id: ocd-person/74d0c9b2-58a2-41a7-b2a0-582924a45adf
+  full_name: Angela Turner-Ford
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/turner-ford.jpg
+  phone: ""
+  email: aturner@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/turner-ford.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Angela_Turner-Ford
+  - https://billstatus.ls.state.ms.us/members/senate/turner-ford.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Angela_Turner-Ford
+  - https://justfacts.votesmart.org/candidate/biography/144220/angela-turner-ford
+  - https://www.linkedin.com/in/angela-turner-ford-b06b27128
+  - https://www.linkedin.com/in/turner-ford-angela-a64ba4124
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-blackmon-bradford
+  openstates_id: ocd-person/3b2b3cb2-3ef8-400d-b395-6b0895ea7631
+  full_name: Bradford Blackmon
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/senate/blackmon.jpeg
+  phone: ""
+  email: bblackmon@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/blackmon.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bradford_Blackmon
+  - https://billstatus.ls.state.ms.us/members/senate/blackmon.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://blackmonlawfirm.com/attorneys/bradfordblackmon
+  - https://www.linkedin.com/in/bradford-blackmon-a90752b4
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-williams-bart
+  openstates_id: ocd-person/5f65f3a3-db2a-4573-a5c8-59b6cc0dbf40
+  full_name: Bart Williams
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/williams.jpg
+  phone: ""
+  email: bwilliams@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/williams.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bart_Williams_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/senate/williams.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Bart_Williams_(politician)
+  - https://www.linkedin.com/in/bart-williams-17740a69
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-currie-becky
+  openstates_id: ocd-person/4b865b47-4811-4437-be08-0f3bf10d461c
+  full_name: Becky Currie
+  office_title: State Representative
+  chamber: house
+  district: "92"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/currie.jpg
+  phone: ""
+  email: bcurrie@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/currie.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Becky_Currie
+  - https://billstatus.ls.state.ms.us/members/house/currie.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Becky_Currie
+  - https://justfacts.votesmart.org/candidate/biography/69911/becky-currie
+  - https://www.linkedin.com/in/becky-currie-04336282
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-suber-ben
+  openstates_id: ocd-person/ba13036f-790b-4745-b008-eeb74f1c86a1
+  full_name: Ben Suber
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/suber.jpg
+  phone: ""
+  email: bsuber@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/suber.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Benjamin_Suber
+  - https://billstatus.ls.state.ms.us/members/senate/suber.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://justfacts.votesmart.org/candidate/biography/186540/benjamin-suber
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-waldo-beth
+  openstates_id: ocd-person/27f187c6-8755-4a18-a32a-dd5b5d7831c8
+  full_name: Beth Waldo
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Beth_Luther_Waldo.jpeg
+  phone: ""
+  email: bwaldo@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/waldo.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Beth_Luther_Waldo
+  - https://billstatus.ls.state.ms.us/members/house/waldo.xml
+  - https://en.wikipedia.org/wiki/Beth_Luther_Waldo
+  - https://justfacts.votesmart.org/candidate/186848/beth-waldo
+  - https://www.linkedin.com/in/beth-luther-waldo-3bba8b91
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-kinkade-bill
+  openstates_id: ocd-person/af66e7a0-2b1a-4fa0-a66c-e6e7a2541cb1
+  full_name: Bill Kinkade
+  office_title: State Representative
+  chamber: house
+  district: "52"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/kinkade.jpg
+  phone: ""
+  email: bkinkade@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/kinkade.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Kinkade
+  - https://billstatus.ls.state.ms.us/members/house/kinkade.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Bill_Kinkade
+  - https://justfacts.votesmart.org/candidate/143589/bill-kinkade
+  - https://www.linkedin.com/in/bill-kinkade-5600ab15
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-pigott-bill
+  openstates_id: ocd-person/2fed984f-0f51-40d2-9881-ec16131a6a2f
+  full_name: Bill Pigott
+  office_title: State Representative
+  chamber: house
+  district: "99"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/pigott.jpg
+  phone: ""
+  email: bpigott@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/pigott.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Pigott
+  - https://billstatus.ls.state.ms.us/members/house/pigott.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Bill_Pigott
+  - https://justfacts.votesmart.org/candidate/biography/40147/bill-pigott
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-calvert-billy
+  openstates_id: ocd-person/15f21051-d36c-4a2a-aa96-100bb8cb693b
+  full_name: Billy Adam Calvert
+  office_title: State Representative
+  chamber: house
+  district: "83"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/calvert.jpg
+  phone: ""
+  email: bcalvert@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/calvert.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Billy_Adam_Calvert
+  - https://billstatus.ls.state.ms.us/members/house/calvert.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Billy_Adam_Calvert
+  - https://justfacts.votesmart.org/candidate/biography/186609/billy-calvert
+  - https://www.linkedin.com/in/billy-adam-calvert-41905b80
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-brown-bo
+  openstates_id: ocd-person/b8541474-47fd-4dd2-8576-53b7fe911039
+  full_name: Bo Brown
+  office_title: State Representative
+  chamber: house
+  district: "70"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/brown_(70th).jpg
+  phone: ""
+  email: bbrown@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/brown.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Brown_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/house/brown.xml
+  - https://billstatus.ls.state.ms.us/members/house/brown_(70th).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Bo_Brown_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/40052/william-brown
+  - https://www.linkedin.com/in/william-r-bo-brown-mppa-lutcf-clcs-248ab915b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-evans-bob
+  openstates_id: ocd-person/7fe0478b-3777-490c-93cb-20f83baf3d3f
+  full_name: Bob Evans
+  office_title: State Representative
+  chamber: house
+  district: "91"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/evans_(91st).jpg
+  phone: ""
+  email: bevans@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/evans_%2891st%29.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bob_Evans
+  - https://billstatus.ls.state.ms.us/members/house/evans_%2891st%29.xml
+  - https://billstatus.ls.state.ms.us/members/house/evans_(91st).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Robert_Evans_(Mississippi_politician)
+  - https://justfacts.votesmart.org/candidate/biography/69908/bob-evans
+  - https://www.linkedin.com/in/bob-evans-4a136a60
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-mattox-brad
+  openstates_id: ocd-person/487214e9-b0e2-4741-8bd4-a043a1dd19a5
+  full_name: Brad Mattox
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://www.supertalk.fm/wp-content/uploads/2023/08/Brad-Mattox-960x540.png.webp
+  phone: ""
+  email: mattox@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/mattox.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brad_Mattox
+  - https://billstatus.ls.state.ms.us/members/house/mattox.xml
+  - https://en.wikipedia.org/wiki/Brad_Mattox
+  - https://justfacts.votesmart.org/candidate/211392/brad-mattox
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-anderson-brent
+  openstates_id: ocd-person/307ab2ac-eafb-4d68-8e02-1fff040f50e4
+  full_name: Brent Anderson
+  office_title: State Representative
+  chamber: house
+  district: "122"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api/storage/uploads/thumbs/200/300/crop/best/80182230_img_6905.jpg
+  phone: ""
+  email: banderson@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/anderson_(122nd).xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brent_Anderson_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/house/anderson_(122nd).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Brent_Anderson_(Mississippi_politician)
+  - https://justfacts.votesmart.org/candidate/biography/186625/brent-anderson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-powell-brent
+  openstates_id: ocd-person/222077fd-0e92-4437-a156-59521d7faffa
+  full_name: Brent Powell
+  office_title: State Representative
+  chamber: house
+  district: "59"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/powell.jpg
+  phone: ""
+  email: bpowell@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/powell.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brent_Powell
+  - https://billstatus.ls.state.ms.us/members/house/powell.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Brent_Powell
+  - https://justfacts.votesmart.org/candidate/biography/144187/brent-powell
+  - https://www.linkedin.com/in/brent-powell-061a6583
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-rhodes-brian
+  openstates_id: ocd-person/77852654-cea4-4555-899c-641494605220
+  full_name: Brian Rhodes
+  office_title: State Senator
+  chamber: senate
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/senate/rhodes.jpeg
+  phone: ""
+  email: brhodes@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/rhodes.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Rhodes_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/senate/rhodes.xml
+  - https://rhodesforsenate.us/meet-brian
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-wiggins-brice
+  openstates_id: ocd-person/7e27e9e0-fe62-4fc0-b8b0-c2ac9c9ce28d
+  full_name: Brice Wiggins
+  office_title: State Senator
+  chamber: senate
+  district: "52"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/wiggins.jpg
+  phone: ""
+  email: bwiggins@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/wiggins.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brice_Wiggins
+  - https://billstatus.ls.state.ms.us/members/senate/wiggins.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Brice_Wiggins
+  - https://www.linkedin.com/in/brice-wiggins-08a73670
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-clark-bryant
+  openstates_id: ocd-person/0d191683-0d9c-408f-812b-5d986a3030a6
+  full_name: Bryant Clark
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/clark.jpg
+  phone: ""
+  email: bclark@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/clark.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bryant_Clark
+  - https://billstatus.ls.state.ms.us/members/house/clark.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Bryant_Clark#cite_note-Bio-1
+  - https://justfacts.votesmart.org/candidate/biography/40102/bryant-clark
+  - https://www.linkedin.com/in/bryant-clark-1a5b50aa
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-bounds-scott
+  openstates_id: ocd-person/796d8875-e1a2-4274-bdba-2e689d99929c
+  full_name: Scott Bounds
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/bounds.jpg
+  phone: ""
+  email: sbounds@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/bounds.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/C._Scott_Bounds
+  - https://billstatus.ls.state.ms.us/members/house/bounds.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/C._Scott_Bounds
+  - https://justfacts.votesmart.org/candidate/biography/40166/c-scott-bounds
+  - https://www.linkedin.com/in/c-scott-bounds-7b3196133
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-mickens-carl
+  openstates_id: ocd-person/6e50b530-8c0e-485a-a568-6d40ba83127d
+  full_name: Carl Mickens
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/mickens.jpg
+  phone: ""
+  email: cmickens@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/mickens.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Carl_L._Mickens
+  - https://billstatus.ls.state.ms.us/members/house/mickens.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Carl_L._Mickens
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-crawford-carolyn
+  openstates_id: ocd-person/7e340127-bea2-48af-95a8-368b99160880
+  full_name: Carolyn Crawford
+  office_title: State Representative
+  chamber: house
+  district: "121"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/crawford.jpg
+  phone: ""
+  email: ccrawford@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/crawford.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Carolyn_Crawford
+  - https://billstatus.ls.state.ms.us/members/house/crawford.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Carolyn_Crawford
+  - https://justfacts.votesmart.org/candidate/biography/130317/carolyn-crawford
+  - https://www.linkedin.com/in/carolyn-crawford-20785b82
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-eure-casey
+  openstates_id: ocd-person/7f1357e0-62b5-412c-b121-6cb5a5aced0e
+  full_name: Casey Eure
+  office_title: State Representative
+  chamber: house
+  district: "116"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/eure.jpg
+  phone: ""
+  email: ceure@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/eure.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Casey_Eure
+  - https://billstatus.ls.state.ms.us/members/house/eure.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Casey_Eure
+  - https://justfacts.votesmart.org/candidate/biography/128734/casey-eure
+  - https://www.linkedin.com/in/casey-eure-104a2265
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-burnett-cedric
+  openstates_id: ocd-person/379b9fd9-2da7-4e20-b0ed-4319ead3a1db
+  full_name: Cedric Burnett
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/burnett.jpg
+  phone: ""
+  email: cburnett@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/burnett.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cedric_Burnett
+  - https://billstatus.ls.state.ms.us/members/house/burnett.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Cedric_Burnett
+  - https://justfacts.votesmart.org/candidate/biography/156239/cedric-burnett
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-hurst-celeste
+  openstates_id: ocd-person/c854a4e7-61d0-4c5e-8623-694a38f0ad20
+  full_name: Celeste Hurst
+  office_title: State Representative
+  chamber: house
+  district: "75"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/4b62c6_190e934501654befbc52179bbb3d45b0~mv2.jpeg/v1/fill/w_605,h_713,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4b62c6_190e934501654befbc52179bbb3d45b0~mv2.jpeg
+  phone: ""
+  email: churst@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/hurst.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Celeste_Hurst
+  - https://billstatus.ls.state.ms.us/members/house/hurst.xml
+  - https://en.wikipedia.org/wiki/Celeste_Hurst
+  - https://justfacts.votesmart.org/candidate/key-votes/211458/celeste-hurst
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-mcmahan-chad
+  openstates_id: ocd-person/17a5d5bb-d52b-4d53-a6a0-bcaa7c5538d7
+  full_name: Chad McMahan
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/mcmahan.jpg
+  phone: ""
+  email: cmcmahan@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/mcmahan.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chad_McMahan
+  - https://billstatus.ls.state.ms.us/members/senate/mcmahan.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Chad_McMahan
+  - https://justfacts.votesmart.org/candidate/biography/156312/chad-mcmahan
+  - https://www.linkedin.com/in/chad-mcmahan-a9130941
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-taylor-cheikh
+  openstates_id: ocd-person/74ef0a3e-35c9-4729-b6fd-2c07c165864d
+  full_name: Cheikh Taylor
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Democratic
+  status: active
+  photo_url: http://www.starkvilledailynews.com/sites/default/files/styles/galleria_zoom/public/field/image/TAYLOR%20MUG_0.png?itok=jRnUfeN0
+  phone: ""
+  email: ctaylor@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/taylor.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cheikh_Taylor
+  - https://billstatus.ls.state.ms.us/members/house/taylor.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Cheikh_Taylor
+  - https://justfacts.votesmart.org/candidate/biography/176766/cheikh-taylor
+  - https://www.linkedin.com/in/cheikh-taylor-76a84b40
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-johnson-chris
+  openstates_id: ocd-person/20510bb3-edcd-4cb8-a41a-e0114e6215c9
+  full_name: Chris Johnson
+  office_title: State Senator
+  chamber: senate
+  district: "44"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/johnson.jpg
+  phone: ""
+  email: chjohnson@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/johnson_(87th).xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Johnson_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/house/johnson_(87th).xml
+  - https://billstatus.ls.state.ms.us/members/senate/johnson.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://justfacts.votesmart.org/candidate/biography/156366/chris-johnson
+  - https://www.linkedin.com/in/chris-johnson-92386bab
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-bell-chris
+  openstates_id: ocd-person/5aa9d603-5bb2-4c1d-9a0b-1baaf91c425d
+  full_name: Chris Bell
+  office_title: State Representative
+  chamber: house
+  district: "65"
+  party: Democratic
+  status: active
+  photo_url: https://static.votesmart.org/static/canphoto/40229.jpg
+  phone: ""
+  email: cbell@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/bell_(65th).xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Christopher_M._Bell
+  - https://billstatus.ls.state.ms.us/members/house/bell_(65th).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Christopher_Bell_(Mississippi_politician)
+  - https://justfacts.votesmart.org/candidate/biography/40229/chris-bell
+  - https://www.linkedin.com/in/christopher-m-bell-99167b4
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-blackwell-chuck
+  openstates_id: ocd-person/4a046f0b-1286-4bb3-aea0-7284adab76fd
+  full_name: Chuck Blackwell
+  office_title: State Representative
+  chamber: house
+  district: "88"
+  party: Republican
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/house/blackwell.jpg
+  phone: ""
+  email: cblackwell@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/blackwell.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Charles_Blackwell
+  - https://billstatus.ls.state.ms.us/members/house/blackwell.xml
+  - https://www.asbestoslawoptions.com/blackwell
+  - https://www.linkedin.com/in/charles-chuck-blackwell-994a5319
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-younger-chuck
+  openstates_id: ocd-person/c22d208a-59c7-4e90-bbe0-37b953a00b41
+  full_name: Chuck Younger
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/younger.jpg
+  phone: ""
+  email: cyounger@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/younger.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Charles_Younger
+  - https://billstatus.ls.state.ms.us/members/senate/younger.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Charles_Younger
+  - https://justfacts.votesmart.org/candidate/biography/156194/charles-younger
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-deweese-clay
+  openstates_id: ocd-person/0c9a7d35-4b91-42c7-8af2-39b6514c23d8
+  full_name: Clay Deweese
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/deweese.jpg
+  phone: ""
+  email: cdeweese@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/deweese.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Clay_Deweese
+  - https://billstatus.ls.state.ms.us/members/house/deweese.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Clay_Deweese
+  - https://justfacts.votesmart.org/candidate/biography/186593/clay-deweese
+  - https://www.linkedin.com/in/clay-deweese-809764148
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-mansell-clay
+  openstates_id: ocd-person/bb9ba950-b671-4c41-b851-4a2c86d2059d
+  full_name: Clay Mansell
+  office_title: State Representative
+  chamber: house
+  district: "56"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Clay_Mansell.jpg
+  phone: ""
+  email: cmansell@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/mansell.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Clay_Mansell
+  - https://billstatus.ls.state.ms.us/members/house/mansell.xml
+  - https://www.claymansell.com/about-8
+  - https://www.linkedin.com/in/claymansell
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-eubanks-dan
+  openstates_id: ocd-person/48567f29-ec70-4ff5-bda5-873f2e42933b
+  full_name: Dan Eubanks
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/eubanks.jpg
+  phone: ""
+  email: deubanks@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/eubanks.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dan_Eubanks
+  - https://billstatus.ls.state.ms.us/members/house/eubanks.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Dan_Eubanks
+  - https://justfacts.votesmart.org/candidate/biography/156347/dan-eubanks
+  - https://www.linkedin.com/in/dan-eubanks-b48844147
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-mclean-dana
+  openstates_id: ocd-person/22afa0b0-e76a-4ac0-af9a-fa158c55daea
+  full_name: Dana McLean
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/mclean.jpg
+  phone: ""
+  email: dmclean@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/mclean.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dana_Underwood_McLean
+  - https://billstatus.ls.state.ms.us/members/house/mclean.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Dana_McLean
+  - https://justfacts.votesmart.org/candidate/186601/dana-mclean
+  - https://justfacts.votesmart.org/candidate/biography/186601/dana-mclean
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-sparks-daniel
+  openstates_id: ocd-person/32153f0b-aa40-4989-9787-e2608c55a87e
+  full_name: Daniel Sparks
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/sparks.jpg
+  phone: ""
+  email: dsparks@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/sparks.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Daniel_Sparks_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/senate/sparks.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://www.sparkslawpllc.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-porter-daryl
+  openstates_id: ocd-person/da9d953d-a95f-4166-9b94-e6c5e5b40c86
+  full_name: Daryl Porter
+  office_title: State Representative
+  chamber: house
+  district: "98"
+  party: Democratic
+  status: active
+  photo_url: https://www.pepperodom.com/wp-content/uploads/2019/05/daryl-porter-683x1024.jpg
+  phone: ""
+  email: dporter@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/porter.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Daryl_Porter_Jr.
+  - https://billstatus.ls.state.ms.us/members/house/porter.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Daryl_Porter_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/156230/daryl-porter-jr
+  - https://www.linkedin.com/in/daryl-porter-6b4803149
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-blount-david
+  openstates_id: ocd-person/c8e4b4c1-6c8f-4b95-9b48-c73997b3f518
+  full_name: David Blount
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/blount.jpg
+  phone: ""
+  email: dblount@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/blount.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Blount
+  - https://billstatus.ls.state.ms.us/members/senate/blount.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/David_Blount
+  - https://justfacts.votesmart.org/candidate/biography/69833/david-blount
+  - https://www.linkedin.com/in/david-blount-0719075a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-kirby-dean
+  openstates_id: ocd-person/d1572354-a456-47fa-aa21-58be9884a3bb
+  full_name: Dean Kirby
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/kirby.jpg
+  phone: ""
+  email: dkirby@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/Kirby.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dean_Kirby
+  - https://billstatus.ls.state.ms.us/members/senate/kirby.xml
+  - https://billstatus.ls.state.ms.us/members/senate/Kirby.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Dean_Kirby
+  - https://www.linkedin.com/in/dean-kirby-16433832
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-debar-dennis
+  openstates_id: ocd-person/8c139a04-43ed-48c5-98cc-e2d308efa65b
+  full_name: Dennis DeBar
+  office_title: State Senator
+  chamber: senate
+  district: "43"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/debar.jpg
+  phone: ""
+  email: ddebar@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/debar.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dennis_DeBar
+  - https://billstatus.ls.state.ms.us/members/senate/debar.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Dennis_DeBar
+  - https://justfacts.votesmart.org/candidate/biography/130305/dennis-debar-jr
+  - https://www.linkedin.com/in/dennis-debar-5a211a39
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-simmons-derrick
+  openstates_id: ocd-person/3ea1bab4-64f2-4ff3-b0a9-e04a8caa3e9f
+  full_name: Derrick Simmons
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/simmons_(12th).jpg
+  phone: ""
+  email: dsimmons@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/simmons_(12th).xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Derrick_Simmons
+  - https://billstatus.ls.state.ms.us/members/senate/simmons_(12th).xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Derrick_Simmons
+  - https://justfacts.votesmart.org/candidate/biography/128785/derrick-simmons
+  - https://www.linkedin.com/in/derrick-t-simmons-491577b4
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-harris-doc
+  openstates_id: ocd-person/7051aea6-71cf-4c6e-a3f7-5eebe826aa44
+  full_name: Doc Harris
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/harrisdoc.jpg
+  phone: ""
+  email: wharris@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/harris.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Doc_Harris
+  - https://billstatus.ls.state.ms.us/members/house/harris.xml
+  - https://en.wikipedia.org/wiki/Doc_Harris
+  - https://justfacts.votesmart.org/candidate/186599/w-harris-jr
+  - https://www.linkedin.com/in/doc-harris-03413119
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-hartness-don
+  openstates_id: ocd-person/035cf383-3d6b-401c-955e-2dcc3a95e4a5
+  full_name: Don Hartness
+  office_title: State Senator
+  chamber: senate
+  district: "42"
+  party: Republican
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/senate/Hartness.jpg
+  phone: ""
+  email: dhartness@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/hartness.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Don_Hartness
+  - https://billstatus.ls.state.ms.us/members/senate/hartness.xml
+  - https://justfacts.votesmart.org/candidate/biography/211382/don-hartness
+  - https://www.linkedin.com/in/don-h-781596173
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-bell-donnie
+  openstates_id: ocd-person/fd1a4542-8537-4af3-90c8-4052be561c66
+  full_name: Donnie Bell
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Republican
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/house/bell_(21st).jpg
+  phone: ""
+  email: dbell@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/bell_(21st).xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Donnie_Bell
+  - https://billstatus.ls.state.ms.us/members/house/bell_(21st).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Donnie_Bell
+  - https://justfacts.votesmart.org/candidate/biography/69899/donnie-bell
+  - https://www.linkedin.com/in/donnie-bell-7b961a113
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-scoggin-donnie
+  openstates_id: ocd-person/2118023c-ed1d-455f-b3a6-faeefd0e87b5
+  full_name: Donnie Scoggin
+  office_title: State Representative
+  chamber: house
+  district: "89"
+  party: Republican
+  status: active
+  photo_url: http://files.ctctcdn.com/ee25b30f001/08bd0580-a7b2-481a-a9d2-198a61aec56d.jpg
+  phone: ""
+  email: dscoggin@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/scoggin.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Donnie_Scoggin
+  - https://billstatus.ls.state.ms.us/members/house/scoggin.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Donnie_Scoggin
+  - https://justfacts.votesmart.org/candidate/biography/176171/donnie-scoggin
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-banks-earle
+  openstates_id: ocd-person/4fa41145-35bf-442b-bdfe-cf54ea53da69
+  full_name: Earle Banks
+  office_title: State Representative
+  chamber: house
+  district: "67"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/banks.jpg
+  phone: ""
+  email: ebankslaw@aol.com
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/banks.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Earle_Banks
+  - https://billstatus.ls.state.ms.us/members/house/banks.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Earle_S._Banks
+  - https://justfacts.votesmart.org/candidate/biography/3664/earle-banks
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-blackmon-lawrence
+  openstates_id: ocd-person/c38da14f-37fd-48fd-9903-e63ce18c1215
+  full_name: Lawrence Blackmon
+  office_title: State Representative
+  chamber: house
+  district: "57"
+  party: Democratic
+  status: active
+  photo_url: https://i0.wp.com/www.theindustrycosign.com/wp-content/uploads/2021/11/Lawrence-Blackmon-the-industry-cosign-big-ced.jpg?w=1170&ssl=1
+  phone: ""
+  email: lblackmon@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/blackmon.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lawrence_Blackmon
+  - https://billstatus.ls.state.ms.us/members/house/blackmon.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Lawrence_Blackmon
+  - https://justfacts.votesmart.org/candidate/biography/211433/lawrence-blackmon
+  - https://www.linkedin.com/in/lawrence-blackmon-92954529b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-burch-elliot
+  openstates_id: ocd-person/bb2a876e-ca55-46dd-842d-9b89a910848d
+  full_name: Elliot Burch
+  office_title: State Representative
+  chamber: house
+  district: "105"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/220c5e_621b140aa59647afa9d2a4370f2a9253~mv2_d_5184_3456_s_4_2.jpg
+  phone: ""
+  email: burch@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/burch.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elliot_Burch
+  - https://billstatus.ls.state.ms.us/members/house/burch.xml
+  - https://en.wikipedia.org/wiki/Elliot_Burch
+  - https://justfacts.votesmart.org/candidate/211478/elliot-burch
+  - https://www.elliotburchlaw.com
+  - https://www.elliotburchlaw.com/elliot-burch-pc-profile
+  - https://www.linkedin.com/in/elliot-burch-85b76011a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-nelson-fabian
+  openstates_id: ocd-person/706088db-555c-4dac-b9c4-ca6574241ca4
+  full_name: Fabian Nelson
+  office_title: State Representative
+  chamber: house
+  district: "66"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/fnelson.JPG
+  phone: ""
+  email: nelson@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/nelson.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Fabian_Nelson
+  - https://billstatus.ls.state.ms.us/members/house/nelson.xml
+  - https://en.wikipedia.org/wiki/Fabian_Nelson
+  - https://justfacts.votesmart.org/candidate/195329/fabian-nelson
+  - https://www.linkedin.com/in/fabian-nelson-102376103
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-shanks-fred
+  openstates_id: ocd-person/002bdecd-2374-44d8-8280-e0636c5f4897
+  full_name: Fred Shanks
+  office_title: State Representative
+  chamber: house
+  district: "60"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/shanks.jpg
+  phone: ""
+  email: fshanks@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/shanks.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Fred_Shanks
+  - https://billstatus.ls.state.ms.us/members/house/shanks.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Fred_Shanks
+  - https://justfacts.votesmart.org/candidate/biography/177629/fred-shanks
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-brumfield-gary
+  openstates_id: ocd-person/dcae79b5-ddc5-48e8-86c2-54d5c47f0656
+  full_name: Gary Brumfield
+  office_title: State Senator
+  chamber: senate
+  district: "38"
+  party: Democratic
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/senate/brumfield.png
+  phone: ""
+  email: gbrumfield@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/brumfield.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gary_Brumfield
+  - https://billstatus.ls.state.ms.us/members/senate/brumfield.xml
+  - https://www.linkedin.com/in/gary-brumfield-618a8334
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-newman-gene
+  openstates_id: ocd-person/2fe9c09d-6213-4576-b0e4-6e89330f41bc
+  full_name: Gene Newman
+  office_title: State Representative
+  chamber: house
+  district: "61"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/newman.jpg
+  phone: ""
+  email: gnewman@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/newman.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gene_Newman
+  - https://billstatus.ls.state.ms.us/members/house/newman.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://justfacts.votesmart.org/candidate/biography/186604/gene-newman
+  - https://www.linkedin.com/in/gene-newman-07a45620
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-haney-greg
+  openstates_id: ocd-person/c38f3e52-9594-4580-a280-bdaa11a33b66
+  full_name: Greg Haney
+  office_title: State Representative
+  chamber: house
+  district: "118"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/haney.jpg
+  phone: ""
+  email: ghaney@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/haney.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Greg_Haney
+  - https://billstatus.ls.state.ms.us/members/house/haney.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Greg_Haney
+  - https://justfacts.votesmart.org/candidate/biography/130314/greg-haney
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-elliott-gregory
+  openstates_id: ocd-person/9b5e1a7c-98cd-448e-9f75-d59a5591f1a4
+  full_name: Gregory Elliott
+  office_title: State Representative
+  chamber: house
+  district: "82"
+  party: Democratic
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/house/elliott.jpg
+  phone: ""
+  email: gelliott@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/elliott.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gregory_Elliott
+  - https://billstatus.ls.state.ms.us/members/house/elliott.xml
+  - https://en.wikipedia.org/wiki/Gregory_Elliott
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-holloway-greg
+  openstates_id: ocd-person/745b9724-e66d-46ec-874a-d658f01b78a6
+  full_name: Greg Holloway
+  office_title: State Representative
+  chamber: house
+  district: "76"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/holloway.jpg
+  phone: ""
+  email: gholloway@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/holloway.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gregory_Holloway,_Sr.
+  - https://billstatus.ls.state.ms.us/members/house/holloway.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Gregory_Holloway_Sr.
+  - https://justfacts.votesmart.org/candidate/biography/20670/greg-holloway-sr
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-zuber-hank
+  openstates_id: ocd-person/4ead62fd-15e5-4662-8f9b-21a8b0fa8ebe
+  full_name: Hank Zuber
+  office_title: State Representative
+  chamber: house
+  district: "113"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/zuber.jpg
+  phone: ""
+  email: hzuber@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/zuber.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Henry_Zuber,_III
+  - https://billstatus.ls.state.ms.us/members/house/zuber.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Henry_Zuber_III
+  - https://justfacts.votesmart.org/candidate/biography/20796/henry-zuber-iii
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-jacksonmccray-hester
+  openstates_id: ocd-person/3a2e8f7d-e657-45e2-93d7-2f5e8499ccfd
+  full_name: Hester Jackson-McCray
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/mccray.jpg
+  phone: ""
+  email: hmccray@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/mccray.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Hester_Jackson_McCray
+  - https://billstatus.ls.state.ms.us/members/house/mccray.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Hester_Jackson-McCray
+  - https://www.linkedin.com/in/hester-jackson-mccray-38a917155
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-frazier-hillman
+  openstates_id: ocd-person/92659a52-eda2-41a1-9300-40ca7fc3a46b
+  full_name: Hillman Frazier
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/frazier.jpg
+  phone: ""
+  email: hfrazier@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/frazier.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Hillman_Frazier
+  - https://billstatus.ls.state.ms.us/members/senate/frazier.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Hillman_Terome_Frazier
+  - https://www.linkedin.com/in/hillman-frazier-1bba4529
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-bryan-hob
+  openstates_id: ocd-person/717de4df-c8b0-4387-a767-4d37b577f370
+  full_name: Hob Bryan
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/bryan.jpg
+  phone: ""
+  email: hbryan@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/bryan.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Hob_Bryan
+  - https://billstatus.ls.state.ms.us/members/senate/bryan.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Hob_Bryan
+  - https://justfacts.votesmart.org/candidate/biography/3605/hob-bryan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-michel-walter
+  openstates_id: ocd-person/61c65e25-07c9-445c-8cef-1e6d53cbbfb3
+  full_name: Walter Michel
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/michel.jpg
+  phone: ""
+  email: wmichel@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/michel.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Walter_Michel
+  - https://billstatus.ls.state.ms.us/members/senate/michel.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/J._Walter_Michel
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-owen-jansen
+  openstates_id: ocd-person/8a829f4e-388e-41c5-bbc6-9e4292ff9539
+  full_name: Jansen Owen
+  office_title: State Representative
+  chamber: house
+  district: "106"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/owen.jpg
+  phone: ""
+  email: jowen@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/owen.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jansen_Owen
+  - https://billstatus.ls.state.ms.us/members/house/owen.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Jansen_Owen
+  - https://justfacts.votesmart.org/candidate/186621/jansen-owen
+  - https://www.linkedin.com/in/jansenowen
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-barrett-jason
+  openstates_id: ocd-person/c664f98f-0d57-4d32-abf1-a95dcec7fa31
+  full_name: Jason Barrett
+  office_title: State Senator
+  chamber: senate
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/barrett.jpg
+  phone: ""
+  email: jbarrett@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/barrett.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jason_Barrett_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/senate/barrett.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Jason_Barrett_(Mississippi_politician)
+  - https://www.barrettlawoffice.net
+  - https://www.linkedin.com/in/jason-barrett-93284095
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-white-jason
+  openstates_id: ocd-person/fa29dc4f-e4cb-45dd-a450-a1911d529801
+  full_name: Jason White
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/white.jpg
+  phone: ""
+  email: jwhite@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/White.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jason_White_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/house/white.xml
+  - https://billstatus.ls.state.ms.us/members/house/White.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Jason_White_(politician)
+  - https://www.jasonwhitems.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-mcknight-jay
+  openstates_id: ocd-person/7674b0fc-99c4-44a7-85ec-7edd5e6e85a0
+  full_name: Jay McKnight
+  office_title: State Representative
+  chamber: house
+  district: "95"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/mcknight.jpg
+  phone: ""
+  email: jmcknight@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/mcknight.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jay_McKnight
+  - https://billstatus.ls.state.ms.us/members/house/mcknight.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Jay_McKnight_(politician)
+  - https://justfacts.votesmart.org/candidate/186616/jay-mcknight
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-hale-jeff
+  openstates_id: ocd-person/ffba30ff-86d3-42db-ab94-0028df181da1
+  full_name: Jeff Hale
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/hale.jpg
+  phone: ""
+  email: jhale@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/hale.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Hale
+  - https://billstatus.ls.state.ms.us/members/house/hale.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Jeff_Hale
+  - https://justfacts.votesmart.org/candidate/biography/156342/jeff-hale
+  - https://www.linkedin.com/in/jeff-hale-42514815b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-tate-jeff
+  openstates_id: ocd-person/9839c663-7ae3-4437-82d8-c985975309d8
+  full_name: Jeff Tate
+  office_title: State Senator
+  chamber: senate
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/tate.jpg
+  phone: ""
+  email: jtate@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/tate.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Tate
+  - https://billstatus.ls.state.ms.us/members/senate/tate.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-harness-jeffery
+  openstates_id: ocd-person/73fee1dd-f8c0-40a7-a4f9-e7576b4ecc3f
+  full_name: Jeffery Harness
+  office_title: State Representative
+  chamber: house
+  district: "85"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/harness.jpg
+  phone: ""
+  email: jharness@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/harness.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeffery_Harness
+  - https://billstatus.ls.state.ms.us/members/house/harness.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Jeffery_Harness
+  - https://justfacts.votesmart.org/candidate/130567/jeffery-harness
+  - https://www.linkedin.com/in/jeffery-harness-156bba62
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-hulum-jeffrey
+  openstates_id: ocd-person/249c4603-1fce-4c28-84be-5fa6fc5420b4
+  full_name: Jeffrey Hulum
+  office_title: State Representative
+  chamber: house
+  district: "119"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/hulum.jpg
+  phone: ""
+  email: jhulum@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/hulum.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeffrey_Hulum_III
+  - https://billstatus.ls.state.ms.us/members/house/hulum.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Jeffrey_Hulum_III
+  - https://justfacts.votesmart.org/candidate/biography/186665/jeffrey-hulum-iii
+  - https://www.linkedin.com/in/jeffrey-hulum-iii-dsl-53b855137
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-guice-jeff
+  openstates_id: ocd-person/c5ec6885-a7dc-48f4-a2e4-7aa85397f337
+  full_name: Jeff Guice
+  office_title: State Representative
+  chamber: house
+  district: "114"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/guice.jpg
+  phone: ""
+  email: jguice@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/guice.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeffrey_S._Guice
+  - https://billstatus.ls.state.ms.us/members/house/guice.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Jeffrey_Guice
+  - https://justfacts.votesmart.org/candidate/biography/114211/jeffrey-guice
+  - https://www.linkedin.com/in/jeff-guice-1913671a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-anderson-jeramey
+  openstates_id: ocd-person/29c08356-5e03-4aed-8518-28da6090a14b
+  full_name: Jeramey Anderson
+  office_title: State Representative
+  chamber: house
+  district: "110"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/anderson_(110th).jpg
+  phone: ""
+  email: janderson@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/anderson.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeramey_Anderson
+  - https://billstatus.ls.state.ms.us/members/house/anderson.xml
+  - https://billstatus.ls.state.ms.us/members/house/anderson_(110th).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Jeramey_Anderson
+  - https://justfacts.votesmart.org/candidate/145360/jeramey-anderson
+  - https://www.linkedin.com/in/jeramey-anderson-b6679157
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-england-jeremy
+  openstates_id: ocd-person/33ffa85f-af2b-41bc-89ce-3c59341d17ab
+  full_name: Jeremy England
+  office_title: State Senator
+  chamber: senate
+  district: "51"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/england.jpg
+  phone: ""
+  email: jengland@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/england.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeremy_England
+  - https://billstatus.ls.state.ms.us/members/senate/england.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Jeremy_England_(politician)
+  - https://www.linkedin.com/in/jeremy-england-33704932
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-turner-jerry
+  openstates_id: ocd-person/52d3da6f-c397-4795-9bd8-5a3f17657129
+  full_name: Jerry Turner
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/turner.jpg
+  phone: ""
+  email: jturner@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/turner.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jerry_Turner_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/house/turner.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Jerry_Turner_(politician)
+  - https://www.linkedin.com/in/jerry-turner-4053a899
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-ford-jill
+  openstates_id: ocd-person/922a1ebe-1f17-497b-af99-5f14b6b0f66a
+  full_name: Jill Ford
+  office_title: State Representative
+  chamber: house
+  district: "73"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/ford_(73rd).jpg
+  phone: ""
+  email: jford@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/ford_(73rd).xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jill_Ford
+  - https://billstatus.ls.state.ms.us/members/house/ford_(73rd).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://justfacts.votesmart.org/candidate/biography/186608/jill-ford
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-estrada-jim
+  openstates_id: ocd-person/822c7153-6b04-4db2-bec4-b6f9d074fb75
+  full_name: Jim Estrada
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JimEstrada2023.jpeg
+  phone: ""
+  email: jestrada@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/estrada.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jim_Estrada
+  - https://billstatus.ls.state.ms.us/members/house/estrada.xml
+  - https://en.wikipedia.org/wiki/Jim_Estrada
+  - https://justfacts.votesmart.org/candidate/211413/jim-estrada
+  - https://www.linkedin.com/in/jim-estrada-200470104
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-fondren-jimmy
+  openstates_id: ocd-person/af90acc6-0f51-4638-9b7a-51afc5acb0a3
+  full_name: Jimmy Fondren
+  office_title: State Representative
+  chamber: house
+  district: "111"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jimmy_Fondren.jpg
+  phone: ""
+  email: fondren@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/fondren.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jimmy_Fondren
+  - https://billstatus.ls.state.ms.us/members/house/fondren.xml
+  - https://en.wikipedia.org/wiki/Jimmy_Fondren
+  - https://justfacts.votesmart.org/candidate/biography/211485/jimmy-fondren
+  - https://www.linkedin.com/in/james-jimmy-fondren-975a47203
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-steverson-jody
+  openstates_id: ocd-person/f4bd4ab9-cb95-4b3e-95cb-68312eda5b16
+  full_name: Jody Steverson
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/steverson.jpg?rand=41826
+  phone: ""
+  email: jsteverson@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/steverson.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jody_Steverson
+  - https://billstatus.ls.state.ms.us/members/house/steverson.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Jody_Steverson
+  - https://justfacts.votesmart.org/candidate/biography/130532/jody-steverson
+  - https://www.linkedin.com/in/jody-steverson-231172129
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-carter-joel
+  openstates_id: ocd-person/cc55837a-0a3e-4bcf-8255-b8786fc2b43f
+  full_name: Joel Carter
+  office_title: State Senator
+  chamber: senate
+  district: "49"
+  party: Republican
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/senate/carter.jpg
+  phone: ""
+  email: jcarter@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/carter.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joel_Carter
+  - https://billstatus.ls.state.ms.us/members/senate/carter.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Joel_Carter
+  - https://justfacts.votesmart.org/candidate/biography/176960/joel-carter-jr
+  - https://www.linkedin.com/in/joelcarterms
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-fillingane-joey
+  openstates_id: ocd-person/bc0bd61c-da9a-40db-bf66-a0108b01275e
+  full_name: Joey Fillingane
+  office_title: State Senator
+  chamber: senate
+  district: "41"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/fillingane.jpg
+  phone: ""
+  email: jfillingane@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/fillingane.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joey_Fillingane
+  - https://billstatus.ls.state.ms.us/members/senate/fillingane.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Joey_Fillingane
+  - https://www.linkedin.com/in/joey-fillingane-4b467812
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-hood-joey
+  openstates_id: ocd-person/622761e7-fba1-4a35-879b-45a6dd021ab0
+  full_name: Joey Hood
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/hood.jpg
+  phone: ""
+  email: jhood@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/hood.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joey_Hood
+  - https://billstatus.ls.state.ms.us/members/house/hood.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Joey_Hood
+  - https://justfacts.votesmart.org/candidate/biography/130280/joey-hood
+  - https://www.linkedin.com/in/joeyhood
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-faulkner-john
+  openstates_id: ocd-person/26c38427-62d3-440b-9253-c3e485fbd8ea
+  full_name: John Faulkner
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/faulkner.jpg
+  phone: ""
+  email: jfaulkner@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/faulkner.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Faulkner
+  - https://billstatus.ls.state.ms.us/members/house/faulkner.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/John_Faulkner_(Mississippi_politician)
+  - https://justfacts.votesmart.org/candidate/biography/145354/john-faulkner
+  - https://www.linkedin.com/in/john-faulkner-341075b2
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-read-john
+  openstates_id: ocd-person/6c7089b2-5e2d-4049-9aee-5fd76004af16
+  full_name: John Read
+  office_title: State Representative
+  chamber: house
+  district: "112"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/read.jpg
+  phone: ""
+  email: jread@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/read.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Read
+  - https://billstatus.ls.state.ms.us/members/house/read.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/John_Read_(Mississippi_politician)
+  - https://justfacts.votesmart.org/candidate/biography/3712/john-read
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-lamar-trey
+  openstates_id: ocd-person/c655558e-dfac-468a-a633-85f380c538b6
+  full_name: Trey Lamar
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/5660bc77e4b02bc8dd3c055f/1463509030796-7AM0VGR04ZZUTAOF9TQW/image-asset.jpeg?format=500w
+  phone: ""
+  email: jlamar@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/lamar.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Trey_Lamar
+  - https://billstatus.ls.state.ms.us/members/house/lamar.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Trey_Lamar
+  - https://justfacts.votesmart.org/candidate/biography/130266/trey-lamar-iii
+  - https://www.lamarhannaford.com/trey-lamar
+  - https://www.linkedin.com/in/trey-lamar-b331471b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-hines-john
+  openstates_id: ocd-person/a432eb59-5656-4869-aedc-832b2206b4a5
+  full_name: John Hines
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/hines.jpg
+  phone: ""
+  email: jhines@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/hines.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Hines,_Mississippi_Representative
+  - https://billstatus.ls.state.ms.us/members/house/hines.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/John_Hines_(Mississippi_politician)
+  - https://justfacts.votesmart.org/candidate/biography/54828/john-hines-sr
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-dupree-johnny
+  openstates_id: ocd-person/b05ddbc1-7d61-4f78-bbd3-e0f9ea4de84a
+  full_name: Johnny DuPree
+  office_title: State Senator
+  chamber: senate
+  district: "45"
+  party: Democratic
+  status: active
+  photo_url: https://www.nationalcivicleague.org/wp-content/uploads/2021/11/DuPree.jpg
+  phone: ""
+  email: jdupree@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/dupree.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Johnny_DuPree
+  - https://billstatus.ls.state.ms.us/members/senate/dupree.xml
+  - https://en.wikipedia.org/wiki/Johnny_DuPree
+  - https://www.linkedin.com/in/johnnyldupree
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-mcmillan-jonathan
+  openstates_id: ocd-person/392af292-07d5-4bfd-9636-fe4257df61b3
+  full_name: Jonathan McMillan
+  office_title: State Representative
+  chamber: house
+  district: "58"
+  party: Republican
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/house/mcmillan.jpg
+  phone: ""
+  email: mcmillan@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/mcmillan.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jonathan_McMillan
+  - https://billstatus.ls.state.ms.us/members/house/mcmillan.xml
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-seymour-mike
+  openstates_id: ocd-person/70b45762-64ee-4a16-b15a-194e4e3c9bf6
+  full_name: Mike Seymour
+  office_title: State Senator
+  chamber: senate
+  district: "47"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/seymour.jpg
+  phone: ""
+  email: jseymour@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/seymour.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joseph_Seymour
+  - https://billstatus.ls.state.ms.us/members/senate/seymour.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Mike_Seymour_(Mississippi_politician)
+  - https://justfacts.votesmart.org/candidate/biography/40160/joseph-seymour
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-thomas-joseph
+  openstates_id: ocd-person/13131d55-19a4-49cd-aba9-e8eef7aedb06
+  full_name: Joseph Thomas
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/thomas.jpg
+  phone: ""
+  email: jthomas@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/thomas.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joseph_Thomas_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/senate/thomas.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://justfacts.votesmart.org/candidate/biography/40247/joseph-thomas-sr
+  - https://www.linkedin.com/in/joseph-c-thomas-1209222b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-tubb-bubba
+  openstates_id: ocd-person/820dcd6c-fdeb-4244-8ceb-7f5ce3048674
+  full_name: Bubba Tubb
+  office_title: State Representative
+  chamber: house
+  district: "87"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/tubb.jpg
+  phone: ""
+  email: jtubb@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/tubb.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joseph_Tubb
+  - https://billstatus.ls.state.ms.us/members/house/tubb.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Joseph_Tubb_(politician)
+  - https://justfacts.votesmart.org/candidate/186613/joseph-tubb
+  - https://www.linkedin.com/in/joseph-tubb-48307054
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-harkins-josh
+  openstates_id: ocd-person/13163ae5-a55d-4eff-8b23-b9f7df9e354a
+  full_name: Josh Harkins
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/harkins.jpg
+  phone: ""
+  email: jharkins@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/harkins.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Josh_Harkins
+  - https://billstatus.ls.state.ms.us/members/senate/harkins.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Josh_Harkins
+  - https://justfacts.votesmart.org/candidate/biography/130331/josh-harkins
+  - https://www.linkedin.com/in/josh-harkins-35006717
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-hawkins-josh
+  openstates_id: ocd-person/5ad5b396-01a0-40eb-8d4b-0f76f2727406
+  full_name: Josh Hawkins
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/80182230_83452a1c-4a99-4e85-9c86-d12418dab31b.jpeg
+  phone: ""
+  email: jhawkins@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/hawkins.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Josh_Hawkins
+  - https://billstatus.ls.state.ms.us/members/house/hawkins.xml
+  - https://en.wikipedia.org/wiki/Josh_Hawkins_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/186668/josh-hawkins
+  - https://www.linkedin.com/in/josh-hawkins-15a394210
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-barnett-juan
+  openstates_id: ocd-person/fcb35ef2-7463-4f8a-9a8a-3bc45b235ecb
+  full_name: Juan Barnett
+  office_title: State Senator
+  chamber: senate
+  district: "34"
+  party: Democratic
+  status: active
+  photo_url: https://static.votesmart.org/static/canphoto/156222.jpg
+  phone: ""
+  email: jbarnett@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/barnett.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Juan_Barnett
+  - https://billstatus.ls.state.ms.us/members/senate/barnett.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Juan_Barnett
+  - https://justfacts.votesmart.org/candidate/biography/156222/juan-barnett
+  - https://www.linkedin.com/in/juan-barnett-24843461
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-crosby-justin
+  openstates_id: ocd-person/2289ffac-b812-4f76-89a8-d8e77df4de2c
+  full_name: Justin Crosby
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: https://cdn.mississippitoday.org/wp-content/uploads/2025/07/16124016/IMG_20250627_163819-200x200.jpg
+  phone: ""
+  email: jcrosby@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/crosby.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Justin_Crosby
+  - https://billstatus.ls.state.ms.us/members/house/crosby.xml
+  - https://en.wikipedia.org/wiki/Justin_Crosby
+  - https://www.linkedin.com/in/justin-crosby-the-dreamer
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-keen-justin
+  openstates_id: ocd-person/9eae167e-9e7e-4334-a67e-5b686617c71c
+  full_name: Justin Keen
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://desotocountynews.com/wp-content/uploads/2023/01/Justin-Keen-800x445.jpg
+  phone: ""
+  email: jkeen@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/keen.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Justin_Keen
+  - https://billstatus.ls.state.ms.us/members/house/keen.xml
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-pope-justin
+  openstates_id: ocd-person/78171f60-d4f8-470f-85ef-0636656eb0d5
+  full_name: Justin Pope
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/Senate/Pope.jpg
+  phone: ""
+  email: jpope@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/pope.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Justin_Pope
+  - https://billstatus.ls.state.ms.us/members/senate/pope.xml
+  - https://www.linkedin.com/in/justin-pope-54573568
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-gibbs-justis
+  openstates_id: ocd-person/48af55d6-95ef-4e57-9ec3-a566af0ce517
+  full_name: Justis Gibbs
+  office_title: State Representative
+  chamber: house
+  district: "72"
+  party: Democratic
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/house/gibbs_(72nd).jpg
+  phone: ""
+  email: gibbs@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/gibbs_(72nd).xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Justis_Gibbs
+  - https://billstatus.ls.state.ms.us/members/house/gibbs_(72nd).xml
+  - https://gibbstravis.com/our-team/justis-r.-gibbs-ii
+  - https://www.gibbstravis.com/our-team/justis-r.-gibbs-ii
+  - https://www.linkedin.com/in/justis-robert-gibbs-ii-b9a61815b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-karriem-kabir
+  openstates_id: ocd-person/a1fef221-e3ca-4598-a7f9-cf6862b3007a
+  full_name: Kabir Karriem
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/karriem.jpg
+  phone: ""
+  email: kkarriem@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/karriem.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kabir_Karriem
+  - https://billstatus.ls.state.ms.us/members/house/karriem.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Kabir_Karriem
+  - https://justfacts.votesmart.org/candidate/biography/156262/kabir-karriem
+  - https://www.linkedin.com/in/kabir-karriem-7baa9341
+  - https://www.linkedin.com/in/kabir-karriem-9a6a3562
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-mumford-kamesha
+  openstates_id: ocd-person/d0269daa-032c-482b-9faf-1d569a4645a9
+  full_name: Kamesha Mumford
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://i0.wp.com/www.mississippifreepress.org/wp-content/uploads/2025/11/Kamesha-Mumford_courtesy.jpg?w=1200&quality=89&ssl=1
+  phone: ""
+  email: kmumford@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/mumford.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kamesha_Mumford
+  - https://billstatus.ls.state.ms.us/members/senate/mumford.xml
+  - https://www.linkedin.com/in/kamesha-mumford-03695b25
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-gibbs-karl
+  openstates_id: ocd-person/38d590c5-20ff-42d5-b9dd-af77664213cf
+  full_name: Karl Gibbs
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Democratic
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/house/gibbs_(36th).jpg
+  phone: ""
+  email: kgibbs@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/gibbs.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Karl_Gibbs
+  - https://billstatus.ls.state.ms.us/members/house/gibbs.xml
+  - https://billstatus.ls.state.ms.us/members/house/gibbs_(36th).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-oliver-karl
+  openstates_id: ocd-person/761527db-bbe0-43e5-90e0-2a06528ebfa4
+  full_name: Karl Oliver
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/oliver.jpg
+  phone: ""
+  email: koliver@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/oliver.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Karl_Oliver
+  - https://billstatus.ls.state.ms.us/members/house/oliver.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Karl_Oliver
+  - https://justfacts.votesmart.org/candidate/biography/156354/karl-oliver
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-chism-kathy
+  openstates_id: ocd-person/cc7b9351-ea3c-4436-8cc7-9ec0f34b3e0a
+  full_name: Kathy Chism
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/chism.jpg
+  phone: ""
+  email: kchism@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/chism.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kathy_Chism
+  - https://billstatus.ls.state.ms.us/members/senate/chism.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-jackson-keith
+  openstates_id: ocd-person/0f07445d-ab7a-4c6f-9b3c-a402436afbed
+  full_name: Keith Jackson
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Democratic
+  status: active
+  photo_url: https://www.theclintoncourier.net/wp-content/uploads/2024/03/Statement-by-Attorney-Christopher-A.-Collins-on-Behalf-of-Keith-Jackson.png
+  phone: ""
+  email: jackson@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/jackson_(45th).xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Keith_Jackson_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/house/jackson_(45th).xml
+  - https://en.wikipedia.org/wiki/Keith_Jackson_(politician)
+  - https://justfacts.votesmart.org/candidate/156220/keith-jackson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-morgan-ken
+  openstates_id: ocd-person/da8a0173-20dc-4979-949d-57d902e744e0
+  full_name: Ken Morgan
+  office_title: State Representative
+  chamber: house
+  district: "100"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/morgan.jpg
+  phone: ""
+  email: kmorgan@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/morgan.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ken_Morgan
+  - https://billstatus.ls.state.ms.us/members/house/morgan.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Ken_Morgan_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/20648/ken-morgan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-holloway-kenji
+  openstates_id: ocd-person/f0fd6950-d890-445b-834e-a635715b75d5
+  full_name: Kenji Holloway
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/KenjiHolloway.jpeg
+  phone: ""
+  email: holloway@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/holloway_(27th).xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kenji_Holloway
+  - https://billstatus.ls.state.ms.us/members/house/holloway_(27th).xml
+  - https://en.wikipedia.org/wiki/Kenji_Holloway
+  - https://justfacts.votesmart.org/candidate/biography/211407/kenji-holloway
+  - https://www.linkedin.com/in/kenji-holloway-26a499159
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-mccarty-kent
+  openstates_id: ocd-person/63655fb4-af7a-4b96-95f0-5aa1bd93da62
+  full_name: Kent McCarty
+  office_title: State Representative
+  chamber: house
+  district: "101"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/mccarty.jpg
+  phone: ""
+  email: kmccarty@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/mccarty.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kent_McCarty
+  - https://billstatus.ls.state.ms.us/members/house/mccarty.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Kent_McCarty
+  - https://justfacts.votesmart.org/candidate/186059/kent-mccarty
+  - https://www.linkedin.com/in/kent-mccarty-30449745
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-blackwell-kevin
+  openstates_id: ocd-person/b58c7115-6f1d-4de3-9327-eef3b6f0c83c
+  full_name: Kevin Blackwell
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/blackwell.jpg
+  phone: ""
+  email: kblackwell@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/blackwell.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kevin_Blackwell
+  - https://billstatus.ls.state.ms.us/members/senate/blackwell.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Kevin_Blackwell_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/69823/kevin-blackwell
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-felsher-kevin
+  openstates_id: ocd-person/9967ba62-2eb6-452e-8445-d3422c62a813
+  full_name: Kevin Felsher
+  office_title: State Representative
+  chamber: house
+  district: "117"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/felsher.jpg
+  phone: ""
+  email: kfelsher@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/felsher.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kevin_Felsher
+  - https://billstatus.ls.state.ms.us/members/house/felsher.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Kevin_Felsher
+  - https://justfacts.votesmart.org/candidate/key-votes/186624/kevin-felsher
+  - https://www.linkedin.com/in/kevin-felsher-2a6041168
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-ford-kevin
+  openstates_id: ocd-person/7a9174a7-1301-407a-8c77-5f70e70fde92
+  full_name: Kevin Ford
+  office_title: State Representative
+  chamber: house
+  district: "54"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/ford.jpg
+  phone: ""
+  email: kford@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/ford.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kevin_Ford
+  - https://billstatus.ls.state.ms.us/members/house/ford.xml
+  - https://billstatus.ls.state.ms.us/members/house/ford_(54th).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://www.linkedin.com/in/kevin-ford-b86ab519
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-horan-kevin
+  openstates_id: ocd-person/b339d980-af38-4e76-b53c-215c26191cc1
+  full_name: Kevin Horan
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/horan.jpg
+  phone: ""
+  email: khoran@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/horan.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kevin_Horan_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/house/horan.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Kevin_Horan
+  - https://justfacts.votesmart.org/candidate/key-votes/130542/kevin-horan
+  - https://www.linkedin.com/in/kevin-horan-55817693
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-remak-kimberly
+  openstates_id: ocd-person/58bd4b77-f7d6-45bd-bb3e-0386cf36bbf3
+  full_name: Kimberly Remak
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/KimberlyRemak.jpg
+  phone: ""
+  email: remak@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/remak.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kimberly_Remak
+  - https://billstatus.ls.state.ms.us/members/house/remak.xml
+  - https://en.wikipedia.org/wiki/Kimberly_Remak
+  - https://justfacts.votesmart.org/candidate/key-votes/186590/kimberly-remak
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-varner-lance
+  openstates_id: ocd-person/f9eedb57-45af-4743-b869-ece1ccb643e2
+  full_name: Lance Varner
+  office_title: State Representative
+  chamber: house
+  district: "62"
+  party: Republican
+  status: active
+  photo_url: https://mcgeerealtyservices.com/wp-content/uploads/2020/09/Lances-Headshot-300x400.gif
+  phone: ""
+  email: varner@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/varner.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lance_Varner
+  - https://billstatus.ls.state.ms.us/members/house/varner.xml
+  - https://en.wikipedia.org/wiki/Lance_Varner
+  - https://justfacts.votesmart.org/candidate/211438/lance-varner
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-taylor-lane
+  openstates_id: ocd-person/b273517c-b673-4bf0-a084-b960bc943953
+  full_name: Lane Taylor
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/senate/taylor.jpg
+  phone: ""
+  email: ltaylor@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/taylor.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lane_Taylor
+  - https://billstatus.ls.state.ms.us/members/senate/taylor.xml
+  - https://en.wikipedia.org/wiki/Lane_Taylor_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/221524/lane-taylor
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-byrd-larry
+  openstates_id: ocd-person/57419404-003c-4a1d-93c0-dce987b11c00
+  full_name: Larry Byrd
+  office_title: State Representative
+  chamber: house
+  district: "104"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/byrd.jpg
+  phone: ""
+  email: lbyrd@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/byrd.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Larry_Byrd
+  - https://billstatus.ls.state.ms.us/members/house/byrd.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Larry_Byrd
+  - https://www.linkedin.com/in/larry-byrd-20619180
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-jackson-lataisha
+  openstates_id: ocd-person/843ed177-0a3d-4f96-9df2-28ad7333c5a6
+  full_name: Lataisha Jackson
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/jackson.jpg
+  phone: ""
+  email: ljackson@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/2023/pdf/house_authors/jackson.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lataisha_M._Jackson
+  - https://billstatus.ls.state.ms.us/2023/pdf/house_authors/jackson.xml
+  - https://billstatus.ls.state.ms.us/members/house/jackson.xml
+  - https://billstatus.ls.state.ms.us/members/house/jackson_(11th).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Lataisha_Jackson
+  - https://justfacts.votesmart.org/candidate/biography/144473/lataisha-jackson
+  - https://www.linkedin.com/in/lataisha-jackson-51932615
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-yancey-lee
+  openstates_id: ocd-person/fe627b98-efb2-43b0-a6e5-7ad967c1a2fc
+  full_name: Lee Yancey
+  office_title: State Representative
+  chamber: house
+  district: "74"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/yancey.jpg
+  phone: ""
+  email: lyancey@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/yancey.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lee_Yancey
+  - https://billstatus.ls.state.ms.us/members/house/yancey.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://billstatus.ls.state.ms.us/members/senate/yancey.xml
+  - https://en.wikipedia.org/wiki/Lee_Yancey
+  - https://justfacts.votesmart.org/candidate/biography/69828/lee-yancey
+  - https://www.linkedin.com/in/lee-yancey-my-element-wealth
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-carpenter-bubba
+  openstates_id: ocd-person/dcc9906b-9a0a-4503-9128-006317d5ff3f
+  full_name: Bubba Carpenter
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/carpenter.jpg
+  phone: ""
+  email: lcarpenter@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/carpenter.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lester_Carpenter
+  - https://billstatus.ls.state.ms.us/members/house/carpenter.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Lester_Carpenter
+  - https://justfacts.votesmart.org/candidate/biography/69848/lester-carpenter
+  - https://www.linkedin.com/in/lester-carpenter-carpenter-b9348059
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-chassaniol-lydia
+  openstates_id: ocd-person/094c0731-4932-4400-ad96-84c83ba1dd59
+  full_name: Lydia Chassaniol
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/senate/chassaniol.jpg
+  phone: ""
+  email: lchassaniol@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/chassaniol.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lydia_Chassaniol
+  - https://billstatus.ls.state.ms.us/members/senate/chassaniol.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Lydia_Chassaniol
+  - https://justfacts.votesmart.org/candidate/biography/3611/lydia-chassaniol
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-barton-manly
+  openstates_id: ocd-person/c3ea3d93-cd2d-48f4-babd-a47bbd951108
+  full_name: Manly Barton
+  office_title: State Representative
+  chamber: house
+  district: "109"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/barton.jpg
+  phone: ""
+  email: mbarton@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/barton.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Manly_Barton
+  - https://billstatus.ls.state.ms.us/members/house/barton.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Manly_Barton
+  - https://justfacts.votesmart.org/candidate/biography/88559/manly-barton
+  - https://www.linkedin.com/in/manly-barton-23823a4b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-tullos-mark
+  openstates_id: ocd-person/3439bb59-6632-4653-83e1-031422ad832f
+  full_name: Mark Tullos
+  office_title: State Representative
+  chamber: house
+  district: "79"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/tullos.jpg
+  phone: ""
+  email: mtullos@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/tullos.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Tullos
+  - https://billstatus.ls.state.ms.us/members/house/tullos.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Mark_Tullos
+  - https://justfacts.votesmart.org/candidate/biography/156364/mark-tullos
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-mclendon-michael
+  openstates_id: ocd-person/017dec88-1105-454d-b55b-eeb3a3c85b55
+  full_name: Michael McLendon
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/mclendon.jpg
+  phone: ""
+  email: mmclendon@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/mclendon.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_McLendon
+  - https://billstatus.ls.state.ms.us/members/senate/mclendon.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://justfacts.votesmart.org/candidate/biography/186530/mike-mclendon
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-thompson-mike
+  openstates_id: ocd-person/eaa39996-c8a7-4568-b01e-d7685667227b
+  full_name: Mike Thompson
+  office_title: State Senator
+  chamber: senate
+  district: "48"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/thompson.jpg
+  phone: ""
+  email: mthompson@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/thompson.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Thompson_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/senate/thompson.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://justfacts.votesmart.org/candidate/biography/186558/mike-thompson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-mcgee-missy
+  openstates_id: ocd-person/e645db95-2862-40dd-b548-b84b6f0b5f3f
+  full_name: Missy McGee
+  office_title: State Representative
+  chamber: house
+  district: "102"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/mcgee.jpg
+  phone: ""
+  email: mmcgee@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/mcgee.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Missy_Warren_McGee
+  - https://billstatus.ls.state.ms.us/members/house/mcgee.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Missy_McGee
+  - https://justfacts.votesmart.org/candidate/biography/176626/missy-mcgee
+  - https://missymcgee.org/about-missy
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-whaley-neil
+  openstates_id: ocd-person/60cdec6e-abad-4d5c-97ca-83da67ed7a67
+  full_name: Neil Whaley
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/whaley.jpg
+  phone: ""
+  email: nwhaley@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/whaley.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Neil_Whaley
+  - https://billstatus.ls.state.ms.us/members/senate/whaley.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Neil_Whaley
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-boyd-nicole
+  openstates_id: ocd-person/befe53fc-f95d-49df-93f4-9985e00151e6
+  full_name: Nicole Boyd
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/boyd.jpg
+  phone: ""
+  email: nboyd@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/boyd.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nicole_Boyd
+  - https://billstatus.ls.state.ms.us/members/senate/boyd.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://www.linkedin.com/in/nicole-boyd-381111162
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-sanford-noah
+  openstates_id: ocd-person/86dbc7dc-6cd5-4005-b076-9b1bb674e331
+  full_name: Noah Sanford
+  office_title: State Representative
+  chamber: house
+  district: "90"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/sanford.jpg
+  phone: ""
+  email: nsanford@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/sanford.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Noah_Sanford
+  - https://billstatus.ls.state.ms.us/members/house/sanford.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Noah_Sanford
+  - https://justfacts.votesmart.org/candidate/biography/156370/noah-sanford
+  - https://sanfordlawfirm.net
+  - https://www.linkedin.com/in/noah-sanford-62773489
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-scott-omeria
+  openstates_id: ocd-person/ee6c2cb7-6d0f-4b45-9e06-2ba1dfae8ecb
+  full_name: Omeria Scott
+  office_title: State Representative
+  chamber: house
+  district: "80"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/scott.jpg
+  phone: ""
+  email: oscott@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/scott.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Omeria_Scott
+  - https://billstatus.ls.state.ms.us/members/house/scott.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Omeria_Scott
+  - https://justfacts.votesmart.org/candidate/biography/20822/omeria-scott
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-denton-oscar
+  openstates_id: ocd-person/5fb7e1d6-24ab-41e1-b0b2-d1445bf6abd3
+  full_name: Oscar Denton
+  office_title: State Representative
+  chamber: house
+  district: "55"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/denton.jpg
+  phone: ""
+  email: odenton@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/denton.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Oscar_Denton
+  - https://billstatus.ls.state.ms.us/members/house/denton.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Oscar_Denton
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-williams-otha
+  openstates_id: ocd-person/c730cb69-8d30-4676-afe8-0fb513f3845f
+  full_name: Otha Williams
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://magnoliatribune.com/wp-content/uploads/2025/11/Otha-Williams-1024x1024.jpg
+  phone: ""
+  email: owilliams@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/williams.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Otha_Williams_III
+  - https://billstatus.ls.state.ms.us/members/house/williams.xml
+  - https://en.wikipedia.org/wiki/Otha_Williams
+  - https://www.linkedin.com/in/otha-williams-617531b3
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-anthony-otis
+  openstates_id: ocd-person/d4007757-e112-43b0-8261-1dd806f658c8
+  full_name: Otis Anthony
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/anthony.jpg
+  phone: ""
+  email: oanthony@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/anthony.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Otis_Anthony
+  - https://billstatus.ls.state.ms.us/members/house/anthony.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Otis_Anthony
+  - https://justfacts.votesmart.org/candidate/biography/130546/otis-anthony-ii
+  - https://www.linkedin.com/in/otis-l-anthony-ii-9379937a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-watson-percy
+  openstates_id: ocd-person/7dcb0b5b-3eb3-4db2-8666-0eb83589289f
+  full_name: Percy Watson
+  office_title: State Representative
+  chamber: house
+  district: "103"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/watson.jpg
+  phone: ""
+  email: pwatson@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/watson.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Percy_Watson
+  - https://billstatus.ls.state.ms.us/members/house/watson.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Percy_Watson_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/3733/percy-watson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-bailey-perry
+  openstates_id: ocd-person/a91418ca-cbde-4a6f-8c9d-889f406c4ed8
+  full_name: Perry Bailey
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/bailey_(23rd).jpg
+  phone: ""
+  email: pbailey@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/bailey_(23rd).xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Perry_Van_Bailey
+  - https://billstatus.ls.state.ms.us/members/house/bailey_(23rd).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Perry_Van_Bailey
+  - https://justfacts.votesmart.org/candidate/211265/perry-van-bailey
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-ladner-philman
+  openstates_id: ocd-person/7aef9236-de61-47cf-8243-b5a21fcac9dc
+  full_name: Philman Ladner
+  office_title: State Senator
+  chamber: senate
+  district: "46"
+  party: Republican
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/senate/Ladner.jpg
+  phone: ""
+  email: pladner@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/ladner.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Philman_Ladner
+  - https://billstatus.ls.state.ms.us/members/senate/ladner.xml
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-wallace-price
+  openstates_id: ocd-person/35bf01bd-be16-4ce6-b07c-bfff3d25e7e3
+  full_name: Price Wallace
+  office_title: State Representative
+  chamber: house
+  district: "77"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/wallace.jpg
+  phone: ""
+  email: pwallace@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/wallace.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Price_Wallace
+  - https://billstatus.ls.state.ms.us/members/house/wallace.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Price_Wallace
+  - https://justfacts.votesmart.org/candidate/biography/182811/price-wallace
+  - https://www.linkedin.com/in/price-wallace-75a549110
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-boyd-randy
+  openstates_id: ocd-person/defa75f7-917e-42da-9d2c-403ad80d1995
+  full_name: Randy Boyd
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/boyd_(19th).jpg
+  phone: ""
+  email: rboyd@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/boyd.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Randy_Boyd_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/house/boyd.xml
+  - https://billstatus.ls.state.ms.us/members/house/boyd_(19).xml
+  - https://billstatus.ls.state.ms.us/members/house/boyd_(19th).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Randy_Boyd_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/69890/randy-boyd
+  - https://www.linkedin.com/in/randy-boyd-6bb72537
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-rushing-randy
+  openstates_id: ocd-person/af2a8aef-177c-49d2-9b77-f1f19f7b8eaa
+  full_name: Randy Rushing
+  office_title: State Representative
+  chamber: house
+  district: "78"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/rushing.jpg
+  phone: ""
+  email: rrushing@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/rushing.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Randy_Rushing
+  - https://billstatus.ls.state.ms.us/members/house/rushing.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Randy_Rushing
+  - https://justfacts.votesmart.org/candidate/69973/randy-rushing
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-bennett-richard
+  openstates_id: ocd-person/4b4c6bbd-fcbb-4c7e-9746-83acffe80898
+  full_name: Richard Bennett
+  office_title: State Representative
+  chamber: house
+  district: "120"
+  party: Republican
+  status: active
+  photo_url: https://static.votesmart.org/static/canphoto/69948.jpg
+  phone: ""
+  email: rbennett@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/bennett.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Richard_Bennett_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/house/bennett.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Richard_Bennett_(Mississippi_politician)
+  - https://justfacts.votesmart.org/candidate/biography/69948/richard-bennett
+  - https://www.linkedin.com/in/richard-bennett-6708b5154
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-thompson-rickey
+  openstates_id: ocd-person/f8b65fd8-7b11-4954-93fd-47a5cbbd53c8
+  full_name: Rickey Thompson
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/thompson.jpg
+  phone: ""
+  email: rthompson@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/thompson.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rickey_Thompson
+  - https://billstatus.ls.state.ms.us/members/house/thompson.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Rickey_W._Thompson
+  - https://justfacts.votesmart.org/candidate/biography/186634/rickey-thompson
+  - https://www.linkedin.com/in/rickey-thompson-355464b1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-parks-rita
+  openstates_id: ocd-person/d618a68e-ed3a-47a5-be24-852af75d9ab3
+  full_name: Rita Parks
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/parks.jpg
+  phone: ""
+  email: rparks@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/parks.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rita_Parks
+  - https://billstatus.ls.state.ms.us/members/senate/parks.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Rita_Potts_Parks
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-roberson-rob
+  openstates_id: ocd-person/e36cdae5-3437-48fc-93b4-280b09af661b
+  full_name: Rob Roberson
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Republican
+  status: active
+  photo_url: https://robrobersonattorney.com/wp-content/uploads/2019/07/Rob-Roberson.jpg
+  phone: ""
+  email: rroberson@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/roberson.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rob_Roberson
+  - https://billstatus.ls.state.ms.us/members/house/roberson.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Rob_Roberson
+  - https://justfacts.votesmart.org/candidate/2132/loyd-roberson-ii
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-jackson-reginald
+  openstates_id: ocd-person/0fde8bcf-e43a-4b39-a9a5-b7869424e2d9
+  full_name: Reginald Jackson
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/senate/jackson.jpg
+  phone: ""
+  email: rjackson@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/jackson.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Reginald_Jackson_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/senate/jackson.xml
+  - https://billstatus.ls.state.ms.us/members/senate/jackson_(11th).xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-johnson-robert
+  openstates_id: ocd-person/0de22359-9403-4bec-917a-985b26fd45ff
+  full_name: Robert Johnson
+  office_title: State Representative
+  chamber: house
+  district: "94"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/johnson.jpg
+  phone: ""
+  email: rjohnson@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/johnson.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Johnson,_III
+  - https://billstatus.ls.state.ms.us/members/house/johnson.xml
+  - https://billstatus.ls.state.ms.us/members/house/johnson_(94th).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Robert_Johnson_III
+  - https://justfacts.votesmart.org/candidate/biography/3630/robert-johnson-iii
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-sanders-robert
+  openstates_id: ocd-person/e7684f57-ee0c-48ea-8157-8f04c2b8e685
+  full_name: Robert Sanders
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/sanders.jpg
+  phone: ""
+  email: rsanders@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/sanders.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Sanders_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/house/sanders.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Robert_L._Sanders
+  - https://justfacts.votesmart.org/candidate/199720/robert-sanders
+  - https://www.linkedin.com/in/robert-sanders-7891921b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-hickman-rod
+  openstates_id: ocd-person/eb5bde8b-1497-4a27-9806-128cf68cb00d
+  full_name: Rod Hickman
+  office_title: State Senator
+  chamber: senate
+  district: "32"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/hickman.jpg
+  phone: ""
+  email: rhickman@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/hickman.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rod_Hickman
+  - https://billstatus.ls.state.ms.us/members/senate/hickman.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Rod_Hickman
+  - https://www.linkedin.com/in/rod-hickman-1aa665b0
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-hall-rodney
+  openstates_id: ocd-person/6d293363-c72f-479b-81fc-225071ac4913
+  full_name: Rodney Hall
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: rhall@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/hall.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rodney_Hall_(Mississippi)
+  - https://billstatus.ls.state.ms.us/members/house/hall.xml
+  - https://en.wikipedia.org/wiki/Rodney_Hall_(Mississippi_politician)
+  - https://justfacts.votesmart.org/candidate/211403/rodney-hall
+  - https://www.linkedin.com/in/rodneyhallforms
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-crudup-ronnie
+  openstates_id: ocd-person/fee2ce67-1403-487e-b891-587e625ce15c
+  full_name: Ronnie Crudup
+  office_title: State Representative
+  chamber: house
+  district: "71"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/crudup.jpg
+  phone: ""
+  email: rcrudup@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/crudup.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ronnie_Crudup_Jr.
+  - https://billstatus.ls.state.ms.us/members/house/crudup.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Ronnie_Crudup_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/186056/ronnie-crudup-jr
+  - https://www.linkedin.com/in/ronnie-crudup-jr-5b28b93a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-mims-sam
+  openstates_id: ocd-person/0bf76f2b-9380-45c1-8809-315a682322a3
+  full_name: Sam Mims
+  office_title: State Representative
+  chamber: house
+  district: "97"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/mims.jpg
+  phone: ""
+  email: smims@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/mims.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sam_Mims,_V
+  - https://billstatus.ls.state.ms.us/members/house/mims.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Sam_Mims_V
+  - https://justfacts.votesmart.org/candidate/biography/40027/sam-mims-v
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-creekmore-sam
+  openstates_id: ocd-person/d79acfe3-5991-41ae-b245-f7b7f877febb
+  full_name: Sam Creekmore
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/creekmore_iv.jpg
+  phone: ""
+  email: screekmore@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/creekmore_iv.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sam_Creekmore_IV
+  - https://billstatus.ls.state.ms.us/members/house/creekmore_iv.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Sam_Creekmore_IV
+  - https://justfacts.votesmart.org/candidate/biography/186594/sam-creekmore-iv
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-simmons-sarita
+  openstates_id: ocd-person/f1012c43-9559-4f7a-8b70-8dd9cf88bab1
+  full_name: Sarita Simmons
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/simmons_(13th).jpg
+  phone: ""
+  email: ssimmons@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/simmons_(13th).xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sarita_Simmons
+  - https://billstatus.ls.state.ms.us/members/senate/simmons_(13th).xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://justfacts.votesmart.org/candidate/biography/186574/sarita-simmons
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-delano-scott
+  openstates_id: ocd-person/8467b994-f651-446b-b77f-0632ff790ff8
+  full_name: Scott DeLano
+  office_title: State Senator
+  chamber: senate
+  district: "50"
+  party: Republican
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/senate/delano.jpg
+  phone: ""
+  email: sdelano@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/delano.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_DeLano
+  - https://billstatus.ls.state.ms.us/members/house/delano.xml
+  - https://billstatus.ls.state.ms.us/members/senate/delano.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Scott_DeLano
+  - https://justfacts.votesmart.org/candidate/biography/117442/scott-delano
+  - https://www.linkedin.com/in/scott-delano-07b21357
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-yates-shanda
+  openstates_id: ocd-person/de5a9a25-1b08-45ba-9aff-e635905498ba
+  full_name: Shanda Yates
+  office_title: State Representative
+  chamber: house
+  district: "64"
+  party: Independent
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/yates.jpg
+  phone: ""
+  email: syates@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/yates.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shanda_Yates
+  - https://billstatus.ls.state.ms.us/members/house/yates.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Shanda_Yates
+  - https://justfacts.votesmart.org/candidate/biography/186645/shanda-yates
+  - https://www.linkedin.com/in/shanda-yates-8a00a07
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-aguirre-shane
+  openstates_id: ocd-person/4a73b9e6-c66b-4022-b380-6caea6b48265
+  full_name: Shane Aguirre
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/house/aguirre.jpg
+  phone: ""
+  email: saguirre@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/aguirre.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shane_Aguirre
+  - https://billstatus.ls.state.ms.us/members/house/aguirre.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Shane_Aguirre
+  - https://justfacts.votesmart.org/candidate/156337/shane-aguirre
+  - https://www.linkedin.com/in/shaneaguirre
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-barnett-shane
+  openstates_id: ocd-person/9b8df60b-26ba-4cdc-b862-87b15f81fdc1
+  full_name: Shane Barnett
+  office_title: State Representative
+  chamber: house
+  district: "86"
+  party: Republican
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/5472abbae4b0859145039552/1519227639852-W83BICPBB7LGL856WGBQ/Shane.jpg?format=500w
+  phone: ""
+  email: sbarnett@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/barnett.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shane_Barnett
+  - https://billstatus.ls.state.ms.us/members/house/barnett.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Shane_Barnett
+  - https://futurecaucus.org/future-caucus/state-future-caucus-network/state-caucus-chairs/shane-barnett
+  - https://www.linkedin.com/in/shane-barnett-77bb3228b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-norwood-sollie
+  openstates_id: ocd-person/4b5fb3d4-b284-4886-bb0b-4c00febb1724
+  full_name: Sollie Norwood
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/norwood.jpg
+  phone: ""
+  email: snorwood@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/norwood.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sollie_Norwood
+  - https://billstatus.ls.state.ms.us/members/senate/norwood.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Sollie_Norwood
+  - https://justfacts.votesmart.org/candidate/biography/144231/sollie-norwood
+  - https://www.linkedin.com/in/sollie-norwood-b6723976
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-osborne-solomon
+  openstates_id: ocd-person/23d69b3d-2f17-4fa9-a23c-c9ad8db4f7a9
+  full_name: Solomon Osborne
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/osborne.jpg
+  phone: ""
+  email: sosborne@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/osborne.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Solomon_Osborne
+  - https://billstatus.ls.state.ms.us/members/house/osborne.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Solomon_Osborne
+  - https://justfacts.votesmart.org/candidate/biography/186054/solomon-osborne
+  - https://www.linkedin.com/in/solomon-osborne-11970941
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-hobgoodwilkes-stacey
+  openstates_id: ocd-person/fa44d12a-cb19-426b-94d3-6fb68b4095c8
+  full_name: Stacey Hobgood-Wilkes
+  office_title: State Representative
+  chamber: house
+  district: "108"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/hobgood-wilkes.jpg
+  phone: ""
+  email: swilkes@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/hobgood-wilkes.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stacey_Hobgood_Wilkes
+  - https://billstatus.ls.state.ms.us/members/house/hobgood-wilkes.xml
+  - https://billstatus.ls.state.ms.us/members/house/wilkes.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Stacey_Hobgood-Wilkes
+  - https://justfacts.votesmart.org/candidate/biography/176492/stacey-hobgood-wilkes
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-foster-stephanie
+  openstates_id: ocd-person/1253bd3e-36dd-4f23-a671-ab24dc4aed12
+  full_name: Stephanie Foster
+  office_title: State Representative
+  chamber: house
+  district: "63"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/foster.jpg
+  phone: ""
+  email: sfoster@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/foster.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephanie_Foster
+  - https://billstatus.ls.state.ms.us/members/house/foster.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-horne-steve
+  openstates_id: ocd-person/f1e7e5ba-29b7-42e2-bb70-5ab4c7923c77
+  full_name: Steve Horne
+  office_title: State Representative
+  chamber: house
+  district: "81"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/horne.jpg
+  phone: ""
+  email: shorne@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/horne.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephen_Horne
+  - https://billstatus.ls.state.ms.us/members/house/horne.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Stephen_Horne
+  - https://justfacts.votesmart.org/candidate/biography/40296/stephen-horne
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-lott-steve
+  openstates_id: ocd-person/df77d55d-10c7-4ecb-9ed9-b8f989da339e
+  full_name: Steve Lott
+  office_title: State Representative
+  chamber: house
+  district: "107"
+  party: Republican
+  status: active
+  photo_url: https://bloximages.chicago2.vip.townnews.com/stonecountyenterprise.com/content/tncms/assets/v3/editorial/2/fa/2faf492e-910b-11ed-8a24-b33c741f2b91/63bd9eedb8c9d.image.jpg
+  phone: ""
+  email: lott@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/lott.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Lott
+  - https://billstatus.ls.state.ms.us/members/house/lott.xml
+  - https://en.wikipedia.org/wiki/Steve_Lott_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/211479/steve-lott
+  - https://www.linkedin.com/in/steve-lott-m-s-bus-and-ec-dev-36b5a436
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-massengill-steve
+  openstates_id: ocd-person/abfa015f-301e-4e17-9917-535bb9079768
+  full_name: Steve Massengill
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/massengill.jpg
+  phone: ""
+  email: smassengill@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/massengill.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Massengill
+  - https://billstatus.ls.state.ms.us/members/house/massengill.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Steve_Massengill
+  - https://justfacts.votesmart.org/candidate/biography/130270/steve-massengill
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-butlerwashington-grace
+  openstates_id: ocd-person/c135a4b0-9620-4eef-b561-2b08beda7289
+  full_name: Grace Butler-Washington
+  office_title: State Representative
+  chamber: house
+  district: "69"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TamarraGraceButlerWashington.png
+  phone: ""
+  email: gbutlerwashington@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/butler-washington.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tamarra_Butler-Washington
+  - https://billstatus.ls.state.ms.us/members/house/butler-washington.xml
+  - https://en.wikipedia.org/wiki/Tamarra_Butler-Washington
+  - https://justfacts.votesmart.org/candidate/211449/tamarra-butler-washington
+  - https://www.linkedin.com/in/tamara-butler-washington-78b7621b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-isom-theresa
+  openstates_id: ocd-person/34b84276-9c36-4f69-b015-ba05a1c5ee58
+  full_name: Theresa Gillespie Isom
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Democratic
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/Senate/Gillespie_Isom.jpg
+  phone: ""
+  email: tgillespie-isom@senate.ms.gov
+  address: ""
+  official_website: ""
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Theresa_Gillespie_Isom
+  - https://en.wikipedia.org/wiki/Theresa_Gillespie_Isom
+  - https://www.linkedin.com/in/theresa-isom-549ab015
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-jamesjones-timaka
+  openstates_id: ocd-person/3312edf4-798e-4333-b2c8-4d73f246de01
+  full_name: Timaka James-Jones
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TimakaJames-Jones2023.jpg
+  phone: ""
+  email: james-jones@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/james-jones.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Timaka_James-Jones
+  - https://billstatus.ls.state.ms.us/members/house/james-jones.xml
+  - https://en.wikipedia.org/wiki/Timaka_James-Jones
+  - https://justfacts.votesmart.org/candidate/biography/211429/timaka-james-jones
+  - https://www.linkedin.com/in/timaka-james-jones-6b9a5a71
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-ladner-timmy
+  openstates_id: ocd-person/53869ff4-415d-466a-ad71-c13485b83318
+  full_name: Timmy Ladner
+  office_title: State Representative
+  chamber: house
+  district: "93"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/ladner.jpg
+  phone: ""
+  email: tladner@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/ladner.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Timmy_Ladner
+  - https://billstatus.ls.state.ms.us/members/house/ladner.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Timmy_Ladner
+  - https://justfacts.votesmart.org/candidate/biography/130301/timmy-ladner
+  - https://www.linkedin.com/in/timmy-ladner-a0a85015
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-rosebud-tracey
+  openstates_id: ocd-person/b37913d2-9f6e-4f1c-b6c8-7a19863be463
+  full_name: Tracey Rosebud
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Democratic
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/rosebud.jpg
+  phone: ""
+  email: trosebud@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/rosebud.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tracey_Rosebud
+  - https://billstatus.ls.state.ms.us/members/house/rosebud.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Tracey_Rosebud
+  - https://justfacts.votesmart.org/candidate/biography/156255/tracey-rosebud
+  - https://www.linkedin.com/in/tracey-rosebud-a4a7538b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-smith-troy
+  openstates_id: ocd-person/5ff548a6-827f-4ab7-a4a5-5b510712f6a2
+  full_name: Troy Smith
+  office_title: State Representative
+  chamber: house
+  district: "84"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/smith.jpg
+  phone: ""
+  email: tsmith@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/smith.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Troy_Smith
+  - https://billstatus.ls.state.ms.us/members/house/smith.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Troy_Smith_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/159982/troy-smith
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-mccaughn-tyler
+  openstates_id: ocd-person/bd335f00-4e41-4972-b8f4-f2249b410614
+  full_name: Tyler McCaughn
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/senate/mccaughn.jpg
+  phone: ""
+  email: tmccaughn@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/mccaughn.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tyler_McCaughn
+  - https://billstatus.ls.state.ms.us/members/senate/mccaughn.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-mangold-vince
+  openstates_id: ocd-person/c0d8a1af-3036-4aee-89e7-f98cc40203cd
+  full_name: Vince Mangold
+  office_title: State Representative
+  chamber: house
+  district: "53"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/house/mangold.jpg
+  phone: ""
+  email: vmangold@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/mangold.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Vince_Mangold
+  - https://billstatus.ls.state.ms.us/members/house/mangold.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Vince_Mangold
+  - https://justfacts.votesmart.org/candidate/156355/vince-mangold
+  - https://www.linkedin.com/in/vince-mangold-045538148
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-sen-hopson-briggs
+  openstates_id: ocd-person/f275881b-1096-4a6a-a607-b417eae41f2e
+  full_name: Briggs Hopson
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: http://billstatus.ls.state.ms.us/members/senate/hopson.jpg
+  phone: ""
+  email: bhopson@senate.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/senate/hopson.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Briggs_Hopson
+  - https://billstatus.ls.state.ms.us/members/senate/hopson.xml
+  - https://billstatus.ls.state.ms.us/members/ss_membs.xml
+  - https://en.wikipedia.org/wiki/Briggs_Hopson
+  - https://justfacts.votesmart.org/candidate/biography/69802/briggs-hopson-iii
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-arnold-tracy
+  openstates_id: ocd-person/2601640f-867f-480f-83a1-c59c332c0b82
+  full_name: Tracy Arnold
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: http://da.mdah.ms.gov/series-files/legislature/composites/2016/500/house-of-representatives/2016_2020HousePhotos/Tracy.Arnold.jpg
+  phone: ""
+  email: warnold@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/arnold.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Arnold
+  - https://billstatus.ls.state.ms.us/members/house/arnold.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/William_Tracy_Arnold
+  - https://justfacts.votesmart.org/candidate/biography/69854/tracy-arnold
+  - https://www.linkedin.com/in/tracy-arnold-932a277a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-bailey-willie
+  openstates_id: ocd-person/bec0f8f6-7f4c-442b-be25-14e2a2c1f5cb
+  full_name: Willie Bailey
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Democratic
+  status: active
+  photo_url: https://billstatus.ls.state.ms.us/members/house/bailey_(49th).jpg
+  phone: ""
+  email: wbailey@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/bailey.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Willie_Bailey
+  - https://billstatus.ls.state.ms.us/members/house/bailey.xml
+  - https://billstatus.ls.state.ms.us/members/house/bailey_(49th).xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Willie_Bailey
+  - https://justfacts.votesmart.org/candidate/biography/8835/willie-bailey
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-grady-zack
+  openstates_id: ocd-person/b62cfb62-68b6-4804-a1ff-f0259e7513b4
+  full_name: Zack Grady
+  office_title: State Representative
+  chamber: house
+  district: "115"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ZacharyGrady.jpg
+  phone: ""
+  email: zgrady@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/grady.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Zachary_Grady
+  - https://billstatus.ls.state.ms.us/members/house/grady.xml
+  - https://en.wikipedia.org/wiki/Zachary_Grady
+  - https://justfacts.votesmart.org/candidate/211490/zachary-grady
+  - https://www.linkedin.com/in/zachary-grady-mba-1332221a7
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ms-hou-summers-zakiya
+  openstates_id: ocd-person/56158045-4973-4fd2-9589-01ad212f2975
+  full_name: Zakiya Summers
+  office_title: State Representative
+  chamber: house
+  district: "68"
+  party: Democratic
+  status: active
+  photo_url: https://stateinnovation.org/wp-content/uploads/2021/04/Zakiya-Summers.png
+  phone: ""
+  email: zsummers@house.ms.gov
+  address: ""
+  official_website: https://billstatus.ls.state.ms.us/members/house/summers.xml
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Zakiya_Summers
+  - https://billstatus.ls.state.ms.us/members/house/summers.xml
+  - https://billstatus.ls.state.ms.us/members/hr_membs.xml
+  - https://en.wikipedia.org/wiki/Zakiya_Summers
+  - https://justfacts.votesmart.org/candidate/biography/186649/zakiya-summers
+  - https://www.linkedin.com/in/zakiya-summers-800b5517
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

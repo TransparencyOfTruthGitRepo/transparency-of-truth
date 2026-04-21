@@ -1,4 +1,4413 @@
 ﻿state: maine
 state_abbrev: ME
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: me-hou-dana-aaron
+  openstates_id: ocd-person/906cd606-c6ff-41e5-87a6-e038b711fa61
+  full_name: Aaron Dana
+  office_title: State Representative
+  chamber: house
+  district: Passamaquoddy Tribe
+  party: Independent
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/27852f04-e612-46a5-9727-1bbd1d5e48e0_DANA.jpg
+  phone: ""
+  email: aaron.dana@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1507
+  twitter: ""
+  source_urls:
+  - https://en.wikipedia.org/wiki/Aaron_M._Dana
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1507
+  - https://www.linkedin.com/in/aaron-dana-77810185
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-simmons-abden
+  openstates_id: ocd-person/b6cdaab7-6aec-4c65-a239-e18c6e839fbc
+  full_name: Abden Simmons
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/75e9b804-f745-4f44-9817-146eb1a8c378_simmas[1].jpg
+  phone: ""
+  email: abden.simmons@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/144
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Abden_Simmons
+  - https://en.wikipedia.org/wiki/Abden_Simmons
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/144
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/simmons-abden
+  - https://www.maine.gov/legis/house/hsebios/simmas.htm
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-griffin-abigail
+  openstates_id: ocd-person/513edd6e-0d85-4ad6-8852-577cd5c0ee02
+  full_name: Abigail Griffin
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/fa129957-8083-482b-93f5-318d0cfc0718_griffin.jpg
+  phone: ""
+  email: abigail.griffin@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1369
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Abigail_Griffin
+  - https://justfacts.votesmart.org/candidate/biography/181260/abigail-griffin
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1369
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/griffin-abigail
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-lee-adam
+  openstates_id: ocd-person/dff0e200-fd8c-4ada-ac3d-e014a529dd59
+  full_name: Adam Lee
+  office_title: State Representative
+  chamber: house
+  district: "89"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/cc770c67-4f1f-4e24-a168-4a359d33b108_ALEE.jpg
+  phone: ""
+  email: adam.lee@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1491
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Adam_Lee
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1491
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/lee
+  - https://legislature.maine.gov/housedems/lee/index.html
+  - https://tmbf-law.com/adam-r-lee
+  - https://www.linkedin.com/in/adam-r-lee-57901216
+  - https://www.maine.gov/housedems/lee
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-collins-alicia
+  openstates_id: ocd-person/4bc2b129-52c1-4dfd-99af-dd38f620183a
+  full_name: Alicia Collins
+  office_title: State Representative
+  chamber: house
+  district: "61"
+  party: Republican
+  status: active
+  photo_url: https://aliciaformaine.com/images/d8140e2917dbb338d1ef9980ee0d0557.png
+  phone: ""
+  email: alicia.collins@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3119
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alicia_Collins_(Maine)
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3119
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-hepler-allison
+  openstates_id: ocd-person/82b51bea-5f96-46d6-bbcf-4d973f701b27
+  full_name: Allison Hepler
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a75da791-060e-45cd-b1bd-95bc7c00c6e8_hepler.jpg
+  phone: ""
+  email: allison.hepler@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1353
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Allison_Hepler
+  - https://justfacts.votesmart.org/candidate/biography/170132/allison-hepler
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1353
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/allison-hepler-989b09115
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-collamore-amanda
+  openstates_id: ocd-person/1e7a6a8f-7160-4bee-80d1-b1dc47b3db4f
+  full_name: Amanda Collamore
+  office_title: State Representative
+  chamber: house
+  district: "68"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/24f65326-81e9-48f3-a7cc-a5dc8e7d74e6_Collamore.jpg
+  phone: ""
+  email: amanda.collamore@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1432
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Amanda_Collamore
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1432
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/collamore-amanda
+  - https://www.linkedin.com/in/amanda-collamore-191a32b6
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-rana-ambureen
+  openstates_id: ocd-person/8f61f208-cf99-489a-aa36-847438b0ed60
+  full_name: Ambureen Rana
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/1f89f046-4256-4341-9236-68c67e6efd77_ARANA.jpg
+  phone: ""
+  email: ambureen.rana@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1464
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ambureen_Rana
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1464
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://rana.mainecandidate.com
+  - https://www.linkedin.com/in/ambureen-rana-93586a64
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-arata-amy
+  openstates_id: ocd-person/20082672-8aa7-4d49-bad7-fe5a92d1720d
+  full_name: Amy Arata
+  office_title: State Representative
+  chamber: house
+  district: "104"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/73657768-20f5-4692-8934-16f6b9a3cacd_arata.jpg
+  phone: ""
+  email: amy.arata@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1356
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Amy_Arata
+  - https://en.wikipedia.org/wiki/Amy_Arata
+  - https://justfacts.votesmart.org/candidate/biography/176845/amy-arata
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1356
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/arata-amy
+  - https://www.linkedin.com/in/amy-arata-a76b8340
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-kuhn-amy
+  openstates_id: ocd-person/d9825f86-280b-4b70-9a6e-2bb7f02e239a
+  full_name: Amy Kuhn
+  office_title: State Representative
+  chamber: house
+  district: "111"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a99f9866-50ae-4e3a-8eee-10a3e0d00dce_AKUHN.jpg
+  phone: ""
+  email: amy.kuhn@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1474
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Amy_Kuhn
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1474
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/kuhn
+  - https://legislature.maine.gov/housedems/kuhn/index.html
+  - https://www.falmouthme.org/people/amy-kuhn
+  - https://www.linkedin.com/in/amy-donovan-kuhn-847bb149
+  - https://www.maine.gov/housedems/kuhn
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-roeder-amy
+  openstates_id: ocd-person/42c79801-802e-4f3d-8917-f3f956766e50
+  full_name: Amy Roeder
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/3265b5dc-e744-46e5-8ff5-317b5e4842ae_RoederNEW.jpg
+  phone: ""
+  email: amy.roeder@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1437
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Amy_Roeder
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1437
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/roedera/index.html
+  - https://www.linkedin.com/in/amyroeder
+  - https://www.maine.gov/housedems/roedera
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-fredericks-ann
+  openstates_id: ocd-person/8646c09c-1d84-4065-bcf2-8be6a8baf494
+  full_name: Ann Marie Fredericks
+  office_title: State Representative
+  chamber: house
+  district: "143"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/d04ae08f-1582-4de6-a34e-bdd72386622e_FREDRICKS.jpg
+  phone: ""
+  email: ann.fredericks@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1468
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ann_Marie_Fredericks
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1468
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/fredericks-ann
+  - https://www.linkedin.com/in/annmarie-fredericks-828bba225
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-matlack-ann
+  openstates_id: ocd-person/187c138c-d84d-4813-884e-553b8a9354f1
+  full_name: Ann Matlack
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/e8bdda16-c44f-4ced-9b15-4a11e3496fa9_Matlack.jpg
+  phone: ""
+  email: ann.matlack@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1364
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ann_Matlack
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1364
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/ann-higgins-matlack-73062b13
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-beebecenter-pinny
+  openstates_id: ocd-person/db11e611-94a4-4451-8486-f941a532789d
+  full_name: Pinny Beebe-Center
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/beebe-center-1024x1024.jpg
+  phone: ""
+  email: anne.beebe-center@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District12
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Anne_Beebe-Center
+  - https://legislature.maine.gov/district12
+  - https://legislature.maine.gov/District12
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/anne-beebe-center-516b77a
+  - https://www.mainesenate.org/senator/senator/pinny-beebe-center
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-carney-anne
+  openstates_id: ocd-person/50f75f0e-328c-413c-8733-de2872c5b7b0
+  full_name: Anne Carney
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/carney-web-1-1024x854.jpg
+  phone: ""
+  email: anne.carney@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-29
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Anne_Carney
+  - https://en.wikipedia.org/wiki/Anne_Carney
+  - https://legislature.maine.gov/District-29
+  - https://legislature.maine.gov/district29
+  - https://legislature.maine.gov/District29
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/anne-carney-90a976149
+  - https://www.mainesenate.org/senator/senator/anne-carney
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-mastraccio-annemarie
+  openstates_id: ocd-person/56960ccd-b154-42ae-9fb3-c323e07c23b1
+  full_name: Anne-Marie Mastraccio
+  office_title: State Representative
+  chamber: house
+  district: "142"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/989eebc7-717b-474a-9a55-203b709d019b_AMASTRACCIO.jpg
+  phone: ""
+  email: anne-marie.mastraccio@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/111
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Anne-Marie_Mastraccio
+  - https://en.wikipedia.org/wiki/Anne-Marie_Mastraccio
+  - https://justfacts.votesmart.org/candidate/biography/137415/anne-marie-mastraccio
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/111
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-graham-annie
+  openstates_id: ocd-person/2f7e7649-5c68-4f8f-8c9a-7993b66d383a
+  full_name: Annie Graham
+  office_title: State Representative
+  chamber: house
+  district: "105"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/3c31dd8d-1de9-4bf3-b506-b7c45790974f_AGRAHAM.jpg
+  phone: ""
+  email: anne.graham@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/259
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Anne_Graham
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/259
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/anne-graham-0930548
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-bell-art
+  openstates_id: ocd-person/7777fc5c-d508-4332-aac4-ec4799cf1721
+  full_name: Art Bell
+  office_title: State Representative
+  chamber: house
+  district: "103"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/e376b676-cec4-4774-bb44-7cc0d25425d2_BellNEW.jpg
+  phone: ""
+  email: arthur.bell@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1419
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Arthur_Bell
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1419
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/bella/index.html
+  - https://www.linkedin.com/in/arthur-bell-47bb77
+  - https://www.maine.gov/housedems/bella
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-mingo-artie
+  openstates_id: ocd-person/28891c40-a850-4e37-a339-4f60976ab515
+  full_name: Artie Mingo
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: arthur.mingo@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3107
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Arthur_Mingo
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3107
+  - https://mainehousegop.org/members/mingo-arthur
+  - https://www.linkedin.com/in/arthur-mingo-54253840
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-bagshaw-barbara
+  openstates_id: ocd-person/72cc3b25-8e1e-4095-93be-216ee191572c
+  full_name: Barbara Bagshaw
+  office_title: State Representative
+  chamber: house
+  district: "106"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/d2a8373a-d1e8-4e25-936a-4fbcd3ac4087_BBAGSHAW.jpg
+  phone: ""
+  email: barbara.bagshaw@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1473
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Barbara_Bagshaw
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1473
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/bagshaw-barbara
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-hymes-ben
+  openstates_id: ocd-person/f52b3788-349b-4b6c-84a3-72d02a953616
+  full_name: Ben Hymes
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/04372b02-d30f-4b91-a71e-0d7e188b385f_HYMES.jpg
+  phone: ""
+  email: benjamin.hymes@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1497
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Benjamin_Hymes
+  - https://justfacts.votesmart.org/candidate/biography/203765/benjamin-hymes
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1497
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/hymes-benjamin
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-faulkingham-billy
+  openstates_id: ocd-person/43c2650b-6248-46f9-a553-8c2bd0bab294
+  full_name: Billy Bob Faulkingham
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/b1dc14b4-920f-4f14-99c9-bce559bceb76_FaulkinghamNEW.jpg
+  phone: ""
+  email: william.faulkingham@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1379
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Faulkingham
+  - https://en.wikipedia.org/wiki/Billy_Bob_Faulkingham
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1379
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/faulkingham-billy-bob
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-farrin-brad
+  openstates_id: ocd-person/72193c8f-2b94-4e56-bff4-482bde6037eb
+  full_name: Brad Farrin
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/farrin-bradlee-1.jpg
+  phone: ""
+  email: brad.farrin@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-3
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bradlee_Farrin
+  - https://en.wikipedia.org/wiki/Bradlee_Farrin
+  - https://justfacts.votesmart.org/candidate/biography/151396/bradlee-farrin
+  - https://legislature.maine.gov/District-3
+  - https://legislature.maine.gov/district3
+  - https://legislature.maine.gov/District3
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/bradlee-farrin-32493244
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-reynolds-brian
+  openstates_id: ocd-person/81ab0331-83cd-4551-bf74-b732623c86b8
+  full_name: Brian Reynolds
+  office_title: State Representative
+  chamber: house
+  district: Houlton Band of Maliseet Indians
+  party: Independent
+  status: active
+  photo_url: ""
+  phone: ""
+  email: brian.reynolds@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3140
+  twitter: ""
+  source_urls:
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3140
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-bickford-bruce
+  openstates_id: ocd-person/0b3965de-8fe2-42b4-bc21-115d6b2b470f
+  full_name: Bruce Bickford
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/6512eb18-497f-48cf-8e14-5c46c8827181_bickba.jpg
+  phone: ""
+  email: bruce.bickford@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District20
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bruce_Bickford
+  - https://en.wikipedia.org/wiki/Bruce_Bickford_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/103524/bruce-bickford
+  - https://legislature.maine.gov/District20
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/16
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mesenategop.com/your-senators/senator-bruce-bickford
+  - https://www.linkedin.com/in/bruce-bickford-6b373160
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-jackson-caldwell
+  openstates_id: ocd-person/cf1f0a32-7107-44ea-96f2-1f3c604d87cc
+  full_name: Caldwell Jackson
+  office_title: State Representative
+  chamber: house
+  district: "80"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/4a816ecf-f3c1-49e1-88e9-f7a4d18cb5de_JACKSON.jpg
+  phone: ""
+  email: caldwell.jackson@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1485
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Caldwell_Jackson
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1485
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/jackson-caldwell
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-reny-cameron
+  openstates_id: ocd-person/38a3d5d7-cc62-4479-bfba-03d40099e7cd
+  full_name: Cameron Reny
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/reny-2.jpg
+  phone: ""
+  email: cameron.reny@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District13
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cameron_Reny
+  - https://legislature.maine.gov/district13
+  - https://legislature.maine.gov/District13
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.mainesenate.org/senator/senator/senator-cameron-reny
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-julia-cassie
+  openstates_id: ocd-person/e1e7623e-aee4-4631-942c-e65c56d514c3
+  full_name: Cassie Julia
+  office_title: State Representative
+  chamber: house
+  district: "65"
+  party: Democratic
+  status: active
+  photo_url: https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2024/06/julia-1.jpg?w=1199&ssl=1
+  phone: ""
+  email: cassie.julia@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3122
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cassie_Julia
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3122
+  - https://www.maine.gov/housedems/node/4101
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-perkins-chad
+  openstates_id: ocd-person/1793f579-da58-422f-bc22-36da20ce246c
+  full_name: Chad Perkins
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a6f40ce5-a695-480d-92cf-cfe044f027ac_CPERKINS.jpg
+  phone: ""
+  email: chad.perkins@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1467
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chad_Perkins_(Maine)
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1467
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/perkins-chad
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-skold-charles
+  openstates_id: ocd-person/d87034c7-fd93-4ba1-a61b-f4ea810506c9
+  full_name: Charles Skold
+  office_title: State Representative
+  chamber: house
+  district: "119"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/f62e4eee-633b-458e-9410-219176bec3a2_CSKOLD.jpg
+  phone: ""
+  email: charles.skold@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1475
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Charles_Skold
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1475
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/skold/index.html
+  - https://www.linkedin.com/in/charlesskold
+  - https://www.maine.gov/housedems/skold
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-golek-cheryl
+  openstates_id: ocd-person/cef7caa9-828c-4272-a694-2aa16a5397ea
+  full_name: Cheryl Golek
+  office_title: State Representative
+  chamber: house
+  district: "99"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/bedcf53e-b367-42a7-9db6-a1c317f925af_GOLEK.jpg
+  phone: ""
+  email: cheryl.golek@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1494
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cheryl_Golek
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1494
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/golek
+  - https://legislature.maine.gov/housedems/golek/index.html
+  - https://www.maine.gov/housedems/golek
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-mitchell-christina
+  openstates_id: ocd-person/bdb29bb6-c6a2-461a-8527-06ac1ba20049
+  full_name: Christina Mitchell
+  office_title: State Representative
+  chamber: house
+  district: "110"
+  party: Democratic
+  status: active
+  photo_url: https://mitchell.mainecandidate.com/images/2155.png
+  phone: ""
+  email: christina.mitchell@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3135
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Christina_Mitchell
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3135
+  - https://www.maine.gov/housedems/node/4111
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-kessler-christopher
+  openstates_id: ocd-person/14000c75-b0e9-451c-a081-9121970897de
+  full_name: Christopher Kessler
+  office_title: State Representative
+  chamber: house
+  district: "121"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/7b6f510d-1915-4b36-846c-7be39a62c2f6_kessler.jpg
+  phone: ""
+  email: christopher.kessler@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1384
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Christopher_Kessler
+  - https://justfacts.votesmart.org/candidate/biography/142762/christopher-kessler
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1384
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/christopher-kessler-b2a827112
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-hickman-craig
+  openstates_id: ocd-person/5a475e6f-5277-425e-bb09-1c55facbc736
+  full_name: Craig Hickman
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/hickman-1024x1024.jpg
+  phone: ""
+  email: craig.hickman@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-14
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Craig_Hickman
+  - https://en.wikipedia.org/wiki/Craig_Hickman
+  - https://justfacts.votesmart.org/candidate/biography/121034/craig-hickman
+  - https://legislature.maine.gov/District-14
+  - https://legislature.maine.gov/District14
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/craig-hickman-9854a641
+  - https://www.mainesenate.org/senator/senator/craig-hickman
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-ohalloran-dani
+  openstates_id: ocd-person/49a5c100-0379-4ce8-af49-de4c4f817abc
+  full_name: Dani O'Halloran
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://assets.civicengine.com/uploads/candidate/headshot/782561/782561.jpg
+  phone: ""
+  email: dani.o'halloran@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3112
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dani_O%27Halloran
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3112
+  - https://www.linkedin.com/in/dani-o-halloran-369728a
+  - https://www.maine.gov/housedems/node/4113
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-ankeles-dan
+  openstates_id: ocd-person/eb5efd36-8020-46f1-a6ef-6dac6873f692
+  full_name: Dan Ankeles
+  office_title: State Representative
+  chamber: house
+  district: "100"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/4ce09159-182e-48aa-93cb-0c127b0abe7c_ANKELES.jpg
+  phone: ""
+  email: daniel.ankeles@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1495
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dan_Ankeles
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1495
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/ankeles/index.html
+  - https://www.linkedin.com/in/dan-ankeles-7979a33
+  - https://www.maine.gov/housedems/ankeles
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-shagoury-dan
+  openstates_id: ocd-person/43e6cd5d-1e16-4099-b46b-1b6883e679b6
+  full_name: Dan Shagoury
+  office_title: State Representative
+  chamber: house
+  district: "55"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/b6eec5f0-d0b2-41c8-9295-fe2051a0e061_SHAGOURY.jpg
+  phone: ""
+  email: daniel.shagoury@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1503
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Daniel_Shagoury
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1503
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/shagoury/index.html
+  - https://www.linkedin.com/in/dan-shagoury-7379b08
+  - https://www.maine.gov/housedems/shagoury
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-sayre-dan
+  openstates_id: ocd-person/f9010476-1b1e-4407-b672-b81cd0ee8ae6
+  full_name: Dan Sayre
+  office_title: State Representative
+  chamber: house
+  district: "135"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/5eaede44-a899-42af-a114-5ea2bc5af4db_DSAYRE.jpg
+  phone: ""
+  email: daniel.sayre@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1479
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Daniel_Sayre
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1479
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/sayre/index.html
+  - https://www.linkedin.com/in/dansayre
+  - https://www.maine.gov/housedems/sayre
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-rollins-dave
+  openstates_id: ocd-person/1e9dcfd4-a93c-49e3-9099-fa4a85f732d0
+  full_name: Dave Rollins
+  office_title: State Representative
+  chamber: house
+  district: "59"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/David_Rollins.jpg
+  phone: ""
+  email: david.rollins@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3118
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Rollins
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3118
+  - https://www.maine.gov/housedems/node/4089
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-sinclair-david
+  openstates_id: ocd-person/8dd63807-ac15-408c-97de-c8e9195a6a42
+  full_name: David Sinclair
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/10a6470d-cab7-4912-8ce5-b2ed172f4f28_SinclairCropped3.JPG
+  phone: ""
+  email: david.sinclair@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1508
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Sinclair
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1508
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/david-sinclair-5287331
+  - https://www.sinclairlawmaine.com/sinclairlawmaine.com/Home.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-woodsome-woody
+  openstates_id: ocd-person/30414bf4-13ad-4bd5-a1d9-3cf11be6464d
+  full_name: Woody Woodsome
+  office_title: State Representative
+  chamber: house
+  district: "139"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/woodsome-5x7-2.jpg
+  phone: ""
+  email: david.woodsome@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-33
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Woodsome
+  - https://en.wikipedia.org/wiki/David_Woodsome
+  - https://justfacts.votesmart.org/candidate/biography/155021/david-woodsome
+  - https://legislature.maine.gov/District-33
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1480
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://mainehousegop.org/members/woodsome-david
+  - https://www.linkedin.com/in/david-woodsome-08596b26
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-haggan-david
+  openstates_id: ocd-person/b3f3ab98-9169-42f8-b7d7-c04b3bdfb545
+  full_name: David Haggan
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/ef1b37a7-5997-414d-9ae4-6f38e8f619d8_haggdg.jpg
+  phone: ""
+  email: david.haggan@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District10
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Haggan
+  - https://en.wikipedia.org/wiki/David_Haggan
+  - https://justfacts.votesmart.org/candidate/biography/170353/david-haggan
+  - https://legislature.maine.gov/District10
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/77
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/haggan-david
+  - https://mesenategop.com/your-senators/senator-david-haggan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-boyer-david
+  openstates_id: ocd-person/f338ea4f-b539-450c-bca4-161c427bb81a
+  full_name: David Boyer
+  office_title: State Representative
+  chamber: house
+  district: "87"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/c6b23ace-404f-4ba8-9f4d-c551acec8ca5_DBOYER.jpg
+  phone: ""
+  email: david.boyer@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1489
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Boyer_(Maine)
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1489
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/boyer-david
+  - https://www.linkedin.com/in/davidwboyer
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-cray-dean
+  openstates_id: ocd-person/8bc14822-ff62-4ffe-bf42-4114bd5bd99b
+  full_name: Dean Cray
+  office_title: State Representative
+  chamber: house
+  district: "69"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/898a0677-23f7-4936-a1a4-c913ae94227c_CRAY.jpg
+  phone: ""
+  email: dean.cray@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/249
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dean_Cray
+  - https://en.wikipedia.org/wiki/Dean_Cray
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/249
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/cray-dean
+  - https://www.linkedin.com/in/dean-cray-b4a58b33
+  - https://www.maine.gov/legis/house/dist_mem.htm
+  - https://www.maine.gov/legis/house/hsebios/crayda.htm
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-tepler-denise
+  openstates_id: ocd-person/0321d169-de06-4377-8cd5-6cdb51471393
+  full_name: Denise Tepler
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/da8c36fc-c7af-419a-b9a9-a0b4080be157_teplda[1].jpg
+  phone: ""
+  email: denise.tepler@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District24
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Denise_Tepler
+  - https://en.wikipedia.org/wiki/Denise_Tepler
+  - https://legislature.maine.gov/District24
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/55
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/denise-tepler-2a07716
+  - https://www.mainesenate.org/senator/senator/denise-tepler
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-dhalac-deqa
+  openstates_id: ocd-person/3080d13f-59de-437a-b405-a2313be6ee89
+  full_name: Deqa Dhalac
+  office_title: State Representative
+  chamber: house
+  district: "120"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/57526b13-6bb7-4ccf-b3e4-136ae6208e84_DHALAC.jpg
+  phone: ""
+  email: deqa.dhalac@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1476
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Deqa_Dhalac
+  - https://en.wikipedia.org/wiki/Deqa_Dhalac
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1476
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/dhalac/index.html
+  - https://www.linkedin.com/in/ddhalac
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-ardell-donald
+  openstates_id: ocd-person/1b986e08-1270-49ba-b6d0-941a950d3008
+  full_name: Donald Ardell
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/3bf42df4-0f16-418b-ad61-621fd8c4c1e0_ARDELL.jpg
+  phone: ""
+  email: donald.ardell@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1457
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Donald_Ardell
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1457
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/ardell-donald
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-bailey-donna
+  openstates_id: ocd-person/d071215f-4839-4c4c-ab4d-f3c7179004a6
+  full_name: Donna Bailey
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/bailey-donna-6.jpg
+  phone: ""
+  email: donna.bailey@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-31
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Donna_Bailey_(Maine)
+  - https://en.wikipedia.org/wiki/Donna_Bailey
+  - https://justfacts.votesmart.org/candidate/biography/170078/donna-bailey
+  - https://legislature.maine.gov/District-31
+  - https://legislature.maine.gov/district31
+  - https://legislature.maine.gov/District31
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/donna-bailey-63349b61
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-gattine-drew
+  openstates_id: ocd-person/81123167-ba38-419a-92e5-fe0102d6a553
+  full_name: Drew Gattine
+  office_title: State Representative
+  chamber: house
+  district: "126"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a5278ffe-f50e-4998-83fb-cad702fc9659_gattam.jpg
+  phone: ""
+  email: andrew.gattine@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/68
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrew_Gattine
+  - https://en.wikipedia.org/wiki/Drew_Gattine
+  - https://justfacts.votesmart.org/candidate/biography/137364/drew-gattine
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/68
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/drew-gattine-a6950066
+  - https://www.maine.gov/legis/house/hsebios/gattam.htm
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-pugh-dylan
+  openstates_id: ocd-person/03370150-e682-4bce-9989-4a8b73f10042
+  full_name: Dylan Pugh
+  office_title: State Representative
+  chamber: house
+  district: "114"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Dylan_Pugh_20240820_054928.png
+  phone: ""
+  email: dylan.pugh@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3136
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dylan_Pugh
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3136
+  - https://www.linkedin.com/in/dylan-p-36930698
+  - https://www.linkedin.com/in/dylan-pugh-me
+  - https://www.maine.gov/housedems/node/4117
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-sato-ellie
+  openstates_id: ocd-person/65c05666-3d38-4098-b2fc-6a519f21f71f
+  full_name: Ellie Sato
+  office_title: State Representative
+  chamber: house
+  district: "109"
+  party: Democratic
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/65cccc6e88ea086805c14520/d05b9ffc-92b9-4cd2-af99-e26fe90c96c6/Ellie+Sato+2024+Profile.jpg
+  phone: ""
+  email: eleanor.sato@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3134
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Eleanor_Sato
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3134
+  - https://www.maine.gov/housedems/node/4097
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-debrito-flavia
+  openstates_id: ocd-person/1e34b996-ad95-4a32-866c-dd65ee82e3f4
+  full_name: Flavia DeBrito
+  office_title: State Representative
+  chamber: house
+  district: "64"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/FlaviaDeBrito20245.jpeg
+  phone: ""
+  email: flavia.debrito@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3121
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Flavia_DeBrito
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3121
+  - https://www.linkedin.com/in/flavia-debrito-91634454
+  - https://www.maine.gov/housedems/node/4099
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-drinkwater-gary
+  openstates_id: ocd-person/7893adc7-d4fb-42e4-bae0-1258ce673096
+  full_name: Gary Drinkwater
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/3b421f7d-d986-4022-886f-90d3f5e19f79_drinkwater.jpg
+  phone: ""
+  email: gary.drinkwater@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1376
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gary_Drinkwater
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1376
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/drinkwater-gary
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-friedmann-gary
+  openstates_id: ocd-person/55262df3-ff33-4e9e-a504-912ac2558ede
+  full_name: Gary Friedmann
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: https://www.electgaryfriedmann.com/wp-content/uploads/2024/10/Gary-Headshot-683x1024.jpg
+  phone: ""
+  email: gary.friedmann@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3109
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gary_Friedmann
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3109
+  - https://www.linkedin.com/in/gary-friedmann-66361831
+  - https://www.maine.gov/housedems/node/4085
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-curry-chip
+  openstates_id: ocd-person/6d397c09-c2d3-41ff-b33a-c42efae4f187
+  full_name: Chip Curry
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/chipcurry-web-1024x683.jpg
+  phone: ""
+  email: chip.curry@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-11
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Glenn_Curry
+  - https://en.wikipedia.org/wiki/Chip_Curry
+  - https://justfacts.votesmart.org/candidate/biography/137202/chip-curry
+  - https://legislature.maine.gov/District-11
+  - https://legislature.maine.gov/district11
+  - https://legislature.maine.gov/District11
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/chipcurry
+  - https://www.mainesenate.org/senator/senator/chip-curry
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-lookner-grayson
+  openstates_id: ocd-person/f6eea224-7845-41b1-8e05-030ef3d8d886
+  full_name: Grayson Lookner
+  office_title: State Representative
+  chamber: house
+  district: "113"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/bce0954f-21de-45f6-a3a2-2b5485271493_LooknerNEW.jpg
+  phone: ""
+  email: grayson.lookner@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1416
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Grayson_Lookner
+  - https://en.wikipedia.org/wiki/Grayson_Lookner
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1416
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/looknerg/index.html
+  - https://www.maine.gov/housedems/looknerg
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-swallow-gregg
+  openstates_id: ocd-person/90989c27-4cd8-409e-8325-9bd50dac9cf4
+  full_name: Gregg Swallow
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/e42361cf-f827-42a9-85de-64b34fc21ab3_swallow.jpg
+  phone: ""
+  email: gregory.swallow@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1381
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gregory_Swallow
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1381
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/swallow-gregory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-stewart-trey
+  openstates_id: ocd-person/bd417e77-81d9-4e60-8b2a-b940da10bc37
+  full_name: Trey Stewart
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/stewart-harold-trey-1.jpg
+  phone: ""
+  email: trey.stewart@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-2
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Harold_Stewart
+  - https://en.wikipedia.org/wiki/Trey_Stewart
+  - https://justfacts.votesmart.org/candidate/biography/170489/trey-stewart-iii
+  - https://legislature.maine.gov/District-2
+  - https://legislature.maine.gov/district2
+  - https://legislature.maine.gov/District2
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://mesenategop.com/your-senators/senator-trey-stewart
+  - https://www.linkedin.com/in/trey-stewart-47b776147
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-ingwersen-henry
+  openstates_id: ocd-person/050d357e-3b22-4647-942f-56c9d8755194
+  full_name: Henry Ingwersen
+  office_title: State Senator
+  chamber: senate
+  district: "32"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/ingwersen-1024x1024.jpg
+  phone: ""
+  email: henry.ingwersen@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District32
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Henry_Ingwersen
+  - https://en.wikipedia.org/wiki/Henry_Ingwersen
+  - https://justfacts.votesmart.org/candidate/biography/181160/henry-ingwersen
+  - https://legislature.maine.gov/district32
+  - https://legislature.maine.gov/District32
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/henry-ingwersen-32790761
+  - https://www.mainesenate.org/senator/senator/henry-ingwersen
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-stover-holly
+  openstates_id: ocd-person/468ba602-86c5-4293-85b2-45e87313c1c3
+  full_name: Holly Stover
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/fc29e232-5948-4268-8919-22a92f6ab7ab_stover.jpg
+  phone: ""
+  email: holly.stover@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1363
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Holly_Stover
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1363
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/stover-holly-2714854b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-eaton-holly
+  openstates_id: ocd-person/cd08563e-987c-4c06-9487-4a22015e18a9
+  full_name: Holly Eaton
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/56d51271-b0dc-43ea-8f70-423d544537d5_EATON.jpg
+  phone: ""
+  email: holly.eaton@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1461
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Holly_Eaton
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1461
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/eaton/index.html
+  - https://www.linkedin.com/in/holly-eaton-ab6396a6
+  - https://www.maine.gov/housedems/eaton
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-sargent-holly
+  openstates_id: ocd-person/82f5c446-4f81-4c54-98ae-7b302003d39d
+  full_name: Holly Sargent
+  office_title: State Representative
+  chamber: house
+  district: "147"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/191052f1-463d-4a44-bfdc-ecde7bb45ec0_SARGENT.jpg
+  phone: ""
+  email: holly.sargent@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1471
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Holly_Sargent
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1471
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/sargent/index.html
+  - https://www.linkedin.com/in/holly-sargent-33bb8a12
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-gifford-irene
+  openstates_id: ocd-person/e603c478-27c7-4f68-ba31-4ef3732ab916
+  full_name: Irene Gifford
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/af5019e3-ac57-47c4-bc0e-b9eb39973a6f_GIFFORD.jpg
+  phone: ""
+  email: irene.gifford@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1465
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Irene_Gifford
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1465
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/gifford-irene
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-thorne-jim
+  openstates_id: ocd-person/e4f0e3da-2e65-4986-96ad-1ef21f9da73d
+  full_name: Jim Thorne
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/92dc9462-f2b9-4767-8dec-39b147b90d53_ThorneNEWNEW.jpg
+  phone: ""
+  email: jim.thorne@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1431
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_Thorne_(Maine)
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1431
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/thorne-james
+  - https://www.linkedin.com/in/jim-thorne-a439a375
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-dill-jim
+  openstates_id: ocd-person/a3281b8a-e758-4804-a964-e8db96d043a8
+  full_name: Jim Dill
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/dill-5x7.jpg
+  phone: ""
+  email: james.dill@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-5
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_Dill_(Maine)
+  - https://en.wikipedia.org/wiki/Jim_Dill
+  - https://justfacts.votesmart.org/candidate/biography/120946/jim-dill
+  - https://legislature.maine.gov/District-5
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/253
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://www.linkedin.com/in/jim-dill-25b72965
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-white-jim
+  openstates_id: ocd-person/54f9af68-0a59-4cd7-a448-40725e8781ab
+  full_name: Jim White
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/4f4a6b7f-2c72-4910-848e-2f14ebf20832_WHITEJ.jpg
+  phone: ""
+  email: james.white@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1466
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_White_(Maine)
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1466
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/white-james
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-libby-jim
+  openstates_id: ocd-person/32c9dbd7-beb7-481e-b0f4-22f3eaa00e50
+  full_name: Jim Libby
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/libby-1.jpg
+  phone: ""
+  email: james.libby@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District22
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_Libby_(Maine)
+  - https://en.wikipedia.org/wiki/James_Libby
+  - https://justfacts.votesmart.org/candidate/biography/6666/james-libby
+  - https://legislature.maine.gov/district22
+  - https://legislature.maine.gov/District22
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://mesenategop.com/your-senators/senator-james-libby
+  - https://www.linkedin.com/in/james-libby-a56297b
+  - https://www.thomas.edu/people/james-libby-ph-d
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-dodge-janice
+  openstates_id: ocd-person/b7b97724-7abc-44fb-bace-d3606d3fadb2
+  full_name: Janice Dodge
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/3966d66f-a9d5-4de6-963e-cbe39eacecb3_JDODGE.jpg
+  phone: ""
+  email: jan.dodge@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1366
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Janice_Dodge
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1366
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/jan-dodge-52106b67
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-timberlake-jeff
+  openstates_id: ocd-person/3ef077c6-482d-4dc2-92ef-69ac2a09bf06
+  full_name: Jeff Timberlake
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/timberlake-jeff-3.jpg
+  phone: ""
+  email: jeffrey.timberlake@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-22
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeffrey_Timberlake
+  - https://en.wikipedia.org/wiki/Jeffrey_Timberlake
+  - https://justfacts.votesmart.org/candidate/biography/121048/jeff-timberlake
+  - https://legislature.maine.gov/District-22
+  - https://legislature.maine.gov/district17
+  - https://legislature.maine.gov/District17
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://mesenategop.com/your-senators/senator-jeff-timberlake
+  - https://www.linkedin.com/in/jeffrey-timberlake-65309040
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-adams-jeff
+  openstates_id: ocd-person/2288cf22-64f4-4f1f-b5e3-b1ada5c72914
+  full_name: Jeff Adams
+  office_title: State Representative
+  chamber: house
+  district: "144"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/19be31f4-e0c7-4466-bcc7-ba2191307f59_ADAMS.jpg
+  phone: ""
+  email: jeffrey.adams@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1469
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeffrey_Adams
+  - https://justfacts.votesmart.org/candidate/biography/203870/jeffrey-adams
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1469
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/adams-jeffrey
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-poirier-jennifer
+  openstates_id: ocd-person/b873e7d2-9103-47e9-8c25-df94056f728d
+  full_name: Jennifer Poirier
+  office_title: State Representative
+  chamber: house
+  district: "70"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/8e43d53c-3390-4bb4-9adb-b5a728cb3263_Poirier.jpg
+  phone: ""
+  email: jennifer.poirier@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1433
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jennifer_Poirier
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1433
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/poirier-jennifer
+  - https://www.linkedin.com/in/jennifer-poirier-a5ab73159
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-duson-jill
+  openstates_id: ocd-person/c2268745-e66c-42d5-93bf-3b52819006e9
+  full_name: Jill Duson
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/duson-3.jpg
+  phone: ""
+  email: jill.duson@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District27
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jill_Duson
+  - https://en.wikipedia.org/wiki/Jill_Duson
+  - https://legislature.maine.gov/district27
+  - https://legislature.maine.gov/District27
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/jill-duson-abb68730
+  - https://www.mainesenate.org/senator/senator/senator-jill-duson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-martin-joe
+  openstates_id: ocd-person/8f4aa04f-f106-456f-a09f-e901c78939b6
+  full_name: Joe Martin
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JoeMartin2024.jpg
+  phone: ""
+  email: joseph.martin@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District19
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joseph_Martin_(Maine)
+  - https://legislature.maine.gov/District19
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-ducharme-jack
+  openstates_id: ocd-person/d72eadfd-23ee-4ecb-9853-e139ea82aec3
+  full_name: Jack Ducharme
+  office_title: State Representative
+  chamber: house
+  district: "71"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/c1e35f04-f37a-4b52-b892-dc74d53b510c_DucharmeNEW.jpg
+  phone: ""
+  email: jack.ducharme@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1434
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Ducharme
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1434
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/ducharme-jack
+  - https://www.linkedin.com/in/jackducharme
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-eder-john
+  openstates_id: ocd-person/9a9e7eab-5a12-452d-8d3b-57aa2dfa34b4
+  full_name: John Eder
+  office_title: State Representative
+  chamber: house
+  district: "136"
+  party: Republican
+  status: active
+  photo_url: https://assets.civicengine.com/uploads/candidate/headshot/160344/160344.jpg
+  phone: ""
+  email: john.eder@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/490
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Eder
+  - https://en.wikipedia.org/wiki/John_Eder
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/490
+  - https://mainehousegop.org/members/eder-john
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-baldacci-joe
+  openstates_id: ocd-person/34231d57-22e2-4f2f-be41-d2734fa6211f
+  full_name: Joe Baldacci
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/baldacci-1024x683.jpg
+  phone: ""
+  email: joe.baldacci@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-9
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_Baldacci
+  - https://ballotpedia.org/Joseph_Baldacci
+  - https://justfacts.votesmart.org/candidate/biography/22174/joseph-baldacci
+  - https://legislature.maine.gov/District-9
+  - https://legislature.maine.gov/district9
+  - https://legislature.maine.gov/District9
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/joseph-baldacci-50b08813
+  - https://www.mainesenate.org/senator/senator/joe-baldacci
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-underwood-joseph
+  openstates_id: ocd-person/b6102f7e-216a-4632-901c-25b2b446f080
+  full_name: Joseph Underwood
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/5f2f5dbd-c70a-49a9-87bd-de2f2a42cfc5_UnderwoodNEW.jpg
+  phone: ""
+  email: joseph.underwood@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1444
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joseph_Underwood
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1444
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/underwood-joseph
+  - https://www.linkedin.com/in/joseph-underwood-6950574
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-rafferty-joe
+  openstates_id: ocd-person/8c2c2996-5a72-4c9a-a0d9-958099f3a304
+  full_name: Joe Rafferty
+  office_title: State Senator
+  chamber: senate
+  district: "34"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/rafferty-1.jpg
+  phone: ""
+  email: joe.rafferty@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-34
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joseph_Rafferty_Jr.
+  - https://en.wikipedia.org/wiki/Joe_Rafferty_(Maine_politician)
+  - https://legislature.maine.gov/District-34
+  - https://legislature.maine.gov/district34
+  - https://legislature.maine.gov/District34
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/joe-rafferty-4894b761
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-morris-josh
+  openstates_id: ocd-person/64a07a85-a469-4c9d-9b7c-bf4de46ade74
+  full_name: Josh Morris
+  office_title: State Representative
+  chamber: house
+  district: "91"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/78e82de0-6a49-4118-9325-db07c8e934df_morris.jpg
+  phone: ""
+  email: joshua.morris@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1359
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joshua_Morris_(Maine)
+  - https://justfacts.votesmart.org/candidate/biography/103555/joshua-morris
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1359
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/morris-joshua
+  - https://www.linkedin.com/in/josh-morris-72995819
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-mccabe-julie
+  openstates_id: ocd-person/ec1a81b6-7c7f-4bac-99d4-ab0677e865d1
+  full_name: Julie McCabe
+  office_title: State Representative
+  chamber: house
+  district: "93"
+  party: Democratic
+  status: active
+  photo_url: https://mccabe.mainecandidate.com/images/2186.jpg
+  phone: ""
+  email: julia.mccabe@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3130
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Julia_McCabe
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3130
+  - https://www.maine.gov/housedems/node/4109
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-montell-karen
+  openstates_id: ocd-person/80900bc0-7e26-4195-a0af-ec56b9f34fe0
+  full_name: Karen Montell
+  office_title: State Representative
+  chamber: house
+  district: "54"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/509661e8-e573-4bef-b8ed-47c5c0a586a4_MONTELL.jpg
+  phone: ""
+  email: karen.montell@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1502
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Karen_Montell
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1502
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/montell/index.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-smith-katrina
+  openstates_id: ocd-person/b07e421b-8c1f-473d-aa7a-10d71e8a443b
+  full_name: Katrina Smith
+  office_title: State Representative
+  chamber: house
+  district: "62"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/5d2a8b6b-bea9-4f98-ad05-6d20c8f83aa6_KSMITH.jpg
+  phone: ""
+  email: katrina.smith@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1505
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Katrina_Smith
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1505
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/smith-katrina
+  - https://www.linkedin.com/in/katrina-smith-14215914b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-murphy-kelly
+  openstates_id: ocd-person/8abb4c0b-ed96-442e-8483-93a05845dcc5
+  full_name: Kelly Murphy
+  office_title: State Representative
+  chamber: house
+  district: "125"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/17a7b5d3-e413-418b-bad4-831e543f1099_MURPHY.jpg
+  phone: ""
+  email: kelly.murphy@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1477
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kelly_Noonan_Murphy
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1477
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/murphy/index.html
+  - https://www.maine.gov/housedems/murphy
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-fredette-ken
+  openstates_id: ocd-person/1c52b583-18c3-4e12-ae7a-2b07d589f753
+  full_name: Ken Fredette
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: kenneth.fredette@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/65
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kenneth_Fredette
+  - https://en.wikipedia.org/wiki/Kenneth_Fredette
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/65
+  - https://mainehousegop.org/members/fredette-kenneth
+  - https://www.linkedin.com/in/kenneth-fredette-999b0b209
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-webb-kilton
+  openstates_id: ocd-person/f905d6bf-dd0b-4637-94ba-381e14083f6e
+  full_name: Kilton Webb
+  office_title: State Representative
+  chamber: house
+  district: "98"
+  party: Democratic
+  status: active
+  photo_url: https://assets.civicengine.com/uploads/candidate/headshot/813534/813534.jpg
+  phone: ""
+  email: kilton.webb@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3131
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kilton_Webb
+  - https://en.wikipedia.org/wiki/Kilton_Webb
+  - https://justfacts.votesmart.org/candidate/biography/216012/kilton-webb
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3131
+  - https://www.linkedin.com/in/kilton-webb-b5620543
+  - https://www.maine.gov/housedems/node/4119
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-haggan-kim
+  openstates_id: ocd-person/59048d8e-de6a-4f84-aa27-0ae867742214
+  full_name: Kim Haggan
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: kimberly.haggan@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3113
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kimberly_Haggan
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3113
+  - https://mainehousegop.org/members/haggan-kimberly
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-pomerleau-kim
+  openstates_id: ocd-person/410a9d92-cdb2-4927-b589-72e32d525883
+  full_name: Kim Pomerleau
+  office_title: State Representative
+  chamber: house
+  district: "85"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/be0d0db4-52a9-40c7-8300-6cbb2e7e652d_POMERLEAU.jpg
+  phone: ""
+  email: kimberly.pomerleau@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1488
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kimberly_Pomerleau
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1488
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/pomerleau-kimberly
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-mathieson-kristi
+  openstates_id: ocd-person/375e5fda-9367-4ce3-a209-1c772c32219f
+  full_name: Kristi Mathieson
+  office_title: State Representative
+  chamber: house
+  district: "151"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/61a4ca7c-418f-4f26-a7eb-e355ea89333e_Mathieson.jpg
+  phone: ""
+  email: kristi.mathieson@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1406
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kristi_Mathieson
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1406
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/mathiesonk/index.html
+  - https://www.linkedin.com/in/kristi-mathieson-1a926830
+  - https://www.maine.gov/housedems/mathiesonk
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-supica-laura
+  openstates_id: ocd-person/a65cc42d-ae91-4f47-8269-4673f106682f
+  full_name: Laura Supica
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/1a8dbf21-c24a-4e1c-89e3-53030c1ecfe5_Supica.jpg
+  phone: ""
+  email: laura.supica@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1438
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Laura_Supica
+  - https://justfacts.votesmart.org/candidate/biography/187634/laura-supica
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1438
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/supical/index.html
+  - https://www.linkedin.com/in/laura-supica-b64201197
+  - https://www.maine.gov/housedems/supical
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-libby-laurel
+  openstates_id: ocd-person/5df4dc20-8fb9-432c-8844-c72a66a325d6
+  full_name: Laurel Libby
+  office_title: State Representative
+  chamber: house
+  district: "90"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/12533ded-aef6-4f67-a45a-d9c25b51d38a_Libby.jpg
+  phone: ""
+  email: laurel.libby@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1423
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Laurel_Libby
+  - https://en.wikipedia.org/wiki/Laurel_Libby
+  - https://justfacts.votesmart.org/candidate/biography/192645/laurel-libby
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1423
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/libby-laurel
+  - https://www.linkedin.com/in/laurel-libby-7991a69
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-osher-laurie
+  openstates_id: ocd-person/051d0089-f1cc-4523-a48d-ae98700165f8
+  full_name: Laurie Osher
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/62af6ace-cea8-45d3-b863-ada1f65c3a25_Osher.jpg
+  phone: ""
+  email: laurie.osher@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1436
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Laurie_Osher
+  - https://en.wikipedia.org/wiki/Laurie_Osher
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1436
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/osherl/index.html
+  - https://www.linkedin.com/in/laurie-osher-3686694a
+  - https://www.maine.gov/housedems/osherl
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-caruso-liz
+  openstates_id: ocd-person/12fc57e0-db0e-4112-a7c0-226b952a11b8
+  full_name: Liz Caruso
+  office_title: State Representative
+  chamber: house
+  district: "72"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ecaruso.jpg
+  phone: ""
+  email: elizabeth.caruso@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3123
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elizabeth_Caruso
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3123
+  - https://mainehousegop.org/members/caruso-elizabeth
+  - https://www.linkedin.com/in/elizabeth-caruso-99b4957b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-gramlich-lori
+  openstates_id: ocd-person/3cdb36ad-77a1-401d-8479-630ae970300b
+  full_name: Lori Gramlich
+  office_title: State Representative
+  chamber: house
+  district: "131"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/d346883e-e53b-4578-bd40-44eb245624e9_gramlich.jpg
+  phone: ""
+  email: lori.gramlich@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1342
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lori_Gramlich
+  - https://en.wikipedia.org/wiki/Lori_Gramlich
+  - https://justfacts.votesmart.org/candidate/biography/181163/lori-gramlich
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1342
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/lori-k-gramlich-8285766
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-lanigan-lucas
+  openstates_id: ocd-person/85c0e0b8-2654-4da5-96e6-8745ec68d0af
+  full_name: Lucas Lanigan
+  office_title: State Representative
+  chamber: house
+  district: "141"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/beba31fd-c03d-41e8-91d9-97bf04b13254_LANIGAN.jpg
+  phone: ""
+  email: lucas.lanigan@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1481
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lucas_Lanigan
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1481
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/lanigan-lucas
+  - https://www.linkedin.com/in/lucas-lanigan-37178424
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-daigle-lucien
+  openstates_id: ocd-person/1f33e4be-1228-4c31-9b0f-c79012be9d07
+  full_name: Lucien Daigle
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: lucien.daigle@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/memberprofiles/Details/3106
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lucien_Daigle
+  - https://legislature.maine.gov/house/house/memberprofiles/Details/3106
+  - https://mainehousegop.org/members/daigle-lucien
+  - https://www.linkedin.com/in/lucien-daigle-49566a6b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-crafts-lydia
+  openstates_id: ocd-person/b795e4ca-6b0d-4101-902d-8db5c1b54485
+  full_name: Lydia Crafts
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/aee526c2-f213-42e1-b859-11325b8c555a_Crafts.jpg
+  phone: ""
+  email: lydia.crafts@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1429
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lydia_Crafts
+  - https://en.wikipedia.org/wiki/Lydia_Crafts
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1429
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/craftsl/index.html
+  - https://www.linkedin.com/in/lydia-crafts-612b77190
+  - https://www.maine.gov/housedems/craftsl
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-copeland-lynn
+  openstates_id: ocd-person/61ef08d1-e345-42af-a56e-4fcd5076f0f5
+  full_name: Lynn Copeland
+  office_title: State Representative
+  chamber: house
+  district: "130"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/df46c4c5-9e8b-4b1d-85e2-a4f88aec8b09_Copeland.jpg
+  phone: ""
+  email: lynn.copeland@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1410
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lynn_Copeland
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1410
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/copelandl/index.html
+  - https://www.linkedin.com/in/lynn-copeland-6a211613
+  - https://www.maine.gov/housedems/copelandl
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-abdi-mana
+  openstates_id: ocd-person/0bb988f9-6dca-4fd8-ac06-3603af31094f
+  full_name: Mana Abdi
+  office_title: State Representative
+  chamber: house
+  district: "95"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/0b0aefe9-d3ab-435e-bf39-4028eaabde3a_MABDI.jpg
+  phone: ""
+  email: mana.abdi@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1492
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mana_Abdi
+  - https://en.wikipedia.org/wiki/Mana_Abdi
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1492
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/abdi/index.html
+  - https://www.linkedin.com/in/mana-abdi-78a809122
+  - https://www.maine.gov/housedems/abdi
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-malon-marc
+  openstates_id: ocd-person/48305a9e-8f2a-4cea-8689-b93491c82ad5
+  full_name: Marc Malon
+  office_title: State Representative
+  chamber: house
+  district: "133"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/24740258-3b61-4d37-9179-239dbb5b64ee_MMALON.jpg
+  phone: ""
+  email: marc.malon@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1478
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marc_Malon
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1478
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/malon/index.html
+  - https://www.linkedin.com/in/marcmalon2
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-rotundo-peggy
+  openstates_id: ocd-person/062977a2-a482-4c4f-b053-75cae4bdce31
+  full_name: Peggy Rotundo
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/rotundo.jpg
+  phone: ""
+  email: margaret.rotundo@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District21
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Margaret_Rotundo
+  - https://en.wikipedia.org/wiki/Peggy_Rotundo
+  - https://legislature.maine.gov/district21
+  - https://legislature.maine.gov/District21
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.mainesenate.org/senator/senator/senator-margaret-rotundo
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-moore-marianne
+  openstates_id: ocd-person/24bd9e6e-f10d-4e0d-a4b1-72bbe45f4e0d
+  full_name: Marianne Moore
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/moore-5x7.jpg
+  phone: ""
+  email: marianne.moore@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-6
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marianne_Moore
+  - https://en.wikipedia.org/wiki/Marianne_Moore_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/170470/marianne-moore
+  - https://legislature.maine.gov/District-6
+  - https://legislature.maine.gov/District6
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://mesenategop.com/your-senators/senator-marianne-moore
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-cooper-mark
+  openstates_id: ocd-person/0e9ec0ba-18f6-4dd5-90c2-5893f0216138
+  full_name: Mark Cooper
+  office_title: State Representative
+  chamber: house
+  district: "107"
+  party: Republican
+  status: active
+  photo_url: https://lh6.googleusercontent.com/iaonAoAk251JqJvVIy5Mb5RzkB2TaV80v3kPPIyh9QsEUa6LefrloPQmmNsjIFVWjom2_C0ai8RxEIy-YP66n6Hqermn--5WbOkpn_emAgPiyCCVZ2tPGnAJZ3mow20oBA=w1280
+  phone: ""
+  email: mark.cooper@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3132
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Cooper_(Maine)
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3132
+  - https://mainehousegop.org/members/cooper-mark
+  - https://www.linkedin.com/in/mark-cooper-9911a920
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-blier-mark
+  openstates_id: ocd-person/134a1697-216a-4761-827f-840f72c640a0
+  full_name: Mark Blier
+  office_title: State Representative
+  chamber: house
+  district: "138"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/0b41e77d-6373-4758-bc30-be7babfa921e_BlierNEW.jpg
+  phone: ""
+  email: mark.blier@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1344
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Blier
+  - https://justfacts.votesmart.org/candidate/biography/181175/mark-blier
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1344
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/blier-mark
+  - https://www.linkedin.com/in/mark-blier-47aba5104
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-lawrence-mark
+  openstates_id: ocd-person/ce4a4a85-e41d-410f-bfba-07f7f5b9dee0
+  full_name: Mark Lawrence
+  office_title: State Senator
+  chamber: senate
+  district: "35"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/lawrence-5x7-1.jpg
+  phone: ""
+  email: mark.lawrence@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-35
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Lawrence_(Maine)
+  - https://en.wikipedia.org/wiki/Mark_Lawrence_(politician)
+  - https://legislature.maine.gov/District-35
+  - https://legislature.maine.gov/district35
+  - https://legislature.maine.gov/District35
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/mark-lawrence-37319841
+  - https://www.mainesenate.org/senator/senator/mark-lawrence
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-babin-mark
+  openstates_id: ocd-person/a3a29593-781a-462d-93cc-685be03b3b56
+  full_name: Mark Babin
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/05fa532f-1a27-4521-af69-ceecf5c3311e_BABIN.jpg
+  phone: ""
+  email: mark.babin@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1455
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Babin
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1455
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/babin-mark
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-walker-mark
+  openstates_id: ocd-person/d16d8ff0-3e6f-4970-9baf-767c9eb09fab
+  full_name: Mark Walker
+  office_title: State Representative
+  chamber: house
+  district: "84"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/006156d6-d589-47bc-a865-871a85279134_MWALKER.jpg
+  phone: ""
+  email: mark.walker@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1487
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Walker_(Maine_State_House_candidate)
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1487
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/walker-mark
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-archer-marshall
+  openstates_id: ocd-person/9b3c17b4-3c7a-4f8d-96bb-8215a385fdd2
+  full_name: Marshall Archer
+  office_title: State Representative
+  chamber: house
+  district: "129"
+  party: Democratic
+  status: active
+  photo_url: https://static.wixstatic.com/media/5f6ec7_b6a4675891d74ce79ddda0199423840c~mv2.jpg/v1/fill/w_453,h_453,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/36802673_10216176856237143_8803646993508.jpg
+  phone: ""
+  email: marshall.archer@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3139
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marshall_Archer
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3139
+  - https://www.linkedin.com/in/marshallarcher
+  - https://www.maine.gov/housedems/node/4077
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-cimino-marygrace
+  openstates_id: ocd-person/ef0c0f85-eacc-4f97-9dba-d0781c40f274
+  full_name: Marygrace Cimino
+  office_title: State Representative
+  chamber: house
+  district: "83"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: marygrace.cimino@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3127
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marygrace_Cimino
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3127
+  - https://mainehousegop.org/members/cimino-marygrace
+  - https://www.linkedin.com/in/marygrace-cimino-2aa88a1b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-mcintyre-mathew
+  openstates_id: ocd-person/95538c83-57ab-4334-92a9-1991de0c3c9f
+  full_name: Mathew McIntyre
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: mathew.mcintyre@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3111
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mathew_McIntyre
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3111
+  - https://mainehousegop.org/members/mcintyre-mathew
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-beck-matt
+  openstates_id: ocd-person/dec943c1-07d5-479a-972f-a3c1cc6a2714
+  full_name: Matt Beck
+  office_title: State Representative
+  chamber: house
+  district: "122"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/10b00e2f-ff9f-4f15-b72a-1b8ed89dc9a8_BECK.jpg
+  phone: ""
+  email: matthew.beck@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1509
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matthew_Beck
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1509
+  - https://www.linkedin.com/in/matthew-beck-640a526
+  - https://www.mattbeckformaine.org/about
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-moonen-matt
+  openstates_id: ocd-person/7f03a30f-5a77-49b2-8c92-57f7a4238052
+  full_name: Matt Moonen
+  office_title: State Representative
+  chamber: house
+  district: "117"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/5ce2da1b-2227-407f-8f25-9cc5647cf4c5_moonen.jpg
+  phone: ""
+  email: matt.moonen@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/118
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matthew_Moonen
+  - https://en.wikipedia.org/wiki/Matt_Moonen
+  - https://justfacts.votesmart.org/candidate/biography/137356/matt-moonen
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/118
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/mattmoonen
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-daughtry-mattie
+  openstates_id: ocd-person/863a9ef0-5916-40d6-9929-7a7b498af0ec
+  full_name: Mattie Daughtry
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/daughtry-matthea-2.jpg
+  phone: ""
+  email: mattie.daughtry@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-24
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matthea_Daughtry
+  - https://en.wikipedia.org/wiki/Mattie_Daughtry
+  - https://justfacts.votesmart.org/candidate/biography/142892/mattie-daughtry
+  - https://legislature.maine.gov/District-24
+  - https://legislature.maine.gov/district23
+  - https://legislature.maine.gov/District23
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/matthea-daughtry-094a8851
+  - https://www.mainesenate.org/senator/senator/mattie-daughtry
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-harrington-matt
+  openstates_id: ocd-person/f4b39a4f-3a31-4e15-9b0a-459cb260f535
+  full_name: Matt Harrington
+  office_title: State Senator
+  chamber: senate
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/harrington-matt.jpg
+  phone: ""
+  email: matthew.harrington@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District33
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matthew_Harrington_(Maine)
+  - https://en.wikipedia.org/wiki/Matthew_Harrington_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/155022/matt-harrington
+  - https://legislature.maine.gov/district33
+  - https://legislature.maine.gov/District33
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/83
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://mesenategop.com/your-senators/senator-matt-harrington
+  - https://www.linkedin.com/in/matt-harrington-9b593999
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-sachs-melanie
+  openstates_id: ocd-person/efda26eb-c8f7-443c-a963-95419878a856
+  full_name: Melanie Sachs
+  office_title: State Representative
+  chamber: house
+  district: "102"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/5e4515a3-52f4-43e9-beaa-2fe8ac45c90d_Sachs.jpg
+  phone: ""
+  email: melanie.sachs@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1420
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Melanie_Sachs
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1420
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/sachsm/index.html
+  - https://www.maine.gov/housedems/sachsm
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-brennan-michael
+  openstates_id: ocd-person/b0c25078-ee4b-4638-9523-17997681a6e7
+  full_name: Michael Brennan
+  office_title: State Representative
+  chamber: house
+  district: "115"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/3626b818-d26c-4777-99c6-0a04ef459fc3_brennan.jpg
+  phone: ""
+  email: michael.brennan@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1350
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Brennan_(Maine)
+  - https://en.wikipedia.org/wiki/Michael_F._Brennan
+  - https://justfacts.votesmart.org/candidate/biography/6602/michael-brennan
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1350
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-lemelin-michael
+  openstates_id: ocd-person/feb330d7-8122-4547-b38a-38279732a9ce
+  full_name: Michael Lemelin
+  office_title: State Representative
+  chamber: house
+  district: "53"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/2f05ff55-e46c-41ce-b4b9-5d144bc7b7ee_LemelinNEW.jpg
+  phone: ""
+  email: michael.lemelin@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1428
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Lemelin
+  - https://justfacts.votesmart.org/candidate/biography/181242/michael-lemelin
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1428
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/lemelin-michael
+  - https://www.linkedin.com/in/michael-lemelin-6a151a12
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-soboleski-mike
+  openstates_id: ocd-person/fc107a79-150e-414f-b796-960c96d75eb6
+  full_name: Mike Soboleski
+  office_title: State Representative
+  chamber: house
+  district: "73"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/cb4e1505-8bc4-478c-a23c-d677f2d58e50_MSOBOLESKI.jpg
+  phone: ""
+  email: michael.soboleski@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1482
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Soboleski
+  - https://justfacts.votesmart.org/candidate/biography/203798/michael-soboleski
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1482
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/soboleski-michael
+  - https://mikesoboleski.com/meet-mike
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-tipping-mike
+  openstates_id: ocd-person/a18c5356-5572-4a99-8a7c-e86105afb821
+  full_name: Mike Tipping
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/tipping-1.jpg
+  phone: ""
+  email: mike.tipping@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District8
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Tipping
+  - https://legislature.maine.gov/district8
+  - https://legislature.maine.gov/District8
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/mike-tipping-467b8a1a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-lajoie-mike
+  openstates_id: ocd-person/c3185181-4ae9-42ce-8bf5-9a2f04c2422b
+  full_name: Mike Lajoie
+  office_title: State Representative
+  chamber: house
+  district: "96"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/5dfb974c-7ace-4bd3-86bf-d975d1ac8aa1_lajoma.jpg
+  phone: ""
+  email: michel.lajoie@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/212
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michel_Lajoie
+  - https://en.wikipedia.org/wiki/Mike_Lajoie
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/212
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/michel-mike-lajoie-7619185b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-meyer-michele
+  openstates_id: ocd-person/e26fdc8a-3099-4ea4-ad2d-1ccdc45ce1e6
+  full_name: Michele Meyer
+  office_title: State Representative
+  chamber: house
+  district: "150"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/b1004d88-844a-4d6d-9e4a-e6a329b430c9_meyer.jpg
+  phone: ""
+  email: michele.meyer@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1337
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michele_Meyer_(Maine)
+  - https://justfacts.votesmart.org/candidate/biography/181154/michele-meyer
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1337
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-boyer-michelle
+  openstates_id: ocd-person/0b6557f4-ce52-460b-99af-ec88b847d81a
+  full_name: Michelle Boyer
+  office_title: State Representative
+  chamber: house
+  district: "123"
+  party: Democratic
+  status: active
+  photo_url: https://boyer.mainecandidate.com/images/2080.jpg
+  phone: ""
+  email: michelle.boyer@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3138
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michelle_Boyer
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3138
+  - https://www.linkedin.com/in/michelle-boyer-62033614
+  - https://www.maine.gov/housedems/node/4079
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-lance-mike
+  openstates_id: ocd-person/a2494f1d-e78d-4a29-b631-5c40b3fe43d8
+  full_name: Mike Lance
+  office_title: State Representative
+  chamber: house
+  district: "79"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: michael.lance@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3125
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Lance
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3125
+  - https://mainehousegop.org/members/lance-michael
+  - https://www.linkedin.com/in/michael-lance-68b341108
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-ray-mike
+  openstates_id: ocd-person/648b245c-8c13-4caf-944c-f775ff48aab2
+  full_name: Mike Ray
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Democratic
+  status: active
+  photo_url: https://d34zq6icsxu12y.cloudfront.net/assets/uploads/Mike%20Ray%20%20%20%20D%20Ray%20%20%20%20Maine.png
+  phone: ""
+  email: michael.ray@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3114
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/D._Ray
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3114
+  - https://www.maine.gov/housedems/node/4093
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-rielly-morgan
+  openstates_id: ocd-person/35363ed2-34d2-4f93-bbce-2b0fe26d962e
+  full_name: Morgan Rielly
+  office_title: State Representative
+  chamber: house
+  district: "127"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/81d0ef8c-588c-417c-84c1-77b41cad5120_RiellyNEW.jpg
+  phone: ""
+  email: morgan.rielly@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1414
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Morgan_Rielly
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1414
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/riellym/index.html
+  - https://www.linkedin.com/in/morgan-rielly-056ab4a9
+  - https://www.maine.gov/housedems/riellym
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-wadsworth-nate
+  openstates_id: ocd-person/bed16528-b0ae-40e0-89a0-7303b946fb71
+  full_name: Nate Wadsworth
+  office_title: State Representative
+  chamber: house
+  district: "82"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: nathan.wadsworth@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/46
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nathan_Wadsworth
+  - https://justfacts.votesmart.org/candidate/biography/151518/nathan-wadsworth
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/46
+  - https://mainehousegop.org/members/wadsworth-nathan
+  - https://www.linkedin.com/in/nate-wadsworth-088ab112
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-carlow-nathan
+  openstates_id: ocd-person/69e87146-73a0-434e-9cbb-8d7c80e7ce30
+  full_name: Nathan Carlow
+  office_title: State Representative
+  chamber: house
+  district: "137"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a06a6e19-aeb1-4d9f-b827-7ff997065c8d_CarlowNEW.jpg
+  phone: ""
+  email: nathan.carlow@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1411
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nathan_Carlow
+  - https://en.wikipedia.org/wiki/Nathan_Carlow
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1411
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/carlow-nathan
+  - https://www.linkedin.com/in/nathan-carlow-830a7b143
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-grohoski-nicole
+  openstates_id: ocd-person/e53a09e6-a38e-4622-97e4-c40bf2d93faa
+  full_name: Nicole Grohoski
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/senator-grohoski-photo-web.jpg
+  phone: ""
+  email: nicole.grohoski@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/district-7
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nicole_Grohoski
+  - https://en.wikipedia.org/wiki/Nicole_Grohoski
+  - https://legislature.maine.gov/district-7
+  - https://legislature.maine.gov/district7
+  - https://legislature.maine.gov/District7
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1387
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-milliken-nina
+  openstates_id: ocd-person/a1ab39cd-e95b-4f16-9fdc-9f7d2685fc45
+  full_name: Nina Milliken
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/d61581cd-0cf9-4ffa-a29e-f767f25dec5f_NMILLIKEN.jpg
+  phone: ""
+  email: nina.milliken@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1462
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nina_Milliken
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1462
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/milliken/index.html
+  - https://www.maine.gov/housedems/milliken
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-terry-parnell
+  openstates_id: ocd-person/a3686503-340d-4f8b-91d3-6f8de4d8a55d
+  full_name: Parnell Terry
+  office_title: State Representative
+  chamber: house
+  district: "108"
+  party: Democratic
+  status: active
+  photo_url: https://parnellterry.mainecandidate.com/images/2143.jpg
+  phone: ""
+  email: parnell.terry@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3133
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Parnell_Terry
+  - https://justfacts.votesmart.org/candidate/biography/216020/parnell-terry
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3133
+  - https://www.maine.gov/housedems/node/4095
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-flynn-paul
+  openstates_id: ocd-person/ff5fbabd-df54-46a9-a36c-e78dad524105
+  full_name: Paul Flynn
+  office_title: State Representative
+  chamber: house
+  district: "63"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: paul.flynn@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3120
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Flynn
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3120
+  - https://mainehousegop.org/members/flynn-paul
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-wood-peter
+  openstates_id: ocd-person/dac0a6d5-74a6-4948-8e27-cd036a44668d
+  full_name: Peter Wood
+  office_title: State Representative
+  chamber: house
+  district: "81"
+  party: Republican
+  status: active
+  photo_url: https://i0.wp.com/mainehousegop.org/wp-content/uploads/2024/11/Wood_p.jpg?fit=600%2C800&ssl=1
+  phone: ""
+  email: peter.wood@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3126
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Peter_Wood
+  - https://justfacts.votesmart.org/candidate/biography/215993/peter-wood
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3126
+  - https://mainehousegop.org/members/wood-peter
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-arford-poppy
+  openstates_id: ocd-person/522f7557-1c06-451b-9c81-78080fc5c21c
+  full_name: Poppy Arford
+  office_title: State Representative
+  chamber: house
+  district: "101"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/e67bda1d-1bd9-46a4-8dca-4c3616a20dfa_ArfordNEW.jpg
+  phone: ""
+  email: poppy.arford@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1421
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Poppy_Arford
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1421
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/arfordp/index.html
+  - https://www.maine.gov/housedems/arfordp
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-chapman-quentin
+  openstates_id: ocd-person/d2a31aea-936e-459b-85e8-a031ba2756e9
+  full_name: Quentin Chapman
+  office_title: State Representative
+  chamber: house
+  district: "88"
+  party: Republican
+  status: active
+  photo_url: https://assets.civicengine.com/uploads/candidate/headshot/813522/813522.jpg
+  phone: ""
+  email: quentin.chapman@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3129
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Quentin_Chapman
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3129
+  - https://mainehousegop.org/members/chapman-quentin
+  - https://www.linkedin.com/in/quentin-chapman-06448b89
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-henderson-rachel
+  openstates_id: ocd-person/b61923e6-c463-4df4-95b2-117d74c030bd
+  full_name: Rachel Henderson
+  office_title: State Representative
+  chamber: house
+  district: "78"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/7c8fd3af-5878-4aea-91fe-0faa167ad005_HENDERSON.jpg
+  phone: ""
+  email: rachel.henderson@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1484
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rachel_Ann_Henderson
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1484
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/henderson-rachel
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-ross-rachel
+  openstates_id: ocd-person/a3fd29b8-0e0e-4559-a71f-6f7cf20be60f
+  full_name: Rachel Talbot Ross
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/5a851e9e-6f42-4467-adb4-dbfc44dee0ad_talbr_[1].jpg
+  phone: ""
+  email: rachel.talbotross@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District28
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rachel_Talbot_Ross
+  - https://en.wikipedia.org/wiki/Rachel_Talbot_Ross
+  - https://legislature.maine.gov/District28
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/56
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/talbotrossr/index.html
+  - https://www.linkedin.com/in/rachel-talbot-ross-3b33681
+  - https://www.mainesenate.org/senator/senator/rachel-talbot-ross
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-macias-rafael
+  openstates_id: ocd-person/ef82117f-6819-4f84-92dc-a49bebded523
+  full_name: Rafael Macias
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Democratic
+  status: active
+  photo_url: https://assets.civicengine.com/uploads/candidate/headshot/813482/813482.jpg
+  phone: ""
+  email: rafael.macias@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3116
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rafael_Macias
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3116
+  - https://www.linkedin.com/in/rafaelmacias1
+  - https://www.maine.gov/housedems/node/4107
+  - https://www.rafaelmacias.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-greenwood-randall
+  openstates_id: ocd-person/abfa3321-4f0f-42a1-81ef-25b5d7bbfd3e
+  full_name: Randall Greenwood
+  office_title: State Representative
+  chamber: house
+  district: "56"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/46650f82-b988-4d47-8cb9-0a5abc26a0a2_Greenwood.jpg
+  phone: ""
+  email: randall.greenwood@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/208
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Randall_Greenwood
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/208
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/greenwood-randall
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-hall-randy
+  openstates_id: ocd-person/8a7d14ca-669e-4984-8a28-0086e2b9b2ae
+  full_name: Randy Hall
+  office_title: State Representative
+  chamber: house
+  district: "74"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/34a33c5a-2116-406e-8a63-e77dbb049077_hall.jpg
+  phone: ""
+  email: randall.hall@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1375
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Randall_Hall
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1375
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/hall-randall
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-paul-reagan
+  openstates_id: ocd-person/76ab2f9a-14e8-4eb5-ae0e-1a26e4a3a04c
+  full_name: Reagan Paul
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/7b5328a9-249c-464f-b943-d0fa3fe16d1c_RPAUL.jpg
+  phone: ""
+  email: reagan.paul@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1496
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Reagan_Paul
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1496
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/paul-reagan
+  - https://reaganformaine.com/about
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-bennett-rick
+  openstates_id: ocd-person/4276be86-7dfa-4817-9792-52622b93ff40
+  full_name: Rick Bennett
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Independent
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/bennett-5x7.jpg
+  phone: ""
+  email: richard.bennett@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-19
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Richard_Bennett_(Maine)
+  - https://en.wikipedia.org/wiki/Richard_A._Bennett
+  - https://justfacts.votesmart.org/candidate/biography/10747/rick-bennett
+  - https://legislature.maine.gov/District-19
+  - https://legislature.maine.gov/District18
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://mesenategop.com/your-senators/senator-rick-bennett
+  - https://valueedgeadvisors.com/principals/ceo-richard-a-bennett
+  - https://www.linkedin.com/in/richard-bennett-2148197
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-mason-rick
+  openstates_id: ocd-person/6c313875-2dc9-4ef5-b869-c3cc0b7d5c97
+  full_name: Rick Mason
+  office_title: State Representative
+  chamber: house
+  district: "97"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/00d3edf9-afa9-42a9-894e-6f123441a00b_MasonNEW.jpg
+  phone: ""
+  email: richard.mason@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/158
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Richard_Mason
+  - https://justfacts.votesmart.org/candidate/biography/176815/rick-mason
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/158
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/mason-richard
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-campbell-dick
+  openstates_id: ocd-person/0f9ba178-89fb-439e-afa2-c327414d966d
+  full_name: Dick Campbell
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/8be4f86f-6d8b-4193-a213-a97eb6b5ac5b_camprh.jpg
+  phone: ""
+  email: richard.campbell@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/21
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Richard_Campbell_(Maine)
+  - https://en.wikipedia.org/wiki/Richard_H._Campbell
+  - https://justfacts.votesmart.org/candidate/biography/6606/richard-campbell
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/21
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/campbell-richard
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-bradstreet-dick
+  openstates_id: ocd-person/ec504278-9872-4842-a99c-80b31e563707
+  full_name: Dick Bradstreet
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/25f23c49-eaab-420a-8fdd-b4d2afb931bc_bradrt.jpg
+  phone: ""
+  email: dick.bradstreet@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District15
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Richard_Bradstreet
+  - https://en.wikipedia.org/wiki/Richard_Bradstreet
+  - https://justfacts.votesmart.org/candidate/biography/170234/dick-bradstreet
+  - https://legislature.maine.gov/District15
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/18
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mesenategop.com/your-senators/senator-richard-bradstreet
+  - https://www.linkedin.com/in/dick-bradstreet-a184b056
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-foley-bob
+  openstates_id: ocd-person/8292a538-3cda-492f-8686-da248f432df3
+  full_name: Bob Foley
+  office_title: State Representative
+  chamber: house
+  district: "145"
+  party: Republican
+  status: active
+  photo_url: http://www.maine.gov/legis/house/photo128/folera.jpg
+  phone: ""
+  email: robert.foley@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/64
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Foley
+  - https://en.wikipedia.org/wiki/Robert_Foley_(American_politician)
+  - https://justfacts.votesmart.org/candidate/biography/151401/robert-foley
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/64
+  - https://mainehousegop.org/members/foley-robert
+  - https://www.linkedin.com/in/robert-foley-64326732
+  - https://www.maine.gov/legis/house/hsebios/folera.htm
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-nutting-bob
+  openstates_id: ocd-person/32f4600c-1bc1-4758-8d94-69878c863e00
+  full_name: Bob Nutting
+  office_title: State Representative
+  chamber: house
+  district: "66"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/10857e45-bb21-4dfb-92af-ab7059898dbe_nuttrw.jpg
+  phone: ""
+  email: robert.nutting@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/218
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Nutting
+  - https://en.wikipedia.org/wiki/Robert_Nutting_(politician)
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/218
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/nutting-robert
+  - https://www.maine.gov/legis/house/dist_mem.htm
+  - https://www.maine.gov/legis/house/hsebios/nuttrw.htm
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-albert-roger
+  openstates_id: ocd-person/c76a67f9-4d87-4a73-8d89-eea7cd8a3a98
+  full_name: Roger Albert
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/ce15102a-72b1-4d16-adcc-ec90fdd077e0_ALBERT.jpg
+  phone: ""
+  email: roger.albert@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1454
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Roger_Albert
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1454
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/albert-roger
+  - https://www.linkedin.com/in/roger-c-albert-391010100
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-olsen-rolf
+  openstates_id: ocd-person/df555146-b927-4268-b8cf-d3d7b0848b14
+  full_name: Rolf Olsen
+  office_title: State Representative
+  chamber: house
+  district: "86"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: rolf.olsen@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3128
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rolf_Olsen_Jr.
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3128
+  - https://mainehousegop.org/members/olsen-rolf
+  - https://www.linkedin.com/in/rolf-olsen-41953aa
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-white-russ
+  openstates_id: ocd-person/6e471a24-9252-4c4d-aff6-a00c0c84604d
+  full_name: Russ White
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://i0.wp.com/mainehousegop.org/wp-content/uploads/2024/11/White_p.jpg?fit=600%2C800&ssl=1
+  phone: ""
+  email: russell.white@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3108
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Russell_White
+  - https://justfacts.votesmart.org/candidate/biography/215808/russ-white
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3108
+  - https://mainehousegop.org/members/white-russell
+  - https://www.linkedin.com/in/russell-white-35aba564
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-black-russell
+  openstates_id: ocd-person/fa3e8ae3-757e-44fb-9451-6bf381d748ce
+  full_name: Russell Black
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/black-5x7.jpg
+  phone: ""
+  email: russell.black@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-17
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Russell_Black
+  - https://en.wikipedia.org/wiki/Russell_Black
+  - https://justfacts.votesmart.org/candidate/biography/121044/russell-black
+  - https://legislature.maine.gov/District-17
+  - https://legislature.maine.gov/District5
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-fecteau-ryan
+  openstates_id: ocd-person/b890f601-0023-4d87-acf7-a4db5cbf2b62
+  full_name: Ryan Fecteau
+  office_title: State Representative
+  chamber: house
+  district: "132"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/af773fba-d491-4e93-8680-460d93e4a3aa_FecteauRNEW.jpg
+  phone: ""
+  email: ryan.fecteau@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/63
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ryan_Fecteau
+  - https://en.wikipedia.org/wiki/Ryan_Fecteau
+  - https://justfacts.votesmart.org/candidate/biography/151397/ryan-fecteau
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/63
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/ryanfecteau
+  - https://www.maine.gov/housedems/node/4087
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-cluchey-sally
+  openstates_id: ocd-person/d91a8965-c40d-481f-af61-5acb9b953fd3
+  full_name: Sally Cluchey
+  office_title: State Representative
+  chamber: house
+  district: "52"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/c6886b51-5eda-49d0-b7ad-a5315555764c_SCLUCHEY.jpg
+  phone: ""
+  email: sally.cluchey@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1501
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sally_Cluchey
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1501
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/clucheys
+  - https://legislature.maine.gov/housedems/clucheys/index.html
+  - https://sallycluchey.com
+  - https://www.linkedin.com/in/sallycluchey
+  - https://www.maine.gov/housedems/clucheys
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-zager-sam
+  openstates_id: ocd-person/59c5505d-902d-4b6a-b3d5-8e036e640348
+  full_name: Sam Zager
+  office_title: State Representative
+  chamber: house
+  district: "116"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/b6cd2a0d-2b96-4103-a43b-bea5aef4a435_Zager.jpg
+  phone: ""
+  email: sam.zager@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1418
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Samuel_Zager
+  - https://en.wikipedia.org/wiki/Samuel_Zager
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1418
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/zagers/index.html
+  - https://www.linkedin.com/in/sam-zager-5158605
+  - https://www.maine.gov/housedems/zagers
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-harriman-scott
+  openstates_id: ocd-person/07984348-1057-4adf-9816-8407548bdb35
+  full_name: Scott Harriman
+  office_title: State Representative
+  chamber: house
+  district: "94"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: scott.harriman@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/MemberProfiles/Details/3141
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_Harriman
+  - https://en.wikipedia.org/wiki/Scott_Harriman
+  - https://justfacts.votesmart.org/candidate/biography/211233/scott-harriman
+  - https://legislature.maine.gov/house/MemberProfiles/Details/3141
+  - https://www.linkedin.com/in/harrimanscott
+  - https://www.maine.gov/housedems/node/4715
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-cyrway-scott
+  openstates_id: ocd-person/73dfc0b1-9ce4-4d8e-8119-1dc7396fbb2c
+  full_name: Scott Cyrway
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/cyrway-5x7-1.jpg
+  phone: ""
+  email: scott.cyrway@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-16
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_Cyrway
+  - https://en.wikipedia.org/wiki/Scott_Cyrway
+  - https://justfacts.votesmart.org/candidate/biography/155345/scott-cyrway
+  - https://legislature.maine.gov/District-16
+  - https://legislature.maine.gov/District16
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1506
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://mainehousegop.org/members/cyrway-scott
+  - https://mesenategop.com/your-senators/scott-cyrway
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-faircloth-sean
+  openstates_id: ocd-person/9db9a9ba-552e-446f-b5a3-58f74596a115
+  full_name: Sean Faircloth
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: sean.faircloth@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/430
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sean_Faircloth
+  - https://en.wikipedia.org/wiki/Sean_Faircloth
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/430
+  - https://www.linkedin.com/in/sean-faircloth-a1511a22
+  - https://www.linkedin.com/in/sean-faircloth-b25155155
+  - https://www.maine.gov/housedems/node/4205
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-frost-sharon
+  openstates_id: ocd-person/05a89099-12b0-46b5-9f6e-002e1e621583
+  full_name: Sharon Frost
+  office_title: State Representative
+  chamber: house
+  district: "58"
+  party: Independent
+  status: active
+  photo_url: https://frost.mainecandidate.com/images/2105.jpg
+  phone: ""
+  email: sharon.frost@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3117
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sharon_Frost
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3117
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-lyman-sheila
+  openstates_id: ocd-person/7498179f-e3de-47b7-9aee-9abee716522a
+  full_name: Sheila Lyman
+  office_title: State Representative
+  chamber: house
+  district: "76"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/07bd7878-b32c-4a23-b44a-9f56e3353fdf_LymanNEW.jpg
+  phone: ""
+  email: sheila.lyman@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1424
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sheila_Lyman
+  - https://en.wikipedia.org/wiki/Sheila_Lyman
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1424
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/lyman-sheila
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-rudnicki-shelley
+  openstates_id: ocd-person/2c48b67e-10dd-4162-af2b-add94f3bc728
+  full_name: Shelley Rudnicki
+  office_title: State Representative
+  chamber: house
+  district: "67"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/f5ef18ca-04bc-4226-a57d-0857e0087153_rudnicki.jpg
+  phone: ""
+  email: shelley.rudnicki@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1371
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shelley_Rudnicki
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1371
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/rudnicki-shelley
+  - https://www.linkedin.com/in/shelley-rudnicki-4948541a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-warren-sophie
+  openstates_id: ocd-person/140459ab-ba63-410a-819c-aec28c2f2f66
+  full_name: Sophie Warren
+  office_title: State Representative
+  chamber: house
+  district: "124"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/cf752b53-787f-40ea-980b-165536a3a6c7_Warren.jpg
+  phone: ""
+  email: sophia.warren@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1413
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sophia_Warren
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1413
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/sophiabaileywarren
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-guerin-stacey
+  openstates_id: ocd-person/3439fe0c-fb43-4977-ac8c-1dd1f8f10e96
+  full_name: Stacey Guerin
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/guerin-headshot-outdoors-rgb.jpg
+  phone: ""
+  email: stacey.guerin@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-10
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stacey_Guerin
+  - https://en.wikipedia.org/wiki/Stacey_Guerin
+  - https://justfacts.votesmart.org/candidate/biography/120954/stacey-guerin
+  - https://legislature.maine.gov/District-10
+  - https://legislature.maine.gov/district4
+  - https://legislature.maine.gov/District4
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://mesenategop.com/your-senators/senator-stacey-guerin
+  - https://www.linkedin.com/in/staceyguerin
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-brenner-stacy
+  openstates_id: ocd-person/b060c143-2734-491d-b28f-f6e4e2c77cb8
+  full_name: Stacy Brenner
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/brenner-1022x1024.jpg
+  phone: ""
+  email: stacy.brenner@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District-30
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stacy_Brenner
+  - https://en.wikipedia.org/wiki/Stacy_Brenner
+  - https://justfacts.votesmart.org/candidate/biography/192722/stacy-brenner
+  - https://legislature.maine.gov/District-30
+  - https://legislature.maine.gov/district30
+  - https://legislature.maine.gov/District30
+  - https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/stacy-brenner-64b4ba5
+  - https://www.linkedin.com/in/stacy-brenner-6a4b3b253
+  - https://www.mainesenate.org/senator/senator/stacy-brenner
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-wood-steve
+  openstates_id: ocd-person/94645c8f-f06c-485e-b5fa-797e3590ea30
+  full_name: Steve Wood
+  office_title: State Representative
+  chamber: house
+  district: "92"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/1e90c36e-1b64-464a-8371-c4bb4bad5925_woodsj[1].jpg
+  phone: ""
+  email: stephen.wood@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/40
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephen_Wood
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/40
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/wood-stephen
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-bishop-steve
+  openstates_id: ocd-person/4cd1a303-929b-43fe-b92c-1cca8a89d302
+  full_name: Steve Bishop
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://bishopforus.com/wp-content/uploads/2024/03/Steve-Bishop-e1711465002356.jpeg
+  phone: ""
+  email: steven.bishop@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/memberprofiles/Details/3110
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steven_Bishop
+  - https://legislature.maine.gov/house/house/memberprofiles/Details/3110
+  - https://mainehousegop.org/members/bishop-steve
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-bunker-steve
+  openstates_id: ocd-person/fb8f35c6-65a4-42d0-9009-3def6dcc62cb
+  full_name: Steve Bunker
+  office_title: State Representative
+  chamber: house
+  district: "75"
+  party: Democratic
+  status: active
+  photo_url: https://dailybulldog.com/wp-content/uploads/2024/01/SteveB2-300x300.jpg
+  phone: ""
+  email: stephan.bunker@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3124
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephan_Bunker
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3124
+  - https://www.linkedin.com/in/stephan-bunker-19023a6b
+  - https://www.maine.gov/housedems/node/4081
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-foster-steven
+  openstates_id: ocd-person/7d5a163c-a37a-48be-9a3f-2e4b54e3fdd6
+  full_name: Steven Foster
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/dc1e3209-322d-403d-b1b6-6290ee06199b_Foster.jpg
+  phone: ""
+  email: steven.foster@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1370
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steven_Foster_(Maine)
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1370
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/foster-steven
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-bernard-sue
+  openstates_id: ocd-person/2c0651f3-bbea-49c8-9da3-a713953ff4d8
+  full_name: Sue Bernard
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: susan.bernard@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/DIstrict1
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Susan_Bernard
+  - https://en.wikipedia.org/wiki/Susan_Bernard_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/192486/susan-bernard
+  - https://legislature.maine.gov/DIstrict1
+  - https://mesenategop.com/your-senators/susan-bernard
+  - https://www.linkedin.com/in/sue-bernard-79b34068
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-salisbury-sue
+  openstates_id: ocd-person/d43df0c7-0dfd-4640-9881-f37611c15830
+  full_name: Sue Salisbury
+  office_title: State Representative
+  chamber: house
+  district: "128"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/51e7366f-0985-40da-ad18-0933d15e2d99_SalisburyNEW.jpg
+  phone: ""
+  email: suzanne.salisbury@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1415
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Suzanne_Salisbury
+  - https://en.wikipedia.org/wiki/Suzanne_Salisbury
+  - https://justfacts.votesmart.org/candidate/biography/151493/sue-salisbury
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1415
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/salisburys/index.html
+  - https://www.linkedin.com/in/suesalisbury
+  - https://www.maine.gov/housedems/salisburys
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-schmersalburgess-tammy
+  openstates_id: ocd-person/444d3040-a7ee-4559-8d5f-bfc515617605
+  full_name: Tammy Schmersal-Burgess
+  office_title: State Representative
+  chamber: house
+  district: "77"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/c0bba107-42c6-442e-aea6-3cdc8e53c9eb_TBURGESS.jpg
+  phone: ""
+  email: tammy.schmersal-burgess@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1483
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tammy_Schmersal-Burgess
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1483
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/schmersal-burgess-tammy
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-hasenfus-tavis
+  openstates_id: ocd-person/194ff967-ad0b-4f2d-8cb7-ef1e062b235c
+  full_name: Tavis Hasenfus
+  office_title: State Representative
+  chamber: house
+  district: "57"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/7caf9ecd-04e1-4e00-b772-b38616cac2ab_HasenfusNEW.jpg
+  phone: ""
+  email: tavis.hasenfus@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1427
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tavis_Hasenfus
+  - https://justfacts.votesmart.org/candidate/192633/tavis-hasenfus
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1427
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/hasenfust/index.html
+  - https://www.linkedin.com/in/tavis-hasenfus-39a1a169
+  - https://www.maine.gov/housedems/hasenfust
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-pierce-teresa
+  openstates_id: ocd-person/0d692e7b-535a-498b-8072-a258806fecb4
+  full_name: Teresa Pierce
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/pierce-web-748x1024.jpg
+  phone: ""
+  email: teresa.pierce@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District25
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Teresa_Pierce
+  - https://en.wikipedia.org/wiki/Teresa_Pierce
+  - https://legislature.maine.gov/district25
+  - https://legislature.maine.gov/District25
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/130
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/teresa-pierce-a5649617
+  - https://www.mainesenate.org/senator/senator/senator-teresa-pierce
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-lavigne-thomas
+  openstates_id: ocd-person/be3df38c-150a-4e3c-8c16-6e97bdbeadc4
+  full_name: Thomas Lavigne
+  office_title: State Representative
+  chamber: house
+  district: "148"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/fc7494df-6e51-45a2-9716-43f8d0f0b162_LAVIGNE.jpg
+  phone: ""
+  email: thomas.lavigne@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1472
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Thomas_Lavigne
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1472
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/lavigne-thomas
+  - https://www.linkedin.com/in/thomas-lavigne-a34646162
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-roberts-tiffany
+  openstates_id: ocd-person/524f6cce-8333-442a-aff3-2e92bd9df894
+  full_name: Tiffany Roberts
+  office_title: State Representative
+  chamber: house
+  district: "149"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/524ac892-9d68-4268-8883-b94a2e993161_Roberts.jpg
+  phone: ""
+  email: tiffany.roberts@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1385
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tiffany_Roberts-Lovell
+  - https://justfacts.votesmart.org/candidate/biography/183643/tiffany-roberts
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1385
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-strout-tiffany
+  openstates_id: ocd-person/2ffd13d7-b22a-4bea-8bc0-eaa6c0a53c17
+  full_name: Tiffany Strout
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/0cea9b69-973d-411d-bbd7-b5c6e1e6d559_TSTROUT.jpg
+  phone: ""
+  email: tiffany.strout@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1459
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tiffany_Strout
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1459
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/strout-tiffany
+  - https://www.linkedin.com/in/tiffany-strout-59921927
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-guerrette-timmy
+  openstates_id: ocd-person/2e5b6467-1014-4771-9aae-2c401029ed01
+  full_name: Timmy Guerrette
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/140ecd56-dda0-495a-8f55-a372f209dcea_TGUERRETTE.jpg
+  phone: ""
+  email: timothy.guerrette@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1456
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Timothy_Guerrette
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1456
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/guerrette-timothy
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-sen-nangle-tim
+  openstates_id: ocd-person/2715d740-16c6-49ec-9224-d3d9a24e47ee
+  full_name: Tim Nangle
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/uploads/visual_edit/nangle.jpg
+  phone: ""
+  email: timothy.nangle@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/District26
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Timothy_Nangle
+  - https://legislature.maine.gov/district26
+  - https://legislature.maine.gov/District26
+  - https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+  - https://www.linkedin.com/in/tim-nangle
+  - https://www.mainesenate.org/senator/senator/tim-nangle
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-gere-traci
+  openstates_id: ocd-person/10c768fb-c5ef-448e-9759-d76f6c313909
+  full_name: Traci Gere
+  office_title: State Representative
+  chamber: house
+  district: "134"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/593607d8-2dcf-4adc-8351-ebf61eeda842_Gere2021.jpg
+  phone: ""
+  email: traci.gere@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1408
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Traci_Gere
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1408
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/geret/index.html
+  - https://www.linkedin.com/in/traci-gere-7190341
+  - https://www.maine.gov/housedems/geret
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-quint-tracy
+  openstates_id: ocd-person/3853d2fe-2580-4041-abb1-b4136172e9c0
+  full_name: Tracy Quint
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a2caf281-9523-418e-b5a2-1a0635438985_QuintNEW.jpg
+  phone: ""
+  email: tracy.quint@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1443
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tracy_Quint
+  - https://en.wikipedia.org/wiki/Tracy_Quint
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1443
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/quint-tracy
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-geiger-valli
+  openstates_id: ocd-person/0842c8ba-66a3-4896-aede-def84a65605b
+  full_name: Valli Geiger
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/b7429307-4ee4-4919-b291-30007ac4f3d6_GeigerNEW.jpg
+  phone: ""
+  email: valli.geiger@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1430
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Valli_Geiger
+  - https://justfacts.votesmart.org/candidate/biography/192619/valli-geiger
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1430
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/geigerv/index.html
+  - https://www.linkedin.com/in/valli-geiger-10a76a46
+  - https://www.maine.gov/housedems/geigerv
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-doudera-vicki
+  openstates_id: ocd-person/6ec04f29-e02d-4c39-96e8-e9ed823437e7
+  full_name: Vicki Doudera
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/b23e405e-96d3-42e0-8cea-8c5bb8949003_Doudera.jpg
+  phone: ""
+  email: vicki.doudera@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1365
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Victoria_Doudera
+  - https://justfacts.votesmart.org/candidate/biography/181250/victoria-doudera
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1365
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-crockett-ed
+  openstates_id: ocd-person/3fbfa65e-661c-4b82-a754-9ae0c6956797
+  full_name: Ed Crockett
+  office_title: State Representative
+  chamber: house
+  district: "112"
+  party: Independent
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/ff383c77-b5c1-424d-9de3-1e8a5603b1c9_crockett.jpg
+  phone: ""
+  email: ed.crockett@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1351
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/W._Edward_Crockett
+  - https://en.wikipedia.org/wiki/W._Edward_Crockett
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1351
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://www.linkedin.com/in/ed-crockett-3ba03443
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-runte-gerry
+  openstates_id: ocd-person/7dea9101-48ec-4f1a-871e-a4f1c98b8914
+  full_name: Gerry Runte
+  office_title: State Representative
+  chamber: house
+  district: "146"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a2caaeac-ae5a-4ffd-b7a6-45e1840bba4b_RUNTE.jpg
+  phone: ""
+  email: gerry.runte@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1470
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Walter_Runte_Jr.
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1470
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/runte/index.html
+  - https://www.linkedin.com/in/gerry-runte-4349b26
+  - https://www.maine.gov/housedems/runte
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-farrin-wayne
+  openstates_id: ocd-person/674df0e4-1997-4d43-b377-274485c0cd42
+  full_name: Wayne Farrin
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Democratic
+  status: active
+  photo_url: https://i0.wp.com/lincolncountydemocrats.com/wp-content/uploads/Farrin-headshot.jpg?fit=400%2C400&ssl=1
+  phone: ""
+  email: wayne.farrin@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3115
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Wayne_Farrin
+  - https://justfacts.votesmart.org/candidate/biography/192626/wayne-farrin
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3115
+  - https://www.linkedin.com/in/wayne-farrin-64a77133
+  - https://www.maine.gov/housedems/node/4083
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-parry-wayne
+  openstates_id: ocd-person/8a75e2da-2389-4052-9592-1e607ba2dfc1
+  full_name: Wayne Parry
+  office_title: State Representative
+  chamber: house
+  district: "140"
+  party: Republican
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/64b98aaf-c97d-41c4-88d7-3139d1d72339_Parry.jpg
+  phone: ""
+  email: wayne.parry@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/124
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Wayne_Parry
+  - https://en.wikipedia.org/wiki/Wayne_Parry
+  - https://justfacts.votesmart.org/candidate/biography/103647/wayne-parry
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/124
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://mainehousegop.org/members/parry-wayne
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-tuell-will
+  openstates_id: ocd-person/76a9907f-f257-4621-b176-8e911bb8cf35
+  full_name: Will Tuell
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: william.tuell@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/49
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Tuell
+  - https://justfacts.votesmart.org/candidate/biography/149293/will-tuell
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/49
+  - https://mainehousegop.org/members/tuell-william
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-pluecker-bill
+  openstates_id: ocd-person/30ae681d-e01b-4305-9c6e-60df2e62b49b
+  full_name: Bill Pluecker
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Independent
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/592ffe4b-8d79-4017-bf5c-d39d0730d8aa_pluecker.jpg
+  phone: ""
+  email: bill.pluecker@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1383
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Pluecker
+  - https://billpluecker.com
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1383
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/representative-bill-pluecker
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-bridgeo-bill
+  openstates_id: ocd-person/44cd2c44-aa58-4129-bc5f-eefc64bf836f
+  full_name: Bill Bridgeo
+  office_title: State Representative
+  chamber: house
+  district: "60"
+  party: Democratic
+  status: active
+  photo_url: https://legislature.maine.gov/house/house/Repository/MemberProfiles/3f618227-f773-43c5-9a0e-d081871faa0e_WBRIDGEO.jpg
+  phone: ""
+  email: william.bridgeo@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/1504
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Bridgeo
+  - https://bridgeo.mainecandidate.com
+  - https://en.wikipedia.org/wiki/William_Bridgeo
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/1504
+  - https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+  - https://legislature.maine.gov/housedems/bridgeo
+  - https://legislature.maine.gov/housedems/bridgeo/index.html
+  - https://www.maine.gov/housedems/bridgeo
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: me-hou-yusuf-yusuf
+  openstates_id: ocd-person/17a906a0-129a-46f8-b12e-22910db55dbf
+  full_name: Yusuf Yusuf
+  office_title: State Representative
+  chamber: house
+  district: "118"
+  party: Democratic
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/5bca0b3d2727be3db78cf3a5/e4b97ccb-1fff-4f93-97de-366a951e649e/Yusuf+Yusuf.jpg?format=500w
+  phone: ""
+  email: yusuf.yusuf@legislature.maine.gov
+  address: ""
+  official_website: https://legislature.maine.gov/house/house/MemberProfiles/Details/3137
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Yusuf_Yusuf
+  - https://justfacts.votesmart.org/candidate/biography/216027/yusuf-yusuf
+  - https://legislature.maine.gov/house/house/MemberProfiles/Details/3137
+  - https://www.maine.gov/housedems/node/4121
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

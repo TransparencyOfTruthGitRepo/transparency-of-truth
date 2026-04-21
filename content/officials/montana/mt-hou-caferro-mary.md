@@ -1,0 +1,22 @@
+---
+title: "Mary Caferro"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "mt-hou-caferro-mary"
+full_name: "Mary Caferro"
+state: "montana"
+state_abbrev: "MT"
+office_title: "State Representative"
+chamber: "house"
+district: "81"
+party: "Democratic"
+status: "active"
+official_website: "https://leg.mt.gov/legislator-information/roster/individual/5140"
+email: "mary.caferro@legmt.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

@@ -1,0 +1,22 @@
+---
+title: "TaShina Morris"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "al-hou-morris-tashina"
+full_name: "TaShina Morris"
+state: "alabama"
+state_abbrev: "AL"
+office_title: "State Representative"
+chamber: "house"
+district: "77"
+party: "Democratic"
+status: "active"
+official_website: "https://alison.legislature.state.al.us/house-leaders-members"
+email: "tashina.morris@alhouse.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

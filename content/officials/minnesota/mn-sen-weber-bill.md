@@ -1,0 +1,22 @@
+---
+title: "Bill Weber"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "mn-sen-weber-bill"
+full_name: "Bill Weber"
+state: "minnesota"
+state_abbrev: "MN"
+office_title: "State Senator"
+chamber: "senate"
+district: "21"
+party: "Republican"
+status: "active"
+official_website: "https://www.senate.mn/members/member_bio.html?mem_id=1199"
+email: "sen.bill.weber@senate.mn"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

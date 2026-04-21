@@ -1,4 +1,4887 @@
 ﻿state: minnesota
 state_abbrev: MN
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: mn-hou-gomez-aisha
+  openstates_id: ocd-person/09493dc0-a224-4cf6-a859-1384ffeda8a0
+  full_name: Aisha Gomez
+  office_title: State Representative
+  chamber: house
+  district: 62A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/62A.gif?v=112221
+  phone: ""
+  email: rep.aisha.gomez@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15531
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Aisha_Gomez
+  - https://en.wikipedia.org/wiki/Aisha_Gomez
+  - https://justfacts.votesmart.org/candidate/biography/183855/aisha-gomez
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15531
+  - https://www.linkedin.com/in/aisha-gomez-7011bb4a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-falconer-alex
+  openstates_id: ocd-person/1a50d8e6-64c4-4c8f-87ee-dedde17c1c2c
+  full_name: Alex Falconer
+  office_title: State Representative
+  chamber: house
+  district: 49A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/49A.gif?v=112221
+  phone: ""
+  email: rep.alex.falconer@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15630
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alex_Falconer
+  - https://en.wikipedia.org/wiki/Alex_Falconer_(American_politician)
+  - https://justfacts.votesmart.org/candidate/218820/alex-falconer
+  - https://www.house.mn.gov/members/profile/15630
+  - https://www.linkedin.com/in/alexanderfalconer
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-mann-alice
+  openstates_id: ocd-person/c5f2a744-0a3e-481f-9224-e4d5a58b9c9d
+  full_name: Alice Mann
+  office_title: State Senator
+  chamber: senate
+  district: "50"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/50Mann.jpg
+  phone: ""
+  email: sen.alice.mann@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1270
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alice_Mann
+  - https://en.wikipedia.org/wiki/Alice_Mann_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/183826/alice-mann
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1270
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-kozlowski-liish
+  openstates_id: ocd-person/5604b347-d9b5-40b6-844d-8bc5246283d3
+  full_name: Liish Kozlowski
+  office_title: State Representative
+  chamber: house
+  district: 8B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/08B.gif?v=112221
+  phone: ""
+  email: rep.alicia.kozlowski@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15595
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alicia_Kozlowski
+  - https://en.wikipedia.org/wiki/Alicia_Kozlowski
+  - https://justfacts.votesmart.org/candidate/207774/liish-kozlowski
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15595
+  - https://www.linkedin.com/in/aliciakozlowski
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-hemmingsenjaeger-amanda
+  openstates_id: ocd-person/8300aa36-f818-4ae8-ad31-f9373e396e08
+  full_name: Amanda Hemmingsen-Jaeger
+  office_title: State Senator
+  chamber: senate
+  district: "47"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/47Hemmingsen-Jaeger.jpg
+  phone: ""
+  email: sen.amanda.hemmingsen.jaeger@mnsenate.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15620
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Amanda_Hemmingsen-Jaeger
+  - https://en.wikipedia.org/wiki/Amanda_Hemmingsen-Jaeger
+  - https://justfacts.votesmart.org/candidate/biography/208047/amanda-hemmingsen-jaeger
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15620
+  - https://www.linkedin.com/in/amanda-hemmingsen-jaeger-b881a067
+  - https://www.senate.mn/members/member_bio.html?mem_id=1278
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-mathews-andrew
+  openstates_id: ocd-person/aabdca28-85ec-41e4-be90-726acaaa0cff
+  full_name: Andrew Mathews
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/15Mathews.jpg
+  phone: ""
+  email: sen.andrew.mathews@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1222
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrew_Mathews
+  - https://en.wikipedia.org/wiki/Andrew_Mathews_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/171355/andrew-mathews
+  - https://www.linkedin.com/in/andrew-mathews-37619919
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1222
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-myers-andrew
+  openstates_id: ocd-person/bba68b5b-90ac-4465-bdd2-fdf23c33b87a
+  full_name: Andrew Myers
+  office_title: State Representative
+  chamber: house
+  district: 45A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/45A.gif?v=112221
+  phone: ""
+  email: rep.andrew.myers@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15618
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrew_Myers
+  - https://ballotpedia.org/Andrew_Myers_(Minnesota)
+  - https://en.wikipedia.org/wiki/Andrew_Myers_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/biography/194131/andrew-myers
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15618
+  - https://www.linkedin.com/in/andrew-myers-ab33a87
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-lang-andrew
+  openstates_id: ocd-person/3e1cd4f3-2c37-4531-b2cb-ca875c82d773
+  full_name: Andrew Lang
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/16Lang.jpg
+  phone: ""
+  email: sen.andrew.lang@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1223
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrew_Lang
+  - https://en.wikipedia.org/wiki/Andrew_Lang_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/biography/171360/andrew-lang
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1223
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-smith-andy
+  openstates_id: ocd-person/41cf59c9-a2c3-442d-85f1-7d6ec8de1a97
+  full_name: Andy Smith
+  office_title: State Representative
+  chamber: house
+  district: 25B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/25B.gif?v=112221
+  phone: ""
+  email: rep.andy.smith@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15606
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrew_Smith_(Minnesota_House_District_25B_candidate)
+  - https://ballotpedia.org/Andy_Smith_(Minnesota)
+  - https://en.wikipedia.org/wiki/Andy_Smith_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/biography/208017/andrew-smith
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15606
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-rest-ann
+  openstates_id: ocd-person/ec588921-873b-4335-8fa1-2e3485008d3e
+  full_name: Ann Rest
+  office_title: State Senator
+  chamber: senate
+  district: "43"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/43Rest.jpg
+  phone: ""
+  email: sen.ann.rest@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1051
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ann_Rest
+  - https://en.wikipedia.org/wiki/Ann_Rest
+  - https://justfacts.votesmart.org/candidate/biography/3841/ann-rest
+  - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiH-o_buqH8AhVcDkQIHf27BTUQFnoECBwQAQ&url=https%3A%2F%2Fwww.lrl.mn.gov%2Flegdb%2Ffulldetail%3Fid%3D10558&usg=AOvVaw1C1mauRjiid2O4kS3-BNW-
+  - https://www.linkedin.com/in/ann-rest-02760516
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1051
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-stewart-ann
+  openstates_id: ocd-person/4749e0fb-4f41-46e3-a8b4-19fdbbbde113
+  full_name: Ann Johnson Stewart
+  office_title: State Senator
+  chamber: senate
+  district: "45"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/45Johnson_Stewart.jpg
+  phone: ""
+  email: sen.ann.johnson.stewart@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1243
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ann_Johnson_Stewart
+  - https://en.wikipedia.org/wiki/Ann_Johnson_Stewart
+  - https://justfacts.votesmart.org/candidate/biography/194078/ann-johnson-stewart
+  - https://www.linkedin.com/in/ann-johnson-stewart-1973a67
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?member_id=1243
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-mahamoud-anquam
+  openstates_id: ocd-person/8c85da58-235b-4769-be5f-dcf5b7c66c75
+  full_name: Anquam Mahamoud
+  office_title: State Representative
+  chamber: house
+  district: 62B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/62B.gif?v=112221
+  phone: ""
+  email: rep.anquam.mahamoud@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15639
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Anquam_Mahamoud
+  - https://en.wikipedia.org/wiki/Anquam_Mahamoud
+  - https://justfacts.votesmart.org/candidate/biography/218855/anquam-mahamoud
+  - https://www.house.mn.gov/members/profile/15639
+  - https://www.linkedin.com/in/anquam-mahamoud
+  - https://www.lrl.mn.gov/legdb/fulldetail?ID=15639
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-putnam-aric
+  openstates_id: ocd-person/20c89480-8cde-4106-8b3d-54183371960a
+  full_name: Aric Putnam
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/14PutnamAric.jpg
+  phone: ""
+  email: sen.aric.putnam@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1249
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Aric_Putnam
+  - https://en.wikipedia.org/wiki/Aric_Putnam
+  - https://justfacts.votesmart.org/candidate/171487/aric-putnam
+  - https://www.linkedin.com/in/aric-putnam-51792779
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1249
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-hollins-athena
+  openstates_id: ocd-person/9f56bc31-f522-4e29-af62-cdc616babc88
+  full_name: Athena Hollins
+  office_title: State Representative
+  chamber: house
+  district: 66B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/66B.gif?v=112221
+  phone: ""
+  email: rep.athena.hollins@house.mn.gov
+  address: ""
+  official_website: https://www.house.leg.state.mn.us/members/profile/15553
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Athena_Hollins
+  - https://en.wikipedia.org/wiki/Athena_Hollins
+  - https://justfacts.votesmart.org/candidate/194059/athena-hollins
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15553
+  - https://www.linkedin.com/in/athena-hollins-93573943
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-bakeberg-ben
+  openstates_id: ocd-person/f8d52f8b-1b8c-454d-87be-42edd3100511
+  full_name: Ben Bakeberg
+  office_title: State Representative
+  chamber: house
+  district: 54B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/54B.gif?v=112221
+  phone: ""
+  email: rep.ben.bakeberg@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15569
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ben_Bakeberg
+  - https://benbakebergmn.com/about
+  - https://en.wikipedia.org/wiki/Ben_Bakeberg
+  - https://justfacts.votesmart.org/candidate/biography/208061/ben-bakeberg
+  - https://www.benbakebergmn.com/about
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15569
+  - https://www.linkedin.com/in/ben-bakeberg-53883610b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-davis-ben
+  openstates_id: ocd-person/f5597924-50c0-4bfc-bd63-3d3b814274f8
+  full_name: Ben Davis
+  office_title: State Representative
+  chamber: house
+  district: 6A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/06A.gif?v=112221
+  phone: ""
+  email: rep.ben.davis@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15594
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ben_Davis
+  - https://en.wikipedia.org/wiki/Ben_Davis_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/207769/ben-davis
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15594
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-perryman-bernie
+  openstates_id: ocd-person/354e366b-b9b5-46b4-b9ce-f3d96f508ceb
+  full_name: Bernie Perryman
+  office_title: State Representative
+  chamber: house
+  district: 14A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/14A.gif?v=112221
+  phone: ""
+  email: rep.bernie.perryman@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15599
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bernie_Perryman
+  - https://en.wikipedia.org/wiki/Bernie_Perryman
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15599
+  - https://www.linkedin.com/in/bernie-perryman-452aba38
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-virnig-bianca
+  openstates_id: ocd-person/971431ad-1fdb-49e5-9cf0-57cfff1645a8
+  full_name: Bianca Virnig
+  office_title: State Representative
+  chamber: house
+  district: 52B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/52B.gif?v=112221
+  phone: ""
+  email: rep.bianca.virnig@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15625
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bianca_Ward_Virnig
+  - https://en.wikipedia.org/wiki/Bianca_Virnig
+  - https://justfacts.votesmart.org/candidate/biography/212785/bianca-virnig
+  - https://www.biancavirnig.com/about-5
+  - https://www.house.mn.gov/members/profile/15625
+  - https://www.linkedin.com/in/bianca-w-1ba9773
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-duran-bidal
+  openstates_id: ocd-person/8a84172a-6b96-4b28-a9ab-bf11625528a3
+  full_name: Bidal Duran
+  office_title: State Representative
+  chamber: house
+  district: 2A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/02A.gif?v=112221
+  phone: ""
+  email: rep.bidal.duran@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15629
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bidal_Duran
+  - https://en.wikipedia.org/wiki/Bidal_Duran_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/218702/bidal-duran-jr
+  - https://www.house.mn.gov/members/profile/15629
+  - https://www.linkedin.com/in/bidal-duran-b7969048
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-lieske-bill
+  openstates_id: ocd-person/05fb3c26-0704-49c8-8eb6-8c624b752434
+  full_name: Bill Lieske
+  office_title: State Senator
+  chamber: senate
+  district: "58"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/58Lieske.jpg
+  phone: ""
+  email: sen.bill.lieske@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1272
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Lieske
+  - https://en.wikipedia.org/wiki/Bill_Lieske
+  - https://justfacts.votesmart.org/candidate/207872/bill-lieske
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1272
+  - https://www.senate.mn/members/member_bio.html?member_id=1272
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-weber-bill
+  openstates_id: ocd-person/f839da78-1e9c-4e4b-b1d7-d203970ec6b2
+  full_name: Bill Weber
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/22Weber.jpg
+  phone: ""
+  email: sen.bill.weber@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1199
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Weber
+  - https://en.wikipedia.org/wiki/Bill_Weber_(Minnesota_politician)
+  - https://en.wikipedia.org/wiki/Bill_Weber_(politician)
+  - https://justfacts.votesmart.org/candidate/68614/bill-weber
+  - https://justfacts.votesmart.org/candidate/biography/68614/bill-weber
+  - https://www.linkedin.com/in/bill-weber-63134a62
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1199
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-olson-bjorn
+  openstates_id: ocd-person/ad3245d1-b310-4d50-8290-e642d078f661
+  full_name: Bjorn Olson
+  office_title: State Representative
+  chamber: house
+  district: 22A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/22A.gif?v=112221
+  phone: ""
+  email: rep.bjorn.olson@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15544
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bjorn_Olson
+  - https://en.wikipedia.org/wiki/Bjorn_Olson
+  - https://justfacts.votesmart.org/candidate/biography/194224/bjorn-olson
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15544
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-harder-bobbie
+  openstates_id: ocd-person/fe6a11bc-199d-467e-9447-3999c8250490
+  full_name: Bobbie Harder
+  office_title: State Representative
+  chamber: house
+  district: 17B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/17B.gif?v=112221
+  phone: ""
+  email: rep.bobbie.harder@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15601
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bobbie_Harder
+  - https://en.wikipedia.org/wiki/Bobbie_Harder
+  - https://justfacts.votesmart.org/candidate/biography/159993/bobbie-harder
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15601
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-champion-bobby
+  openstates_id: ocd-person/c7436be4-472a-4d5e-82f5-f46359395d3a
+  full_name: Bobby Joe Champion
+  office_title: State Senator
+  chamber: senate
+  district: "59"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/59Champion.jpg
+  phone: ""
+  email: sen.bobby.champion@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1212
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bobby_Joe_Champion
+  - https://champion4change.org
+  - https://en.wikipedia.org/wiki/Bobby_Joe_Champion
+  - https://justfacts.votesmart.org/candidate/biography/109081/bobby-joe-champion
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1212
+  - https://www.thechampion4change.com
+  - https://www.thechampion4change.com/about
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-westlin-bonnie
+  openstates_id: ocd-person/7536b66f-54fe-436e-ba03-83291c3c8d12
+  full_name: Bonnie Westlin
+  office_title: State Senator
+  chamber: senate
+  district: "42"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/42Westlin.jpg
+  phone: ""
+  email: sen.bwestlin@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1266
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bonnie_Westlin
+  - https://en.wikipedia.org/wiki/Bonnie_Westlin
+  - https://justfacts.votesmart.org/candidate/biography/171396/bonnie-westlin
+  - https://www.linkedin.com/in/bonniewestlin
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1266
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-tabke-brad
+  openstates_id: ocd-person/05f634e6-f8d3-4983-9604-dfc8dddc574e
+  full_name: Brad Tabke
+  office_title: State Representative
+  chamber: house
+  district: 54A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/54A.gif?v=112221
+  phone: ""
+  email: rep.brad.tabke@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15523
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brad_Tabke
+  - https://en.wikipedia.org/wiki/Brad_Tabke
+  - https://justfacts.votesmart.org/candidate/biography/143691/brad-tabke
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15523
+  - https://www.linkedin.com/in/btabke
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-curran-brion
+  openstates_id: ocd-person/372ff500-488c-4bf6-9557-6b5824c6e193
+  full_name: Brion Curran
+  office_title: State Representative
+  chamber: house
+  district: 36B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/36B.gif?v=112221
+  phone: ""
+  email: rep.brion.curran@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15614
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brion_Curran
+  - https://en.wikipedia.org/wiki/Brion_Curran
+  - https://justfacts.votesmart.org/candidate/biography/208034/brion-curran
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15614
+  - https://www.linkedin.com/in/bmc0000
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-lawrence-bryan
+  openstates_id: ocd-person/b135d3fd-c3cd-4bb5-a0b8-eefef669aada
+  full_name: Bryan Lawrence
+  office_title: State Representative
+  chamber: house
+  district: 27B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/27B.gif?v=112221
+  phone: ""
+  email: rep.bryan.lawrence@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15626
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bryan_Lawrence
+  - https://en.wikipedia.org/wiki/Bryan_Lawrence_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/13459/bryan-lawrence
+  - https://www.house.mn.gov/members/profile/15626
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-bahr-cal
+  openstates_id: ocd-person/57b9021d-f5b7-4f80-a82d-a93ca9a123d0
+  full_name: Cal Bahr
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/31Bahr.jpg
+  phone: ""
+  email: sen.cal.bahr@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1261
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Calvin_Bahr
+  - https://en.wikipedia.org/wiki/Cal_Bahr
+  - https://justfacts.votesmart.org/candidate/biography/171539/cal-bahr
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.linkedin.com/in/calvin-bahr-b92b9446
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1261
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-warwas-cal
+  openstates_id: ocd-person/0fcdf023-48a4-4f62-92d0-0be6715bf229
+  full_name: Cal Warwas
+  office_title: State Representative
+  chamber: house
+  district: 7B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/07B.gif?v=112221
+  phone: ""
+  email: rep.cal.warwas@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15648
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cal_Warwas
+  - https://justfacts.votesmart.org/candidate/218714/cal-warwas
+  - https://www.house.mn.gov/members/profile/15648
+  - https://www.linkedin.com/in/cal-warwas-15460187
+  - https://www.lrl.mn.gov/legdb/fulldetail?ID=15648
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-nelson-carla
+  openstates_id: ocd-person/69ac712d-4de2-448a-8b84-ef07b4c4e423
+  full_name: Carla Nelson
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/24Nelson.jpg
+  phone: ""
+  email: sen.carla.nelson@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1178
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Carla_Nelson
+  - https://en.wikipedia.org/wiki/Carla_Nelson
+  - https://justfacts.votesmart.org/candidate/biography/38565/carla-nelson
+  - https://www.linkedin.com/in/carla-nelson-1b182311
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1178
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-kotyzawitthuhn-carlie
+  openstates_id: ocd-person/bfa93ce5-99ed-4840-9d49-c3531a6e7742
+  full_name: Carlie Kotyza-Witthuhn
+  office_title: State Representative
+  chamber: house
+  district: 49B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/49B.gif?v=112221
+  phone: ""
+  email: rep.carlie.kotyza-witthuhn@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15515
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Carlie_Kotyza-Witthuhn
+  - https://en.wikipedia.org/wiki/Carlie_Kotyza-Witthuhn
+  - https://justfacts.votesmart.org/candidate/biography/183813/carlie-kotyza-witthuhn
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15515
+  - https://www.linkedin.com/in/carliekw
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-frazier-cedrick
+  openstates_id: ocd-person/31bf14e3-fcde-4b2f-b2c4-1dd47b9a260b
+  full_name: Cedrick Frazier
+  office_title: State Representative
+  chamber: house
+  district: 43A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/43A.gif?v=112221
+  phone: ""
+  email: rep.cedrick.frazier@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15548
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cedrick_Frazier
+  - https://en.wikipedia.org/wiki/Cedrick_Frazier
+  - https://justfacts.votesmart.org/candidate/biography/194187/cedrick-frazier
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15548
+  - https://www.linkedin.com/in/cedrick-r-frazier-m-a-j-d-80874ba
+  - https://www.linkedin.com/in/cedrickfrazier
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-youakim-cheryl
+  openstates_id: ocd-person/ec1171fd-3b90-4137-b01d-041f905c642d
+  full_name: Cheryl Youakim
+  office_title: State Representative
+  chamber: house
+  district: 46B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/46B.gif?v=112221
+  phone: ""
+  email: rep.cheryl.youakim@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15450
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cheryl_Youakim
+  - https://en.wikipedia.org/wiki/Cheryl_Youakim
+  - https://justfacts.votesmart.org/candidate/152915/cheryl-youakim
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15450
+  - https://www.linkedin.com/in/cheryl-youakim-3ba07389
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-swedzinski-chris
+  openstates_id: ocd-person/d9abe93e-6eba-4658-a0cd-68610585606b
+  full_name: Chris Swedzinski
+  office_title: State Representative
+  chamber: house
+  district: 15A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/15A.gif?v=112221
+  phone: ""
+  email: rep.chris.swedzinski@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15369
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Swedzinski
+  - https://en.wikipedia.org/wiki/Chris_Swedzinski
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15369
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-verbeten-clare
+  openstates_id: ocd-person/9afffc3e-2fd8-404c-beeb-5bf3e17397ce
+  full_name: Clare Oumou Verbeten
+  office_title: State Senator
+  chamber: senate
+  district: "66"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/66OumouVerbeten.jpg
+  phone: ""
+  email: sen.clare.oumou.verbeten@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1274
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Clare_Oumou_Verbeten
+  - https://en.wikipedia.org/wiki/Clare_Oumou_Verbeten
+  - https://justfacts.votesmart.org/candidate/biography/207890/clare-verbeten
+  - https://www.linkedin.com/in/clareverbeten
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1274
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-dibble-scott
+  openstates_id: ocd-person/4dc8ff31-159a-457a-9551-a897d222f87e
+  full_name: Scott Dibble
+  office_title: State Senator
+  chamber: senate
+  district: "61"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/61Dibble.jpg
+  phone: ""
+  email: sen.scott.dibble@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1010
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_Dibble
+  - https://en.wikipedia.org/wiki/Scott_Dibble_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/54751/scott-dibble
+  - https://www.linkedin.com/in/scott-dibble-b352585
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1010
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-wolgamott-dan
+  openstates_id: ocd-person/57755948-5912-49c5-b8b7-65c110ae44d9
+  full_name: Dan Wolgamott
+  office_title: State Representative
+  chamber: house
+  district: 14B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/14B.gif?v=112221
+  phone: ""
+  email: rep.dan.wolgamott@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15499
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dan_Wolgamott
+  - https://en.wikipedia.org/wiki/Dan_Wolgamott
+  - https://justfacts.votesmart.org/candidate/biography/152827/dan-wolgamott
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15499
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-nadeau-danny
+  openstates_id: ocd-person/04242ba4-8fb4-4306-98d2-cae358d8e532
+  full_name: Danny Nadeau
+  office_title: State Representative
+  chamber: house
+  district: 34A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/34A.gif?v=112221
+  phone: ""
+  email: rep.danny.nadeau@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15612
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Danny_Nadeau
+  - https://en.wikipedia.org/wiki/Danny_Nadeau
+  - https://justfacts.votesmart.org/candidate/biography/208031/danny-nadeau
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15612
+  - https://www.linkedin.com/in/dannynadeau
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-baker-dave
+  openstates_id: ocd-person/c0275aeb-e2ff-44c7-b4ab-cae4bf495d84
+  full_name: Dave Baker
+  office_title: State Representative
+  chamber: house
+  district: 16B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/16B.gif?v=112221
+  phone: ""
+  email: rep.dave.baker@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15429
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dave_Baker_(Minnesota)
+  - https://en.wikipedia.org/wiki/Dave_Baker_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/biography/152840/dave-baker
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15429
+  - https://www.linkedin.com/in/dave-baker-61189217
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-pinto-dave
+  openstates_id: ocd-person/a8c6c773-371b-4df9-a57a-5d2565c7b876
+  full_name: Dave Pinto
+  office_title: State Representative
+  chamber: house
+  district: 64B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/64B.gif?v=112221
+  phone: ""
+  email: rep.dave.pinto@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15444
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dave_Pinto
+  - https://en.wikipedia.org/wiki/Dave_Pinto
+  - https://justfacts.votesmart.org/candidate/biography/152837/dave-pinto
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15444
+  - https://www.linkedin.com/in/davepinto
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-gottfried-david
+  openstates_id: ocd-person/0d187b4d-c15c-487e-9602-541bd7dd948a
+  full_name: David Gottfried
+  office_title: State Representative
+  chamber: house
+  district: 40B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/40B.gif?v=112221
+  phone: ""
+  email: rep.david.gottfried@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15650
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Gottfried
+  - https://en.wikipedia.org/wiki/David_Gottfried_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/220705/david-gottfried
+  - https://www.house.mn.gov/members/profile/15650
+  - https://www.linkedin.com/in/davidegottfried
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-gillman-dawn
+  openstates_id: ocd-person/f4047f6d-971d-41be-bbce-e15dac5829ae
+  full_name: Dawn Gillman
+  office_title: State Representative
+  chamber: house
+  district: 17A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/17A.gif?v=112221
+  phone: ""
+  email: rep.dawn.gillman@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15600
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dawn_Gillman
+  - https://en.wikipedia.org/wiki/Dawn_Gillman
+  - https://justfacts.votesmart.org/candidate/biography/207908/dawn-gillman
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15600
+  - https://www.linkedin.com/in/dawn-gillman-88349459
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-clark-doron
+  openstates_id: ocd-person/2c27d592-c50b-45ae-b62a-ff657c828a5c
+  full_name: Doron Clark
+  office_title: State Senator
+  chamber: senate
+  district: "60"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/60Clark.jpg
+  phone: ""
+  email: sen.doron.clark@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1275
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Doron_Clark
+  - https://en.wikipedia.org/wiki/Doron_Clark
+  - https://justfacts.votesmart.org/candidate/220698/doron-clark
+  - https://www.linkedin.com/in/doronclark
+  - https://www.senate.mn/members/member_bio.html?mem_id=1275
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-roach-drew
+  openstates_id: ocd-person/7eb10c5c-1b6e-4ee2-9dac-589e3db32f49
+  full_name: Drew Roach
+  office_title: State Representative
+  chamber: house
+  district: 58B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/58B.gif?v=112221
+  phone: ""
+  email: rep.drew.roach@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15642
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Drew_Roach
+  - https://en.wikipedia.org/wiki/Drew_Roach
+  - https://justfacts.votesmart.org/candidate/biography/218845/drew-roach
+  - https://www.house.mn.gov/members/profile/15642
+  - https://www.lrl.mn.gov/legdb/fulldetail?ID=15642
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-quam-duane
+  openstates_id: ocd-person/6652aa40-32c5-4430-bbf6-707a0b8a1f56
+  full_name: Duane Quam
+  office_title: State Representative
+  chamber: house
+  district: 24A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/24A.gif?v=112221
+  phone: ""
+  email: rep.duane.quam@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15366
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Duane_Quam
+  - https://en.wikipedia.org/wiki/Duane_Quam
+  - https://justfacts.votesmart.org/candidate/biography/123232/duane-quam
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15366
+  - https://www.linkedin.com/in/drquam
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-engen-elliott
+  openstates_id: ocd-person/f27e2742-5c0f-4dba-a37f-76592f91f6f0
+  full_name: Elliott Engen
+  office_title: State Representative
+  chamber: house
+  district: 36A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/36A.gif?v=112221
+  phone: ""
+  email: rep.elliott.engen@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15613
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elliott_Engen
+  - https://en.wikipedia.org/wiki/Elliott_Engen
+  - https://justfacts.votesmart.org/candidate/biography/194169/elliott-engen
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15613
+  - https://www.linkedin.com/in/elliott-engen-871543223
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-greenman-emma
+  openstates_id: ocd-person/f38e8115-610c-4e22-b9cb-80bd96311410
+  full_name: Emma Greenman
+  office_title: State Representative
+  chamber: house
+  district: 63B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/63B.gif?v=112221
+  phone: ""
+  email: rep.emma.greenman@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15552
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Emma_Greenman
+  - https://en.wikipedia.org/wiki/Emma_Greenman
+  - https://justfacts.votesmart.org/candidate/biography/194130/emma-greenman
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15552
+  - https://www.linkedin.com/in/emmagreenman
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-lucero-eric
+  openstates_id: ocd-person/a9040c8f-56d4-4ad9-83f5-e6f1216e7a5e
+  full_name: Eric Lucero
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/30Lucero.jpg
+  phone: ""
+  email: sen.eric.lucero@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1260
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Eric_Lucero_(Minnesota)
+  - https://en.wikipedia.org/wiki/Eric_Lucero
+  - https://justfacts.votesmart.org/candidate/biography/152881/eric-lucero
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.linkedin.com/in/ericlucero
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1260
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-pratt-eric
+  openstates_id: ocd-person/f520232e-1086-4353-b904-9ff7a89ba5e8
+  full_name: Eric Pratt
+  office_title: State Senator
+  chamber: senate
+  district: "54"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/55Pratt.jpg
+  phone: ""
+  email: sen.eric.pratt@mnsenate.gov
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1210
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Eric_Pratt
+  - https://en.wikipedia.org/wiki/Eric_Pratt
+  - https://justfacts.votesmart.org/candidate/biography/140917/eric-pratt
+  - https://www.linkedin.com/in/ericprattmn
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1210
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-schwartz-erica
+  openstates_id: ocd-person/e62d342c-ae38-4607-88d7-3a7f3f7e248b
+  full_name: Erica Schwartz
+  office_title: State Representative
+  chamber: house
+  district: 18A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/18A.gif?v=112221
+  phone: ""
+  email: rep.erica.schwartz@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15644
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Erica_Schwartz
+  - https://en.wikipedia.org/wiki/Erica_Schwartz_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/218768/erica-schwartz
+  - https://www.house.mn.gov/members/profile/15644
+  - https://www.lrl.mn.gov/legdb/fulldetail?ID=15644
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-quade-erin
+  openstates_id: ocd-person/5233b98b-0b6d-47c9-9fc0-9218a592f8d8
+  full_name: Erin Maye Quade
+  office_title: State Senator
+  chamber: senate
+  district: "56"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/56MayeQuade.jpg
+  phone: ""
+  email: sen.erin.mayequade@senate.mn
+  address: ""
+  official_website: https://erinmayequade.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Erin_Maye_Quade
+  - https://en.wikipedia.org/wiki/Erin_Maye_Quade
+  - https://erinmayequade.com
+  - https://erinmayequade.com/meet-erin
+  - https://www.linkedin.com/in/erin-maye-81547b7
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1271
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-koegel-erin
+  openstates_id: ocd-person/0d6f7edf-eae0-441d-8089-84472ce1f36f
+  full_name: Erin Koegel
+  office_title: State Representative
+  chamber: house
+  district: 39A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/39A.gif?v=112221
+  phone: ""
+  email: rep.erin.koegel@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15465
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Erin_Koegel
+  - https://en.wikipedia.org/wiki/Erin_Koegel
+  - https://justfacts.votesmart.org/candidate/biography/171555/erin-koegel
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15465
+  - https://www.linkedin.com/in/erinkoegel
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-murphy-erin
+  openstates_id: ocd-person/81828030-d1b8-4641-8692-8148fca58b28
+  full_name: Erin Murphy
+  office_title: State Senator
+  chamber: senate
+  district: "64"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/64MurphyErin.jpg
+  phone: ""
+  email: sen.erin.murphy@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1248
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Erin_Murphy_(Minnesota)
+  - https://en.wikipedia.org/wiki/Erin_Murphy_%28politician%29
+  - https://en.wikipedia.org/wiki/Erin_Murphy_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/65842/erin-murphy
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1248
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-agbaje-esther
+  openstates_id: ocd-person/b140f0d2-f803-4118-9c6c-72aa322ec3bb
+  full_name: Esther Agbaje
+  office_title: State Representative
+  chamber: house
+  district: 59B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/59B.gif
+  phone: ""
+  email: rep.esther.agbaje@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15551
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Esther_Agbaje
+  - https://en.wikipedia.org/wiki/Esther_Agbaje
+  - https://justfacts.votesmart.org/candidate/194194/esther-agbaje
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15551
+  - https://www.linkedin.com/in/esther-agbaje-b5b3158
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-cha-ethan
+  openstates_id: ocd-person/d0e94ca0-b600-4567-88ee-34a861ca38aa
+  full_name: Ethan Cha
+  office_title: State Representative
+  chamber: house
+  district: 47B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/47B.gif?v=112221
+  phone: ""
+  email: rep.ethan.cha@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15621
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ethan_Cha
+  - https://en.wikipedia.org/wiki/Ethan_Cha
+  - https://justfacts.votesmart.org/candidate/biography/208048/ethan-cha
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15621
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-hawj-foung
+  openstates_id: ocd-person/5644f3f8-6394-4ab6-9619-7ab6702b37ea
+  full_name: Foung Hawj
+  office_title: State Senator
+  chamber: senate
+  district: "67"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/67Hawj.jpg
+  phone: ""
+  email: sen.foung.hawj@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1213
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Foung_Hawj
+  - https://en.wikipedia.org/wiki/Foung_Hawj
+  - https://justfacts.votesmart.org/candidate/biography/123032/foung-hawj
+  - https://www.linkedin.com/in/foung-hawj-97985846
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1213
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-lee-fue
+  openstates_id: ocd-person/d8da71a7-c99b-4510-8abc-2d8e78db3fff
+  full_name: Fue Lee
+  office_title: State Representative
+  chamber: house
+  district: 59A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/59A.gif?v=112221
+  phone: ""
+  email: rep.fue.lee@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15468
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Fue_Lee
+  - https://en.wikipedia.org/wiki/Fue_Lee
+  - https://justfacts.votesmart.org/candidate/biography/171626/fue-lee
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15468
+  - https://www.linkedin.com/in/fue-lee-69982853
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-dahms-gary
+  openstates_id: ocd-person/d1b377a1-8caa-4e37-999b-83ef8a1bf92c
+  full_name: Gary Dahms
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/16Dahms.jpg
+  phone: ""
+  email: sen.gary.dahms@mnsenate.gov
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1174
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gary_Dahms
+  - https://en.wikipedia.org/wiki/Gary_Dahms
+  - https://justfacts.votesmart.org/candidate/biography/111351/gary-dahms
+  - https://www.linkedin.com/in/gary-dahms-3b289984
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1174
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-dornink-gene
+  openstates_id: ocd-person/d3857eb4-0ec5-4406-840a-e338aad6a238
+  full_name: Gene Dornink
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/27DorninkGene.jpg
+  phone: ""
+  email: sen.gene.dornink@mnsenate.gov
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1250
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gene_Dornink
+  - https://en.wikipedia.org/wiki/Gene_Dornink
+  - https://justfacts.votesmart.org/candidate/biography/171382/gene-dornink
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1250
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-klevorn-ginny
+  openstates_id: ocd-person/2cb0f6d7-006d-4f7a-a1a3-218eff6016aa
+  full_name: Ginny Klevorn
+  office_title: State Representative
+  chamber: house
+  district: 42B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/42B.gif?v=112221
+  phone: ""
+  email: rep.ginny.klevorn@house.mn.gov
+  address: ""
+  official_website: https://www.ginnyklevorn.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ginny_Klevorn
+  - https://en.wikipedia.org/wiki/Ginny_Klevorn
+  - https://justfacts.votesmart.org/candidate/biography/171580/ginny-klevorn
+  - https://www.ginnyklevorn.com
+  - https://www.ginnyklevorn.com/meet-ginny
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15512
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-gruenhagen-glenn
+  openstates_id: ocd-person/7a52595e-fa21-4e21-88d6-b03e4d9f1f77
+  full_name: Glenn Gruenhagen
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/17Gruenhagen.jpg
+  phone: ""
+  email: sen.glenn.gruenhagen@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1257
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Glenn_Gruenhagen
+  - https://en.wikipedia.org/wiki/Glenn_Gruenhagen
+  - https://justfacts.votesmart.org/candidate/biography/123208/glenn-gruenhagen
+  - https://www.glenngruenhagen.com
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.linkedin.com/in/glenn-gruenhagen-58110034
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1257
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-hauschild-grant
+  openstates_id: ocd-person/6a13cdd4-3646-4fe9-a2a3-5f1399c2c146
+  full_name: Grant Hauschild
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/03Hauschild.jpg
+  phone: ""
+  email: sen.grant.hauschild@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1252
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Grant_Hauschild_(Minnesota)
+  - https://en.wikipedia.org/wiki/Grant_Hauschild
+  - https://justfacts.votesmart.org/candidate/biography/170724/grant-hauschild
+  - https://www.linkedin.com/in/granthauschild
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1252
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-davids-greg
+  openstates_id: ocd-person/5bf21441-27fe-4f78-8fc1-83ca3ee5700d
+  full_name: Greg Davids
+  office_title: State Representative
+  chamber: house
+  district: 26B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/26B.gif?v=112221
+  phone: ""
+  email: rep.greg.davids@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/10123
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Greg_Davids
+  - https://en.wikipedia.org/wiki/Greg_Davids
+  - https://justfacts.votesmart.org/candidate/biography/3761/greg-davids
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/10123
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-niska-harry
+  openstates_id: ocd-person/371f41ef-a432-4880-950b-f3ac4b17d02f
+  full_name: Harry Niska
+  office_title: State Representative
+  chamber: house
+  district: 31A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/31A.gif?v=112221
+  phone: ""
+  email: rep.harry.niska@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15608
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Harry_Niska
+  - https://en.wikipedia.org/wiki/Harry_Niska
+  - https://justfacts.votesmart.org/candidate/biography/208024/harry-niska
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15608
+  - https://www.linkedin.com/in/harry-niska-6647847
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-gustafson-heather
+  openstates_id: ocd-person/9411a121-c47d-431a-b407-88ff5c891c5f
+  full_name: Heather Gustafson
+  office_title: State Senator
+  chamber: senate
+  district: "36"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/36Gustafson.jpg
+  phone: ""
+  email: sen.heather.gustafson@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1263
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Heather_Gustafson
+  - https://en.wikipedia.org/wiki/Heather_Gustafson
+  - https://justfacts.votesmart.org/candidate/biography/207838/heather-gustafson
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1263
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-keeler-heather
+  openstates_id: ocd-person/3ace0851-830e-42a1-8390-27c1142f2367
+  full_name: Heather Keeler
+  office_title: State Representative
+  chamber: house
+  district: 4A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/04A.gif?v=112221
+  phone: ""
+  email: rep.heather.keeler@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15539
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Heather_Keeler
+  - https://en.wikipedia.org/wiki/Heather_Keeler
+  - https://justfacts.votesmart.org/candidate/194060/heather-keeler
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15539
+  - https://www.linkedin.com/in/heather-keeler-1b3864121
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-hiltsley-huldah
+  openstates_id: ocd-person/05831ea3-3480-4a57-a5ea-a1844a554301
+  full_name: Huldah Hiltsley
+  office_title: State Representative
+  chamber: house
+  district: 38A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/38A.gif?v=112221
+  phone: ""
+  email: rep.huldah.momanyi-hiltsley@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15634
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Huldah_Hiltsley
+  - https://en.wikipedia.org/wiki/Huldah_Momanyi
+  - https://justfacts.votesmart.org/candidate/biography/207843/huldah-momanyi-hiltsley
+  - https://www.house.mn.gov/members/profile/15634
+  - https://www.linkedin.com/in/hhiltsley
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-schultz-isaac
+  openstates_id: ocd-person/a916d408-21ae-4eee-a2d7-c8019478f521
+  full_name: Isaac Schultz
+  office_title: State Representative
+  chamber: house
+  district: 10B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/10B.gif?v=112221
+  phone: ""
+  email: rep.isaac.schultz@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15597
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Isaac_Schultz
+  - https://en.wikipedia.org/wiki/Isaac_Schultz
+  - https://justfacts.votesmart.org/candidate/biography/207780/isaac-schultz
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15597
+  - https://www.linkedin.com/in/isaacschultz
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-long-jamie
+  openstates_id: ocd-person/b6ea5e13-3aad-438c-bed0-749a9bff80c3
+  full_name: Jamie Long
+  office_title: State Representative
+  chamber: house
+  district: 61B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/61B.gif?v=112221
+  phone: ""
+  email: rep.jamie.long@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15529
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jamie_Long
+  - https://en.wikipedia.org/wiki/Jamie_Long
+  - https://justfacts.votesmart.org/candidate/183847/jamie-long
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15529
+  - https://www.linkedin.com/in/jamiemlong
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-rarick-jason
+  openstates_id: ocd-person/f15c0d42-4380-4f9b-b66d-14ffe61e1a40
+  full_name: Jason Rarick
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/11Rarick.jpg
+  phone: ""
+  email: sen.jason.rarick@mnsenate.gov
+  address: ""
+  official_website: https://www.mnsenaterepublicans.com/jason-rarick/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jason_Rarick
+  - https://en.wikipedia.org/wiki/Jason_Rarick
+  - https://justfacts.votesmart.org/candidate/152816/jason-rarick
+  - https://www.mnsenaterepublicans.com/jason-rarick
+  - https://www.mnsenaterepublicans.com/jason-rarick/
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1240
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-xiong-jay
+  openstates_id: ocd-person/8892bfba-9b17-4378-8c85-f2d73d2b88ac
+  full_name: Jay Xiong
+  office_title: State Representative
+  chamber: house
+  district: 67B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/67B.gif?v=112221
+  phone: ""
+  email: rep.jay.xiong@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15533
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jay_Xiong
+  - https://en.wikipedia.org/wiki/Jay_Xiong
+  - https://justfacts.votesmart.org/candidate/biography/183862/jay-xiong
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15533
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-backer-jeff
+  openstates_id: ocd-person/edcf7ea6-b735-46b3-9d50-fa189cda6e8d
+  full_name: Jeff Backer
+  office_title: State Representative
+  chamber: house
+  district: 9A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/09A.gif?v=112221
+  phone: ""
+  email: rep.jeff.backer@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15428
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Backer
+  - https://en.wikipedia.org/wiki/Jeff_Backer
+  - https://justfacts.votesmart.org/candidate/biography/122963/jeff-backer
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15428
+  - https://www.linkedin.com/in/jeff-backer-7381275a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-dotseth-jeff
+  openstates_id: ocd-person/f6aa30f5-2e66-44ae-8de0-352c64ddafe8
+  full_name: Jeff Dotseth
+  office_title: State Representative
+  chamber: house
+  district: 11A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/11A.gif?v=112221
+  phone: ""
+  email: rep.jeff.dotseth@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15598
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Dotseth
+  - https://en.wikipedia.org/wiki/Jeff_Dotseth
+  - https://justfacts.votesmart.org/candidate/biography/183718/jeff-dotseth
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15598
+  - https://www.linkedin.com/in/jeff-dotseth-701b2411
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-howe-jeff
+  openstates_id: ocd-person/971dbd16-363f-4151-a75c-306746aec18e
+  full_name: Jeff Howe
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/13Howe.jpg
+  phone: ""
+  email: sen.jeff.howe@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1239
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Howe
+  - https://en.wikipedia.org/wiki/Jeff_Howe
+  - https://justfacts.votesmart.org/candidate/140969/jeff-howe
+  - https://www.linkedin.com/in/jeff-howe-60987281
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1239
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-witte-jeff
+  openstates_id: ocd-person/72c6929c-a329-4613-99a0-5e339f5a045f
+  full_name: Jeff Witte
+  office_title: State Representative
+  chamber: house
+  district: 57B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/57B.gif?v=112221
+  phone: ""
+  email: rep.jeff.witte@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15570
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Witte_(Minnesota)
+  - https://en.wikipedia.org/wiki/Jeff_Witte
+  - https://justfacts.votesmart.org/candidate/biography/208068/jeff-witte
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15570
+  - https://www.linkedin.com/in/jeff-witte-86755235
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-mcewen-jen
+  openstates_id: ocd-person/8d0a69ec-1301-4df5-9676-86720555ea7c
+  full_name: Jen McEwen
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/07McEwenJen.jpg
+  phone: ""
+  email: sen.jennifer.mcewen@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1241
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jen_McEwen
+  - https://en.wikipedia.org/wiki/Jen_McEwen
+  - https://justfacts.votesmart.org/candidate/biography/194018/jen-mcewen
+  - https://www.linkedin.com/in/jennifer-mcewen-aa13a6b8
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1241
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-miller-jeremy
+  openstates_id: ocd-person/f0824aef-4692-46c8-bafa-f19a01a9d716
+  full_name: Jeremy Miller
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/26Miller.jpg
+  phone: ""
+  email: sen.jeremy.miller@mnsenate.gov
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1179
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeremy_Miller_(Minnesota)
+  - https://en.wikipedia.org/wiki/Jeremy_Miller_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/122993/jeremy-miller
+  - https://www.linkedin.com/in/jeremy-miller-2b39a9168
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1179
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-hanson-jess
+  openstates_id: ocd-person/5099a61c-2d2a-41d0-a03d-ccbbb0edbf15
+  full_name: Jess Hanson
+  office_title: State Representative
+  chamber: house
+  district: 55A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/55A.gif?v=112221
+  phone: ""
+  email: rep.jessica.hanson@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15563
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jessica_Hanson
+  - https://en.wikipedia.org/wiki/Jessica_Hanson
+  - https://justfacts.votesmart.org/candidate/biography/194236/jessica-hanson
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15563
+  - https://www.linkedin.com/in/jessicahanson13
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-abeler-jim
+  openstates_id: ocd-person/fc189dd9-b597-4744-86d3-ac315b93a3f3
+  full_name: Jim Abeler
+  office_title: State Senator
+  chamber: senate
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/35Abeler.jpg
+  phone: ""
+  email: sen.jim.abeler@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1216
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jim_Abeler
+  - https://en.wikipedia.org/wiki/Jim_Abeler
+  - https://justfacts.votesmart.org/candidate/biography/20208/jim-abeler-ii
+  - https://www.linkedin.com/in/jim-abeler-99b8ba76
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1216
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-carlson-jim
+  openstates_id: ocd-person/ac087885-bab6-4fbf-b88a-daf71262c8b6
+  full_name: Jim Carlson
+  office_title: State Senator
+  chamber: senate
+  district: "52"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/51Carlson.jpg
+  phone: ""
+  email: sen.jim.carlson@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1140
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jim_Carlson
+  - https://en.wikipedia.org/wiki/Jim_Carlson_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/biography/38829/jim-carlson
+  - https://www.linkedin.com/in/jim-carlson-18b4101
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1140
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-joy-jim
+  openstates_id: ocd-person/0897d40e-d8b4-4b1e-b0cf-e0ae4e9685f2
+  full_name: Jim Joy
+  office_title: State Representative
+  chamber: house
+  district: 4B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/04B.gif?v=112221
+  phone: ""
+  email: rep.jim.joy@house.mn.gov
+  address: ""
+  official_website: https://www.house.leg.state.mn.us/members/profile/15591
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jim_Joy
+  - https://en.wikipedia.org/wiki/Jim_Joy
+  - https://justfacts.votesmart.org/candidate/207764/jim-joy
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15591
+  - https://www.linkedin.com/in/james-joy-baa70780
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-nash-jim
+  openstates_id: ocd-person/d7012c12-e223-4409-823b-ba3e55be6677
+  full_name: Jim Nash
+  office_title: State Representative
+  chamber: house
+  district: 48A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/48A.gif?v=112221
+  phone: ""
+  email: rep.jim.nash@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15441
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jim_Nash_(Minnesota)
+  - https://en.wikipedia.org/wiki/Jim_Nash_(politician)
+  - https://justfacts.votesmart.org/candidate/152912/jim-nash
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15441
+  - https://www.linkedin.com/in/jim-nash-09bb3b3
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-gordon-jimmy
+  openstates_id: ocd-person/a2fed609-2172-4740-b9f3-f00a6da4716d
+  full_name: Jimmy Gordon
+  office_title: State Representative
+  chamber: house
+  district: 28A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/28A.gif?v=112221
+  phone: ""
+  email: rep.jimmy.gordon@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15632
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_Gordon_(Minnesota)
+  - https://en.wikipedia.org/wiki/Jimmy_Gordon_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/218790/james-gordon
+  - https://www.house.mn.gov/members/profile/15632
+  - https://www.lrl.mn.gov/legdb/fulldetail?ID=15632
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-mcdonald-joe
+  openstates_id: ocd-person/6292245e-1db4-4a8e-ba2a-a036e7b68044
+  full_name: Joe McDonald
+  office_title: State Representative
+  chamber: house
+  district: 29A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/29A.gif?v=112221
+  phone: ""
+  email: rep.joe.mcdonald@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15360
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_McDonald
+  - https://en.wikipedia.org/wiki/Joe_McDonald_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/125675/joe-mcdonald
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15360
+  - https://www.linkedin.com/in/joe-mcdonald-924ab854
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-schomacker-joe
+  openstates_id: ocd-person/f08531c2-0974-4606-ab08-f5453ff76edd
+  full_name: Joe Schomacker
+  office_title: State Representative
+  chamber: house
+  district: 21A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/21A.gif?v=112221
+  phone: ""
+  email: rep.joe.schomacker@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15367
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_Schomacker
+  - https://en.wikipedia.org/wiki/Joe_Schomacker
+  - https://justfacts.votesmart.org/candidate/biography/123181/joe-schomacker
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15367
+  - https://www.linkedin.com/in/schomacker
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-hoffman-john
+  openstates_id: ocd-person/b31cb55a-94ea-4f44-a4b9-8003b32c749a
+  full_name: John Hoffman
+  office_title: State Senator
+  chamber: senate
+  district: "34"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/36Hoffman.jpg
+  phone: ""
+  email: sen.john.hoffman@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1205
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Hoffman_(Minnesota)
+  - https://en.wikipedia.org/wiki/John_Hoffman_(Minnesota_politician)
+  - https://en.wikipedia.org/wiki/John_Hoffman_(politician)
+  - https://justfacts.votesmart.org/candidate/140901/john-hoffman
+  - https://www.johnhoffmanmn.com
+  - https://www.johnhoffmanmn.com/about-john/biography
+  - https://www.linkedin.com/in/jhoffman1
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1205
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-burkel-john
+  openstates_id: ocd-person/c86f501e-0b47-4e57-8f5a-d7d0be2392af
+  full_name: John Burkel
+  office_title: State Representative
+  chamber: house
+  district: 1A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/01A.gif
+  phone: ""
+  email: rep.john.burkel@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15538
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Burkel
+  - https://en.wikipedia.org/wiki/John_Burkel
+  - https://justfacts.votesmart.org/candidate/194044/john-burkel
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15538
+  - https://www.linkedin.com/in/john-burkel-4938b810
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-huot-john
+  openstates_id: ocd-person/5d8ac115-4a2b-4f0f-b70a-c1df26184891
+  full_name: John Huot
+  office_title: State Representative
+  chamber: house
+  district: 56B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/56B.gif?v=112221
+  phone: ""
+  email: rep.john.huot@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15527
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Huot
+  - https://en.wikipedia.org/wiki/John_Huot
+  - https://justfacts.votesmart.org/candidate/biography/171622/john-huot
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15527
+  - https://www.linkedin.com/in/john-d-huot-9684366
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-marty-john
+  openstates_id: ocd-person/4acf27d9-edd4-4f04-97c7-164390a5664b
+  full_name: John Marty
+  office_title: State Senator
+  chamber: senate
+  district: "40"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/40Marty.jpg
+  phone: ""
+  email: sen.john.mcguire@senate.mn
+  address: ""
+  official_website: https://www.johnmarty.org/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Marty
+  - https://en.wikipedia.org/wiki/John_Marty
+  - https://justfacts.votesmart.org/candidate/biography/3909/john-marty
+  - https://www.johnmarty.org
+  - https://www.johnmarty.org/meet-john
+  - https://www.linkedin.com/in/senatormarty
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1035
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-jasinski-john
+  openstates_id: ocd-person/f6b649e0-5359-4d22-8ff0-6ca017bc5e23
+  full_name: John Jasinski
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/24Jasinski.jpg
+  phone: ""
+  email: sen.john.jasinski@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1227
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Jasinski
+  - https://en.wikipedia.org/wiki/John_Jasinski_(politician)
+  - https://justfacts.votesmart.org/candidate/171379/john-jasinski
+  - https://www.linkedin.com/in/john-jasinski-60578228
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1227
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-koznick-jon
+  openstates_id: ocd-person/8c4ed90f-f243-43f1-b205-0edd374777d8
+  full_name: Jon Koznick
+  office_title: State Representative
+  chamber: house
+  district: 57A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/57A.gif?v=112221
+  phone: ""
+  email: rep.jon.koznick@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15436
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jon_Koznick
+  - https://en.wikipedia.org/wiki/Jon_Koznick
+  - https://justfacts.votesmart.org/candidate/biography/152876/jon-koznick
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15436
+  - https://www.linkedin.com/in/jon-koznick-b8a3397
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-rasmusson-jordan
+  openstates_id: ocd-person/4c3116e2-98db-4367-b543-a12220c9b12f
+  full_name: Jordan Rasmusson
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/09Rasmusson.jpg
+  phone: ""
+  email: sen.jordan.rasmusson@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1255
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jordan_Rasmusson
+  - https://en.wikipedia.org/wiki/Jordan_Rasmusson
+  - https://justfacts.votesmart.org/candidate/194138/jordan-rasmusson
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.linkedin.com/in/jordan-rasmusson-57134710
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1255
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-heintzeman-josh
+  openstates_id: ocd-person/18549c8f-0d80-4c2f-bdcc-f3762c3acb19
+  full_name: Josh Heintzeman
+  office_title: State Representative
+  chamber: house
+  district: 6B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/06B.gif?v=112221
+  phone: ""
+  email: rep.josh.heintzeman@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15435
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Josh_Heintzeman
+  - https://en.wikipedia.org/wiki/Josh_Heintzeman
+  - https://justfacts.votesmart.org/candidate/152810/josh-heintzeman
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15435
+  - https://www.linkedin.com/in/josh-heintzeman-50b00199
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-hill-josiah
+  openstates_id: ocd-person/4558fb30-435a-4fde-acdd-bdcc82c7da45
+  full_name: Josiah Hill
+  office_title: State Representative
+  chamber: house
+  district: 33B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/33B.gif?v=112221
+  phone: ""
+  email: rep.josiah.hill@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15611
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Josiah_Hill
+  - https://en.wikipedia.org/wiki/Josiah_Hill
+  - https://justfacts.votesmart.org/candidate/biography/194071/josiah-hill
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15611
+  - https://www.linkedin.com/in/josiah-hill-28064a15b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-seeberger-judy
+  openstates_id: ocd-person/4ca681ca-58ab-4d75-b7ef-8d255f858d62
+  full_name: Judy Seeberger
+  office_title: State Senator
+  chamber: senate
+  district: "41"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/41Seeberger.jpg
+  phone: ""
+  email: sen.judy.seeberger@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1265
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Judy_Seeberger
+  - https://en.wikipedia.org/wiki/Judy_Seeberger
+  - https://justfacts.votesmart.org/candidate/biography/207848/judy-seeberger
+  - https://www.linkedin.com/in/judy-seeberger-95382122
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1265
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-coleman-julia
+  openstates_id: ocd-person/62a79a93-6117-4f36-87ef-f4058c34142a
+  full_name: Julia Coleman
+  office_title: State Senator
+  chamber: senate
+  district: "48"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/47ColemanJulia.jpg
+  phone: ""
+  email: sen.julia.coleman@mnsenate.gov
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1244
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Julia_Coleman
+  - https://justfacts.votesmart.org/candidate/194080/julia-coleman
+  - https://www.linkedin.com/in/julia-coleman-496a53158
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1244
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-greene-julie
+  openstates_id: ocd-person/15f0a29b-674a-4146-8a93-019c9a3f305e
+  full_name: Julie Greene
+  office_title: State Representative
+  chamber: house
+  district: 50A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/50A.gif?v=112221
+  phone: ""
+  email: rep.julie.greene@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15633
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Julie_Greene
+  - https://en.wikipedia.org/wiki/Julie_Greene_(politician)
+  - https://justfacts.votesmart.org/candidate/218823/julie-greene
+  - https://www.house.mn.gov/members/profile/15633
+  - https://www.lrl.mn.gov/legdb/fulldetail?ID=15633
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-berg-kaela
+  openstates_id: ocd-person/1912cdc1-267c-4d36-acec-08896502658e
+  full_name: Kaela Berg
+  office_title: State Representative
+  chamber: house
+  district: 55B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/55B.gif
+  phone: ""
+  email: rep.kaela.berg@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15550
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kaela_Berg
+  - https://en.wikipedia.org/wiki/Kaela_Berg
+  - https://justfacts.votesmart.org/candidate/194235/kaela-berg
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15550
+  - https://www.linkedin.com/in/kaela-berg-62735118
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-rehrauer-kari
+  openstates_id: ocd-person/ecea4720-d4e0-4c21-a4dd-76cdb54023d2
+  full_name: Kari Rehrauer
+  office_title: State Representative
+  chamber: house
+  district: 35B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/35B.gif?v=112221
+  phone: ""
+  email: rep.kari.rehrauer@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15640
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kari_Rehrauer
+  - https://en.wikipedia.org/wiki/Kari_Rehrauer
+  - https://justfacts.votesmart.org/candidate/biography/199343/kari-rehrauer
+  - https://www.house.mn.gov/members/profile/15640
+  - https://www.linkedin.com/in/kari-rehrauer-b734741a3
+  - https://www.lrl.mn.gov/legdb/fulldetail?ID=15640
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-housley-karin
+  openstates_id: ocd-person/dde8cf7d-52c2-48e5-bf65-f0fe2477713c
+  full_name: Karin Housley
+  office_title: State Senator
+  chamber: senate
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/39Housley.jpg
+  phone: ""
+  email: sen.karin.housley@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1214
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Karin_Housley
+  - https://en.wikipedia.org/wiki/Karin_Housley
+  - https://justfacts.votesmart.org/candidate/123021/karin-housley
+  - https://www.linkedin.com/in/karinhousley
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1214
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-jones-katie
+  openstates_id: ocd-person/12252e69-5ffb-459b-a84e-333af1219f94
+  full_name: Katie Jones
+  office_title: State Representative
+  chamber: house
+  district: 61A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/61A.gif?v=112221
+  phone: ""
+  email: rep.katie.jones@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15638
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Katie_Jones_(Minnesota)
+  - https://en.wikipedia.org/wiki/Katie_Jones_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/218850/katie-jones
+  - https://www.house.mn.gov/members/profile/15638
+  - https://www.linkedin.com/in/katiejonesmpls
+  - https://www.lrl.mn.gov/legdb/fulldetail?ID=15638
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-allen-keith
+  openstates_id: ocd-person/939c0bab-e76d-443f-b46b-7f98d05036e2
+  full_name: Keith Allen
+  office_title: State Representative
+  chamber: house
+  district: 19A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/19A.gif
+  phone: ""
+  email: rep.keith.allen@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15627
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Keith_Allen
+  - https://ballotpedia.org/Keith_Allen_(Minnesota)
+  - https://en.wikipedia.org/wiki/Keith_Allen_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/biography/218769/keith-allen
+  - https://www.house.mn.gov/members/profile/15627
+  - https://www.linkedin.com/in/keith-allen-a3560711
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-moller-kelly
+  openstates_id: ocd-person/3eb5eb9d-cd17-4a48-ac4c-4f7a7b8e133e
+  full_name: Kelly Moller
+  office_title: State Representative
+  chamber: house
+  district: 40A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/40A.gif?v=112221
+  phone: ""
+  email: rep.kelly.moller@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15511
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kelly_Moller
+  - https://en.wikipedia.org/wiki/Kelly_Moller
+  - https://justfacts.votesmart.org/candidate/biography/183801/kelly-moller
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15511
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-heintzeman-keri
+  openstates_id: ocd-person/4d922135-f178-4e50-8439-ebbf47cf025c
+  full_name: Keri Heintzeman
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/06Heintzeman.jpg
+  phone: ""
+  email: sen.keri.heintzeman@mnsenate.gov
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1276
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Keri_Heintzeman
+  - https://en.wikipedia.org/wiki/Keri_Heintzeman
+  - https://justfacts.votesmart.org/candidate/222639/keri-heintzeman
+  - https://www.linkedin.com/in/keri-heintzeman-a29b53128
+  - https://www.senate.mn/members/member_bio.html?mem_id=1276
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-hicks-kim
+  openstates_id: ocd-person/6902f219-7571-4bf1-a0af-ffa9eae2c23f
+  full_name: Kim Hicks
+  office_title: State Representative
+  chamber: house
+  district: 25A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/25A.gif?v=112221
+  phone: ""
+  email: rep.kim.hicks@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15605
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kim_Hicks
+  - https://en.wikipedia.org/wiki/Kim_Hicks
+  - https://justfacts.votesmart.org/candidate/biography/194219/kim-hicks
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15605
+  - https://www.linkedin.com/in/kimberly-hicks-3135951a3
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-knudsen-krista
+  openstates_id: ocd-person/d9b75b0d-6065-4efc-81e2-03084dee070a
+  full_name: Krista Knudsen
+  office_title: State Representative
+  chamber: house
+  district: 5A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/05A.gif?v=112221
+  phone: ""
+  email: rep.krista.knudsen@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15592
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Krista_Knudsen
+  - https://en.wikipedia.org/wiki/Krista_Knudsen
+  - https://justfacts.votesmart.org/candidate/207766/krista-knudsen
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15592
+  - https://www.linkedin.com/in/krista-knudsen-110440b2
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-pursell-kristi
+  openstates_id: ocd-person/ed73b309-bb2f-4805-a33b-a3fb760e6664
+  full_name: Kristi Pursell
+  office_title: State Representative
+  chamber: house
+  district: 58A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/58A.gif?v=112221
+  phone: ""
+  email: rep.kristi.pursell@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15571
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kristi_Pursell
+  - https://en.wikipedia.org/wiki/Kristi_Pursell
+  - https://justfacts.votesmart.org/candidate/biography/208070/kristi-pursell
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15571
+  - https://www.linkedin.com/in/kristi-pursell-37895b9a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-bahner-kristin
+  openstates_id: ocd-person/ad111cf3-f5f9-4e94-a087-dc39ce1fb136
+  full_name: Kristin Bahner
+  office_title: State Representative
+  chamber: house
+  district: 37B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/37B.gif
+  phone: ""
+  email: rep.kristin.bahner@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15505
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kristin_Bahner
+  - https://en.wikipedia.org/wiki/Kristin_Bahner
+  - https://justfacts.votesmart.org/candidate/biography/171548/kristin-bahner
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15505
+  - https://www.linkedin.com/in/kristinbahner
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-robbins-kristin
+  openstates_id: ocd-person/d32d0b31-20af-4068-a5bd-42fd0a072ded
+  full_name: Kristin Robbins
+  office_title: State Representative
+  chamber: house
+  district: 37A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/37A.gif?v=112221
+  phone: ""
+  email: rep.kristin.robbins@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15504
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kristin_Robbins
+  - https://en.wikipedia.org/wiki/Kristin_Robbins
+  - https://justfacts.votesmart.org/candidate/biography/183783/kristin-robbins
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15504
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-kraft-larry
+  openstates_id: ocd-person/a4451923-cc1b-4d5d-9c14-5c50062335a2
+  full_name: Larry Kraft
+  office_title: State Representative
+  chamber: house
+  district: 46A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/46A.gif?v=112221
+  phone: ""
+  email: rep.larry.kraft@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15619
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Larry_Kraft
+  - https://en.wikipedia.org/wiki/Larry_Kraft
+  - https://justfacts.votesmart.org/candidate/biography/199244/larry-kraft
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15619
+  - https://www.linkedin.com/in/larrykraft1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-finke-leigh
+  openstates_id: ocd-person/afff2a0a-1b2d-480e-a90d-8609842f0927
+  full_name: Leigh Finke
+  office_title: State Representative
+  chamber: house
+  district: 66A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/66A.gif?v=112221
+  phone: ""
+  email: rep.leigh.finke@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15575
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Leigh_Finke
+  - https://en.wikipedia.org/wiki/Leigh_Finke
+  - https://justfacts.votesmart.org/candidate/208084/leigh-finke
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15575
+  - https://www.linkedin.com/in/leigh-finke-87966124
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-lillie-leon
+  openstates_id: ocd-person/00240593-7a31-4725-8c31-c723115732bb
+  full_name: Leon Lillie
+  office_title: State Representative
+  chamber: house
+  district: 44B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/44B.gif?v=112221
+  phone: ""
+  email: rep.leon.lillie@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/12269
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Leon_Lillie
+  - https://en.wikipedia.org/wiki/Leon_Lillie
+  - https://justfacts.votesmart.org/candidate/biography/38900/leon-lillie
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/12269
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-port-lindsey
+  openstates_id: ocd-person/39814623-d268-47a1-8dcd-78e3ae1a33cf
+  full_name: Lindsey Port
+  office_title: State Senator
+  chamber: senate
+  district: "55"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/56PortLindsey.jpg
+  phone: ""
+  email: sen.lindsey.port@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1245
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lindsey_Port
+  - https://justfacts.votesmart.org/candidate/biography/171617/lindsey-port
+  - https://www.linkedin.com/in/lindsey-port-060999166
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1245
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-demuth-lisa
+  openstates_id: ocd-person/7b7b8d46-05d4-4285-b728-abcad1a430d5
+  full_name: Lisa Demuth
+  office_title: State Representative
+  chamber: house
+  district: 13A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls93/13A.gif?v=032323
+  phone: ""
+  email: rep.lisa.demuth@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15498
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lisa_Demuth
+  - https://en.wikipedia.org/wiki/Lisa_Demuth
+  - https://justfacts.votesmart.org/candidate/biography/183728/lisa-demuth
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15498
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-boldon-liz
+  openstates_id: ocd-person/26ed75ae-3230-4e92-82a3-486bd76e1893
+  full_name: Liz Boldon
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/25Boldon.jpg
+  phone: ""
+  email: sen.liz.boldon@senate.mn
+  address: ""
+  official_website: https://lizboldon.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Liz_Boldon
+  - https://en.wikipedia.org/wiki/Liz_Boldon
+  - https://justfacts.votesmart.org/candidate/biography/194218/liz-boldon
+  - https://lizboldon.com
+  - https://lizboldon.com/about
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.linkedin.com/in/sen-liz-boldon-rn-msn-8a137b9b
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1259
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-lee-liz
+  openstates_id: ocd-person/f9dbe591-5c2d-4a25-836a-ae05863b40ff
+  full_name: Liz Lee
+  office_title: State Representative
+  chamber: house
+  district: 67A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/67A.gif?v=112221
+  phone: ""
+  email: rep.liz.lee@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15576
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Liz_Lee
+  - https://en.wikipedia.org/wiki/Liz_Lee_(politician)
+  - https://justfacts.votesmart.org/candidate/208087/liz-lee
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15576
+  - https://www.linkedin.com/in/kaozouapalee
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-reyer-liz
+  openstates_id: ocd-person/e57307af-8e06-4c44-997d-a2cad2cdb231
+  full_name: Liz Reyer
+  office_title: State Representative
+  chamber: house
+  district: 52A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/52A.gif?v=112221
+  phone: ""
+  email: rep.liz.reyer@house.mn.gov
+  address: ""
+  official_website: https://www.house.leg.state.mn.us/members/profile/15549
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Liz_Reyer
+  - https://en.wikipedia.org/wiki/Liz_Reyer
+  - https://justfacts.votesmart.org/candidate/194258/liz-reyer
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.leg.state.mn.us/members/profile/15549
+  - https://www.house.mn.gov/members/profile/15549
+  - https://www.linkedin.com/in/liz-reyer
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-rehm-lucy
+  openstates_id: ocd-person/75e19dbb-1f4b-4ace-b87e-201e445d25b4
+  full_name: Lucy Rehm
+  office_title: State Representative
+  chamber: house
+  district: 48B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/48B.gif?v=112221
+  phone: ""
+  email: rep.lucy.rehm@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15622
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lucille_Rehm
+  - https://en.wikipedia.org/wiki/Lucy_Rehm
+  - https://justfacts.votesmart.org/candidate/208050/lucy-rehm
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15622
+  - https://www.linkedin.com/in/lucy-rehm-b4284616
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-frederick-luke
+  openstates_id: ocd-person/b0d93fc5-2efc-4908-aceb-7b2fc208b34d
+  full_name: Luke Frederick
+  office_title: State Representative
+  chamber: house
+  district: 18B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/18B.gif?v=112221
+  phone: ""
+  email: rep.luke.frederick@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15542
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Luke_Frederick
+  - https://en.wikipedia.org/wiki/Luke_Frederick
+  - https://justfacts.votesmart.org/candidate/biography/194250/luke-frederick
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15542
+  - https://www.linkedin.com/in/luke-frederick-5354261b3
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-prezvega-mara
+  openstates_id: ocd-person/d1c094c0-6184-49e4-a18a-d5b900caca1b
+  full_name: María Isa Pérez-Vega
+  office_title: State Representative
+  chamber: house
+  district: 65B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/65B.gif?v=112221
+  phone: ""
+  email: rep.maria.isa.perez-vega@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15574
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Maria_Isa_P%C3%A9rez-Hedges
+  - https://en.wikipedia.org/wiki/Mar%C3%ADa_Isa_P%C3%A9rez-Vega
+  - https://justfacts.votesmart.org/candidate/208082/maria-perez-vega
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15574
+  - https://www.linkedin.com/in/mariaisa
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-rarick-marion
+  openstates_id: ocd-person/0682bc6b-e4f2-427a-917b-96fbc49bb741
+  full_name: Marion Rarick
+  office_title: State Representative
+  chamber: house
+  district: 29B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/29B.gif?v=112221
+  phone: ""
+  email: rep.marion.rarick@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15409
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marion_O%27Neill
+  - https://ballotpedia.org/Marion_Rarick
+  - https://en.wikipedia.org/wiki/Marion_O%27Neill
+  - https://justfacts.votesmart.org/candidate/biography/141007/marion-rarick
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15409
+  - https://www.linkedin.com/in/marion-o-neill-99285442
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-fogelman-marj
+  openstates_id: ocd-person/9837607c-b08b-4742-ad5f-3e8f72f8b7b4
+  full_name: Marj Fogelman
+  office_title: State Representative
+  chamber: house
+  district: 21B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/21B.gif?v=112221
+  phone: ""
+  email: rep.marj.fogelman@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15604
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marj_Fogelman
+  - https://en.wikipedia.org/wiki/Marj_Fogelman
+  - https://justfacts.votesmart.org/candidate/biography/207918/marj-fogelman
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15604
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-johnson-mark
+  openstates_id: ocd-person/de9b28f6-a2a8-4edd-98cb-2b3ff2e6382c
+  full_name: Mark Johnson
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/01Johnson.jpg
+  phone: ""
+  email: sen.mark.johnson@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1217
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Johnson_(Minnesota)
+  - https://en.wikipedia.org/wiki/Mark_Johnson_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/biography/171332/mark-johnson
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1217
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-koran-mark
+  openstates_id: ocd-person/f20a4255-6c65-4091-a0f5-aea70f133cdb
+  full_name: Mark Koran
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/32Koran.jpg
+  phone: ""
+  email: sen.mark.koran@senate.mn
+  address: ""
+  official_website: https://www.markkoranmn.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Koran
+  - https://en.wikipedia.org/wiki/Mark_Koran
+  - https://justfacts.votesmart.org/candidate/171390/mark-koran
+  - https://www.linkedin.com/in/markkoran
+  - https://www.markkoranmn.com
+  - https://www.markkoranmn.com/about
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1228
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-clardy-mary
+  openstates_id: ocd-person/1acddc90-d32a-4495-a769-27f8b57193b7
+  full_name: Mary Clardy
+  office_title: State Representative
+  chamber: house
+  district: 53A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/53A.gif?v=112221
+  phone: ""
+  email: rep.mary.frances.clardy@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15568
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mary_Frances_Clardy
+  - https://en.wikipedia.org/wiki/Mary_Frances_Clardy
+  - https://justfacts.votesmart.org/candidate/biography/208057/mary-clardy
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15568
+  - https://www.linkedin.com/in/mary-frances-clardy-ab1a7915
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-franson-mary
+  openstates_id: ocd-person/1b284763-8577-49ab-b641-f4f079196646
+  full_name: Mary Franson
+  office_title: State Representative
+  chamber: house
+  district: 12B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/12B.gif?v=112221
+  phone: ""
+  email: rep.mary.franson@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15347
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mary_Franson
+  - https://en.wikipedia.org/wiki/Mary_Franson
+  - https://justfacts.votesmart.org/candidate/biography/123109/mary-franson
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15347
+  - https://www.linkedin.com/in/mary-franson-4868981
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-kuneshpodein-mary
+  openstates_id: ocd-person/2795e0ed-3a02-4afc-8836-f5c3c067139c
+  full_name: Mary Kunesh-Podein
+  office_title: State Senator
+  chamber: senate
+  district: "39"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/41KuneshPodeinMary.jpg
+  phone: ""
+  email: sen.mary.kunesh@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1242
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mary_Kunesh-Podein
+  - https://en.wikipedia.org/wiki/Mary_Kunesh-Podein
+  - https://justfacts.votesmart.org/candidate/biography/171572/mary-kunesh
+  - https://www.linkedin.com/in/mary-kunesh-5903b410
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1242
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-bliss-matt
+  openstates_id: ocd-person/cbab855f-4a47-4afd-b74a-468a4545b82b
+  full_name: Matt Bliss
+  office_title: State Representative
+  chamber: house
+  district: 2B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/02B.gif?v=112221
+  phone: ""
+  email: rep.matt.bliss@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15458
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matt_Bliss
+  - https://en.wikipedia.org/wiki/Matt_Bliss
+  - https://justfacts.votesmart.org/candidate/biography/171445/matt-bliss
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15458
+  - https://www.linkedin.com/in/matt-bliss-4aa454160
+  - https://www.linkedin.com/in/matthew-bliss-9414624b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-klein-matt
+  openstates_id: ocd-person/a4b21c2d-d3fe-41dc-9614-0ff80878850c
+  full_name: Matt Klein
+  office_title: State Senator
+  chamber: senate
+  district: "53"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/52Klein.jpg
+  phone: ""
+  email: sen.matt.klein@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1235
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matt_Klein
+  - https://en.wikipedia.org/wiki/Matt_Klein
+  - https://www.linkedin.com/in/matthewklein000
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1235
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-norris-matt
+  openstates_id: ocd-person/662f07d4-7dd5-4549-bded-c8b5a200e054
+  full_name: Matt Norris
+  office_title: State Representative
+  chamber: house
+  district: 32B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/32B.gif?v=112221
+  phone: ""
+  email: rep.matt.norris@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15609
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matt_Norris
+  - https://en.wikipedia.org/wiki/Matt_Norris_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/biography/208027/matt-norris
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15609
+  - https://www.linkedin.com/in/matt-norris-83514644
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-rymer-max
+  openstates_id: ocd-person/afca05de-e5ff-4b1c-b38c-444f37b92687
+  full_name: Max Rymer
+  office_title: State Representative
+  chamber: house
+  district: 28B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/28B.gif?v=112221
+  phone: ""
+  email: rep.max.rymer@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15643
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Max_Rymer
+  - https://justfacts.votesmart.org/candidate/biography/171595/max-rymer
+  - https://www.house.mn.gov/members/profile/15643
+  - https://www.linkedin.com/in/maxrymer
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-lugernikolai-meg
+  openstates_id: ocd-person/8164812a-be9a-44e0-bf42-741cb4a01e2c
+  full_name: Meg Luger-Nikolai
+  office_title: State Representative
+  chamber: house
+  district: 64A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/64A.gif?v=012126
+  phone: ""
+  email: rep.meg.luger-nikolai@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15654
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Meg_Luger-Nikolai
+  - https://en.wikipedia.org/wiki/Meg_Luger-Nikolai
+  - https://www.house.mn.gov/members/profile/15654
+  - https://www.linkedin.com/in/meg-luger-nikolai-47a1a96
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-wiklund-melissa
+  openstates_id: ocd-person/d2fb6801-379e-481c-9313-2ac099d3a775
+  full_name: Melissa Wiklund
+  office_title: State Senator
+  chamber: senate
+  district: "51"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/50Wiklund.jpg
+  phone: ""
+  email: sen.melissa.wiklund@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1209
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Melissa_Halvorson_Wiklund
+  - https://en.wikipedia.org/wiki/Melissa_Halvorson_Wiklund
+  - https://justfacts.votesmart.org/candidate/biography/140913/melissa-wiklund
+  - https://www.linkedin.com/in/melissa-halvorson-wiklund-5a812610
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1209
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-kreun-michael
+  openstates_id: ocd-person/3a76623e-d295-4c58-be60-fd37a285a39b
+  full_name: Michael Kreun
+  office_title: State Senator
+  chamber: senate
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/32Kreun.jpg
+  phone: ""
+  email: sen.michael.kreun@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1262
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Kreun
+  - https://en.wikipedia.org/wiki/Michael_Kreun
+  - https://justfacts.votesmart.org/candidate/207831/michael-kreun
+  - https://www.linkedin.com/in/michael-kreun-1457353b
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1262
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-howard-mike
+  openstates_id: ocd-person/8910b3db-698e-4019-b976-0ee19ecb8ca0
+  full_name: Mike Howard
+  office_title: State Representative
+  chamber: house
+  district: 51A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/51A.gif?v=112221
+  phone: ""
+  email: rep.michael.howard@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15518
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Howard_(Minnesota)
+  - https://en.wikipedia.org/wiki/Michael_Howard_(American_politician)
+  - https://justfacts.votesmart.org/candidate/biography/160310/michael-howard
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15518
+  - https://www.linkedin.com/in/michael-howard-376aa55
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-freiberg-mike
+  openstates_id: ocd-person/4815983e-d0b9-4ebc-855f-bb9eac8aa5ae
+  full_name: Mike Freiberg
+  office_title: State Representative
+  chamber: house
+  district: 43B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/43B.gif?v=112221
+  phone: ""
+  email: rep.mike.freiberg@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15398
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Freiberg
+  - https://en.wikipedia.org/wiki/Mike_Freiberg
+  - https://justfacts.votesmart.org/candidate/141051/mike-freiberg
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15398
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-holmstrom-mike
+  openstates_id: ocd-person/564bbace-b157-416d-ae59-81cd8a1fbaf8
+  full_name: Mike Holmstrom
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/29Holmstrom.jpg
+  phone: ""
+  email: sen.michael.holmstrom@mnsenate.gov
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1277
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Holmstrom_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/227571/michael-holmstrom
+  - https://www.linkedin.com/in/michael-holmstrom-jr-373797a4
+  - https://www.senate.mn/members/member_bio.html?mem_id=1277
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-wiener-mike
+  openstates_id: ocd-person/4c34f3d9-8890-4145-8a96-92ab23f046c0
+  full_name: Mike Wiener
+  office_title: State Representative
+  chamber: house
+  district: 5B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/05B.gif?v=112221
+  phone: ""
+  email: rep.mike.wiener@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15593
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Wiener
+  - https://en.wikipedia.org/wiki/Mike_Wiener
+  - https://justfacts.votesmart.org/candidate/207768/mike-wiener
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15593
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-noor-mohamud
+  openstates_id: ocd-person/591ea10b-1362-434e-90be-2db0877a0e9c
+  full_name: Mohamud Noor
+  office_title: State Representative
+  chamber: house
+  district: 60B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/60B.gif?v=112221
+  phone: ""
+  email: rep.mohamud.noor@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15528
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mohamud_Noor
+  - https://en.wikipedia.org/wiki/Mohamud_Noor
+  - https://justfacts.votesmart.org/candidate/152863/mohamud-noor
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15528
+  - https://www.linkedin.com/in/mohamud-noor-571792144
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-zeleznikar-natalie
+  openstates_id: ocd-person/1b1055a8-959c-452c-a2a8-106a4ccef20d
+  full_name: Natalie Zeleznikar
+  office_title: State Representative
+  chamber: house
+  district: 3B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/03B.gif?v=112221
+  phone: ""
+  email: rep.natalie.zeleznikar@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15624
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Natalie_Zeleznikar
+  - https://en.wikipedia.org/wiki/Natalie_Zeleznikar
+  - https://justfacts.votesmart.org/candidate/207762/natalie-zeleznikar
+  - https://natalieforhouse.com/about
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15624
+  - https://www.linkedin.com/in/natalie-zeleznikar-2942a6151
+  - https://www.nataliezeleznikar.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-coulter-nathan
+  openstates_id: ocd-person/63b26a4d-ae7c-4267-89ab-dfa4a1f341ad
+  full_name: Nathan Coulter
+  office_title: State Representative
+  chamber: house
+  district: 51B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/51B.gif?v=112221
+  phone: ""
+  email: rep.nathan.coulter@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15567
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nathan_Coulter
+  - https://en.wikipedia.org/wiki/Nathan_Coulter
+  - https://justfacts.votesmart.org/candidate/187694/nathan-coulter
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15567
+  - https://www.linkedin.com/in/nathan-coulter-834773b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-nelson-nathan
+  openstates_id: ocd-person/172cb289-beec-4bc1-8627-f027f2cd3769
+  full_name: Nathan Nelson
+  office_title: State Representative
+  chamber: house
+  district: 11B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/11B.gif?v=112221
+  phone: ""
+  email: rep.nathan.nelson@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15534
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nathan_Nelson
+  - https://en.wikipedia.org/wiki/Nathan_Nelson_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/186184/nathan-nelson
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15534
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-wesenberg-nathan
+  openstates_id: ocd-person/7eaf40ec-f926-4992-8962-65b90846ef80
+  full_name: Nathan Wesenberg
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/10Wesenberg.jpg
+  phone: ""
+  email: sen.nathan.wesenberg@mnsenate.gov
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1256
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nathan_Wesenberg
+  - https://en.wikipedia.org/wiki/Nathan_Wesenberg
+  - https://justfacts.votesmart.org/candidate/207797/nathan-wesenberg
+  - https://www.linkedin.com/in/nathan-wesenberg-83916b86
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1256
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-carroll-ned
+  openstates_id: ocd-person/764db471-e56d-4ef0-9df8-4e7a164c3b7e
+  full_name: Ned Carroll
+  office_title: State Representative
+  chamber: house
+  district: 42A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls93/42A.gif?v=112221
+  phone: ""
+  email: rep.ned.carroll@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15617
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ned_Carroll
+  - https://en.wikipedia.org/wiki/Ned_Carroll
+  - https://justfacts.votesmart.org/candidate/biography/160306/ned-carroll
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15617
+  - https://www.linkedin.com/in/ned-carroll-18101821
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-frentz-nick
+  openstates_id: ocd-person/55a02119-b43d-4b39-a19b-07411c5ec7c9
+  full_name: Nick Frentz
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/19Frentz.jpg
+  phone: ""
+  email: sen.nick.frentz@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1224
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nick_Frentz
+  - https://en.wikipedia.org/wiki/Nick_Frentz
+  - https://justfacts.votesmart.org/candidate/biography/171364/nick-frentz
+  - https://www.linkedin.com/in/frentzlaw
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1224
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-west-nolan
+  openstates_id: ocd-person/171224fc-8a8d-4516-aa87-a2f5bcf1ea46
+  full_name: Nolan West
+  office_title: State Representative
+  chamber: house
+  district: 32A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/32A.gif?v=112221
+  phone: ""
+  email: rep.nolan.west@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15476
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nolan_West
+  - https://en.wikipedia.org/wiki/Nolan_West
+  - https://justfacts.votesmart.org/candidate/biography/171557/nolan-west
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15476
+  - https://www.linkedin.com/in/nolanwestformn
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-fateh-omar
+  openstates_id: ocd-person/04eeaa61-ee3c-4e36-88f2-b415660175eb
+  full_name: Omar Fateh
+  office_title: State Senator
+  chamber: senate
+  district: "62"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/62FatehOmar.jpg
+  phone: ""
+  email: sen.omar.fateh@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1247
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Omar_Fateh
+  - https://en.wikipedia.org/wiki/Omar_Fateh
+  - https://justfacts.votesmart.org/candidate/biography/183849/omar-fateh
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1247
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-altendorf-pam
+  openstates_id: ocd-person/26c19220-1368-4453-81c9-3b0c395e3949
+  full_name: Pam Altendorf
+  office_title: State Representative
+  chamber: house
+  district: 20A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/20A.gif
+  phone: ""
+  email: rep.pam.altendorf@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15602
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pam_Altendorf
+  - https://en.wikipedia.org/wiki/Pam_Altendorf
+  - https://justfacts.votesmart.org/candidate/biography/207913/pam-altendorf
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15602
+  - https://www.linkedin.com/in/pam-altendorf-0561852b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-mueller-patty
+  openstates_id: ocd-person/71df2690-6a54-4452-960a-54a5b6540bc7
+  full_name: Patty Mueller
+  office_title: State Representative
+  chamber: house
+  district: 23B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/23B.gif?v=112221
+  phone: ""
+  email: rep.patricia.mueller@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15561
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patricia_Mueller
+  - https://en.wikipedia.org/wiki/Patricia_Mueller
+  - https://justfacts.votesmart.org/candidate/biography/194177/patricia-mueller
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15561
+  - https://www.linkedin.com/in/dr-patricia-mueller-ed-d-56138b15b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-anderson-patti
+  openstates_id: ocd-person/4bab18ef-55dc-44bf-adfe-8dbdf9488a09
+  full_name: Patti Anderson
+  office_title: State Representative
+  chamber: house
+  district: 33A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/33A.gif
+  phone: ""
+  email: rep.patti.anderson@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15610
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patti_Anderson
+  - https://en.wikipedia.org/wiki/Patricia_Anderson
+  - https://justfacts.votesmart.org/candidate/183792/patti-anderson
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15610
+  - https://www.linkedin.com/in/patandersonmn
+  - https://www.linkedin.com/in/patti-anderson-7592a87
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-acomb-patty
+  openstates_id: ocd-person/b393cb61-cb71-4cd0-8132-6e21c2a7202d
+  full_name: Patty Acomb
+  office_title: State Representative
+  chamber: house
+  district: 45B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/45B.gif
+  phone: ""
+  email: rep.patty.acomb@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15513
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patty_Acomb
+  - https://en.wikipedia.org/wiki/Patty_Acomb
+  - https://justfacts.votesmart.org/candidate/biography/143648/patty-acomb
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15513
+  - https://www.linkedin.com/in/patty-acomb-a2140167
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-anderson-paul
+  openstates_id: ocd-person/ab35dde5-226a-4427-9344-c74d8291a75f
+  full_name: Paul Anderson
+  office_title: State Representative
+  chamber: house
+  district: 12A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/12A.gif?v=112221
+  phone: ""
+  email: rep.paul.anderson@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15301
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Anderson_(Minnesota)
+  - https://en.wikipedia.org/wiki/Paul_Anderson_(Minnesota_state_representative)
+  - https://justfacts.votesmart.org/candidate/biography/110598/paul-anderson
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15301
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-utke-paul
+  openstates_id: ocd-person/fde08265-b73e-4a4b-ba87-d90d71319640
+  full_name: Paul Utke
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/02Utke.jpg
+  phone: ""
+  email: sen.paul.utke@mnsenate.gov
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1218
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Utke
+  - https://en.wikipedia.org/wiki/Paul_Utke
+  - https://justfacts.votesmart.org/candidate/biography/171335/paul-utke
+  - https://www.linkedin.com/in/paul-utke-15730a47
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1218
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-novotny-paul
+  openstates_id: ocd-person/3e0eb8aa-b66c-4b30-9a0e-f1326c6f0589
+  full_name: Paul Novotny
+  office_title: State Representative
+  chamber: house
+  district: 30B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/30B.gif?v=112221
+  phone: ""
+  email: rep.paul.novotny@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15536
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Novotny
+  - https://en.wikipedia.org/wiki/Paul_Novotny
+  - https://justfacts.votesmart.org/candidate/biography/188706/paul-novotny
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15536
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-torkelson-paul
+  openstates_id: ocd-person/380875c6-dc4c-4062-8c2d-f5b80dd64c4c
+  full_name: Paul Torkelson
+  office_title: State Representative
+  chamber: house
+  district: 15B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/15B.gif?v=112221
+  phone: ""
+  email: rep.paul.torkelson@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15304
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Torkelson
+  - https://en.wikipedia.org/wiki/Paul_Torkelson
+  - https://justfacts.votesmart.org/candidate/biography/109197/paul-torkelson
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15304
+  - https://www.linkedin.com/in/paul-torkelson-778b1711
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-bennett-peggy
+  openstates_id: ocd-person/16c8390c-93c6-403e-83d4-5ff1a81fe4aa
+  full_name: Peggy Bennett
+  office_title: State Representative
+  chamber: house
+  district: 23A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls93/23A.jpg
+  phone: ""
+  email: rep.peggy.bennett@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15430
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Peggy_Bennett
+  - https://en.wikipedia.org/wiki/Peggy_Bennett
+  - https://justfacts.votesmart.org/candidate/biography/152868/peggy-bennett
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15430
+  - https://www.linkedin.com/in/peggy-bennett-8ab40591
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-scott-peggy
+  openstates_id: ocd-person/75f1b339-bd9f-4f7c-820b-75812553bde0
+  full_name: Peggy Scott
+  office_title: State Representative
+  chamber: house
+  district: 31B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/31B.gif?v=112221
+  phone: ""
+  email: rep.peggy.scott@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15314
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Peggy_Scott
+  - https://en.wikipedia.org/wiki/Peggy_Scott_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/109239/peggy-scott
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15314
+  - https://www.linkedin.com/in/peggy-scott-55a66b44
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-johnson-pete
+  openstates_id: ocd-person/fb643600-2577-4561-a902-6f158a5c40e4
+  full_name: Pete Johnson
+  office_title: State Representative
+  chamber: house
+  district: 8A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/08A.gif?v=112221
+  phone: ""
+  email: rep.pete.johnson@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15636
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pete_Johnson_(Minnesota)
+  - https://en.wikipedia.org/wiki/Peter_Johnson_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/biography/218717/pete-johnson
+  - https://www.house.mn.gov/members/profile/15636
+  - https://www.linkedin.com/in/pete-johnson-10017b88
+  - https://www.lrl.mn.gov/legdb/fulldetail?ID=15636
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-fischer-peter
+  openstates_id: ocd-person/929dc6f7-63f4-4a9d-ba24-6ab8c5964acf
+  full_name: Peter Fischer
+  office_title: State Representative
+  chamber: house
+  district: 44A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/44A.gif?v=112221
+  phone: ""
+  email: rep.peter.fischer@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15396
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Peter_Fischer
+  - https://en.wikipedia.org/wiki/Peter_Fischer_(politician)
+  - https://justfacts.votesmart.org/candidate/141045/peter-fischer
+  - https://www.fischerforrep.com/meet-peter
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15396
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-draheim-rich
+  openstates_id: ocd-person/f9fb7c65-e0ab-484c-8517-b20267cc3f07
+  full_name: Rich Draheim
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/20Draheim.jpg
+  phone: ""
+  email: sen.rich.draheim@mnsenate.gov
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1225
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rich_Draheim
+  - https://en.wikipedia.org/wiki/Rich_Draheim
+  - https://justfacts.votesmart.org/candidate/biography/171366/rich-draheim
+  - https://www.linkedin.com/in/rich-draheim-631a15a
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1225
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-hansen-rick
+  openstates_id: ocd-person/c41944c1-d89b-4c3f-a76f-d5c58d0a507f
+  full_name: Rick Hansen
+  office_title: State Representative
+  chamber: house
+  district: 53B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/53B.gif?v=112221
+  phone: ""
+  email: rep.rick.hansen@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/12282
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rick_Hansen_(Minnesota)
+  - https://en.wikipedia.org/wiki/Rick_Hansen_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/38981/rick-hansen
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/12282
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-repinski-ripper
+  openstates_id: ocd-person/e783687f-ea0d-480a-a1ff-3072f491fb44
+  full_name: Ripper Repinski
+  office_title: State Representative
+  chamber: house
+  district: 26A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/26A.gif?v=112221
+  phone: ""
+  email: rep.aaron.repinski@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15641
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Aaron_Repinski
+  - https://en.wikipedia.org/wiki/Aaron_Repinski
+  - https://justfacts.votesmart.org/candidate/biography/218785/aaron-repinski
+  - https://www.house.mn.gov/members/profile/15641
+  - https://www.linkedin.com/in/aaron-repinski-30471318
+  - https://www.lrl.mn.gov/legdb/fulldetail?ID=15641
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-bierman-robert
+  openstates_id: ocd-person/f2b7f80c-abb4-4204-839f-eb9a4de6dbab
+  full_name: Robert Bierman
+  office_title: State Representative
+  chamber: house
+  district: 56A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/56A.gif
+  phone: ""
+  email: rep.robert.bierman@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15526
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Bierman
+  - https://en.wikipedia.org/wiki/Robert_Bierman_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/183828/robert-bierman
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15526
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-farnsworth-rob
+  openstates_id: ocd-person/9cdb9977-9923-4124-ae93-c45e28f1f51c
+  full_name: Rob Farnsworth
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/07Farnsworth.jpg
+  phone: ""
+  email: sen.robert.farnsworth@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1254
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Farnsworth
+  - https://en.wikipedia.org/wiki/Robert_Farnsworth_(politician)
+  - https://justfacts.votesmart.org/candidate/171450/robert-farnsworth
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1254
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-kupec-rob
+  openstates_id: ocd-person/b8c303a5-0a73-4a26-8071-be5a9dcf113a
+  full_name: Rob Kupec
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/04Kupec.jpg
+  phone: ""
+  email: sen.robert.kupec@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1253
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rob_Kupec
+  - https://en.wikipedia.org/wiki/Rob_Kupec
+  - https://justfacts.votesmart.org/candidate/207783/rob-kupec
+  - https://www.linkedin.com/in/robert-kupec-833b1192
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1253
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-skraba-roger
+  openstates_id: ocd-person/e7b3aed7-aa50-4c4b-bd53-eacc60e53ba8
+  full_name: Roger Skraba
+  office_title: State Representative
+  chamber: house
+  district: 3A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/03A.gif?v=112221
+  phone: ""
+  email: rep.roger.skraba@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15623
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Roger_Skraba
+  - https://en.wikipedia.org/wiki/Roger_Skraba
+  - https://justfacts.votesmart.org/candidate/biography/38907/roger-skraba
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15623
+  - https://www.linkedin.com/in/roger-skraba
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-kresha-ron
+  openstates_id: ocd-person/3059daef-810c-4917-b6fa-c059312f97bf
+  full_name: Ron Kresha
+  office_title: State Representative
+  chamber: house
+  district: 10A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/10A.gif?v=112221
+  phone: ""
+  email: rep.ron.kresha@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15404
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ron_Kresha
+  - https://en.wikipedia.org/wiki/Ron_Kresha
+  - https://justfacts.votesmart.org/candidate/biography/140955/ron-kresha
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15404
+  - https://www.linkedin.com/in/ronkresha
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-latz-ron
+  openstates_id: ocd-person/834a2c10-beb0-454e-8e08-619309d8a08a
+  full_name: Ron Latz
+  office_title: State Senator
+  chamber: senate
+  district: "46"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/46Latz.jpg
+  phone: ""
+  email: sen.ron.latz@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1102
+  twitter: ""
+  source_urls:
+  - https://en.wikipedia.org/wiki/Ron_Latz
+  - https://justfacts.votesmart.org/candidate/38473/ron-latz
+  - https://www.linkedin.com/in/ronald-latz-87920244
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1102
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-hussein-samakab
+  openstates_id: ocd-person/1ff5f689-18c9-4d74-970f-c289f915dc6a
+  full_name: Samakab Hussein
+  office_title: State Representative
+  chamber: house
+  district: 65A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/65A.gif?v=112221
+  phone: ""
+  email: rep.samakab.hussein@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15573
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Samakab_Hussein
+  - https://en.wikipedia.org/wiki/Samakab_Hussein
+  - https://justfacts.votesmart.org/candidate/208078/samakab-hussein
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15573
+  - https://www.linkedin.com/in/samakab-hussein-a7b7a4244
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-sencermura-samantha
+  openstates_id: ocd-person/74dec7df-a9b9-48aa-9fae-bbe45990f4f5
+  full_name: Samantha Sencer-Mura
+  office_title: State Representative
+  chamber: house
+  district: 63A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/63A.gif?v=112221
+  phone: ""
+  email: rep.samantha.sencer-mura@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15572
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Samantha_Sencer-Mura
+  - https://en.wikipedia.org/wiki/Samantha_Sencer-Mura
+  - https://justfacts.votesmart.org/candidate/biography/208074/samantha-sencer-mura
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15572
+  - https://www.linkedin.com/in/samantha-sencer-mura-07b6b176
+  - https://www.sencermuraconsulting.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-vang-samantha
+  openstates_id: ocd-person/3f73ba2f-f038-47ff-b721-27118592b691
+  full_name: Samantha Vang
+  office_title: State Representative
+  chamber: house
+  district: 38B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/38B.gif?v=112221
+  phone: ""
+  email: rep.samantha.vang@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15510
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Samantha_Vang
+  - https://en.wikipedia.org/wiki/Samantha_Vang
+  - https://justfacts.votesmart.org/candidate/biography/183797/samantha-vang
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15510
+  - https://www.linkedin.com/in/samantha-vang-1b597073
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-feist-sandra
+  openstates_id: ocd-person/94c52434-9616-43bd-863b-9481943dedb1
+  full_name: Sandra Feist
+  office_title: State Representative
+  chamber: house
+  district: 39B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/39B.gif?v=112221
+  phone: ""
+  email: rep.sandra.feist@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15547
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sandra_Feist
+  - https://en.wikipedia.org/wiki/Sandra_Feist
+  - https://justfacts.votesmart.org/candidate/biography/194173/sandra-feist
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15547
+  - https://www.linkedin.com/in/sandra-feist-5374276
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-pappas-sandy
+  openstates_id: ocd-person/0b83a916-567b-4d36-843f-17d8f5e13b8d
+  full_name: Sandy Pappas
+  office_title: State Senator
+  chamber: senate
+  district: "65"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/65Pappas.jpg
+  phone: ""
+  email: sen.sandra.parry@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1046
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sandra_Pappas
+  - https://en.wikipedia.org/wiki/Sandy_Pappas
+  - https://justfacts.votesmart.org/candidate/biography/3921/sandra-pappas
+  - https://www.linkedin.com/in/sandy-pappas-81572118
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1046
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-binsbergen-scott
+  openstates_id: ocd-person/18e1e0aa-a224-4772-b4d1-11c7a9ed510f
+  full_name: Scott Van Binsbergen
+  office_title: State Representative
+  chamber: house
+  district: 16A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/16A.gif?v=112221
+  phone: ""
+  email: rep.scott.vanbinsbergen@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15647
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_Van_Binsbergen
+  - https://justfacts.votesmart.org/candidate/biography/68738/scott-van-binsbergen
+  - https://www.house.mn.gov/members/profile/15647
+  - https://www.linkedin.com/in/scott-van-binsbergen-51675635
+  - https://www.lrl.mn.gov/legdb/fulldetail?ID=15647
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-mekeland-shane
+  openstates_id: ocd-person/204ac87d-7f04-4b49-adc4-658faec7d413
+  full_name: Shane Mekeland
+  office_title: State Representative
+  chamber: house
+  district: 27A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/27A.gif?v=112221
+  phone: ""
+  email: rep.shane.mekeland@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15500
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shane_Mekeland
+  - https://en.wikipedia.org/wiki/Shane_Mekeland
+  - https://justfacts.votesmart.org/candidate/biography/183734/shane-mekeland
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15500
+  - https://www.linkedin.com/in/shane-mekeland-19820090
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-buck-shelley
+  openstates_id: ocd-person/0b860ed2-515a-4212-81ab-cc27b5e16223
+  full_name: Shelley Buck
+  office_title: State Representative
+  chamber: house
+  district: 47A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/47A.gif?v=012126
+  phone: ""
+  email: rep.shelley.buck@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15655
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shelley_Buck
+  - https://en.wikipedia.org/wiki/Shelley_Buck
+  - https://www.house.mn.gov/members/profile/15655
+  - https://www.linkedin.com/in/shelley-buck-pte-wicota-6a53b35a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-igo-spencer
+  openstates_id: ocd-person/2e342c55-f56d-4895-9dd2-ef1271f784c0
+  full_name: Spencer Igo
+  office_title: State Representative
+  chamber: house
+  district: 7A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/07A.gif?v=112221
+  phone: ""
+  email: rep.spencer.igo@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15540
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Spencer_Igo
+  - https://en.wikipedia.org/wiki/Spencer_Igo
+  - https://justfacts.votesmart.org/candidate/194065/spencer-igo
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15540
+  - https://www.linkedin.com/in/spencer-igo-2a291114b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-cwodzinski-steve
+  openstates_id: ocd-person/e67843ce-752d-4cc0-abb9-4a45b8b8fdca
+  full_name: Steve Cwodzinski
+  office_title: State Senator
+  chamber: senate
+  district: "49"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/49Cwodzinski.jpg
+  phone: ""
+  email: sen.steve.cwodzinski@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1234
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Cwodzinski
+  - https://en.wikipedia.org/wiki/Steve_Cwodzinski
+  - https://justfacts.votesmart.org/candidate/171409/steve-cwodzinski
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1234
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-drazkowski-steve
+  openstates_id: ocd-person/a947d529-ab68-4ae8-b1e8-7ff012dde193
+  full_name: Steve Drazkowski
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/20Drazkowski.jpg
+  phone: ""
+  email: sen.steve.drazkowski@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1258
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Drazkowski
+  - https://en.wikipedia.org/wiki/Steve_Drazkowski
+  - https://justfacts.votesmart.org/candidate/biography/65586/steve-drazkowski
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.linkedin.com/in/stevedrazkowski
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1258
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-elkins-steve
+  openstates_id: ocd-person/b867618c-7a49-4cb3-94ac-b5836ae8dedf
+  full_name: Steve Elkins
+  office_title: State Representative
+  chamber: house
+  district: 50B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/50B.gif?v=112221
+  phone: ""
+  email: rep.steve.elkins@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15517
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Elkins
+  - https://en.wikipedia.org/wiki/Steve_Elkins_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/77012/steve-elkins
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15517
+  - https://www.linkedin.com/in/stelkins
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-gander-steve
+  openstates_id: ocd-person/23bda6c1-1fa1-4d42-9b6c-8c76d1d91227
+  full_name: Steve Gander
+  office_title: State Representative
+  chamber: house
+  district: 1B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/01B.gif?v=112221
+  phone: ""
+  email: rep.steve.gander@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15631
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Gander
+  - https://en.wikipedia.org/wiki/Steve_Gander
+  - https://justfacts.votesmart.org/candidate/218700/steve-gander
+  - https://www.house.mn.gov/members/profile/15631
+  - https://www.linkedin.com/in/steve-gander-b6538811
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-green-steve
+  openstates_id: ocd-person/9d8b9b67-e74b-4e7f-92d5-52e3c0907f1d
+  full_name: Steve Green
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/02Green.jpg
+  phone: ""
+  email: sen.steve.green@mnsenate.gov
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1251
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Green_(Minnesota)
+  - https://en.wikipedia.org/wiki/Steve_Green_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/109054/steve-green
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1251
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-jacob-steve
+  openstates_id: ocd-person/3c90edec-1bce-4197-8e1c-cc840102c7a9
+  full_name: Steve Jacob
+  office_title: State Representative
+  chamber: house
+  district: 20B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/20B.gif?v=112221
+  phone: ""
+  email: rep.steven.jacob@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15603
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steven_Jacob
+  - https://en.wikipedia.org/wiki/Steven_Jacob
+  - https://justfacts.votesmart.org/candidate/biography/207916/steven-jacob
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15603
+  - https://www.linkedin.com/in/steve-jacob-84613260
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-pha-susan
+  openstates_id: ocd-person/bd086574-4116-4b0a-ad6b-7c0352293f06
+  full_name: Susan Pha
+  office_title: State Senator
+  chamber: senate
+  district: "38"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/38Pha.jpg
+  phone: ""
+  email: sen.susan.pha@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1264
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Susan_Pha
+  - https://en.wikipedia.org/wiki/Susan_Pha
+  - https://justfacts.votesmart.org/candidate/199097/susan-pha
+  - https://www.linkedin.com/in/susan-kaying-pha-0b01588
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1264
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-jordan-sydney
+  openstates_id: ocd-person/e60bb3ff-5164-4d6d-9029-d2e3d2ac69a0
+  full_name: Sydney Jordan
+  office_title: State Representative
+  chamber: house
+  district: 60A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/60A.gif?v=112221
+  phone: ""
+  email: rep.sydney.jordan@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15535
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sydney_Jordan
+  - https://en.wikipedia.org/wiki/Sydney_Jordan_(politician)
+  - https://justfacts.votesmart.org/candidate/188492/sydney-jordan
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15535
+  - https://www.linkedin.com/in/sydney-jordan-78b22371
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-stier-terry
+  openstates_id: ocd-person/9e7eca64-ff97-48f2-8887-916e50d917cd
+  full_name: Terry Stier
+  office_title: State Representative
+  chamber: house
+  district: 22B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/22B.gif?v=112221
+  phone: ""
+  email: rep.terry.stier@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15646
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Terry_Stier
+  - https://en.wikipedia.org/wiki/Terry_Stier
+  - https://justfacts.votesmart.org/candidate/biography/218778/terry-stier
+  - https://www.house.mn.gov/members/profile/15646
+  - https://www.linkedin.com/in/terry-m-stier-b0729457
+  - https://www.lrl.mn.gov/legdb/fulldetail?ID=15646
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-odriscoll-tim
+  openstates_id: ocd-person/015d0cf4-9742-4050-8084-a62be4107f2e
+  full_name: Tim O'Driscoll
+  office_title: State Representative
+  chamber: house
+  district: 13B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/13B.gif?v=112221
+  phone: ""
+  email: rep.tim.odriscoll@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15364
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tim_O%27Driscoll
+  - https://en.wikipedia.org/wiki/Tim_O%27Driscoll
+  - https://justfacts.votesmart.org/candidate/biography/123119/tim-odriscoll
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15364
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-liebling-tina
+  openstates_id: ocd-person/ed6e8851-f7a8-41af-b2b6-570bd2004587
+  full_name: Tina Liebling
+  office_title: State Representative
+  chamber: house
+  district: 24B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/24B.gif?v=112221
+  phone: ""
+  email: rep.tina.liebling@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/12268
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tina_Liebling
+  - https://en.wikipedia.org/wiki/Tina_Liebling
+  - https://justfacts.votesmart.org/candidate/biography/38468/tina-liebling
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/12268
+  - https://www.linkedin.com/in/tina-liebling-786427151
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-dippel-tom
+  openstates_id: ocd-person/05de7bba-70ee-4848-b0ec-d67354b6073a
+  full_name: Tom Dippel
+  office_title: State Representative
+  chamber: house
+  district: 41B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/41B.gif?v=112221
+  phone: ""
+  email: rep.tom.dippel@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15628
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Dippel
+  - https://en.wikipedia.org/wiki/Tom_Dippel
+  - https://justfacts.votesmart.org/candidate/biography/207847/tom-dippel
+  - https://www.house.mn.gov/members/profile/15628
+  - https://www.linkedin.com/in/tom-dippel-b649206
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-murphy-tom
+  openstates_id: ocd-person/a798a6be-e28f-447c-b9ce-ffd7bf9a0ed4
+  full_name: Tom Murphy
+  office_title: State Representative
+  chamber: house
+  district: 9B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/09B.gif?v=112221
+  phone: ""
+  email: rep.tom.murphy@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15596
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Murphy_(Minnesota)
+  - https://en.wikipedia.org/wiki/Tom_Murphy_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/207776/tom-murphy
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15596
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-sexton-tom
+  openstates_id: ocd-person/2989633c-a60b-4337-972d-49941a4db1b6
+  full_name: Tom Sexton
+  office_title: State Representative
+  chamber: house
+  district: 19B
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/19B.gif?v=112221
+  phone: ""
+  email: rep.tom.sexton@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15645
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Sexton
+  - https://en.wikipedia.org/wiki/Thomas_Sexton_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/biography/218772/thomas-sexton
+  - https://www.house.mn.gov/members/profile/15645
+  - https://www.linkedin.com/in/tom-sexton-111b5116
+  - https://www.lrl.mn.gov/legdb/fulldetail?ID=15645
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-westrom-torrey
+  openstates_id: ocd-person/1c19414e-994b-46d4-8971-432ed482ca39
+  full_name: Torrey Westrom
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/12Westrom.jpg
+  phone: ""
+  email: sen.torrey.westrom@mnsenate.gov
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1197
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Torrey_Westrom
+  - https://en.wikipedia.org/wiki/Torrey_Westrom
+  - https://justfacts.votesmart.org/candidate/biography/13444/torrey-westrom
+  - https://www.linkedin.com/in/torrey-office-68626281
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1197
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-xiong-tou
+  openstates_id: ocd-person/5d9e1da5-ecf9-45d9-b104-7d1238032aff
+  full_name: Tou Xiong
+  office_title: State Senator
+  chamber: senate
+  district: "44"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/44Xiong.jpg
+  phone: ""
+  email: sen.tou.xiong@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1267
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tou_Xiong
+  - https://en.wikipedia.org/wiki/Tou_Xiong
+  - https://justfacts.votesmart.org/candidate/biography/173949/tou-xiong
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.linkedin.com/in/tou-xiong-159b0475
+  - https://www.linkedin.com/in/tou-xiong-b03b731a7
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1267
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-hudson-walter
+  openstates_id: ocd-person/0b721953-c642-4b33-b203-5eb3f3da210b
+  full_name: Walter Hudson
+  office_title: State Representative
+  chamber: house
+  district: 30A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/30A.gif?v=112221
+  phone: ""
+  email: rep.walter.hudson@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15607
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Walter_Hudson
+  - https://en.wikipedia.org/wiki/Walter_Hudson_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/biography/208022/walter-hudson
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15607
+  - https://www.linkedin.com/in/walterhudson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-limmer-warren
+  openstates_id: ocd-person/dc676c57-0779-4d0e-9ba4-a07d7034dfa1
+  full_name: Warren Limmer
+  office_title: State Senator
+  chamber: senate
+  district: "37"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/37Limmer.jpg
+  phone: ""
+  email: sen.warren.limmer@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1032
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Warren_Limmer
+  - https://en.wikipedia.org/wiki/Warren_Limmer
+  - https://justfacts.votesmart.org/candidate/3908/warren-limmer
+  - https://www.linkedin.com/in/warren-limmer-a64b877
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1032
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-johnson-wayne
+  openstates_id: ocd-person/0926949b-8d9e-4fc0-b860-7662f46afdc6
+  full_name: Wayne Johnson
+  office_title: State Representative
+  chamber: house
+  district: 41A
+  party: Republican
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/41A.gif?v=112221
+  phone: ""
+  email: rep.wayne.johnson@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15637
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Wayne_Johnson_(Minnesota)
+  - https://en.wikipedia.org/wiki/Wayne_Johnson_(Minnesota_politician)
+  - https://justfacts.votesmart.org/candidate/biography/187703/wayne-johnson
+  - https://www.house.mn.gov/members/profile/15637
+  - https://www.linkedin.com/in/wayne-johnson-04638810
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-lee-xp
+  openstates_id: ocd-person/622e5358-869c-4d25-b6ed-e5425ca56caa
+  full_name: Xp Lee
+  office_title: State Representative
+  chamber: house
+  district: 34B
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/34B.gif?v=112221
+  phone: ""
+  email: rep.xp.lee@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15652
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Xp_Lee
+  - https://en.wikipedia.org/wiki/Xp_Lee
+  - https://justfacts.votesmart.org/candidate/biography/226798/xp-lee
+  - https://www.house.mn.gov/members/profile/15652
+  - https://www.linkedin.com/in/xiongpaolee
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-duckworth-zach
+  openstates_id: ocd-person/acacede0-a09a-45b9-8990-646dfa5bd59a
+  full_name: Zach Duckworth
+  office_title: State Senator
+  chamber: senate
+  district: "57"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mn/graphics/58DuckworthZach.jpg
+  phone: ""
+  email: sen.zach.duckworth@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1246
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Zach_Duckworth
+  - https://en.wikipedia.org/wiki/Zach_Duckworth
+  - https://justfacts.votesmart.org/candidate/biography/194113/zach-duckworth
+  - https://www.linkedin.com/in/zachduckworth
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/index.php
+  - https://www.senate.mn/members/list.csv
+  - https://www.senate.mn/members/member_bio.html?mem_id=1246
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-hou-stephenson-zack
+  openstates_id: ocd-person/ed5f1cc0-ff12-461e-9016-0ef27f180430
+  full_name: Zack Stephenson
+  office_title: State Representative
+  chamber: house
+  district: 35A
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.house.mn.gov/hinfo/memberimgls94/35A.gif?v=112221
+  phone: ""
+  email: rep.zack.stephenson@house.mn.gov
+  address: ""
+  official_website: https://www.house.mn.gov/members/profile/15507
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Zack_Stephenson
+  - https://en.wikipedia.org/wiki/Zack_Stephenson
+  - https://justfacts.votesmart.org/candidate/biography/183789/zack-stephenson
+  - https://www.house.leg.state.mn.us/members/hmem.asp
+  - https://www.house.mn.gov/members/profile/15507
+  - https://www.linkedin.com/in/zackstephenson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mn-sen-mohamed-zaynab
+  openstates_id: ocd-person/332e30b5-dc8d-4074-9c16-6e2a6255d135
+  full_name: Zaynab Mohamed
+  office_title: State Senator
+  chamber: senate
+  district: "63"
+  party: Democratic-Farmer-Labor
+  status: active
+  photo_url: https://www.senate.mn/graphics/63Mohamed.jpg
+  phone: ""
+  email: sen.zaynab.mohamed@senate.mn
+  address: ""
+  official_website: https://www.senate.mn/members/member_bio.html?mem_id=1273
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Zaynab_Mohamed
+  - https://en.wikipedia.org/wiki/Zaynab_Mohamed
+  - https://justfacts.votesmart.org/candidate/207883/zaynab-mohamed
+  - https://www.linkedin.com/in/zaynab-mohamed-161323157
+  - https://www.senate.mn/api/members
+  - https://www.senate.mn/members/member_bio.html?mem_id=1273
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

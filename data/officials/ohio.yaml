@@ -1,4 +1,3196 @@
 ﻿state: ohio
 state_abbrev: OH
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: oh-hou-bird-adam
+  openstates_id: ocd-person/0c6a7bcf-e990-41a0-b59c-923f05771880
+  full_name: Adam Bird
+  office_title: State Representative
+  chamber: house
+  district: "63"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/adam-c-bird/headshots/thumbnails/medium/adam-c-bird-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep63@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/adam-c-bird
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Adam_Bird
+  - https://en.wikipedia.org/wiki/Adam_Bird
+  - https://justfacts.votesmart.org/candidate/biography/189482/adam-bird
+  - https://ohiohouse.gov/members/adam-c-bird
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-holmes-adam
+  openstates_id: ocd-person/78912d95-3dac-4487-810a-74be41508ebb
+  full_name: Adam Holmes
+  office_title: State Representative
+  chamber: house
+  district: "97"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/adam-holmes/headshots/thumbnails/medium/adam-holmes-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep97@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/adam-holmes
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Adam_Holmes
+  - https://en.wikipedia.org/wiki/Adam_Holmes
+  - https://justfacts.votesmart.org/candidate/biography/186245/adam-holmes
+  - https://ohiohouse.gov/adam-holmes
+  - https://ohiohouse.gov/members/adam-holmes
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/adamholmes2016
+  - https://www.ohiohouse.gov/members/adam-holmes
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-mathews-adam
+  openstates_id: ocd-person/b04e2962-e7c6-46b8-9a99-d7a6d3a32717
+  full_name: Adam Mathews
+  office_title: State Representative
+  chamber: house
+  district: "56"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/adam-mathews/headshots/thumbnails/medium/adam-mathews-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep56@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/adam-mathews
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Adam_Mathews
+  - https://ohiohouse.gov/members/adam-mathews
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/adamfmathews
+  - https://www.ohiohouse.gov/members/adam-mathews
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-cutrona-al
+  openstates_id: ocd-person/6a1fc3b1-ebfd-47b7-adec-ddcd84d137c9
+  full_name: Al Cutrona
+  office_title: State Senator
+  chamber: senate
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/al-cutrona/headshots/thumbnails/medium/al-cutrona-february-2023-headshot_medium.jpg
+  phone: ""
+  email: sd33@ohiosenate.gov
+  address: ""
+  official_website: https://ohiohouse.gov/al-cutrona
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alessandro_Cutrona
+  - https://en.wikipedia.org/wiki/Alessandro_Cutrona
+  - https://ohiohouse.gov/al-cutrona
+  - https://ohiohouse.gov/members/al-cutrona
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.ohiohouse.gov/members/al-cutrona
+  - https://www.ohiosenate.gov/members/al-cutrona
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-landis-al
+  openstates_id: ocd-person/debec71d-fcfb-4422-9c9e-c6a8709cbb3a
+  full_name: Al Landis
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/al-landis/headshots/thumbnails/medium/al-landis-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd31@ohiosenate.gov
+  address: ""
+  official_website: https://ohiosenate.gov/members/al-landis
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Al_Landis
+  - https://en.wikipedia.org/wiki/Al_Landis
+  - https://justfacts.votesmart.org/candidate/biography/120624/al-landis
+  - https://ohiosenate.gov/members/al-landis
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-white-andrea
+  openstates_id: ocd-person/07c054e9-9a51-41b2-994a-8f63b0148d07
+  full_name: Andrea White
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/andrea-white/headshots/thumbnails/medium/andrea-white-march-2023-headshot_medium.jpg
+  phone: ""
+  email: rep36@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/andrea-white
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrea_White
+  - https://justfacts.votesmart.org/candidate/189450/andrea-white
+  - https://ohiohouse.gov/andrea-white
+  - https://ohiohouse.gov/members/andrea-white
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/andrea-white-99104b18a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-brenner-andrew
+  openstates_id: ocd-person/c61c8eaf-1de9-419d-a5dc-c96787315578
+  full_name: Andrew Brenner
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/andrew-o-brenner/headshots/thumbnails/medium/andrew-o-brenner-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd19@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/andrew-o-brenner
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrew_Brenner
+  - https://en.wikipedia.org/wiki/Andrew_Brenner
+  - https://justfacts.votesmart.org/candidate/biography/120481/andrew-brenner
+  - https://ohiosenate.gov/members/andrew-o-brenner
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/andrew-brenner-4471316
+  - https://www.ohiosenate.gov/members/andrew-o-brenner
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-king-angie
+  openstates_id: ocd-person/4ed8184a-01ff-4bdc-a06c-cbf8b4c73fd6
+  full_name: Angie King
+  office_title: State Representative
+  chamber: house
+  district: "84"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/angela-n-king/headshots/thumbnails/medium/angela-n-king-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep84@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/angela-n-king
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Angela_King
+  - https://ohiohouse.gov/members/angela-n-king
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/angie-king-mba-2430523
+  - https://www.ohiohouse.gov/members/angela-n-king
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-somani-anita
+  openstates_id: ocd-person/3bfe0748-5423-4fcf-9962-905d2b747f23
+  full_name: Anita Somani
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/anita-somani/headshots/thumbnails/medium/anita-somani-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep08@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/anita-somani
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Anita_Somani
+  - https://en.wikipedia.org/wiki/Anita_Somani
+  - https://justfacts.votesmart.org/candidate/biography/210315/anita-somani
+  - https://ohiohouse.gov/members/anita-somani
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/anita-somani-5a64942a
+  - https://www.ohiohouse.gov/members/anita-somani
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-bailey-ashley
+  openstates_id: ocd-person/6d39391d-7068-4ad3-866d-4ee59890ce6e
+  full_name: Ashley Bryant Bailey
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: rep26@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/ashley-bryant-bailey
+  twitter: ""
+  source_urls:
+  - https://ashleybryantbailey.com
+  - https://ballotpedia.org/Ashley_Bryant_Bailey
+  - https://ohiohouse.gov/members/ashley-bryant-bailey
+  - https://www.linkedin.com/in/ashleylbryant
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-willis-bernie
+  openstates_id: ocd-person/550986e6-b595-4fa8-9424-8e09327cf060
+  full_name: Bernie Willis
+  office_title: State Representative
+  chamber: house
+  district: "74"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/bernard-willis/headshots/thumbnails/medium/bernard-willis-february-2023-headshot_medium.jpg
+  phone: ""
+  email: rep74@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/bernard-willis
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bernard_Willis
+  - https://justfacts.votesmart.org/candidate/biography/209726/bernard-willis
+  - https://ohiohouse.gov/members/bernard-willis
+  - https://willisforohio.nationbuilder.com/about_bernie
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/bernie-willis-754b04257
+  - https://www.linkedin.com/in/colonel-bernie-bunyan-willis-2a57b538
+  - https://www.ohiohouse.gov/members/bernard-willis
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-piccolantonio-beryl
+  openstates_id: ocd-person/dc1a25bf-ebf6-4d5c-b5c3-32f9fdb8b2ed
+  full_name: Beryl Piccolantonio
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: rep04@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/beryl-piccolantonio
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Beryl_Brown_Piccolantonio
+  - https://ohiohouse.gov/members/beryl-piccolantonio
+  - https://www.linkedin.com/in/berylpiccolantonio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-lear-beth
+  openstates_id: ocd-person/de0a6483-7c16-43e1-a76b-c0cc98a9d7ed
+  full_name: Beth Lear
+  office_title: State Representative
+  chamber: house
+  district: "61"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/beth-lear/headshots/thumbnails/medium/beth-lear-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep61@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/beth-lear
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Beth_Lear
+  - https://ohiohouse.gov/members/beth-lear
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/beth-lear-1010ba19
+  - https://www.ohiohouse.gov/members/beth-lear
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-liston-beth
+  openstates_id: ocd-person/2d01ff0c-25a8-49a2-b571-ab3a7866fcf2
+  full_name: Beth Liston
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/beth-liston/headshots/thumbnails/medium/beth-liston-november-2023-headshot_medium.jpg
+  phone: ""
+  email: sd16@ohiosenate.gov
+  address: ""
+  official_website: https://ohiohouse.gov/beth-liston
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Beth_Liston
+  - https://ohiohouse.gov/beth-liston
+  - https://ohiohouse.gov/members/beth-liston
+  - https://ohiosenate.gov/members/beth-liston
+  - https://ohiosenate.gov/members/beth-liston/biography
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/beth-liston-462811131
+  - https://www.ohiohouse.gov/members/beth-liston
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-reineke-bill
+  openstates_id: ocd-person/10733ff7-ee19-4e86-9b5e-65619ddbf7bf
+  full_name: Bill Reineke
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/bill-reineke/headshots/thumbnails/medium/bill-reineke-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd26@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/bill-reineke
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Reineke
+  - https://en.wikipedia.org/wiki/Bill_Reineke
+  - https://ohiosenate.gov/members/bill-reineke
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.ohiohouse.gov/members/member-directory
+  - https://www.ohiosenate.gov/members/bill-reineke
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-roemer-bill
+  openstates_id: ocd-person/4cece9f3-e252-438b-8255-a2150a4ed599
+  full_name: Bill Roemer
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/bill-roemer/headshots/thumbnails/medium/bill-roemer-january-2019-headshot_medium.jpg
+  phone: ""
+  email: rep31@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/bill-roemer
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Roemer
+  - https://en.wikipedia.org/wiki/Bill_Roemer
+  - https://justfacts.votesmart.org/candidate/biography/134327/bill-roemer
+  - https://ohiohouse.gov/bill-roemer
+  - https://ohiohouse.gov/members/bill-roemer
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/bill-roemer-557a1b1b
+  - https://www.ohiohouse.gov/members/bill-roemer
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-peterson-bob
+  openstates_id: ocd-person/cdc9f705-514e-4445-ac17-9aeac8f67e97
+  full_name: Bob Peterson
+  office_title: State Representative
+  chamber: house
+  district: "91"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/bob-peterson/headshots/thumbnails/medium/bob-peterson-november-2023-headshot_medium.jpg
+  phone: ""
+  email: rep91@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/bob-peterson
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bob_Peterson_(Ohio)
+  - https://en.wikipedia.org/wiki/Bob_Peterson_(Ohio_politician)
+  - https://justfacts.votesmart.org/candidate/biography/95755/bob-peterson
+  - https://ohiohouse.gov/members/bob-peterson
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/bob-peterson-80952b12
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-lampton-brian
+  openstates_id: ocd-person/1895e223-ba42-4e25-8cd0-915ca5cc2829
+  full_name: Brian Lampton
+  office_title: State Representative
+  chamber: house
+  district: "70"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/brian-e-lampton/headshots/thumbnails/medium/brian-e-lampton-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep70@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/brian-e-lampton
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Lampton
+  - https://en.wikipedia.org/wiki/Brian_Lampton
+  - https://justfacts.votesmart.org/candidate/biography/102740/brian-lampton
+  - https://ohiohouse.gov/brian-e-lampton
+  - https://ohiohouse.gov/members/brian-e-lampton
+  - https://ohiohouse.gov/members/brian-lampton
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/brian-lampton-a6555614
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-lorenz-brian
+  openstates_id: ocd-person/a3ccce64-ea28-47dc-8bab-3af6ed2dd860
+  full_name: Brian Lorenz
+  office_title: State Representative
+  chamber: house
+  district: "60"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/brian-lorenz/headshots/thumbnails/medium/brian-lorenz-november-2023-headshot_medium.jpg
+  phone: ""
+  email: rep60@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/brian-lorenz
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Lorenz
+  - https://brianlorenzohio.com
+  - https://ohiohouse.gov/members/brian-lorenz
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/brianlorenz79
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-chavez-brian
+  openstates_id: ocd-person/eb5ff860-2126-4ac5-8267-9d2d924c3967
+  full_name: Brian Chavez
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/brian-m-chavez/headshots/thumbnails/medium/brian-m-chavez-december-2023-headshot-10001385_medium.jpg
+  phone: ""
+  email: sd30@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/brian-m-chavez
+  twitter: ""
+  source_urls:
+  - https://ohiosenate.gov/members/brian-m-chavez
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/brian-chavez-263012232
+  - https://www.ohiosenate.gov/members/brian-m-chavez
+  - https://www.ohiosenate.gov/members/brian-m-chavez/biography
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-stewart-brian
+  openstates_id: ocd-person/f4e6c51a-89bd-4841-848b-b1097fd3fc9d
+  full_name: Brian Stewart
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/brian-stewart/headshots/thumbnails/medium/brian-stewart-november-2023-headshot_medium.jpg
+  phone: ""
+  email: rep12@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/brian-stewart
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Stewart_(Ohio)
+  - https://ohiohouse.gov/brian-stewart
+  - https://ohiohouse.gov/members/brian-stewart
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/brianstewartohio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-sweeney-bride
+  openstates_id: ocd-person/2481dfc7-d260-49c6-9461-9e6048ed27a2
+  full_name: Bride Sweeney
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/bride-rose-sweeney/headshots/thumbnails/medium/bride-rose-sweeney-january-2019-headshot_medium.jpg
+  phone: ""
+  email: rep16@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/bride-rose-sweeney
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bride_Rose_Sweeney
+  - https://justfacts.votesmart.org/candidate/biography/179029/bride-sweeney
+  - https://ohiohouse.gov/bride-rose-sweeney
+  - https://ohiohouse.gov/members/bride-rose-sweeney
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.ohiohouse.gov/members/bride-rose-sweeney
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-russo-allison
+  openstates_id: ocd-person/c58b6767-730d-4486-a08e-462ea3af3bfe
+  full_name: Allison Russo
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/c-allison-russo/headshots/thumbnails/medium/c-allison-russo-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep07@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/c-allison-russo
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Allison_Russo
+  - https://ohiohouse.gov/c-allison-russo
+  - https://ohiohouse.gov/members/c-allison-russo
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/allison-russo-2244765
+  - https://www.ohiohouse.gov/members/c-allison-russo
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-weinstein-casey
+  openstates_id: ocd-person/d7949531-f267-4e99-9611-87b3ec3e04ac
+  full_name: Casey Weinstein
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/casey-weinstein/headshots/thumbnails/medium/casey-weinstein-january-2023-headshot_medium.jpg
+  phone: ""
+  email: sd28@ohiosenate.gov
+  address: ""
+  official_website: https://ohiohouse.gov/casey-weinstein
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Casey_Weinstein
+  - https://en.wikipedia.org/wiki/Casey_Weinstein
+  - https://justfacts.votesmart.org/candidate/biography/175731/casey-weinstein
+  - https://ohiohouse.gov/casey-weinstein
+  - https://ohiohouse.gov/members/casey-weinstein
+  - https://ohiosenate.gov/members/casey-weinstein
+  - https://ohiosenate.gov/members/casey-weinstein/biography
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/casey-weinstein-b383754
+  - https://www.ohiohouse.gov/members/casey-weinstein
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-ingram-catherine
+  openstates_id: ocd-person/94ba65dd-57c5-4ab0-b607-5e310d50cae0
+  full_name: Catherine Ingram
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/catherine-d-ingram/headshots/thumbnails/medium/catherine-d-ingram-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd09@ohiosenate.gov
+  address: ""
+  official_website: https://ohiohouse.gov/catherine-d-ingram
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Catherine_Ingram
+  - https://en.wikipedia.org/wiki/Catherine_Ingram
+  - https://ohiohouse.gov/catherine-d-ingram
+  - https://ohiosenate.gov/members/catherine-d-ingram
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/catherine-ingram-mba-558b9253
+  - https://www.ohiohouse.gov/members/member-directory
+  - https://www.ohiosenate.gov/members/catherine-d-ingram
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-thomas-cecil
+  openstates_id: ocd-person/5ba7ae7d-2f10-42b7-8784-8e734507ce33
+  full_name: Cecil Thomas
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/cecil-thomas/headshots/thumbnails/medium/cecil-thomas-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep25@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/cecil-thomas
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cecil_Thomas
+  - https://en.wikipedia.org/wiki/Cecil_Thomas_(politician)
+  - https://ohiohouse.gov/members/cecil-thomas
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/cecil-thomas-37933a9b
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-glassburn-chris
+  openstates_id: ocd-person/80daf159-0742-4a3f-9575-e6492155c911
+  full_name: Chris Glassburn
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: https://img1.wsimg.com/isteam/ip/fdba7286-8a27-4b98-a8ec-557eff11bd3a/IMG_3635.jpg/:/cr=t:5.66%25,l:0%25,w:94.34%25,h:94.34%25/rs=w:365,h:487,cg:true,m
+  phone: ""
+  email: rep15@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/chris-glassburn
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Glassburn
+  - https://ohiohouse.gov/members/chris-glassburn
+  - https://ohiohouse.gov/members/chris-glassburn/biography
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-cockley-christine
+  openstates_id: ocd-person/b76c6e1e-8b9d-42bf-b615-73270b132773
+  full_name: Christine Cockley
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ChristineCockley2024.jpg
+  phone: ""
+  email: rep06@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/christine-cockley
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Christine_Cockley
+  - https://ohiohouse.gov/members/christine-cockley
+  - https://ohiohouse.gov/members/christine-cockley/biography
+  - https://www.linkedin.com/in/christinecockley
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-abrams-cindy
+  openstates_id: ocd-person/9ae0194c-0f5b-44c6-b84f-a0ec4d3f3a61
+  full_name: Cindy Abrams
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/cindy-abrams/headshots/thumbnails/medium/cindy-abrams-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep29@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/cindy-abrams
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cindy_Abrams
+  - https://en.wikipedia.org/wiki/Cindy_Abrams
+  - https://justfacts.votesmart.org/candidate/biography/187372/cindy-abrams
+  - https://ohiohouse.gov/cindy-abrams
+  - https://ohiohouse.gov/members/cindy-abrams
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/cindy-abrams-661707a4
+  - https://www.ohiohouse.gov/members/cindy-abrams
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-lett-crystal
+  openstates_id: ocd-person/aede29b6-7798-45b7-8401-5004cf1c29f9
+  full_name: Crystal Lett
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://i0.wp.com/lettsgoohio.com/wp-content/uploads/2024/07/Meet-Crystal.webp?resize=674%2C1024&ssl=1
+  phone: ""
+  email: rep11@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/crystal-lett
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Crystal_Lett
+  - https://justfacts.votesmart.org/candidate/biography/189384/crystal-lett
+  - https://ohiohouse.gov/members/crystal-lett
+  - https://ohiohouse.gov/members/crystal-lett/biography
+  - https://www.linkedin.com/in/crystal-lett-93846410
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-swearingen-dj
+  openstates_id: ocd-person/cb2ddd04-e5b0-4c96-b217-d02b732eb896
+  full_name: D.J. Swearingen
+  office_title: State Representative
+  chamber: house
+  district: "89"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/d-j-swearingen/headshots/thumbnails/medium/d-j-swearingen-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep89@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/d-j-swearingen
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/D.J._Swearingen
+  - https://en.wikipedia.org/wiki/Douglas_Swearingen,_Jr.
+  - https://ohiohouse.gov/d-j-swearingen
+  - https://ohiohouse.gov/members/d-j-swearingen
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/d-j-swearingen-5059bb25
+  - https://www.ohiohouse.gov/members/d-j-swearingen
+  - https://www.ohiohouse.gov/members/member-directory
+  - https://www.wickenslaw.com/team-member/douglas-swearingen-esq
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-isaacsohn-dani
+  openstates_id: ocd-person/1cc15373-6101-48fb-9597-d731c115eb70
+  full_name: Dani Isaacsohn
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/dani-isaacsohn/headshots/thumbnails/medium/dani-isaacsohn-april-2023-headshot_medium.jpg
+  phone: ""
+  email: rep24@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/dani-isaacsohn
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dani_Isaacsohn
+  - https://en.wikipedia.org/wiki/Dani_Isaacsohn
+  - https://ohiohouse.gov/members/dani-isaacsohn
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/dani-isaacsohn-22b351135
+  - https://www.ohiohouse.gov/members/dani-isaacsohn
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-troy-dan
+  openstates_id: ocd-person/04d4dc4f-a38a-4d50-8962-ea961550b2ff
+  full_name: Dan Troy
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/daniel-p-troy/headshots/thumbnails/medium/daniel-p-troy-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep23@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/daniel-p-troy
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dan_Troy
+  - https://en.wikipedia.org/wiki/Dan_Troy
+  - https://justfacts.votesmart.org/candidate/biography/8405/daniel-troy
+  - https://ohiohouse.gov/daniel-p-troy
+  - https://ohiohouse.gov/members/daniel-p-troy
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/﻿troy﻿﻿-dan﻿﻿iel-25044a13
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-brewer-darnell
+  openstates_id: ocd-person/a75181f0-f0e8-4af3-aefd-6cc08543af1a
+  full_name: Darnell Brewer
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/darnell-t-brewer/headshots/thumbnails/medium/darnell-t-brewer-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep22@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/darnell-t-brewer
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Darnell_Brewer
+  - https://ohiohouse.gov/members/darnell-t-brewer
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/darnell-brewer-73a9866
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-thomas-david
+  openstates_id: ocd-person/170299dd-f2e4-463e-8b8b-ea3b75946120
+  full_name: David Thomas
+  office_title: State Representative
+  chamber: house
+  district: "65"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/DavidThomas2024.jpg
+  phone: ""
+  email: rep65@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/david-thomas
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Thomas_(Ohio)
+  - https://ohiohouse.gov/members/david-thomas
+  - https://ohiohouse.gov/members/david-thomas/biography
+  - https://www.linkedin.com/in/david-thomas-9a605a56
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-hall-derrick
+  openstates_id: ocd-person/826530cc-f105-42c8-96db-e5ff7d1a966d
+  full_name: Derrick Hall
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Democratic
+  status: active
+  photo_url: https://derrickhallforohio.com/wp-content/uploads/2024/01/derrick-hall.jpg
+  phone: ""
+  email: rep34@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/derrick-hall
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Derrick_Hall
+  - https://ohiohouse.gov/members/derrick-hall
+  - https://ohiohouse.gov/members/derrick-hall/biography
+  - https://www.linkedin.com/in/thederrickhall
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-tims-desire
+  openstates_id: ocd-person/86352961-5ebc-408a-9f16-8d801c7476dc
+  full_name: Desireè Tims
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Democratic
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/651c6aab7b083a0ae328c9b0/bdc196f5-d426-4103-bd2c-a29517a8e9cf/headshot+state+rep.JPG?format=500w
+  phone: ""
+  email: rep38@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/desiree-tims
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Desiree_Tims
+  - https://ohiohouse.gov/members/desiree-tims
+  - https://ohiohouse.gov/members/desiree-tims/biography
+  - https://www.desireetims.com
+  - https://www.linkedin.com/in/desiree-t-47880b201
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-mullins-diane
+  openstates_id: ocd-person/deed175e-5c44-48f0-b2c0-baa342b2baf1
+  full_name: Diane Mullins
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Republican
+  status: active
+  photo_url: https://assets.civicengine.com/uploads/candidate/headshot/401180/401180.jpg
+  phone: ""
+  email: rep47@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/diane-mullins
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Diane_Mullins
+  - https://ohiohouse.gov/members/diane-mullins
+  - https://ohiohouse.gov/members/diane-mullins/biography
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-jarrells-dontavius
+  openstates_id: ocd-person/74c1210d-fb56-4522-8d3a-0a2bb08c972b
+  full_name: Dontavius Jarrells
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/dontavius-l-jarrells/headshots/thumbnails/medium/dontavius-l-jarrells-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep01@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/dontavius-l-jarrells
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dontavius_Jarrells
+  - https://en.wikipedia.org/wiki/Dontavius_Jarrells
+  - https://justfacts.votesmart.org/candidate/166992/dontavius-jarrells
+  - https://ohiohouse.gov/dontavius-l-jarrells
+  - https://ohiohouse.gov/members/dontavius-l-jarrells
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/iamDontavius
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-rogers-elgin
+  openstates_id: ocd-person/bfe003c4-6a28-46d6-b831-07bfe8662926
+  full_name: Elgin Rogers
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/elgin-rogers-jr/headshots/thumbnails/medium/elgin-rogers-jr-november-2022-headshot_medium.jpg
+  phone: ""
+  email: rep42@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/elgin-rogers-jr
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elgin_Rogers_Jr.
+  - https://ohiohouse.gov/members/elgin-rogers-jr
+  - https://ohiohouse.gov/members/elgin-rogers-jr/biography
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-synenberg-eric
+  openstates_id: ocd-person/1ebfe182-1b49-4e69-b7f3-2fd528c70d73
+  full_name: Eric Synenberg
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://synenberg.com/wp-content/uploads/2018/07/synenberg-eric-e1532726812589.jpg
+  phone: ""
+  email: rep21@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/eric-synenberg
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Eric_Synenberg
+  - https://ohiohouse.gov/members/eric-synenberg
+  - https://ohiohouse.gov/members/eric-synenberg/biography
+  - https://synenberg.com/people/eric-synenberg
+  - https://www.linkedin.com/in/eric-synenberg-93a81ba1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-white-erika
+  openstates_id: ocd-person/ab851536-a9e6-45d7-b2fe-fad70f5acf07
+  full_name: Erika White
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Democratic
+  status: active
+  photo_url: https://i0.wp.com/erikaforohio.org/wp-content/uploads/2024/06/Erika_2024_enhanced.png?fit=600%2C742&ssl=1
+  phone: ""
+  email: rep41@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/erika-white
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Erika_White
+  - https://ohiohouse.gov/members/erika-white
+  - https://ohiohouse.gov/members/erika-white/biography
+  - https://www.linkedin.com/in/erika-d-white-31840024
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-click-gary
+  openstates_id: ocd-person/04e3c98a-4ede-4501-b914-4fa13fbad194
+  full_name: Gary Click
+  office_title: State Representative
+  chamber: house
+  district: "88"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/gary-click/headshots/thumbnails/medium/gary-click-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep88@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/gary-click
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gary_Click
+  - https://justfacts.votesmart.org/candidate/biography/189500/gary-click
+  - https://ohiohouse.gov/gary-click
+  - https://ohiohouse.gov/members/gary-click
+  - https://ohiohouse.gov/members/gary-click/biography
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/gary-click-b19388148
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-manning-gayle
+  openstates_id: ocd-person/b29aadca-f2da-4f09-8a1d-7aa328768507
+  full_name: Gayle Manning
+  office_title: State Representative
+  chamber: house
+  district: "52"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/gayle-manning/headshots/thumbnails/medium/gayle-manning-january-2019-headshot_medium.jpg
+  phone: ""
+  email: rep52@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/gayle-manning
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gayle_L._Manning
+  - https://en.wikipedia.org/wiki/Gayle_Manning
+  - https://ohiohouse.gov/gayle-manning
+  - https://ohiohouse.gov/members/gayle-manning
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/gayle-manning80-42669a43
+  - https://www.ohiohouse.gov/members/gayle-manning
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-lang-george
+  openstates_id: ocd-person/445d3fc7-d9a5-48d8-8869-f023aa274ae7
+  full_name: George Lang
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/george-f-lang/headshots/thumbnails/medium/george-f-lang-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd04@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/george-f-lang
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/George_Lang
+  - https://en.wikipedia.org/wiki/George_Lang_(Ohio_politician)
+  - https://ohiosenate.gov/members/george-f-lang
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.ohiohouse.gov/members/member-directory
+  - https://www.ohiosenate.gov/members/george-f-lang
+  - https://www.ohiosenate.gov/members/george-f-lang/biography
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-ghanbari-haraz
+  openstates_id: ocd-person/82dd3548-078a-41a8-8c5b-6c652d88d0d2
+  full_name: Haraz Ghanbari
+  office_title: State Representative
+  chamber: house
+  district: "75"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/haraz-n-ghanbari/headshots/thumbnails/medium/haraz-n-ghanbari-november-2023-headshot_medium.jpg
+  phone: ""
+  email: rep75@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/haraz-n-ghanbari
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Haraz_Ghanbari
+  - https://en.wikipedia.org/wiki/Haraz_Ghanbari
+  - https://justfacts.votesmart.org/candidate/biography/186374/haraz-ghanbari
+  - https://ohiohouse.gov/haraz-n-ghanbari
+  - https://ohiohouse.gov/members/haraz-n-ghanbari
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/haraznghanbari
+  - https://www.ohiohouse.gov/members/haraz-n-ghanbari
+  - https://www.ohiohouse.gov/members/haraz-n-ghanbari/biography
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-craig-hearcel
+  openstates_id: ocd-person/ed858ef9-97dc-4be8-97ab-006ea96923ae
+  full_name: Hearcel Craig
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/hearcel-f-craig/headshots/thumbnails/medium/hearcel-f-craig-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd15@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/hearcel-f-craig
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Hearcel_Craig
+  - https://en.wikipedia.org/wiki/Hearcel_Craig
+  - https://justfacts.votesmart.org/candidate/biography/75244/hearcel-craig
+  - https://ohiosenate.gov/members/hearcel-f-craig
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.ohiosenate.gov/members/hearcel-f-craig
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-workman-heidi
+  openstates_id: ocd-person/098614cd-1972-4b98-ade6-4f5fa7cefe5b
+  full_name: Heidi Workman
+  office_title: State Representative
+  chamber: house
+  district: "72"
+  party: Republican
+  status: active
+  photo_url: https://www.record-courier.com/gcdn/authoring/authoring-images/2024/03/05/NREC/72855871007-heidi-workman.jpg?width=412&height=872&fit=crop&format=pjpg&auto=webp
+  phone: ""
+  email: rep72@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/heidi-workman
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Heidi_Workman
+  - https://ohiohouse.gov/members/heidi-workman
+  - https://ohiohouse.gov/members/heidi-workman/biography
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-mohamed-ismail
+  openstates_id: ocd-person/ed31c4e5-e835-4c4c-9352-217f5dcf1037
+  full_name: Ismail Mohamed
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/ismail-mohamed/headshots/thumbnails/medium/ismail-mohamed-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep03@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/ismail-mohamed
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ismail_Mohamed
+  - https://justfacts.votesmart.org/candidate/biography/179050/ismail-mohamed
+  - https://ohiohouse.gov/members/ismail-mohamed
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/ismail-mohamed-39a82681
+  - https://www.ohiohouse.gov/members/ismail-mohamed
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-daniels-jack
+  openstates_id: ocd-person/9c459852-5ff7-4607-a09a-6ee2480dece1
+  full_name: Jack Daniels
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JackKDaniels24.png
+  phone: ""
+  email: rep32@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/jack-k-daniels
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jack_K._Daniels_(Ohio)
+  - https://www.linkedin.com/in/jack-daniels-539b48285
+  - https://www.ohiohouse.gov/members/jack-k-daniels
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-hoops-jim
+  openstates_id: ocd-person/1a598246-01e8-44c8-beca-2c41e1bafb77
+  full_name: Jim Hoops
+  office_title: State Representative
+  chamber: house
+  district: "81"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/james-m-hoops/headshots/thumbnails/medium/james-m-hoops-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep81@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/james-m-hoops
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_Hoops
+  - https://en.wikipedia.org/wiki/Jim_Hoops
+  - https://justfacts.votesmart.org/candidate/biography/23423/jim-hoops
+  - https://ohiohouse.gov/james-m-hoops
+  - https://ohiohouse.gov/members/james-m-hoops
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-callender-jamie
+  openstates_id: ocd-person/4b7cbc16-7a67-4a61-8fd5-77a857270774
+  full_name: Jamie Callender
+  office_title: State Representative
+  chamber: house
+  district: "57"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/jamie-callender/headshots/thumbnails/medium/jamie-callender-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep57@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/jamie-callender
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jamie_Callender
+  - https://en.wikipedia.org/wiki/Jamie_Callender
+  - https://justfacts.votesmart.org/candidate/biography/10051/james-callender
+  - https://ohiohouse.gov/jamie-callender
+  - https://ohiohouse.gov/members/jamie-callender
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/jamie-callender-6919b91a
+  - https://www.ohiohouse.gov/members/jamie-callender
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-timken-jane
+  openstates_id: ocd-person/c3b1dc5e-4913-4e2f-b2a8-4db5b3faa1bd
+  full_name: Jane Timken
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: sd29@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/jane-m-timken
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jane_Timken
+  - https://en.wikipedia.org/wiki/Jane_Timken
+  - https://www.linkedin.com/in/jane-timken-0391737
+  - https://www.ohiosenate.gov/members/jane-m-timken
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-stephens-jason
+  openstates_id: ocd-person/fbd5ca34-d2ed-41d0-a0f8-03ee8eca8a4d
+  full_name: Jason Stephens
+  office_title: State Representative
+  chamber: house
+  district: "93"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/jason-stephens/headshots/thumbnails/medium/jason-stephens-november-2023-headshot_medium.jpg
+  phone: ""
+  email: rep93@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/jason-stephens
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jason_Stephens_(Ohio)
+  - https://ohiohouse.gov/jason-stephens
+  - https://ohiohouse.gov/members/jason-stephens
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/jason-stephens-6828784a
+  - https://www.ohiohouse.gov/members/jason-stephens
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-schmidt-jean
+  openstates_id: ocd-person/392629a2-7bb2-47df-8128-d4cd7d858324
+  full_name: Jean Schmidt
+  office_title: State Representative
+  chamber: house
+  district: "62"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: rep62@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/jean-schmidt
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jean_Schmidt_(Ohio)
+  - https://en.wikipedia.org/wiki/Jean_Schmidt
+  - https://ohiohouse.gov/jean-schmidt
+  - https://ohiohouse.gov/members/jean-schmidt
+  - https://www.govtrack.us/congress/members/jean_schmidt/412010
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-lare-jeff
+  openstates_id: ocd-person/60fdc824-a8ab-44fa-80ca-053d8698218e
+  full_name: Jeff LaRe
+  office_title: State Representative
+  chamber: house
+  district: "73"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/jeff-lare/headshots/thumbnails/medium/jeff-lare-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep73@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/jeff-lare
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_LaRe
+  - https://en.wikipedia.org/wiki/Jeffrey_LaRe
+  - https://ohiohouse.gov/jeff-lare
+  - https://ohiohouse.gov/members/jeff-lare
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/jeff-lare-b90729103
+  - https://www.ohiohouse.gov/members/jeff-lare
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-gross-jennifer
+  openstates_id: ocd-person/4817cf28-df1f-4ccc-bc09-25809222e530
+  full_name: Jennifer Gross
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/jennifer-gross/headshots/thumbnails/medium/jennifer-gross-july-2023-headshot_medium.jpg
+  phone: ""
+  email: rep45@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/jennifer-gross
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jennifer_Gross
+  - https://justfacts.votesmart.org/candidate/biography/189460/jennifer-gross
+  - https://ohiohouse.gov/jennifer-gross
+  - https://ohiohouse.gov/members/jennifer-gross
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/jengross
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-cirino-jerry
+  openstates_id: ocd-person/b27fdceb-e9c1-46b8-9fc2-323c3f6f784c
+  full_name: Jerry Cirino
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/jerry-c-cirino/headshots/thumbnails/medium/jerry-c-cirino-march-2023-headshot_medium.jpg
+  phone: ""
+  email: sd18@ohiosenate.gov
+  address: ""
+  official_website: https://ohiosenate.gov/members/jerry-c-cirino
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jerry_Cirino
+  - https://en.wikipedia.org/wiki/Jerry_Cirino
+  - https://justfacts.votesmart.org/candidate/biography/189392/jerry-cirino
+  - https://ohiosenate.gov/members/jerry-c-cirino
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/jerry-cirino-348b5815
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-thomas-jim
+  openstates_id: ocd-person/ba95511f-3692-426c-bf85-c41ff737eeec
+  full_name: Jim Thomas
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/jim-thomas/headshots/thumbnails/medium/jim-thomas-november-2023-headshot_medium.jpg
+  phone: ""
+  email: rep49@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/jim-thomas
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jim_Thomas
+  - https://justfacts.votesmart.org/candidate/biography/209777/jim-thomas
+  - https://ohiohouse.gov/members/jim-thomas
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.ohiohouse.gov/members/jim-thomas
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-salvo-jodi
+  openstates_id: ocd-person/f1715f7b-6a29-4dd2-a34f-b94c87088890
+  full_name: Jodi Salvo
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JodiSalvo.jpg
+  phone: ""
+  email: rep51@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/jodi-salvo
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jodi_Salvo
+  - https://justfacts.votesmart.org/candidate/biography/214050/jodi-salvo
+  - https://ohiohouse.gov/members/jodi-salvo
+  - https://ohiohouse.gov/members/jodi-salvo/biography
+  - https://www.linkedin.com/in/jodi-salvo-a83ba7217
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-newman-johnathan
+  openstates_id: ocd-person/9d7cc971-9ed9-4918-b93f-39d41d35e565
+  full_name: Johnathan Newman
+  office_title: State Representative
+  chamber: house
+  district: "80"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JohnathanNewman2024.jpeg
+  phone: ""
+  email: rep80@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/johnathan-newman
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Johnathan_Newman
+  - https://justfacts.votesmart.org/candidate/biography/214038/johnathan-newman
+  - https://ohiohouse.gov/members/johnathan-newman
+  - https://ohiohouse.gov/members/johnathan-newman/biography
+  - https://www.linkedin.com/in/johnathan-newman-848993290
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-miller-joe
+  openstates_id: ocd-person/9b5a9ff9-b35a-49aa-aa64-5d2bab574843
+  full_name: Joe Miller
+  office_title: State Representative
+  chamber: house
+  district: "53"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/joseph-a-miller-iii/headshots/thumbnails/medium/joseph-a-miller-iii-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep53@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/joseph-a-miller-iii
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_Miller_(Ohio_House_District_53)
+  - https://ballotpedia.org/Joe_Miller_(Ohio_House_District_56)
+  - https://en.wikipedia.org/wiki/Joe_Miller_(Ohio_politician)
+  - https://ohiohouse.gov/joseph-a-miller-iii
+  - https://ohiohouse.gov/members/joseph-a-miller-iii
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/joe-miller-b7970618
+  - https://www.ohiohouse.gov/members/joseph-a-miller-iii
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-williams-josh
+  openstates_id: ocd-person/1e52d1da-3e5c-442e-a460-d63b62709edf
+  full_name: Josh Williams
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/josh-williams/headshots/thumbnails/medium/josh-williams-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep44@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/josh-williams
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Josh_Williams
+  - https://ohiohouse.gov/members/josh-williams
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/joshua-williams-712038122
+  - https://www.ohiohouse.gov/members/josh-williams
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-brent-juanita
+  openstates_id: ocd-person/ede2c8b0-9c35-4ebf-9a4a-4349fe4cc224
+  full_name: Juanita Brent
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/juanita-o-brent/headshots/thumbnails/medium/juanita-o-brent-january-2019-headshot_medium.jpg
+  phone: ""
+  email: rep18@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/juanita-o-brent
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Juanita_Brent
+  - https://en.wikipedia.org/wiki/Juanita_Brent
+  - https://justfacts.votesmart.org/candidate/biography/179026/juanita-brent
+  - https://ohiohouse.gov/juanita-o-brent
+  - https://ohiohouse.gov/members/juanita-o-brent
+  - https://ohiohouse.gov/members/juanita-o-brent/biography
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.ohiohouse.gov/members/juanita-o-brent
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-pizzulli-justin
+  openstates_id: ocd-person/9892fcd7-9432-425f-85a6-7599fbe3177d
+  full_name: Justin Pizzulli
+  office_title: State Representative
+  chamber: house
+  district: "90"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/justin-pizzulli/headshots/thumbnails/medium/justin-pizzulli-july-2023-headshot_medium.jpg
+  phone: ""
+  email: rep90@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/justin-pizzulli
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Justin_Pizzulli
+  - https://ohiohouse.gov/members/justin-pizzulli
+  - https://ohiohouse.gov/members/justin-pizzulli/biography
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/justin-pizzulli-031540279
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-brownlee-karen
+  openstates_id: ocd-person/a13af74a-5ade-4769-8a76-db942fe71002
+  full_name: Karen Brownlee
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Democratic
+  status: active
+  photo_url: https://www.gongwer-oh.com/public/KarenBrownlee_Cropped.png
+  phone: ""
+  email: rep28@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/karen-brownlee
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Karen_Brownlee
+  - https://ohiohouse.gov/members/karen-brownlee
+  - https://ohiohouse.gov/members/karen-brownlee/biography
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-deeter-kellie
+  openstates_id: ocd-person/97821235-4116-44d1-b58b-acf822bbdc58
+  full_name: Kellie Deeter
+  office_title: State Representative
+  chamber: house
+  district: "54"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kellie_Deeter_20240829_073240.jpg
+  phone: ""
+  email: rep54@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/kellie-deeter
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kellie_Deeter
+  - https://ohiohouse.gov/members/kellie-deeter
+  - https://ohiohouse.gov/members/kellie-deeter/biography
+  - https://www.linkedin.com/in/dr-kellie-deeter-crna-cnp-a4203623
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-smith-kent
+  openstates_id: ocd-person/d9c3dfce-8b7f-402f-9dec-5179e38b528f
+  full_name: Kent Smith
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/kent-smith/headshots/thumbnails/medium/kent-smith-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd21@ohiosenate.gov
+  address: ""
+  official_website: https://ohiohouse.gov/kent-smith
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kent_Smith
+  - https://en.wikipedia.org/wiki/Kent_Smith_(politician)
+  - https://ohiohouse.gov/kent-smith
+  - https://ohiosenate.gov/members/kent-smith
+  - https://www.kentsmith.org/about
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/kentksmith
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-miller-kevin
+  openstates_id: ocd-person/cefb7a31-f46c-4145-9f38-901be3b70e60
+  full_name: Kevin Miller
+  office_title: State Representative
+  chamber: house
+  district: "69"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/kevin-d-miller/headshots/thumbnails/medium/kevin-d-miller-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep69@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/kevin-d-miller
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kevin_Miller_(Ohio)
+  - https://en.wikipedia.org/wiki/Kevin_D._Miller
+  - https://ohiohouse.gov/kevin-d-miller
+  - https://ohiohouse.gov/members/kevin-d-miller
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-ritter-kevin
+  openstates_id: ocd-person/94df9e98-c52e-466a-ba6b-29cc21ee02ea
+  full_name: Kevin Ritter
+  office_title: State Representative
+  chamber: house
+  district: "94"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kevin_KevinRitter_20240808_092548.jpg
+  phone: ""
+  email: rep94@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/kevin-ritter
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kevin_Ritter
+  - https://ohiohouse.gov/members/kevin-ritter
+  - https://ohiohouse.gov/members/kevin-ritter/biography
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-roegner-kristina
+  openstates_id: ocd-person/936e5d50-e145-494b-a397-f56570530816
+  full_name: Kristina Roegner
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/kristina-d-roegner/headshots/thumbnails/medium/kristina-d-roegner-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd27@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/kristina-d-roegner
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kristina_Daley_Roegner
+  - https://en.wikipedia.org/wiki/Kristina_Roegner
+  - https://ohiosenate.gov/members/kristina-d-roegner
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/kristina-roegner-728b7617
+  - https://www.ohiosenate.gov/members/kristina-d-roegner
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-koehler-kyle
+  openstates_id: ocd-person/9578948b-5af3-46fd-9567-8438c67fa148
+  full_name: Kyle Koehler
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: http://www.ohiohouse.gov/Assets/Headshots/Small/79.jpg
+  phone: ""
+  email: sd10@ohiosenate.gov
+  address: ""
+  official_website: https://ohiosenate.gov/members/kyle-koehler
+  twitter: ""
+  source_urls:
+  - http://ohiohouse.gov/j-kyle-koehler
+  - https://ballotpedia.org/Kyle_Koehler
+  - https://en.wikipedia.org/wiki/Kyle_Koehler
+  - https://ohiosenate.gov/members/kyle-koehler
+  - https://ohiosenate.gov/members/kyle-koehler/biography
+  - https://www.linkedin.com/in/kylekoehler
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-humphrey-latyna
+  openstates_id: ocd-person/b2c76bf8-569f-4e80-bd3d-fa8273a8356c
+  full_name: Latyna Humphrey
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/latyna-m-humphrey/headshots/thumbnails/medium/latyna-m-humphrey-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep02@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/latyna-m-humphrey
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Latyna_Humphrey
+  - https://ohiohouse.gov/latyna-m-humphrey
+  - https://ohiohouse.gov/members/latyna-m-humphrey
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/latyna-m-humphrey-a25a47b4
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-mcnally-lauren
+  openstates_id: ocd-person/19cbe255-2cdb-47c4-b70a-693b6bf6665b
+  full_name: Lauren McNally
+  office_title: State Representative
+  chamber: house
+  district: "58"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/lauren-mcnally/headshots/thumbnails/medium/lauren-mcnally-february-2023-headshot_medium.jpg
+  phone: ""
+  email: rep58@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/lauren-mcnally
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lauren_McNally
+  - https://justfacts.votesmart.org/candidate/biography/174636/lauren-mcnally
+  - https://ohiohouse.gov/members/lauren-mcnally
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/laurenmcnallyytown
+  - https://www.ohiohouse.gov/members/lauren-mcnally
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-dean-levi
+  openstates_id: ocd-person/1dcb1bfa-861d-4d16-8d7d-02364e1b4def
+  full_name: Levi Dean
+  office_title: State Representative
+  chamber: house
+  district: "71"
+  party: Republican
+  status: active
+  photo_url: https://assets.civicengine.com/uploads/candidate/headshot/678132/678132.jpg
+  phone: ""
+  email: rep71@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/levi-dean
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Levi_Dean
+  - https://en.wikipedia.org/wiki/Levi_Dean
+  - https://ohiohouse.gov/members/levi-dean
+  - https://ohiohouse.gov/members/levi-dean/biography
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-blessing-bill
+  openstates_id: ocd-person/5a9b2a16-6827-4e00-961a-f3de39538749
+  full_name: Bill Blessing
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/louis-w-blessing-iii/headshots/thumbnails/medium/louis-w-blessing-iii-march-2023-headshot_medium.jpg
+  phone: ""
+  email: sd08@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/louis-w-blessing-iii
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Louis_W._Blessing,_III
+  - https://en.wikipedia.org/wiki/Louis_Blessing
+  - https://ohiosenate.gov/members/louis-w-blessing-iii
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/louis-blessing-3928431a
+  - https://www.ohiosenate.gov/members/louis-w-blessing-iii
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-john-marilyn
+  openstates_id: ocd-person/e4f9416c-1043-4737-899e-31410e94af1d
+  full_name: Marilyn John
+  office_title: State Representative
+  chamber: house
+  district: "76"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/marilyn-s-john/headshots/thumbnails/medium/marilyn-s-john-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep76@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/marilyn-s-john
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marilyn_John
+  - https://justfacts.votesmart.org/candidate/biography/161969/marilyn-john
+  - https://ohiohouse.gov/marilyn-s-john
+  - https://ohiohouse.gov/members/marilyn-john
+  - https://ohiohouse.gov/members/marilyn-s-john
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/marilyn-john-78679a14a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-hiner-mark
+  openstates_id: ocd-person/292d1329-8a45-402b-8d6e-8f3b4726187a
+  full_name: Mark Hiner
+  office_title: State Representative
+  chamber: house
+  district: "98"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Mark_Hiner.jpg
+  phone: ""
+  email: rep98@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/mark-hiner
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Hiner
+  - https://ohiohouse.gov/members/mark-hiner
+  - https://ohiohouse.gov/members/mark-hiner/biography
+  - https://www.linkedin.com/in/mark-hiner-36204712
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-johnson-mark
+  openstates_id: ocd-person/4af0e8db-ad18-424f-abfa-ce31e37c0b7d
+  full_name: Mark Johnson
+  office_title: State Representative
+  chamber: house
+  district: "92"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/mark-johnson/headshots/thumbnails/medium/mark-johnson-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep92@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/mark-johnson
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Johnson_(Ohio)
+  - https://justfacts.votesmart.org/candidate/189503/mark-johnson
+  - https://ohiohouse.gov/mark-johnson
+  - https://ohiohouse.gov/members/mark-johnson
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/mark-johnson-35a57b30
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-romanchuk-mark
+  openstates_id: ocd-person/2ae62dc8-e902-4a8e-99b7-182477c50bc3
+  full_name: Mark Romanchuk
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/mark-romanchuk/headshots/thumbnails/medium/mark-romanchuk-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd22@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/mark-romanchuk
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Romanchuk
+  - https://en.wikipedia.org/wiki/Mark_Romanchuk
+  - https://justfacts.votesmart.org/candidate/135742/mark-romanchuk
+  - https://ohiosenate.gov/members/mark-romanchuk
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/mark-romanchuk-46b63a6
+  - https://www.ohiosenate.gov/members/mark-romanchuk
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-sigrist-mark
+  openstates_id: ocd-person/8750be20-9a0c-41e4-bb32-4061c787a7e2
+  full_name: Mark Sigrist
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/662d9bb55b29343555b12d33/fdca756a-8e4a-41ea-aed9-0ec72d720e82/cropped.jpg?format=750w
+  phone: ""
+  email: rep10@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/mark-sigrist
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Sigrist
+  - https://ohiohouse.gov/members/mark-sigrist
+  - https://ohiohouse.gov/members/mark-sigrist/biography
+  - https://www.linkedin.com/in/mark-sigrist-1013b86
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-huffman-matt
+  openstates_id: ocd-person/23d51717-c6eb-4a2c-bd55-038c72593a61
+  full_name: Matt Huffman
+  office_title: State Representative
+  chamber: house
+  district: "78"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/matt-huffman/headshots/thumbnails/medium/matt-huffman-may-2023-headshot_medium.jpg
+  phone: ""
+  email: rep78@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/matt-huffman
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matt_Huffman
+  - https://en.wikipedia.org/wiki/Matt_Huffman
+  - https://ohiohouse.gov/members/matt-huffman
+  - https://ohiohouse.gov/members/matt-huffman/biography
+  - https://ohiosenate.gov/members/matt-huffman
+  - https://www.540westmarket.com/people/matthew-c-huffman
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/matt-huffman-b9370052
+  - https://www.ohiosenate.gov/members/matt-huffman
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-kishman-matt
+  openstates_id: ocd-person/7ab0cf86-d569-4a6e-8677-8cd7721a9475
+  full_name: Matt Kishman
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Republican
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/65a09d4d50790252eca6f810/be978e73-e9f1-4978-9bcf-9553f9a6d410/Kishman+Matthew_2270.jpg?format=500w
+  phone: ""
+  email: rep50@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/matthew-kishman
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matthew_Kishman
+  - https://ohiohouse.gov/members/matthew-kishman
+  - https://ohiohouse.gov/members/matthew-kishman/biography
+  - https://www.linkedin.com/in/matthew-kishman-927b2025
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-miller-melanie
+  openstates_id: ocd-person/fb957ddc-f41c-400d-ae32-47f7e729555b
+  full_name: Melanie Miller
+  office_title: State Representative
+  chamber: house
+  district: "67"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/melanie-miller/headshots/thumbnails/medium/melanie-miller-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep67@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/melanie-miller
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Melanie_Miller
+  - https://ohiohouse.gov/members/melanie-miller
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/melanie-miller-5a2a087
+  - https://www.melaniemillerforohio.com/meet-melanie
+  - https://www.ohiohouse.gov/members/melanie-miller
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-craig-meredith
+  openstates_id: ocd-person/75257af6-5d83-4d3b-b127-744aaa377c9f
+  full_name: Meredith Craig
+  office_title: State Representative
+  chamber: house
+  district: "77"
+  party: Republican
+  status: active
+  photo_url: https://www.meredithcraigforohio.com/dejilah/sites/522/2024/08/craig-new-photo.png
+  phone: ""
+  email: rep77@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/meredith-craig
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Meredith_Craig
+  - https://ohiohouse.gov/members/meredith-craig
+  - https://ohiohouse.gov/members/meredith-craig/biography
+  - https://www.linkedin.com/in/meredithccraig
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-lawsonrowe-meredith
+  openstates_id: ocd-person/4b1e7c00-c159-407e-83d8-2eb24ba175db
+  full_name: Meredith Lawson‐Rowe
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: https://thenewamericansmag.com/wp-content/uploads/2024/03/Meredith-Lawson-Rowe.jpg
+  phone: ""
+  email: rep05@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/meredith-r-lawson-rowe
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Meredith_Lawson%E2%80%90Rowe
+  - https://justfacts.votesmart.org/candidate/biography/213953/meredith-lawson-rowe
+  - https://ohiohouse.gov/members/meredith-r-lawson-rowe
+  - https://ohiohouse.gov/members/meredith-r-lawson-rowe/biography
+  - https://www.linkedin.com/in/meredith-lawson-rowe-b0854311
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-grim-michele
+  openstates_id: ocd-person/100ae6b0-0c5d-4b97-9ac5-8ccb42b9168b
+  full_name: Michele Grim
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/michele-grim/headshots/thumbnails/medium/michele-grim-november-2023-headshot_medium.jpg
+  phone: ""
+  email: rep43@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/michele-grim
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michele_Grim
+  - https://ohiohouse.gov/members/michele-grim
+  - https://ohiohouse.gov/members/michele-grim/biography
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/michelegrim
+  - https://www.ohiohouse.gov/members/michele-grim
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-reynolds-michele
+  openstates_id: ocd-person/79af20c0-6eb6-44a2-ba79-9c7e5e10ea04
+  full_name: Michele Reynolds
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/michele-reynolds/headshots/thumbnails/medium/michele-reynolds-may-2023-headshot_medium.jpg
+  phone: ""
+  email: reynolds@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/michele-reynolds
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michele_Reynolds
+  - https://en.wikipedia.org/wiki/Michele_Reynolds
+  - https://justfacts.votesmart.org/candidate/biography/209658/michele-reynolds
+  - https://ohiosenate.gov/members/michele-reynolds
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/michele-reynolds-500545a6
+  - https://www.ohiosenate.gov/members/michele-reynolds
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-teska-michelle
+  openstates_id: ocd-person/d06c06f8-2f63-4a29-8388-ed0747b97f48
+  full_name: Michelle Teska
+  office_title: State Representative
+  chamber: house
+  district: "55"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/57b3a5_db008a611c184fbeb2cf20bb55a41080~mv2.jpg/v1/fill/w_689,h_812,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Michelle%20(15%20of%2024)%20(1)_edited.jpg
+  phone: ""
+  email: rep55@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/michelle-teska
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michelle_Teska
+  - https://en.wikipedia.org/wiki/Michelle_Teska
+  - https://justfacts.votesmart.org/candidate/biography/214059/michelle-teska
+  - https://ohiohouse.gov/members/michelle-teska
+  - https://ohiohouse.gov/members/michelle-teska/biography
+  - https://www.linkedin.com/in/michelle-teska-9551b713a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-dovilla-mike
+  openstates_id: ocd-person/cc85c295-299f-4de7-bb56-1de3a451951e
+  full_name: Mike Dovilla
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: http://www.ohiohouse.gov/Assets/Headshots/Small/7.jpg
+  phone: ""
+  email: rep17@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/michael-d-dovilla
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Dovilla
+  - https://en.wikipedia.org/wiki/Mike_Dovilla
+  - https://www.linkedin.com/in/michaeldovilla
+  - https://www.ohiohouse.gov/members/member-directory
+  - https://www.ohiohouse.gov/members/michael-d-dovilla
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-odioso-mike
+  openstates_id: ocd-person/72bb7360-10c1-42d9-8781-32ddf8fef5fd
+  full_name: Mike Odioso
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MikeOdioso2024.jpg
+  phone: ""
+  email: rep30@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/mike-odioso
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Odioso
+  - https://justfacts.votesmart.org/candidate/biography/213980/mike-odioso
+  - https://ohiohouse.gov/members/mike-odioso
+  - https://ohiohouse.gov/members/mike-odioso/biography
+  - https://www.linkedin.com/in/mike-odioso-01913b36
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-blasdel-monica
+  openstates_id: ocd-person/062b9622-c2fa-4af2-bbea-704f0450dd47
+  full_name: Monica Blasdel
+  office_title: State Representative
+  chamber: house
+  district: "79"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/monica-robb-blasdel/headshots/thumbnails/medium/monica-robb-blasdel-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep79@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/monica-robb-blasdel
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Monica_Robb_Blasdel
+  - https://justfacts.votesmart.org/candidate/biography/209711/monica-blasdel
+  - https://ohiohouse.gov/members/monica-robb-blasdel
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/monica-robb-blasdel-89305940
+  - https://www.ohiohouse.gov/members/monica-robb-blasdel
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-abdullahi-munira
+  openstates_id: ocd-person/538fefb8-d8ae-48f5-bb07-4161e2ccac55
+  full_name: Munira Abdullahi
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/munira-abdullahi/headshots/thumbnails/medium/munira-yasin-abdullahi-february-2023-headshot_medium.jpg
+  phone: ""
+  email: rep09@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/munira-abdullahi
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Munira_Abdullahi
+  - https://en.wikipedia.org/wiki/Munira_Abdullahi
+  - https://justfacts.votesmart.org/candidate/biography/209687/munira-abdullahi
+  - https://ohiohouse.gov/members/munira-abdullahi
+  - https://ohiohouse.gov/members/munira-yasin-abdullahi
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/munira-abdullahi-0b41b71a3
+  - https://www.ohiohouse.gov/members/munira-abdullahi
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-manning-nathan
+  openstates_id: ocd-person/d3508136-3927-461f-a2f0-a85665845ab1
+  full_name: Nathan Manning
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/nathan-h-manning/headshots/thumbnails/medium/nathan-h-manning-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd13@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/nathan-h-manning
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nathan_Manning
+  - https://en.wikipedia.org/wiki/Nathan_Manning
+  - https://justfacts.votesmart.org/candidate/biography/150617/nathan-manning
+  - https://ohiosenate.gov/members/nathan-h-manning
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.ohiosenate.gov/members/nathan-h-manning
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-santucci-nick
+  openstates_id: ocd-person/64305698-f25c-486e-b57f-00298cfbe15d
+  full_name: Nick Santucci
+  office_title: State Representative
+  chamber: house
+  district: "64"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/nick-santucci/headshots/thumbnails/medium/nick-santucci-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep64@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/nick-santucci
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nick_Santucci
+  - https://ohiohouse.gov/members/nick-santucci
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/nickssantucci
+  - https://www.ohiohouse.gov/members/nick-santucci
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-antonio-nickie
+  openstates_id: ocd-person/df5c391c-65e8-4d61-a9b9-0249ff6eddb7
+  full_name: Nickie Antonio
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/nickie-j-antonio/headshots/thumbnails/medium/nickie-j-antonio-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd23@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/nickie-j-antonio
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nickie_Antonio
+  - https://en.wikipedia.org/wiki/Nickie_Antonio
+  - https://justfacts.votesmart.org/candidate/76941/nickie-antonio
+  - https://ohiosenate.gov/members/nickie-j-antonio
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/nickieantonio
+  - https://www.ohiosenate.gov/members/nickie-j-antonio
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-hickshudson-paula
+  openstates_id: ocd-person/3329274c-22b6-4b0a-b12a-e64c5733bef9
+  full_name: Paula Hicks-Hudson
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/paula-hicks-hudson/headshots/thumbnails/medium/paula-hicks-hudson-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd11@ohiosenate.gov
+  address: ""
+  official_website: https://ohiohouse.gov/paula-hicks-hudson
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paula_Hicks-Hudson
+  - https://en.wikipedia.org/wiki/Paula_Hicks-Hudson
+  - https://justfacts.votesmart.org/candidate/biography/134208/paula-hicks-hudson
+  - https://ohiohouse.gov/paula-hicks-hudson
+  - https://ohiosenate.gov/members/paula-hicks-hudson
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/paula-hicks-hudson-a369b16
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-plummer-phil
+  openstates_id: ocd-person/1e218942-95f6-43fe-b935-b19ab70fd5fc
+  full_name: Phil Plummer
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/phil-plummer/headshots/thumbnails/medium/phil-plummer-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep39@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/phil-plummer
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Phil_Plummer
+  - https://ohiohouse.gov/members/phil-plummer
+  - https://ohiohouse.gov/phil-plummer
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/phil-plummer-4a423110
+  - https://www.ohiohouse.gov/members/member-directory
+  - https://www.ohiohouse.gov/members/phil-plummer
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-robinson-phil
+  openstates_id: ocd-person/78d5adbb-ec6a-4212-9cc7-335f5d9ded8c
+  full_name: Phil Robinson
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/phillip-m-robinson-jr/headshots/thumbnails/medium/phillip-m-robinson-jr-january-2019-headshot_medium.jpg
+  phone: ""
+  email: rep19@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/phillip-m-robinson-jr
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Phil_Robinson
+  - https://ohiohouse.gov/members/phillip-m-robinson-jr
+  - https://ohiohouse.gov/phillip-m-robinson-jr
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/phillip-m-robinson-jr-698b274
+  - https://www.ohiohouse.gov/members/member-directory
+  - https://www.ohiohouse.gov/members/phillip-m-robinson-jr
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-baker-rachel
+  openstates_id: ocd-person/36f320a8-be34-43c2-ac73-ee87fbce6b0c
+  full_name: Rachel Baker
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/rachel-b-baker/headshots/thumbnails/medium/rachel-b-baker-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep27@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/rachel-b-baker
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rachel_Baker
+  - https://ohiohouse.gov/members/rachel-b-baker
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/rachelbbaker
+  - https://www.ohiohouse.gov/members/rachel-b-baker
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-mcclain-riordan
+  openstates_id: ocd-person/d6ca7e4f-dcf2-4aad-a919-a2740bae649a
+  full_name: Riordan McClain
+  office_title: State Representative
+  chamber: house
+  district: "87"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/riordan-t-mcclain/headshots/thumbnails/medium/riordan-t-mcclain-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep87@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/riordan-t-mcclain
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Riordan_McClain
+  - https://ohiohouse.gov/members/riordan-t-mcclain
+  - https://ohiohouse.gov/riordan-t-mcclain
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/riordan-mcclain-5a12a163
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-mccolley-rob
+  openstates_id: ocd-person/e0d52f86-e997-4299-9e50-972a2c208c20
+  full_name: Rob McColley
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/rob-mccolley/headshots/thumbnails/medium/rob-mccolley-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd01@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/rob-mccolley
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_McColley
+  - https://en.wikipedia.org/wiki/Rob_McColley
+  - https://ohiosenate.gov/members/rob-mccolley
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/rob-mccolley-294b963
+  - https://www.ohiosenate.gov/members/rob-mccolley
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-creech-rodney
+  openstates_id: ocd-person/c34a852a-71fc-4b21-a594-bc4a75b799c8
+  full_name: Rodney Creech
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/rodney-creech/headshots/thumbnails/medium/rodney-creech-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep40@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/rodney-creech
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rodney_Creech
+  - https://en.wikipedia.org/wiki/Rodney_Creech
+  - https://justfacts.votesmart.org/candidate/161959/rodney-creech
+  - https://ohiohouse.gov/members/rodney-creech
+  - https://ohiohouse.gov/rodney-creech
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-ferguson-ron
+  openstates_id: ocd-person/52608475-9678-45ce-823a-74f9c931682c
+  full_name: Ron Ferguson
+  office_title: State Representative
+  chamber: house
+  district: "96"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/ron-ferguson/headshots/thumbnails/medium/ron-ferguson-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep96@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/ron-ferguson
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ron_Ferguson
+  - https://en.wikipedia.org/wiki/Ron_Ferguson_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/150567/ron-ferguson
+  - https://ohiohouse.gov/members/ron-ferguson
+  - https://ohiohouse.gov/members/ron-ferguson/biography
+  - https://ohiohouse.gov/ron-ferguson
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/ronaldferguson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-klopfenstein-roy
+  openstates_id: ocd-person/73e72147-0d40-4478-bbf6-3419f0e00b46
+  full_name: Roy Klopfenstein
+  office_title: State Representative
+  chamber: house
+  district: "82"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/roy-klopfenstein/headshots/thumbnails/medium/roy-klopfenstein-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep82@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/roy-klopfenstein
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Roy_Klopfenstein
+  - https://justfacts.votesmart.org/candidate/biography/161926/roy-klopfenstein
+  - https://ohiohouse.gov/members/roy-klopfenstein
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.ohiohouse.gov/members/roy-klopfenstein
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-obrien-sandy
+  openstates_id: ocd-person/d665e333-f7e3-43e2-b440-17920f62c60b
+  full_name: Sandy O'Brien
+  office_title: State Senator
+  chamber: senate
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/sandra-obrien/headshots/thumbnails/medium/sandra-obrien-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd32@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/sandra-obrien
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sandra_O%27Brien_(Ohio)
+  - https://justfacts.votesmart.org/candidate/biography/45864/sandra-obrien
+  - https://ohiosenate.gov/members/sandra-obrien
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.ohiosenate.gov/members/sandra-obrien
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-arthur-sarah
+  openstates_id: ocd-person/5b3a7d10-e745-4985-ade9-d7fff6ae6af4
+  full_name: Sarah Fowler Arthur
+  office_title: State Representative
+  chamber: house
+  district: "99"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/sarah-fowler-arthur/headshots/thumbnails/medium/sarah-fowler-arthur-february-2023-headshot_medium.jpg
+  phone: ""
+  email: rep99@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/sarah-fowler-arthur
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sarah_Fowler
+  - https://en.wikipedia.org/wiki/Sarah_Fowler_Arthur
+  - https://justfacts.votesmart.org/candidate/biography/155716/sarah-fowler-arthur
+  - https://ohiohouse.gov/members/sarah-fowler-arthur
+  - https://ohiohouse.gov/sarah-fowler-arthur
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-oelslager-scott
+  openstates_id: ocd-person/52424e91-a002-4908-a205-4ea27cfe68da
+  full_name: Scott Oelslager
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/scott-oelslager/headshots/thumbnails/medium/scott-oelslager-february-2023-headshot_medium.jpg
+  phone: ""
+  email: rep48@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/scott-oelslager
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_Oelslager
+  - https://en.wikipedia.org/wiki/Scott_Oelslager
+  - https://ohiohouse.gov/members/scott-oelslager
+  - https://ohiohouse.gov/scott-oelslager
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.ohiohouse.gov/members/member-directory
+  - https://www.ohiohouse.gov/members/scott-oelslager
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-brennan-sean
+  openstates_id: ocd-person/993f089c-60bf-418d-9704-fa92e4f01c71
+  full_name: Sean Brennan
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/sean-p-brennan/headshots/thumbnails/medium/sean-p-brennan-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep14@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/sean-p-brennan
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sean_Brennan
+  - https://justfacts.votesmart.org/candidate/biography/77347/sean-brennan
+  - https://ohiohouse.gov/members/sean-p-brennan
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/sean-brennan-2a722839
+  - https://www.ohiohouse.gov/members/sean-p-brennan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-wilkin-shane
+  openstates_id: ocd-person/bb1ae016-cdfe-48aa-8bc5-9e3636e430f3
+  full_name: Shane Wilkin
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/shane-wilkin/headshots/thumbnails/medium/shane-wilkin-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd17@ohiosenate.gov
+  address: ""
+  official_website: https://ohiohouse.gov/shane-wilkin
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shane_Wilkin
+  - https://ohiohouse.gov/shane-wilkin
+  - https://ohiosenate.gov/members/shane-wilkin
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/shane-wilkin-32947920
+  - https://www.ohiohouse.gov/members/member-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-ray-sharon
+  openstates_id: ocd-person/352d7ee9-256c-4195-a673-17b7ee200948
+  full_name: Sharon Ray
+  office_title: State Representative
+  chamber: house
+  district: "66"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/sharon-a-ray/headshots/thumbnails/medium/sharon-a-ray-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep66@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/sharon-a-ray
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sharon_Ray
+  - https://en.wikipedia.org/wiki/Sharon_Ray
+  - https://justfacts.votesmart.org/candidate/biography/94663/sharon-ray
+  - https://ohiohouse.gov/members/sharon-a-ray
+  - https://ohiohouse.gov/sharon-a-ray
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/sharon-ray-9532bb11
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-huffman-steve
+  openstates_id: ocd-person/b21d9dcd-21e9-4071-936d-f89fc5d8f643
+  full_name: Steve Huffman
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/stephen-a-huffman/headshots/thumbnails/medium/stephen-a-huffman-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd05@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/stephen-a-huffman
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephen_Huffman
+  - https://en.wikipedia.org/wiki/Steve_Huffman_(Ohio_politician)
+  - https://justfacts.votesmart.org/candidate/biography/150587/stephen-huffman
+  - https://ohiosenate.gov/members/stephen-a-huffman
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/drstevehuffman
+  - https://www.ohiosenate.gov/members/stephen-a-huffman
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-demetriou-steve
+  openstates_id: ocd-person/854b6ce3-a4e1-46db-959a-aa286e4e8942
+  full_name: Steve Demetriou
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/steve-demetriou/headshots/thumbnails/medium/steve-demetriou-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep35@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/steve-demetriou
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Demetriou
+  - https://en.wikipedia.org/wiki/Steve_Demetriou
+  - https://justfacts.votesmart.org/candidate/biography/209747/steve-demetriou
+  - https://ohiohouse.gov/members/steve-demetriou
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/sjd3
+  - https://www.ohiohouse.gov/members/steve-demetriou
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-wilson-steve
+  openstates_id: ocd-person/26444e7e-72b2-4838-bc24-31899c90d504
+  full_name: Steve Wilson
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/steve-wilson/headshots/thumbnails/medium/steve-wilson-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd07@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/steve-wilson
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Wilson
+  - https://en.wikipedia.org/wiki/Steve_Wilson_(Ohio_politician)
+  - https://justfacts.votesmart.org/candidate/biography/176515/steve-wilson
+  - https://ohiosenate.gov/members/steve-wilson
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/steve-wilson-133354b5
+  - https://www.ohiosenate.gov/members/steve-wilson
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-manchester-susan
+  openstates_id: ocd-person/0e44b586-f6a4-44ee-b6b7-37fa8dc2e8cd
+  full_name: Susan Manchester
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/susan-manchester/headshots/thumbnails/medium/susan-manchester-january-2023-headshot_medium.jpg
+  phone: ""
+  email: sd12@ohiosenate.gov
+  address: ""
+  official_website: https://ohiohouse.gov/susan-manchester
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Susan_Manchester
+  - https://en.wikipedia.org/wiki/Susan_Manchester
+  - https://ohiohouse.gov/members/susan-manchester
+  - https://ohiohouse.gov/susan-manchester
+  - https://ohiosenate.gov/members/susan-manchester
+  - https://ohiosenate.gov/members/susan-manchester/biography
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/susan-manchester-14b16067
+  - https://www.ohiohouse.gov/members/member-directory
+  - https://www.ohiohouse.gov/members/susan-manchester
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-upchurch-terrence
+  openstates_id: ocd-person/a4c53220-d4a7-4591-b2d8-109516dc9401
+  full_name: Terrence Upchurch
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/terrence-upchurch/headshots/thumbnails/medium/terrence-upchurch-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep20@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/terrence-upchurch
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Terrence_Upchurch
+  - https://en.wikipedia.org/wiki/Terrence_Upchurch
+  - https://justfacts.votesmart.org/candidate/biography/179023/terrence-upchurch
+  - https://ohiohouse.gov/members/terrence-upchurch
+  - https://ohiohouse.gov/terrence-upchurch
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/terrence-upchurch-179096109
+  - https://www.ohiohouse.gov/members/member-directory
+  - https://www.ohiohouse.gov/members/terrence-upchurch
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-johnson-terry
+  openstates_id: ocd-person/57300c34-0e2d-4e85-bdce-c4fb8c781541
+  full_name: Terry Johnson
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/terry-johnson/headshots/thumbnails/medium/terry-johnson-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd14@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/terry-johnson
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Terry_Johnson,_Ohio_Politician
+  - https://en.wikipedia.org/wiki/Terry_Johnson_(Ohio_politician)
+  - https://ohiosenate.gov/members/terry-johnson
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.ohiosenate.gov/members/terry-johnson
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-fischer-tex
+  openstates_id: ocd-person/16e469e4-8014-4ba2-8fc4-91804d6ef491
+  full_name: Tex Fischer
+  office_title: State Representative
+  chamber: house
+  district: "59"
+  party: Republican
+  status: active
+  photo_url: https://ogden_images.s3.amazonaws.com/www.salemnews.net/images/2024/06/27232837/Fischer-Tex.jpg
+  phone: ""
+  email: rep59@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/houseapp/members/tex-fischer
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tex_Fischer
+  - https://ohiohouse.gov/houseapp/members/tex-fischer
+  - https://www.linkedin.com/in/tex-fischer-65613570
+  - https://www.ohiohouse.gov/members/tex-fischer
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-claggett-thad
+  openstates_id: ocd-person/081534e7-8952-47f0-a722-ed627fb32069
+  full_name: Thad Claggett
+  office_title: State Representative
+  chamber: house
+  district: "68"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/thaddeus-j-claggett/headshots/thumbnails/medium/thaddeus-j-claggett-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep68@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/thaddeus-j-claggett
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Thaddeus_Claggett
+  - https://ohiohouse.gov/members/thaddeus-j-claggett
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/thaddeus-claggett-27386310
+  - https://www.ohiohouse.gov/members/thaddeus-j-claggett
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-gavarone-theresa
+  openstates_id: ocd-person/0fe32749-fe89-4f96-87d3-3d831bea2459
+  full_name: Theresa Gavarone
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/theresa-gavarone/headshots/thumbnails/medium/theresa-gavarone-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd02@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/theresa-gavarone
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Theresa_Gavarone
+  - https://en.wikipedia.org/wiki/Theresa_Gavarone
+  - https://ohiosenate.gov/members/theresa-gavarone
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.ohiosenate.gov/members/theresa-gavarone
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-patton-tom
+  openstates_id: ocd-person/a57f6c78-ac58-4f7d-870e-0d8052984cd9
+  full_name: Tom Patton
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/thomas-f-patton/headshots/thumbnails/medium/thomas-f-patton-november-2023-headshot_medium.jpg
+  phone: ""
+  email: sd24@ohiosenate.gov
+  address: ""
+  official_website: https://ohiohouse.gov/thomas-f-patton
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Thomas_Patton
+  - https://en.wikipedia.org/wiki/Tom_Patton
+  - https://ohiohouse.gov/members/thomas-f-patton
+  - https://ohiohouse.gov/thomas-f-patton
+  - https://ohiosenate.gov/members/thomas-f-patton
+  - https://ohiosenate.gov/members/thomas-f-patton/biography
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/tom-patton-b4864389
+  - https://www.ohiohouse.gov/members/member-directory
+  - https://www.ohiohouse.gov/members/thomas-f-patton
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-hall-thomas
+  openstates_id: ocd-person/7948afad-ec3c-4e4c-a073-305fb8cd1b21
+  full_name: Thomas Hall
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/thomas-hall/headshots/thumbnails/medium/thomas-hall-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep46@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/thomas-hall
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Thomas_Hall
+  - https://justfacts.votesmart.org/candidate/189462/thomas-hall
+  - https://ohiohouse.gov/members/thomas-hall
+  - https://ohiohouse.gov/thomas-hall
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/thomas-hall-513a2215a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-barhorst-tim
+  openstates_id: ocd-person/fa5ff978-34ff-49d1-958e-4e356a8ef9d4
+  full_name: Tim Barhorst
+  office_title: State Representative
+  chamber: house
+  district: "85"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/tim-barhorst/headshots/thumbnails/medium/tim-barhorst-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep85@ohiohouse.gov
+  address: ""
+  official_website: https://www.ohiohouse.gov/members/tim-barhorst
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tim_Barhorst
+  - https://ohiohouse.gov/members/tim-barhorst
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.ohiohouse.gov/members/tim-barhorst
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-schaffer-tim
+  openstates_id: ocd-person/01a80305-a667-4dda-9676-1e678bddde12
+  full_name: Tim Schaffer
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/tim-schaffer/headshots/thumbnails/medium/tim-schaffer-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd20@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/tim-schaffer
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tim_Schaffer
+  - https://en.wikipedia.org/wiki/Tim_Schaffer
+  - https://justfacts.votesmart.org/candidate/biography/45832/tim-schaffer
+  - https://ohiosenate.gov/members/tim-schaffer
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/tim-schaffer-68849b22
+  - https://www.ohiosenate.gov/members/tim-schaffer
+  - https://www.ohiosenate.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-young-tom
+  openstates_id: ocd-person/d2ecec1d-db13-4a47-836b-9e75f3a31c78
+  full_name: Tom Young
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/tom-young/headshots/thumbnails/medium/tom-young-january-2021-headshot_medium.jpg
+  phone: ""
+  email: rep37@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/tom-young
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Young_(Ohio)
+  - https://justfacts.votesmart.org/candidate/189452/tom-young
+  - https://ohiohouse.gov/members/tom-young
+  - https://ohiohouse.gov/tom-young
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.linkedin.com/in/tom-young-46823011
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-richardson-tracy
+  openstates_id: ocd-person/7bcb4dfa-e4d3-46cd-b158-057b1b4b9a0a
+  full_name: Tracy Richardson
+  office_title: State Representative
+  chamber: house
+  district: "86"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/tracy-m-richardson/headshots/thumbnails/medium/tracy-m-richardson-january-2023-headshot_medium.jpg
+  phone: ""
+  email: rep86@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/tracy-m-richardson
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tracy_Richardson
+  - https://en.wikipedia.org/wiki/Tracy_Richardson
+  - https://justfacts.votesmart.org/candidate/biography/179156/tracy-richardson
+  - https://ohiohouse.gov/members/tracy-m-richardson
+  - https://ohiohouse.gov/tracy-m-richardson
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  - https://www.ohiohouse.gov/members/member-directory
+  - https://www.ohiohouse.gov/members/tracy-m-richardson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-rader-tristan
+  openstates_id: ocd-person/18864718-3e48-4236-9afb-b1a61e4c52e2
+  full_name: Tristan Rader
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TristanRader2.jpg
+  phone: ""
+  email: rep13@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/tristan-rader
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tristan_Rader
+  - https://ohiohouse.gov/members/tristan-rader
+  - https://ohiohouse.gov/members/tristan-rader/biography
+  - https://www.linkedin.com/in/twrader
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-mathews-ty
+  openstates_id: ocd-person/09c752d1-59eb-4f43-b401-5092d801f4c1
+  full_name: Ty Mathews
+  office_title: State Representative
+  chamber: house
+  district: "83"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TyMathews2024.jpg
+  phone: ""
+  email: rep83@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/ty-d-mathews
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ty_Mathews
+  - https://ohiohouse.gov/members/ty-d-mathews
+  - https://ohiohouse.gov/members/ty-d-mathews/biography
+  - https://www.linkedin.com/in/ty-mathews-494a16222
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-moore-ty
+  openstates_id: ocd-person/392b392f-7424-4826-9f65-6b84a805473b
+  full_name: Ty Moore
+  office_title: State Representative
+  chamber: house
+  district: "95"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ty_Moore.jpg
+  phone: ""
+  email: rep95@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/ty-moore
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ty_Moore
+  - https://ohiohouse.gov/members/ty-moore
+  - https://www.linkedin.com/in/ty-moore-36233031
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-hou-sims-veronica
+  openstates_id: ocd-person/8b367fce-9be2-4848-837a-a475c3d531e4
+  full_name: Veronica Sims
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Veronica_Sims.jpg
+  phone: ""
+  email: rep33@ohiohouse.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/veronica-r-sims
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Veronica_Sims
+  - https://ohiohouse.gov/members/veronica-r-sims
+  - https://ohiohouse.gov/members/veronica-r-sims/biography
+  - https://ohiohouse.gov/members/veronica-sims
+  - https://www.linkedin.com/in/veronica-r-sims-b21b857
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-demora-bill
+  openstates_id: ocd-person/bdc3493a-a22f-4a6b-b50e-b590216d8cfd
+  full_name: Bill DeMora
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/william-p-demora/headshots/thumbnails/medium/william-p-demora-may-2023-headshot_medium.jpg
+  phone: ""
+  email: sd25@ohiosenate.gov
+  address: ""
+  official_website: https://www.ohiosenate.gov/members/william-p-demora
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_DeMora
+  - https://en.wikipedia.org/wiki/Bill_DeMora
+  - https://justfacts.votesmart.org/candidate/biography/23376/william-demora
+  - https://ohiosenate.gov/members/william-p-demora
+  - https://www.legislature.ohio.gov/legislators/senate-directory
+  - https://www.linkedin.com/in/billdemora
+  - https://www.ohiosenate.gov/members/william-p-demora
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: oh-sen-blackshear-willis
+  openstates_id: ocd-person/23c443b0-e2f7-4c7a-af1e-d67d7aa366ce
+  full_name: Willis Blackshear
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.ohio.gov/assets/people/willis-e-blackshear-jr/headshots/thumbnails/medium/willis-e-blackshear-jr-january-2023-headshot_medium.jpg
+  phone: ""
+  email: sd06@ohiosenate.gov
+  address: ""
+  official_website: https://ohiohouse.gov/members/willis-e-blackshear-jr
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Willis_Blackshear_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/189447/willis-blackshear-jr
+  - https://ohiohouse.gov/members/willis-e-blackshear-jr
+  - https://ohiohouse.gov/willis-e-blackshear-jr
+  - https://ohiosenate.gov/members/willis-e-blackshear-jr
+  - https://ohiosenate.gov/members/willis-e-blackshear-jr/biography
+  - https://www.legislature.ohio.gov/legislators/house-directory
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

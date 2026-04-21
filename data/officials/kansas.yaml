@@ -1,4 +1,4190 @@
 ﻿state: kansas
 state_abbrev: KS
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: ks-hou-boatman-abi
+  openstates_id: ocd-person/052c229e-ad06-4b61-abec-4e64858b3a3b
+  full_name: Abi Boatman
+  office_title: State Representative
+  chamber: house
+  district: "86"
+  party: Democratic
+  status: active
+  photo_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyf1OqbY53kdN7weK9WEc-d2TY_Hwkdzpng&s
+  phone: ""
+  email: abi.boatman@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_boatman_abi_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elle_Abigail_Boatman
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_boatman_abi_1
+  - https://www.linkedin.com/in/elle-boatman-a8737589
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-smith-adam
+  openstates_id: ocd-person/c1802270-0126-4be5-b7e7-1a9a472f5fd7
+  full_name: Adam Smith
+  office_title: State Representative
+  chamber: house
+  district: "120"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_smith_adam_1.jpg
+  phone: ""
+  email: adam.smith@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_smith_adam_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Adam_Smith_(Kansas)
+  - https://en.wikipedia.org/wiki/Adam_Smith_(Kansas_politician)
+  - https://justfacts.votesmart.org/candidate/biography/116224/adam-smith
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_smith_adam_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_smith_adam_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_smith_adam_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_smith_adam_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_smith_adam_1/
+  - https://www.linkedin.com/in/adam-smith-1b487ab9
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-thomas-adam
+  openstates_id: ocd-person/2c46aedb-f7a4-4f9a-bade-5ae192acc2a3
+  full_name: Adam Thomas
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_thomas_adam_1.jpg
+  phone: ""
+  email: adam.thomas@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_thomas_adam_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Adam_Thomas
+  - https://en.wikipedia.org/wiki/Adam_Thomas_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/183536/adam-thomas
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_thomas_adam_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_thomas_adam_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_thomas_adam_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_thomas_adam_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_thomas_adam_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-turk-adam
+  openstates_id: ocd-person/d7dd1de1-73e2-438a-bf25-c70e12ede30d
+  full_name: Adam Turk
+  office_title: State Representative
+  chamber: house
+  district: "117"
+  party: Republican
+  status: active
+  photo_url: http://www.kslegislature.org/li/s/images/pics/rep_turk_adam_1.jpg
+  phone: ""
+  email: adam.turk@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_turk_adam_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Adam_Turk
+  - https://en.wikipedia.org/wiki/Adam_Turk
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_turk_adam_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_turk_adam_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_turk_adam_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_turk_adam_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_turk_adam_1/
+  - https://www.linkedin.com/in/adam-turk-1432007
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-simmons-alexis
+  openstates_id: ocd-person/f3a06f5c-fe9a-42c9-ad04-82e1532b6979
+  full_name: Alexis Simmons
+  office_title: State Representative
+  chamber: house
+  district: "58"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_simmons_alexis_1.jpg
+  phone: ""
+  email: alexis.simmons@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_simmons_alexis_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alexis_Simmons
+  - https://en.wikipedia.org/wiki/Alexis_Simmons
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_simmons_alexis_1
+  - https://www.linkedin.com/in/alexis-marguerite-simmons
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-reavis-allen
+  openstates_id: ocd-person/47445ee6-4c28-496c-b5a2-2f666fc62d46
+  full_name: Allen Reavis
+  office_title: State Representative
+  chamber: house
+  district: "63"
+  party: Republican
+  status: active
+  photo_url: https://www.atchisoncountyks.org/ImageRepository/Document?documentID=2708
+  phone: ""
+  email: allen.reavis@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_reavis_allen_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Allen_Reavis
+  - https://en.wikipedia.org/wiki/Allen_Reavis
+  - https://justfacts.votesmart.org/candidate/biography/219378/allen-reavis
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_reavis_allen_1
+  - https://www.linkedin.com/in/allen-reavis-4a261b227
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-roeser-angel
+  openstates_id: ocd-person/372f4e97-d36e-41c3-aae3-fd69da828ee5
+  full_name: Angel Roeser
+  office_title: State Representative
+  chamber: house
+  district: "67"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_roeser_angelina_1.jpg
+  phone: ""
+  email: angel.roeser@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_roeser_angelina_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Angel_Roeser
+  - https://en.wikipedia.org/wiki/Angelina_Roeser
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_roeser_angelina_1
+  - https://www.linkedin.com/in/angel-roeser-manhattanks
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-martinez-angela
+  openstates_id: ocd-person/a587476a-1201-4d9f-b8b7-ac6f74b3f6ce
+  full_name: Angela Martinez
+  office_title: State Representative
+  chamber: house
+  district: "103"
+  party: Democratic
+  status: active
+  photo_url: http://www.kslegislature.org/li/s/images/pics/rep_martinez_angela_1.jpg
+  phone: ""
+  email: angela.martinez@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_martinez_angela_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Angela_Martinez
+  - https://en.wikipedia.org/wiki/Angela_Martinez
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_martinez_angela_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_martinez_angela_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_martinez_angela_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_martinez_angela_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_martinez_angela_1/
+  - https://www.linkedin.com/in/angela-martinez-5b06832a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-stiens-angela
+  openstates_id: ocd-person/e0cddd71-639c-4b74-8dea-bc189418034d
+  full_name: Angela Stiens
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_stiens_angela_1.jpg
+  phone: ""
+  email: angela.stiens@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_stiens_angela_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Angela_Stiens
+  - https://en.wikipedia.org/wiki/Angela_Stiens
+  - https://justfacts.votesmart.org/candidate/biography/216236/angela-stiens
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_stiens_angela_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_stiens_angela_1
+  - https://www.linkedin.com/in/angela-stiens-34022649
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-anderson-avery
+  openstates_id: ocd-person/4544fc4e-fff8-4bbe-bc29-4e28c6be3179
+  full_name: Avery Anderson
+  office_title: State Representative
+  chamber: house
+  district: "72"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_anderson_avery_1.jpg
+  phone: ""
+  email: avery.anderson@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_anderson_avery_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Avery_Anderson_(Kansas)
+  - https://en.wikipedia.org/wiki/Avery_Anderson
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_anderson_avery_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_anderson_avery_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_anderson_avery_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_anderson_avery_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_anderson_avery_1/
+  - https://www.linkedin.com/in/avery-anderson-689766199
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-ballard-barbara
+  openstates_id: ocd-person/3bf41768-e1b5-4017-8ab5-8d1fb1d6521c
+  full_name: Barbara Ballard
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Democratic
+  status: active
+  photo_url: https://ogden_images.s3.amazonaws.com/www.ljworld.com/images/2016/07/20043350/candidate_Barbara_Ballard003-714x1024.jpg
+  phone: ""
+  email: barbara.ballard@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_ballard_barbara_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Barbara_Ballard
+  - https://en.wikipedia.org/wiki/Barbara_Ballard
+  - https://justfacts.votesmart.org/candidate/biography/6927/barbara-ballard
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_ballard_barbara_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ballard_barbara_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ballard_barbara_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_ballard_barbara_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_ballard_barbara_1/
+  - https://www.linkedin.com/in/barbara-ballard-0467166a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-wasinger-barb
+  openstates_id: ocd-person/7aac5ab6-1590-4cfe-8c02-d61f292497c8
+  full_name: Barb Wasinger
+  office_title: State Representative
+  chamber: house
+  district: "111"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_wasinger_barbara_1.jpg
+  phone: ""
+  email: barb.wasinger@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Barbara_Wasinger
+  - https://en.wikipedia.org/wiki/Barbara_Wasinger
+  - https://justfacts.votesmart.org/candidate/biography/145676/barb-wasinger
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_wasinger_barbara_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_wasinger_barbara_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_wasinger_barbara_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_wasinger_barbara_1/
+  - https://www.linkedin.com/in/barbara-king-wasinger-a837392
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-gossage-beverly
+  openstates_id: ocd-person/35630402-1f6a-4a3e-b6cf-48c1b93bd6ae
+  full_name: Beverly Gossage
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/sen_gossage_beverly_1.jpg
+  phone: ""
+  email: beverly.gossage@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_gossage_beverly_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Beverly_Gossage
+  - https://en.wikipedia.org/wiki/Beverly_Gossage
+  - https://justfacts.votesmart.org/candidate/biography/152454/beverly-gossage
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_gossage_beverly_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_gossage_beverly_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_gossage_beverly_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_gossage_beverly_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_gossage_beverly_1/
+  - https://www.linkedin.com/in/hsaconsulting
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-clifford-bill
+  openstates_id: ocd-person/463dcd61-1bf6-4182-ae6f-a840e43ea7fe
+  full_name: Bill Clifford
+  office_title: State Senator
+  chamber: senate
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/sen_clifford_william_1.jpg
+  phone: ""
+  email: william.clifford@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_clifford_william_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Clifford
+  - https://justfacts.votesmart.org/candidate/biography/192418/bill-clifford
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_clifford_william_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_clifford_bill_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_clifford_bill_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_clifford_bill_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_clifford_bill_1/
+  - https://www.linkedin.com/in/bill-clifford-902627110
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-rhiley-bill
+  openstates_id: ocd-person/d01abc3e-cce3-450e-8d2c-41491b5bbde6
+  full_name: Bill Rhiley
+  office_title: State Representative
+  chamber: house
+  district: "80"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_rhiley_bill_1.jpg
+  phone: ""
+  email: bill.rhiley@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_rhiley_bill_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Rhiley
+  - https://en.wikipedia.org/wiki/Bill_Rhiley
+  - https://justfacts.votesmart.org/candidate/biography/183575/bill-rhiley
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_rhiley_bill_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_rhiley_bill_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_rhiley_bill_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_rhiley_bill_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_rhiley_bill_1/
+  - https://www.linkedin.com/in/bill-rhiley-15054012
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-sutton-bill
+  openstates_id: ocd-person/dc23fc2c-0f64-4fab-96ec-951f0efbe7bb
+  full_name: Bill Sutton
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_sutton_william_1.jpg
+  phone: ""
+  email: bill.sutton@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_sutton_william_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Sutton
+  - https://en.wikipedia.org/wiki/Bill_Sutton_(Kansas_politician)
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_sutton_william_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_sutton_william_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_sutton_william_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_sutton_william_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_sutton_william_1/
+  - https://www.linkedin.com/in/bill-sutton-a39540112
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-carpenter-blake
+  openstates_id: ocd-person/38998536-e18f-44bb-8e80-01bfee04e991
+  full_name: Blake Carpenter
+  office_title: State Representative
+  chamber: house
+  district: "81"
+  party: Republican
+  status: active
+  photo_url: https://www.carpenterforkansas.com/wp-content/uploads/2022/07/Carpenter-Blues-Photo.png
+  phone: ""
+  email: blake.carpenter@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_carpenter_blake_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Blake_Carpenter
+  - https://en.wikipedia.org/wiki/Blake_Carpenter
+  - https://justfacts.votesmart.org/candidate/biography/152996/blake-carpenter
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_carpenter_blake_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carpenter_blake_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carpenter_blake_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_carpenter_blake_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_carpenter_blake_1/
+  - https://www.linkedin.com/in/blake-carpenter-46178665
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-lewis-bob
+  openstates_id: ocd-person/05ca3b77-c9d8-4d8e-92bf-603b2f71eda6
+  full_name: Bob Lewis
+  office_title: State Representative
+  chamber: house
+  district: "123"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_lewis_bob_1.jpg
+  phone: ""
+  email: bob.lewis@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_lewis_bob_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bob_Lewis_(Kansas)
+  - https://en.wikipedia.org/wiki/Bob_Lewis_(Kansas_politician)
+  - https://www.jamesmarshlaw.com/our-team/robert-y-lewis
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_lewis_bob_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_lewis_bob_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_lewis_bob_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_lewis_bob_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_lewis_bob_1/
+  - https://www.linkedin.com/in/robert-lewis-07ab70
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-barrett-brad
+  openstates_id: ocd-person/cb7f246f-5619-4086-8e6a-79614bcbaca6
+  full_name: Brad Barrett
+  office_title: State Representative
+  chamber: house
+  district: "76"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_barrett_bradley_1.jpg
+  phone: ""
+  email: brad.barrett@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_barrett_bradley_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brad_Barrett
+  - https://justfacts.votesmart.org/candidate/biography/218257/brad-barrett
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_barrett_bradley_1
+  - https://www.linkedin.com/in/bradley-barrett-78bba410a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-starnes-brad
+  openstates_id: ocd-person/2b66826b-7af3-4053-8d3b-90dbcf4f0740
+  full_name: Brad Starnes
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/sen_starnes_brad_1.jpg
+  phone: ""
+  email: brad.starnes@senate.ks.gov
+  address: ""
+  official_website: https://starnes4senate.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brad_Starnes
+  - https://en.wikipedia.org/wiki/Brad_Starnes
+  - https://justfacts.votesmart.org/candidate/biography/208101/brad-starnes
+  - https://starnes4senate.com
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_starnes_brad_1
+  - https://www.linkedin.com/in/brad-starnes-43493418
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-woodard-brandon
+  openstates_id: ocd-person/c56cf970-39c2-4821-8723-a85dfe09cd6b
+  full_name: Brandon Woodard
+  office_title: State Representative
+  chamber: house
+  district: "108"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_woodard_brandon_1.jpg
+  phone: ""
+  email: brandon.woodard@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_woodard_brandon_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brandon_Woodard
+  - https://en.wikipedia.org/wiki/Brandon_Woodard
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_woodard_brandon_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_woodard_brandon_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_woodard_brandon_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_woodard_brandon_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_woodard_brandon_1/
+  - https://www.linkedin.com/in/brandonwoodard
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-dietrich-brenda
+  openstates_id: ocd-person/57c530cc-4575-431e-9118-11f64fa3a573
+  full_name: Brenda Dietrich
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rep_dietrich_brenda_1.jpg
+  phone: ""
+  email: brenda.dietrich@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_dietrich_brenda_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brenda_Dietrich
+  - https://en.wikipedia.org/wiki/Brenda_Dietrich
+  - https://justfacts.votesmart.org/candidate/biography/171910/brenda-dietrich
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_dietrich_brenda_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_dietrich_brenda_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_dietrich_brenda_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_dietrich_brenda_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_dietrich_brenda_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_dietrich_brenda_1/
+  - https://www.linkedin.com/in/brenda-dietrich-8b4367b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-fairchild-brett
+  openstates_id: ocd-person/ca3f1bf6-44e0-4d67-b242-3cd29905723c
+  full_name: Brett Fairchild
+  office_title: State Representative
+  chamber: house
+  district: "113"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_fairchild_brett_1.jpg
+  phone: ""
+  email: brett.fairchild@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_fairchild_brett_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brett_Fairchild
+  - https://en.wikipedia.org/wiki/Brett_Fairchild
+  - https://justfacts.votesmart.org/candidate/biography/183591/brett-fairchild
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_fairchild_brett_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_fairchild_brett_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_fairchild_brett_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_fairchild_brett_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_fairchild_brett_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-bergkamp-brian
+  openstates_id: ocd-person/ee28d684-dc5b-4923-a56f-7fef74c9ef67
+  full_name: Brian Bergkamp
+  office_title: State Representative
+  chamber: house
+  district: "93"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Brian-Bergkamp.jpg
+  phone: ""
+  email: brian.bergkamp@house.ks.gov
+  address: ""
+  official_website: https://kslegislature.gov/li/b2025_26/members/rep_bergkamp_brian_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Bergkamp
+  - https://en.wikipedia.org/wiki/Brian_Bergkamp
+  - https://kslegislature.gov/li/b2025_26/members/rep_bergkamp_brian_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_bergkamp_brian_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_bergkamp_brian_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_bergkamp_brian_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_bergkamp_brian_1/
+  - https://www.linkedin.com/in/brian-bergkamp-30ab93ab
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-mosley-brooklynne
+  openstates_id: ocd-person/7191d22a-a111-4e14-b3d2-87c4084bea1b
+  full_name: Brooklynne Mosley
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_mosley_brooklynne_1.jpg
+  phone: ""
+  email: brooklynne.mosley@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_mosley_brooklynne_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brooklynne_Mosley
+  - https://en.wikipedia.org/wiki/Brooklynne_Mosley
+  - https://justfacts.votesmart.org/candidate/biography/218228/brooklynne-mosley
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_mosley_brooklynne_1
+  - https://www.linkedin.com/in/brooklynne-mosley-68805865
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-turner-carl
+  openstates_id: ocd-person/71b474cb-1732-41fc-b525-4d53911cbbbe
+  full_name: Carl Turner
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_turner_carl_1.jpg
+  phone: ""
+  email: carl.turner@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_turner_carl_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Carl_Turner
+  - https://en.wikipedia.org/wiki/Carl_Turner_(politician)
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_turner_carl_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_turner_carl_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_turner_carl_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_turner_carl_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_turner_carl_1/
+  - https://www.linkedin.com/in/carlturnerkc
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-caiharr-carolyn
+  openstates_id: ocd-person/f1e5ad82-52f7-4a6a-b028-40df8a3f929b
+  full_name: Carolyn Caiharr
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: https://sunflowerstatejournal.com/wp-content/uploads/2025/08/IMG_1022.jpeg
+  phone: ""
+  email: carolyn.caiharr@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_caiharr_carolyn_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Carolyn_Caiharr
+  - https://en.wikipedia.org/wiki/Carolyn_Caiharr
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_caiharr_carolyn_1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-tyson-caryn
+  openstates_id: ocd-person/cc84252c-b7c6-484d-a036-dd38a90b1b04
+  full_name: Caryn Tyson
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/sen_tyson_caryn_1.jpg
+  phone: ""
+  email: caryn.tyson@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_tyson_caryn_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Caryn_Tyson
+  - https://en.wikipedia.org/wiki/Caryn_Tyson
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_tyson_caryn_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_tyson_caryn_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_tyson_caryn_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_tyson_caryn_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_tyson_caryn_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-smith-chuck
+  openstates_id: ocd-person/8b617466-af12-4848-8cca-ed088fb196da
+  full_name: Chuck Smith
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_smith_charles_1.jpg
+  phone: ""
+  email: chuck.smith@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_smith_charles_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chuck_Smith_(Kansas)
+  - https://en.wikipedia.org/wiki/Chuck_Smith_(Kansas_politician)
+  - https://justfacts.votesmart.org/candidate/biography/171752/charles-smith
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_smith_charles_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_smith_charles_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_smith_charles_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_smith_charles_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_smith_charles_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-esau-charlotte
+  openstates_id: ocd-person/e9245d69-ed9f-456c-9c78-01fc5a1f4244
+  full_name: Charlotte Esau
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://jcrpks.org/wp-content/uploads/2024/07/MbZyrxoRqtLO-EsauMediaHeadshot-3-668x900.jpg
+  phone: ""
+  email: charlotte.esau@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_esau_charlotte_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Charlotte_Esau
+  - https://justfacts.votesmart.org/candidate/biography/183517/charlotte-esau
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_esau_charlotte_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_esau_charlotte_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_esau_charlotte_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-blasi-chase
+  openstates_id: ocd-person/c0c78c6c-d725-4f3b-8ae5-11446753d9a7
+  full_name: Chase Blasi
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/sen_blasi_chase_1.jpg
+  phone: ""
+  email: chase.blasi@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_blasi_chase_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chase_Blasi
+  - https://justfacts.votesmart.org/candidate/biography/211292/chase-blasi
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_blasi_chase_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_blasi_chase_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_blasi_chase_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_blasi_chase_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_blasi_chase_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-vanhouden-chip
+  openstates_id: ocd-person/bb92c4f1-d89e-4147-9b09-5fc1f56fca1c
+  full_name: Chip VanHouden
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_vanhouden_charles_1.jpg
+  phone: ""
+  email: chip.vanhouden@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_vanhouden_charles_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chip_VanHouden
+  - https://en.wikipedia.org/wiki/Chip_VanHouden
+  - https://justfacts.votesmart.org/candidate/biography/152952/chad-vanhouden
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_vanhouden_charles_1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-croft-chris
+  openstates_id: ocd-person/e0cd5e74-7229-4c04-be9e-aa688868e703
+  full_name: Chris Croft
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_croft_chris_1.jpg
+  phone: ""
+  email: chris.croft@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_croft_chris_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Croft
+  - https://en.wikipedia.org/wiki/Chris_Croft
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_croft_chris_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_croft_chris_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_croft_chris_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_croft_chris_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_croft_chris_1/
+  - https://www.linkedin.com/in/chris-croft
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-holscher-cindy
+  openstates_id: ocd-person/9c36b31f-b9e7-43cd-8aab-6148c8f6cac8
+  full_name: Cindy Holscher
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Cindy-Holscher.jpg
+  phone: ""
+  email: cindy.holscher@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_holscher_cindy_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cindy_Holscher
+  - https://en.wikipedia.org/wiki/Cindy_Holscher
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_holscher_cindy_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_holscher_cindy_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_holscher_cindy_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_holscher_cindy_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_holscher_cindy_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_holscher_cindy_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-neighbor-cindy
+  openstates_id: ocd-person/eafd24b5-d096-4fa0-92c4-3b4ced58c40f
+  full_name: Cindy Neighbor
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_neighbor_cindy_1.jpg
+  phone: ""
+  email: cindy.neighbor@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_neighbor_cindy_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cindy_Neighbor
+  - https://en.wikipedia.org/wiki/Cindy_Neighbor
+  - https://justfacts.votesmart.org/candidate/biography/34808/cindy-neighbor
+  - https://www.cindyneighbor.com/meet-cindy
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_neighbor_cindy_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_neighbor_cindy_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_neighbor_cindy_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_neighbor_cindy_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_neighbor_cindy_1/
+  - https://www.linkedin.com/in/cindy-neighbor-54117496
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-sanders-clarke
+  openstates_id: ocd-person/3df522a5-5542-4ad4-b1bf-54736e60c601
+  full_name: Clarke Sanders
+  office_title: State Representative
+  chamber: house
+  district: "69"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_sanders_clarke_1.jpg
+  phone: ""
+  email: clarke.sanders@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_sanders_clarke_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Clarke_Sanders
+  - https://en.wikipedia.org/wiki/Clarke_Sanders
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_sanders_clarke_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_sanders_clarke_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_sanders_clarke_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_sanders_clarke_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_sanders_clarke_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-sappington-courtney
+  openstates_id: ocd-person/3618106c-5f38-4df6-bf12-d58576bd7c93
+  full_name: Courtney Sappington
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_sappington_courtney_1.jpg
+  phone: ""
+  email: courtney.sappington@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_sappington_courtney_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Courtney_Sappington
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_sappington_courtney_1
+  - https://www.linkedin.com/in/cpsappington
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-bowser-craig
+  openstates_id: ocd-person/b4963502-06af-4855-bc95-8db7972d2e04
+  full_name: Craig Bowser
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Craig_Bowser.jpg
+  phone: ""
+  email: craig.bowser@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_bowser_craig_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Craig_Bowser
+  - https://justfacts.votesmart.org/candidate/192916/craig-bowser
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_bowser_craig_1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-howerton-cyndi
+  openstates_id: ocd-person/c333ddca-e5a2-4638-910c-a816bcddd666
+  full_name: Cyndi Howerton
+  office_title: State Representative
+  chamber: house
+  district: "98"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_howerton_cyndi_1.jpg
+  phone: ""
+  email: cyndi.howerton@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_howerton_cyndi_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cyndi_Howerton
+  - https://en.wikipedia.org/wiki/Cyndi_Howerton
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_howerton_cyndi_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_howerton_cyndi_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_howerton_cyndi_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_howerton_cyndi_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_howerton_cyndi_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-helwig-dale
+  openstates_id: ocd-person/9972db5e-e19b-48ab-9d3a-10983c96fc5c
+  full_name: Dale Helwig
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Dale_Helwig_20241007_022311.jpg
+  phone: ""
+  email: dale.helwig@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_helwig_dale_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dale_Helwig#Campaign_themes
+  - https://en.wikipedia.org/wiki/Dale_Helwig
+  - https://justfacts.votesmart.org/candidate/biography/218103/dale-helwig
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_helwig_dale_1
+  - https://www.linkedin.com/in/dale-helwig-3a6489130
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-goddard-dan
+  openstates_id: ocd-person/2d7cf122-fd6c-406c-a158-de6c61ff0afa
+  full_name: Dan Goddard
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: http://www.kslegislature.org/li/s/images/pics/rep_goddard_dan_1.jpg
+  phone: ""
+  email: dan.goddard@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_goddard_dan_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dan_Goddard
+  - https://en.wikipedia.org/wiki/Dan_Goddard
+  - https://justfacts.votesmart.org/candidate/biography/171668/dan-goddard
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_goddard_dan_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_goddard_dan_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_goddard_dan_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_goddard_dan_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_goddard_dan_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-osman-dan
+  openstates_id: ocd-person/d9b94e4b-d2b0-4139-8135-cba9ff03e8b7
+  full_name: Dan Osman
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Democratic
+  status: active
+  photo_url: http://www.kslegislature.org/li/s/images/pics/rep_osman_dan_1.jpg
+  phone: ""
+  email: dan.osman@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_osman_dan_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dan_Osman
+  - https://danosman.wixsite.com/osmanconsulting
+  - https://en.wikipedia.org/wiki/Dan_Osman_(Kansas_politician)
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_osman_dan_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_osman_dan_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_osman_dan_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_osman_dan_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_osman_dan_1/
+  - https://www.linkedin.com/in/osmandan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-hawkins-dan
+  openstates_id: ocd-person/26eb8f32-d499-4b8b-82c6-8fef014633a3
+  full_name: Dan Hawkins
+  office_title: State Representative
+  chamber: house
+  district: "100"
+  party: Republican
+  status: active
+  photo_url: https://i0.wp.com/danhawkinskansas.com/wp-content/uploads/2020/06/Rep.-Hawkins.jpg?resize=1000%2C1000&ssl=1
+  phone: ""
+  email: dan.hawkins@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_hawkins_daniel_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Daniel_Hawkins_(Kansas)
+  - https://en.wikipedia.org/wiki/Daniel_Hawkins_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/140839/daniel-hawkins
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_hawkins_daniel_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hawkins_daniel_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hawkins_daniel_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_hawkins_daniel_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_hawkins_daniel_1/
+  - https://www.linkedin.com/in/danhawkinskansas
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-buehler-dave
+  openstates_id: ocd-person/0a2abc46-725c-4637-bf38-dc83cb7f90fd
+  full_name: Dave Buehler
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_buehler_david_1.jpg
+  phone: ""
+  email: david.buehler@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_buehler_david_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Buehler
+  - https://en.wikipedia.org/wiki/David_Buehler_(politician)
+  - https://justfacts.votesmart.org/candidate/208006/david-buehler
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_buehler_david_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_buehler_david_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_buehler_david_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_buehler_david_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_buehler_david_1/
+  - https://www.linkedin.com/in/david-buehler-6199888
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-haley-david
+  openstates_id: ocd-person/0a700e33-0ae7-4627-936c-982317c26b9d
+  full_name: David Haley
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Democratic
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/606b1f70a46bfa6ea792c03e/1618942086989-LIN2C4WCFMR47RKYDJ5V/Haley.jpg?format=1000w
+  phone: ""
+  email: david.haley@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_haley_david_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Haley
+  - https://en.wikipedia.org/wiki/David_Haley
+  - https://justfacts.votesmart.org/candidate/biography/6965/david-haley
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_haley_david_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_haley_david_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_haley_david_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_haley_david_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_haley_david_1/
+  - https://www.linkedin.com/in/david-haley-ba6a567
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-wolf-dawn
+  openstates_id: ocd-person/39cab563-99a8-4412-8112-7b88b0911714
+  full_name: Dawn Wolf
+  office_title: State Representative
+  chamber: house
+  district: "107"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_wolf_dawn_1.jpg
+  phone: ""
+  email: dawn.wolf@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_wolf_dawn_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dawn_Wolf
+  - https://en.wikipedia.org/wiki/Dawn_Wolf
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_wolf_dawn_1
+  - https://www.linkedin.com/in/dawn-wolf-64a61480
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-sykes-dinah
+  openstates_id: ocd-person/549c712e-1cc1-4ca7-9ef7-b09bb36d7229
+  full_name: Dinah Sykes
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/sen_sykes_dinah_1.jpg
+  phone: ""
+  email: dinah.sykes@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dinah_Sykes
+  - https://en.wikipedia.org/wiki/Dinah_Sykes
+  - https://justfacts.votesmart.org/candidate/biography/171684/dinah-sykes
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_sykes_dinah_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_sykes_dinah_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_sykes_dinah_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_sykes_dinah_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-blex-doug
+  openstates_id: ocd-person/050b34c6-14a3-4998-a67a-13c02217a666
+  full_name: Doug Blex
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_blex_doug_1.jpg
+  phone: ""
+  email: doug.blex@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_blex_doug_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Doug_Blex
+  - https://en.wikipedia.org/wiki/Doug_Blex
+  - https://justfacts.votesmart.org/candidate/biography/171775/doug-blex
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_blex_doug_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_blex_doug_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_blex_doug_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_blex_doug_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_blex_doug_1/
+  - https://www.linkedin.com/in/douglas-blex-98295b29
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-shane-doug
+  openstates_id: ocd-person/d0ae10e6-5c26-4be4-af00-036b23664127
+  full_name: Doug Shane
+  office_title: State Senator
+  chamber: senate
+  district: "37"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/sen_shane_doug_1.jpg
+  phone: ""
+  email: doug.shane@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_shane_doug_1/
+  twitter: ""
+  source_urls:
+  - https://aaivet.org/doug-shane
+  - https://ballotpedia.org/Douglas_Shane
+  - https://justfacts.votesmart.org/candidate/219526/douglas-shane
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_shane_doug_1
+  - https://www.linkedin.com/in/douglas-shane-a380a3116
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-droge-duane
+  openstates_id: ocd-person/75db09fb-b9dd-4c6f-ae73-bfde55d7dd62
+  full_name: Duane Droge
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_droge_duane_1.jpg
+  phone: ""
+  email: duane.droge@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_droge_duane_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Duane_Droge
+  - https://en.wikipedia.org/wiki/Duane_Droge
+  - https://justfacts.votesmart.org/candidate/biography/211346/duane-droge
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_droge_duane_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_droge_duane_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_droge_duane_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_droge_duane_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_droge_duane_1/
+  - https://www.linkedin.com/in/doc-droge-16857131
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-bowers-elaine
+  openstates_id: ocd-person/416dbc91-431f-4dc6-8c8a-ca2db2cd3300
+  full_name: Elaine Bowers
+  office_title: State Senator
+  chamber: senate
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: https://img1.wsimg.com/isteam/ip/80c40439-022d-4960-b9db-9edee1fb7239/116288352_1853414708116161_8330522447916288057.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=h:500,cg:true
+  phone: ""
+  email: elaine.bowers@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_bowers_elaine_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elaine_Bowers
+  - https://en.wikipedia.org/wiki/Elaine_Bowers
+  - https://justfacts.votesmart.org/candidate/biography/68331/elaine-bowers
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_bowers_elaine_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_bowers_elaine_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_bowers_elaine_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_bowers_elaine_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_bowers_elaine_1/
+  - https://www.linkedin.com/in/elaine-bowers-82a17913
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-bergquist-emil
+  openstates_id: ocd-person/06e5710d-2c6a-4baa-829f-803417539415
+  full_name: Emil Bergquist
+  office_title: State Representative
+  chamber: house
+  district: "91"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_bergquist_emil_1.jpg
+  phone: ""
+  email: emil.bergquist@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_bergquist_emil_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Emil_Bergquist
+  - https://en.wikipedia.org/wiki/Emil_Bergquist
+  - https://justfacts.votesmart.org/candidate/biography/177880/emil-bergquist
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_bergquist_emil_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_bergquist_emil_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_bergquist_emil_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_bergquist_emil_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_bergquist_emil_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-corson-ethan
+  openstates_id: ocd-person/76d729c5-1b4d-4966-8c99-5ac8b74d8719
+  full_name: Ethan Corson
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/sen_corson_ethan_1.jpg
+  phone: ""
+  email: ethan.corson@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_corson_ethan_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ethan_Corson
+  - https://en.wikipedia.org/wiki/Ethan_Corson
+  - https://justfacts.votesmart.org/candidate/biography/192899/ethan-corson
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_corson_ethan_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_corson_ethan_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_corson_ethan_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_corson_ethan_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_corson_ethan_1/
+  - https://www.linkedin.com/in/ethancorson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-carr-ford
+  openstates_id: ocd-person/96643a66-5a00-41ba-9aa6-fc126a92849c
+  full_name: Ford Carr
+  office_title: State Representative
+  chamber: house
+  district: "84"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_carr_ford_1.jpg
+  phone: ""
+  email: ford.carr@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_carr_ford_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ford_Carr
+  - https://en.wikipedia.org/wiki/Ford_Carr
+  - https://justfacts.votesmart.org/candidate/210963/ford-carr
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_carr_ford_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carr_ford_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carr_ford_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_carr_ford_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_carr_ford_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-awerkamp-francis
+  openstates_id: ocd-person/aa7fa5a0-596b-4f52-9af5-732b76f875e9
+  full_name: Francis Awerkamp
+  office_title: State Representative
+  chamber: house
+  district: "61"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_awerkamp_francis_1.jpg
+  phone: ""
+  email: francis.awerkamp@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_awerkamp_francis_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Francis_Awerkamp
+  - https://en.wikipedia.org/wiki/Francis_Awerkamp
+  - https://justfacts.votesmart.org/candidate/biography/171927/francis-awerkamp
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_awerkamp_francis_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_awerkamp_francis_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_awerkamp_francis_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_awerkamp_francis_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_awerkamp_francis_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-gardner-fred
+  openstates_id: ocd-person/3ebdf5bf-c602-4181-914d-fd63b564ea2b
+  full_name: Fred Gardner
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: http://www.kslegislature.org/li/s/images/pics/rep_gardner_fred_1.jpg
+  phone: ""
+  email: fred.gardner@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_gardner_fred_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Fred_Gardner
+  - https://en.wikipedia.org/wiki/Fred_Gardner_(politician)
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_gardner_fred_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_gardner_fred_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_gardner_fred_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_gardner_fred_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_gardner_fred_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-white-gary
+  openstates_id: ocd-person/b5ed1fef-035c-4454-90ae-6434d0540f43
+  full_name: Gary White
+  office_title: State Representative
+  chamber: house
+  district: "115"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Gary_White.jpeg
+  phone: ""
+  email: gary.white@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_white_gary_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gary_White
+  - https://en.wikipedia.org/wiki/Gary_White_(politician)
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_white_gary_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_white_gary_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_white_gary_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_white_gary_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_white_gary_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-wilson-greg
+  openstates_id: ocd-person/68b27ef7-a338-4295-b31b-2c984bdbdbf1
+  full_name: Greg Wilson
+  office_title: State Representative
+  chamber: house
+  district: "70"
+  party: Republican
+  status: active
+  photo_url: https://bloximages.newyork1.vip.townnews.com/abilene-rc.com/content/tncms/assets/v3/editorial/9/19/919822b8-7b58-4d49-bf1d-499f9f717319/6882afbe93db1.image.jpg?resize=300%2C504
+  phone: ""
+  email: greg.wilson@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_wilson_greg_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Greg_Wilson
+  - https://en.wikipedia.org/wiki/Greg_Wilson_(politician)
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_wilson_greg_1
+  - https://www.linkedin.com/in/greg-wilson-37b53057
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-meyer-heather
+  openstates_id: ocd-person/eaf4ca2d-ba48-4c99-88cc-2845e7237143
+  full_name: Heather Meyer
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_meyer_heather_1.jpg
+  phone: ""
+  email: heather.meyer@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_meyer_heather_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Heather_Meyer
+  - https://en.wikipedia.org/wiki/Heather_Meyer
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_meyer_heather_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_meyer_heather_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_meyer_heather_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_meyer_heather_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_meyer_heather_1/
+  - https://www.linkedin.com/in/heather-meyer-9489bbb
+  - https://www.linkedin.com/in/heathermeyer29
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-helgerson-henry
+  openstates_id: ocd-person/d951217c-00c1-4957-842b-02ecf79ee70d
+  full_name: Henry Helgerson
+  office_title: State Representative
+  chamber: house
+  district: "83"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rep_helgerson_henry_1.jpg
+  phone: ""
+  email: henry.helgerson@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_helgerson_henry_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Henry_Helgerson
+  - https://en.wikipedia.org/wiki/Henry_Helgerson
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_helgerson_henry_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_helgerson_henry_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_helgerson_henry_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_helgerson_henry_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_helgerson_henry_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-ousley-jarrod
+  openstates_id: ocd-person/65fa3818-4803-4821-8533-51a7802694ec
+  full_name: Jarrod Ousley
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_ousley_jarrod_1.jpg
+  phone: ""
+  email: jarrod.ousley@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_ousley_jarrod_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jarrod_Ousley
+  - https://en.wikipedia.org/wiki/Jarrod_Ousley
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_ousley_jarrod_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ousley_jarrod_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ousley_jarrod_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_ousley_jarrod_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_ousley_jarrod_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-goetz-jason
+  openstates_id: ocd-person/55f1cbff-5420-44f1-8d6e-1970317cd150
+  full_name: Jason Goetz
+  office_title: State Representative
+  chamber: house
+  district: "119"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_goetz_jason_1.jpg
+  phone: ""
+  email: jason.goetz@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_goetz_jason_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jason_Goetz
+  - https://en.wikipedia.org/wiki/Jason_Goetz
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_goetz_jason_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_goetz_jason_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_goetz_jason_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_goetz_jason_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_goetz_jason_1/
+  - https://www.linkedin.com/in/jason-goetz-a7550875
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-klemp-jeff
+  openstates_id: ocd-person/49a02bbc-55ad-456e-9175-d51041b583de
+  full_name: Jeff Klemp
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JeffKlemp2024.jpg
+  phone: ""
+  email: jeff.klemp@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_klemp_jeff_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Klemp
+  - https://justfacts.votesmart.org/candidate/biography/218066/jeff-klemp
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_klemp_jeff_1
+  - https://www.linkedin.com/in/jeffrey-klemp-045894
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-stogsdill-jerry
+  openstates_id: ocd-person/4a358caf-0fad-4d45-8fa7-3c5ef062a544
+  full_name: Jerry Stogsdill
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_stogsdill_jerry_1.jpg
+  phone: ""
+  email: jerry.stogsdill@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_stogsdill_jerry_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jerry_Stogsdill
+  - https://en.wikipedia.org/wiki/Jerry_Stogsdill
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_stogsdill_jerry_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_stogsdill_jerry_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_stogsdill_jerry_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_stogsdill_jerry_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_stogsdill_jerry_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-borjon-jesse
+  openstates_id: ocd-person/0c2ba27f-4208-475d-a625-a12c5f0581b5
+  full_name: Jesse Borjon
+  office_title: State Representative
+  chamber: house
+  district: "52"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_borjon_jesse_1.jpg
+  phone: ""
+  email: jesse.borjon@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_borjon_jesse_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jesse_Borjon
+  - https://en.wikipedia.org/wiki/Jesse_Borjon
+  - https://justfacts.votesmart.org/candidate/193001/jesse-borjon
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_borjon_jesse_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_borjon_jesse_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_borjon_jesse_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_borjon_jesse_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_borjon_jesse_1/
+  - https://www.linkedin.com/in/jesse-borjon-591b71b0
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-ward-jill
+  openstates_id: ocd-person/6d763b0e-63b6-4b79-9d38-bad4095c9d28
+  full_name: Jill Ward
+  office_title: State Representative
+  chamber: house
+  district: "105"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JillWard24.jpeg
+  phone: ""
+  email: jill.ward@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_ward_jill_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jill_Ward
+  - https://en.wikipedia.org/wiki/Jill_Ward
+  - https://justfacts.votesmart.org/candidate/biography/218278/jill-ward
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_ward_jill_1
+  - https://www.linkedin.com/in/jill-ward-06697510
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-minnix-jim
+  openstates_id: ocd-person/ca29b8ff-9845-40ba-a196-458cef943041
+  full_name: Jim Minnix
+  office_title: State Representative
+  chamber: house
+  district: "118"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_minnix_jim_1.jpg
+  phone: ""
+  email: jim.minnix@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_minnix_jim_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jim_Minnix
+  - https://en.wikipedia.org/wiki/Jim_Minnix
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_minnix_jim_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_minnix_jim_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_minnix_jim_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_minnix_jim_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_minnix_jim_1/
+  - https://www.linkedin.com/in/james-minnix-55558411
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-hoye-jo
+  openstates_id: ocd-person/f66696d0-6a3c-4b91-9f41-ed016e74d4ef
+  full_name: Jo Ella Hoye
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jo-Ella-Hoye.PNG
+  phone: ""
+  email: joella.hoye@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_hoye_jo_ella_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jo_Ella_Hoye
+  - https://en.wikipedia.org/wiki/Jo_Ella_Hoye
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_hoye_jo_ella_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoye_jo_ella_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoye_jo_ella_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_hoye_jo_ella_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_hoye_jo_ella_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-claeys-joe
+  openstates_id: ocd-person/918f677f-eac8-4e2d-acc9-eb2c3e4de80f
+  full_name: Joe Claeys
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/sen_claeys_joseph_1.jpg
+  phone: ""
+  email: joseph.claeys@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_claeys_joseph_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_Claeys
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_claeys_joseph_1
+  - https://www.linkedin.com/in/claeysjoseph
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-seiwert-joe
+  openstates_id: ocd-person/29dad718-27f5-4cbb-9a2c-56fad33e4569
+  full_name: Joe Seiwert
+  office_title: State Representative
+  chamber: house
+  district: "101"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_seiwert_joe_1.jpg
+  phone: ""
+  email: joe.seiwert@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_seiwert_joe_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_Seiwert
+  - https://en.wikipedia.org/wiki/Joe_Seiwert
+  - https://justfacts.votesmart.org/candidate/biography/107323/joe-seiwert
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_seiwert_joe_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_seiwert_joe_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_seiwert_joe_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_seiwert_joe_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_seiwert_joe_1/
+  - https://www.linkedin.com/in/joe-seiwert-90562a44
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-alcala-john
+  openstates_id: ocd-person/f29363f0-8ac1-4c25-a8a7-74db5cefd9a4
+  full_name: John Alcala
+  office_title: State Representative
+  chamber: house
+  district: "57"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_alcala_john_1.jpg
+  phone: ""
+  email: john.alcala@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_alcala_john_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Alcala
+  - https://en.wikipedia.org/wiki/John_Alcala
+  - https://justfacts.votesmart.org/candidate/biography/73317/john-alcala
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_alcala_john_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_alcala_john_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_alcala_john_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_alcala_john_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_alcala_john_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-carmichael-john
+  openstates_id: ocd-person/0ce6641b-4793-4194-8a6b-de220fcb20d5
+  full_name: John Carmichael
+  office_title: State Representative
+  chamber: house
+  district: "92"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/John_Carmichael.jpg
+  phone: ""
+  email: john.carmichael@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_carmichael_john_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Carmichael_(Kansas)
+  - https://en.wikipedia.org/wiki/John_Carmichael_(Kansas_politician)
+  - https://justfacts.votesmart.org/candidate/biography/151210/john-carmichael
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_carmichael_john_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carmichael_john_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carmichael_john_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_carmichael_john_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_carmichael_john_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-ohaebosim-kc
+  openstates_id: ocd-person/16ed9e2b-5a1b-48b1-99c9-651a55061060
+  full_name: K.C. Ohaebosim
+  office_title: State Representative
+  chamber: house
+  district: "89"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_ohaebosim_kc_1.jpg
+  phone: ""
+  email: kc.ohaebosim@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_ohaebosim_kc_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/KC_Ohaebosim
+  - https://en.wikipedia.org/wiki/KC_Ohaebosim
+  - https://justfacts.votesmart.org/candidate/biography/107061/kc-ohaebosim
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_ohaebosim_kc_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ohaebosim_kc_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ohaebosim_kc_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_ohaebosim_kc_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_ohaebosim_kc_1/
+  - https://www.linkedin.com/in/kc-ohaebosim-a3ba143
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-warren-kellie
+  openstates_id: ocd-person/85a66c0d-6f9e-4a55-947e-4d3dc28af0d8
+  full_name: Kellie Warren
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/sen_warren_kellie_1.jpg
+  phone: ""
+  email: kellie.warren@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_warren_kellie_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kellie_Warren
+  - https://en.wikipedia.org/wiki/Kellie_Warren
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_warren_kellie_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_warren_kellie_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_warren_kellie_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_warren_kellie_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_warren_kellie_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_warren_kellie_1/
+  - https://www.linkedin.com/in/kellie-warren-5b510014a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-corbet-ken
+  openstates_id: ocd-person/afee9b4c-c30b-4cba-b5a2-e20a186c75b1
+  full_name: Ken Corbet
+  office_title: State Representative
+  chamber: house
+  district: "54"
+  party: Republican
+  status: active
+  photo_url: https://ogden_images.s3.amazonaws.com/www.ljworld.com/images/2012/10/21162428/corbet_ken-682x1024.jpg
+  phone: ""
+  email: ken.corbet@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_corbet_ken_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ken_Corbet
+  - https://en.wikipedia.org/wiki/Ken_Corbet
+  - https://justfacts.votesmart.org/candidate/biography/138058/ken-corbet
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_corbet_ken_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_corbet_ken_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_corbet_ken_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_corbet_ken_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_corbet_ken_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-rahjes-ken
+  openstates_id: ocd-person/782cdea1-59a1-4930-8126-ffd1264420f9
+  full_name: Ken Rahjes
+  office_title: State Representative
+  chamber: house
+  district: "110"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_rahjes_ken_1.jpg
+  phone: ""
+  email: ken.rahjes@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_rahjes_ken_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ken_Rahjes
+  - https://en.wikipedia.org/wiki/Ken_Rahjes
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_rahjes_ken_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_rahjes_ken_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_rahjes_ken_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_rahjes_ken_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_rahjes_ken_1/
+  - https://www.linkedin.com/in/ken-rahjes-0491229
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-collins-ken
+  openstates_id: ocd-person/9d1f2540-8f56-49c1-be08-2ee7b7faed8e
+  full_name: Ken Collins
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_collins_kenneth_1.jpg
+  phone: ""
+  email: ken.collins@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_collins_kenneth_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kenneth_Collins_(Kansas)
+  - https://en.wikipedia.org/wiki/Ken_Collins_(Kansas_politician)
+  - https://justfacts.votesmart.org/candidate/biography/183509/kenneth-collins
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_collins_kenneth_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_collins_kenneth_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_collins_kenneth_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_collins_kenneth_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_collins_kenneth_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-titus-kenny
+  openstates_id: ocd-person/8a353296-bd2d-4fd6-b1b9-d8b3c8b3f771
+  full_name: Kenny Titus
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_titus_kenny_1.jpg
+  phone: ""
+  email: kenny.titus@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_titus_kenny_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kenny_Titus
+  - https://en.wikipedia.org/wiki/Kenny_Titus
+  - https://justfacts.votesmart.org/candidate/biography/208090/kenny-titus
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_titus_kenny_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_titus_kenny_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_titus_kenny_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_titus_kenny_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_titus_kenny_1/
+  - https://www.linkedin.com/in/kenneth-titus-7ba97989
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-schwertfeger-kevin
+  openstates_id: ocd-person/d0ddb22e-8135-4ca0-856a-4c00c29f1d47
+  full_name: Kevin Schwertfeger
+  office_title: State Representative
+  chamber: house
+  district: "114"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_schwertfeger_kevin_1.jpg
+  phone: ""
+  email: kevin.schwertfeger@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_schwertfeger_kevin_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kevin_Schwertfeger
+  - https://en.wikipedia.org/wiki/Kevin_Schwertfeger
+  - https://justfacts.votesmart.org/candidate/biography/218286/kevin-schwertfeger
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_schwertfeger_kevin_1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-haskins-kirk
+  openstates_id: ocd-person/a81f29c0-88a5-4984-a36e-214eddb912fb
+  full_name: Kirk Haskins
+  office_title: State Representative
+  chamber: house
+  district: "53"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_haskins_kirk_1.jpg
+  phone: ""
+  email: kirk.haskins@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_haskins_kirk_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kirk_Haskins
+  - https://en.wikipedia.org/wiki/Kirk_Haskins
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_haskins_kirk_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_haskins_kirk_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_haskins_kirk_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_haskins_kirk_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_haskins_kirk_1/
+  - https://www.linkedin.com/in/kirkhaskins
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-williams-kristey
+  openstates_id: ocd-person/81803637-3bf0-4bbe-9ae4-7724488955b7
+  full_name: Kristey Williams
+  office_title: State Representative
+  chamber: house
+  district: "77"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_williams_kristey_1.jpg
+  phone: ""
+  email: kristey.williams@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_williams_kristey_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kristey_Williams
+  - https://en.wikipedia.org/wiki/Kristey_Williams
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_williams_kristey_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_williams_kristey_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_williams_kristey_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_williams_kristey_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_williams_kristey_1/
+  - https://www.linkedin.com/in/kristey-williams-2368b06
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-hoffman-kyle
+  openstates_id: ocd-person/c51517ec-db1e-433d-a1d0-683547ae34a2
+  full_name: Kyle Hoffman
+  office_title: State Representative
+  chamber: house
+  district: "116"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_hoffman_kyle_1.jpg
+  phone: ""
+  email: kyle.hoffman@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_hoffman_kyle_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kyle_Hoffman
+  - https://en.wikipedia.org/wiki/Kyle_Hoffman
+  - https://justfacts.votesmart.org/candidate/biography/125232/kyle-hoffman
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_hoffman_kyle_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoffman_kyle_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoffman_kyle_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_hoffman_kyle_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_hoffman_kyle_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-mcnorton-kyle
+  openstates_id: ocd-person/2abcd1bf-54b0-4abe-a716-065895d88d6b
+  full_name: Kyle McNorton
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_mcnorton_kyle_1.jpg
+  phone: ""
+  email: kyle.mcnorton@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_mcnorton_kyle_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kyle_McNorton
+  - https://en.wikipedia.org/wiki/Kyle_McNorton
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_mcnorton_kyle_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_mcnorton_kyle_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_mcnorton_kyle_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_mcnorton_kyle_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_mcnorton_kyle_1/
+  - https://www.linkedin.com/in/kyle-mcnorton-b1219136
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-sweely-kyler
+  openstates_id: ocd-person/630804aa-ee95-4839-9b15-7522ef06d5dd
+  full_name: Kyler Sweely
+  office_title: State Representative
+  chamber: house
+  district: "102"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_sweely_kyler_1.jpg
+  phone: ""
+  email: kyler.sweely@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_sweely_kyler_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kyler_Sweely
+  - https://en.wikipedia.org/wiki/Kyler_Sweely
+  - https://justfacts.votesmart.org/candidate/218273/kyler-sweely
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_sweely_kyler_1
+  - https://www.linkedin.com/in/kyler-sweely-62853a178
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-neelly-lance
+  openstates_id: ocd-person/a1546322-9d4b-467c-a65a-57dddcc9c4cf
+  full_name: Lance Neelly
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_neelly_lance_1.jpg
+  phone: ""
+  email: lance.neelly@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_neelly_lance_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lance_Neelly
+  - https://en.wikipedia.org/wiki/Lance_Neelly
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_neelly_lance_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_neelly_lance_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_neelly_lance_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_neelly_lance_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_neelly_lance_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-alley-larry
+  openstates_id: ocd-person/4c340817-c498-4df6-afe4-d3251ce6594b
+  full_name: Larry Alley
+  office_title: State Senator
+  chamber: senate
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Larry_Alley.jpg
+  phone: ""
+  email: larry.alley@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_alley_larry_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Larry_Alley
+  - https://justfacts.votesmart.org/candidate/biography/128209/larry-alley
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_alley_larry_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_alley_larry_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_alley_larry_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_alley_larry_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_alley_larry_1/
+  - https://www.linkedin.com/in/larry-alley-201a4a148
+  - https://www.linkedin.com/in/larry-alley-32831430
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-williams-laura
+  openstates_id: ocd-person/0ebc0742-f24c-4ab3-9155-7a4c37e2fa87
+  full_name: Laura Williams
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: http://www.kslegislature.org/li/s/images/pics/rep_williams_laura_1.jpg
+  phone: ""
+  email: laura.williams@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_williams_laura_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Laura_Williams
+  - https://en.wikipedia.org/wiki/Laura_Williams_(politician)
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_williams_laura_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_williams_laura_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_williams_laura_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_williams_laura_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_williams_laura_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-bohi-lauren
+  openstates_id: ocd-person/20c5c197-1683-45a4-a6f6-32b9cab0ba93
+  full_name: Lauren Bohi
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_bohi_lauren_1.jpg
+  phone: ""
+  email: lauren.bohi@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_bohi_lauren_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lauren_Bohi
+  - https://en.wikipedia.org/wiki/Lauren_Bohi
+  - https://justfacts.votesmart.org/candidate/biography/218114/lauren-bohi
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_bohi_lauren_1
+  - https://www.linkedin.com/in/lauren-bohi-2b531177
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-howell-leah
+  openstates_id: ocd-person/567cbef1-19d5-4e90-9b32-d7f2d45428d6
+  full_name: Leah Howell
+  office_title: State Representative
+  chamber: house
+  district: "82"
+  party: Republican
+  status: active
+  photo_url: https://img1.wsimg.com/isteam/ip/534758f8-3fcd-4777-8cd5-06b294ad98e6/Snapseed.JPG/:/cr=t:0%25,l:0%25,w:100%25,h:100%25
+  phone: ""
+  email: leah.howell@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_howell_leah_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Leah_Howell
+  - https://en.wikipedia.org/wiki/Leah_Howell
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_howell_leah_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_howell_leah_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_howell_leah_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_howell_leah_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_howell_leah_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-delperdang-leo
+  openstates_id: ocd-person/0f185c85-3f64-4f47-9a64-048b1e009181
+  full_name: Leo Delperdang
+  office_title: State Representative
+  chamber: house
+  district: "94"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rep_delperdang_leo_1.jpg
+  phone: ""
+  email: leo.delperdang@house.ks.gov
+  address: ""
+  official_website: https://kslegislature.gov/li/b2025_26/members/rep_delperdang_leo_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Leo_Delperdang
+  - https://en.wikipedia.org/wiki/Leo_Delperdang
+  - https://justfacts.votesmart.org/candidate/biography/171988/leo-delperdang
+  - https://kslegislature.gov/li/b2025_26/members/rep_delperdang_leo_1
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_delperdang_leo_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_delperdang_leo_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_delperdang_leo_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_delperdang_leo_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_delperdang_leo_1/
+  - https://www.linkedin.com/in/leo-delperdang-48b89646
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-bloom-bill
+  openstates_id: ocd-person/e6316819-6e7e-4560-9acf-a7c28e5cfbe7
+  full_name: Bill Bloom
+  office_title: State Representative
+  chamber: house
+  district: "64"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Lewis_Bloom.png
+  phone: ""
+  email: lewis.bloom@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_bloom_lewis_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lewis_Bloom
+  - https://en.wikipedia.org/wiki/Lewis_Bloom
+  - https://justfacts.votesmart.org/candidate/208099/lewis-bloom
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_bloom_lewis_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_bloom_lewis_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_bloom_lewis_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_bloom_lewis_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_bloom_lewis_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-featherston-linda
+  openstates_id: ocd-person/dd5d95d7-16a3-4094-8c3f-d1319fb5b61a
+  full_name: Linda Featherston
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Linda-Featherston.jpg
+  phone: ""
+  email: linda.featherston@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_featherston_linda_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Linda_Featherston
+  - https://en.wikipedia.org/wiki/Linda_Featherston
+  - https://justfacts.votesmart.org/candidate/biography/193015/linda-featherston
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_featherston_linda_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_featherston_linda_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_featherston_linda_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_featherston_linda_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_featherston_linda_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-vaughn-lindsay
+  openstates_id: ocd-person/4a16a87e-2567-4361-9874-aaee47278840
+  full_name: Lindsay Vaughn
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_vaughn_lindsay_1.jpg
+  phone: ""
+  email: lindsay.vaughn@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_vaughn_lindsay_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lindsay_Vaughn
+  - https://en.wikipedia.org/wiki/Lindsay_Vaughn
+  - https://justfacts.votesmart.org/candidate/193046/lindsay-vaughn
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_vaughn_lindsay_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_vaughn_lindsay_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_vaughn_lindsay_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_vaughn_lindsay_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_vaughn_lindsay_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-moser-lisa
+  openstates_id: ocd-person/019607dd-e8e2-4c2e-b4cc-e95ccddb54a2
+  full_name: Lisa Moser
+  office_title: State Representative
+  chamber: house
+  district: "106"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_moser_lisa_1.jpg
+  phone: ""
+  email: lisa.moser@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_moser_lisa_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lisa_Moser_(Kansas)
+  - https://en.wikipedia.org/wiki/Lisa_Moser_(politician)
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_moser_lisa_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_moser_lisa_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_moser_lisa_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_moser_lisa_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_moser_lisa_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-pishny-lon
+  openstates_id: ocd-person/783cb220-757e-47e3-9d95-5d6be22c8ee2
+  full_name: Lon Pishny
+  office_title: State Representative
+  chamber: house
+  district: "122"
+  party: Republican
+  status: active
+  photo_url: https://chambermaster.blob.core.windows.net/images/customers/1593/representatives/11391/400x400/Lon+Pishny_2640500.jpg
+  phone: ""
+  email: lon.pishny@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_pishny_lon_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lon_Pishny
+  - https://en.wikipedia.org/wiki/Lon_Pishny
+  - https://justfacts.votesmart.org/candidate/biography/159232/lon-pishny
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_pishny_lon_1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-ruiz-louis
+  openstates_id: ocd-person/6a7f0eed-6a34-4bd2-842c-2978ca9c6008
+  full_name: Louis Ruiz
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_ruiz_louis_1.jpg
+  phone: ""
+  email: louis.ruiz@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_ruiz_louis_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Louis_Ruiz
+  - https://en.wikipedia.org/wiki/Louis_Ruiz
+  - https://justfacts.votesmart.org/candidate/biography/34820/louis-ruiz
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_ruiz_louis_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ruiz_louis_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ruiz_louis_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_ruiz_louis_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_ruiz_louis_1/
+  - https://www.linkedin.com/in/louis-ruiz-76a8494
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-melton-lynn
+  openstates_id: ocd-person/c1529b6d-c377-4491-9397-d61c1301243a
+  full_name: Lynn Melton
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_melton_lynn_1.jpg
+  phone: ""
+  email: lynn.melton@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_melton_lynn_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lynn_Melton
+  - https://en.wikipedia.org/wiki/Lynn_Melton
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_melton_lynn_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_melton_lynn_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_melton_lynn_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_melton_lynn_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_melton_lynn_1/
+  - https://www.linkedin.com/in/lynn-melton-34288413
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-francisco-marci
+  openstates_id: ocd-person/4fca7c3e-1f7c-455e-b555-a293ff578e60
+  full_name: Marci Francisco
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/sen_francisco_marci_1.jpg
+  phone: ""
+  email: marci.francisco@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_francisco_marci_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marci_Francisco
+  - https://en.wikipedia.org/wiki/Marci_Francisco
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_francisco_marci_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_francisco_marci_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_francisco_marci_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_francisco_marci_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_francisco_marci_1/
+  - https://www.linkedin.com/in/marci-francisco-81b2b4b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-poskin-marilynn
+  openstates_id: ocd-person/46d9caea-ab2c-4a6e-a08c-ebc927403dc8
+  full_name: Mari-Lynn Poskin
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_poskin_mari_lynn_1.jpg
+  phone: ""
+  email: mari-lynn.poskin@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_poskin_mari_lynn_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mari-Lynn_Poskin
+  - https://en.wikipedia.org/wiki/Mari-Lynn_Poskin
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_poskin_mari_lynn_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_poskin_mari_lynn_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_poskin_mari_lynn_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_poskin_mari_lynn_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_poskin_mari_lynn_1/
+  - https://www.linkedin.com/in/kccollegeconnect
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-schreiber-mark
+  openstates_id: ocd-person/1748d756-be07-4eaf-be90-82992092e990
+  full_name: Mark Schreiber
+  office_title: State Representative
+  chamber: house
+  district: "60"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_schreiber_mark_1.jpg
+  phone: ""
+  email: mark.schreiber@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_schreiber_mark_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Schreiber_(Kansas)
+  - https://en.wikipedia.org/wiki/Mark_Schreiber_(Kansas_politician)
+  - https://schreiberforkansas.com/meet-mark-schreiber
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_schreiber_mark_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_schreiber_mark_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_schreiber_mark_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_schreiber_mark_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_schreiber_mark_1/
+  - https://www.linkedin.com/in/mark-schreiber-72713014
+  - https://www.schreiberforkansas.com/meet-mark-schreiber
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-long-marty
+  openstates_id: ocd-person/ef29753b-3048-4126-bc08-353befde18ab
+  full_name: Marty Long
+  office_title: State Representative
+  chamber: house
+  district: "124"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_long_martin_1.jpg
+  phone: ""
+  email: marty.long@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_long_martin_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Martin_Long_(Kansas)
+  - https://en.wikipedia.org/wiki/Marty_Long
+  - https://justfacts.votesmart.org/candidate/biography/87095/martin-long
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_long_martin_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_long_martin_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_long_martin_1/
+  - https://www.kslegislature.org/li_2022/b2021_22/members/rep_long_martin_1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-steele-megan
+  openstates_id: ocd-person/2b9bf649-25fe-4910-8ee9-fe1de5e978da
+  full_name: Megan Steele
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_steele_megan_1.jpg
+  phone: ""
+  email: megan.steele@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_steele_megan_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Megan_Steele
+  - https://en.wikipedia.org/wiki/Megan_Steele
+  - https://justfacts.votesmart.org/candidate/218235/megan-steele
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_steele_megan_1
+  - https://www.linkedin.com/in/dr-megan-d-steele-5a8ab71ab
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-oropeza-melissa
+  openstates_id: ocd-person/faf6de90-d016-4f46-8b12-0be42d361030
+  full_name: Melissa Oropeza
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Democratic
+  status: active
+  photo_url: https://static.wixstatic.com/media/b85886_bf3234c73f3d4fc9860eabd10f95d123~mv2.jpg
+  phone: ""
+  email: melissa.oropeza@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_oropeza_melissa_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Melissa_Oropeza
+  - https://en.wikipedia.org/wiki/Melissa_Oropeza
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_oropeza_melissa_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_oropeza_melissa_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_oropeza_melissa_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_oropeza_melissa_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_oropeza_melissa_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-fagg-mike
+  openstates_id: ocd-person/a0787678-986f-459f-bba3-38d46ef55d8b
+  full_name: Mike Fagg
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/sen_fagg_michael_1.jpg
+  phone: ""
+  email: michael.fagg@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_fagg_michael_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Fagg
+  - https://en.wikipedia.org/wiki/Michael_Fagg
+  - https://justfacts.votesmart.org/candidate/biography/192911/michael-fagg
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_fagg_michael_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_fagg_michael_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_fagg_michael_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_fagg_michael_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_fagg_michael_1/
+  - https://www.linkedin.com/in/mike-fagg-50910628
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-murphy-mike
+  openstates_id: ocd-person/8b446a75-944d-4292-8af0-f5114be39021
+  full_name: Mike Murphy
+  office_title: State Senator
+  chamber: senate
+  district: "34"
+  party: Republican
+  status: active
+  photo_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvKwXLW2-GGx639WKAs10NgKJgmOprF8JoSnBrc3tSNe41yMEh6bGuVEiIvAulBU795Tk&usqp=CAU
+  phone: ""
+  email: michael.murphy@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_murphy_michael_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Murphy_(Kansas)
+  - https://en.wikipedia.org/wiki/Michael_Murphy_(Kansas_politician)
+  - https://justfacts.votesmart.org/candidate/biography/192945/michael-murphy
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_murphy_michael_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_murphy_michael_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_murphy_michael_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_murphy_michael_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_murphy_michael_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-amyx-mike
+  openstates_id: ocd-person/05204bb3-1917-4f12-848e-b83f68f5fddf
+  full_name: Mike Amyx
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Democratic
+  status: active
+  photo_url: https://assets.lawrenceks.org/images/commission/mike-amyx.jpg
+  phone: ""
+  email: mike.amyx@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_amyx_mike_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Amyx
+  - https://en.wikipedia.org/wiki/Mike_Amyx
+  - https://justfacts.votesmart.org/candidate/biography/73996/mike-amyx
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_amyx_mike_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_amyx_mike_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_amyx_mike_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_amyx_mike_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_amyx_mike_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-argabright-mike
+  openstates_id: ocd-person/8810cb09-9e5a-49a9-a37c-00ab2924a16b
+  full_name: Mike Argabright
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://firststudentinc.com/wp-content/uploads/Michael-Argabright-KS-SOY-2023.png
+  phone: ""
+  email: mike.argabright@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_argabright_mike_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Argabright
+  - https://justfacts.votesmart.org/candidate/biography/218080/mike-argabright
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_argabright_mike_1
+  - https://www.linkedin.com/in/dr-michael-argabright-15192311
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-king-mike
+  openstates_id: ocd-person/59368846-3703-44a5-a898-d7ab00c32c8b
+  full_name: Mike King
+  office_title: State Representative
+  chamber: house
+  district: "74"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_king_mike_1.jpg
+  phone: ""
+  email: mike.king@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_king_mike_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_King_(Kansas)
+  - https://en.wikipedia.org/wiki/Mike_King_(transportation_executive)
+  - https://justfacts.votesmart.org/candidate/biography/218255/mike-king
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_king_mike_1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-petersen-mike
+  openstates_id: ocd-person/4d244ceb-6d50-4670-93db-22ad153b3961
+  full_name: Mike Petersen
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/sen_petersen_mike_1.jpg
+  phone: ""
+  email: mike.petersen@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_petersen_mike_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Petersen_(Kansas)
+  - https://en.wikipedia.org/wiki/Mike_Petersen_(Kansas_politician)
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_petersen_mike_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_petersen_mike_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_petersen_mike_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_petersen_mike_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_petersen_mike_1/
+  - https://www.linkedin.com/in/mikepetersenkansas
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-storm-mike
+  openstates_id: ocd-person/daab06b2-f8a1-4ef4-96b4-3826ab4a3905
+  full_name: Mike Storm
+  office_title: State Representative
+  chamber: house
+  district: "121"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_storm_mike_1.jpg
+  phone: ""
+  email: mike.storm@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_storm_mike_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Storm
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_storm_mike_1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-thompson-mike
+  openstates_id: ocd-person/97943c08-7d1f-400e-b71d-7a20e939b1d9
+  full_name: Mike Thompson
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: http://www.kslegislature.org/li/s/images/pics/sen_thompson_mike_1.jpg
+  phone: ""
+  email: mike.thompson@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_thompson_mike_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Thompson_(Kansas_state_senator)
+  - https://en.wikipedia.org/wiki/Mike_Thompson_(Kansas_senator)
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_thompson_mike_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_thompson_mike_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_thompson_mike_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_thompson_mike_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_thompson_mike_1/
+  - https://www.linkedin.com/in/mike-thompson-01b3693a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-butler-nate
+  openstates_id: ocd-person/529d7e5b-3acd-467b-b6b2-bf4314fcf633
+  full_name: Nate Butler
+  office_title: State Representative
+  chamber: house
+  district: "68"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_butler_nathan_1.jpg
+  phone: ""
+  email: nate.butler@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_butler_nathan_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nathan_Butler
+  - https://justfacts.votesmart.org/candidate/208107/nathan-butler
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_butler_nathan_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_butler_nathan_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_butler_nathan_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_butler_nathan_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_butler_nathan_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-hoheisel-nick
+  openstates_id: ocd-person/df19b642-2877-4b6d-ab29-bbdd26deaa26
+  full_name: Nick Hoheisel
+  office_title: State Representative
+  chamber: house
+  district: "97"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_hoheisel_nick_1.jpg
+  phone: ""
+  email: nick.hoheisel@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_hoheisel_nick_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nick_Hoheisel
+  - https://en.wikipedia.org/wiki/Nick_Hoheisel
+  - https://justfacts.votesmart.org/candidate/biography/171996/nick-hoheisel
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_hoheisel_nick_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoheisel_nick_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoheisel_nick_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_hoheisel_nick_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_hoheisel_nick_1/
+  - https://www.linkedin.com/in/nick-hoheisel-55a43978
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-mcdonald-nikki
+  openstates_id: ocd-person/7bb01d00-be23-4fb4-ab33-074c2826b69e
+  full_name: Nikki McDonald
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_mcdonald_nikki_1.jpg
+  phone: ""
+  email: nikki.mcdonald@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_mcdonald_nikki_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nikki_McDonald
+  - https://en.wikipedia.org/wiki/Nikki_McDonald
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_mcdonald_nikki_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_mcdonald_nikki_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_mcdonald_nikki_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_mcdonald_nikki_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_mcdonald_nikki_1/
+  - https://www.linkedin.com/in/nikkilmcdonald
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-faustgoudeau-oletha
+  openstates_id: ocd-person/9f48288b-b1a9-43a1-884b-5cc2abfa4e4f
+  full_name: Oletha Faust-Goudeau
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Oletha_Faust-Goudeau.jpg
+  phone: ""
+  email: oletha.faust-goudeau@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_faust_goudeau_oletha_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Oletha_Faust-Goudeau
+  - https://en.wikipedia.org/wiki/Oletha_Faust-Goudeau
+  - https://justfacts.votesmart.org/candidate/biography/34890/oletha-faust-goudeau
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_faust_goudeau_oletha_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_faust_goudeau_oletha_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_faust_goudeau_oletha_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_faust_goudeau_oletha_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_faust_goudeau_oletha_1/
+  - https://www.linkedin.com/in/oletha-faust-goudeau-a8172938
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-curtis-pam
+  openstates_id: ocd-person/57e6524f-40c5-4708-89ad-c80570bf31b1
+  full_name: Pam Curtis
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_curtis_pam_1.jpg
+  phone: ""
+  email: pam.curtis@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_curtis_pam_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pam_Curtis
+  - https://en.wikipedia.org/wiki/Pam_Curtis
+  - https://justfacts.votesmart.org/candidate/biography/151914/pam-curtis
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_curtis_pam_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_curtis_pam_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_curtis_pam_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_curtis_pam_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_curtis_pam_1/
+  - https://www.linkedin.com/in/pam-curtis-002b85a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-pettey-pat
+  openstates_id: ocd-person/148ed29a-4c96-4e69-9791-29b2bd3f09b6
+  full_name: Pat Pettey
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/sen_pettey_pat_1.jpg
+  phone: ""
+  email: pat.pettey@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_pettey_pat_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pat_Pettey
+  - https://en.wikipedia.org/wiki/Pat_Pettey
+  - https://justfacts.votesmart.org/candidate/biography/7013/pat-pettey
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_pettey_pat_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_pettey_pat_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_pettey_pat_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_pettey_pat_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_pettey_pat_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-proctor-pat
+  openstates_id: ocd-person/fcd23935-0e7e-4896-9381-45ca745e8903
+  full_name: Pat Proctor
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_proctor_pat_1.jpg
+  phone: ""
+  email: pat.proctor@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pat_Proctor
+  - https://en.wikipedia.org/wiki/Pat_Proctor
+  - https://justfacts.votesmart.org/candidate/193010/pat-proctor
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_proctor_pat_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_proctor_pat_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_proctor_pat_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_proctor_pat_1/
+  - https://www.linkedin.com/in/pat-proctor-phd-b477575
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-schmidt-patrick
+  openstates_id: ocd-person/8a08b0a9-eeff-495c-8fc8-7bbfe3e4dc26
+  full_name: Patrick Schmidt
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/sen_schmidt_patrick_1.jpg
+  phone: ""
+  email: patrick.schmidt@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_schmidt_patrick_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patrick_Schmidt
+  - https://justfacts.votesmart.org/candidate/207974/patrick-schmidt
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_schmidt_patrick_1
+  - https://www.linkedin.com/in/patrick-schmidt-79a24411
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-waggoner-paul
+  openstates_id: ocd-person/8dc23ca9-1ad8-466d-83d4-453f1bf324b0
+  full_name: Paul Waggoner
+  office_title: State Representative
+  chamber: house
+  district: "104"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_waggoner_paul_1.jpg
+  phone: ""
+  email: paul.waggoner@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_waggoner_paul_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Waggoner
+  - https://en.wikipedia.org/wiki/Paul_Waggoner_(politician)
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_waggoner_paul_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_waggoner_paul_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_waggoner_paul_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_waggoner_paul_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_waggoner_paul_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-schmoe-rebecca
+  openstates_id: ocd-person/23c34f8e-b06b-4de9-91c3-44892dbb2b7d
+  full_name: Rebecca Schmoe
+  office_title: State Representative
+  chamber: house
+  district: "59"
+  party: Republican
+  status: active
+  photo_url: http://www.kslegislature.org/li/s/images/pics/rep_schmoe_rebecca_1.jpg
+  phone: ""
+  email: rebecca.schmoe@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_schmoe_rebecca_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rebecca_Schmoe
+  - https://en.wikipedia.org/wiki/Rebecca_Schmoe
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_schmoe_rebecca_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_schmoe_rebecca_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_schmoe_rebecca_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_schmoe_rebecca_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_schmoe_rebecca_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-erickson-renee
+  openstates_id: ocd-person/3093633a-62dc-4e93-a305-258a20bfd0f2
+  full_name: Renee Erickson
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/sen_erickson_renee_1.jpg
+  phone: ""
+  email: renee.erickson@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_erickson_renee_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Renee_Erickson
+  - https://en.wikipedia.org/wiki/Renee_Erickson_(politician)
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_erickson_renee_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_erickson_renee_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_erickson_renee_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_erickson_renee_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_erickson_renee_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_erickson_renee_1/
+  - https://www.linkedin.com/in/renee-erickson-0aaa644a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-billinger-rick
+  openstates_id: ocd-person/e5d951f2-88c7-47d4-ac28-08c175ba440d
+  full_name: Rick Billinger
+  office_title: State Senator
+  chamber: senate
+  district: "40"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/sen_billinger_rick_1.jpg
+  phone: ""
+  email: rick.billinger@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_billinger_rick_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rick_Billinger
+  - https://en.wikipedia.org/wiki/Rick_Billinger
+  - https://justfacts.votesmart.org/candidate/biography/128532/rick-billinger
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_billinger_rick_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_billinger_rick_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_billinger_rick_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_billinger_rick_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_billinger_rick_1/
+  - https://www.linkedin.com/in/richard-billinger-55092437
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-james-rick
+  openstates_id: ocd-person/241d0891-9169-443e-be77-d3d00a57f401
+  full_name: Rick James
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://fortscott.biz/wp-content/uploads/2024/06/rick-james-submitted-.jpg
+  phone: ""
+  email: rick.james@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_james_ricky_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rick_James_(Kansas)
+  - https://en.wikipedia.org/wiki/Rick_James_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/159354/rick-james
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_james_ricky_1
+  - https://www.linkedin.com/in/rick-james-0082a359
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-kloos-rick
+  openstates_id: ocd-person/5281ab3e-91a8-43be-bcc7-5d9d4c2a2545
+  full_name: Rick Kloos
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://www.ksn.com/wp-content/uploads/sites/13/2018/10/20180607_Rick20Kloos20-20Govenor20Candidate_3420-20Alexandra20Martinez_1539633409099.jpg_59052445_ver1.0.jpg?w=2560&h=1440&crop=1
+  phone: ""
+  email: rick.kloos@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_kloos_rick_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rick_Kloos
+  - https://en.wikipedia.org/wiki/Rick_Kloos
+  - https://justfacts.votesmart.org/candidate/biography/184118/rick-kloos
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_kloos_rick_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_kloos_rick_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_kloos_rick_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_kloos_rick_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_kloos_rick_1/
+  - https://www.linkedin.com/in/rick-kloos-0631a473
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-wilborn-rick
+  openstates_id: ocd-person/d9e298ca-0584-41ff-bb18-082072dfe73f
+  full_name: Rick Wilborn
+  office_title: State Representative
+  chamber: house
+  district: "73"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/sen_wilborn_rick_1.jpg
+  phone: ""
+  email: richard.wilborn@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_wilborn_rick_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rick_Wilborn
+  - https://en.wikipedia.org/wiki/Richard_Wilborn
+  - https://justfacts.votesmart.org/candidate/biography/152461/rick-wilborn
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_wilborn_rick_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_wilborn_rick_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_wilborn_rick_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_wilborn_rick_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_wilborn_rick_1/
+  - https://www.linkedin.com/in/richard-wilborn-78a2aa109
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-essex-robyn
+  openstates_id: ocd-person/d034154f-ba03-4c97-ac96-c4023968f9b3
+  full_name: Robyn Essex
+  office_title: State Representative
+  chamber: house
+  district: "78"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_essex_robyn_1.jpg
+  phone: ""
+  email: robyn.essex@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_essex_robyn_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robyn_Essex
+  - https://en.wikipedia.org/wiki/Robyn_Essex
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_essex_robyn_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_essex_robyn_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_essex_robyn_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_essex_robyn_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_essex_robyn_1/
+  - https://www.linkedin.com/in/robyn-essex-a1290361
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-bryce-ron
+  openstates_id: ocd-person/61d402db-ed53-4310-9c6b-c392755834a6
+  full_name: Ron Bryce
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_bryce_ron_1.jpg
+  phone: ""
+  email: ron.bryce@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_bryce_ron_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ron_Bryce
+  - https://en.wikipedia.org/wiki/Ron_Bryce
+  - https://justfacts.votesmart.org/candidate/207989/ron-bryce
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_bryce_ron_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_bryce_ron_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_bryce_ron_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_bryce_ron_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_bryce_ron_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-ellis-ronald
+  openstates_id: ocd-person/6daed22d-40c3-492c-948a-d3de94499e53
+  full_name: Ronald Ellis
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_ellis_ronald_1.jpg
+  phone: ""
+  email: ronald.ellis@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_ellis_ronald_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ronald_B._Ellis
+  - https://en.wikipedia.org/wiki/Ronald_Ellis_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/140713/ron-ellis
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_ellis_ronald_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ellis_ronald_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ellis_ronald_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_ellis_ronald_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_ellis_ronald_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-ryckman-ron
+  openstates_id: ocd-person/43caafd7-9177-40f4-b515-0681ef5930f3
+  full_name: Ron Ryckman
+  office_title: State Senator
+  chamber: senate
+  district: "38"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/sen_ryckman_ronald_1.jpg
+  phone: ""
+  email: ron.ryckman@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_ryckman_ronald_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ronald_Ryckman
+  - https://en.wikipedia.org/wiki/Ron_Ryckman_Sr.
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_ryckman_ronald_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_ryckman_ronald_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_ryckman_ronald_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_ryckman_ronald_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_ryckman_ronald_1/
+  - https://www.linkedin.com/in/ron-ryckman-sr-33489129
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-xu-rui
+  openstates_id: ocd-person/c4495c7d-3d3a-4651-9c8b-e3c975c0b84c
+  full_name: Rui Xu
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rui_xu.jpg
+  phone: ""
+  email: rui.xu@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_xu_rui_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rui_Xu
+  - https://en.wikipedia.org/wiki/Rui_Xu
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_xu_rui_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_xu_rui_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_xu_rui_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_xu_rui_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_xu_rui_1/
+  - https://www.linkedin.com/in/rui-xu-209a1328
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-parshall-samantha
+  openstates_id: ocd-person/31351496-5fc5-44fc-911f-0e7547a50a72
+  full_name: Samantha Poetter Parshall
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_poetter_samantha_1.jpg
+  phone: ""
+  email: samantha.poetter@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_poetter_samantha_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Samantha_Poetter
+  - https://en.wikipedia.org/wiki/Samantha_Poetter
+  - https://justfacts.votesmart.org/candidate/biography/192934/samantha-poetter-parshall
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_poetter_samantha_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_poetter_samantha_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_poetter_samantha_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_poetter_samantha_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_poetter_samantha_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-pickert-sandy
+  openstates_id: ocd-person/8e21a303-1c30-4c02-a8f8-8eacccb6873c
+  full_name: Sandy Pickert
+  office_title: State Representative
+  chamber: house
+  district: "88"
+  party: Republican
+  status: active
+  photo_url: http://www.kslegislature.org/li/s/images/pics/rep_pickert_sandy_1.jpg
+  phone: ""
+  email: sandy.pickert@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_pickert_sandy_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sandy_Pickert
+  - https://en.wikipedia.org/wiki/Sandy_Pickert
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_pickert_sandy_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_pickert_sandy_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_pickert_sandy_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_pickert_sandy_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_pickert_sandy_1/
+  - https://www.linkedin.com/in/sandy-pickert-3b591b10
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-hill-scott
+  openstates_id: ocd-person/64c3ae14-1ec8-46ed-b317-bcd9722319f5
+  full_name: Scott Hill
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/sen_hill_scott_1.jpg
+  phone: ""
+  email: scott.hill@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_hill_scott_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_Hill
+  - https://en.wikipedia.org/wiki/Scott_Hill_(politician)
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_hill_scott_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hill_scott_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hill_scott_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_hill_scott_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_hill_scott_1/
+  - https://www.linkedin.com/in/scott-hill-9baa128a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-tarwater-sean
+  openstates_id: ocd-person/a65df523-1cb7-4ee3-ac85-1eec82b3fe2c
+  full_name: Sean Tarwater
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_tarwater_sean_1.jpg
+  phone: ""
+  email: sean.tarwater@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_tarwater_sean_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sean_Tarwater_Sr.
+  - https://en.wikipedia.org/wiki/Sean_Tarwater
+  - https://teamtarwater.com/meet-sean-tarwater
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_tarwater_sean_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_tarwater_sean_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_tarwater_sean_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_tarwater_sean_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_tarwater_sean_1/
+  - https://www.linkedin.com/in/sean-e-tarwater-mba-afip-69ba6825
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-willcott-sean
+  openstates_id: ocd-person/c4b83a00-d449-498a-915f-7a7943110545
+  full_name: Sean Willcott
+  office_title: State Representative
+  chamber: house
+  district: "62"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_willcott_sean_1.jpg
+  phone: ""
+  email: sean.willcott@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_willcott_sean_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sean_Willcott
+  - https://en.wikipedia.org/wiki/Sean_Willcott
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_willcott_sean_1
+  - https://www.linkedin.com/in/sean-willcott-77b49422b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-francis-shannon
+  openstates_id: ocd-person/cc0df3af-9c8b-4834-a629-c16e4c8debcb
+  full_name: Shannon Francis
+  office_title: State Representative
+  chamber: house
+  district: "125"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Shannon_Francis.JPG
+  phone: ""
+  email: shannon.francis@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_francis_shannon_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shannon_Francis
+  - https://en.wikipedia.org/wiki/Shannon_Francis
+  - https://justfacts.votesmart.org/candidate/biography/85931/shannon-francis
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_francis_shannon_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_francis_shannon_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_francis_shannon_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_francis_shannon_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_francis_shannon_1/
+  - https://www.linkedin.com/in/shannon-francis-1689316a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-chauncey-shawn
+  openstates_id: ocd-person/97a9a84c-4616-44eb-845c-1e7064c41066
+  full_name: Shawn Chauncey
+  office_title: State Representative
+  chamber: house
+  district: "65"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_chauncey_shawn_1.jpg
+  phone: ""
+  email: shawn.chauncey@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_chauncey_shawn_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shawn_Chauncey
+  - https://justfacts.votesmart.org/candidate/biography/218249/shawn-chauncey
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_chauncey_shawn_1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-brantley-sherri
+  openstates_id: ocd-person/cf31199e-7382-4bbe-9359-92c92b428861
+  full_name: Sherri Brantley
+  office_title: State Representative
+  chamber: house
+  district: "112"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_brantley_sherri_1.jpg
+  phone: ""
+  email: sherri.brantley@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_brantley_sherri_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sherri_Brantley
+  - https://en.wikipedia.org/wiki/Sherri_Brantley
+  - https://justfacts.votesmart.org/candidate/biography/218284/sherri-brantley
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_brantley_sherri_1
+  - https://www.linkedin.com/in/sherri-brantley-637668217
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-miller-silas
+  openstates_id: ocd-person/38e5e1b5-72d2-4968-be98-032e8320d475
+  full_name: Silas Miller
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: https://media.sharethetrail.net/prod_d_1/images/silas-miller_5_sq.height-800.jpg
+  phone: ""
+  email: silas.miller@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_miller_silas_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Silas_Miller
+  - https://en.wikipedia.org/wiki/Silas_Miller
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_miller_silas_1
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_miller_silas_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_miller_silas_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_miller_silas_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_miller_silas_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_miller_silas_1/
+  - https://www.linkedin.com/in/silas-miller-a79593219
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-sawyerclayton-stephanie
+  openstates_id: ocd-person/6c410bc7-76fd-4488-aca4-5158a5a55d70
+  full_name: Stephanie Sawyer-Clayton
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_clayton_stephanie_1.jpg
+  phone: ""
+  email: stephanie.clayton@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_clayton_stephanie_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephanie_Clayton
+  - https://en.wikipedia.org/wiki/Stephanie_Clayton
+  - https://justfacts.votesmart.org/candidate/biography/125047/stephanie-sawyer-clayton
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_clayton_stephanie_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_clayton_stephanie_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_clayton_stephanie_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_clayton_stephanie_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_clayton_stephanie_1/
+  - https://www.linkedin.com/in/stephanie-clayton-37b26724
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-owens-stephen
+  openstates_id: ocd-person/413cc3ff-a3b9-465b-827d-4aeb4b0b42c1
+  full_name: Stephen Owens
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/sen_owens_stephen_1.jpg
+  phone: ""
+  email: stephen.owens@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_owens_stephen_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephen_Owens
+  - https://en.wikipedia.org/wiki/Stephen_Owens_(Kansas_politician)
+  - https://justfacts.votesmart.org/candidate/biography/183573/stephen-owens
+  - https://rethinkkansas.com/about_stephen
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_owens_stephen_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_owens_stephen_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_owens_stephen_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_owens_stephen_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_owens_stephen_1/
+  - https://www.linkedin.com/in/stephen-owens-70a4a919
+  - https://www.rethinkkansas.com/about_stephen
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-brunk-steve
+  openstates_id: ocd-person/434a4028-6a95-4e5c-8f5e-98c8762f6570
+  full_name: Steve Brunk
+  office_title: State Representative
+  chamber: house
+  district: "85"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_brunk_steve_1.jpg
+  phone: ""
+  email: steve.brunk@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_brunk_steve_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steven_Brunk
+  - https://en.wikipedia.org/wiki/Steven_Brunk
+  - https://justfacts.votesmart.org/candidate/biography/34567/steve-brunk
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_brunk_steve_1
+  - https://www.kslegislature.org/li/api/v7/rev-1/members/rep_brunk_steve_1
+  - https://www.linkedin.com/in/steve-brunk-66464312b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-huebert-steve
+  openstates_id: ocd-person/528160f1-93ab-49f0-89d5-c00cf6e87b81
+  full_name: Steve Huebert
+  office_title: State Representative
+  chamber: house
+  district: "90"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_huebert_steve_1.jpg
+  phone: ""
+  email: steve.huebert@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_huebert_steve_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Huebert
+  - https://en.wikipedia.org/wiki/Steve_Huebert
+  - https://justfacts.votesmart.org/candidate/biography/18585/steve-huebert
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_huebert_steve_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_huebert_steve_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_huebert_steve_1/
+  - https://www.kslegislature.org/li_2022/b2021_22/members/rep_huebert_steve_1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-howe-steve
+  openstates_id: ocd-person/e5b4d1e8-40a3-4f75-af3a-36fc7e84a228
+  full_name: Steve Howe
+  office_title: State Representative
+  chamber: house
+  district: "71"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_howe_steven_1.jpg
+  phone: ""
+  email: steven.howe@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_howe_steven_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steven_Howe
+  - https://en.wikipedia.org/wiki/Steven_Howe_(politician)
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_howe_steven_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_howe_steven_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_howe_steven_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_howe_steven_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_howe_steven_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-estes-susan
+  openstates_id: ocd-person/075f264c-efcf-408f-baf8-b3f9306bae36
+  full_name: Susan Estes
+  office_title: State Representative
+  chamber: house
+  district: "87"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_estes_susan_2.jpg
+  phone: ""
+  email: susan.estes@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_estes_susan_2/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Susan_Estes
+  - https://en.wikipedia.org/wiki/Susan_Estes_(politician)
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_estes_susan_2
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_estes_susan_2
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_estes_susan_2/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_estes_susan_2
+  - https://www.kslegislature.org/li/b2023_24/members/rep_estes_susan_2/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-humphries-susan
+  openstates_id: ocd-person/4ab616b7-79d2-4d89-ae25-cd4ea4e8c4c8
+  full_name: Susan Humphries
+  office_title: State Representative
+  chamber: house
+  district: "99"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_humphries_susan_1.jpg
+  phone: ""
+  email: susan.humphries@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_humphries_susan_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Susan_Humphries
+  - https://en.wikipedia.org/wiki/Susan_Humphries
+  - https://justfacts.votesmart.org/candidate/biography/172004/susan-humphries
+  - https://susanhumphries.net/meet-susan
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_humphries_susan_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_humphries_susan_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_humphries_susan_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_humphries_susan_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_humphries_susan_1/
+  - https://www.linkedin.com/in/susan-humphries-83208276
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-ruiz-susan
+  openstates_id: ocd-person/c06bc779-d072-495b-95f8-e5f4e67bdd4c
+  full_name: Susan Ruiz
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: http://www.kslegislature.org/li/s/images/pics/rep_ruiz_susan_1.jpg
+  phone: ""
+  email: susan.ruiz@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_ruiz_susan_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Susan_Ruiz_(Kansas)
+  - https://en.wikipedia.org/wiki/Susan_Ruiz
+  - https://justfacts.votesmart.org/candidate/biography/183533/susan-ruiz
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_ruiz_susan_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ruiz_susan_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ruiz_susan_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_ruiz_susan_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_ruiz_susan_1/
+  - https://www.linkedin.com/in/susan-ruiz-32572416
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-wikle-suzanne
+  openstates_id: ocd-person/e8b970b6-7dee-4073-bc8a-2e6d00193742
+  full_name: Suzanne Wikle
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/SuzanneWikle2024.jpg
+  phone: ""
+  email: suzanne.wikle@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_wikle_suzanne_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Suzanne_Wikle
+  - https://en.wikipedia.org/wiki/Suzanne_Wikle
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_wikle_suzanne_1
+  - https://www.linkedin.com/in/suzanne-wikle-52179822
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-carlin-sydney
+  openstates_id: ocd-person/61dc8b8f-5016-4114-b08a-b2dd0cb16993
+  full_name: Sydney Carlin
+  office_title: State Representative
+  chamber: house
+  district: "66"
+  party: Democratic
+  status: active
+  photo_url: https://assets.nationbuilder.com/carlinforkansas/pages/22/attachments/original/1473126263/IMG_0437.JPG?1473126263
+  phone: ""
+  email: sydney.carlin@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_carlin_sydney_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sydney_Carlin
+  - https://en.wikipedia.org/wiki/Sydney_Carlin
+  - https://justfacts.votesmart.org/candidate/biography/18618/sydney-carlin
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_carlin_sydney_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carlin_sydney_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carlin_sydney_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_carlin_sydney_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_carlin_sydney_1/
+  - https://www.linkedin.com/in/sydney-carlin-2020767
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-shallenburger-tim
+  openstates_id: ocd-person/c091ed05-ad26-42f2-b7e8-a830404cb152
+  full_name: Tim Shallenburger
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: http://www.kslegislature.org/li/s/images/pics/sen_shallenburger_tim_1.jpg
+  phone: ""
+  email: tim.shallenburger@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_shallenburger_tim_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tim_Shallenburger
+  - https://en.wikipedia.org/wiki/Tim_Shallenburger
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_shallenburger_tim_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_shallenburger_tim_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_shallenburger_tim_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_shallenburger_tim_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_shallenburger_tim_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-johnson-tim
+  openstates_id: ocd-person/ecff64bf-dfd7-4df4-a1c2-681348e68fa8
+  full_name: Tim Johnson
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Timothy-Johnson.PNG
+  phone: ""
+  email: timothy.johnson@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_johnson_timothy_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Timothy_Johnson_(Kansas)
+  - https://en.wikipedia.org/wiki/Timothy_H._Johnson
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_johnson_timothy_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_johnson_timothy_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_johnson_timothy_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_johnson_timothy_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_johnson_timothy_1/
+  - https://www.linkedin.com/in/tim-johnson-1424191a9
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-rose-tj
+  openstates_id: ocd-person/5327f35f-aecc-4ecb-a23a-9136c8e503e1
+  full_name: T.J. Rose
+  office_title: State Senator
+  chamber: senate
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TJ_Rose_20240808_093657.jpeg
+  phone: ""
+  email: tj.rose@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_rose_tj_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/TJ_Rose
+  - https://justfacts.votesmart.org/candidate/biography/218098/tj-rose
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_rose_tj_1
+  - https://www.linkedin.com/in/tj-rose-02b31a6
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-schlingensiepen-tobias
+  openstates_id: ocd-person/9e2cc4ba-4ac7-4554-ac51-b41f2c3667d1
+  full_name: Tobias Schlingensiepen
+  office_title: State Representative
+  chamber: house
+  district: "55"
+  party: Democratic
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/62a93b88228a337fdf4f80e2/1655346125169-V2O5XAAA56EL7GFUJ9L6/Tobias+4KH+0422.jpg?format=500w
+  phone: ""
+  email: tobias.schlingensiepen@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_schlingensiepen_tobias_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tobias_Schlingensiepen
+  - https://en.wikipedia.org/wiki/Tobias_Schlingensiepen
+  - https://justfacts.votesmart.org/candidate/biography/140710/tobias-schlingensiepen
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_schlingensiepen_tobias_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_schlingensiepen_tobias_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_schlingensiepen_tobias_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_schlingensiepen_tobias_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_schlingensiepen_tobias_1/
+  - https://www.linkedin.com/in/tobias-schlingensiepen-03b1807
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-kessler-tom
+  openstates_id: ocd-person/9cef565d-6e73-4090-80bc-a752310efc4c
+  full_name: Tom Kessler
+  office_title: State Representative
+  chamber: house
+  district: "96"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.gov/li/s/images/pics/rep_kessler_tom_1.jpg
+  phone: ""
+  email: tom.kessler@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_kessler_tom_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Kessler
+  - https://en.wikipedia.org/wiki/Tom_Kessler
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_kessler_tom_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_kessler_tom_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_kessler_tom_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_kessler_tom_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_kessler_tom_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-sawyer-tom
+  openstates_id: ocd-person/e6ca4faa-17ec-4256-9265-fbba8afcbb0e
+  full_name: Tom Sawyer
+  office_title: State Representative
+  chamber: house
+  district: "95"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_sawyer_tom_1.jpg
+  phone: ""
+  email: tom.sawyer@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_sawyer_tom_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Sawyer_(Kansas)
+  - https://en.wikipedia.org/wiki/Tom_Sawyer_(Kansas_politician)
+  - https://justfacts.votesmart.org/candidate/biography/7023/tom-sawyer
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_sawyer_tom_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_sawyer_tom_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_sawyer_tom_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_sawyer_tom_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_sawyer_tom_1/
+  - https://www.linkedin.com/in/tom-sawyer-b99b9617
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-blew-tory
+  openstates_id: ocd-person/80f9f23c-fa36-43ef-b97e-a9563bd4237b
+  full_name: Tory Marie Blew
+  office_title: State Senator
+  chamber: senate
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/blewmarie.jpg
+  phone: ""
+  email: torymarie.blew@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_blew_marie_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tory_Arnberger
+  - https://en.wikipedia.org/wiki/Tory_Marie_Arnberger
+  - https://justfacts.votesmart.org/candidate/biography/172040/tory-arnberger-blew
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_blew_marie_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_arnberger_tory_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_arnberger_tory_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_arnberger_tory_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_arnberger_tory_1/
+  - https://www.linkedin.com/in/tory-marie-arnberger-blew-69499790
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-waymaster-troy
+  openstates_id: ocd-person/655437d6-f80f-4e14-b061-c28a8977cf0f
+  full_name: Troy Waymaster
+  office_title: State Representative
+  chamber: house
+  district: "109"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_waymaster_troy_1.jpg
+  phone: ""
+  email: troy.waymaster@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_waymaster_troy_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Troy_L._Waymaster
+  - https://en.wikipedia.org/wiki/Troy_Waymaster
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_waymaster_troy_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_waymaster_troy_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_waymaster_troy_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_waymaster_troy_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_waymaster_troy_1/
+  - https://www.linkedin.com/in/troy-waymaster-437392a5
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-masterson-ty
+  openstates_id: ocd-person/b4774ff4-de16-4716-8956-65ecc740eb8c
+  full_name: Ty Masterson
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/sen_masterson_ty_1.jpg
+  phone: ""
+  email: ty.masterson@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_masterson_ty_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ty_Masterson
+  - https://en.wikipedia.org/wiki/Ty_Masterson
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_masterson_ty_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_masterson_ty_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_masterson_ty_1/
+  - https://www.kslegislature.org/li/b2023_24/members/sen_masterson_ty_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_masterson_ty_1/
+  - https://www.linkedin.com/in/tymastersonkansas
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-winn-valdenia
+  openstates_id: ocd-person/8d608ede-12f3-4ec4-8206-2c3dde0db6b7
+  full_name: Valdenia Winn
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_winn_valdenia_1.jpg
+  phone: ""
+  email: valdenia.winn@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_winn_valdenia_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Valdenia_Winn
+  - https://en.wikipedia.org/wiki/Valdenia_Winn
+  - https://justfacts.votesmart.org/candidate/biography/34866/valdenia-winn
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_winn_valdenia_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_winn_valdenia_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_winn_valdenia_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_winn_valdenia_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_winn_valdenia_1/
+  - https://www.linkedin.com/in/valdenia-winn-a3136b59
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-sen-peck-virgil
+  openstates_id: ocd-person/90f4cf61-cce8-4f87-8495-c0dc298c8d27
+  full_name: Virgil Peck
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/sen_peck_virgil_1.jpg
+  phone: ""
+  email: virgil.peck@senate.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/sen_peck_virgil_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Virgil_Peck,_Jr.
+  - https://en.wikipedia.org/wiki/Virgil_Peck_Jr.
+  - https://www.kslegislature.gov/li/b2025_26/members/sen_peck_virgil_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_peck_virgil_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/sen_peck_virgil_1/
+  - https://www.kslegislature.org/li/api/v7/rev-1/members/rep_peck_virgil_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_peck_virgil_1
+  - https://www.kslegislature.org/li/b2023_24/members/sen_peck_virgil_1/
+  - https://www.linkedin.com/in/virgil-peck-91b8241a7
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-weigel-virgil
+  openstates_id: ocd-person/acb8f24a-aecd-43a5-887c-be8bbf963e3d
+  full_name: Virgil Weigel
+  office_title: State Representative
+  chamber: house
+  district: "56"
+  party: Democratic
+  status: active
+  photo_url: https://www.kslegislature.org/li/s/images/pics/rep_weigel_virgil_1.jpg
+  phone: ""
+  email: virgil.weigel@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_weigel_virgil_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Virgil_Weigel
+  - https://en.wikipedia.org/wiki/Virgil_Weigel
+  - https://justfacts.votesmart.org/candidate/biography/140799/virgil-weigel
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_weigel_virgil_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_weigel_virgil_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_weigel_virgil_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_weigel_virgil_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_weigel_virgil_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-paige-wanda
+  openstates_id: ocd-person/eb221993-26e9-4046-a626-ca753e4e7f6d
+  full_name: Wanda Paige
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Democratic
+  status: active
+  photo_url: https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1706627854/kckpsorg/nslthss5ye6gddnitdew/W_Paige.png
+  phone: ""
+  email: wanda.paige@house.ks.gov
+  address: ""
+  official_website: https://kslegislature.gov/li/b2023_24/members/rep_paige_wanda_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Wanda_Brownlee_Paige
+  - https://en.wikipedia.org/wiki/Wanda_Brownlee_Paige
+  - https://justfacts.votesmart.org/candidate/biography/218177/wanda-paige
+  - https://kslegislature.gov/li/b2023_24/members/rep_paige_wanda_1
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_paige_wanda_1
+  - https://www.linkedin.com/in/wanda-paige-3173a714
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-roth-web
+  openstates_id: ocd-person/41909a90-1eff-473a-8cb7-3c8770f667f4
+  full_name: Web Roth
+  office_title: State Representative
+  chamber: house
+  district: "79"
+  party: Republican
+  status: active
+  photo_url: http://www.kslegislature.org/li/s/images/pics/rep_roth_webster_1.jpg
+  phone: ""
+  email: webster.roth@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_roth_webster_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Webster_Roth
+  - https://en.wikipedia.org/wiki/Webster_Roth
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_roth_webster_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_roth_webster_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_roth_webster_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_roth_webster_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_roth_webster_1/
+  - https://www.linkedin.com/in/webster-roth-79a61013
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ks-hou-carpenter-will
+  openstates_id: ocd-person/695c8e66-9ee6-4431-8bd4-b7435b04e2c7
+  full_name: Will Carpenter
+  office_title: State Representative
+  chamber: house
+  district: "75"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Will_Carpenter.jpg
+  phone: ""
+  email: will.carpenter@house.ks.gov
+  address: ""
+  official_website: https://www.kslegislature.gov/li/b2025_26/members/rep_carpenter_will_1/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Will_Carpenter
+  - https://en.wikipedia.org/wiki/Will_Carpenter
+  - https://justfacts.votesmart.org/candidate/biography/86398/will-carpenter
+  - https://www.kslegislature.gov/li/b2025_26/members/rep_carpenter_will_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carpenter_will_1
+  - https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carpenter_will_1/
+  - https://www.kslegislature.org/li/b2023_24/members/rep_carpenter_will_1
+  - https://www.kslegislature.org/li/b2023_24/members/rep_carpenter_will_1/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

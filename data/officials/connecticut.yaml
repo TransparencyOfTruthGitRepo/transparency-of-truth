@@ -1,4 +1,4515 @@
 ﻿state: connecticut
 state_abbrev: CT
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: ct-hou-bergergirvalo-aimee
+  openstates_id: ocd-person/b43c741a-89b2-4e46-abfc-1d75f26189fe
+  full_name: Aimee Berger-Girvalo
+  office_title: State Representative
+  chamber: house
+  district: "111"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Berger-Girvalo/images/Berger-Girvalo_HS.jpg
+  phone: ""
+  email: aimee.berger-girvalo@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27111%27&dist_name=Berger-Girvalo,%20Aimee
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Aimee_Berger-Girvalo
+  - https://en.wikipedia.org/wiki/Aimee_Berger-Girvalo
+  - https://justfacts.votesmart.org/candidate/biography/185749/aimee-berger-girvalo
+  - https://www.housedems.ct.gov/Berger-Girvalo
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-paolillo-al
+  openstates_id: ocd-person/3e0a00e8-0ec8-418d-a2e3-a7eef0a5d186
+  full_name: Al Paolillo
+  office_title: State Representative
+  chamber: house
+  district: "97"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Paolillo/images/Paolillo_HS.jpg
+  phone: ""
+  email: alphonse.paolillo@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27097%27&dist_name=Paolillo,%20Alphonse
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Alphonse_Paolillo
+  - https://en.wikipedia.org/wiki/Alphonse_Paolillo
+  - https://justfacts.votesmart.org/candidate/biography/72582/alphonse-paolillo-jr
+  - https://www.housedems.ct.gov/Paolillo
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-bello-amy
+  openstates_id: ocd-person/ff1c4d90-5cc3-4ff9-8f31-454d03803816
+  full_name: Amy Morrin Bello
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Democratic/Working Families
+  status: active
+  photo_url: http://www2.housedems.ct.gov/MorrinBello/images/MorrinBello_HS.jpg
+  phone: ""
+  email: amy.morrinbello@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27028%27&dist_name=Morrin%20Bello,%20Amy
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Amy_Bello
+  - https://en.wikipedia.org/wiki/Amy_Morrin_Bello
+  - https://justfacts.votesmart.org/candidate/biography/193864/amy-morrin-bello
+  - https://www.housedems.ct.gov/morrinbello
+  - https://www.linkedin.com/in/amy-morrin-bello-596717160
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-romano-amy
+  openstates_id: ocd-person/9b751b3f-3f56-43dd-8eab-1cfdb81d7b34
+  full_name: Amy Romano
+  office_title: State Representative
+  chamber: house
+  district: "113"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/e5d50b_baf91bfd3abb43beb7eaf7465d575013~mv2.png/v1/fill/w_871,h_802,fp_0.49_0.28,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_PNG.png
+  phone: ""
+  email: amy.romano@housegop.ct.gov
+  address: ""
+  official_website: https://www.cthousegop.com/Romano/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Amy_Romano
+  - https://justfacts.votesmart.org/candidate/biography/222633/amy-romano
+  - https://www.cthousegop.com/Romano
+  - https://www.linkedin.com/in/amy-romano-4479883b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-baker-andre
+  openstates_id: ocd-person/e823b0bf-1132-4ed8-b860-e0febf9a275a
+  full_name: Andre Baker
+  office_title: State Representative
+  chamber: house
+  district: "124"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Baker/images/Baker_HS.jpg
+  phone: ""
+  email: andre.baker@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27124%27&dist_name=Baker,%20Andre%20F.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Andre_Baker
+  - https://en.wikipedia.org/wiki/Andre_Baker
+  - https://justfacts.votesmart.org/candidate/biography/81211/andre-baker-jr
+  - https://www.housedems.ct.gov/Baker
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-dauphinais-anne
+  openstates_id: ocd-person/087a813d-b14a-4205-a08f-cec795647318
+  full_name: Anne Dauphinais
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Republican
+  status: active
+  photo_url: https://www.cga.ct.gov/legpics/044.png?ver=
+  phone: ""
+  email: anne.dauphinais@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27044%27&dist_name=Dauphinais,%20Anne
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Anne_Dauphinais
+  - https://en.wikipedia.org/wiki/Anne_Dauphinais
+  - https://justfacts.votesmart.org/candidate/biography/172193/anne-dauphinais
+  - https://www.cthousegop.com/dauphinais
+  - https://www.cthousegop.com/Dauphinais/main
+  - https://www.cthousegop.com/Dauphinais/main/
+  - https://www.linkedin.com/in/anne-dauphinais-84437b2b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-hughes-anne
+  openstates_id: ocd-person/ce2070f7-9487-4856-976b-9bbd6a2f1617
+  full_name: Anne Hughes
+  office_title: State Representative
+  chamber: house
+  district: "135"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Hughes/images/Hughes_HS.jpg
+  phone: ""
+  email: anne.hughes@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27135%27&dist_name=Hughes,%20Anne%20M.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Anne_Hughes
+  - https://en.wikipedia.org/wiki/Anne_Meiman_Hughes
+  - https://justfacts.votesmart.org/candidate/185774/anne-hughes
+  - https://www.housedems.ct.gov/hughes
+  - https://www.linkedin.com/in/anne-hughes-impact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-nolan-anthony
+  openstates_id: ocd-person/c7160abf-d376-484d-b87e-600a398ab503
+  full_name: Anthony Nolan
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Nolan/images/Nolan_HS.jpg
+  phone: ""
+  email: anthony.nolan@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27039%27&dist_name=Nolan,%20Anthony%20L.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Anthony_Nolan
+  - https://en.wikipedia.org/wiki/Anthony_Nolan_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/186048/anthony-nolan
+  - https://www.housedems.ct.gov/Nolan
+  - https://www.linkedin.com/in/anthony-l-nolan-%E2%98%86-a95136b6
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-felipe-tone
+  openstates_id: ocd-person/caaba025-7a5a-401d-8714-73f627651196
+  full_name: Tone Felipe
+  office_title: State Representative
+  chamber: house
+  district: "130"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Felipe/images/Felipe_HS.jpg
+  phone: ""
+  email: antonio.felipe@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27130%27&dist_name=Felipe,%20Antonio
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Antonio_Felipe
+  - https://en.wikipedia.org/wiki/Antonio_Felipe
+  - https://justfacts.votesmart.org/candidate/biography/186463/antonio-felipe
+  - https://www.housedems.ct.gov/felipe
+  - https://www.linkedin.com/in/antonio-felipe-8810aa157
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-jensen-arnie
+  openstates_id: ocd-person/5e12bcd3-8cc0-4a0f-9c7c-4ecec6442948
+  full_name: Arnie Jensen
+  office_title: State Representative
+  chamber: house
+  district: "131"
+  party: Republican
+  status: active
+  photo_url: https://cdn.rep-am.com/wp-content/uploads/2024/10/20241024-161212-pic-447309389.jpg
+  phone: ""
+  email: arnold.jensen@housegop.ct.gov
+  address: ""
+  official_website: https://www.cthousegop.com/jensen/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Arnold_Jensen
+  - https://en.wikipedia.org/wiki/Arnold_Jensen
+  - https://justfacts.votesmart.org/candidate/biography/219115/arnold-jensen
+  - https://www.cthousegop.com/jensen
+  - https://www.linkedin.com/in/arnie-jensen-2b1bb110
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-bumgardner-aundr
+  openstates_id: ocd-person/32ad6577-b1ee-411f-9dca-e40e06226703
+  full_name: Aundré Bumgardner
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Democratic/Working Families
+  status: active
+  photo_url: ""
+  phone: ""
+  email: aundre.bumgardner@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Bumgardner
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Aundre_Bumgardner
+  - https://en.wikipedia.org/wiki/Aundre_Bumgardner
+  - https://www.housedems.ct.gov/Bumgardner
+  - https://www.linkedin.com/in/aundrebumgardner
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-mcgorty-ben
+  openstates_id: ocd-person/240d52a3-33df-495c-b1a0-142cc43f3fce
+  full_name: Ben McGorty
+  office_title: State Representative
+  chamber: house
+  district: "122"
+  party: Republican
+  status: active
+  photo_url: https://www.cga.ct.gov/legpics/122.png?ver=
+  phone: ""
+  email: ben.mcgorty@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27122%27&dist_name=McGorty,%20Ben
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Ben_McGorty
+  - https://en.wikipedia.org/wiki/Ben_McGorty
+  - https://justfacts.votesmart.org/candidate/biography/154897/ben-mcgorty
+  - https://www.cthousegop.com/McGorty/main
+  - https://www.cthousegop.com/McGorty/main/
+  - https://www.linkedin.com/in/ben-mcgorty-62305416
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-buckbee-billy
+  openstates_id: ocd-person/1c270bf3-7cc6-4e11-93fb-e35f5d9a1774
+  full_name: Billy Buckbee
+  office_title: State Representative
+  chamber: house
+  district: "67"
+  party: Republican
+  status: active
+  photo_url: https://www.cga.ct.gov/legpics/067.png?ver=
+  phone: ""
+  email: bill.buckbee@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27067%27&dist_name=Buckbee,%20Bill
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/William_Buckbee
+  - https://en.wikipedia.org/wiki/Bill_Buckbee
+  - https://justfacts.votesmart.org/candidate/biography/173314/billy-buckbee
+  - https://www.cthousegop.com/Buckbee/main
+  - https://www.cthousegop.com/Buckbee/main/
+  - https://www.linkedin.com/in/william-billy-mo-buckbee-81086250
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-heffernan-bill
+  openstates_id: ocd-person/e4ee574a-8df3-46b3-93cb-3ec24cb49144
+  full_name: Bill Heffernan
+  office_title: State Representative
+  chamber: house
+  district: "115"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: bill.heffernan@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/heffernan
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Heffernan_III
+  - https://en.wikipedia.org/wiki/William_Heffernan_III
+  - https://justfacts.votesmart.org/candidate/biography/214105/bill-heffernan-iii
+  - https://www.housedems.ct.gov/heffernan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-duff-bob
+  openstates_id: ocd-person/7836916c-08a2-430a-99eb-580f7cf50e81
+  full_name: Bob Duff
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/duff/images/duff-headshot.jpg
+  phone: ""
+  email: duff@senatedems.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S25%27&dist_name=Duff,%20Bob
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Bob_Duff_(Connecticut)
+  - https://en.wikipedia.org/wiki/Bob_Duff
+  - https://www.linkedin.com/in/bobduff
+  - https://www.senatedems.ct.gov/Duff.php
+  - https://www.senatedems.ct.gov/senator/bob-duff
+  - https://www.senatedems.ct.gov/senator/bob-duff/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-godfrey-bob
+  openstates_id: ocd-person/97e1ed70-218e-41d6-abad-73cf8c717c5b
+  full_name: Bob Godfrey
+  office_title: State Representative
+  chamber: house
+  district: "110"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Godfrey/images/Godfrey_HS.jpg
+  phone: ""
+  email: bob.godfrey@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27110%27&dist_name=Godfrey,%20Bob
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Bob_Godfrey
+  - https://en.wikipedia.org/wiki/Bob_Godfrey_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/7193/bob-godfrey
+  - https://www.housedems.ct.gov/Godfrey
+  - https://www.linkedin.com/in/bob-godfrey-807bb312
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-gibson-bobby
+  openstates_id: ocd-person/6e4977fe-2ed9-4e1c-93ce-c837766d2896
+  full_name: Bobby Gibson
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Gibson/images/Gibson_HS.jpg
+  phone: ""
+  email: bobby.gibson@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27015%27&dist_name=Gibson,%20Bobby%20G.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Bobby_Gibson
+  - https://en.wikipedia.org/wiki/Bobby_Gibson
+  - https://justfacts.votesmart.org/candidate/biography/177595/bobby-gibson
+  - https://www.housedems.ct.gov/Gibson
+  - https://www.linkedin.com/in/bobby-gibson-80334959
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-chafee-brandon
+  openstates_id: ocd-person/e8ce793e-671a-41fa-818a-42b534fa9c6b
+  full_name: Brandon Chafee
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Democratic/Working Families
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Chafee/images/Chafee_HS.jpg
+  phone: ""
+  email: brandon.chafee@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27033%27&dist_name=Chafee,%20Brandon
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Brandon_Chafee
+  - https://en.wikipedia.org/wiki/Brandon_Chafee
+  - https://justfacts.votesmart.org/candidate/biography/193907/brandon-chafee
+  - https://www.housedems.ct.gov/Chafee
+  - https://www.linkedin.com/in/brandon-chafee-pe-79737154
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-lanoue-brian
+  openstates_id: ocd-person/fc3ba144-870e-4603-b2a4-26d3e80b5c70
+  full_name: Brian Lanoue
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Republican
+  status: active
+  photo_url: https://www.cga.ct.gov/legpics/045.png?ver=
+  phone: ""
+  email: brian.lanoue@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27045%27&dist_name=Lanoue,%20Brian
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Brian_Lanoue
+  - https://en.wikipedia.org/wiki/Brian_Lanoue
+  - https://justfacts.votesmart.org/candidate/biography/185694/brian-lanoue
+  - https://www.cthousegop.com/lanoue
+  - https://www.cthousegop.com/lanoue/
+  - https://www.linkedin.com/in/brian-lanoue-698aa2b3
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-pavalockdamato-cara
+  openstates_id: ocd-person/e9c9ef28-807a-4efe-983f-d194c54ed41a
+  full_name: Cara Pavalock-D'Amato
+  office_title: State Representative
+  chamber: house
+  district: "77"
+  party: Republican
+  status: active
+  photo_url: https://www.cga.ct.gov/legpics/077.png?ver=
+  phone: ""
+  email: cara.pavalock@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27077%27&dist_name=Pavalock-D%27Amato,%20Cara%20Christine
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Cara_Christine_Pavalock
+  - https://en.wikipedia.org/wiki/Cara_Pavalock-D%27Amato
+  - https://justfacts.votesmart.org/candidate/biography/142184/cara-pavalock-damato
+  - https://www.cthousegop.com/Pavalock/main
+  - https://www.cthousegop.com/Pavalock/main/
+  - https://www.linkedin.com/in/carapavalock
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-hall-carol
+  openstates_id: ocd-person/5e47f657-ab56-4673-bebb-5a7c1a0410db
+  full_name: Carol Hall
+  office_title: State Representative
+  chamber: house
+  district: "59"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/hall/wp-content/uploads/sites/34/2016/11/hall-bio-pict-big.jpg
+  phone: ""
+  email: carol.hall@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27059%27&dist_name=Hall,%20Carol
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Carol_Hall
+  - https://en.wikipedia.org/wiki/Carol_Hall_(politician)
+  - https://justfacts.votesmart.org/candidate/126241/carol-hall
+  - https://www.cthousegop.com/Hall/main
+  - https://www.cthousegop.com/Hall/main/
+  - https://www.linkedin.com/in/carol-hall-92b63a12
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-osten-cathy
+  openstates_id: ocd-person/aec1fe1b-02ac-4802-be69-8714ec0b848e
+  full_name: Cathy Osten
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/osten/images/osten1x1.jpg
+  phone: ""
+  email: osten@senatedems.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S19%27&dist_name=Osten,%20Catherine%20A.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Catherine_Osten
+  - https://en.wikipedia.org/wiki/Cathy_Osten
+  - https://justfacts.votesmart.org/candidate/biography/126682/cathy-osten
+  - https://www.linkedin.com/in/cathy-osten-a444981a
+  - https://www.senatedems.ct.gov/Osten.php
+  - https://www.senatedems.ct.gov/senator/cathy-osten
+  - https://www.senatedems.ct.gov/senator/cathy-osten/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-maher-ceci
+  openstates_id: ocd-person/5310d199-fa92-40aa-8d0b-efad6d3027b2
+  full_name: Ceci Maher
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: ceci.maher@cga.ct.gov
+  address: ""
+  official_website: https://www.senatedems.ct.gov/maher
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Ceci_Maher
+  - https://en.wikipedia.org/wiki/Ceci_Maher
+  - https://justfacts.votesmart.org/candidate/biography/208763/cecilia-maher
+  - https://www.linkedin.com/in/cqmaher
+  - https://www.senatedems.ct.gov/maher
+  - https://www.senatedems.ct.gov/senator/ceci-maher
+  - https://www.senatedems.ct.gov/senator/ceci-maher/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-aniskovich-chris
+  openstates_id: ocd-person/3dac820b-e022-4ee6-a5d5-4b194f8988ec
+  full_name: Chris Aniskovich
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: chris.aniskovich@housegop.ct.gov
+  address: ""
+  official_website: https://www.cthousegop.com/aniskovich/
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Chris_Aniskovich
+  - https://en.wikipedia.org/wiki/Chris_Aniskovich
+  - https://justfacts.votesmart.org/candidate/biography/208578/christopher-aniskovich
+  - https://www.cthousegop.com/Aniskovich
+  - https://www.cthousegop.com/Aniskovich/
+  - https://www.linkedin.com/in/chris-aniskovich-67a9456
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-stewart-chris
+  openstates_id: ocd-person/fdce734b-2080-4a62-bf9c-baec09572938
+  full_name: Chris Stewart
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Republican
+  status: active
+  photo_url: https://www2.cbia.com/govaff/images/legpics/H051_Stewart.jpg
+  phone: ""
+  email: chris.stewart@housegop.ct.gov
+  address: ""
+  official_website: https://www.cthousegop.com/stewart/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Stewart_(Connecticut)
+  - https://en.wikipedia.org/wiki/Chris_Stewart_(Connecticut_politician)
+  - https://justfacts.votesmart.org/candidate/biography/219057/chris-stewart
+  - https://www.cthousegop.com/stewart
+  - https://www.linkedin.com/in/chris-stewart-8a8326150
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-carpino-christie
+  openstates_id: ocd-person/88d052d8-3d97-4e23-8abd-53311294acfd
+  full_name: Christie Carpino
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://www.cga.ct.gov/legpics/032.png?ver=
+  phone: ""
+  email: christie.carpino@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27032%27&dist_name=Carpino,%20Christie%20M.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Christie_Carpino
+  - https://en.wikipedia.org/wiki/Christie_Carpino
+  - https://justfacts.votesmart.org/candidate/biography/126662/christie-carpino
+  - https://www.cthousegop.com/carpino
+  - https://www.cthousegop.com/Carpino/main
+  - https://www.cthousegop.com/Carpino/main/
+  - https://www.linkedin.com/in/christie-carpino-jd-shrm-cp-2694b736
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-cohen-christine
+  openstates_id: ocd-person/5e2acad1-d976-4a7d-997b-52b5b400a654
+  full_name: Christine Cohen
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/Cohen/images/Cohen-hi.jpg
+  phone: ""
+  email: christine.cohen@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S12%27&dist_name=Cohen,%20Christine
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Christine_Cohen
+  - https://en.wikipedia.org/wiki/Christine_Cohen
+  - https://www.linkedin.com/in/christine-cohen-a60b6a25
+  - https://www.linkedin.com/in/senatorcohenct
+  - https://www.senatedems.ct.gov/cohen
+  - https://www.senatedems.ct.gov/senator/christine-cohen
+  - https://www.senatedems.ct.gov/senator/christine-cohen/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-poulos-chris
+  openstates_id: ocd-person/7fda8e36-f73d-43e2-bf43-8365c617d94e
+  full_name: Chris Poulos
+  office_title: State Representative
+  chamber: house
+  district: "81"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: chris.poulos@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/poulos
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Christopher_Poulos
+  - https://en.wikipedia.org/wiki/Chris_Poulos
+  - https://justfacts.votesmart.org/candidate/biography/199626/christopher-poulos
+  - https://www.housedems.ct.gov/Poulos
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-rosario-christopher
+  openstates_id: ocd-person/ea0027a9-6952-4b74-a771-a14ced4e647e
+  full_name: Christopher Rosario
+  office_title: State Representative
+  chamber: house
+  district: "128"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Rosario/images/Rosario_HS.jpg
+  phone: ""
+  email: christopher.rosario@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27128%27&dist_name=Rosario,%20Christopher
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Christopher_Rosario
+  - https://en.wikipedia.org/wiki/Christopher_Rosario
+  - https://justfacts.votesmart.org/candidate/154901/christopher-rosario
+  - https://www.housedems.ct.gov/Rosario
+  - https://www.linkedin.com/in/christopher-rosario-ba499224
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-paris-corey
+  openstates_id: ocd-person/fcc3d3fa-4b4d-4d3c-b512-003a58657a85
+  full_name: Corey Paris
+  office_title: State Representative
+  chamber: house
+  district: "145"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Paris/images/Paris_HS.jpg
+  phone: ""
+  email: corey.paris@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27145%27&dist_name=Paris,%20Corey%20P.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Corey_Paris
+  - https://en.wikipedia.org/wiki/Corey_Paris
+  - https://justfacts.votesmart.org/candidate/biography/185994/corey-paris
+  - https://www.housedems.ct.gov/Paris
+  - https://www.linkedin.com/in/coreypparis
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-fishbein-craig
+  openstates_id: ocd-person/02ce0fa3-ac25-42dd-9f5e-ee44b7e9d542
+  full_name: Craig Fishbein
+  office_title: State Representative
+  chamber: house
+  district: "90"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/fishbein/wp-content/uploads/sites/28/2019/01/sm_Fishbein-headshot-020117-7754.jpg
+  phone: ""
+  email: craig.fishbein@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27090%27&dist_name=Fishbein,%20Craig%20C.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Craig_Fishbein
+  - https://en.wikipedia.org/wiki/Craig_C._Fishbein
+  - https://justfacts.votesmart.org/candidate/biography/130445/craig-fishbein
+  - https://www.cthousegop.com/Fishbein/main
+  - https://www.cthousegop.com/Fishbein/main/
+  - https://www.fishbeinlaw.com/attorneys/craig-c-fishbein
+  - https://www.linkedin.com/in/cfishbein
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-vahey-cristin
+  openstates_id: ocd-person/dfc1bead-50cd-4c34-9dc6-5d80c7a09589
+  full_name: Cristin McCarthy Vahey
+  office_title: State Representative
+  chamber: house
+  district: "133"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/McCarthyVahey/images/McCarthyVahey_HS.jpg
+  phone: ""
+  email: cristin.mccarthyvahey@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27133%27&dist_name=McCarthy%20Vahey,%20Cristin
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Cristin_McCarthy_Vahey
+  - https://en.wikipedia.org/wiki/Cristin_McCarthy_Vahey
+  - https://justfacts.votesmart.org/candidate/142453/cristin-mccarthy-vahey
+  - https://www.housedems.ct.gov/McCarthyVahey
+  - https://www.linkedin.com/in/cristin-mccarthy-vahey-10b217294
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-gaiewski-dan
+  openstates_id: ocd-person/cb28efe4-6e12-4488-bf75-491066cec97f
+  full_name: Dan Gaiewski
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: daniel.gaiewski@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/gaiewski
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dan_Gaiewski
+  - https://en.wikipedia.org/wiki/Dan_Gaiewski
+  - https://justfacts.votesmart.org/candidate/biography/220934/dan-gaiewski
+  - https://www.housedems.ct.gov/gaiewski
+  - https://www.linkedin.com/in/daniel-gaiewski
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-defronzo-dave
+  openstates_id: ocd-person/9c30cf12-f07a-4c35-be3f-97bd3a778767
+  full_name: Dave DeFronzo
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://bloximages.chicago2.vip.townnews.com/newbritainherald.com/content/tncms/assets/v3/editorial/2/6f/26f864be-5a90-11ef-ac13-efc8afa91738/66bd35eab9474.image.png?resize=1396%2C930
+  phone: ""
+  email: dave.defronzo@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/DeFronzo
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_DeFronzo
+  - https://justfacts.votesmart.org/candidate/130135/david-defronzo
+  - https://www.housedems.ct.gov/DeFronzo
+  - https://www.linkedin.com/in/david-defronzo-69b365241
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-yaccarino-dave
+  openstates_id: ocd-person/12835342-bb95-428a-ace3-78c51c3e8443
+  full_name: Dave Yaccarino
+  office_title: State Representative
+  chamber: house
+  district: "87"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/yaccarino/wp-content/uploads/sites/70/2020/11/Yaccarino-Headshot-240x300.jpg
+  phone: ""
+  email: dave.yaccarino@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27087%27&dist_name=Yaccarino,%20Dave%20W.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Dave_Yaccarino_Sr.
+  - https://en.wikipedia.org/wiki/Dave_Yaccarino
+  - https://justfacts.votesmart.org/candidate/biography/126766/david-yaccarino
+  - https://www.cthousegop.com/Yaccarino/main
+  - https://www.cthousegop.com/Yaccarino/main/
+  - https://www.linkedin.com/in/dave-yaccarino-3a603082
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-rutigliano-dave
+  openstates_id: ocd-person/01bfbaf3-d536-45f0-8478-96cd8fbd4518
+  full_name: Dave Rutigliano
+  office_title: State Representative
+  chamber: house
+  district: "123"
+  party: Republican
+  status: active
+  photo_url: https://www.cga.ct.gov/legpics/123.png?ver=
+  phone: ""
+  email: dave.rutigliano@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27123%27&dist_name=Rutigliano,%20David
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/David_Rutigliano
+  - https://en.wikipedia.org/wiki/David_Rutigliano
+  - https://justfacts.votesmart.org/candidate/biography/141203/dave-rutigliano
+  - https://www.cthousegop.com/Rutigliano/main
+  - https://www.cthousegop.com/Rutigliano/main/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-slap-derek
+  openstates_id: ocd-person/a33a2113-e60b-4000-9dc7-eb58a775d986
+  full_name: Derek Slap
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/slap/images/slap-hi.jpg
+  phone: ""
+  email: derek.slap@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S05%27&dist_name=Slap,%20Derek
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Derek_Slap
+  - https://en.wikipedia.org/wiki/Derek_Slap
+  - https://justfacts.votesmart.org/candidate/biography/172159/derek-slap
+  - https://www.linkedin.com/in/derek-slap-9337b9a
+  - https://www.senatedems.ct.gov/senator/derek-slap
+  - https://www.senatedems.ct.gov/senator/derek-slap/bio
+  - https://www.senatedems.ct.gov/slap
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-wilson-derell
+  openstates_id: ocd-person/56582153-80dd-4de6-9b79-2427316eeb6c
+  full_name: Derell Wilson
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Democratic/Working Families
+  status: active
+  photo_url: ""
+  phone: ""
+  email: derell.wilson@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Wilson
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Derell_Wilson
+  - https://en.wikipedia.org/wiki/Derell_Wilson
+  - https://justfacts.votesmart.org/candidate/biography/199774/derell-wilson
+  - https://www.housedems.ct.gov/Wilson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-carney-devin
+  openstates_id: ocd-person/79d4059c-5faa-443f-a842-7b494ea2d57e
+  full_name: Devin Carney
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/carney/wp-content/uploads/sites/13/2016/11/Carney-2017-Web-Bio-Pict-216x300.jpg
+  phone: ""
+  email: devin.carney@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27023%27&dist_name=Carney,%20Devin%20R.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Devin_R._Carney
+  - https://en.wikipedia.org/wiki/Devin_Carney
+  - https://justfacts.votesmart.org/candidate/biography/154824/devin-carney
+  - https://www.cthousegop.com/Carney/main
+  - https://www.cthousegop.com/Carney/main/
+  - https://www.linkedin.com/in/devin-carney-b1953886
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-johnson-dominique
+  openstates_id: ocd-person/d4c20e08-7210-40b8-8a4c-7aac8b59af7b
+  full_name: Dominique Johnson
+  office_title: State Representative
+  chamber: house
+  district: "143"
+  party: Democratic/Working Families
+  status: active
+  photo_url: ""
+  phone: ""
+  email: dominique.johnson@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/JohnsonD
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Dominique_Johnson
+  - https://en.wikipedia.org/wiki/Dominique_Johnson_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/208732/dominique-johnson
+  - https://www.housedems.ct.gov/JohnsonD
+  - https://www.housedems.ct.gov/JohnsonD/Biography
+  - https://www.linkedin.com/in/dominiquejohnson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-veach-donna
+  openstates_id: ocd-person/63461ed0-da6d-4423-82bc-5b83c2a811cf
+  full_name: Donna Veach
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://cga.ct.gov/legpics/030.png?ver=
+  phone: ""
+  email: donna.veach@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27030%27&dist_name=Veach,%20Donna
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Donna_Veach
+  - https://en.wikipedia.org/wiki/Donna_Veach
+  - https://justfacts.votesmart.org/candidate/biography/193876/donna-veach
+  - https://www.cthousegop.com/veach
+  - https://www.cthousegop.com/veach/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-dubitsky-doug
+  openstates_id: ocd-person/2342cde8-078f-4dd8-8879-f9fdaa036a94
+  full_name: Doug Dubitsky
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/dubitsky/wp-content/uploads/sites/23/2019/01/2-Dubitsky-headshot-cropped-v2-050318-5673-265x300.jpg
+  phone: ""
+  email: doug.dubitsky@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27047%27&dist_name=Dubitsky,%20Doug
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Doug_Dubitsky
+  - https://en.wikipedia.org/wiki/Doug_Dubitsky
+  - https://justfacts.votesmart.org/candidate/biography/126628/doug-dubitsky
+  - https://www.cthousegop.com/Dubitsky/main
+  - https://www.cthousegop.com/Dubitsky/main/
+  - https://www.linkedin.com/in/doug-dubitsky-esq-26188811
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-mccrory-doug
+  openstates_id: ocd-person/83a4e876-4df7-48ef-8a84-7d7940585af9
+  full_name: Doug McCrory
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/mccrory/images/mccrory-hi.jpg
+  phone: ""
+  email: douglas.mccrory@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S02%27&dist_name=McCrory,%20Douglas
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Douglas_McCrory
+  - https://en.wikipedia.org/wiki/Douglas_McCrory
+  - https://justfacts.votesmart.org/candidate/biography/30617/douglas-mccrory
+  - https://www.linkedin.com/in/douglas-mccrory-2562b91a
+  - https://www.senatedems.ct.gov/mccrory
+  - https://www.senatedems.ct.gov/senator/doug-mccrory
+  - https://www.senatedems.ct.gov/senator/doug-mccrory/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-main-eilish
+  openstates_id: ocd-person/46ffabcf-724a-453e-89c4-797662a75e40
+  full_name: Eilish Collins Main
+  office_title: State Representative
+  chamber: house
+  district: "146"
+  party: Democratic
+  status: active
+  photo_url: https://res.cloudinary.com/hn09nqgcy/image/upload/v1726316951/hnprgb5gvvaksj375bmc.jpg
+  phone: ""
+  email: eilish.collinsmain@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/CollinsMain
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Eilish_Collins_Main
+  - https://en.wikipedia.org/wiki/Eilish_Collins_Main
+  - https://justfacts.votesmart.org/candidate/biography/219136/eilish-collins-main
+  - https://www.housedems.ct.gov/CollinsMain
+  - https://www.linkedin.com/in/eilishmain
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-degraw-eleni
+  openstates_id: ocd-person/2a3c062a-ac41-4295-9c26-195f78369242
+  full_name: Eleni DeGraw
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Democratic/Working Families
+  status: active
+  photo_url: http://www2.housedems.ct.gov/KavrosDeGraw/images/KavrosDeGraw_HS.jpg
+  phone: ""
+  email: elenikavros.degraw@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27017%27&dist_name=Kavros%20DeGraw,%20Eleni
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Eleni_Kavros_DeGraw
+  - https://en.wikipedia.org/wiki/Eleni_Kavros_DeGraw
+  - https://justfacts.votesmart.org/candidate/biography/185679/eleni-kavros-degraw
+  - https://www.housedems.ct.gov/KavrosDegraw
+  - https://www.linkedin.com/in/eleni-kavros-degraw-0562545
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-sanchez-manny
+  openstates_id: ocd-person/140d2d97-aae9-433a-b012-ce3775aa81a8
+  full_name: Manny Sanchez
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Democratic/Working Families
+  status: active
+  photo_url: http://www2.housedems.ct.gov/SanchezM/images/SanchezM_HS.jpg
+  phone: ""
+  email: emmanuel.sanchez@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27024%27&dist_name=Sanchez,%20Emmanuel
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Manny_Sanchez
+  - https://en.wikipedia.org/wiki/Emmanuel_Sanchez_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/193858/manny-sanchez
+  - https://www.housedems.ct.gov/SanchezM
+  - https://www.linkedin.com/in/esanchez729
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-berthel-eric
+  openstates_id: ocd-person/58a9b2fa-cd93-420c-a9bc-6326a75a218a
+  full_name: Eric Berthel
+  office_title: State Senator
+  chamber: senate
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://ctsenaterepublicans.com/wp-content/uploads/2019/01/Berthel2019forWeb.jpg
+  phone: ""
+  email: eric.berthel@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S32%27&dist_name=Berthel,%20Eric%20C.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Eric_C._Berthel
+  - https://ctsenaterepublicans.com/home-berthel
+  - https://ctsenaterepublicans.com/home-berthel/
+  - https://en.wikipedia.org/wiki/Eric_Berthel
+  - https://justfacts.votesmart.org/candidate/biography/154862/eric-berthel
+  - https://www.linkedin.com/in/ericberthel
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-santos-farley
+  openstates_id: ocd-person/b9f6e7c0-0413-4490-a3a4-3fb63620b4cc
+  full_name: Farley Santos
+  office_title: State Representative
+  chamber: house
+  district: "109"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: farley.santos@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Santos
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Farley_Santos
+  - https://en.wikipedia.org/wiki/Farley_Santos
+  - https://justfacts.votesmart.org/candidate/biography/199752/farley-santos
+  - https://www.housedems.ct.gov/Santos
+  - https://www.housedems.ct.gov/Santos/Biography
+  - https://www.linkedin.com/in/farley-santos-1957a748
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-smith-frank
+  openstates_id: ocd-person/c09f368c-d954-48e1-b94b-18728ab9b6bd
+  full_name: Frank Smith
+  office_title: State Representative
+  chamber: house
+  district: "118"
+  party: Democratic/Working Families
+  status: active
+  photo_url: http://www2.housedems.ct.gov/SmithF/images/SmithF_HS.jpg
+  phone: ""
+  email: frank.smith@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27118%27&dist_name=Smith,%20Frank
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Frank_Smith_(Connecticut)
+  - https://en.wikipedia.org/wiki/Frank_Smith_(Connecticut_politician)
+  - https://justfacts.votesmart.org/candidate/biography/142377/frank-smith
+  - https://www.housedems.ct.gov/SmithF
+  - https://www.linkedin.com/in/frank-smith-00395611
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-gee-fred
+  openstates_id: ocd-person/2d97c881-725d-47a8-9bea-8d3a5f14fbd0
+  full_name: Fred Gee
+  office_title: State Representative
+  chamber: house
+  district: "126"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: fred.gee@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/gee
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Fred_Gee_Jr.
+  - https://en.wikipedia.org/wiki/Fred_Gee_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/208709/fred-gee
+  - https://www.housedems.ct.gov/Gee
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-mastrofrancesco-gale
+  openstates_id: ocd-person/c60ec8d2-fcc3-414e-a122-cca6aeef901d
+  full_name: Gale Mastrofrancesco
+  office_title: State Representative
+  chamber: house
+  district: "80"
+  party: Republican
+  status: active
+  photo_url: https://www.cga.ct.gov/legpics/080.png?ver=
+  phone: ""
+  email: gale.mastrofrancesco@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27080%27&dist_name=Mastrofrancesco,%20Gale%20L.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Gale_Mastrofrancesco
+  - https://en.wikipedia.org/wiki/Gale_Mastrofrancesco
+  - https://justfacts.votesmart.org/candidate/biography/185719/gale-mastrofrancesco
+  - https://www.cthousegop.com/mastrofrancesco
+  - https://www.cthousegop.com/mastrofrancesco/
+  - https://www.linkedin.com/in/gale-mastrofrancesco-04616031
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-winfield-gary
+  openstates_id: ocd-person/102845da-9b93-400d-b58a-fa3e7df1806e
+  full_name: Gary Winfield
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/winfield/images/winfield-hi.jpg
+  phone: ""
+  email: gary.winfield@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S10%27&dist_name=Winfield,%20Gary%20A.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Gary_Winfield
+  - https://en.wikipedia.org/wiki/Gary_Winfield
+  - https://www.linkedin.com/in/gary-winfield-62880828
+  - https://www.senatedems.ct.gov/senator/gary-winfield
+  - https://www.senatedems.ct.gov/senator/gary-winfield/bio
+  - https://www.senatedems.ct.gov/Winfield.php
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-turco-gary
+  openstates_id: ocd-person/36b9eb8c-9fd8-4f6e-ba6b-fddb03bf3be3
+  full_name: Gary Turco
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Turco/images/Turco_HS.jpg
+  phone: ""
+  email: gary.turco@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27027%27&dist_name=Turco,%20Gary%20A.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Gary_Turco
+  - https://en.wikipedia.org/wiki/Gary_Turco
+  - https://justfacts.votesmart.org/candidate/biography/185683/gary-turco
+  - https://www.housedems.ct.gov/turco
+  - https://www.linkedin.com/in/garyturco
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-luxenberg-geoff
+  openstates_id: ocd-person/37f6cb6c-888c-44c1-8c21-b273d967a62d
+  full_name: Geoff Luxenberg
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Luxenberg/images/Luxenberg_HS.jpg
+  phone: ""
+  email: geoff.luxenberg@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27012%27&dist_name=Luxenberg,%20Geoff
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Geoff_Luxenberg
+  - https://en.wikipedia.org/wiki/Geoff_Luxenberg
+  - https://justfacts.votesmart.org/candidate/biography/126641/geoff-luxenberg
+  - https://www.housedems.ct.gov/luxenberg
+  - https://www.linkedin.com/in/geoff-luxenberg-bb409114
+  - https://www.linkedin.com/in/geoffrey-luxenberg-4b4b77151
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-reyes-geraldo
+  openstates_id: ocd-person/f11b5a17-e613-4aa8-9b91-7e2583e1ced5
+  full_name: Geraldo Reyes
+  office_title: State Representative
+  chamber: house
+  district: "75"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Reyes/images/Reyes_HS.jpg
+  phone: ""
+  email: geraldo.reyes@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27075%27&dist_name=Reyes,%20Geraldo%20C.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Geraldo_Reyes
+  - https://en.wikipedia.org/wiki/Geraldo_Reyes
+  - https://justfacts.votesmart.org/candidate/172238/geraldo-reyes-jr
+  - https://www.housedems.ct.gov/Reyes
+  - https://www.linkedin.com/in/geraldoreyes
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-howard-greg
+  openstates_id: ocd-person/d8829ada-0b6e-4cbf-8aa6-e88c70d76e89
+  full_name: Greg Howard
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Republican
+  status: active
+  photo_url: https://www.cga.ct.gov/legpics/043.png?ver=
+  phone: ""
+  email: greg.howard@housegop.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27043%27&dist_name=Howard,%20Greg%20S.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Greg_Howard_(Connecticut)
+  - https://en.wikipedia.org/wiki/Greg_Howard_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/194705/greg-howard
+  - https://www.cthousegop.com/howard
+  - https://www.cthousegop.com/howard/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-haddad-gregg
+  openstates_id: ocd-person/63a8e4ab-dfcd-4a69-8317-53b8e9a69729
+  full_name: Gregg Haddad
+  office_title: State Representative
+  chamber: house
+  district: "54"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Haddad/images/Haddad_19.jpg
+  phone: ""
+  email: gregory.haddad@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27054%27&dist_name=Haddad,%20Gregory
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Gregory_Haddad
+  - https://en.wikipedia.org/wiki/Gregory_Haddad
+  - https://justfacts.votesmart.org/candidate/biography/126701/gregg-haddad
+  - https://www.gregghaddad.com/meet-gregg
+  - https://www.housedems.ct.gov/haddad
+  - https://www.linkedin.com/in/gregory-haddad-094a259
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-somers-heather
+  openstates_id: ocd-person/a648c360-3b9e-408d-ba2a-c171edada365
+  full_name: Heather Somers
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: https://ctsenaterepublicans.com/wp-content/uploads/2020/12/HeatherHeadshot-e1608139012865.jpg
+  phone: ""
+  email: heather.somers@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S18%27&dist_name=Somers,%20Heather%20S.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Heather_Somers
+  - https://ctsenaterepublicans.com/home-somers
+  - https://ctsenaterepublicans.com/home-somers/
+  - https://en.wikipedia.org/wiki/Heather_Somers
+  - https://justfacts.votesmart.org/candidate/biography/142461/heather-somers
+  - https://www.linkedin.com/in/heather-somers-95155841
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-arzeno-hector
+  openstates_id: ocd-person/f0ce3c59-536e-4e79-9fe6-20eb59d66c06
+  full_name: Hector Arzeno
+  office_title: State Representative
+  chamber: house
+  district: "151"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: hector.arzeno@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/arzeno
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Hector_Arzeno
+  - https://en.wikipedia.org/wiki/Hector_Arzeno
+  - https://justfacts.votesmart.org/candidate/biography/193755/hector-arzeno
+  - https://www.housedems.ct.gov/Arzeno
+  - https://www.linkedin.com/in/hector-arzeno-40b8b65a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-martin-henri
+  openstates_id: ocd-person/ca8be710-988a-4415-bc37-6d3a92d1afcd
+  full_name: Henri Martin
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://cga.ct.gov/legpics/S31.png?ver=
+  phone: ""
+  email: henri.martin@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S31%27&dist_name=Martin,%20Henri
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Henri_Martin
+  - https://ctsenaterepublicans.com/home-Martin
+  - https://ctsenaterepublicans.com/home-Martin/
+  - https://en.wikipedia.org/wiki/Henri_Martin_(American_politician)
+  - https://henrimartinrealestate.com
+  - https://justfacts.votesmart.org/candidate/biography/142336/henri-martin
+  - https://www.linkedin.com/in/henri-martin-9274b461
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-genga-henry
+  openstates_id: ocd-person/c07f613b-b79d-4e11-b959-589c8cefac41
+  full_name: Henry Genga
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Genga/images/Genga_HS.jpg
+  phone: ""
+  email: henry.genga@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27010%27&dist_name=Genga,%20Henry%20J.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Henry_Genga
+  - https://en.wikipedia.org/wiki/Henry_Genga
+  - https://justfacts.votesmart.org/candidate/biography/58698/henry-genga
+  - https://www.housedems.ct.gov/Genga
+  - https://www.linkedin.com/in/henry-genga-1b819214
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-gaston-herron
+  openstates_id: ocd-person/3be9e2dc-7ffa-40fb-90c8-d25fe4970dee
+  full_name: Herron Gaston
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: herron.gaston@cga.ct.gov
+  address: ""
+  official_website: https://senatedems.ct.gov/gaston
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Herron_Gaston
+  - https://en.wikipedia.org/wiki/Herron_Gaston
+  - https://www.linkedin.com/in/dr-herron-keyon-gaston-13ba83a3
+  - https://www.linkedin.com/in/dr-herron-keyon-gaston-j-d-4580ab14
+  - https://www.senatedems.ct.gov/gaston
+  - https://www.senatedems.ct.gov/gaston-230104
+  - https://www.senatedems.ct.gov/senator/herron-keyon-gaston/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-santiago-hilda
+  openstates_id: ocd-person/568f232d-2133-4eee-a886-c1927f7f88bc
+  full_name: Hilda Santiago
+  office_title: State Representative
+  chamber: house
+  district: "84"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/SantiagoH/images/SantiagoH_HS.jpg
+  phone: ""
+  email: hilda.santiago@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27084%27&dist_name=Santiago,%20Hilda%20E.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Hilda_Santiago
+  - https://en.wikipedia.org/wiki/Hilda_Santiago
+  - https://justfacts.votesmart.org/candidate/biography/72832/hilda-santiago
+  - https://www.housedems.ct.gov/SantiagoH
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-delany-hubert
+  openstates_id: ocd-person/b666accd-c7f7-41e9-ade0-f64f6e438669
+  full_name: Hubert Delany
+  office_title: State Representative
+  chamber: house
+  district: "144"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Delany/images/Delany_HS.jpg
+  phone: ""
+  email: hubert.delany@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27144%27&dist_name=144%20-%Delany,%Hubert
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Hubert_Delany
+  - https://en.wikipedia.org/wiki/Hubert_Douglas_Delany
+  - https://www.housedems.ct.gov/Delany
+  - https://www.linkedin.com/in/hubert-delany-9467b1206
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-haines-irene
+  openstates_id: ocd-person/02cd12d5-6a88-4834-b9b5-11fb491f6b4b
+  full_name: Irene Haines
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/haines/wp-content/uploads/sites/77/2021/12/BD3A1188-sized-232x300.jpg
+  phone: ""
+  email: irene.haines@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27034%27&dist_name=Haines,%20Irene%20M.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Irene_Haines
+  - https://en.wikipedia.org/wiki/Irene_Haines
+  - https://justfacts.votesmart.org/candidate/biography/185688/irene-haines
+  - https://www.cthousegop.com/haines
+  - https://www.cthousegop.com/haines/
+  - https://www.linkedin.com/in/irene-haines-aa85511
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-snchez-iris
+  openstates_id: ocd-person/30588b22-af2c-4f70-b824-c717ae60139f
+  full_name: Iris Sánchez
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: https://bloximages.chicago2.vip.townnews.com/newbritainherald.com/content/tncms/assets/v3/editorial/2/47/247f0640-5832-40c0-8f46-ed62614d8531/69583e0d5b6ee.image.jpg?resize=750%2C500
+  phone: ""
+  email: iris.sanchez@cga.ct.gov
+  address: ""
+  official_website: https://housedems.ct.gov/SanchezI
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Iris_Sanchez
+  - https://en.wikipedia.org/wiki/Iris_Sanchez
+  - https://housedems.ct.gov/SanchezI
+  - https://justfacts.votesmart.org/candidate/biography/199788/iris-sanchez
+  - https://www.linkedin.com/in/iris-sanchez-623283120
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-foster-jaime
+  openstates_id: ocd-person/784a12cd-3ecc-4fed-8b47-4e090038c2f8
+  full_name: Jaime Foster
+  office_title: State Representative
+  chamber: house
+  district: "57"
+  party: Democratic/Independence/Working Families
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Foster/images/Foster_HS.jpg
+  phone: ""
+  email: jaime.foster@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27057%27&dist_name=057%20-%Foster,%Jaime
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Jaime_Foster
+  - https://en.wikipedia.org/wiki/Jaime_Foster
+  - https://justfacts.votesmart.org/candidate/biography/195250/jaime-foster
+  - https://www.housedems.ct.gov/Foster
+  - https://www.linkedin.com/in/jaime-s-foster-phd-rd-1971a437
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-maroney-james
+  openstates_id: ocd-person/f37ce303-e106-4972-b453-4287b7915762
+  full_name: James Maroney
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/Maroney/images/Maroney-hi.jpg
+  phone: ""
+  email: maroney@senatedems.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S14%27&dist_name=Maroney,%20James%20J.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/James_Maroney
+  - https://en.wikipedia.org/wiki/James_Maroney
+  - https://justfacts.votesmart.org/candidate/biography/141199/james-maroney
+  - https://www.linkedin.com/in/jamesmaroneyct
+  - https://www.senatedems.ct.gov/maroney
+  - https://www.senatedems.ct.gov/senator/james-maroney
+  - https://www.senatedems.ct.gov/senator/james-maroney/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-snchez-jimmy
+  openstates_id: ocd-person/37cdaa0f-2531-44f6-95d0-41f9eefa6c97
+  full_name: Jimmy Sánchez
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: james.sanchez@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/sanchezJ
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/James_S%C3%A1nchez_(Connecticut)
+  - https://en.wikipedia.org/wiki/James_S%C3%A1nchez_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/173050/james-sanchez
+  - https://www.hartfordct.gov/Government/City-Council/Councilmember-8
+  - https://www.housedems.ct.gov/sanchezJ
+  - https://www.linkedin.com/in/james-sanchez-348175104
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-hochadel-jan
+  openstates_id: ocd-person/e823b348-fd0f-410b-b3c1-62fe7a2982f6
+  full_name: Jan Hochadel
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Democratic/Working Families
+  status: active
+  photo_url: ""
+  phone: ""
+  email: jan.hochadel@cga.ct.gov
+  address: ""
+  official_website: https://www.senatedems.ct.gov/hochadel
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Jan_Hochadel
+  - https://en.wikipedia.org/wiki/Jan_Hochadel
+  - https://justfacts.votesmart.org/candidate/biography/208751/jan-hochadel
+  - https://www.senatedems.ct.gov/hochadel
+  - https://www.senatedems.ct.gov/senator/jan-hochadel
+  - https://www.senatedems.ct.gov/senator/jan-hochadel/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-garibay-jane
+  openstates_id: ocd-person/fee3a7d8-7e51-4c5a-af29-190694152ccc
+  full_name: Jane Garibay
+  office_title: State Representative
+  chamber: house
+  district: "60"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Garibay/images/Garibay_HS.jpg
+  phone: ""
+  email: jane.garibay@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27060%27&dist_name=060%20-%Garibay,%Jane
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Jane_Garibay
+  - https://en.wikipedia.org/wiki/Jane_Garibay
+  - https://justfacts.votesmart.org/candidate/183882/jane-garibay
+  - https://www.housedems.ct.gov/garibay
+  - https://www.linkedin.com/in/jane-garibay-2971475
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-buchsbaum-jason
+  openstates_id: ocd-person/ff87fec9-1c97-45e5-bdcc-a0ed0b3025cc
+  full_name: Jason Buchsbaum
+  office_title: State Representative
+  chamber: house
+  district: "69"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JAB_Photo.JPG
+  phone: ""
+  email: jason.buchsbaum@housegop.ct.gov
+  address: ""
+  official_website: https://www.cthousegop.com/buchsbaum/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jason_Buchsbaum
+  - https://en.wikipedia.org/wiki/Jason_Buchsbaum
+  - https://justfacts.votesmart.org/candidate/biography/208606/jason-buchsbaum
+  - https://www.cthousegop.com/buchsbaum
+  - https://www.linkedin.com/in/jason-buchsbaum-76301622
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-doucette-jason
+  openstates_id: ocd-person/33a50ad7-61f8-4e5a-92fc-a24efddc15f1
+  full_name: Jason Doucette
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Doucette/images/Doucette_HS.jpg
+  phone: ""
+  email: jason.doucette@cga.ct.gov
+  address: ""
+  official_website: https://housedems.ct.gov/doucette
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Jason_Doucette
+  - https://en.wikipedia.org/wiki/Jason_Edward_Doucette
+  - https://justfacts.votesmart.org/candidate/72359/jason-doucette
+  - https://www.housedems.ct.gov/doucette
+  - https://www.linkedin.com/in/jason-doucette-5779818
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-perillo-jason
+  openstates_id: ocd-person/78bb88a9-cde1-4691-aa7a-e423ee16a147
+  full_name: Jason Perillo
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Republican
+  status: active
+  photo_url: https://www.cga.ct.gov/legpics/113.png?ver=
+  phone: ""
+  email: jason.perillo@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27113%27&dist_name=Jason,%20Perillo
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Jason_Perillo
+  - https://en.wikipedia.org/wiki/Jason_Perillo
+  - https://www.cthousegop.com/Perillo/main
+  - https://www.cthousegop.com/Perillo/main/
+  - https://www.ctsenaterepublicans.com/senators/jason-perillo
+  - https://www.linkedin.com/in/jason-perillo-4a8b2425
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-rojas-jason
+  openstates_id: ocd-person/94b3daf5-cbc7-4016-9297-8c0b8bc54944
+  full_name: Jason Rojas
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Rojas/images/Rojas_HS.jpg
+  phone: ""
+  email: jason.rojas@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27009%27&dist_name=009%20-%Rojas,%Jason
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Jason_Rojas
+  - https://en.wikipedia.org/wiki/Jason_Rojas
+  - https://justfacts.votesmart.org/candidate/biography/72915/jason-rojas
+  - https://www.housedems.ct.gov/Rojas
+  - https://www.linkedin.com/in/jason-rojas-b835766
+  - https://www.trincoll.edu/president/office-staff
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-case-jay
+  openstates_id: ocd-person/fc3cb4e1-f784-46ac-9d54-1dd44cb817b0
+  full_name: Jay Case
+  office_title: State Representative
+  chamber: house
+  district: "63"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/case/wp-content/uploads/sites/15/2016/11/Case-2017-Web-Bio-Pict.jpg
+  phone: ""
+  email: jay.case@housegop.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27063%27&dist_name=Jay,%20Case
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Jay_Case
+  - https://en.wikipedia.org/wiki/Jay_Case
+  - https://justfacts.votesmart.org/candidate/biography/141157/jay-case
+  - https://www.cthousegop.com/Case/main
+  - https://www.cthousegop.com/Case/main/
+  - https://www.linkedin.com/in/jay-case-20347732
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-gordon-jeff
+  openstates_id: ocd-person/1a60b520-6887-4830-b33e-78520b7b53aa
+  full_name: Jeff Gordon
+  office_title: State Senator
+  chamber: senate
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: jeffrey.gordon@cga.ct.gov
+  address: ""
+  official_website: https://ctsenaterepublicans.com/home-gordon/
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Jeff_Gordon_(Connecticut)
+  - https://ctsenaterepublicans.com/about-gordon
+  - https://ctsenaterepublicans.com/home-gordon
+  - https://ctsenaterepublicans.com/home-gordon/
+  - https://www.linkedin.com/in/jeffrey-gordon-84283030
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-leeper-jenn
+  openstates_id: ocd-person/15c5ac01-eb03-4dd3-8ab6-d162e7420559
+  full_name: Jenn Leeper
+  office_title: State Representative
+  chamber: house
+  district: "132"
+  party: Democratic/Working Families
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Leeper/images/Leeper_HS.jpg
+  phone: ""
+  email: jennifer.leeper@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27132%27&dist_name=132%20-%Leeper,%Jennifer
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Jennifer_Leeper
+  - https://en.wikipedia.org/wiki/Jennifer_Leeper
+  - https://justfacts.votesmart.org/candidate/biography/188739/jennifer-leeper
+  - https://www.housedems.ct.gov/Leeper
+  - https://www.linkedin.com/in/jennleeper
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-barry-jill
+  openstates_id: ocd-person/629f89a2-138d-43b1-a39f-b420bd7bc061
+  full_name: Jill Barry
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Barry/images/Barry_HS.jpg
+  phone: ""
+  email: jill.barry@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27031%27&dist_name=031%20-%Barry,%Jill
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Jill_Barry
+  - https://en.wikipedia.org/wiki/Jill_Barry
+  - https://justfacts.votesmart.org/candidate/biography/142456/jill-barry
+  - https://www.housedems.ct.gov/barry
+  - https://www.linkedin.com/in/jill-barry-1b020b16
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-gilchrest-jill
+  openstates_id: ocd-person/26149cc4-f15a-46fb-a9a5-7bc0544dc287
+  full_name: Jill Gilchrest
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Gilchrest/images/Gilchrest_HS.jpg
+  phone: ""
+  email: jillian.gilchrest@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27018%27&dist_name=018%20-%Gilchrest,%Jillian
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Jillian_Gilchrest
+  - https://en.wikipedia.org/wiki/Jillian_Gilchrest
+  - https://justfacts.votesmart.org/candidate/biography/183874/jillian-gilchrest
+  - https://www.housedems.ct.gov/Gilchrest
+  - https://www.linkedin.com/in/jillian-gilchrest-7a006b4
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-hartley-joan
+  openstates_id: ocd-person/2c22d680-9e92-423b-a943-20571186c91a
+  full_name: Joan Hartley
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/hartley/images/hartley-hi.jpg
+  phone: ""
+  email: hartley@senatedems.ct.gov
+  address: ""
+  official_website: https://www.senatedems.ct.gov/Hartley
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Joan_Hartley
+  - https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S15%27&dist_name=Hartley,%20Joan%20V.
+  - https://en.wikipedia.org/wiki/Joan_Hartley
+  - https://justfacts.votesmart.org/candidate/biography/7199/joan-hartley
+  - https://www.senatedems.ct.gov/Hartley.php
+  - https://www.senatedems.ct.gov/senator/joan-hartley
+  - https://www.senatedems.ct.gov/senator/joan-hartley/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-canino-joe
+  openstates_id: ocd-person/5c3f590e-c576-43b7-ab1a-5607efbf7ad7
+  full_name: Joe Canino
+  office_title: State Representative
+  chamber: house
+  district: "65"
+  party: Republican
+  status: active
+  photo_url: http://ctlobby.com/wp-content/uploads/2022/03/Joe-Headshot-BW.png
+  phone: ""
+  email: joe.canino@housegop.ct.gov
+  address: ""
+  official_website: https://www.cthousegop.com/canino/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_Canino
+  - https://www.cthousegop.com/canino
+  - https://www.linkedin.com/in/joe-canino-72a073124
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-hoxha-joe
+  openstates_id: ocd-person/ab33209c-a8c8-4a6e-a480-ef298eeaa74a
+  full_name: Joe Hoxha
+  office_title: State Representative
+  chamber: house
+  district: "78"
+  party: Republican
+  status: active
+  photo_url: http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTiG4g-g9POWTgtx8A4J0Lqexxlv1P-9szsikgdxOyyK0B5OwuIx6ZRFBR-S-A3Js6L
+  phone: ""
+  email: joe.hoxha@housegop.ct.gov
+  address: ""
+  official_website: https://www.cthousegop.com/hoxha/
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Joe_Hoxha
+  - https://en.wikipedia.org/wiki/Joe_Hoxha
+  - https://justfacts.votesmart.org/candidate/biography/208611/joe-hoxha
+  - https://www.cthousegop.com/Hoxha
+  - https://www.cthousegop.com/Hoxha/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-polletta-joe
+  openstates_id: ocd-person/df318645-047c-46a5-be61-682a7272e6b6
+  full_name: Joe Polletta
+  office_title: State Representative
+  chamber: house
+  district: "68"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/polletta/wp-content/uploads/sites/74/2017/04/Polletta-Web-Bio.jpg
+  phone: ""
+  email: joe.polletta@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27068%27&dist_name=Polletta,%20Joe
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Joe_Polletta
+  - https://en.wikipedia.org/wiki/Joseph_Polletta
+  - https://justfacts.votesmart.org/candidate/biography/154863/joe-polletta
+  - https://www.cthousegop.com/Polletta/main
+  - https://www.cthousegop.com/Polletta/main/
+  - https://www.linkedin.com/in/joe-polletta-645b14105
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-kissel-john
+  openstates_id: ocd-person/da65a738-37c7-41c1-8cd4-abae65ef0167
+  full_name: John Kissel
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://cga.ct.gov/legpics/S07.png?ver=
+  phone: ""
+  email: john.a.kissel@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S07%27&dist_name=Kissel,%20John%20A.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/John_Kissel
+  - https://ctsenaterepublicans.com/home-kissel
+  - https://ctsenaterepublicans.com/home-kissel/
+  - https://en.wikipedia.org/wiki/John_Kissel_(Connecticut_politician)
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-piscopo-john
+  openstates_id: ocd-person/e7f7ad52-69a8-4306-8dfe-02368f74d75b
+  full_name: John Piscopo
+  office_title: State Representative
+  chamber: house
+  district: "76"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/piscopo/wp-content/uploads/sites/52/2016/11/Piscopo-Bio-Pict-Web.jpg
+  phone: ""
+  email: john.piscopo@housegop.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27076%27&dist_name=Piscopo,%20John
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/John_Piscopo
+  - https://en.wikipedia.org/wiki/John_Piscopo
+  - https://justfacts.votesmart.org/candidate/biography/7238/john-piscopo
+  - https://www.cthousegop.com/Piscopo/main
+  - https://www.cthousegop.com/Piscopo/main/
+  - https://www.linkedin.com/in/john-piscopo-60882b33
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-parker-johnmichael
+  openstates_id: ocd-person/7e0711c4-57d1-405e-afe7-33df0bf064d6
+  full_name: John-Michael Parker
+  office_title: State Representative
+  chamber: house
+  district: "101"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Parker/images/Parker_HS.jpg
+  phone: ""
+  email: john-michael.parker@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27101%27&dist_name=101%20-%Parker,%John-Michael
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/John-Michael_Parker
+  - https://en.wikipedia.org/wiki/John-Michael_Parker
+  - https://justfacts.votesmart.org/candidate/biography/185737/john-michael-parker
+  - https://www.housedems.ct.gov/Parker
+  - https://www.linkedin.com/in/john-michael-parker-bb33901a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-santanella-john
+  openstates_id: ocd-person/3939d7ca-20d7-4587-9c34-c6ee9bb2014e
+  full_name: John Santanella
+  office_title: State Representative
+  chamber: house
+  district: "58"
+  party: Democratic
+  status: active
+  photo_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjHNdAfDeer4lV9FlS7FhYtd94TpkBobQJEt9SozaHufMHitlm2Ev9ZX9ggGORR42zRUE&usqp=CAU
+  phone: ""
+  email: john.santanella@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Santanella
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Santanella
+  - https://en.wikipedia.org/wiki/John_Santanella
+  - https://justfacts.votesmart.org/candidate/biography/219064/john-santanella
+  - https://www.housedems.ct.gov/Santanella
+  - https://www.housedems.ct.gov/Santanella/Biography
+  - https://www.linkedin.com/in/john-santanella-8bb0882
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-fonfara-john
+  openstates_id: ocd-person/749be8b3-0b40-41ec-8670-7dfbfbc90b6e
+  full_name: John Fonfara
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/fonfara/images/fonfara-hi.jpg
+  phone: ""
+  email: fonfara@senatedems.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S01%27&dist_name=Fonfara,%20John%20W.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/John_Fonfara
+  - https://en.wikipedia.org/wiki/John_Fonfara
+  - https://justfacts.votesmart.org/candidate/biography/7180/john-fonfara
+  - https://www.senatedems.ct.gov/fonfara
+  - https://www.senatedems.ct.gov/fonfara-161024
+  - https://www.senatedems.ct.gov/senator/john-fonfara/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-fazzino-jack
+  openstates_id: ocd-person/cab156d4-4d6c-4c5f-ae17-c380f063d2b0
+  full_name: Jack Fazzino
+  office_title: State Representative
+  chamber: house
+  district: "83"
+  party: Democratic/Working Families
+  status: active
+  photo_url: ""
+  phone: ""
+  email: jack.fazzino@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Fazzino
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Jonathan_Fazzino
+  - https://en.wikipedia.org/wiki/Jack_Fazzino
+  - https://justfacts.votesmart.org/candidate/biography/208614/jonathan-fazzino
+  - https://www.cohenandwolf.com/team-jonathan-fazzino
+  - https://www.housedems.ct.gov/Fazzino
+  - https://www.linkedin.com/in/jonathanfazzino
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-jacobson-jonathan
+  openstates_id: ocd-person/c567ea19-728c-43ba-ba57-20e1499418f8
+  full_name: Jonathan Jacobson
+  office_title: State Representative
+  chamber: house
+  district: "148"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jonathan_Jacobson_20240808_093641.jpeg
+  phone: ""
+  email: jonathan.jacobson@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Jacobson
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jonathan_Jacobson_(Connecticut)
+  - https://en.wikipedia.org/wiki/Jonathan_Jacobson_(Connecticut_politician)
+  - https://justfacts.votesmart.org/candidate/biography/199754/jonathan-jacobson
+  - https://www.housedems.ct.gov/Jacobson
+  - https://www.linkedin.com/in/jonathan-jacobson-8614b274
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-steinberg-jonathan
+  openstates_id: ocd-person/22b7b95d-3488-4c14-8365-c5157b3cb099
+  full_name: Jonathan Steinberg
+  office_title: State Representative
+  chamber: house
+  district: "136"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Steinberg/images/Steinberg_HS.jpg
+  phone: ""
+  email: jonathan.steinberg@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27136%27&dist_name=136%20-%Steinberg,%Jonathan
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Jonathan_Steinberg_(Connecticut)
+  - https://justfacts.votesmart.org/candidate/biography/126732/jonathan-steinberg
+  - https://www.housedems.ct.gov/Steinberg
+  - https://www.linkedin.com/in/jonathan-philip-steinberg-35664712
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-cabrera-jorge
+  openstates_id: ocd-person/bb280880-afa9-43f3-91bf-b05af25b023d
+  full_name: Jorge Cabrera
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/cabrera/images/cabrera-hi.png
+  phone: ""
+  email: jorge.cabrera@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S17%27&dist_name=Cabrera,%20Jorge
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Jorge_Cabrera
+  - https://en.wikipedia.org/wiki/Jorge_Cabrera_(politician)
+  - https://www.senatedems.ct.gov/cabrera
+  - https://www.senatedems.ct.gov/senator/jorge-cabrera
+  - https://www.senatedems.ct.gov/senator/jorge-cabrera/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-zullo-joe
+  openstates_id: ocd-person/391a83ee-0e23-4669-b3ae-b29bd9c77294
+  full_name: Joe Zullo
+  office_title: State Representative
+  chamber: house
+  district: "99"
+  party: Republican
+  status: active
+  photo_url: https://www.cga.ct.gov/legpics/099.png?ver=
+  phone: ""
+  email: joe.zullo@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27099%27&dist_name=Zullo,%20Joseph%20H.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Joseph_Zullo
+  - https://en.wikipedia.org/wiki/Joseph_Zullo
+  - https://justfacts.votesmart.org/candidate/biography/186049/joe-zullo
+  - https://www.cthousegop.com/zullo
+  - https://www.cthousegop.com/zullo/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-gresko-joe
+  openstates_id: ocd-person/06bb6ad8-3238-4ba7-8f83-47507541a300
+  full_name: Joe Gresko
+  office_title: State Representative
+  chamber: house
+  district: "121"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Gresko/images/gresko_HS.jpg
+  phone: ""
+  email: joseph.gresko@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27121%27&dist_name=121%20-%Gresko,%Joseph%20P.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Joe_Gresko
+  - https://en.wikipedia.org/wiki/Joe_Gresko
+  - https://justfacts.votesmart.org/candidate/biography/170766/joe-gresko
+  - https://www.housedems.ct.gov/Gresko
+  - https://www.linkedin.com/in/joe-gresko-a1aa0a21
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-elliott-josh
+  openstates_id: ocd-person/57461c01-e706-4ce5-9dfd-8982e1f29021
+  full_name: Josh Elliott
+  office_title: State Representative
+  chamber: house
+  district: "88"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Elliott/images/Elliott_HS.jpg
+  phone: ""
+  email: josh.elliott@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27088%27&dist_name=088%20-%Elliott,%Josh
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Joshua_Elliott
+  - https://en.wikipedia.org/wiki/Josh_Elliott_(politician)
+  - https://justfacts.votesmart.org/candidate/172255/joshua-elliott
+  - https://www.housedems.ct.gov/Elliott
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-hall-joshua
+  openstates_id: ocd-person/acb9a83b-c921-4631-826e-ffd02e2203b9
+  full_name: Joshua Hall
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Hall/images/Hall_HS.jpg
+  phone: ""
+  email: joshua.hall@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27007%27&dist_name=007%20-%Hall,%Joshua
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Joshua_Malik_Hall
+  - https://en.wikipedia.org/wiki/Joshua_M._Hall
+  - https://justfacts.votesmart.org/candidate/biography/176210/joshua-hall
+  - https://www.housedems.ct.gov/Hall
+  - https://www.linkedin.com/in/joshua-hall-53852954
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-candelaria-juan
+  openstates_id: ocd-person/6af561a7-e6d7-4a29-8f65-9a22a5734639
+  full_name: Juan Candelaria
+  office_title: State Representative
+  chamber: house
+  district: "95"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Candelaria/images/Candelaria_HS.jpg
+  phone: ""
+  email: juan.candelaria@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27095%27&dist_name=095%20-%Candelaria,%Juan%20R.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Juan_Candelaria
+  - https://en.wikipedia.org/wiki/Juan_Candelaria
+  - https://justfacts.votesmart.org/candidate/biography/30401/juan-candelaria
+  - https://www.housedems.ct.gov/Candelaria
+  - https://www.linkedin.com/in/juan-candelaria-9a6a478
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-kushner-julie
+  openstates_id: ocd-person/34ca88f1-c2bc-430e-9f7c-93e8f3563e33
+  full_name: Julie Kushner
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/Kushner/images/Kushner-hi.jpg
+  phone: ""
+  email: julie.kushner@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S24%27&dist_name=Kushner,%20Julie
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Julie_Kushner
+  - https://en.wikipedia.org/wiki/Julie_Kushner
+  - https://www.linkedin.com/in/julie-kushner-1a80a637
+  - https://www.senatedems.ct.gov/kushner
+  - https://www.senatedems.ct.gov/senator/julie-kushner
+  - https://www.senatedems.ct.gov/senator/julie-kushner/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-concepcin-julio
+  openstates_id: ocd-person/d44bd84a-b02c-4c1b-94ee-05c8b1008e57
+  full_name: Julio Concepción
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Concepcion/images/Concepcion_HS.jpg
+  phone: ""
+  email: julio.concepcion@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27004%27&dist_name=004%20-%Concepcion,%Julio
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Julio_Concepcion
+  - https://en.wikipedia.org/wiki/Julio_Concepcion
+  - https://justfacts.votesmart.org/candidate/biography/173047/julio-concepcion
+  - https://www.housedems.ct.gov/concepcion
+  - https://www.linkedin.com/in/julioconcepcion
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-roberts-kadeem
+  openstates_id: ocd-person/86852522-4c4d-46ae-8a59-d81a16ad179a
+  full_name: Kadeem Roberts
+  office_title: State Representative
+  chamber: house
+  district: "137"
+  party: Democratic/Working Families
+  status: active
+  photo_url: ""
+  phone: ""
+  email: kadeem.roberts@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Roberts
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Kadeem_Roberts
+  - https://en.wikipedia.org/wiki/Kadeem_Roberts
+  - https://justfacts.votesmart.org/candidate/biography/199776/kadeem-roberts
+  - https://www.housedems.ct.gov/Roberts
+  - https://www.housedems.ct.gov/Roberts/Biography
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-belton-kai
+  openstates_id: ocd-person/75ee19d6-dea2-4ef3-9682-0bfa9f53fb38
+  full_name: Kai Belton
+  office_title: State Representative
+  chamber: house
+  district: "100"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: kai.belton@cga.ct.gov
+  address: ""
+  official_website: https://housedems.ct.gov/belton
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Kai_Juanna_Belton
+  - https://en.wikipedia.org/wiki/Kai_Belton
+  - https://housedems.ct.gov/belton
+  - https://justfacts.votesmart.org/candidate/biography/211498/kai-belton
+  - https://www.linkedin.com/in/kai-belton-97218962
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-shake-kaitlyn
+  openstates_id: ocd-person/91e5bc44-6a8d-410d-bab5-5eb34b90d368
+  full_name: Kaitlyn Shake
+  office_title: State Representative
+  chamber: house
+  district: "120"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://stratfordcrier.com/wp-content/uploads/2024/10/shakeheadshot.jpg
+  phone: ""
+  email: kaitlyn.shake@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Shake
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kaitlyn_Shake
+  - https://en.wikipedia.org/wiki/Kaitlyn_Shake
+  - https://justfacts.votesmart.org/candidate/biography/199607/kaitlyn-shake
+  - https://www.housedems.ct.gov/Shake
+  - https://www.housedems.ct.gov/Shake/Biography
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-rochelle-kara
+  openstates_id: ocd-person/3969673d-4a3e-487e-a572-42ce9f79e6dd
+  full_name: Kara Rochelle
+  office_title: State Representative
+  chamber: house
+  district: "104"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Rochelle/images/Rochelle_HS.jpg
+  phone: ""
+  email: kara.rochelle@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27104%27&dist_name=104%20-%Rochelle,%Kara
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Kara_Rochelle
+  - https://en.wikipedia.org/wiki/Kara_Rochelle
+  - https://justfacts.votesmart.org/candidate/biography/185741/kara-rochelle
+  - https://www.housedems.ct.gov/rochelle
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-reddingtonhughes-karen
+  openstates_id: ocd-person/56d4db3c-b047-4480-99ae-c99ed0131d69
+  full_name: Karen Reddington-Hughes
+  office_title: State Representative
+  chamber: house
+  district: "66"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: karen.reddington-hughes@housegop.ct.gov
+  address: ""
+  official_website: https://www.cthousegop.com/Reddington-Hughes/
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Karen_Reddington-Hughes
+  - https://en.wikipedia.org/wiki/Karen_Reddington-Hughes
+  - https://justfacts.votesmart.org/candidate/biography/208603/karen-reddington-hughes
+  - https://www.cthousegop.com/Reddington-Hughes
+  - https://www.cthousegop.com/Reddington-Hughes/
+  - https://www.linkedin.com/in/karen-reddington-hughes-4830a310
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-farrar-kate
+  openstates_id: ocd-person/96fa444a-7e86-4ead-9d2e-c3ffef258be2
+  full_name: Kate Farrar
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Democratic/Working Families
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Farrar/images/Farrar_HS.jpg
+  phone: ""
+  email: kate.farrar@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27020%27&dist_name=020%20-%Farrar,%Kate
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Kate_Farrar
+  - https://en.wikipedia.org/wiki/Kate_Farrar
+  - https://www.housedems.ct.gov/Farrar
+  - https://www.linkedin.com/in/kate-c-farrar-b57b6065
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-kennedy-kathy
+  openstates_id: ocd-person/f0517411-fc60-49ad-86e6-1f025ab4579b
+  full_name: Kathy Kennedy
+  office_title: State Representative
+  chamber: house
+  district: "119"
+  party: Republican
+  status: active
+  photo_url: https://www.cga.ct.gov/legpics/119.png?ver=
+  phone: ""
+  email: kathy.kennedy@housegop.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27119%27
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Kathy_Kennedy
+  - https://en.wikipedia.org/wiki/Kathy_Kennedy
+  - https://justfacts.votesmart.org/candidate/biography/185758/kathy-kennedy
+  - https://www.cthousegop.com/kennedy
+  - https://www.cthousegop.com/kennedy/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-gucker-ken
+  openstates_id: ocd-person/f086a8e8-70ea-40bc-a77f-2012b74f3a00
+  full_name: Ken Gucker
+  office_title: State Representative
+  chamber: house
+  district: "138"
+  party: Democratic/Working Families
+  status: active
+  photo_url: ""
+  phone: ""
+  email: ken.gucker@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/gucker
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kenneth_Gucker
+  - https://en.wikipedia.org/wiki/Ken_Gucker
+  - https://justfacts.votesmart.org/candidate/biography/172359/kenneth-gucker
+  - https://www.housedems.ct.gov/gucker
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-wood-kerry
+  openstates_id: ocd-person/d71060b1-2bb9-4239-ab9b-fad7d1a4d903
+  full_name: Kerry Wood
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Wood/images/Wood_HS.jpg
+  phone: ""
+  email: kerry.wood@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27029%27&dist_name=029%20-%Wood,%Kerry
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Kerry_Szeps_Wood
+  - https://en.wikipedia.org/wiki/Kerry_Szeps_Wood
+  - https://justfacts.votesmart.org/candidate/biography/183876/kerry-wood
+  - https://www.housedems.ct.gov/wood
+  - https://www.linkedin.com/in/kerry-wood-54396395
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-brown-kevin
+  openstates_id: ocd-person/ac2991dd-302d-430f-8878-0fbd393a5909
+  full_name: Kevin Brown
+  office_title: State Representative
+  chamber: house
+  district: "56"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: kevin.brown@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/BrownK
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Kevin_Brown_(Connecticut)
+  - https://en.wikipedia.org/wiki/Kevin_Brown_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/208596/kevin-brown
+  - https://www.housedems.ct.gov/BrownK
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-vail-kurt
+  openstates_id: ocd-person/ffa361d0-7471-450e-aee8-cb0c32ee2742
+  full_name: Kurt Vail
+  office_title: State Representative
+  chamber: house
+  district: "52"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/vail/wp-content/uploads/sites/66/2016/11/Vail-Bio-Web.jpg
+  phone: ""
+  email: kurt.vail@housegop.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27052%27&dist_name=Kurt,%20Vail
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Kurt_Vail
+  - https://en.wikipedia.org/wiki/Kurt_Vail
+  - https://justfacts.votesmart.org/candidate/biography/154847/kurt-vail
+  - https://www.cthousegop.com/Vail/main
+  - https://www.cthousegop.com/Vail/main/
+  - https://www.linkedin.com/in/kurt-vail-69413a27
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-butler-larry
+  openstates_id: ocd-person/47282285-14de-4306-b33f-a82754702ec5
+  full_name: Larry Butler
+  office_title: State Representative
+  chamber: house
+  district: "72"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Butler/images/Butler_HS.jpg?ver=
+  phone: ""
+  email: larry.butler@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27072%27&dist_name=072%20-%Butler,%Larry%20B.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Larry_Butler_(Connecticut)
+  - https://justfacts.votesmart.org/candidate/biography/68422/larry-butler
+  - https://www.housedems.ct.gov/Butler
+  - https://www.linkedin.com/in/larry-b-butler-75548a31
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-pemberton-larry
+  openstates_id: ocd-person/cd552354-5729-4c68-8872-3e0f6693bcc1
+  full_name: Larry Pemberton
+  office_title: State Representative
+  chamber: house
+  district: "139"
+  party: Democratic
+  status: active
+  photo_url: https://static.wixstatic.com/media/03b035_5852c1c382df416699f58f64d9b8e32c~mv2.png/v1/fill/w_585,h_619,fp_0.49_0.22,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/CT4A2983_website.png
+  phone: ""
+  email: larry.pemberton@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/pemberton
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Larry_Pemberton
+  - https://www.housedems.ct.gov/pemberton
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-sweet-laurie
+  openstates_id: ocd-person/4324ca37-42af-4095-b666-a4bf80af6df1
+  full_name: Laurie Sweet
+  office_title: State Representative
+  chamber: house
+  district: "91"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://sweetforstate.com/wp-content/uploads/2024/05/Laurie_crop.jpg
+  phone: ""
+  email: laurie.sweet@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Sweet
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Laurie_Sweet
+  - https://en.wikipedia.org/wiki/Laurie_Sweet
+  - https://justfacts.votesmart.org/candidate/biography/219082/laurie-sweet
+  - https://www.housedems.ct.gov/Sweet
+  - https://www.housedems.ct.gov/Sweet/Biography
+  - https://www.linkedin.com/in/laurie-sweet-4a614440
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-zupkus-lezlye
+  openstates_id: ocd-person/cddc0b8f-51e5-4ed1-af05-41de718801f3
+  full_name: Lezlye Zupkus
+  office_title: State Representative
+  chamber: house
+  district: "89"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/zupkus/wp-content/uploads/sites/73/2016/11/Zupkus_Bio_Web.jpg
+  phone: ""
+  email: lezlye.zupkus@housegop.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27089%27&dist_name=089-Lezlye%20Zupkus
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Lezlye_Zupkus
+  - https://en.wikipedia.org/wiki/Lezlye_Zupkus
+  - https://justfacts.votesmart.org/candidate/biography/141175/lezlye-zupkus
+  - https://www.cthousegop.com/Zupkus/main
+  - https://www.cthousegop.com/Zupkus/main/
+  - https://www.linkedin.com/in/lezlye-zupkus-57238225
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-linehan-liz
+  openstates_id: ocd-person/96e6350e-71c4-4031-8af8-a989d0ec3a01
+  full_name: Liz Linehan
+  office_title: State Representative
+  chamber: house
+  district: "103"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Linehan/images/Linehan_HS.jpg
+  phone: ""
+  email: liz.linehan@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27103%27&dist_name=103%20-%Linehan,%Liz
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Liz_Linehan
+  - https://en.wikipedia.org/wiki/Liz_Linehan
+  - https://justfacts.votesmart.org/candidate/biography/141182/liz-linehan
+  - https://www.housedems.ct.gov/Linehan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-dathan-lucy
+  openstates_id: ocd-person/2ed1f7b0-a1e3-4754-93a5-46b5a3fb9836
+  full_name: Lucy Dathan
+  office_title: State Representative
+  chamber: house
+  district: "142"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Dathan/images/Dathan_HS.jpg
+  phone: ""
+  email: lucy.dathan@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27142%27&dist_name=142%20-%Dathan,%Lucy
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Lucy_Dathan
+  - https://en.wikipedia.org/wiki/Lucy_Dathan
+  - https://justfacts.votesmart.org/candidate/biography/185782/lucia-dathan
+  - https://www.housedems.ct.gov/dathan
+  - https://www.linkedin.com/in/lucydathan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-flexer-mae
+  openstates_id: ocd-person/77713b68-e8ef-455e-80a6-1614488fb71a
+  full_name: Mae Flexer
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/flexer/images/flexer-hi.jpg
+  phone: ""
+  email: flexer@senatedems.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S29%27&dist_name=Flexer,%20Mae
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Mae_Flexer
+  - https://en.wikipedia.org/wiki/Mae_Flexer
+  - https://www.linkedin.com/in/mae-flexer-157b5010
+  - https://www.senatedems.ct.gov/Flexer.php
+  - https://www.senatedems.ct.gov/senator/mae-flexer
+  - https://www.senatedems.ct.gov/senator/mae-flexer/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-brown-marcus
+  openstates_id: ocd-person/4e77c536-5645-4e15-99b2-00a781896717
+  full_name: Marcus Brown
+  office_title: State Representative
+  chamber: house
+  district: "127"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: marcus.brown@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/BrownM
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Marcus_Brown
+  - https://www.housedems.ct.gov/BrownM
+  - https://www.linkedin.com/in/marcus-a-brown-047604204
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-horn-maria
+  openstates_id: ocd-person/283ad876-68be-4235-a108-e0aedbadde40
+  full_name: Maria Horn
+  office_title: State Representative
+  chamber: house
+  district: "64"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Horn/images/Horn_HS.jpg
+  phone: ""
+  email: maria.horn@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27064%27&dist_name=064%20-%Horn,%Maria
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Maria_Horn
+  - https://en.wikipedia.org/wiki/Maria_Horn
+  - https://justfacts.votesmart.org/candidate/185709/maria-horn
+  - https://www.housedems.ct.gov/horn
+  - https://www.linkedin.com/in/maria-horn-433038115
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-decaprio-mark
+  openstates_id: ocd-person/6130c80a-07b7-438e-8f5b-005e0a6b7034
+  full_name: Mark DeCaprio
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: mark.decaprio@housegop.ct.gov
+  address: ""
+  official_website: https://www.cthousegop.com/decaprio/
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Mark_DeCaprio
+  - https://justfacts.votesmart.org/candidate/biography/185695/mark-decaprio
+  - https://www.cthousegop.com/DeCaprio
+  - https://www.cthousegop.com/DeCaprio/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-anderson-mark
+  openstates_id: ocd-person/135d2f43-c892-4a34-9651-a523e85dd6de
+  full_name: Mark Anderson
+  office_title: State Representative
+  chamber: house
+  district: "62"
+  party: Republican
+  status: active
+  photo_url: https://cga.ct.gov/legpics/062.png?ver=
+  phone: ""
+  email: mark.anderson@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27062%27&dist_name=Anderson,%20Mark%20W
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Mark_Anderson_(Connecticut)
+  - https://en.wikipedia.org/wiki/Mark_Anderson_(Connecticut_politician)
+  - https://justfacts.votesmart.org/candidate/193997/mark-anderson
+  - https://www.cthousegop.com/Anderson
+  - https://www.cthousegop.com/Anderson/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-marx-martha
+  openstates_id: ocd-person/e171a437-11bc-4200-ae58-f6f8c4971f39
+  full_name: Martha Marx
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Democratic/Working Families
+  status: active
+  photo_url: ""
+  phone: ""
+  email: martha.marx@cga.ct.gov
+  address: ""
+  official_website: https://www.senatedems.ct.gov/marx
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Martha_Marx
+  - https://en.wikipedia.org/wiki/Martha_Marx
+  - https://justfacts.votesmart.org/candidate/biography/185747/martha-marx
+  - https://www.senatedems.ct.gov/marx
+  - https://www.senatedems.ct.gov/senator/martha-marx
+  - https://www.senatedems.ct.gov/senator/martha-marx/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-looney-martin
+  openstates_id: ocd-person/2d21e401-cb76-4001-b836-e57f667f550f
+  full_name: Martin Looney
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/looney/images/looney-hi.jpg
+  phone: ""
+  email: looney@senatedems.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S11%27&dist_name=Looney,%20Martin%20M.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Martin_Looney
+  - https://en.wikipedia.org/wiki/Martin_Looney
+  - https://www.linkedin.com/in/martin-looney-0059447b
+  - https://www.senatedems.ct.gov/Looney.php
+  - https://www.senatedems.ct.gov/senator/martin-m-looney
+  - https://www.senatedems.ct.gov/senator/martin-m-looney/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-foncello-marty
+  openstates_id: ocd-person/f3b77c59-132b-4e51-a148-641a891a48a6
+  full_name: Marty Foncello
+  office_title: State Representative
+  chamber: house
+  district: "107"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: martin.foncello@housegop.ct.gov
+  address: ""
+  official_website: https://www.cthousegop.com/Foncello/
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Marty_Foncello
+  - https://en.wikipedia.org/wiki/Martin_Foncello
+  - https://justfacts.votesmart.org/candidate/biography/208693/martin-foncello
+  - https://www.cthousegop.com/Foncello
+  - https://www.cthousegop.com/Foncello/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-fortier-mary
+  openstates_id: ocd-person/dba46a90-f765-4508-a9e1-9bfdeb4a03dd
+  full_name: Mary Fortier
+  office_title: State Representative
+  chamber: house
+  district: "79"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: mary.fortier@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Fortier
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Mary_Fortier
+  - https://en.wikipedia.org/wiki/Mary_Fortier
+  - https://justfacts.votesmart.org/candidate/biography/148381/mary-fortier
+  - https://www.housedems.ct.gov/Fortier
+  - https://www.linkedin.com/in/mary-fortier-384070a9
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-mushinsky-mary
+  openstates_id: ocd-person/817e17bf-a01c-4bf1-b70f-3e16aeef088e
+  full_name: Mary Mushinsky
+  office_title: State Representative
+  chamber: house
+  district: "85"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Mushinsky/images/Mushinsky_HS.jpg
+  phone: ""
+  email: mary.mushinsky@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27085%27&dist_name=085%20-%Mushinsky,%Mary%20M.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Mary_Mushinsky
+  - https://en.wikipedia.org/wiki/Mary_Mushinsky
+  - https://justfacts.votesmart.org/candidate/biography/7230/mary-mushinsky
+  - https://www.housedems.ct.gov/Mushinsky
+  - https://www.linkedin.com/in/mary-mushinsky-0a6b9228
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-welander-mary
+  openstates_id: ocd-person/53fa49be-9042-4e23-a1ff-a85f98a3d9f7
+  full_name: Mary Welander
+  office_title: State Representative
+  chamber: house
+  district: "114"
+  party: Democratic/Working Families
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Welander/images/Welander_HS.jpg
+  phone: ""
+  email: mary.welander@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27114%27&dist_name=114%20-%Welander,%Mary
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Mary_Welander
+  - https://en.wikipedia.org/wiki/Mary_Welander
+  - https://justfacts.votesmart.org/candidate/biography/185750/mary-welander
+  - https://www.housedems.ct.gov/Welander
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-khan-maryam
+  openstates_id: ocd-person/298d6d03-248e-44c2-be42-269bc417745c
+  full_name: Maryam Khan
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Khan/images/Khan_HS.jpg
+  phone: ""
+  email: maryam.khan@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27005%27&dist_name=005%20-%Khan,%Maryam
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Maryam_Khan
+  - https://en.wikipedia.org/wiki/Maryam_Khan
+  - https://justfacts.votesmart.org/candidate/biography/201911/maryam-khan
+  - https://www.housedems.ct.gov/khan
+  - https://www.linkedin.com/in/maryam-khan-45a543a1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-blumenthal-matt
+  openstates_id: ocd-person/9c5e5d75-a622-41d2-b607-2adbc12ee11f
+  full_name: Matt Blumenthal
+  office_title: State Representative
+  chamber: house
+  district: "147"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Blumenthal/images/Blumenthal_HS.jpg
+  phone: ""
+  email: matt.blumenthal@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27147%27&dist_name=147%20-%Blumenthal,%Matt
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Matt_Blumenthal
+  - https://en.wikipedia.org/wiki/Matt_Blumenthal
+  - https://justfacts.votesmart.org/candidate/biography/185784/matt-blumenthal
+  - https://www.housedems.ct.gov/blumenthal
+  - https://www.linkedin.com/in/matt-blumenthal-2458454b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-lesser-matt
+  openstates_id: ocd-person/f55ef0f9-f0ed-48ba-80b9-23ac643626cc
+  full_name: Matt Lesser
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/Lesser/images/Lesser1x1.jpg
+  phone: ""
+  email: matthew.lesser@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S09%27&dist_name=Lesser,%20Matthew%20L.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Matthew_Lesser
+  - https://en.wikipedia.org/wiki/Matt_Lesser
+  - https://www.linkedin.com/in/matthew-lesser-bb941414
+  - https://www.senatedems.ct.gov/lesser
+  - https://www.senatedems.ct.gov/senator/matt-lesser
+  - https://www.senatedems.ct.gov/senator/matt-lesser/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-ritter-matt
+  openstates_id: ocd-person/2a91c3d6-433a-4e8f-b5a5-38fc80b8ea57
+  full_name: Matt Ritter
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Ritter/images/Ritter_HS.jpg
+  phone: ""
+  email: matthew.ritter@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27001%27&dist_name=001%20-%Ritter,%Matt
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Matthew_Ritter
+  - https://en.wikipedia.org/wiki/Matthew_Ritter
+  - https://justfacts.votesmart.org/candidate/biography/105698/matt-ritter
+  - https://www.housedems.ct.gov/Ritter
+  - https://www.linkedin.com/in/matthew-ritter-4a96389
+  - https://www.shipmangoodwin.com/people/matthew-d-ritter.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-rahman-md
+  openstates_id: ocd-person/277414ca-35b8-41dd-ae2e-e99fe9ecdb9b
+  full_name: M.D. Rahman
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Democratic/Working Families
+  status: active
+  photo_url: ""
+  phone: ""
+  email: md.rahman@cga.ct.gov
+  address: ""
+  official_website: https://www.senatedems.ct.gov/Rahman
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/MD_Rahman
+  - https://www.linkedin.com/in/md-rahman-a10923196
+  - https://www.senatedems.ct.gov/rahman
+  - https://www.senatedems.ct.gov/senator/md-rahman
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-osborne-melissa
+  openstates_id: ocd-person/d16242a4-d3e1-45b3-9f95-8741980310cc
+  full_name: Melissa Osborne
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: melissa.osborne@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Osborne
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Melissa_Osborne
+  - https://en.wikipedia.org/wiki/Melissa_Osborne
+  - https://justfacts.votesmart.org/candidate/biography/154755/melissa-osborne
+  - https://www.housedems.ct.gov/Osborne
+  - https://www.linkedin.com/in/melissa-e-osborne-4928b2b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-quinn-michael
+  openstates_id: ocd-person/155c99fd-9d59-47e7-9134-12872a72426f
+  full_name: Michael Quinn
+  office_title: State Representative
+  chamber: house
+  district: "82"
+  party: Democratic/Working Families
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Quinn/images/Quinn_HS.jpg
+  phone: ""
+  email: michaeld.quinn@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27082%27&dist_name=082%20-%Quinn,%Michael%20D.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Michael_Quinn_(Connecticut)
+  - https://en.wikipedia.org/wiki/Michael_Quinn_(American_politician)
+  - https://justfacts.votesmart.org/candidate/biography/193989/michael-quinn
+  - https://www.housedems.ct.gov/Quinn
+  - https://www.linkedin.com/in/michael-quinn-3120402b
+  - https://www.mqmlawyer.com/attorneys/michael-d-quinn
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-digiovancarlo-michael
+  openstates_id: ocd-person/1e5a518e-ddf5-4976-b239-9a5324339a47
+  full_name: Michael DiGiovancarlo
+  office_title: State Representative
+  chamber: house
+  district: "74"
+  party: Democratic/Working Families
+  status: active
+  photo_url: http://www2.housedems.ct.gov/DiGiovancarlo/images/DiGiovancarlo_HS.jpg
+  phone: ""
+  email: michael.digiovancarlo@cga.ct.gov
+  address: ""
+  official_website: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27074%27&dist_name=074%20-%DiGiovancarlo,%Michael
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Michael_DiGiovancarlo
+  - https://en.wikipedia.org/wiki/Michael_DiGiovancarlo
+  - https://justfacts.votesmart.org/candidate/biography/173162/michael-digiovancarlo
+  - https://www.housedems.ct.gov/digiovancarlo
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-demicco-mike
+  openstates_id: ocd-person/ca9357d4-dffa-456a-a715-d4a7671c1f84
+  full_name: Mike Demicco
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Demicco/images/Demicco_HS.jpg
+  phone: ""
+  email: mike.demicco@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27021%27&dist_name=Demicco,%20Mike
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Mike_Demicco
+  - https://en.wikipedia.org/wiki/Mike_Demicco
+  - https://justfacts.votesmart.org/candidate/biography/126653/mike-demicco
+  - https://www.housedems.ct.gov/Demicco
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-gonzalez-minnie
+  openstates_id: ocd-person/57900db1-ade5-4107-8025-a0c664f41a32
+  full_name: Minnie Gonzalez
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Gonzalez/images/Gonzalez_HS.jpg
+  phone: ""
+  email: minnie.gonzalez@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27003%27&dist_name=Gonzalez,%20Minnie
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Minnie_Gonzalez
+  - https://en.wikipedia.org/wiki/Minnie_Gonzalez
+  - https://justfacts.votesmart.org/candidate/biography/14045/minnie-gonzalez
+  - https://www.housedems.ct.gov/Gonzalez
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-bolinsky-mitch
+  openstates_id: ocd-person/5af50689-4e90-49b1-8544-7a00048dad99
+  full_name: Mitch Bolinsky
+  office_title: State Representative
+  chamber: house
+  district: "106"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/bolinsky/wp-content/uploads/sites/8/2016/12/Bolinsky-Bio-Web-Sized.jpg
+  phone: ""
+  email: mitch.bolinsky@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27106%27&dist_name=Bolinsky,%20Mitch
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Mitch_Bolinsky
+  - https://en.wikipedia.org/wiki/Mitch_Bolinsky
+  - https://justfacts.votesmart.org/candidate/biography/141185/mitch-bolinsky
+  - https://www.cthousegop.com/Bolinsky/main
+  - https://www.cthousegop.com/Bolinsky/main/
+  - https://www.linkedin.com/in/mbolinsky
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-shannon-mj
+  openstates_id: ocd-person/79a30b4c-53c7-4031-9267-66fbae2df6c8
+  full_name: M.J. Shannon
+  office_title: State Representative
+  chamber: house
+  district: "117"
+  party: Democratic
+  status: active
+  photo_url: https://static.wixstatic.com/media/d65472_8f9c284ad8f943ab9eb91ca4b6c59479~mv2.jpg/v1/crop/x_874,y_196,w_3728,h_2696/fill/w_560,h_406,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/2024-09-04-MJ%20Shannon-0004.jpg
+  phone: ""
+  email: mj.shannon@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Shannon
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/MJ_Shannon
+  - https://en.wikipedia.org/wiki/MJ_Shannon
+  - https://justfacts.votesmart.org/candidate/biography/219101/michael-shannon
+  - https://www.housedems.ct.gov/Shannon
+  - https://www.housedems.ct.gov/Shannon/Biography
+  - https://www.linkedin.com/in/michael-mj-shannon-3949a51a1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-rader-moira
+  openstates_id: ocd-person/adb6f661-e282-42a5-8b55-cb1e5f56aa5a
+  full_name: Moira Rader
+  office_title: State Representative
+  chamber: house
+  district: "98"
+  party: Democratic/Working Families
+  status: active
+  photo_url: ""
+  phone: ""
+  email: moira.rader@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Rader
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Moira_Rader
+  - https://en.wikipedia.org/wiki/Moira_Rader
+  - https://justfacts.votesmart.org/candidate/biography/208688/moira-rader
+  - https://www.housedems.ct.gov/Rader
+  - https://www.housedems.ct.gov/Rader/Biography
+  - https://www.linkedin.com/in/moira-rader-b758a4115
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-gauthier-nick
+  openstates_id: ocd-person/2f3d7307-89cd-4dac-a9ca-4b12d7bf777e
+  full_name: Nick Gauthier
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/NickGauthier.jpg
+  phone: ""
+  email: nick.gauthier@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Gauthier
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nick_Gauthier
+  - https://www.housedems.ct.gov/Gauthier
+  - https://www.housedems.ct.gov/Gauthier/Biography
+  - https://www.linkedin.com/in/nicholasgauthier
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-menapace-nick
+  openstates_id: ocd-person/467c2737-7494-44d0-a370-c38c178740e9
+  full_name: Nick Menapace
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Nick_Menapace.jpeg
+  phone: ""
+  email: nick.menapace@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Menapace
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nick_Menapace
+  - https://en.wikipedia.org/wiki/Nick_Menapace
+  - https://justfacts.votesmart.org/candidate/biography/208580/nick-menapace
+  - https://www.housedems.ct.gov/Menapace
+  - https://www.housedems.ct.gov/Menapace/Biography
+  - https://www.linkedin.com/in/nicholas-menapace-10b74aa4
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-klaridesditria-nicole
+  openstates_id: ocd-person/71c15656-a6f4-4b95-9537-69a82b2cb54c
+  full_name: Nicole Klarides-Ditria
+  office_title: State Representative
+  chamber: house
+  district: "105"
+  party: Republican
+  status: active
+  photo_url: https://cga.ct.gov/legpics/105.png?ver=
+  phone: ""
+  email: nicole.klarides-ditria@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27105%27&dist_name=Klarides-Ditria,%20Nicole
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Nicole_Klarides-Ditria
+  - https://en.wikipedia.org/wiki/Nicole_Klarides-Ditria
+  - https://justfacts.votesmart.org/candidate/biography/172269/nicole-klarides-ditria
+  - https://www.cthousegop.com/Klarides-Ditria/main
+  - https://www.cthousegop.com/Klarides-Ditria/main/
+  - https://www.linkedin.com/in/nicole-klarides-ditria-476083a0
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-needleman-norm
+  openstates_id: ocd-person/109295ad-521f-463a-b0af-66c9f0598a97
+  full_name: Norm Needleman
+  office_title: State Senator
+  chamber: senate
+  district: "33"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/Needleman/images/Needleman-hi.jpg
+  phone: ""
+  email: norm.needleman@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S33%27&dist_name=Needleman,%20Norman
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Norm_Needleman
+  - https://en.wikipedia.org/wiki/Norman_Needleman
+  - https://justfacts.votesmart.org/candidate/biography/172370/norman-needleman
+  - https://www.senatedems.ct.gov/needleman
+  - https://www.senatedems.ct.gov/senator/norm-needleman
+  - https://www.senatedems.ct.gov/senator/norm-needleman/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-dillon-pat
+  openstates_id: ocd-person/23d08488-597c-4c35-b41a-f8aef1c264c4
+  full_name: Pat Dillon
+  office_title: State Representative
+  chamber: house
+  district: "92"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Dillon/images/Dillon_HS.jpg
+  phone: ""
+  email: patricia.dillon@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27092%27&dist_name=Dillon,%20Patricia%20A.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Patricia_Dillon
+  - https://en.wikipedia.org/wiki/Patricia_Dillon
+  - https://justfacts.votesmart.org/candidate/biography/7169/patricia-dillon
+  - https://www.housedems.ct.gov/Dillon
+  - https://www.linkedin.com/in/patricia-dillon-8b7ab914
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-miller-pat
+  openstates_id: ocd-person/fcf63a22-3979-4cbf-a719-0d414d13e1ac
+  full_name: Pat Miller
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/miller/images/miller-hi.jpg
+  phone: ""
+  email: patricia.miller@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S27%27&dist_name=Miller,%20Patricia%20Billie
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Patricia_Miller_(Connecticut)
+  - https://en.wikipedia.org/wiki/Patricia_Billie_Miller
+  - https://www.senatedems.ct.gov/Miller
+  - https://www.senatedems.ct.gov/senator/patricia-billie-miller
+  - https://www.senatedems.ct.gov/senator/patricia-billie-miller/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-biggins-patrick
+  openstates_id: ocd-person/9ddc7811-2c18-44e0-b0c9-dccded290a3e
+  full_name: Patrick Biggins
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://cdnsm5-ss10.sharpschool.com/UserFiles/Servers/Server_19398796/Image/Board%20of%20Education/BOEMembers2019/New%20Headshots/Biggins2023.jpg
+  phone: ""
+  email: patrick.biggins@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Biggins
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patrick_Biggins
+  - https://en.wikipedia.org/wiki/Patrick_Biggins
+  - https://justfacts.votesmart.org/candidate/biography/220533/patrick-biggins
+  - https://www.housedems.ct.gov/Biggins
+  - https://www.housedems.ct.gov/Biggins/Biography
+  - https://www.linkedin.com/in/patrick-biggins-0a747723
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-callahan-pat
+  openstates_id: ocd-person/72191c68-6a23-4fa2-93d4-ba8dc07c2025
+  full_name: Pat Callahan
+  office_title: State Representative
+  chamber: house
+  district: "108"
+  party: Republican
+  status: active
+  photo_url: https://www.cga.ct.gov/legpics/108.png?ver=
+  phone: ""
+  email: patrick.callahan@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27108%27&dist_name=Callahan,%20Patrick%20E.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Pat_Callahan
+  - https://en.wikipedia.org/wiki/Patrick_Callahan
+  - https://justfacts.votesmart.org/candidate/biography/193983/pat-callahan
+  - https://www.cthousegop.com/Callahan
+  - https://www.cthousegop.com/Callahan/
+  - https://www.linkedin.com/in/patrick-callahan-68276a129
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-boyd-pat
+  openstates_id: ocd-person/50e78f89-a9e7-43f5-9566-a9f2cb23a5c9
+  full_name: Pat Boyd
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Boyd/images/Boyd_HS.jpg
+  phone: ""
+  email: pat.boyd@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27050%27&dist_name=Boyd,%20Patrick%20S.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Pat_Boyd
+  - https://en.wikipedia.org/wiki/Pat_Boyd
+  - https://justfacts.votesmart.org/candidate/biography/172208/pat-boyd
+  - https://www.housedems.ct.gov/Boyd
+  - https://www.linkedin.com/in/patrick-s-boyd-12943724
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-cicarella-paul
+  openstates_id: ocd-person/ca523a61-6db3-47c6-bf1f-8fd7638e999f
+  full_name: Paul Cicarella
+  office_title: State Senator
+  chamber: senate
+  district: "34"
+  party: Republican
+  status: active
+  photo_url: https://ctsenaterepublicans.com/wp-content/uploads/2020/11/Paul-Cicarella.jpg
+  phone: ""
+  email: paul.cicarella@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S34%27&dist_name=Cicarella,%20Paul
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Paul_Cicarella,_Jr.
+  - https://ctsenaterepublicans.com/home-cicarella
+  - https://ctsenaterepublicans.com/home-cicarella/
+  - https://en.wikipedia.org/wiki/Paul_Cicarella
+  - https://justfacts.votesmart.org/candidate/193684/paul-cicarella-jr
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-honig-paul
+  openstates_id: ocd-person/98ba1778-693a-41a5-9f4a-94f10d1c9fcd
+  full_name: Paul Honig
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/PaulHonig.jpeg
+  phone: ""
+  email: paul.honig@cga.ct.gov
+  address: ""
+  official_website: https://www.senatedems.ct.gov/senator/paul-honig
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Honig
+  - https://en.wikipedia.org/wiki/Paul_Honig
+  - https://www.linkedin.com/in/paul-honig-70b20116
+  - https://www.senatedems.ct.gov/senator/paul-honig
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-alliebrennan-raghib
+  openstates_id: ocd-person/1a01451b-8c85-4bde-9cef-ab083d99ae84
+  full_name: Raghib Allie-Brennan
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Allie-Brennan/images/Allie-Brennan_HS.jpg
+  phone: ""
+  email: raghib.allie-brennan@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27002%27&dist_name=Allie-Brennan,%20Raghib
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Raghib_Allie-Brennan
+  - https://en.wikipedia.org/wiki/Raghib_Allie-Brennan
+  - https://justfacts.votesmart.org/candidate/172140/raghib-allie-brennan
+  - https://www.housedems.ct.gov/Allie-Brennan
+  - https://www.linkedin.com/in/raghib-allie-brennan-710b7776
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-martinez-rebecca
+  openstates_id: ocd-person/606b5b0a-a9f3-4625-8224-e7f66bd3eed4
+  full_name: Rebecca Martinez
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: rebecca.martinez@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/martinez
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rebecca_Martinez
+  - https://en.wikipedia.org/wiki/Rebecca_Martinez
+  - https://justfacts.votesmart.org/candidate/biography/208565/rebecca-martinez
+  - https://www.housedems.ct.gov/martinez
+  - https://www.linkedin.com/in/rebecca-martinez-05509016b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-muir-renee
+  openstates_id: ocd-person/ed6fd366-fcec-4d7c-91fc-847667f604c9
+  full_name: Renee Muir
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Democratic
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/663d42995f6d2818eea58ed2/574a5cb6-0889-460b-ad42-02d699c8f900/Image_OC-1105_pp.jpg?format=2500w
+  phone: ""
+  email: renee.lamarkmuir@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/LaMarkMuir
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Renee_Muir
+  - https://en.wikipedia.org/wiki/Renee_LaMark_Muir
+  - https://justfacts.votesmart.org/candidate/biography/219048/renee-lamark-muir
+  - https://www.housedems.ct.gov/LaMarkMuir
+  - https://www.housedems.ct.gov/LaMarkMuir/Biography
+  - https://www.linkedin.com/in/renee-lamark-muir-a174b3146
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-lopes-rick
+  openstates_id: ocd-person/bdc5f5a0-0285-45d2-a6fd-d29d8b31cd43
+  full_name: Rick Lopes
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/lopes/images/lopes-hi.jpg
+  phone: ""
+  email: rick.lopes@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S06%27&dist_name=Lopes,%20Rick
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Rick_Lopes
+  - https://en.wikipedia.org/wiki/Rick_Lopes
+  - https://justfacts.votesmart.org/candidate/biography/138610/rick-lopes
+  - https://www.linkedin.com/in/lopes-rick-38b478b
+  - https://www.senatedems.ct.gov/lopes
+  - https://www.senatedems.ct.gov/senator/rick-lopes
+  - https://www.senatedems.ct.gov/senator/rick-lopes/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-sampson-rob
+  openstates_id: ocd-person/0cdb540d-c360-4981-b7a9-2a67e2f91121
+  full_name: Rob Sampson
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://cga.ct.gov/legpics/S16.png?ver=
+  phone: ""
+  email: rob.sampson@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S16%27&dist_name=Sampson,%20Rob
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Robert_C._Sampson
+  - https://ctsenaterepublicans.com/home-sampson
+  - https://ctsenaterepublicans.com/home-sampson/
+  - https://en.wikipedia.org/wiki/Robert_Sampson_(politician)
+  - https://www.linkedin.com/in/robertcsampson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-comey-robin
+  openstates_id: ocd-person/5d963d6d-74c1-4282-9ad4-592c3760bead
+  full_name: Robin Comey
+  office_title: State Representative
+  chamber: house
+  district: "102"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Comey/images/Comey_HS.jpg
+  phone: ""
+  email: robin.comey@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27102%27&dist_name=Comey,%20Robin%20E.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Robin_Comey
+  - https://en.wikipedia.org/wiki/Robin_Comey
+  - https://justfacts.votesmart.org/candidate/biography/185738/robin-comey
+  - https://www.housedems.ct.gov/comey
+  - https://www.linkedin.com/in/robin-comey-3438ab9b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-lemar-roland
+  openstates_id: ocd-person/273e9a65-2254-43f1-ae88-744e1fa3738a
+  full_name: Roland Lemar
+  office_title: State Representative
+  chamber: house
+  district: "96"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Lemar/images/Lemar_HS.jpg
+  phone: ""
+  email: roland.lemar@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27096%27&dist_name=Lemar,%20Roland%20J.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Roland_J._Lemar
+  - https://en.wikipedia.org/wiki/Roland_Lemar
+  - https://justfacts.votesmart.org/candidate/biography/72566/roland-lemar
+  - https://www.housedems.ct.gov/lemar
+  - https://www.linkedin.com/in/rolandlemar
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-napoli-ron
+  openstates_id: ocd-person/71fb3504-679f-419d-86bf-d1ae7d573244
+  full_name: Ron Napoli
+  office_title: State Representative
+  chamber: house
+  district: "73"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Napoli/images/Napoli_HS.jpg
+  phone: ""
+  email: ron.napoli@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27073%27&dist_name=Napoli,%20Ronald%20A.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Ronald_Napoli_Jr.
+  - https://en.wikipedia.org/wiki/Ronald_Napoli_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/130366/ronald-napoli-jr
+  - https://www.housedems.ct.gov/napoli
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-fazio-ryan
+  openstates_id: ocd-person/c5800b0c-c84a-4e63-83fa-8aaad9b6535f
+  full_name: Ryan Fazio
+  office_title: State Senator
+  chamber: senate
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: https://ctsenaterepublicans.com/wp-content/uploads/2021/08/225217195_346200893664334_4626743322505851539_n-scaled-e1629858004858.jpg
+  phone: ""
+  email: ryan.fazio@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S36%27&dist_name=Fazio,%20Ryan
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Ryan_Fazio
+  - https://ctsenaterepublicans.com/home-fazio
+  - https://ctsenaterepublicans.com/home-fazio/
+  - https://en.wikipedia.org/wiki/Ryan_Fazio
+  - https://www.linkedin.com/in/ryan-fazio-4209251ab
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-keitt-sarah
+  openstates_id: ocd-person/7af92839-ae80-4370-a84a-e63799ed5a48
+  full_name: Sarah Keitt
+  office_title: State Representative
+  chamber: house
+  district: "134"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: sarah.keitt@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/keitt
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Sarah_Keitt
+  - https://en.wikipedia.org/wiki/Sarah_Keitt
+  - https://justfacts.votesmart.org/candidate/biography/208723/sarah-keitt
+  - https://www.housedems.ct.gov/Keitt
+  - https://www.linkedin.com/in/sarah-keitt-6360178
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-anwar-saud
+  openstates_id: ocd-person/686df3d6-3199-4d48-a27e-7b3e7c65de66
+  full_name: Saud Anwar
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Democratic
+  status: active
+  photo_url: http://www.senatedems.ct.gov/templates/anwar/images/anwar-hi.jpg
+  phone: ""
+  email: saud.anwar@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S03%27&dist_name=Anwar,%20Saud
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Saud_Anwar
+  - https://en.wikipedia.org/wiki/Saud_Anwar
+  - https://justfacts.votesmart.org/candidate/biography/172151/saud-anwar
+  - https://www.linkedin.com/in/saud1
+  - https://www.senatedems.ct.gov/anwar
+  - https://www.senatedems.ct.gov/anwar-190301
+  - https://www.senatedems.ct.gov/senator/saud-anwar/bio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-constantine-savet
+  openstates_id: ocd-person/09dcfeba-575f-44d2-9566-1ba8471c0b4f
+  full_name: Savet Constantine
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Democratic
+  status: active
+  photo_url: https://static.wixstatic.com/media/03b035_84584b31716748b38130ccb28dfbf779~mv2.jpg/v1/crop/x_621,y_457,w_2179,h_3743/fill/w_952,h_1002,fp_0.48_0.32,q_85,usm_0.66_1.00_0.01,enc_auto/03b035_84584b31716748b38130ccb28dfbf779~mv2.jpg
+  phone: ""
+  email: savet.constantine@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Constantine
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Savet_Constantine
+  - https://en.wikipedia.org/wiki/Savet_Constantine
+  - https://justfacts.votesmart.org/candidate/biography/219051/savet-constantine
+  - https://www.housedems.ct.gov/Constantine
+  - https://www.housedems.ct.gov/Constantine/Biography
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-bronko-seth
+  openstates_id: ocd-person/a0e90d7c-cc41-469e-a27a-7efa009ef801
+  full_name: Seth Bronko
+  office_title: State Representative
+  chamber: house
+  district: "70"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: seth.bronko@housegop.ct.gov
+  address: ""
+  official_website: https://www.cthousegop.com/Bronko/
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Seth_Bronko
+  - https://en.wikipedia.org/wiki/Seth_Bronko
+  - https://justfacts.votesmart.org/candidate/biography/208608/seth-bronko
+  - https://www.cthousegop.com/Bronko
+  - https://www.cthousegop.com/Bronko/
+  - https://www.linkedin.com/in/sethbronko
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-harding-stephen
+  openstates_id: ocd-person/f0f89d15-9682-4a2e-8096-57700ac5b8dc
+  full_name: Stephen Harding
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/harding/wp-content/uploads/sites/35/2016/11/Harding_Bio_Photo_Web.jpg
+  phone: ""
+  email: stephen.harding@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27107%27&dist_name=Harding,%20Stephen%20G.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Stephen_Harding,_Jr.
+  - https://ctsenaterepublicans.com/about-harding
+  - https://ctsenaterepublicans.com/home-harding
+  - https://ctsenaterepublicans.com/home-harding/
+  - https://en.wikipedia.org/wiki/Stephen_Harding_(politician)
+  - https://www.linkedin.com/in/stephen-harding-law
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-meskers-steve
+  openstates_id: ocd-person/77dbf0fd-d45c-445c-9966-0135fff8feaa
+  full_name: Steve Meskers
+  office_title: State Representative
+  chamber: house
+  district: "150"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Meskers/images/Meskers_HS.jpg
+  phone: ""
+  email: stephen.meskers@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27150%27&dist_name=Meskers,%20Stephen%20R
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Steve_Meskers
+  - https://en.wikipedia.org/wiki/Steve_Meskers
+  - https://justfacts.votesmart.org/candidate/biography/185786/steve-meskers
+  - https://www.housedems.ct.gov/meskers
+  - https://www.linkedin.com/in/stephen-meskers-a5706269
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-weir-steve
+  openstates_id: ocd-person/755c489b-dcb4-4037-8df7-d9e62006e844
+  full_name: Steve Weir
+  office_title: State Representative
+  chamber: house
+  district: "55"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: steve.weir@housegop.ct.gov
+  address: ""
+  official_website: https://www.cthousegop.com/Weir/
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Steve_Weir
+  - https://en.wikipedia.org/wiki/Steve_Weir
+  - https://justfacts.votesmart.org/candidate/biography/193703/steve-weir
+  - https://www.cthousegop.com/Weir
+  - https://www.cthousegop.com/Weir/
+  - https://www.linkedin.com/in/steve-weir-26613a12
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-stafstrom-steve
+  openstates_id: ocd-person/cb252e7b-fffb-4bda-b951-d2b54a3c37e3
+  full_name: Steve Stafstrom
+  office_title: State Representative
+  chamber: house
+  district: "129"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Stafstrom/images/Stafstrom_HS.jpg
+  phone: ""
+  email: steven.stafstrom@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27129%27&dist_name=Stafstrom,%20Steven%20J.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Steven_Stafstrom
+  - https://en.wikipedia.org/wiki/Steven_Stafstrom
+  - https://justfacts.votesmart.org/candidate/156183/steven-stafstrom-jr
+  - https://www.housedems.ct.gov/Stafstrom
+  - https://www.linkedin.com/in/stevestafstrom
+  - https://www.pullcom.com/people-stevenstafstrom
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-winter-steven
+  openstates_id: ocd-person/17c7aeb7-7f31-4ca3-9d8c-041451663ff0
+  full_name: Steven Winter
+  office_title: State Representative
+  chamber: house
+  district: "94"
+  party: Democratic
+  status: active
+  photo_url: https://static.wixstatic.com/media/12e53d_1d12835cb6764b638fb9f744a2c18bcc~mv2.jpg/v1/fill/w_804,h_804,fp_0.50_0.37,q_85,usm_0.66_1.00_0.01,enc_auto/20240604-Dixwell-8480-EDIT.jpg
+  phone: ""
+  email: steve.winter@cga.ct.gov
+  address: ""
+  official_website: https://www.housedems.ct.gov/Winter
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steven_Winter
+  - https://en.wikipedia.org/wiki/Steven_Winter_(Connecticut_politician)
+  - https://justfacts.votesmart.org/candidate/biography/199276/steven-winter
+  - https://www.housedems.ct.gov/Winter
+  - https://www.housedems.ct.gov/Winter/Biography
+  - https://www.linkedin.com/in/steven-winter-61544718
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-gadkarwilcox-sujata
+  openstates_id: ocd-person/2d581ca4-1fb8-4e7c-9f33-060db9ed895e
+  full_name: Sujata Gadkar-Wilcox
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/sgwilcox.jpg
+  phone: ""
+  email: gadkarwilcox@senatedems.ct.gov
+  address: ""
+  official_website: https://www.senatedems.ct.gov/senator/sujata-gadkar-wilcox
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sujata_Gadkar-Wilcox
+  - https://www.qu.edu/faculty-and-staff/sujata-gadkar-wilcox
+  - https://www.senatedems.ct.gov/senator/sujata-gadkar-wilcox
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-johnson-susan
+  openstates_id: ocd-person/454e5979-c5bb-4f4e-9f3d-dc11f5e5b6ca
+  full_name: Susan Johnson
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Johnson/images/Johnson_HS.jpg
+  phone: ""
+  email: susan.johnson@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27049%27&dist_name=Johnson,%20Susan%20M.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Susan_Johnson,_Connecticut_Representative
+  - https://en.wikipedia.org/wiki/Susan_Johnson_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/22189/susan-johnson
+  - https://www.housedems.ct.gov/Johnson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-zawistowski-tami
+  openstates_id: ocd-person/b57c3599-c0b0-4fd3-a48c-2bfd32d95071
+  full_name: Tami Zawistowski
+  office_title: State Representative
+  chamber: house
+  district: "61"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/zawistowski/wp-content/uploads/sites/71/2016/11/Zawistowski-Bio-Web.jpg
+  phone: ""
+  email: tami.zawistowski@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27061%27&dist_name=Zawistowski,%20Tami
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Tami_Zawistowski
+  - https://en.wikipedia.org/wiki/Tami_Zawistowski
+  - https://justfacts.votesmart.org/candidate/biography/141155/tami-zawistowski
+  - https://www.cthousegop.com/Zawistowski/main
+  - https://www.cthousegop.com/Zawistowski/main/
+  - https://www.linkedin.com/in/resourcebooks
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-nuccio-tammy
+  openstates_id: ocd-person/cbdde335-cd3e-4769-b477-5893c46d96b6
+  full_name: Tammy Nuccio
+  office_title: State Representative
+  chamber: house
+  district: "53"
+  party: Republican
+  status: active
+  photo_url: https://cga.ct.gov/legpics/053.png?ver=
+  phone: ""
+  email: tammy.nuccio@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27053%27&dist_name=Nuccio,%20Tammy
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Tammy_Nuccio
+  - https://en.wikipedia.org/wiki/Tammy_Nuccio
+  - https://justfacts.votesmart.org/candidate/biography/193939/tammy-nuccio
+  - https://www.cthousegop.com/Nuccio
+  - https://www.cthousegop.com/Nuccio/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-exum-tammy
+  openstates_id: ocd-person/8872e78b-25b4-406b-84b2-949c700f7b56
+  full_name: Tammy Exum
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Exum/images/Exum_HS.jpg
+  phone: ""
+  email: tammy.exum@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27019%27&dist_name=Exum,%20Tammy%20R.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Tammy_Exum
+  - https://en.wikipedia.org/wiki/Tammy_Exum
+  - https://justfacts.votesmart.org/candidate/biography/186272/tammy-exum
+  - https://www.housedems.ct.gov/exum
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-ackert-tim
+  openstates_id: ocd-person/d458d504-9053-4709-bf43-d955083a18ab
+  full_name: Tim Ackert
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://cga.ct.gov/legpics/008.png?ver=
+  phone: ""
+  email: tim.ackert@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27008%27&dist_name=Ackert,%20Tim
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Tim_Ackert
+  - https://en.wikipedia.org/wiki/Tim_Ackert
+  - https://justfacts.votesmart.org/candidate/biography/65445/tim-ackert
+  - https://www.cthousegop.com/Ackert
+  - https://www.cthousegop.com/Ackert/
+  - https://www.linkedin.com/in/timackert
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-courpas-tina
+  openstates_id: ocd-person/ca470373-9e97-47c5-ab96-96e3f93cee08
+  full_name: Tina Courpas
+  office_title: State Representative
+  chamber: house
+  district: "149"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TinaCourpas2024.jpg
+  phone: ""
+  email: tina.courpas@housegop.ct.gov
+  address: ""
+  official_website: https://www.cthousegop.com/courpas/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tina_Courpas
+  - https://en.wikipedia.org/wiki/Tina_Courpas
+  - https://justfacts.votesmart.org/candidate/biography/219139/katherine-courpas
+  - https://www.cthousegop.com/courpas
+  - https://www.linkedin.com/in/tinacourpas
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-delnicki-tom
+  openstates_id: ocd-person/8bf7e55e-afc1-4f5c-99c3-9b7a1356fbc3
+  full_name: Tom Delnicki
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://cga.ct.gov/legpics/014.png?ver=
+  phone: ""
+  email: tom.delnicki@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27014%27&dist_name=Delnicki,%20Tom
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Tom_Delnicki
+  - https://en.wikipedia.org/wiki/Tom_Delnicki
+  - https://justfacts.votesmart.org/candidate/biography/172152/tom-delnicki
+  - https://www.cthousegop.com/Delnicki/main
+  - https://www.cthousegop.com/Delnicki/main/
+  - https://www.linkedin.com/in/tom-delnicki-4944a471
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-odea-tom
+  openstates_id: ocd-person/03642345-7acb-4294-91b5-84dcc3c18cc7
+  full_name: Tom O'Dea
+  office_title: State Representative
+  chamber: house
+  district: "125"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/odea/wp-content/uploads/sites/46/2018/05/ODea-Headshot-683x1024.jpg
+  phone: ""
+  email: tom.odea@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27125%27&dist_name=O%27Dea,%20Tom
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Tom_O%27Dea
+  - https://diseriomartin.com/attorneys/thomas-p-odea-jr
+  - https://en.wikipedia.org/wiki/Tom_O%27Dea
+  - https://justfacts.votesmart.org/candidate/141206/tom-odea
+  - https://www.cthousegop.com/odea
+  - https://www.cthousegop.com/odea/
+  - https://www.linkedin.com/in/thomas-p-o-dea-jr-935707
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-walker-toni
+  openstates_id: ocd-person/59460c80-5324-423f-a06c-158d69a30b02
+  full_name: Toni Walker
+  office_title: State Representative
+  chamber: house
+  district: "93"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Walker/images/Walker_HS.jpg
+  phone: ""
+  email: toni.walker@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27093%27&dist_name=Walker,%20Toni%20E.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Toni_Walker
+  - https://en.wikipedia.org/wiki/Toni_Walker
+  - https://justfacts.votesmart.org/candidate/biography/30545/toni-walker
+  - https://www.housedems.ct.gov/Walker
+  - https://www.linkedin.com/in/toni-walker-0a2b3435
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-sen-hwang-tony
+  openstates_id: ocd-person/b1ab473b-e7ff-4c53-96af-ee796c89f4dd
+  full_name: Tony Hwang
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://ctsenaterepublicans.com/wp-content/uploads/2021/08/Hwang_Headshot2019.jpg
+  phone: ""
+  email: tony.hwang@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S28%27&dist_name=Hwang,%20Tony
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Tony_Hwang
+  - https://ctsenaterepublicans.com/home-Hwang
+  - https://ctsenaterepublicans.com/home-Hwang/
+  - https://en.wikipedia.org/wiki/Tony_Hwang
+  - https://www.linkedin.com/in/tony-hwang-3a80231a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-scott-tony
+  openstates_id: ocd-person/bc3200fa-f97b-433f-bb0b-ac15f71b2e92
+  full_name: Tony Scott
+  office_title: State Representative
+  chamber: house
+  district: "112"
+  party: Republican
+  status: active
+  photo_url: https://cga.ct.gov/legpics/112.png?ver=
+  phone: ""
+  email: tony.scott@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27112%27&dist_name=Scott,%20Tony%20J
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Tony_Scott
+  - https://en.wikipedia.org/wiki/Tony_Scott_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/195887/tony-scott
+  - https://www.cthousegop.com/Scott
+  - https://www.cthousegop.com/Scott/
+  - https://www.linkedin.com/in/tonyjscott
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-marra-tracy
+  openstates_id: ocd-person/fd032e0e-7926-4f81-9477-6fdee260014b
+  full_name: Tracy Marra
+  office_title: State Representative
+  chamber: house
+  district: "141"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: tracy.marra@housegop.ct.gov
+  address: ""
+  official_website: https://www.cthousegop.com/Marra/
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Tracy_Marra
+  - https://justfacts.votesmart.org/candidate/biography/208730/tracy-marra
+  - https://www.cthousegop.com/Marra
+  - https://www.cthousegop.com/Marra/
+  - https://www.linkedin.com/in/tracymarra
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-simms-travis
+  openstates_id: ocd-person/9e9d6f02-ee29-4ff3-a6fe-1b8a0cec0612
+  full_name: Travis Simms
+  office_title: State Representative
+  chamber: house
+  district: "140"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/Simms/images/Simms_HS.jpg
+  phone: ""
+  email: travis.simms@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27140%27&dist_name=Simms,%20Travis
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Travis_Simms_(Connecticut)
+  - https://en.wikipedia.org/wiki/Travis_Simms
+  - https://justfacts.votesmart.org/candidate/130164/travis-simms
+  - https://www.housedems.ct.gov/simms
+  - https://www.linkedin.com/in/tremendous
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-mcgee-trene
+  openstates_id: ocd-person/5a41c633-8d04-43c6-b3c2-64cbbbbefcc4
+  full_name: Treneé McGee
+  office_title: State Representative
+  chamber: house
+  district: "116"
+  party: Democratic
+  status: active
+  photo_url: http://www2.housedems.ct.gov/McGeeT/images/McGeeT_HS.jpg
+  phone: ""
+  email: trenee.mcgee@cga.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27116%27&dist_name=McGee,%20Trenee
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Trenee_McGee
+  - https://en.wikipedia.org/wiki/Trene%C3%A9_McGee
+  - https://justfacts.votesmart.org/candidate/biography/199728/trenee-mcgee
+  - https://www.housedems.ct.gov/McGeeT
+  - https://www.linkedin.com/in/trene%C3%A9-mcgee-4a6ba5b4
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-candelora-vin
+  openstates_id: ocd-person/1d02baaa-ab25-4607-b33f-40948893f928
+  full_name: Vin Candelora
+  office_title: State Representative
+  chamber: house
+  district: "86"
+  party: Republican
+  status: active
+  photo_url: https://www.cthousegop.com/candelora/wp-content/uploads/sites/12/2022/02/Candelora-2022-Bio-Photo-Web.jpg
+  phone: ""
+  email: vincent.candelora@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27086%27&dist_name=Candelora,%20Vincent%20J.
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/Vincent_Candelora
+  - https://en.wikipedia.org/wiki/Vincent_Candelora
+  - https://justfacts.votesmart.org/candidate/65266/vin-candelora
+  - https://www.cthousegop.com/Candelora/main
+  - https://www.cthousegop.com/Candelora/main/
+  - https://www.linkedin.com/in/vincent-candelora-8981a67
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ct-hou-pizzuto-bill
+  openstates_id: ocd-person/f7127b57-a72f-4b84-abf6-77b021cddf3f
+  full_name: Bill Pizzuto
+  office_title: State Representative
+  chamber: house
+  district: "71"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: william.pizzuto@housegop.ct.gov
+  address: ""
+  official_website: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27071%27&dist_name=Pizzuto,%20William
+  twitter: ""
+  source_urls:
+  - ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+  - https://ballotpedia.org/William_Pizzuto
+  - https://en.wikipedia.org/wiki/William_Pizzuto
+  - https://justfacts.votesmart.org/candidate/biography/201908/bill-pizzuto
+  - https://www.cthousegop.com/Pizzuto
+  - https://www.cthousegop.com/Pizzuto/
+  - https://www.linkedin.com/in/william-pizzuto-aab7073
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

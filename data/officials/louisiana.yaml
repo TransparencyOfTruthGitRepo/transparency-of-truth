@@ -1,4 +1,3336 @@
 ﻿state: louisiana
 state_abbrev: LA
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: la-sen-bass-adam
+  openstates_id: ocd-person/0d1a7b74-9ed8-4d8c-a1fc-f2caafc3d364
+  full_name: Adam Bass
+  office_title: State Senator
+  chamber: senate
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenPics/Sen36.jpg
+  phone: ""
+  email: sen36@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers?ID=36
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Adam_Bass
+  - https://en.wikipedia.org/wiki/Adam_Bass_(politician)
+  - https://senate.la.gov/smembers?ID=36
+  - https://www.linkedin.com/in/adam-bass-6b633b23
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-fisher-adrian
+  openstates_id: ocd-person/5d1fade2-4678-406c-b4ed-657baed1db2b
+  full_name: Adrian Fisher
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep16.jpg
+  phone: ""
+  email: hse016@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=16
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Adrian_Fisher
+  - https://en.wikipedia.org/wiki/Adrian_Fisher_(Louisiana_politician)
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=16
+  - https://house.louisiana.gov/H_Reps/members?ID=16
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-freeman-aimee
+  openstates_id: ocd-person/3937cef1-8c62-428c-8837-aa6a6a8b60e7
+  full_name: Aimee Freeman
+  office_title: State Representative
+  chamber: house
+  district: "98"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep98.jpg
+  phone: ""
+  email: hse098@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=98
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Aimee_Adatto_Freeman
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=98
+  - https://house.louisiana.gov/H_Reps/members?ID=98
+  - https://www.aimeefreemanconsulting.com
+  - https://www.linkedin.com/in/aimeeafreeeman
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-seabaugh-alan
+  openstates_id: ocd-person/5032448a-7275-4a02-8dc1-d251cdde8ad9
+  full_name: Alan Seabaugh
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenPics/Sen31.jpg
+  phone: ""
+  email: sen31@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=5
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alan_Seabaugh
+  - https://en.wikipedia.org/wiki/Alan_Seabaugh
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=5
+  - https://justfacts.votesmart.org/candidate/biography/93616/alan-seabaugh
+  - https://senate.la.gov/smembers?ID=31
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-knox-alonzo
+  openstates_id: ocd-person/967fa557-fcdc-4a75-a13e-dabf05b85905
+  full_name: Alonzo Knox
+  office_title: State Representative
+  chamber: house
+  district: "93"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep93.jpg
+  phone: ""
+  email: hse093@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=93
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alonzo_Knox
+  - https://en.wikipedia.org/wiki/Alonzo_Knox
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=93
+  - https://house.louisiana.gov/H_Reps/members?ID=93
+  - https://www.linkedin.com/in/alonzo-knox-48aa731a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-spell-annie
+  openstates_id: ocd-person/a6a9544c-d12b-44cc-a52d-f2ec0e01f556
+  full_name: Annie Spell
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: hse045@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=45
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Annie_Spell
+  - https://en.wikipedia.org/wiki/Annie_Spell
+  - https://house.louisiana.gov/H_Reps/members?ID=45
+  - https://justfacts.votesmart.org/candidate/biography/221862/annie-spell
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-freiberg-barbara
+  openstates_id: ocd-person/bd179bf7-f90d-4e3a-baea-a590c3002586
+  full_name: Barbara Freiberg
+  office_title: State Representative
+  chamber: house
+  district: "70"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep70.jpg
+  phone: ""
+  email: hse070@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=70
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Barbara_Freiberg
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=70
+  - https://house.louisiana.gov/H_Reps/members?ID=70
+  - https://justfacts.votesmart.org/candidate/biography/177824/barbara-freiberg
+  - https://www.linkedin.com/in/barbara-freiberg-62a9b719
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-carpenter-barbara
+  openstates_id: ocd-person/ad514eed-2832-4ae3-a0c5-62d8f2721297
+  full_name: Barbara Carpenter
+  office_title: State Representative
+  chamber: house
+  district: "63"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep63.jpg
+  phone: ""
+  email: carpenterb@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=63
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Barbara_Carpenter_(Louisiana)
+  - https://en.wikipedia.org/wiki/Barbara_West_Carpenter
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=63
+  - https://house.louisiana.gov/H_Reps/members?ID=63
+  - https://justfacts.votesmart.org/candidate/biography/165563/barbara-carpenter
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-amede-beryl
+  openstates_id: ocd-person/cbe53992-3b3c-4ec0-a94a-58ddf96e6edd
+  full_name: Beryl Amedée
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep51.jpg
+  phone: ""
+  email: amedeeb@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=51
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Beryl_Amedee
+  - https://en.wikipedia.org/wiki/Beryl_Amedee
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=51
+  - https://house.louisiana.gov/H_Reps/members?ID=51
+  - https://justfacts.votesmart.org/candidate/biography/149301/beryl-amedee
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-billings-beth
+  openstates_id: ocd-person/5d15439d-4139-448a-8f61-25ab54e68b19
+  full_name: Beth Billings
+  office_title: State Representative
+  chamber: house
+  district: "56"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep56.jpg
+  phone: ""
+  email: hse056@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=56
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Beth_Billings
+  - https://house.louisiana.gov/H_Reps/members?ID=56
+  - https://www.linkedin.com/in/beth-billings-70047
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-mizell-beth
+  openstates_id: ocd-person/b6e8a5cf-ec5c-494b-b9ff-efa0fb92e1c1
+  full_name: Beth Mizell
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen12.jpg
+  phone: ""
+  email: mizellb@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=12
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Beth_Mizell
+  - https://en.wikipedia.org/wiki/Beth_Mizell
+  - https://justfacts.votesmart.org/candidate/biography/134643/beth-mizell
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=12
+  - https://senate.la.gov/smembers?ID=12
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-wheat-bill
+  openstates_id: ocd-person/20547e38-711f-4012-9217-b739f4450b91
+  full_name: Bill Wheat
+  office_title: State Senator
+  chamber: senate
+  district: "37"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenPics/Sen37.jpg
+  phone: ""
+  email: sen37@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers?ID=37
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Wheat_Jr.
+  - https://senate.la.gov/smembers?ID=37
+  - https://www.linkedin.com/in/william-wheat-21506737
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-miguez-blake
+  openstates_id: ocd-person/8574f94d-93ed-49b0-a5f6-aa1832b5542a
+  full_name: Blake Miguez
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenPics/Sen22.jpg
+  phone: ""
+  email: sen22@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=49
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Blake_Miguez
+  - https://en.wikipedia.org/wiki/Blake_Miguez
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=49
+  - https://justfacts.votesmart.org/candidate/biography/156101/blake-miguez
+  - https://senate.la.gov/smembers?ID=22
+  - https://www.linkedin.com/in/blake-miguez-764b14123
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-hensgens-bob
+  openstates_id: ocd-person/7dac3861-2ffb-45ba-b690-a8e199eb2acd
+  full_name: Bob Hensgens
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen26.jpg
+  phone: ""
+  email: sen26@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=26
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bob_Hensgens
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=26
+  - https://senate.la.gov/smembers?ID=26
+  - https://www.linkedin.com/in/bob-hensgens-7430a91a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-owen-bob
+  openstates_id: ocd-person/cfe19d33-7048-4fb7-9d56-0fa0f5f985f5
+  full_name: Bob Owen
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenPics/Sen1.jpg
+  phone: ""
+  email: sen01@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers?ID=1
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Owen_(Louisiana)
+  - https://senate.la.gov/smembers?ID=1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-myers-brach
+  openstates_id: ocd-person/92439b80-4646-445b-939f-5414e309f183
+  full_name: Brach Myers
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep45.jpg
+  phone: ""
+  email: sen23@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=45
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brach_Myers
+  - https://brachmyers.com/meet-brach
+  - https://en.wikipedia.org/wiki/Brach_Myers
+  - https://house.louisiana.gov/H_Reps/members?ID=45
+  - https://senate.la.gov/smembers?ID=23
+  - https://www.linkedin.com/in/brach-myers-2113465a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-geymann-brett
+  openstates_id: ocd-person/9ffd05e6-a127-4896-b60e-fc2722fa8779
+  full_name: Brett Geymann
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep35.jpg
+  phone: ""
+  email: hse035@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=35
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brett_Geymann
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=35
+  - https://house.louisiana.gov/H_Reps/members?ID=35
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-glorioso-brian
+  openstates_id: ocd-person/96385d4e-bfae-4929-9845-502fd2ed2cc7
+  full_name: Brian Glorioso
+  office_title: State Representative
+  chamber: house
+  district: "90"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep90.jpg
+  phone: ""
+  email: hse090@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=90
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Glorioso
+  - https://house.louisiana.gov/H_Reps/members?ID=90
+  - https://www.linkedin.com/in/brian-glorioso-54673635
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-fontenot-bryan
+  openstates_id: ocd-person/90b6f6c3-9620-4fbb-8c23-f8ab7b163de7
+  full_name: Bryan Fontenot
+  office_title: State Representative
+  chamber: house
+  district: "55"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep55.jpg
+  phone: ""
+  email: hse055@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=55
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bryan_Fontenot
+  - https://en.wikipedia.org/wiki/Bryan_Fontenot
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=55
+  - https://house.louisiana.gov/H_Reps/members?ID=55
+  - https://justfacts.votesmart.org/candidate/biography/186988/bryan-fontenot
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-marcelle-denise
+  openstates_id: ocd-person/20def39d-ba5c-45d7-ba6c-5cf43590d4b0
+  full_name: Denise Marcelle
+  office_title: State Representative
+  chamber: house
+  district: "61"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep61.jpg
+  phone: ""
+  email: marcelled@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=61
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/C._Denise_Marcelle
+  - https://en.wikipedia.org/wiki/C._Denise_Marcelle
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=61
+  - https://house.louisiana.gov/H_Reps/members?ID=61
+  - https://www.linkedin.com/in/c-denise-marcelle-7bb85a32
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-johnson-travis
+  openstates_id: ocd-person/871d5c01-9710-46f4-aeba-b321bdf11e30
+  full_name: Travis Johnson
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep21.jpg
+  phone: ""
+  email: hse021@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=21
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/C._Travis_Johnson
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=21
+  - https://house.louisiana.gov/H_Reps/members?ID=21
+  - https://www.linkedin.com/in/c-travis-johnson-1b8119a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-kleinpeter-caleb
+  openstates_id: ocd-person/75f165af-66d1-464e-99b0-4176b8636501
+  full_name: Caleb Kleinpeter
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen17.jpg
+  phone: ""
+  email: sen17@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=17
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Caleb_Kleinpeter
+  - https://en.wikipedia.org/wiki/Caleb_Kleinpeter
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=17
+  - https://senate.la.gov/smembers?ID=17
+  - https://www.linkedin.com/in/caleb-kleinpeter-1484a3177
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-newell-candace
+  openstates_id: ocd-person/85a96a1b-a8a0-4ddd-acd7-9452b48f5ace
+  full_name: Candace Newell
+  office_title: State Representative
+  chamber: house
+  district: "99"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep99.jpg
+  phone: ""
+  email: hse099@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=99
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Candace_Newell
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=99
+  - https://house.louisiana.gov/H_Reps/members?ID=99
+  - https://www.linkedin.com/in/candace-n-newell-8456a517
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-boyer-chad
+  openstates_id: ocd-person/a31429da-4cde-4dbe-9510-af2dfa8ab2ed
+  full_name: Chad Boyer
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep46.jpg
+  phone: ""
+  email: hse046@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=46
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chad_Boyer
+  - https://house.louisiana.gov/H_Reps/members?ID=46
+  - https://www.linkedin.com/in/chad-boyer-78a57460
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-henry-chance
+  openstates_id: ocd-person/75101b55-81b9-465a-8ec6-297fa75cdd07
+  full_name: Chance Henry
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep42.jpg
+  phone: ""
+  email: hse042@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=42
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chance_Henry
+  - https://chancehenry.com/meet-chance
+  - https://en.wikipedia.org/wiki/Chance_Keith_Henry
+  - https://house.louisiana.gov/H_Reps/members?ID=42
+  - https://justfacts.votesmart.org/candidate/biography/212506/chance-henry
+  - https://www.linkedin.com/in/chance-henry-92ab4534
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-owen-chuck
+  openstates_id: ocd-person/2a4d4c31-ee06-4f32-a67b-c55db60502e4
+  full_name: Chuck Owen
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep30.jpg
+  phone: ""
+  email: hse030@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=30
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Charles_(Chuck)_Owen
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=30
+  - https://house.louisiana.gov/H_Reps/members?ID=30
+  - https://www.linkedin.com/in/chuck-owen-9015724
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-martinez-chasity
+  openstates_id: ocd-person/c58cdaf8-5e0d-4a0c-ac40-7e95c38ac83e
+  full_name: Chasity Martinez
+  office_title: State Representative
+  chamber: house
+  district: "60"
+  party: Democratic
+  status: active
+  photo_url: https://ibervilleparish.com/wp-content/uploads/District-10-Chasity-Martinez.png
+  phone: ""
+  email: hse060@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=60
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chasity_Martinez
+  - https://en.wikipedia.org/wiki/Chasity_Martinez
+  - https://house.louisiana.gov/H_Reps/members?ID=60
+  - https://www.linkedin.com/in/chasity-martinez-848328195
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-turner-chris
+  openstates_id: ocd-person/a07b757e-a57b-4dda-aa6a-7bf5e6b3561d
+  full_name: Chris Turner
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep12.jpg
+  phone: ""
+  email: hse012@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=12
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Christopher_Turner_(Louisiana)
+  - https://en.wikipedia.org/wiki/Chris_Turner_(Louisiana_politician)
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=12
+  - https://house.louisiana.gov/H_Reps/members?ID=12
+  - https://justfacts.votesmart.org/candidate/biography/186004/christopher-turner
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-henry-dana
+  openstates_id: ocd-person/1175d9fd-94fc-4988-98ee-de8d0029de06
+  full_name: Dana Henry
+  office_title: State Representative
+  chamber: house
+  district: "100"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Dana_Henry_20260113_023611.jpg
+  phone: ""
+  email: hse100@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=100
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dana_Henry
+  - https://en.wikipedia.org/wiki/Dana_Henry
+  - https://house.louisiana.gov/H_Reps/members?ID=100
+  - https://www.linkedin.com/in/danahenry1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-mccormick-danny
+  openstates_id: ocd-person/dc59ede6-164c-4fd4-adc1-7e080309776b
+  full_name: Danny McCormick
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep1.jpg
+  phone: ""
+  email: hse001@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=1
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Danny_McCormick
+  - https://en.wikipedia.org/wiki/Danny_McCormick
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=1
+  - https://house.louisiana.gov/H_Reps/members?ID=1
+  - https://justfacts.votesmart.org/candidate/biography/186929/danny-mccormick
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-deshotel-daryl
+  openstates_id: ocd-person/2ace9f60-8f90-43ab-a45d-d1c64bdb7462
+  full_name: Daryl Deshotel
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep28.jpg
+  phone: ""
+  email: hse028@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=28
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Daryl_Deshotel
+  - https://en.wikipedia.org/wiki/Daryl_Deshotel
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=28
+  - https://house.louisiana.gov/H_Reps/members?ID=28
+  - https://justfacts.votesmart.org/candidate/biography/186951/daryl-deshotel
+  - https://www.linkedin.com/in/daryl-a-deshotel-7248188
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-villio-debbie
+  openstates_id: ocd-person/aefc2237-5913-4b96-9354-18fb7e58884c
+  full_name: Debbie Villio
+  office_title: State Representative
+  chamber: house
+  district: "79"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep79.jpg
+  phone: ""
+  email: hse079@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=79
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Debbie_Villio
+  - https://en.wikipedia.org/wiki/Debbie_Villio
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=79
+  - https://house.louisiana.gov/H_Reps/members?ID=79
+  - https://justfacts.votesmart.org/candidate/biography/187026/debbie-villio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-boyd-delisha
+  openstates_id: ocd-person/d107ae2b-6cb6-4545-a185-d63408f46033
+  full_name: Delisha Boyd
+  office_title: State Representative
+  chamber: house
+  district: "102"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep102.jpg
+  phone: ""
+  email: hse102@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=102
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Delisha_Boyd
+  - https://delishaboyd.com
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=102
+  - https://house.louisiana.gov/H_Reps/members?ID=102
+  - https://www.linkedin.com/in/delishaboydllc
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-bamburg-dennis
+  openstates_id: ocd-person/a900feca-75c7-434e-8d00-dd67170f2b01
+  full_name: Dennis Bamburg
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep5.jpg
+  phone: ""
+  email: hse005@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=5
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dennis_Bamburg_Jr.
+  - https://house.louisiana.gov/H_Reps/members?ID=5
+  - https://www.linkedin.com/in/dennis-bamburg-93ab8895
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-mcmakin-dixon
+  openstates_id: ocd-person/d3cae3e7-f6eb-4a9c-8c63-8719902f771d
+  full_name: Dixon McMakin
+  office_title: State Representative
+  chamber: house
+  district: "68"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep68.jpg
+  phone: ""
+  email: hse068@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=68
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dixon_McMakin
+  - https://house.louisiana.gov/H_Reps/members?ID=68
+  - https://www.linkedin.com/in/dixonwallacemcmakin
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-horton-dodie
+  openstates_id: ocd-person/4661fe94-874c-4884-99a2-c60516c811ff
+  full_name: Dodie Horton
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep9.jpg
+  phone: ""
+  email: hortond@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=9
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dodie_Horton
+  - https://en.wikipedia.org/wiki/Dodie_Horton
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=9
+  - https://house.louisiana.gov/H_Reps/members?ID=9
+  - https://justfacts.votesmart.org/candidate/165610/dodie-horton
+  - https://www.linkedin.com/in/dodie-horton-3a8136100
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-boudreaux-doyle
+  openstates_id: ocd-person/c725a955-93ff-415e-91df-a7398f823474
+  full_name: Doyle Boudreaux
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/66f8d9_8ae2cf856c374eee86e43d32c995830b~mv2.jpg/v1/fill/w_150,h_210,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Doyle%20Boudreaux_JPG.jpg
+  phone: ""
+  email: hse039@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/h_reps/members?ID=39
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Doyle_Boudreaux
+  - https://house.louisiana.gov/h_reps/members?ID=39
+  - https://www.linkedin.com/in/doyle-boudreaux-50926162
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-miller-dustin
+  openstates_id: ocd-person/dcf2c7e1-e124-424c-ac0c-8d1e6600e970
+  full_name: Dustin Miller
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep40.jpg
+  phone: ""
+  email: millerd@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=40
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dustin_Miller
+  - https://ballotpedia.org/Dustin_Miller_(Louisiana)
+  - https://en.wikipedia.org/wiki/Dustin_Miller
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=40
+  - https://house.louisiana.gov/H_Reps/members?ID=40
+  - https://www.linkedin.com/in/dustin-miller-39a547a8
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-larvadain-ed
+  openstates_id: ocd-person/9a91a848-9d01-46b6-84f1-cc868681e912
+  full_name: Ed Larvadain
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep26.jpg
+  phone: ""
+  email: hse026@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=26
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ed_Larvadain_III
+  - https://en.wikipedia.org/wiki/Ed_Larvadain
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=26
+  - https://house.louisiana.gov/H_Reps/members?ID=26
+  - https://justfacts.votesmart.org/candidate/biography/111275/ed-larvadain-iii
+  - https://www.larvadaininjuryattorney.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-murray-ed
+  openstates_id: ocd-person/807a71ac-5657-4933-add4-024d35529e38
+  full_name: Ed Murray
+  office_title: State Representative
+  chamber: house
+  district: "97"
+  party: Democratic
+  status: active
+  photo_url: https://ed4nola.com/wp-content/uploads/2025/11/EdMurray_CampaignShoot_1-45-683x1024.jpg
+  phone: ""
+  email: hse097@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=97
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ed_Murray_(Louisiana)
+  - https://chehardy.com/attorneys/ed-murray
+  - https://house.louisiana.gov/H_Reps/members?ID=97
+  - https://www.linkedin.com/in/edwin-murray-4b5270102
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-lambert-eddie
+  openstates_id: ocd-person/c89a156e-8426-4001-8364-94a179482d76
+  full_name: Eddie Lambert
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen18.jpg
+  phone: ""
+  email: lamberte@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=18
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Eddie_Lambert
+  - https://en.wikipedia.org/wiki/Eddie_J._Lambert
+  - https://justfacts.votesmart.org/candidate/biography/35405/eddie-lambert
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=18
+  - https://senate.la.gov/smembers?ID=18
+  - https://www.linkedin.com/in/eddielambertattorney
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-jordan-edmond
+  openstates_id: ocd-person/efdf7ee4-4d37-4e57-8f0c-e0db52ee7f70
+  full_name: Edmond Jordan
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep29.jpg
+  phone: ""
+  email: jordane@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=29
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Edmond_Jordan
+  - https://en.wikipedia.org/wiki/Edmond_Jordan
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=29
+  - https://house.louisiana.gov/H_Reps/members?ID=29
+  - https://justfacts.votesmart.org/candidate/biography/134729/edmond-jordan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-price-ed
+  openstates_id: ocd-person/1899dc2e-bac6-4951-b3fc-87ea5e2d4969
+  full_name: Ed Price
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Democratic
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen2.jpg
+  phone: ""
+  email: pricee@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=2
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ed_Price
+  - https://justfacts.votesmart.org/candidate/biography/134641/ed-price
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=2
+  - https://senate.la.gov/smembers?ID=2
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-chenevert-emily
+  openstates_id: ocd-person/9661594c-df1e-402a-b2c5-fe2c88366506
+  full_name: Emily Chenevert
+  office_title: State Representative
+  chamber: house
+  district: "66"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep66.jpg
+  phone: ""
+  email: hse066@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=66
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Emily_Chenevert
+  - https://en.wikipedia.org/wiki/Emily_Chenevert
+  - https://house.louisiana.gov/H_Reps/members?ID=66
+  - https://justfacts.votesmart.org/candidate/biography/212560/emily-chenevert
+  - https://www.linkedin.com/in/emily-morrow-chenevert-01387520
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-gadberry-foy
+  openstates_id: ocd-person/040e17ea-a4d0-47ce-8f45-527a6bdc83a7
+  full_name: Foy Gadberry
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep15.jpg
+  phone: ""
+  email: hse015@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=15
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Foy_Gadberry
+  - https://en.wikipedia.org/wiki/Foy_Gadberry
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=15
+  - https://house.louisiana.gov/H_Reps/members?ID=15
+  - https://www.linkedin.com/in/foy-gadberry-2a96b623
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-thompson-francis
+  openstates_id: ocd-person/7796b73e-f06a-4d0b-8a85-cfde955a4cd1
+  full_name: Francis Thompson
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep19.jpg
+  phone: ""
+  email: thompsof@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=19
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Francis_C._Thompson
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=19
+  - https://house.louisiana.gov/H_Reps/members?ID=19
+  - https://justfacts.votesmart.org/candidate/biography/4610/francis-thompson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-foil-franklin
+  openstates_id: ocd-person/a8344aaa-aff7-42b3-b1a2-59539191fbb2
+  full_name: Franklin Foil
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen16.jpg
+  phone: ""
+  email: foilf@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=70
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Franklin_Foil
+  - https://en.wikipedia.org/wiki/Franklin_Foil
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=70
+  - https://justfacts.votesmart.org/candidate/biography/93673/franklin-foil
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=16
+  - https://senate.la.gov/smembers?ID=16
+  - https://www.linkedin.com/in/franklin-foil-43134736
+  - https://www.linkedin.com/in/franklin-foil-47545a2a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-carter-gary
+  openstates_id: ocd-person/60ffe8d0-0469-4eca-a69a-deec93c203b3
+  full_name: Gary Carter
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Democratic
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen7.jpg
+  phone: ""
+  email: carterg@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=102
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gary_Carter,_Jr.
+  - https://en.wikipedia.org/wiki/Gary_Carter,_Jr.
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=102
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=7
+  - https://senate.la.gov/smembers?ID=7
+  - https://www.linkedin.com/in/gary-carter-jr-b8873390
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-beaullieu-beau
+  openstates_id: ocd-person/c5ea395a-7594-4585-b193-000e05f08005
+  full_name: Beau Beaullieu
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep48.jpg
+  phone: ""
+  email: hse048@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=48
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Beau_Beaullieu
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=48
+  - https://house.louisiana.gov/H_Reps/members?ID=48
+  - https://www.linkedin.com/in/beau-beaullieu-mba-aif-c-k-p-1b59681
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-boudreaux-gerald
+  openstates_id: ocd-person/379e9992-463c-4188-9702-668457a75c3d
+  full_name: Gerald Boudreaux
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen24.jpg
+  phone: ""
+  email: boudreauxg@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=24
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gerald_Boudreaux
+  - https://en.wikipedia.org/wiki/Gerald_Boudreaux
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=24
+  - https://senate.la.gov/smembers?ID=24
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-womack-glen
+  openstates_id: ocd-person/25923053-3679-443e-bbb1-e2f63a50585c
+  full_name: Glen Womack
+  office_title: State Senator
+  chamber: senate
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen32.jpg
+  phone: ""
+  email: sen32@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=32
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Glen_Womack
+  - https://en.wikipedia.org/wiki/Glen_Womack
+  - https://justfacts.votesmart.org/candidate/biography/186919/glen-womack
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=32
+  - https://senate.la.gov/smembers?ID=32
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-miller-greg
+  openstates_id: ocd-person/77166b5f-e299-431c-869d-ab2fff79cd33
+  full_name: Greg Miller
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenPics/Sen19.jpg
+  phone: ""
+  email: sen19@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers?ID=19
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gregory_Miller,_Louisiana
+  - https://justfacts.votesmart.org/candidate/biography/134603/gregory-miller
+  - https://senate.la.gov/smembers?ID=19
+  - https://www.linkedin.com/in/gregory-miller-50855942
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-cloud-heather
+  openstates_id: ocd-person/aa2da413-7e13-4c2b-93e8-784edc0a495e
+  full_name: Heather Cloud
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen28.jpg
+  phone: ""
+  email: sen28@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=28
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Heather_Cloud
+  - https://en.wikipedia.org/wiki/Heather_Cloud
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=28
+  - https://senate.la.gov/smembers?ID=28
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-henry-cameron
+  openstates_id: ocd-person/684d1cc7-cce3-4545-a6ab-d689c7c56105
+  full_name: Cameron Henry
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen9.jpg
+  phone: ""
+  email: henryc@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=9
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cameron_Henry
+  - https://en.wikipedia.org/wiki/Cameron_Henry
+  - https://justfacts.votesmart.org/candidate/biography/93747/cameron-henry-jr
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=9
+  - https://senate.la.gov/smembers?ID=9
+  - https://www.linkedin.com/in/cameronhenryla
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-mcfarland-jack
+  openstates_id: ocd-person/2ed9a2e2-0f61-4de1-af10-e9e0dbf02492
+  full_name: Jack McFarland
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep13.jpg
+  phone: ""
+  email: mcfarlandj@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=13
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jack_McFarland
+  - https://en.wikipedia.org/wiki/Jack_McFarland_%28Louisiana_politician%29
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=13
+  - https://house.louisiana.gov/H_Reps/members?ID=13
+  - https://www.linkedin.com/in/jack-mcfarland-73638b153
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-braud-jacob
+  openstates_id: ocd-person/bfe2d39a-39a1-4992-86cd-6ab25767de92
+  full_name: Jacob Braud
+  office_title: State Representative
+  chamber: house
+  district: "105"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep105.jpg
+  phone: ""
+  email: hse105@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=105
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jacob_Braud
+  - https://en.wikipedia.org/wiki/Jacob_Braud
+  - https://house.louisiana.gov/H_Reps/members?ID=105
+  - https://www.bbc-law.net/attorney/s-j-braud
+  - https://www.linkedin.com/in/jacob-braud-6761194
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-landry-jacob
+  openstates_id: ocd-person/80ea23c0-16f8-4a57-aa48-2c5cf478a3e1
+  full_name: Jacob Landry
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep49.jpg
+  phone: ""
+  email: hse049@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=49
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jacob_Landry
+  - https://en.wikipedia.org/wiki/Jacob_Jules_Gabriel_Landry
+  - https://house.louisiana.gov/H_Reps/members?ID=49
+  - https://www.jacoblandryforlouisiana.com/about
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-dewitt-jason
+  openstates_id: ocd-person/daa3d2db-d395-4c08-9020-b90d6bc2c498
+  full_name: Jason DeWitt
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep25.jpg
+  phone: ""
+  email: hse025@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=25
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jason_DeWitt
+  - https://dewittforla.com/about
+  - https://en.wikipedia.org/wiki/Jason_Brian_DeWitt
+  - https://house.louisiana.gov/H_Reps/members?ID=25
+  - https://justfacts.votesmart.org/candidate/biography/212500/jason-dewitt
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-gall-jay
+  openstates_id: ocd-person/ef1c54d6-d162-48d3-b3b5-b02da086c1ee
+  full_name: Jay Gallé
+  office_title: State Representative
+  chamber: house
+  district: "104"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep104.jpg
+  phone: ""
+  email: hse104@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=104
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jay_Gall%C3%A9
+  - https://house.louisiana.gov/H_Reps/members?ID=104
+  - https://www.jaygalle.com
+  - https://www.linkedin.com/in/jay-galle-98aa544
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-morris-jay
+  openstates_id: ocd-person/9d6aa1d9-76b2-41ad-a3e0-4fa86da08645
+  full_name: Jay Morris
+  office_title: State Senator
+  chamber: senate
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen35.jpg
+  phone: ""
+  email: morrisjc@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=14
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jay_Morris
+  - https://en.wikipedia.org/wiki/Jay_Morris
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=14
+  - https://justfacts.votesmart.org/candidate/biography/134583/jay-morris-iii
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=35
+  - https://senate.la.gov/smembers?ID=35
+  - https://www.linkedin.com/in/jay-morris-67192426
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-wiley-jeff
+  openstates_id: ocd-person/b96a872c-91bd-47ea-a50f-f82294b3d91b
+  full_name: Jeff Wiley
+  office_title: State Representative
+  chamber: house
+  district: "81"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep81.jpg
+  phone: ""
+  email: hse081@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=81
+  twitter: ""
+  source_urls:
+  - https://house.louisiana.gov/H_Reps/members?ID=81
+  - https://www.ballotpedia.org/Jeffrey_Wiley
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-stine-jeremy
+  openstates_id: ocd-person/e8c847e2-5ee6-4f9c-a4e4-d7d8daa8464c
+  full_name: Jeremy Stine
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen27.jpg
+  phone: ""
+  email: sen27@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=27
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeremy_Stine
+  - https://en.wikipedia.org/wiki/Jeremy_Stine
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=27
+  - https://senate.la.gov/smembers?ID=27
+  - https://www.linkedin.com/in/jeremy-stine-7214b17a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-lacombe-jeremy
+  openstates_id: ocd-person/9ae6b490-4fe0-435c-93fd-ad316e474204
+  full_name: Jeremy LaCombe
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep18.jpg
+  phone: ""
+  email: hse018@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=18
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeremy_LaCombe
+  - https://en.wikipedia.org/wiki/Jeremy_LaCombe
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=18
+  - https://house.louisiana.gov/H_Reps/members?ID=18
+  - https://www.linkedin.com/in/jeremy-lacombe-22b4a54
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-zeringue-jerome
+  openstates_id: ocd-person/2dafe5b8-cb5a-411a-b270-322dcaf18293
+  full_name: Jerome Zeringue
+  office_title: State Representative
+  chamber: house
+  district: "52"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep52.jpg
+  phone: ""
+  email: zeringuej@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=52
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jerome_Zeringue
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=52
+  - https://house.louisiana.gov/H_Reps/members?ID=52
+  - https://justfacts.votesmart.org/candidate/biography/165548/jerome-zeringue
+  - https://www.linkedin.com/in/jerome-zeringue-3790b917
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-domangue-jessica
+  openstates_id: ocd-person/95e28ef0-84f6-45ec-97fe-a58f360a2ad9
+  full_name: Jessica Domangue
+  office_title: State Representative
+  chamber: house
+  district: "53"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep53.jpg
+  phone: ""
+  email: hse053@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=53
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jessica_Domangue
+  - https://house.louisiana.gov/H_Reps/members?ID=53
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-harris-jimmy
+  openstates_id: ocd-person/ce11601e-9a67-48a1-9408-b80943312303
+  full_name: Jimmy Harris
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Democratic
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen4.jpg
+  phone: ""
+  email: harrisj@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=99
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jimmy_Harris
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=99
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=4
+  - https://senate.la.gov/smembers?ID=4
+  - https://www.linkedin.com/in/harris-james-7103a135
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-illg-john
+  openstates_id: ocd-person/3c0eeaa2-cf62-4b17-9b62-2531c078dd42
+  full_name: John Illg
+  office_title: State Representative
+  chamber: house
+  district: "78"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep78.jpg
+  phone: ""
+  email: hse078@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=78
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Illg_Jr.
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=78
+  - https://house.louisiana.gov/H_Reps/members?ID=78
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-wyble-john
+  openstates_id: ocd-person/8bc5e1d1-fe97-4466-a11d-415f56c5151a
+  full_name: John Wyble
+  office_title: State Representative
+  chamber: house
+  district: "75"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep75.jpg
+  phone: ""
+  email: hse075@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=75
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Wyble_(Louisiana)
+  - https://drwyble.com
+  - https://house.louisiana.gov/H_Reps/members?ID=75
+  - https://www.linkedin.com/in/drjwyble
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-stagni-joe
+  openstates_id: ocd-person/958015ce-4a91-4830-a11f-e73997823d4b
+  full_name: Joe Stagni
+  office_title: State Representative
+  chamber: house
+  district: "92"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep92.jpg
+  phone: ""
+  email: stagnij@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=92
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_Stagni
+  - https://en.wikipedia.org/wiki/Joseph_A._Stagni
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=92
+  - https://house.louisiana.gov/H_Reps/members?ID=92
+  - https://www.linkedin.com/in/joseph-stagni-6a0331142
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-orgeron-joe
+  openstates_id: ocd-person/9002c3a7-c0d9-4112-ad34-e0c6fa909ce1
+  full_name: Joe Orgeron
+  office_title: State Representative
+  chamber: house
+  district: "54"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep54.jpg
+  phone: ""
+  email: hse054@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=54
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joseph_Orgeron
+  - https://en.wikipedia.org/wiki/Joseph_Orgeron
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=54
+  - https://house.louisiana.gov/H_Reps/members?ID=54
+  - https://justfacts.votesmart.org/candidate/192375/joseph-orgeron
+  - https://www.linkedin.com/in/josephorgeronphd
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-carlson-josh
+  openstates_id: ocd-person/85df7a11-9edb-4e27-b7ce-60ffe7b35d39
+  full_name: Josh Carlson
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep43.jpg
+  phone: ""
+  email: hse043@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=43
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Josh_Carlson
+  - https://en.wikipedia.org/wiki/Josh_Carlson
+  - https://house.louisiana.gov/H_Reps/members?ID=43
+  - https://justfacts.votesmart.org/candidate/biography/196940/joshua-carlson
+  - https://www.linkedin.com/in/joshuapcarlson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-walters-joy
+  openstates_id: ocd-person/378995b0-0c3e-49a4-aa93-4633f06d5509
+  full_name: Joy Walters
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep4.jpg
+  phone: ""
+  email: waltersj@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=4
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Daryl_Joy_Walters
+  - https://en.wikipedia.org/wiki/Daryl_Joy_Walters
+  - https://house.louisiana.gov/H_Reps/members?ID=4
+  - https://www.linkedin.com/in/daryljoywalters
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-edmonston-kathy
+  openstates_id: ocd-person/92f7834e-8ce3-437f-bdbf-8dad3528ae3b
+  full_name: Kathy Edmonston
+  office_title: State Representative
+  chamber: house
+  district: "88"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep88.jpg
+  phone: ""
+  email: hse088@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=88
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kathy_Edmonston
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=88
+  - https://house.louisiana.gov/H_Reps/members?ID=88
+  - https://www.linkedin.com/in/kathy-edmonston-02438a166
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-jacksonandrews-katrina
+  openstates_id: ocd-person/acdaa5e6-3b22-44b9-8b47-480b801483dd
+  full_name: Katrina Jackson-Andrews
+  office_title: State Senator
+  chamber: senate
+  district: "34"
+  party: Democratic
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen34.jpg
+  phone: ""
+  email: jacksonk@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=34
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Katrina_Jackson
+  - https://en.wikipedia.org/wiki/Katrina_Jackson
+  - https://justfacts.votesmart.org/candidate/biography/134647/katrina-jackson
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=34
+  - https://senate.la.gov/smembers?ID=34
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-hennessy-kellee
+  openstates_id: ocd-person/c64e6628-efa4-4ffe-8b2f-d9df80f4f313
+  full_name: Kellee Hennessy
+  office_title: State Representative
+  chamber: house
+  district: "64"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep64.jpg
+  phone: ""
+  email: hse064@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=64
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kellee_Hennessy_Dickerson
+  - https://en.wikipedia.org/wiki/Kellee_Hennessy_Dickerson
+  - https://house.louisiana.gov/H_Reps/members?ID=64
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-brass-ken
+  openstates_id: ocd-person/43a80737-e614-475d-aace-2d1324cb516a
+  full_name: Ken Brass
+  office_title: State Representative
+  chamber: house
+  district: "58"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep58.jpg
+  phone: ""
+  email: brassk@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=58
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ken_Brass
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=58
+  - https://house.louisiana.gov/H_Reps/members?ID=58
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-carver-kim
+  openstates_id: ocd-person/bd6d41fc-8ad8-468f-8259-223d38d42bd8
+  full_name: Kim Carver
+  office_title: State Representative
+  chamber: house
+  district: "89"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep89.jpg
+  phone: ""
+  email: hse089@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=89
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kim_Carver
+  - https://en.wikipedia.org/wiki/Christopher_Kim_Carver
+  - https://house.louisiana.gov/H_Reps/members?ID=89
+  - https://justfacts.votesmart.org/candidate/biography/212522/kim-carver
+  - https://www.linkedin.com/in/kim-carver-64526933
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-coates-kim
+  openstates_id: ocd-person/d6dba94d-0167-4391-992d-af96c6525253
+  full_name: Kim Coates
+  office_title: State Representative
+  chamber: house
+  district: "73"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep73.jpg
+  phone: ""
+  email: hse073@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=73
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kimberly_Landry_Coates
+  - https://house.louisiana.gov/H_Reps/members?ID=73
+  - https://kimcoatesforla.com/about
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-talbot-kirk
+  openstates_id: ocd-person/f6f401f7-7fb4-40df-84a0-b5a3f0fe9ec2
+  full_name: Kirk Talbot
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen10.jpg
+  phone: ""
+  email: talbotk@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=78
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kirk_Talbot
+  - https://en.wikipedia.org/wiki/Kirk_Talbot
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=78
+  - https://justfacts.votesmart.org/candidate/biography/93725/kirk-talbot
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=10
+  - https://senate.la.gov/smembers?ID=10
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-green-kyle
+  openstates_id: ocd-person/8ffaa2bd-ff67-464a-b639-19a6069e28a2
+  full_name: Kyle Green
+  office_title: State Representative
+  chamber: house
+  district: "83"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep83.jpg
+  phone: ""
+  email: hse083@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=83
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kyle_Green_Jr.
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=83
+  - https://house.louisiana.gov/H_Reps/members?ID=83
+  - https://www.linkedin.com/in/kyle-m-green-jr-153aa342
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-selders-larry
+  openstates_id: ocd-person/52035a94-6995-4ea4-b463-1109d683048b
+  full_name: Larry Selders
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep67.jpg
+  phone: ""
+  email: sen14@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=67
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Larry_Selders
+  - https://en.wikipedia.org/wiki/Larry_Selders
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=67
+  - https://house.louisiana.gov/H_Reps/members?ID=67
+  - https://justfacts.votesmart.org/candidate/biography/186999/larry-selders
+  - https://senate.la.gov/smembers?ID=14
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-ventrella-lauren
+  openstates_id: ocd-person/d2ecd14d-09ce-4e45-8969-149531759584
+  full_name: Lauren Ventrella
+  office_title: State Representative
+  chamber: house
+  district: "65"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep65.jpg
+  phone: ""
+  email: hse065@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=65
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lauren_Ventrella
+  - https://house.louisiana.gov/H_Reps/members?ID=65
+  - https://www.linkedin.com/in/ventrellalaw
+  - https://www.ventrellalawfirm.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-schlegel-laurie
+  openstates_id: ocd-person/1dbd875c-89b6-4ea1-a73b-7c8efdb203a3
+  full_name: Laurie Schlegel
+  office_title: State Representative
+  chamber: house
+  district: "82"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep82.jpg
+  phone: ""
+  email: hse082@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=82
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Laurie_Schlegel
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=82
+  - https://house.louisiana.gov/H_Reps/members?ID=82
+  - https://www.linkedin.com/in/laurie-schlegel-b8652662
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-bagley-larry
+  openstates_id: ocd-person/d6e47850-c123-4060-8309-74192011981b
+  full_name: Larry Bagley
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep7.jpg
+  phone: ""
+  email: bagleyl@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=7
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lawrence_Bagley
+  - https://en.wikipedia.org/wiki/Larry_Bagley
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=7
+  - https://house.louisiana.gov/H_Reps/members?ID=7
+  - https://www.linkedin.com/in/larrybagley
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-farnum-les
+  openstates_id: ocd-person/81379952-373b-4e6e-a29f-b9bb60e7593b
+  full_name: Les Farnum
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep33.jpg
+  phone: ""
+  email: hse033@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=33
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Les_Farnum
+  - https://en.wikipedia.org/wiki/Les_Farnum
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=33
+  - https://house.louisiana.gov/H_Reps/members?ID=33
+  - https://justfacts.votesmart.org/candidate/biography/107599/les-farnum
+  - https://www.linkedin.com/in/les-farnum-82961171
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-landry-mandie
+  openstates_id: ocd-person/6e106343-c9e7-4993-aca8-201210f61d64
+  full_name: Mandie Landry
+  office_title: State Representative
+  chamber: house
+  district: "91"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep91.jpg
+  phone: ""
+  email: hse091@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=91
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mandie_Landry
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=91
+  - https://house.louisiana.gov/H_Reps/members?ID=91
+  - https://justfacts.votesmart.org/candidate/biography/187045/mandie-landry
+  - https://www.linkedin.com/in/mandie-landry-8764812
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-bryant-marcus
+  openstates_id: ocd-person/4d1c2a6e-0339-4b7a-ac52-dfd9064bfbbf
+  full_name: Marcus Bryant
+  office_title: State Representative
+  chamber: house
+  district: "96"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep96.jpg
+  phone: ""
+  email: hse096@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=96
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marcus_Bryant
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=96
+  - https://house.louisiana.gov/H_Reps/members?ID=96
+  - https://www.linkedin.com/in/marcus-anthony-bryant-09959968
+  - https://www.linkedin.com/in/marcus-bryant-93467011
+  - https://www.marcusbryantlaw.com
+  - https://www.marcusbryantlaw.com/attorney/marcus-a-bryant
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-abraham-mark
+  openstates_id: ocd-person/addae848-cfaf-4637-a23e-595e45c6e14f
+  full_name: Mark Abraham
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen25.jpg
+  phone: ""
+  email: abrahamm@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=36
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Abraham
+  - https://en.wikipedia.org/wiki/Mark_Abraham
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=36
+  - https://justfacts.votesmart.org/candidate/93547/mark-abraham
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=25
+  - https://senate.la.gov/smembers?ID=25
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-wright-mark
+  openstates_id: ocd-person/d3ecec03-0408-46f0-8c82-b775f787e6e1
+  full_name: Mark Wright
+  office_title: State Representative
+  chamber: house
+  district: "77"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep77.jpg
+  phone: ""
+  email: wrightm@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=77
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Wright_(Louisiana)
+  - https://en.wikipedia.org/wiki/Mark_Wright_(Louisiana_politician)
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=77
+  - https://house.louisiana.gov/H_Reps/members?ID=77
+  - https://justfacts.votesmart.org/candidate/biography/176600/mark-wright
+  - https://www.linkedin.com/in/mark-wright-3754a710
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-fsi-mike
+  openstates_id: ocd-person/750a2868-c9b0-4124-95c7-3516f93ff087
+  full_name: Mike Fési
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen20.jpg
+  phone: ""
+  email: sen20@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=20
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Fesi
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=20
+  - https://senate.la.gov/smembers?ID=20
+  - https://www.linkedin.com/in/bigmikefesi
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-echols-michael
+  openstates_id: ocd-person/22590bd7-29fe-454d-b61d-2c54c4562274
+  full_name: Michael Echols
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep14.jpg
+  phone: ""
+  email: hse014@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=14
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Echols
+  - https://en.wikipedia.org/wiki/Michael_Echols
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=14
+  - https://house.louisiana.gov/H_Reps/members?ID=14
+  - https://justfacts.votesmart.org/candidate/biography/134582/michael-echols
+  - https://www.linkedin.com/in/michaelcharlesechols
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-firment-gabe
+  openstates_id: ocd-person/50b42a20-9d29-4388-b06f-b4511eda2131
+  full_name: Gabe Firment
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep22.jpg
+  phone: ""
+  email: hse022@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=22
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gabe_Firment
+  - https://en.wikipedia.org/wiki/Gabe_Firment
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=22
+  - https://house.louisiana.gov/H_Reps/members?ID=22
+  - https://justfacts.votesmart.org/candidate/biography/186949/gabe-firment
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-melerine-michael
+  openstates_id: ocd-person/b38eb9d5-c27d-443e-995d-f9681e3a992e
+  full_name: Michael Melerine
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep6.jpg
+  phone: ""
+  email: hse006@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=6
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Melerine
+  - https://house.louisiana.gov/H_Reps/members?ID=6
+  - https://www.seabaughlaw.com/attorneys/mmelerine
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-johnson-mike
+  openstates_id: ocd-person/0e901294-3718-49df-9922-0ac4503acee2
+  full_name: Mike Johnson
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep27.jpg
+  phone: ""
+  email: hse027@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=27
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Johnson_(Louisiana_House_of_Representatives)
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=27
+  - https://house.louisiana.gov/H_Reps/members?ID=27
+  - https://www.linkedin.com/in/michael-johnson-0979602b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-bayham-mike
+  openstates_id: ocd-person/e06c4ec7-9051-4489-b572-5b55e5fd4a68
+  full_name: Mike Bayham
+  office_title: State Representative
+  chamber: house
+  district: "103"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep103.jpg
+  phone: ""
+  email: hse103@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=103
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Bayham
+  - https://house.louisiana.gov/H_Reps/members?ID=103
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-reese-mike
+  openstates_id: ocd-person/723f3444-f927-44b0-8659-7ac00370aa92
+  full_name: Mike Reese
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen30.jpg
+  phone: ""
+  email: sen30@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=30
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Reese_(Louisiana)
+  - https://en.wikipedia.org/wiki/Mike_Reese_(Louisiana_politician)
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=30
+  - https://senate.la.gov/smembers?ID=30
+  - https://www.linkedin.com/in/mike-reese-8406b666
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-riser-neil
+  openstates_id: ocd-person/8ce9b8d1-a92d-4351-a098-617599dde680
+  full_name: Neil Riser
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep20.jpg
+  phone: ""
+  email: risern@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=20
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Neil_Riser
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=20
+  - https://house.louisiana.gov/H_Reps/members?ID=20
+  - https://justfacts.votesmart.org/candidate/biography/93593/neil-riser
+  - https://senate.la.gov/senators/senpage.asp?SenID=32
+  - https://www.linkedin.com/in/neil-riser-7a523220
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-muscarello-nicholas
+  openstates_id: ocd-person/bc967860-a12b-4285-bd97-36379803f119
+  full_name: Nicholas Muscarello
+  office_title: State Representative
+  chamber: house
+  district: "86"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep86.jpg
+  phone: ""
+  email: muscarellon@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=86
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nicholas_Muscarello_Jr.
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=86
+  - https://house.louisiana.gov/H_Reps/members?ID=86
+  - https://njmlawfirm.com/About-Us/Nicholas-J-Muscarello-Jr
+  - https://www.linkedin.com/in/nicholas-%E2%80%9Cnicky%E2%80%9D-muscarello-00261411
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-moore-pat
+  openstates_id: ocd-person/88548c7a-b637-4821-b336-c99cfa475e22
+  full_name: Pat Moore
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep17.jpg
+  phone: ""
+  email: hse017@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=17
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pat_Moore_(Louisiana)
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=17
+  - https://house.louisiana.gov/H_Reps/members?ID=17
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-connick-patrick
+  openstates_id: ocd-person/a5240587-95aa-4135-befc-de2ea2aa1d51
+  full_name: Patrick Connick
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen8.jpg
+  phone: ""
+  email: connickp@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=84
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patrick_Connick
+  - https://en.wikipedia.org/wiki/Patrick_Connick
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=84
+  - https://justfacts.votesmart.org/candidate/biography/93757/patrick-connick
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=8
+  - https://senate.la.gov/smembers?ID=8
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-mcmath-patrick
+  openstates_id: ocd-person/d4a6db65-2f6f-464f-ae26-58176f2b68e6
+  full_name: Patrick McMath
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen11.jpg
+  phone: ""
+  email: sen11@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=11
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patrick_McMath
+  - https://justfacts.votesmart.org/candidate/biography/186901/patrick-mcmath
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=11
+  - https://senate.la.gov/smembers?ID=11
+  - https://www.linkedin.com/in/patrick-mcmath-063b9a6b
+  - https://www.patrickmcmath.com/meet-patrick
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-sawyer-paul
+  openstates_id: ocd-person/a05f602f-6eb8-4668-9f25-f438adb5faea
+  full_name: Paul Sawyer
+  office_title: State Representative
+  chamber: house
+  district: "69"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/9361fe_da91e496f1294126bbe3a43b182b5045~mv2.jpg/v1/fill/w_1159,h_772,fp_0.44_0.28,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/623291664_122110353027206892_603986649064719459_n.jpg
+  phone: ""
+  email: hse069@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=69
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Sawyer
+  - https://house.louisiana.gov/H_Reps/members?ID=69
+  - https://www.linkedin.com/in/paulsawyer
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-egan-peter
+  openstates_id: ocd-person/52df3631-4ef7-4b52-ab11-8a8eeb7bf499
+  full_name: Peter Egan
+  office_title: State Representative
+  chamber: house
+  district: "74"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep74.jpg
+  phone: ""
+  email: hse074@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=74
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Peter_Egan
+  - https://en.wikipedia.org/wiki/Peter_F._Egan,_Sr.
+  - https://house.louisiana.gov/H_Reps/members?ID=74
+  - https://justfacts.votesmart.org/candidate/biography/212588/peter-egan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-tarver-phil
+  openstates_id: ocd-person/04a524b7-1f7a-4d01-8491-c52df47e20cc
+  full_name: Phil Tarver
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep36.jpg
+  phone: ""
+  email: hse036@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=36
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Phillip_Tarver
+  - https://en.wikipedia.org/wiki/Phillip_Tarver
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=36
+  - https://house.louisiana.gov/H_Reps/members?ID=36
+  - https://justfacts.votesmart.org/candidate/biography/186966/phillip-tarver
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-devillier-phillip
+  openstates_id: ocd-person/ee23b4bf-f5f7-498c-9fcc-f3b2d6f8fb1d
+  full_name: Phillip DeVillier
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep41.jpg
+  phone: ""
+  email: devillierp@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=41
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Phillip_DeVillier
+  - https://en.wikipedia.org/wiki/Phillip_DeVillier
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=41
+  - https://house.louisiana.gov/H_Reps/members?ID=41
+  - https://justfacts.votesmart.org/candidate/biography/165532/phillip-devillier
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-thomas-polly
+  openstates_id: ocd-person/d95410b8-a66c-4662-bcc6-1884252e061b
+  full_name: Polly Thomas
+  office_title: State Representative
+  chamber: house
+  district: "80"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep80.jpg
+  phone: ""
+  email: thomaspj@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=80
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Polly_Thomas
+  - https://en.wikipedia.org/wiki/Polly_Thomas
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=80
+  - https://house.louisiana.gov/H_Reps/members?ID=80
+  - https://justfacts.votesmart.org/candidate/biography/35438/polly-thomas
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-carrier-dewith
+  openstates_id: ocd-person/2bf8549d-d379-4c42-af8c-b5b9d270f17d
+  full_name: Dewith Carrier
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep32.jpg
+  phone: ""
+  email: hse032@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=32
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/R._Dewith_Carrier
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=32
+  - https://house.louisiana.gov/H_Reps/members?ID=32
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-allain-robert
+  openstates_id: ocd-person/655ddc35-ecd0-4db2-a3fe-cd86f1cb7d61
+  full_name: Robert Allain
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen21.jpg
+  phone: ""
+  email: sen21@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=21
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Allain_III
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=21
+  - https://senate.la.gov/smembers?ID=21
+  - https://www.linkedin.com/in/robert-allain-iii-6816678b
+  - https://www.robertallain.com/about
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-young-rashid
+  openstates_id: ocd-person/17cf7c94-788b-49f9-bca2-2f413974a927
+  full_name: Rashid Young
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep11.jpg
+  phone: ""
+  email: hse011@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=11
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rashid_Young
+  - https://house.louisiana.gov/H_Reps/members?ID=11
+  - https://www.linkedin.com/in/rashid-young-esq-aa5670152
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-crews-raymond
+  openstates_id: ocd-person/126879ce-50c0-4741-a7e7-fb23fecb9d29
+  full_name: Raymond Crews
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep8.jpg
+  phone: ""
+  email: crewsr@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=8
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Raymond_Crews
+  - https://en.wikipedia.org/wiki/Raymond_Crews
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=8
+  - https://house.louisiana.gov/H_Reps/members?ID=8
+  - https://justfacts.votesmart.org/candidate/biography/176066/raymond-crews
+  - https://www.linkedin.com/in/raymond-crews-9a620935
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-barrow-regina
+  openstates_id: ocd-person/8710f3da-9aea-41a9-acd2-181377cc6ae7
+  full_name: Regina Barrow
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen15.jpg
+  phone: ""
+  email: barrowr@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=15
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Regina_Barrow
+  - https://justfacts.votesmart.org/candidate/biography/56506/regina-barrow
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=15
+  - https://senate.la.gov/smembers?ID=15
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-butler-rhonda
+  openstates_id: ocd-person/6c232d36-fe39-4006-8397-de9cb1e5454c
+  full_name: Rhonda Butler
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep38.jpg
+  phone: ""
+  email: hse038@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=38
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rhonda_Butler
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=38
+  - https://house.louisiana.gov/H_Reps/members?ID=38
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-edmonds-rick
+  openstates_id: ocd-person/e49647e3-b5c3-4329-9472-27048115441c
+  full_name: Rick Edmonds
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenPics/Sen6.jpg
+  phone: ""
+  email: sen06@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=66
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rick_Edmonds
+  - https://en.wikipedia.org/wiki/Rick_Edmonds
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=66
+  - https://senate.la.gov/smembers?ID=6
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-carter-robby
+  openstates_id: ocd-person/a24e242f-3fd9-479c-8423-cf0c6e2c6273
+  full_name: Robby Carter
+  office_title: State Representative
+  chamber: house
+  district: "72"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep72.jpg
+  phone: ""
+  email: carterr@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=72
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robby_Carter
+  - https://en.wikipedia.org/wiki/Robby_Carter
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=72
+  - https://house.louisiana.gov/H_Reps/members?ID=72
+  - https://justfacts.votesmart.org/candidate/biography/15195/robby-carter
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-lyons-rodney
+  openstates_id: ocd-person/71696836-b261-4646-8127-407c40e2c35b
+  full_name: Rodney Lyons
+  office_title: State Representative
+  chamber: house
+  district: "87"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep87.jpg
+  phone: ""
+  email: lyonsr@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=87
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rodney_Lyons,_Sr.
+  - https://en.wikipedia.org/wiki/Rodney_Lyons
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=87
+  - https://house.louisiana.gov/H_Reps/members?ID=87
+  - https://justfacts.votesmart.org/candidate/biography/165588/rodney-lyons-sr
+  - https://www.linkedin.com/in/rodney-lyons-1a917999
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-schamerhorn-rodney
+  openstates_id: ocd-person/01cb17b2-a215-4cd5-916a-43c3e91723c7
+  full_name: Rodney Schamerhorn
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep24.jpg
+  phone: ""
+  email: hse024@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=24
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rodney_Schamerhorn
+  - https://en.wikipedia.org/wiki/Rodney_Schamerhorn
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=24
+  - https://house.louisiana.gov/H_Reps/members?ID=24
+  - https://www.linkedin.com/in/rodney-schamerhorn-44ba2861
+  - https://www.linkedin.com/in/rodney-schamerhorn-5b734569
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-wilder-roger
+  openstates_id: ocd-person/c6f00cae-9826-4be6-934e-1a9516b20c4d
+  full_name: Roger Wilder
+  office_title: State Representative
+  chamber: house
+  district: "71"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep71.jpg
+  phone: ""
+  email: hse071@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=71
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Roger_Wilder_III
+  - https://house.louisiana.gov/H_Reps/members?ID=71
+  - https://www.linkedin.com/in/roger-wilder-33031522b
+  - https://www.rogerwilder.com/about
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-adams-roy
+  openstates_id: ocd-person/0353532c-93a0-41cb-9621-278c8ef19178
+  full_name: Roy Adams
+  office_title: State Representative
+  chamber: house
+  district: "62"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep62.jpg
+  phone: ""
+  email: hse062@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=62
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Roy_Adams
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=62
+  - https://house.louisiana.gov/H_Reps/members?ID=62
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-duplessis-royce
+  openstates_id: ocd-person/7d852e7a-ae99-4f89-b4c0-4d7cb7e816db
+  full_name: Royce Duplessis
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen5.jpg
+  phone: ""
+  email: duplessisr@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=93
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Royce_Duplessis
+  - https://en.wikipedia.org/wiki/Royce_Duplessis
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=93
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=5
+  - https://senate.la.gov/smembers?ID=5
+  - https://www.linkedin.com/in/royce-duplessis-102289102
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-bourriaque-ryan
+  openstates_id: ocd-person/85ef927c-d038-4534-a8ff-b99ad6656bda
+  full_name: Ryan Bourriaque
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep47.jpg
+  phone: ""
+  email: hse047@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=47
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ryan_Bourriaque
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=47
+  - https://house.louisiana.gov/H_Reps/members?ID=47
+  - https://www.linkedin.com/in/ryan-bourriaque-391a4967
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-jenkins-sam
+  openstates_id: ocd-person/fc43b9e1-5e0d-4767-a12e-b2e801444d22
+  full_name: Sam Jenkins
+  office_title: State Senator
+  chamber: senate
+  district: "39"
+  party: Democratic
+  status: active
+  photo_url: https://senate.la.gov/SenPics/Sen39.jpg
+  phone: ""
+  email: sen39@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers?ID=39
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sam_Jenkins
+  - https://en.wikipedia.org/wiki/Samuel_Jenkins_Jr.
+  - https://senate.la.gov/smembers?ID=39
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-mena-shaun
+  openstates_id: ocd-person/6fdcb100-c1e5-450e-a3dd-cf42c06cff1e
+  full_name: Shaun Mena
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep23.jpg
+  phone: ""
+  email: hse023@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=23
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shaun_Mena
+  - https://house.louisiana.gov/H_Reps/members?ID=23
+  - https://www.linkedin.com/in/shaun-mena-2269a126a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-mack-shane
+  openstates_id: ocd-person/46b660af-1c4c-46a1-905e-ffd89a9cc32f
+  full_name: Shane Mack
+  office_title: State Representative
+  chamber: house
+  district: "95"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep95.jpg
+  phone: ""
+  email: hse095@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=95
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shane_Mack
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=95
+  - https://house.louisiana.gov/H_Reps/members?ID=95
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-barthelemy-sidney
+  openstates_id: ocd-person/7b4128f7-b147-4cdd-b6ee-0d7d3f2edb6f
+  full_name: Sidney Barthelemy
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: sen03@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers?ID=3
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sidney_Barthelemy_II
+  - https://en.wikipedia.org/wiki/Sidney_Barthelemy_II
+  - https://senate.la.gov/smembers?ID=3
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-broussard-skip
+  openstates_id: ocd-person/b114df8c-8388-44b1-8274-c346addd67c4
+  full_name: Skip Broussard
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Republican
+  status: active
+  photo_url: https://americanpress.com/wp-content/uploads/sites/65/2026/02/IMG_7387.jpeg
+  phone: ""
+  email: hse037@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=37
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Reese_Broussard
+  - https://house.louisiana.gov/H_Reps/members?ID=37
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-berault-stephanie
+  openstates_id: ocd-person/f05b1c80-c85c-42f5-8336-84bcd7b0c847
+  full_name: Stephanie Berault
+  office_title: State Representative
+  chamber: house
+  district: "76"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep76.jpg
+  phone: ""
+  email: hse076@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=76
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephanie_Berault
+  - https://house.louisiana.gov/H_Reps/members?ID=76
+  - https://www.linkedin.com/in/stephanie-berault-01090810
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-hilferty-stephanie
+  openstates_id: ocd-person/de7591e7-6ae0-47c3-b1ea-12073106498c
+  full_name: Stephanie Hilferty
+  office_title: State Representative
+  chamber: house
+  district: "94"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep94.jpg
+  phone: ""
+  email: hilfertys@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=94
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephanie_Hilferty
+  - https://en.wikipedia.org/wiki/Stephanie_Hilferty
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=94
+  - https://house.louisiana.gov/H_Reps/members?ID=94
+  - https://www.linkedin.com/in/stephanie-hilferty-52b5a111
+  - https://www.srsa-realestate.com/team/stephanie-hilferty
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-jackson-steven
+  openstates_id: ocd-person/9c50a5a9-a217-4644-b29d-68d498d9e16d
+  full_name: Steven Jackson
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep2.jpg
+  phone: ""
+  email: hse002@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=2
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steven_Jackson_(Louisiana)
+  - https://en.wikipedia.org/wiki/Steven_Jackson_(politician)
+  - https://house.louisiana.gov/H_Reps/members?ID=2
+  - https://www.linkedin.com/in/stephen-jackson-83751041
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-cathey-stewart
+  openstates_id: ocd-person/dd47283c-c202-461f-b56a-8cc2c0b14f15
+  full_name: Stewart Cathey
+  office_title: State Senator
+  chamber: senate
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen33.jpg
+  phone: ""
+  email: sen33@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=33
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stewart_Cathey
+  - https://en.wikipedia.org/wiki/Stewart_Cathey_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/165589/stewart-cathey-jr
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=33
+  - https://senate.la.gov/smembers?ID=33
+  - https://www.linkedin.com/in/stewart-cathey-jr-6707682b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-taylor-sylvia
+  openstates_id: ocd-person/586f002d-71da-4836-a306-6e8a3d485263
+  full_name: Sylvia Taylor
+  office_title: State Representative
+  chamber: house
+  district: "57"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep57.jpg
+  phone: ""
+  email: hse057@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=57
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sylvia_Taylor
+  - https://house.louisiana.gov/H_Reps/members?ID=57
+  - https://www.sylviataylorforstaterepresentative.com/meet-sylvia
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-phelps-tammy
+  openstates_id: ocd-person/a838e3b6-52ea-4ad0-a308-2337762a492b
+  full_name: Tammy Phelps
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep3.jpg
+  phone: ""
+  email: hse003@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=3
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tammy_Phelps
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=3
+  - https://house.louisiana.gov/H_Reps/members?ID=3
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-chassion-tehmi
+  openstates_id: ocd-person/8d0bbdce-eaab-4b3a-8385-bf8c6a2e0b87
+  full_name: Tehmi Chassion
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep44.jpg
+  phone: ""
+  email: hse044@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=44
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tehmi_Chassion
+  - https://house.louisiana.gov/H_Reps/members?ID=44
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-landry-terry
+  openstates_id: ocd-person/709dfea8-f9a9-4734-8b6d-e495f4d51aa3
+  full_name: Terry Landry
+  office_title: State Representative
+  chamber: house
+  district: "67"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: hse067@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=67
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Terry_Landry_Jr._(Louisiana_House_District_67_representative)
+  - https://en.wikipedia.org/wiki/Terry_Landry_Jr.
+  - https://house.louisiana.gov/H_Reps/members?ID=67
+  - https://www.linkedin.com/in/terry-landry-jr-5021316
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-pressly-thomas
+  openstates_id: ocd-person/577fe2a3-275b-4b82-b508-c0ce29deb2fa
+  full_name: Thomas Pressly
+  office_title: State Senator
+  chamber: senate
+  district: "38"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenPics/Sen38.jpg
+  phone: ""
+  email: sen38@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers?ID=38
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Thomas_Pressly
+  - https://en.wikipedia.org/wiki/Thomas_Pressly
+  - https://justfacts.votesmart.org/candidate/biography/186933/thomas-pressly
+  - https://senate.la.gov/smembers?ID=38
+  - https://www.linkedin.com/in/thomas-pressly-3134b39
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-kerner-tim
+  openstates_id: ocd-person/1ebb9d9b-329d-4a43-a33c-e3608ef09cc8
+  full_name: Tim Kerner
+  office_title: State Representative
+  chamber: house
+  district: "84"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep84.jpg
+  phone: ""
+  email: hse084@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=84
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Timothy_Kerner
+  - https://en.wikipedia.org/wiki/Timothy_P._Kerner_Sr
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=84
+  - https://house.louisiana.gov/H_Reps/members?ID=84
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-bacala-tony
+  openstates_id: ocd-person/9fde5725-d1b2-4afc-9897-2706dda502c8
+  full_name: Tony Bacala
+  office_title: State Representative
+  chamber: house
+  district: "59"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep59.jpg
+  phone: ""
+  email: bacalat@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=59
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tony_Bacala
+  - https://en.wikipedia.org/wiki/Tony_Bacala
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=59
+  - https://house.louisiana.gov/H_Reps/members?ID=59
+  - https://justfacts.votesmart.org/candidate/biography/165556/tony-bacala
+  - https://www.linkedin.com/in/tony-bacala-2689b537
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-hebert-troy
+  openstates_id: ocd-person/ba2902d5-5a0e-4e71-b396-6e85358511de
+  full_name: Troy Hebert
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep31.jpg
+  phone: ""
+  email: hse031@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=31
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Troy_Hebert_(Louisiana_House_District_31_candidate)
+  - https://hebertforlouisiana.com/about
+  - https://house.louisiana.gov/H_Reps/members?ID=31
+  - https://www.linkedin.com/in/troy-hebert-9465302b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-hodges-valarie
+  openstates_id: ocd-person/33e76c3a-a834-444c-9872-fc2af5c83837
+  full_name: Valarie Hodges
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://senate.la.gov/SenPics/Sen13.jpg
+  phone: ""
+  email: sen13@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=64
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Valarie_Hodges
+  - https://en.wikipedia.org/wiki/Valarie_Hodges
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=64
+  - https://justfacts.votesmart.org/candidate/biography/94018/valarie-hodges
+  - https://senate.la.gov/smembers?ID=13
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-lafleur-vanessa
+  openstates_id: ocd-person/9510158f-4e63-4b68-ad44-daef2987b780
+  full_name: Vanessa LaFleur
+  office_title: State Representative
+  chamber: house
+  district: "101"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep101.jpg
+  phone: ""
+  email: hse101@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=101
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Vanessa_Caston_LaFleur
+  - https://en.wikipedia.org/wiki/Vanessa_Caston_LaFleur
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=101
+  - https://house.louisiana.gov/H_Reps/members?ID=101
+  - https://www.linkedin.com/in/vanessa-caston-lafleur-652a45230
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-cox-vincent
+  openstates_id: ocd-person/fe1e7481-9bbb-4e58-8d19-9be18558f12b
+  full_name: Vincent Cox
+  office_title: State Representative
+  chamber: house
+  district: "85"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics/rep85.jpg
+  phone: ""
+  email: hse085@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members?ID=85
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Vincent_Cox_III
+  - https://house.louisiana.gov/H_Reps/members?ID=85
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-blanc-vinney
+  openstates_id: ocd-person/c75a9e00-6017-4e74-95fd-70fbfa803c58
+  full_name: Vinney St. Blanc
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep50.jpg
+  phone: ""
+  email: hse050@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=50
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Vincent_St._Blanc_III
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=50
+  - https://house.louisiana.gov/H_Reps/members?ID=50
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-sen-luneau-jay
+  openstates_id: ocd-person/b4a4657a-e588-4036-9a0f-48847e22a140
+  full_name: Jay Luneau
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: https://senate.la.gov/SenatorPics/Sen29.jpg
+  phone: ""
+  email: luneauj@legis.la.gov
+  address: ""
+  official_website: https://senate.la.gov/smembers.aspx?ID=29
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jay_Luneau
+  - https://luneaubecklaw.com/about/senator-w-jay-luneau
+  - https://luneaulaw.com/profiles/wjayluneau.html
+  - https://senate.la.gov/Senators_FullInfo
+  - https://senate.la.gov/smembers.aspx?ID=29
+  - https://senate.la.gov/smembers?ID=29
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-mcmahen-wayne
+  openstates_id: ocd-person/c3e1299d-034f-4e70-9c86-c003c6e35964
+  full_name: Wayne McMahen
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep10.jpg
+  phone: ""
+  email: mcmahenw@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=10
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Wayne_McMahen
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=10
+  - https://house.louisiana.gov/H_Reps/members?ID=10
+  - https://www.linkedin.com/in/wayne-mcmahen-138818a5
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: la-hou-carter-wilford
+  openstates_id: ocd-person/3ced6b49-7f72-41d0-a84c-0e7cff17e88b
+  full_name: Wilford Carter
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Democratic
+  status: active
+  photo_url: https://house.louisiana.gov/H_Reps/RepPics20/rep34.jpg
+  phone: ""
+  email: hse034@legis.la.gov
+  address: ""
+  official_website: https://house.louisiana.gov/H_Reps/members.aspx?ID=34
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Wilford_D._Carter
+  - https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+  - https://house.louisiana.gov/H_Reps/members.aspx?ID=34
+  - https://house.louisiana.gov/H_Reps/members?ID=34
+  - https://justfacts.votesmart.org/candidate/biography/165520/wilford-carter-sr
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

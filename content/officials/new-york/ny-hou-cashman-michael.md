@@ -1,0 +1,22 @@
+---
+title: "Michael Cashman"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "ny-hou-cashman-michael"
+full_name: "Michael Cashman"
+state: "new-york"
+state_abbrev: "NY"
+office_title: "State Representative"
+chamber: "house"
+district: "115"
+party: "Democratic"
+status: "active"
+official_website: "https://assembly.state.ny.us/mem/Michael-Cashman/"
+email: "cashmanm@nyassembly.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

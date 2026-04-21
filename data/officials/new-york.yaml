@@ -1,4 +1,5076 @@
 ﻿state: new-york
 state_abbrev: NY
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: ny-hou-stirpe-al
+  openstates_id: ocd-person/dff234fa-8563-4028-982e-c0a221d99fd9
+  full_name: Al Stirpe
+  office_title: State Representative
+  chamber: house
+  district: "127"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/127/headshot/127.jpg?hst=1660074782
+  phone: ""
+  email: stirpea@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Al-Stirpe
+  - https://ballotpedia.org/Al_Stirpe
+  - https://en.wikipedia.org/wiki/Albert_A._Stirpe_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/66872/al-stirpe
+  - https://nyassembly.gov/mem/Al-Stirpe
+  - https://www.linkedin.com/in/al-stirpe-7a245a16
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-taylor-al
+  openstates_id: ocd-person/c197076b-7dde-4f90-b04f-352053fbab94
+  full_name: Al Taylor
+  office_title: State Representative
+  chamber: house
+  district: "71"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/071/headshot/071.jpg?hst=1660073901
+  phone: ""
+  email: taylora@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Al-Taylor
+  - https://ballotpedia.org/Alfred_Taylor
+  - https://ballotpedia.org/Alfred_Taylor_(New_York)
+  - https://en.wikipedia.org/wiki/Al_Taylor_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/176917/al-taylor
+  - https://nyassembly.gov/mem/Al-Taylor
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-brookkrasny-alec
+  openstates_id: ocd-person/69640dce-9d99-45a3-83b5-cbdc1dc2f2e5
+  full_name: Alec Brook-Krasny
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/046/headshot/046.jpg?hst=1672572717
+  phone: ""
+  email: brook-krasnya@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Alec-Brook-Krasny
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/alec-brook-krasny
+  - https://assembly.state.ny.us/mem/Alec-Brook-Krasny
+  - https://ballotpedia.org/Alec_Brook-Krasny
+  - https://en.wikipedia.org/wiki/Alec_Brook-Krasny
+  - https://justfacts.votesmart.org/candidate/55215/alec-brook-krasny
+  - https://www.linkedin.com/in/alec-brook-krasny-4662716
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-bores-alex
+  openstates_id: ocd-person/9c986c4c-5371-4b77-b095-5a7283a93729
+  full_name: Alex Bores
+  office_title: State Representative
+  chamber: house
+  district: "73"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/073/headshot/073.jpg?hst=1672573990
+  phone: ""
+  email: boresa@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Alex-Bores
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Alex-Bores
+  - https://ballotpedia.org/Alex_Bores
+  - https://en.wikipedia.org/wiki/Alex_Bores
+  - https://justfacts.votesmart.org/candidate/207522/alex-bores
+  - https://nyassembly.gov/mem/Alex-Bores
+  - https://www.alexbores.nyc
+  - https://www.linkedin.com/in/alexbores
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-weik-alexis
+  openstates_id: ocd-person/9dd382bd-0f4f-4a99-ad58-679e26114f70
+  full_name: Alexis Weik
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/alexis_weik_hs.jpg?itok=F8H4DVNB
+  phone: ""
+  email: weik@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alexis_Weik
+  - https://en.wikipedia.org/wiki/Alexis_Weik
+  - https://www.nysenate.gov/senators/alexis-weik
+  - https://www.nysenate.gov/senators/alexis-weik/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-hyndman-alicia
+  openstates_id: ocd-person/2196fbda-e731-4e6b-a221-7bf5e25b8b95
+  full_name: Alicia Hyndman
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/029/headshot/029.jpg?hst=1660073230
+  phone: ""
+  email: hyndmana@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Alicia-Hyndman
+  - https://ballotpedia.org/Alicia_Hyndman
+  - https://en.wikipedia.org/wiki/Alicia_Hyndman
+  - https://justfacts.votesmart.org/candidate/biography/166123/alicia-hyndman
+  - https://nyassembly.gov/mem/Alicia-Hyndman
+  - https://www.linkedin.com/in/alicia-hyndman-a66a58119
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-septimo-amanda
+  openstates_id: ocd-person/3647609d-4772-4afe-a2c0-1f628a6c11ec
+  full_name: Amanda Septimo
+  office_title: State Representative
+  chamber: house
+  district: "84"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/084/headshot/084.jpg?hst=1660074086
+  phone: ""
+  email: septimoa@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Amanda-Septimo
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Amanda-Septimo
+  - https://ballotpedia.org/Amanda_Septimo
+  - https://en.wikipedia.org/wiki/Amanda_Septimo
+  - https://justfacts.votesmart.org/candidate/185268/amanda-septimo
+  - https://nyassembly.gov/mem/Amanda-Septimo
+  - https://www.linkedin.com/in/amanda-septimo-a2835269
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-paulin-amy
+  openstates_id: ocd-person/f0f08f55-cf1f-477c-a5f8-a7f2382e5fa8
+  full_name: Amy Paulin
+  office_title: State Representative
+  chamber: house
+  district: "88"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/088/headshot/088.jpg?hst=1673464404
+  phone: ""
+  email: paulina@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Amy-Paulin
+  - https://ballotpedia.org/Amy_Paulin
+  - https://en.wikipedia.org/wiki/Amy_Paulin
+  - https://justfacts.votesmart.org/candidate/55220/amy-paulin
+  - https://nyassembly.gov/mem/amy-paulin
+  - https://www.linkedin.com/in/amy-paulin-61838aa
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-bailey-andrea
+  openstates_id: ocd-person/b46dbcbc-500c-4d28-ac9b-cf2a7291e79f
+  full_name: Andrea Bailey
+  office_title: State Representative
+  chamber: house
+  district: "133"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AndreaBailey24.png
+  phone: ""
+  email: baileya@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Andrea-K-Bailey
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrea_K._Bailey_(New_York)
+  - https://en.wikipedia.org/wiki/Andrea_Bailey
+  - https://justfacts.votesmart.org/candidate/216747/andrea-bailey
+  - https://nyassembly.gov/mem/Andrea-K-Bailey
+  - https://www.linkedin.com/in/andrea-bailey-a0401429
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-stewartcousins-andrea
+  openstates_id: ocd-person/5f3e7bcf-9e43-423b-946b-982cc6ecc154
+  full_name: Andrea Stewart-Cousins
+  office_title: State Senator
+  chamber: senate
+  district: "35"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/asc-hs-new_0.jpg?itok=Amg0GHQ5
+  phone: ""
+  email: scousins@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrea_Stewart-Cousins
+  - https://en.wikipedia.org/wiki/Andrea_Stewart-Cousins
+  - https://www.linkedin.com/in/andrea-stewart-cousins-8079475b
+  - https://www.nysenate.gov/senators/andrea-stewart-cousins
+  - https://www.nysenate.gov/senators/andrea-stewart-cousins/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-gounardes-andrew
+  openstates_id: ocd-person/ae1f415b-958c-4a4c-805b-626e6eca5fe3
+  full_name: Andrew Gounardes
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/ag_headshot1.jpeg?itok=A9BZVK33
+  phone: ""
+  email: gounardes@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrew_S._Gounardes
+  - https://en.wikipedia.org/wiki/Andrew_Gounardes
+  - https://justfacts.votesmart.org/candidate/biography/143086/andrew-gounardes
+  - https://www.linkedin.com/in/andrew-s-gounardes-18b5a014
+  - https://www.nysenate.gov/senators/andrew-gounardes
+  - https://www.nysenate.gov/senators/andrew-gounardes/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-hevesi-andrew
+  openstates_id: ocd-person/2a9aad09-337f-4fd0-8e87-70afd78ac8cc
+  full_name: Andrew Hevesi
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/028/headshot/028.jpg?hst=1660073205
+  phone: ""
+  email: hevesia@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Andrew-Hevesi
+  - https://ballotpedia.org/Andrew_Hevesi
+  - https://en.wikipedia.org/wiki/Andrew_Hevesi
+  - https://justfacts.votesmart.org/candidate/biography/57048/andrew-hevesi
+  - https://nyassembly.gov/mem/andrew-hevesi
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-lanza-andrew
+  openstates_id: ocd-person/8dd98240-93c9-486a-b6c6-3a794b232090
+  full_name: Andrew Lanza
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Republican/Conservative/Independence/Reform
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2801-23-07%29%20Lanza-HS-029-8x10.jpg?itok=uv7iqzwV
+  phone: ""
+  email: lanza@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrew_Lanza
+  - https://en.wikipedia.org/wiki/Andrew_Lanza
+  - https://justfacts.votesmart.org/candidate/biography/44472/andrew-lanza
+  - https://www.linkedin.com/in/andrew-lanza-462a06b1
+  - https://www.nysenate.gov/senators/andrew-j-lanza
+  - https://www.nysenate.gov/senators/andrew-j-lanza/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-molitor-andrew
+  openstates_id: ocd-person/ba5fb3f1-a049-45a1-abd7-77b132e789d6
+  full_name: Andrew Molitor
+  office_title: State Representative
+  chamber: house
+  district: "150"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://ogden_images.s3.amazonaws.com/www.observertoday.com/images/2024/11/05231034/MOLITOR-copy-675x840.jpg
+  phone: ""
+  email: molitora@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Andrew-M-Molitor
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrew_Molitor
+  - https://en.wikipedia.org/wiki/Andrew_Molitor
+  - https://justfacts.votesmart.org/candidate/216741/andrew-molitor
+  - https://nyassembly.gov/mem/Andrew-M-Molitor
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-morinello-angelo
+  openstates_id: ocd-person/461e374c-cde4-4865-9fec-141502275a8b
+  full_name: Angelo Morinello
+  office_title: State Representative
+  chamber: house
+  district: "145"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/145/headshot/145.jpg?hst=1660074985
+  phone: ""
+  email: morinelloa@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Angelo-J-Morinello
+  - https://ballotpedia.org/Angelo_J._Morinello
+  - https://en.wikipedia.org/wiki/Angelo_Morinello
+  - https://justfacts.votesmart.org/candidate/174271/angelo-morinello
+  - https://nyassembly.gov/mem/Angelo-J-Morinello
+  - https://www.linkedin.com/in/angelo-morinello-4a346532
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-santabarbara-angelo
+  openstates_id: ocd-person/0193e8ea-3830-45af-86e7-34427396a7b4
+  full_name: Angelo Santabarbara
+  office_title: State Representative
+  chamber: house
+  district: "111"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/111/headshot/111.jpg?hst=1660074600
+  phone: ""
+  email: santabarbaraa@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Angelo-Santabarbara
+  - https://ballotpedia.org/Angelo_Santabarbara
+  - https://en.wikipedia.org/wiki/Angelo_Santabarbara
+  - https://justfacts.votesmart.org/candidate/127985/angelo-santabarbara
+  - https://nyassembly.gov/mem/Angelo-Santabarbara
+  - https://www.linkedin.com/in/angelo-santabarbara-49281a10
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-beephan-anil
+  openstates_id: ocd-person/b4820549-d7f0-4f0f-abef-74d3b1515ed9
+  full_name: Anil Beephan
+  office_title: State Representative
+  chamber: house
+  district: "105"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/105/headshot/105.jpg?hst=1672566071
+  phone: ""
+  email: beephana@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Anil-Beephan-Jr
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Anil-Beephan-Jr
+  - https://ballotpedia.org/Anil_Beephan_Jr.
+  - https://en.wikipedia.org/wiki/Anil_Beephan_Jr.
+  - https://justfacts.votesmart.org/candidate/209110/anil-beephan-jr
+  - https://nyassembly.gov/mem/Anil-Beephan-Jr
+  - https://www.linkedin.com/in/abeephan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-kelles-anna
+  openstates_id: ocd-person/edde17c2-c810-4ec8-97c3-4cc0ea2e32d0
+  full_name: Anna Kelles
+  office_title: State Representative
+  chamber: house
+  district: "125"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/125/headshot/125.jpg?hst=1660074752
+  phone: ""
+  email: kellesa@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Anna-Kelles
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Anna-Kelles
+  - https://assembly.state.ny.us/mem/Anna-R-Kelles
+  - https://ballotpedia.org/Anna_Kelles
+  - https://en.wikipedia.org/wiki/Anna_Kelles
+  - https://justfacts.votesmart.org/candidate/175947/anna-kelles
+  - https://nyassembly.gov/mem/Anna-R-Kelles
+  - https://www.linkedin.com/in/anna-kelles-phd-28b71225
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-palumbo-tony
+  openstates_id: ocd-person/f13bda4e-bfb4-49fc-a986-ba8d2b3e7e43
+  full_name: Tony Palumbo
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/palumbo-headshot2.jpg?itok=iMC_RWH8
+  phone: ""
+  email: palumbo@nysenate.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Anthony-H-Palumbo
+  - https://ballotpedia.org/Anthony_Palumbo
+  - https://en.wikipedia.org/wiki/Anthony_Palumbo
+  - https://justfacts.votesmart.org/candidate/biography/146049/anthony-palumbo
+  - https://www.nysenate.gov/senators/anthony-h-palumbo
+  - https://www.nysenate.gov/senators/anthony-h-palumbo/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-baskin-april
+  openstates_id: ocd-person/b1371ded-fa50-44d8-8fad-a8532b98406a
+  full_name: April Baskin
+  office_title: State Senator
+  chamber: senate
+  district: "63"
+  party: Democratic
+  status: active
+  photo_url: https://www4.erie.gov/baskin/sites/www4.erie.gov.baskin/files/styles/large/public/2021-12/legislator-baskin.jpg?itok=CSDw5X2I
+  phone: ""
+  email: baskin@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/april-baskin
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/April_McCants-Baskin
+  - https://en.wikipedia.org/wiki/April_Baskin
+  - https://justfacts.votesmart.org/candidate/biography/186279/april-mccants-baskin
+  - https://www.linkedin.com/in/april-n-m-baskin-75898098
+  - https://www.nysenate.gov/senators/april-baskin
+  - https://www4.erie.gov/baskin
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-brown-ari
+  openstates_id: ocd-person/38ed0365-1654-4a2d-bb23-4428736df57f
+  full_name: Ari Brown
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/020/headshot/020.jpg?hst=1660073031
+  phone: ""
+  email: browna@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Ari-Brown
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Ari-Brown
+  - https://ballotpedia.org/Eric_Brown_(New_York)
+  - https://en.wikipedia.org/wiki/Eric_Brown_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/205522/ari-brown
+  - https://nyassembly.gov/mem/Ari-Brown
+  - https://www.linkedin.com/in/ari-brown-9356619
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-wieder-aron
+  openstates_id: ocd-person/46209ced-aa04-4316-8a17-97fb02e83320
+  full_name: Aron Wieder
+  office_title: State Representative
+  chamber: house
+  district: "97"
+  party: Democratic
+  status: active
+  photo_url: https://monseyscoop.com/wp-content/uploads/2024/11/638525825463770000-scaled-e1719329897582-1068x716-1-1024x687.jpeg
+  phone: ""
+  email: wiedera@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Aron-Wieder
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Aron_B._Wieder
+  - https://en.wikipedia.org/wiki/Aron_Wieder
+  - https://justfacts.votesmart.org/candidate/142702/aron-wieder
+  - https://legislature.rocklandcountyny.gov/meet-the-legislators/aron-b-wieder-district-13
+  - https://nyassembly.gov/mem/Aron-Wieder
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-weber-bill
+  openstates_id: ocd-person/8285be34-48a9-4bbe-b231-f8e5f40df301
+  full_name: Bill Weber
+  office_title: State Senator
+  chamber: senate
+  district: "38"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/01-10-23_weber-hs-1.jpg?itok=aW-g6Y4y
+  phone: ""
+  email: weber@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/bill-weber
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Weber_Jr.
+  - https://en.wikipedia.org/wiki/Bill_Weber_(New_York_politician)
+  - https://justfacts.votesmart.org/candidate/191852/bill-weber-jr
+  - https://www.linkedin.com/in/william-weber-7b72677
+  - https://www.nysenate.gov/senators/bill-weber
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-cunningham-brian
+  openstates_id: ocd-person/27a087c4-fad6-4245-b680-20aff5c3251c
+  full_name: Brian Cunningham
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/043/headshot/043.jpg?hst=1660073468
+  phone: ""
+  email: cunninghamba@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Brian-Cunningham
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Brian-Cunningham
+  - https://ballotpedia.org/Brian-Christopher_Cunningham
+  - https://ballotpedia.org/Brian_A._Cunningham
+  - https://en.wikipedia.org/wiki/Brian_A._Cunningham
+  - https://justfacts.votesmart.org/candidate/biography/204130/brian-cunningham
+  - https://nyassembly.gov/mem/Brian-Cunningham
+  - https://www.linkedin.com/in/briancnningham
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-kavanagh-brian
+  openstates_id: ocd-person/934d4a02-a27c-4682-a31f-5a8372ceaaf9
+  full_name: Brian Kavanagh
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Democratic
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/briankavanaghsenatorspage.jpg?itok=VBk-Tnd3
+  phone: ""
+  email: kavanagh@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Kavanagh
+  - https://en.wikipedia.org/wiki/Brian_P._Kavanagh
+  - https://justfacts.votesmart.org/candidate/biography/66879/brian-kavanagh
+  - https://www.nysenate.gov/senators/brian-kavanagh
+  - https://www.nysenate.gov/senators/brian-kavanagh/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-maher-brian
+  openstates_id: ocd-person/2830bc0a-4507-4710-8c4f-17b3ac5d414b
+  full_name: Brian Maher
+  office_title: State Representative
+  chamber: house
+  district: "101"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/101/headshot/101.jpg?hst=1672566660
+  phone: ""
+  email: maherb@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Brian-Maher
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Brian-Maher
+  - https://ballotpedia.org/Brian_M._Maher
+  - https://ballotpedia.org/Brian_Maher
+  - https://en.wikipedia.org/wiki/Brian_Maher
+  - https://justfacts.votesmart.org/candidate/142708/brian-maher
+  - https://nyassembly.gov/mem/Brian-Maher
+  - https://www.linkedin.com/in/brian-maher-75025026
+  - https://www.linkedin.com/in/brian-maher-speaker
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-manktelow-brian
+  openstates_id: ocd-person/2ef71a27-afab-49e4-9c52-d3954352242f
+  full_name: Brian Manktelow
+  office_title: State Representative
+  chamber: house
+  district: "130"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/130/headshot/130.jpg?hst=1660074813
+  phone: ""
+  email: manktelowb@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Brian-Manktelow
+  - https://ballotpedia.org/Brian_Manktelow
+  - https://en.wikipedia.org/wiki/Brian_Manktelow
+  - https://justfacts.votesmart.org/candidate/biography/134456/brian-manktelow
+  - https://nyassembly.gov/mem/Brian-Manktelow
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-miller-brian
+  openstates_id: ocd-person/ad93da57-8a9a-4dc0-bc2c-2488c0331d16
+  full_name: Brian Miller
+  office_title: State Representative
+  chamber: house
+  district: "122"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/122/headshot/122.jpg?hst=1660074350
+  phone: ""
+  email: millerb@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Brian-D-Miller
+  - https://ballotpedia.org/Brian_Miller_(New_York)
+  - https://en.wikipedia.org/wiki/Brian_Miller_(New_York_politician)
+  - https://justfacts.votesmart.org/candidate/91765/brian-miller
+  - https://nyassembly.gov/mem/Brian-D-Miller
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-heastie-carl
+  openstates_id: ocd-person/2049da3a-132c-47b4-b53d-c28b574fff63
+  full_name: Carl Heastie
+  office_title: State Representative
+  chamber: house
+  district: "83"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/083/headshot/083.jpg?hst=1660074070
+  phone: ""
+  email: speaker@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Carl-E-Heastie
+  - https://ballotpedia.org/Carl_Heastie
+  - https://en.wikipedia.org/wiki/Carl_Heastie
+  - https://justfacts.votesmart.org/candidate/biography/55228/carl-heastie
+  - https://nyassembly.gov/mem/carl-e-heastie
+  - https://www.linkedin.com/in/carl-heastie-89277b144
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-woerner-carrie
+  openstates_id: ocd-person/6d6f344e-39b8-401f-807e-c88924fb2793
+  full_name: Carrie Woerner
+  office_title: State Representative
+  chamber: house
+  district: "113"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/113/headshot/113.jpg?hst=1660074635
+  phone: ""
+  email: woernerc@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Carrie-Woerner
+  - https://ballotpedia.org/Carrie_Woerner
+  - https://en.wikipedia.org/wiki/Carrie_Woerner
+  - https://justfacts.votesmart.org/candidate/biography/142544/carrie-woerner
+  - https://nyassembly.gov/mem/Carrie-Woerner
+  - https://www.linkedin.com/in/carriewoerner
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-cruz-catalina
+  openstates_id: ocd-person/864e417d-df2e-4207-83e4-98450555f48a
+  full_name: Catalina Cruz
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/039/headshot/039.jpg?hst=1683131280
+  phone: ""
+  email: cruzc@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Catalina-Cruz
+  - https://ballotpedia.org/Catalina_Cruz
+  - https://en.wikipedia.org/wiki/Catalina_Cruz_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/185172/catalina-cruz
+  - https://nyassembly.gov/mem/Catalina-Cruz
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-jackson-chantel
+  openstates_id: ocd-person/2a9ffeeb-e46e-4d98-8376-b07310112672
+  full_name: Chantel Jackson
+  office_title: State Representative
+  chamber: house
+  district: "79"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/079/headshot/079.jpg?hst=1660074007
+  phone: ""
+  email: jacksonc@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Chantel-Jackson
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Chantel-Jackson
+  - https://ballotpedia.org/Chantel_Jackson
+  - https://en.wikipedia.org/wiki/Chantel_Jackson
+  - https://justfacts.votesmart.org/candidate/biography/192233/chantel-jackson
+  - https://nyassembly.gov/mem/Chantel-Jackson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-fall-charles
+  openstates_id: ocd-person/5390ebc9-7fbe-4be9-91c4-b28b59f7fd2f
+  full_name: Charles Fall
+  office_title: State Representative
+  chamber: house
+  district: "61"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/061/headshot/061.jpg?hst=1660073777
+  phone: ""
+  email: fallc@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Charles-D-Fall
+  - https://assembly.state.ny.us/mem/Charles-Fall
+  - https://ballotpedia.org/Charles_Fall
+  - https://en.wikipedia.org/wiki/Charles_Fall
+  - https://justfacts.votesmart.org/candidate/185194/charles-fall
+  - https://nyassembly.gov/mem/Charles-Fall
+  - https://www.linkedin.com/in/charles-dialor-fall-mpa-3a426129
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-lavine-charles
+  openstates_id: ocd-person/3bb6eebd-d57b-4592-bc52-9ce338df9ccf
+  full_name: Charles Lavine
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/013/headshot/013.jpg?hst=1660072879
+  phone: ""
+  email: lavinec@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Charles-D-Lavine
+  - https://ballotpedia.org/Charles_Lavine
+  - https://en.wikipedia.org/wiki/Charles_D._Lavine
+  - https://justfacts.votesmart.org/candidate/biography/44694/charles-lavine
+  - https://nyassembly.gov/mem/charles-d-lavine
+  - https://www.linkedin.com/in/chuck-lavine-2ab20b5
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-burdick-chris
+  openstates_id: ocd-person/35febe88-13a1-4611-b0e3-2088c719db24
+  full_name: Chris Burdick
+  office_title: State Representative
+  chamber: house
+  district: "93"
+  party: Democratic/Independence/Working Families
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/093/headshot/093.jpg?hst=1660074244
+  phone: ""
+  email: burdickc@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Chris-Burdick
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Chris-Burdick
+  - https://ballotpedia.org/Chris_Burdick
+  - https://en.wikipedia.org/wiki/Chris_Burdick
+  - https://justfacts.votesmart.org/candidate/192270/chris-burdick
+  - https://nyassembly.gov/mem/Chris-Burdick
+  - https://www.linkedin.com/in/chris-burdick-0b44014
+  - https://www.linkedin.com/in/christopher-burdick-0b44014
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-eachus-chris
+  openstates_id: ocd-person/fe66bda1-2564-4f24-8798-0cd8993a0f12
+  full_name: Chris Eachus
+  office_title: State Representative
+  chamber: house
+  district: "99"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/099/headshot/099.jpg?hst=1672570603
+  phone: ""
+  email: eachusc@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Chris-Eachus
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Chris-Eachus
+  - https://ballotpedia.org/Christopher_W._Eachus
+  - https://en.wikipedia.org/wiki/Chris_Eachus
+  - https://justfacts.votesmart.org/candidate/91802/chris-eachus
+  - https://nyassembly.gov/mem/Chris-Eachus
+  - https://www.linkedin.com/in/christopher-eachus-940b5b21
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-ryan-chris
+  openstates_id: ocd-person/58b03f1c-af64-4079-8c24-e76dd0028166
+  full_name: Chris Ryan
+  office_title: State Senator
+  chamber: senate
+  district: "50"
+  party: Democratic
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/66bb81005c9c9e5a6b4e499f/e85a6952-dc93-4557-a1b4-bd4e8471565b/chris+stand+serious.jpg?format=2500w
+  phone: ""
+  email: chrisryan@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/christopher-j-ryan
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Christopher_Ryan_(New_York)
+  - https://en.wikipedia.org/wiki/Chris_Ryan_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/145217/christopher-ryan
+  - https://www.nysenate.gov/senators/christopher-j-ryan
+  - https://www.ongov.net/legislature/ChrisRyanBio.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-tague-chris
+  openstates_id: ocd-person/4af5cab3-9d9c-4d27-8eda-d39dcaa74bd0
+  full_name: Chris Tague
+  office_title: State Representative
+  chamber: house
+  district: "102"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/102/headshot/102.jpg?hst=1660074360
+  phone: ""
+  email: taguec@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Chris-Tague
+  - https://ballotpedia.org/Christopher_Tague
+  - https://en.wikipedia.org/wiki/Christopher_Tague
+  - https://justfacts.votesmart.org/candidate/175967/chris-tague
+  - https://nyassembly.gov/mem/Chris-Tague
+  - https://www.linkedin.com/in/chris-tague-6808968
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-friend-chris
+  openstates_id: ocd-person/a73679bf-ac98-4319-95b8-d226bc9aba77
+  full_name: Chris Friend
+  office_title: State Representative
+  chamber: house
+  district: "124"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/124/headshot/124.jpg?hst=1660074744
+  phone: ""
+  email: friendc@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Christopher-S-Friend
+  - https://ballotpedia.org/Christopher_Friend
+  - https://en.wikipedia.org/wiki/Christopher_S._Friend
+  - https://justfacts.votesmart.org/candidate/biography/91465/chris-friend
+  - https://nyassembly.gov/mem/christopher-s-friend
+  - https://www.linkedin.com/in/chris-friend-0ba08724
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-valdez-claire
+  openstates_id: ocd-person/9147362c-8b83-49ff-8fab-4d48a77eebc9
+  full_name: Claire Valdez
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Claire_Valdez_20240808_060205.jpeg
+  phone: ""
+  email: valdezc@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Claire-Valdez/
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Claire-Valdez
+  - https://ballotpedia.org/Claire_Valdez
+  - https://en.wikipedia.org/wiki/Claire_Valdez
+  - https://justfacts.votesmart.org/candidate/217339/claire-valdez
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-vanel-clyde
+  openstates_id: ocd-person/b8a0fb1e-422b-44b7-846e-82d2998a0bf5
+  full_name: Clyde Vanel
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/033/headshot/033.jpg?hst=1660073302
+  phone: ""
+  email: vanelc@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Clyde-Vanel
+  - https://ballotpedia.org/Clyde_Vanel
+  - https://en.wikipedia.org/wiki/Clyde_Vanel
+  - https://justfacts.votesmart.org/candidate/biography/127910/clyde-vanel
+  - https://nyassembly.gov/mem/Clyde-Vanel
+  - https://www.linkedin.com/in/clyde-vanel-1908716
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-cleare-cordell
+  openstates_id: ocd-person/c5c492e5-7c34-4b6f-862e-185248e89f18
+  full_name: Cordell Cleare
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Democratic
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/sd30-cleareofficialheadshot.jpg?itok=xjV5PmAM
+  phone: ""
+  email: cleare@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cordell_Cleare
+  - https://en.wikipedia.org/wiki/Cordell_Cleare
+  - https://justfacts.votesmart.org/candidate/biography/200030/cordell-cleare
+  - https://www.nysenate.gov/senators/cordell-cleare
+  - https://www.nysenate.gov/senators/cordell-cleare/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-peoplesstokes-crystal
+  openstates_id: ocd-person/7638e8d0-2a84-4325-bcfd-7a2e8e604077
+  full_name: Crystal Peoples-Stokes
+  office_title: State Representative
+  chamber: house
+  district: "141"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/141/headshot/141.jpg?hst=1660074942
+  phone: ""
+  email: peoplec@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Crystal-D-Peoples-Stokes
+  - https://ballotpedia.org/Crystal_Peoples-Stokes
+  - https://en.wikipedia.org/wiki/Crystal_Peoples
+  - https://justfacts.votesmart.org/candidate/23174/crystal-peoples-stokes
+  - https://nyassembly.gov/mem/crystal-d-peoples-stokes
+  - https://www.linkedin.com/in/crystal-peoples-stokes-9b29a2138
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-levenberg-dana
+  openstates_id: ocd-person/3069edfe-7ff7-4a14-8223-f23b294b3a04
+  full_name: Dana Levenberg
+  office_title: State Representative
+  chamber: house
+  district: "95"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/095/headshot/095.jpg?hst=1680123726
+  phone: ""
+  email: levenbergd@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Dana-Levenberg
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Dana-Levenberg
+  - https://ballotpedia.org/Dana_Levenberg
+  - https://en.wikipedia.org/wiki/Dana_Levenberg
+  - https://justfacts.votesmart.org/candidate/174137/dana-levenberg
+  - https://nyassembly.gov/mem/Dana-Levenberg
+  - https://www.linkedin.com/in/dana-levenberg-28bb0641
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-stec-dan
+  openstates_id: ocd-person/7bb8c8bc-0238-4fd2-8dff-e5f2b2aaa92a
+  full_name: Dan Stec
+  office_title: State Senator
+  chamber: senate
+  district: "45"
+  party: Republican/Conservative/Independence
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/danielg_stec.jpg?itok=iADbdWhJ
+  phone: ""
+  email: stec@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dan_Stec
+  - https://en.wikipedia.org/wiki/Dan_Stec
+  - https://justfacts.votesmart.org/candidate/biography/91918/dan-stec
+  - https://www.linkedin.com/in/dan-stec-36140a4
+  - https://www.nysenate.gov/senators/daniel-g-stec
+  - https://www.nysenate.gov/senators/daniel-g-stec/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-norber-danny
+  openstates_id: ocd-person/2e502adc-4b0e-46fa-b5d4-0d2f7696db49
+  full_name: Danny Norber
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/dnorber2.jpg
+  phone: ""
+  email: norberd@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Daniel-J-Norber
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Daniel_Norber
+  - https://en.wikipedia.org/wiki/Daniel_Norber
+  - https://nyassembly.gov/mem/Daniel-J-Norber
+  - https://www.linkedin.com/in/daniel-norber-9716168
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-dipietro-dave
+  openstates_id: ocd-person/67c280c8-c9a5-4eff-93de-480570d6a414
+  full_name: Dave DiPietro
+  office_title: State Representative
+  chamber: house
+  district: "147"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/147/headshot/147.jpg?hst=1660075005
+  phone: ""
+  email: dipietrod@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/David-DiPietro
+  - https://ballotpedia.org/David_DiPietro
+  - https://en.wikipedia.org/wiki/David_DiPietro
+  - https://justfacts.votesmart.org/candidate/biography/110411/dave-dipietro
+  - https://nyassembly.gov/mem/David-DiPietro
+  - https://www.linkedin.com/in/david-dipietro-a395889
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-mcdonough-dave
+  openstates_id: ocd-person/9f3ae1c5-651b-4cc8-a1ce-9e94c414a220
+  full_name: Dave McDonough
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/014/headshot/014.jpg?hst=1660072904
+  phone: ""
+  email: mcdonoughd@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/David-G-McDonough
+  - https://ballotpedia.org/David_McDonough
+  - https://en.wikipedia.org/wiki/David_McDonough
+  - https://justfacts.votesmart.org/candidate/biography/44667/david-mcdonough
+  - https://nyassembly.gov/mem/david-g-mcdonough
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-weprin-david
+  openstates_id: ocd-person/df0c2fdc-3cf4-4c89-849a-b62ac2d7d2d4
+  full_name: David Weprin
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/024/headshot/024.jpg?hst=1660073135
+  phone: ""
+  email: weprind@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/David-I-Weprin
+  - https://ballotpedia.org/David_Weprin
+  - https://en.wikipedia.org/wiki/David_Weprin
+  - https://justfacts.votesmart.org/candidate/biography/80379/david-weprin
+  - https://nyassembly.gov/mem/david-i-weprin
+  - https://www.davidweprin2009.org
+  - https://www.linkedin.com/in/davidweprin
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-murray-dean
+  openstates_id: ocd-person/8ff653e0-5aa6-4692-ac54-25ed36e32f97
+  full_name: Dean Murray
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/murray-hs.png?itok=MNZdJiUC
+  phone: ""
+  email: murray@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/dean-murray
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dean_Murray
+  - https://en.wikipedia.org/wiki/L._Dean_Murray
+  - https://justfacts.votesmart.org/candidate/biography/119994/dean-murray
+  - https://www.linkedin.com/in/dean-murray-a75b15a
+  - https://www.nysenate.gov/senators/dean-murray
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-glick-deborah
+  openstates_id: ocd-person/5a9c40ed-69dc-4004-b34a-cc943428f8b1
+  full_name: Deborah Glick
+  office_title: State Representative
+  chamber: house
+  district: "66"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/066/headshot/066.jpg?hst=1660073838
+  phone: ""
+  email: glickd@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Deborah-J-Glick
+  - https://ballotpedia.org/Deborah_Glick
+  - https://en.wikipedia.org/wiki/Deborah_J._Glick
+  - https://justfacts.votesmart.org/candidate/biography/4319/deborah-glick
+  - https://nyassembly.gov/mem/deborah-j-glick
+  - https://www.linkedin.com/in/deborah-glick-74076128
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-meeks-demond
+  openstates_id: ocd-person/34f326e1-6e7e-40b2-9ece-10856986cb1b
+  full_name: Demond Meeks
+  office_title: State Representative
+  chamber: house
+  district: "137"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/137/headshot/137.jpg?hst=1660074888
+  phone: ""
+  email: meeksd@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Demond-Meeks
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Demond-Meeks
+  - https://ballotpedia.org/Demond_Meeks
+  - https://en.wikipedia.org/wiki/Demond_Meeks
+  - https://justfacts.votesmart.org/candidate/biography/192295/demond-meeks
+  - https://nyassembly.gov/mem/Demond-Meeks
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-moreno-diana
+  openstates_id: ocd-person/6c065b35-fb5f-42fe-95e8-663c823d5386
+  full_name: Diana Moreno
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Democratic/Working Families
+  status: active
+  photo_url: ""
+  phone: ""
+  email: morenod@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Diana-C-Moreno
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Diana_Moreno
+  - https://en.wikipedia.org/wiki/Diana_Moreno
+  - https://nyassembly.gov/mem/Diana-C-Moreno
+  - https://www.linkedin.com/in/dianaforqueens
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-barrett-didi
+  openstates_id: ocd-person/da883f7a-698b-49d6-8519-11bab87823cf
+  full_name: Didi Barrett
+  office_title: State Representative
+  chamber: house
+  district: "106"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/106/headshot/106.jpg?hst=1660074414
+  phone: ""
+  email: barrettd@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Didi-Barrett
+  - https://ballotpedia.org/Didi_Barrett
+  - https://en.wikipedia.org/wiki/Didi_Barrett
+  - https://justfacts.votesmart.org/candidate/127871/didi-barrett
+  - https://nyassembly.gov/mem/didi-barrett
+  - https://www.linkedin.com/in/didi-barrett-13a3441b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-lupardo-donna
+  openstates_id: ocd-person/d6939215-ec08-437b-beea-3b9898d0f61b
+  full_name: Donna Lupardo
+  office_title: State Representative
+  chamber: house
+  district: "123"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/123/headshot/123.jpg?hst=1674746628
+  phone: ""
+  email: lupardod@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Donna-A-Lupardo
+  - https://ballotpedia.org/Donna_Lupardo
+  - https://donnalupardo.com
+  - https://donnalupardo.com/about
+  - https://en.wikipedia.org/wiki/Donna_Lupardo
+  - https://justfacts.votesmart.org/candidate/44184/donna-lupardo
+  - https://nyassembly.gov/mem/donna-a-lupardo
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-smith-doug
+  openstates_id: ocd-person/70d249e7-22a2-4536-892f-a61aa22723e4
+  full_name: Doug Smith
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/005/headshot/005.jpg?hst=1660072659
+  phone: ""
+  email: smithd@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Doug-Smith
+  - https://ballotpedia.org/Doug_Smith_(New_York)
+  - https://en.wikipedia.org/wiki/Douglas_M._Smith
+  - https://nyassembly.gov/mem/Doug-Smith
+  - https://www.linkedin.com/in/dougsmithny
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-gibbs-eddie
+  openstates_id: ocd-person/5764a626-de74-4d88-bc53-b43b523aa75c
+  full_name: Eddie Gibbs
+  office_title: State Representative
+  chamber: house
+  district: "68"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/068/headshot/068.jpg?hst=1662988090
+  phone: ""
+  email: gibbse@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Eddie-Gibbs
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Eddie-Gibbs
+  - https://assembly.state.ny.us/mem/Edward-Gibbs
+  - https://ballotpedia.org/Eddie_Gibbs
+  - https://en.wikipedia.org/wiki/Eddie_Gibbs_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/69171/eddie-gibbs
+  - https://nyassembly.gov/mem/Edward-Gibbs
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-braunstein-ed
+  openstates_id: ocd-person/b7e93c8c-9a4b-4678-8d6a-effce9a76938
+  full_name: Ed Braunstein
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/026/headshot/026.jpg?hst=1660073175
+  phone: ""
+  email: braunsteine@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Edward-C-Braunstein
+  - https://ballotpedia.org/Edward_Braunstein
+  - https://en.wikipedia.org/wiki/Edward_Braunstein
+  - https://justfacts.votesmart.org/candidate/biography/127894/edward-braunstein
+  - https://nyassembly.gov/mem/edward-c-braunstein
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-ra-ed
+  openstates_id: ocd-person/42d68829-d969-44d1-9e22-042a6e787dc5
+  full_name: Ed Ra
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/019/headshot/019.jpg?hst=1660073018
+  phone: ""
+  email: rae@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Edward-P-Ra
+  - https://ballotpedia.org/Edward_Ra
+  - https://en.wikipedia.org/wiki/Ed_Ra
+  - https://justfacts.votesmart.org/candidate/biography/127886/edward-ra
+  - https://nyassembly.gov/mem/edward-p-ra
+  - https://www.linkedin.com/in/edward-ra-72b0122a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-gallagher-emily
+  openstates_id: ocd-person/81456b86-152f-4764-a489-dade7cc572c6
+  full_name: Emily Gallagher
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/050/headshot/050.jpg?hst=1679601880
+  phone: ""
+  email: gallaghere@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Emily-Gallagher
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Emily-Gallagher
+  - https://ballotpedia.org/Emily_Gallagher
+  - https://en.wikipedia.org/wiki/Emily_Gallagher
+  - https://justfacts.votesmart.org/candidate/192203/emily-gallagher
+  - https://nyassembly.gov/mem/Emily-Gallagher
+  - https://www.linkedin.com/in/emilyegallagher323
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-torres-emrita
+  openstates_id: ocd-person/4af19dc2-41c7-4b7e-b271-b23e20e1ccb1
+  full_name: Emérita Torres
+  office_title: State Representative
+  chamber: house
+  district: "85"
+  party: Democratic
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/164656.jpg
+  phone: ""
+  email: torrese@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Emerita-Torres/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Emerita_Torres
+  - https://en.wikipedia.org/wiki/Emerita_Torres
+  - https://justfacts.votesmart.org/candidate/219835/emerita-torres
+  - https://nyassembly.gov/mem/Emerita-Torres
+  - https://www.linkedin.com/in/emeritatorres/?
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-bottcher-erik
+  openstates_id: ocd-person/d55adf3d-ba23-47c8-a844-ee28227983c0
+  full_name: Erik Bottcher
+  office_title: State Senator
+  chamber: senate
+  district: "47"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Erik_Bottcher_20251113_123909.jpeg
+  phone: ""
+  email: bottcher@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/erik-bottcher
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Erik_Bottcher
+  - https://council.nyc.gov/erik-bottcher
+  - https://en.wikipedia.org/wiki/Erik_Bottcher
+  - https://justfacts.votesmart.org/candidate/biography/201433/erik-bottcher
+  - https://www.linkedin.com/in/ebottcher
+  - https://www.nysenate.gov/senators/erik-bottcher
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-dilan-erik
+  openstates_id: ocd-person/489a01e1-6a0f-4907-bc00-110020e2f27d
+  full_name: Erik Dilan
+  office_title: State Representative
+  chamber: house
+  district: "54"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/054/headshot/054.jpg?hst=1660073635
+  phone: ""
+  email: dilane@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Erik-M-Dilan
+  - https://ballotpedia.org/Erik_Dilan
+  - https://en.wikipedia.org/wiki/Erik_Martin_Dilan
+  - https://justfacts.votesmart.org/candidate/biography/80261/erik-dilan
+  - https://nyassembly.gov/mem/Erik-M-Dilan
+  - https://www.linkedin.com/in/erik-dilan-a764337b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-romero-gabriella
+  openstates_id: ocd-person/0a053bbf-e97b-44aa-a38f-83ad7f9682ac
+  full_name: Gabriella Romero
+  office_title: State Representative
+  chamber: house
+  district: "109"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://albanyny.gov/ImageRepository/Document?documentID=6737
+  phone: ""
+  email: romerog@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Gabriella-A-Romero
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gabriella_Romero
+  - https://en.wikipedia.org/wiki/Gabriella_Romero
+  - https://justfacts.votesmart.org/candidate/217380/gabriella-romero
+  - https://nyassembly.gov/mem/Gabriella-A-Romero
+  - https://www.linkedin.com/in/gabriella-romero-99221a45
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-alvarez-george
+  openstates_id: ocd-person/722e778a-7824-49fb-bb44-ba1da8bab675
+  full_name: George Alvarez
+  office_title: State Representative
+  chamber: house
+  district: "78"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/078/headshot/078.jpg?hst=1672564700
+  phone: ""
+  email: alvarezg@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/George-Alvarez
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/George-Alvarez
+  - https://ballotpedia.org/George_Alvarez
+  - https://en.wikipedia.org/wiki/George_Alvarez_(politician)
+  - https://justfacts.votesmart.org/candidate/155433/george-alvarez
+  - https://nyassembly.gov/mem/George-Alvarez
+  - https://www.linkedin.com/in/galvarez74
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-borrello-george
+  openstates_id: ocd-person/676247d1-048f-45de-b265-34069edb2be0
+  full_name: George Borrello
+  office_title: State Senator
+  chamber: senate
+  district: "57"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/12-11-19_hs_cropped_for_web0004m.jpg?itok=rraEgSVs
+  phone: ""
+  email: borrello@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/George_Borrello
+  - https://en.wikipedia.org/wiki/George_Borrello
+  - https://justfacts.votesmart.org/candidate/biography/134170/george-borrello
+  - https://www.linkedin.com/in/georgeborrello
+  - https://www.nysenate.gov/senators/george-m-borrello
+  - https://www.nysenate.gov/senators/george-m-borrello/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-lee-grace
+  openstates_id: ocd-person/18830756-58c1-4fd1-b1b0-d16041b10e12
+  full_name: Grace Lee
+  office_title: State Representative
+  chamber: house
+  district: "65"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/065/headshot/065.jpg?hst=1672563219
+  phone: ""
+  email: leeg@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Grace-Lee
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Grace-Lee
+  - https://ballotpedia.org/Grace_Lee
+  - https://ballotpedia.org/Grace_Lee_(New_York)
+  - https://en.wikipedia.org/wiki/Grace_Lee_(politician)
+  - https://justfacts.votesmart.org/candidate/192225/grace-lee
+  - https://nyassembly.gov/mem/Grace-Lee
+  - https://www.linkedin.com/in/grace-lee-nyc
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-rivera-gustavo
+  openstates_id: ocd-person/068528ac-bc5e-449f-a4df-4541f8c09415
+  full_name: Gustavo Rivera
+  office_title: State Senator
+  chamber: senate
+  district: "33"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2801-29-14%29%20Rivera-HS-%20009.jpg?itok=Ny0U7p_x
+  phone: ""
+  email: grivera@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/J._Gustavo_Rivera
+  - https://en.wikipedia.org/wiki/Gustavo_Rivera_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/127819/gustavo-rivera
+  - https://www.linkedin.com/in/gustavo-rivera-75558a
+  - https://www.nysenate.gov/senators/gustavo-rivera
+  - https://www.nysenate.gov/senators/gustavo-rivera/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-bronson-harry
+  openstates_id: ocd-person/a23e140f-4beb-43d5-b850-198ff81a75f3
+  full_name: Harry Bronson
+  office_title: State Representative
+  chamber: house
+  district: "138"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/138/headshot/138.jpg?hst=1660074897
+  phone: ""
+  email: bronsonh@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Harry-B-Bronson
+  - https://ballotpedia.org/Harry_Bronson
+  - https://en.wikipedia.org/wiki/Harry_Bronson
+  - https://justfacts.votesmart.org/candidate/92093/harry-bronson
+  - https://justfacts.votesmart.org/candidate/biography/92093/harry-bronson
+  - https://nyassembly.gov/mem/harry-b-bronson
+  - https://www.linkedin.com/in/harry-bronson-1343858
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-pretlow-gary
+  openstates_id: ocd-person/be7ad489-073e-476e-82a0-992ca0569b99
+  full_name: Gary Pretlow
+  office_title: State Representative
+  chamber: house
+  district: "89"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/089/headshot/089.jpg?hst=1660074183
+  phone: ""
+  email: pretloj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/J-Gary-Pretlow
+  - https://ballotpedia.org/J._Gary_Pretlow
+  - https://en.wikipedia.org/wiki/J._Gary_Pretlow
+  - https://justfacts.votesmart.org/candidate/biography/4381/gary-pretlow-sr
+  - https://nyassembly.gov/mem/j-gary-pretlow
+  - https://www.linkedin.com/in/jgarypretlow
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-brisport-jabari
+  openstates_id: ocd-person/e053b536-631c-47a7-a3af-adb30dab37de
+  full_name: Jabari Brisport
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/sd25jabar_brisport.jpg?itok=NzoQxMPy
+  phone: ""
+  email: brisport@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jabari_Brisport
+  - https://en.wikipedia.org/wiki/Jabari_Brisport
+  - https://justfacts.votesmart.org/candidate/biography/192054/jabari-brisport
+  - https://www.linkedin.com/in/jabari-brisport-04496912
+  - https://www.nysenate.gov/senators/jabari-brisport
+  - https://www.nysenate.gov/senators/jabari-brisport/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-martins-jack
+  openstates_id: ocd-person/7f031836-0a9e-46d2-bcab-7cc6a14848df
+  full_name: Jack Martins
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/2023/08/22/jack_martins_hs_2023.jpg?itok=jqP_N4lM
+  phone: ""
+  email: martins@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/jack-m-martins
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jack_Martins
+  - https://en.wikipedia.org/wiki/Jack_Martins
+  - https://justfacts.votesmart.org/candidate/biography/110269/jack-martins
+  - https://www.linkedin.com/in/jack-martins-632a1558
+  - https://www.nysenate.gov/senators/jack-m-martins
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-williams-jaime
+  openstates_id: ocd-person/67047d73-acc1-4d6f-b580-fbeee33cc1f8
+  full_name: Jaime Williams
+  office_title: State Representative
+  chamber: house
+  district: "59"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/059/headshot/059.jpg?hst=1660073711
+  phone: ""
+  email: williamsja@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Jaime-R-Williams
+  - https://ballotpedia.org/Jaime_Williams
+  - https://en.wikipedia.org/wiki/Jaime_Williams_%28legislator%29
+  - https://justfacts.votesmart.org/candidate/biography/170040/jaime-williams
+  - https://nyassembly.gov/mem/Jaime-R-Williams
+  - https://www.linkedin.com/in/jaime-williams-4b38bb45
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-ashby-jake
+  openstates_id: ocd-person/b03d69c0-0ea1-4524-86e6-c6b20797a2eb
+  full_name: Jake Ashby
+  office_title: State Senator
+  chamber: senate
+  district: "43"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/107_500.jpg?itok=Y5CMJSoa
+  phone: ""
+  email: ashby@nysenate.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Jake-Ashby
+  - https://ballotpedia.org/Jacob_Ashby
+  - https://en.wikipedia.org/wiki/Jacob_Ashby
+  - https://justfacts.votesmart.org/candidate/biography/178432/jake-ashby
+  - https://www.linkedin.com/in/jake-ashby-84647337
+  - https://www.nysenate.gov/senators/jacob-ashby
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-blumencranz-jake
+  openstates_id: ocd-person/aa1af232-61bb-427c-b30e-81169c18d15d
+  full_name: Jake Blumencranz
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/015/headshot/015.jpg?hst=1671723761
+  phone: ""
+  email: blumencranzj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Jake-Blumencranz
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Jake-Blumencranz
+  - https://ballotpedia.org/Jake_Blumencranz
+  - https://en.wikipedia.org/wiki/Jake_Blumencranz
+  - https://justfacts.votesmart.org/candidate/207221/jacob-blumencranz
+  - https://nyassembly.gov/mem/Jake-Blumencranz
+  - https://www.linkedin.com/in/jake-blumencranz-276aa9123
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-bailey-jamaal
+  openstates_id: ocd-person/6872ad9e-fcba-426f-a9ef-b4495dba17f5
+  full_name: Jamaal Bailey
+  office_title: State Senator
+  chamber: senate
+  district: "36"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/bailey-hs-020_2.jpg?itok=LKcRq5kH
+  phone: ""
+  email: senatorjbailey@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jamaal_Bailey
+  - https://en.wikipedia.org/wiki/Jamaal_Bailey
+  - https://justfacts.votesmart.org/candidate/174144/jamaal-bailey
+  - https://www.nysenate.gov/senators/jamaal-t-bailey
+  - https://www.nysenate.gov/senators/jamaal-t-bailey/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-sanders-james
+  openstates_id: ocd-person/e00ee209-a6a5-4ca1-8ac6-f403e1cbcca2
+  full_name: James Sanders
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/2021sandersbio.jpg?itok=tKIC3Ymf
+  phone: ""
+  email: sanders@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_Sanders,_Jr.
+  - https://ballotpedia.org/James_Sanders_Jr.
+  - https://en.wikipedia.org/wiki/James_Sanders_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/80367/james-sanders-jr
+  - https://www.linkedin.com/in/james-sanders-jr-0973ab319
+  - https://www.linkedin.com/in/james-sanders-jr-58724623
+  - https://www.nysenate.gov/senators/james-sanders-jr
+  - https://www.nysenate.gov/senators/james-sanders-jr/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-skoufis-james
+  openstates_id: ocd-person/c1f048f2-6e1d-4e1b-b161-d97e2f16c1f8
+  full_name: James Skoufis
+  office_title: State Senator
+  chamber: senate
+  district: "42"
+  party: Democratic
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/skoufis_nysenate.gov_image.jpeg?itok=eNfSopav
+  phone: ""
+  email: skoufis@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_G._Skoufis
+  - https://en.wikipedia.org/wiki/James_Skoufis
+  - https://justfacts.votesmart.org/candidate/biography/142704/james-skoufis
+  - https://www.linkedin.com/in/jskoufis
+  - https://www.nysenate.gov/senators/james-skoufis
+  - https://www.nysenate.gov/senators/james-skoufis/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-tedisco-jim
+  openstates_id: ocd-person/975453b1-113a-40e9-8036-53e714a47b66
+  full_name: Jim Tedisco
+  office_title: State Senator
+  chamber: senate
+  district: "44"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/official_tedisco-hs.jpg?itok=4-C9InuB
+  phone: ""
+  email: tedisco@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_Tedisco
+  - https://en.wikipedia.org/wiki/Jim_Tedisco
+  - https://justfacts.votesmart.org/candidate/biography/4401/jim-tedisco
+  - https://www.nysenate.gov/senators/james-tedisco
+  - https://www.nysenate.gov/senators/james-tedisco/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-gandolfo-jarett
+  openstates_id: ocd-person/603a62e0-5ca7-4259-b071-db52bc9f2569
+  full_name: Jarett Gandolfo
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Republican/Conservative/Independence
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/007/headshot/007.jpg?hst=1660072714
+  phone: ""
+  email: gandolfoj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Jarett-Gandolfo
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Jarett-Gandolfo
+  - https://ballotpedia.org/Jarett_Gandolfo
+  - https://en.wikipedia.org/wiki/Jarett_Gandolfo
+  - https://jarettgandolfo.com
+  - https://jarettgandolfo.com/meet-jarett-1
+  - https://justfacts.votesmart.org/candidate/192094/jarett-gandolfo
+  - https://nyassembly.gov/mem/Jarett-Gandolfo
+  - https://www.linkedin.com/in/gandolfoj
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-gallahan-jeff
+  openstates_id: ocd-person/4910460d-6cb9-4f35-8459-19e5a4de579e
+  full_name: Jeff Gallahan
+  office_title: State Representative
+  chamber: house
+  district: "131"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/131/headshot/131.jpg?hst=1660074826
+  phone: ""
+  email: gallahanj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Jeff-Gallahan
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Jeff-Gallahan
+  - https://ballotpedia.org/Jeff_Gallahan
+  - https://en.wikipedia.org/wiki/Jeff_Gallahan
+  - https://justfacts.votesmart.org/candidate/134368/jeff-gallahan
+  - https://nyassembly.gov/mem/Jeff-Gallahan
+  - https://www.jeffgallahan.me
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-dinowitz-jeffrey
+  openstates_id: ocd-person/ff604a07-1aaf-4e61-b070-dd478f42cea5
+  full_name: Jeffrey Dinowitz
+  office_title: State Representative
+  chamber: house
+  district: "81"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/081/headshot/081.jpg?hst=1660074041
+  phone: ""
+  email: dinowitzj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Jeffrey-Dinowitz
+  - https://ballotpedia.org/Jeffrey_Dinowitz
+  - https://en.wikipedia.org/wiki/Jeffrey_Dinowitz
+  - https://justfacts.votesmart.org/candidate/4305/jeffrey-dinowitz
+  - https://justfacts.votesmart.org/candidate/biography/4305/jeffrey-dinowitz
+  - https://nyassembly.gov/mem/jeffrey-dinowitz
+  - https://www.linkedin.com/in/assemblymanjeffreydinowitz
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-rajkumar-jenifer
+  openstates_id: ocd-person/029fb490-649e-4dbf-b7fc-6cf46ea433ff
+  full_name: Jenifer Rajkumar
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/038/headshot/038.jpg?hst=1660073381
+  phone: ""
+  email: rajkumarj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Jenifer-Rajkumar
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Jenifer-Rajkumar
+  - https://ballotpedia.org/Jenifer_Rajkumar
+  - https://en.wikipedia.org/wiki/Jenifer_Rajkumar
+  - https://justfacts.votesmart.org/candidate/biography/175061/jenifer-rajkumar
+  - https://nyassembly.gov/mem/Jenifer-Rajkumar
+  - https://www.linkedin.com/in/jenifer-rajkumar-396a1918b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-lunsford-jen
+  openstates_id: ocd-person/f6394f20-1953-434b-a2bb-2d255d4fafbe
+  full_name: Jen Lunsford
+  office_title: State Representative
+  chamber: house
+  district: "135"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/135/headshot/135.jpg?hst=1675087664
+  phone: ""
+  email: lunsfordj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Jen-Lunsford
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Jen-Lunsford
+  - https://assembly.state.ny.us/mem/Jennifer-Lunsford
+  - https://ballotpedia.org/Jennifer_Lunsford
+  - https://en.wikipedia.org/wiki/Jennifer_Lunsford
+  - https://justfacts.votesmart.org/candidate/185138/jen-lunsford
+  - https://nyassembly.gov/mem/Jennifer-Lunsford
+  - https://www.linkedin.com/in/jenlunsford
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-cooney-jeremy
+  openstates_id: ocd-person/6d73b968-c1db-434e-9876-de2fdff30d89
+  full_name: Jeremy Cooney
+  office_title: State Senator
+  chamber: senate
+  district: "56"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/sd56_cooneyhs.jpg?itok=bMYwiWoQ
+  phone: ""
+  email: cooney@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeremy_Cooney
+  - https://en.wikipedia.org/wiki/Jeremy_Cooney
+  - https://justfacts.votesmart.org/candidate/biography/185139/jeremy-cooney
+  - https://www.linkedin.com/in/jeremycooney
+  - https://www.nysenate.gov/senators/jeremy-cooney
+  - https://www.nysenate.gov/senators/jeremy-cooney/contact
+  - https://www.rocsenator.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-zellner-jeremy
+  openstates_id: ocd-person/6409bcf6-2def-4150-bf11-292ec93b72f6
+  full_name: Jeremy Zellner
+  office_title: State Senator
+  chamber: senate
+  district: "61"
+  party: Democratic
+  status: active
+  photo_url: https://ecdems.com/wp-content/uploads/2011/02/Jeremy-J-Zellner-headshot-2-200x300.jpg
+  phone: ""
+  email: zellner@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/jeremy-j-zellner
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeremy_Zellner
+  - https://en.wikipedia.org/wiki/Jeremy_Zellner
+  - https://www.nysenate.gov/senators/jeremy-j-zellner
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-gonzlezrojas-jessica
+  openstates_id: ocd-person/5a115673-aa3c-4518-94bc-b2a5dadeb8af
+  full_name: Jessica González-Rojas
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/034/headshot/034.jpg?hst=1660073319
+  phone: ""
+  email: gonzalezrojasj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Jessica-Gonzalez-Rojas
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Jessica-Gonzalez-Rojas
+  - https://ballotpedia.org/Jessica_Gonz%C3%A1lez-Rojas
+  - https://en.wikipedia.org/wiki/Jessica_Gonz%C3%A1lez-Rojas
+  - https://justfacts.votesmart.org/candidate/biography/192138/jessica-gonzalez-rojas
+  - https://nyassembly.gov/mem/Jessica-Gonzalez-Rojas
+  - https://www.linkedin.com/in/jessica-gonz%C3%A1lez-rojas-41738b4
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-ramos-jessica
+  openstates_id: ocd-person/a0b3e01c-d323-4624-a0da-6a1e2b0dfb31
+  full_name: Jessica Ramos
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/sd13senator_jessica_ramos22_0.jpg?itok=WB6i4JL9
+  phone: ""
+  email: ramos@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jessica_Ramos
+  - https://en.wikipedia.org/wiki/Jessica_Ramos
+  - https://justfacts.votesmart.org/candidate/biography/185077/jessica-ramos
+  - https://www.linkedin.com/in/ramosjessica
+  - https://www.nysenate.gov/senators/jessica-ramos
+  - https://www.nysenate.gov/senators/jessica-ramos/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-scarcellaspanton-jessica
+  openstates_id: ocd-person/84b5ed8b-c048-4d62-ab8f-17d217605301
+  full_name: Jessica Scarcella-Spanton
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/01-05-23_s-spanton-hs_official.jpg?itok=IomeKdft
+  phone: ""
+  email: spanton@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/jessica-scarcella-spanton
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jessica_Scarcella-Spanton
+  - https://en.wikipedia.org/wiki/Jessica_Scarcella-Spanton
+  - https://justfacts.votesmart.org/candidate/biography/208788/jessica-scarcella-spanton
+  - https://www.linkedin.com/in/jessica-scarcella-spanton-5426a711
+  - https://www.nysenate.gov/senators/jessica-scarcella-spanton
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-simon-jo
+  openstates_id: ocd-person/21da6116-bec3-44a4-9e0b-a68eef91222d
+  full_name: Jo Anne Simon
+  office_title: State Representative
+  chamber: house
+  district: "52"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/052/headshot/052.jpg?hst=1660073592
+  phone: ""
+  email: simonj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Jo-Anne-Simon
+  - https://ballotpedia.org/Jo_Anne_Simon
+  - https://en.wikipedia.org/wiki/Jo_Anne_Simon
+  - https://joannesimon.com
+  - https://justfacts.votesmart.org/candidate/biography/155448/jo-anne-simon
+  - https://nyassembly.gov/mem/Jo-Anne-Simon
+  - https://www.linkedin.com/in/joanne-simon-9b40135
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-giglio-jodi
+  openstates_id: ocd-person/983d7603-0ccc-4995-8afe-2ece30a487c7
+  full_name: Jodi Giglio
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/002/headshot/002.jpg?hst=1668622850
+  phone: ""
+  email: giglioj2@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Jodi-Giglio
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Jodi-Giglio
+  - https://ballotpedia.org/Jodi_Giglio
+  - https://en.wikipedia.org/wiki/Jodi_Giglio
+  - https://justfacts.votesmart.org/candidate/biography/133853/jodi-giglio
+  - https://nyassembly.gov/mem/Jodi-Giglio
+  - https://www.linkedin.com/in/jodi-giglio-1ba52069
+  - https://www.linkedin.com/in/jodi-giglio-aa9a8a11
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-angelino-joe
+  openstates_id: ocd-person/cc6881df-b386-488d-bbc1-71e71b808306
+  full_name: Joe Angelino
+  office_title: State Representative
+  chamber: house
+  district: "121"
+  party: Republican/Conservative/Independence
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/121/headshot/121.jpg?hst=1660074724
+  phone: ""
+  email: angelinoj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Joe-Angelino
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Joe-Angelino
+  - https://ballotpedia.org/Joe_Angelino
+  - https://en.wikipedia.org/wiki/Joe_Angelino
+  - https://justfacts.votesmart.org/candidate/biography/191886/joe-angelino
+  - https://nyassembly.gov/mem/Joe-Angelino
+  - https://www.linkedin.com/in/joseph-angelino-0b11901a7
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-destefano-joe
+  openstates_id: ocd-person/691f0b4b-a2b3-47d6-b5ba-6bf503340e10
+  full_name: Joe DeStefano
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/003/headshot/003.jpg?hst=1660072569
+  phone: ""
+  email: destefanoj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Joe-DeStefano
+  - https://ballotpedia.org/Joseph_DeStefano
+  - https://en.wikipedia.org/wiki/Joe_DeStefano
+  - https://justfacts.votesmart.org/candidate/185148/joe-destefano
+  - https://nyassembly.gov/mem/Joe-DeStefano
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-sempolinski-joe
+  openstates_id: ocd-person/45837ecf-38a2-41cb-9de1-eae175a32dfe
+  full_name: Joe Sempolinski
+  office_title: State Representative
+  chamber: house
+  district: "148"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/29175.jpg
+  phone: ""
+  email: sempolinskij@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Joe-Sempolinski
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_Sempolinski
+  - https://en.wikipedia.org/wiki/Joe_Sempolinski
+  - https://justfacts.votesmart.org/candidate/208849/joe-sempolinski
+  - https://nyassembly.gov/mem/Joe-Sempolinski
+  - https://www.linkedin.com/in/joseph-sempolinski-7a2532158
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-mcdonald-john
+  openstates_id: ocd-person/0ce05d4e-e231-4d3e-8ba5-179499230adc
+  full_name: John McDonald
+  office_title: State Representative
+  chamber: house
+  district: "108"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/108/headshot/108.jpg?hst=1660074489
+  phone: ""
+  email: mcdonaldj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/John-T-McDonald-III
+  - https://ballotpedia.org/John_T._McDonald_III
+  - https://ballotpedia.org/John_T._McDonald_III_(New_York)
+  - https://en.wikipedia.org/wiki/John_T._McDonald_III
+  - https://justfacts.votesmart.org/candidate/biography/142711/john-mcdonald-iii
+  - https://nyassembly.gov/mem/John-T-McDonald-III
+  - https://www.linkedin.com/in/john-t-mcdonald-iii-a1b9b2b
+  - https://www.linkedin.com/in/john-t-mcdonald-iii-rph-a1b9b2b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-lemondes-john
+  openstates_id: ocd-person/21b7fbbb-6f39-4251-884d-3d4a146a0874
+  full_name: John Lemondes
+  office_title: State Representative
+  chamber: house
+  district: "126"
+  party: Republican/Conservative/Independence
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/126/headshot/126.jpg?hst=1660074773
+  phone: ""
+  email: lemondesj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/John-Lemondes
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/John-Lemondes
+  - https://ballotpedia.org/John_Lemondes_Jr.
+  - https://en.wikipedia.org/wiki/John_Lemondes_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/191945/john-lemondes-jr
+  - https://nyassembly.gov/mem/John-Lemondes
+  - https://www.linkedin.com/in/john-lemondes-b6192b5
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-liu-john
+  openstates_id: ocd-person/eee14916-d196-4857-a64a-b6e952db7a53
+  full_name: John Liu
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/liu-760-article-photonysenate.jpg?itok=Nyrv_a2O
+  phone: ""
+  email: liu@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Liu
+  - https://en.wikipedia.org/wiki/John_Liu
+  - https://www.nysenate.gov/senators/john-c-liu
+  - https://www.nysenate.gov/senators/john-c-liu/contact
+  - https://www.nysenate.gov/senators/john-liu/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-mikulin-john
+  openstates_id: ocd-person/d0ecfe0a-9f41-4deb-9829-7c1c16a7c498
+  full_name: John Mikulin
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/017/headshot/017.jpg?hst=1678734317
+  phone: ""
+  email: mikulinj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/John-K-Mikulin
+  - https://ballotpedia.org/John_Mikulin
+  - https://ballotpedia.org/John_Mikulin_(New_York)
+  - https://en.wikipedia.org/wiki/John_Mikulin
+  - https://justfacts.votesmart.org/candidate/179867/john-mikulin
+  - https://nyassembly.gov/mem/John-K-Mikulin
+  - https://www.linkedin.com/in/john-mikulin-ab937069
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-zaccaro-john
+  openstates_id: ocd-person/a956438d-7d17-4148-a581-ad398baa0d6a
+  full_name: John Zaccaro
+  office_title: State Representative
+  chamber: house
+  district: "80"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/080/headshot/080.jpg?hst=1672563867
+  phone: ""
+  email: zaccaroj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/John-Zaccaro-Jr
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/John-Zaccaro-Jr
+  - https://ballotpedia.org/John_Zaccaro_Jr.
+  - https://en.wikipedia.org/wiki/John_Zaccaro_Jr.
+  - https://justfacts.votesmart.org/candidate/210797/john-zaccaro-jr
+  - https://nyassembly.gov/mem/John-Zaccaro-Jr
+  - https://www.linkedin.com/in/john-zaccaro-jr-519914181
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-jacobson-jonathan
+  openstates_id: ocd-person/105874fa-018e-4e77-8190-7f6d59538386
+  full_name: Jonathan Jacobson
+  office_title: State Representative
+  chamber: house
+  district: "104"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/104/headshot/104.jpg?hst=1660074380
+  phone: ""
+  email: jacobsonj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Jonathan-G-Jacobson
+  - https://ballotpedia.org/Jonathan_Jacobson
+  - https://ballotpedia.org/Jonathan_Jacobson_(New_York)
+  - https://en.wikipedia.org/wiki/Jonathan_Jacobson
+  - https://justfacts.votesmart.org/candidate/185056/jonathan-jacobson
+  - https://nyassembly.gov/mem/Jonathan-G-Jacobson
+  - https://www.linkedin.com/in/jonathan-jacobson-25ab6013
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-rivera-jon
+  openstates_id: ocd-person/869acf23-9c50-48da-897c-515c5a7adcfe
+  full_name: Jon Rivera
+  office_title: State Representative
+  chamber: house
+  district: "149"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/149/headshot/149.jpg?hst=1660075024
+  phone: ""
+  email: riverajd@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Jonathan-Rivera
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Jonathan-Rivera
+  - https://ballotpedia.org/Jonathan_Rivera
+  - https://ballotpedia.org/Jonathan_Rivera_(New_York)
+  - https://en.wikipedia.org/wiki/Jonathan_Rivera
+  - https://justfacts.votesmart.org/candidate/192308/jon-rivera
+  - https://nyassembly.gov/mem/Jonathan-Rivera
+  - https://nyassembly.gov/mem/Jonathan-Rivera/bio
+  - https://www.linkedin.com/in/jonathan-rivera-57258817
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-wright-jordan
+  openstates_id: ocd-person/3f77833f-4ab3-45b2-9cca-ee51f69e65ba
+  full_name: Jordan Wright
+  office_title: State Representative
+  chamber: house
+  district: "70"
+  party: Democratic
+  status: active
+  photo_url: https://static.wixstatic.com/media/de9c5c_2dc7bbf2df8248b58511913d9eb7f780~mv2.png/v1/fill/w_874,h_1023,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/image4_edited.png
+  phone: ""
+  email: wrightjj@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Jordan-J.G-Wright
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jordan_Wright
+  - https://en.wikipedia.org/wiki/Jordan_Wright_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/217348/jordan-wright
+  - https://nyassembly.gov/mem/Jordan-J.G-Wright
+  - https://www.linkedin.com/in/jordanjgwright
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-serrano-jose
+  openstates_id: ocd-person/31d058e9-909a-46b5-8e66-21a3e86b5a56
+  full_name: Jose Serrano
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2802-11-13%29%20Serrano-HS-028RET.jpg?itok=U6wrLa0A
+  phone: ""
+  email: serrano@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jose_M._Serrano
+  - https://en.wikipedia.org/wiki/Jos%C3%A9_M._Serrano
+  - https://justfacts.votesmart.org/candidate/biography/45014/jose-serrano
+  - https://www.nysenate.gov/senators/jos%C3%A9-m-serrano/contact
+  - https://www.nysenate.gov/senators/jose-m-serrano
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-griffo-joe
+  openstates_id: ocd-person/738fe4f1-dfee-40c6-9f00-f793ea369dbc
+  full_name: Joe Griffo
+  office_title: State Senator
+  chamber: senate
+  district: "53"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2811-18-08%29%20Griffo-HS-020.jpg?itok=rGK6kVTU
+  phone: ""
+  email: griffo@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joseph_Griffo
+  - https://en.wikipedia.org/wiki/Joseph_Griffo
+  - https://justfacts.votesmart.org/candidate/biography/68810/joseph-griffo
+  - https://www.nysenate.gov/senators/joseph-griffo
+  - https://www.nysenate.gov/senators/joseph-griffo/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-addabbo-joe
+  openstates_id: ocd-person/f3a41618-3c28-4bab-9a56-ef49c9cafcec
+  full_name: Joe Addabbo
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/headshot_addabbo-hs-profile.jpg?itok=gdgS9QTR
+  phone: ""
+  email: addabbo@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joseph_Addabbo
+  - https://en.wikipedia.org/wiki/Joseph_Addabbo,_Jr.
+  - https://justfacts.votesmart.org/candidate/44931/joseph-addabbo-jr
+  - https://www.nysenate.gov/senators/joseph-p-addabbo-jr
+  - https://www.nysenate.gov/senators/joseph-p-addabbo-jr/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-jensen-josh
+  openstates_id: ocd-person/74b2a05d-ca30-400a-b773-7fb8e24ada63
+  full_name: Josh Jensen
+  office_title: State Representative
+  chamber: house
+  district: "134"
+  party: Republican/Conservative/Independence
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/134/headshot/134.jpg?hst=1660074858
+  phone: ""
+  email: jensenj@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Josh-Jensen
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Josh-Jensen
+  - https://ballotpedia.org/Josh_Jensen
+  - https://en.wikipedia.org/wiki/Josh_Jensen_(politician)
+  - https://nyassembly.gov/mem/Josh-Jensen
+  - https://nyassembly.gov/mem/Josh-Jensen/bio
+  - https://www.linkedin.com/in/joshuatjensen
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-griffin-judy
+  openstates_id: ocd-person/0084a20e-9727-44d0-a60e-f074d17e65ef
+  full_name: Judy Griffin
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/021/headshot/021.jpg
+  phone: ""
+  email: griffij@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Judy-Griffin
+  - https://ballotpedia.org/Judy_Griffin_(New_York)
+  - https://en.wikipedia.org/wiki/Judy_Griffin
+  - https://justfacts.votesmart.org/candidate/185166/judy-griffin
+  - https://nyassembly.gov/mem/Judy-Griffin
+  - https://www.linkedin.com/in/judy-griffin-b15b0558
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-salazar-julia
+  openstates_id: ocd-person/6c410f28-9316-45db-935d-52764c90b4ae
+  full_name: Julia Salazar
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/screenshotjs.png?itok=WxwPAzfP
+  phone: ""
+  email: salazar@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Julia_Salazar
+  - https://en.wikipedia.org/wiki/Julia_Salazar
+  - https://justfacts.votesmart.org/candidate/biography/185085/julia-salazar
+  - https://www.nysenate.gov/senators/julia-salazar
+  - https://www.nysenate.gov/senators/julia-salazar/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-yeger-kalman
+  openstates_id: ocd-person/ad60765d-3d3c-4523-9c75-0a81af0e85e9
+  full_name: Kalman Yeger
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Democratic
+  status: active
+  photo_url: https://raw.githubusercontent.com/NewYorkCityCouncil/districts/master/thumbnails/district-44.jpg
+  phone: ""
+  email: askkalman@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Kalman-Yeger
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kalman_Yeger
+  - https://en.wikipedia.org/wiki/Kalman_Yeger
+  - https://justfacts.votesmart.org/candidate/biography/186462/kalman-yeger
+  - https://nyassembly.gov/mem/Kalman-Yeger
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-mcmahon-karen
+  openstates_id: ocd-person/e37b1683-f103-4c4d-80bd-1b255cc1ce08
+  full_name: Karen McMahon
+  office_title: State Representative
+  chamber: house
+  district: "146"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/146/headshot/146.jpg?hst=1660074994
+  phone: ""
+  email: mcmahonk@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Karen-McMahon
+  - https://ballotpedia.org/Karen_McMahon
+  - https://en.wikipedia.org/wiki/Karen_McMahon
+  - https://justfacts.votesmart.org/candidate/185360/karen-mcmahon
+  - https://nyassembly.gov/mem/Karen-McMahon
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-reyes-karines
+  openstates_id: ocd-person/ddcffc59-f65a-426c-8390-9a28d1f1533d
+  full_name: Karines Reyes
+  office_title: State Representative
+  chamber: house
+  district: "87"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/087/headshot/087.jpg?hst=1660074160
+  phone: ""
+  email: reyesk@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Karines-Reyes
+  - https://ballotpedia.org/Karines_Reyes
+  - https://en.wikipedia.org/wiki/Karines_Reyes
+  - https://justfacts.votesmart.org/candidate/biography/185274/karines-reyes
+  - https://nyassembly.gov/mem/Karines-Reyes
+  - https://www.linkedin.com/in/karines-reyes-rn-4aa17b91
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-brabenec-karl
+  openstates_id: ocd-person/8378f15a-1d99-4cd6-aaad-f36b3bc57e1e
+  full_name: Karl Brabenec
+  office_title: State Representative
+  chamber: house
+  district: "98"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/098/headshot/098.jpg?hst=1660074303
+  phone: ""
+  email: brabeneck@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Karl-Brabenec
+  - https://ballotpedia.org/Karl_Brabenec
+  - https://en.wikipedia.org/wiki/Karl_A._Brabenec
+  - https://justfacts.votesmart.org/candidate/155854/karl-brabenec
+  - https://nyassembly.gov/mem/Karl-Brabenec
+  - https://www.linkedin.com/in/karlbrabenec
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-brown-keith
+  openstates_id: ocd-person/c54d76b7-c535-44f9-b534-d20d689f594e
+  full_name: Keith Brown
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Republican/Conservative/Independence
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/012/headshot/012.jpg?hst=1660072856
+  phone: ""
+  email: brownk@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Keith-P-Brown
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Keith-P-Brown
+  - https://ballotpedia.org/Keith_Brown
+  - https://ballotpedia.org/Keith_Brown_(New_York)
+  - https://en.wikipedia.org/wiki/Keith_Brown_(New_York_politician)
+  - https://justfacts.votesmart.org/candidate/biography/191982/keith-brown
+  - https://nyassembly.gov/mem/Keith-P-Brown
+  - https://www.linkedin.com/in/keith-brown-20069118
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-powers-keith
+  openstates_id: ocd-person/c99b7832-4dae-4ad3-b94a-41b50f99fd8f
+  full_name: Keith Powers
+  office_title: State Representative
+  chamber: house
+  district: "74"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: powersk@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Keith-Powers
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Keith_Powers_(New_York)
+  - https://en.wikipedia.org/wiki/Keith_Powers_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/186458/keith-powers
+  - https://nyassembly.gov/mem/Keith-Powers
+  - https://www.keithpowers.nyc/about
+  - https://www.linkedin.com/in/keith-powers-9240906
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-blankenbush-ken
+  openstates_id: ocd-person/f9d3d599-6a28-4110-9347-8a5e35d2274a
+  full_name: Ken Blankenbush
+  office_title: State Representative
+  chamber: house
+  district: "117"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/117/headshot/117.jpg?hst=1660074678
+  phone: ""
+  email: blankenbushk@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Ken-Blankenbush
+  - https://ballotpedia.org/Kenneth_Blankenbush
+  - https://en.wikipedia.org/wiki/Ken_Blankenbush
+  - https://justfacts.votesmart.org/candidate/biography/91697/ken-blankenbush
+  - https://nyassembly.gov/mem/ken-blankenbush
+  - https://www.linkedin.com/in/ken-blankenbush-881145166
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-parker-kevin
+  openstates_id: ocd-person/dbf73f29-d4ce-4192-b8fe-42b3ac538dda
+  full_name: Kevin Parker
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/2019kphs.jpg?itok=savOnro2
+  phone: ""
+  email: parker@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kevin_Parker_(New_York)
+  - https://en.wikipedia.org/wiki/Kevin_Parker_(New_York_politician)
+  - https://justfacts.votesmart.org/candidate/biography/44519/kevin-parker
+  - https://www.linkedin.com/in/kevin-parker-7b65453b
+  - https://www.nysenate.gov/senators/kevin-s-parker
+  - https://www.nysenate.gov/senators/kevin-s-parker/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-anderson-khaleel
+  openstates_id: ocd-person/cf330444-ddcb-44aa-882d-f1488c42533e
+  full_name: Khaleel Anderson
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/031/headshot/031.jpg?hst=1668023367
+  phone: ""
+  email: andersonk@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Khaleel-M-Anderson
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Khaleel-M-Anderson
+  - https://ballotpedia.org/Khaleel_Anderson
+  - https://en.wikipedia.org/wiki/Khaleel_Anderson
+  - https://justfacts.votesmart.org/candidate/192131/khaleel-anderson
+  - https://nyassembly.gov/mem/Khaleel-M-Anderson
+  - https://www.linkedin.com/in/khaleel-anderson1106
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-gonzalez-kristen
+  openstates_id: ocd-person/f96b188a-83e0-4eab-876f-964e06d721d4
+  full_name: Kristen Gonzalez
+  office_title: State Senator
+  chamber: senate
+  district: "59"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/gonzalez_hs-1_0.jpg?itok=Ji5anDju
+  phone: ""
+  email: gonzalez@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/kristen-gonzalez
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kristen_Gonzalez
+  - https://en.wikipedia.org/wiki/Kristen_Gonzalez
+  - https://justfacts.votesmart.org/candidate/biography/210445/kristen-gonzalez
+  - https://www.nysenate.gov/senators/kristen-gonzalez
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-opharrow-kwani
+  openstates_id: ocd-person/3240ab03-fbf2-4614-ae92-309f1abf415a
+  full_name: Kwani O'Pharrow
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Byron__McCray__20240808_092347.jpeg
+  phone: ""
+  email: opharrk@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Kwani-B-O'Pharrow
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kwani_O%27Pharrow
+  - https://en.wikipedia.org/wiki/Kwani_O%27Pharrow
+  - https://justfacts.votesmart.org/candidate/biography/217831/kwani-opharrow
+  - https://nyassembly.gov/mem/Kwani-B-O'Pharrow
+  - https://nyassembly.gov/mem/Kwani-O'Pharrow
+  - https://www.linkedin.com/in/kwani-b-o-pharrow-sr-
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-dais-landon
+  openstates_id: ocd-person/4f486e74-0735-42fd-ab1c-9816a0ced550
+  full_name: Landon Dais
+  office_title: State Representative
+  chamber: house
+  district: "77"
+  party: Democratic
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/139590.jpg
+  phone: ""
+  email: daisl@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Landon-C-Dais/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Landon_Dais
+  - https://en.wikipedia.org/wiki/Landon_Dais
+  - https://justfacts.votesmart.org/candidate/214834/landon-dais
+  - https://nyassembly.gov/mem/Landon-C-Dais
+  - https://nyassembly.gov/mem/Landon-C-Dais/about
+  - https://www.linkedin.com/in/landondais
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-hooks-larinda
+  openstates_id: ocd-person/e06291fc-b2dc-4c19-a9da-fa4bdb9934e1
+  full_name: Larinda Hooks
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://static.wixstatic.com/media/d0a123_fb70d89e1f594b47bca75d33cd196327~mv2.jpg/v1/crop/x_2572,y_0,w_4148,h_4480/fill/w_284,h_308,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1Q7A9414.jpg
+  phone: ""
+  email: hooksl@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Larinda-C-Hooks
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Larinda_Hooks
+  - https://en.wikipedia.org/wiki/Larinda_Hooks
+  - https://justfacts.votesmart.org/candidate/biography/217358/larinda-hooks
+  - https://nyassembly.gov/mem/Larinda-C-Hooks
+  - https://www.linkedin.com/in/larinda-hooks-64b97a33
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-walker-latrice
+  openstates_id: ocd-person/88a4af90-81b8-4d72-a57c-518a20a0881b
+  full_name: Latrice Walker
+  office_title: State Representative
+  chamber: house
+  district: "55"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/055/headshot/055.jpg?hst=1660073650
+  phone: ""
+  email: walkerl@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Latrice-M-Walker
+  - https://assembly.state.ny.us/mem/Latrice-Walker
+  - https://ballotpedia.org/Latrice_Walker
+  - https://en.wikipedia.org/wiki/Latrice_Walker
+  - https://justfacts.votesmart.org/candidate/biography/155451/latrice-walker
+  - https://nyassembly.gov/mem/Latrice-Walker
+  - https://www.linkedin.com/in/latrice-monique-walker-259a9551
+  - https://www.linkedin.com/in/latrice-walker-27944b6
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-webb-lea
+  openstates_id: ocd-person/a0876791-c573-4028-8c61-f7bbac545074
+  full_name: Lea Webb
+  office_title: State Senator
+  chamber: senate
+  district: "52"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/senwebbhs.jpg?itok=Tz0a39KS
+  phone: ""
+  email: leawebb@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/lea-webb
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lea_Webb
+  - https://en.wikipedia.org/wiki/Lea_Webb
+  - https://justfacts.votesmart.org/candidate/biography/106166/lea-webb
+  - https://www.linkedin.com/in/lea-webb-368947a
+  - https://www.nysenate.gov/senators/lea-webb
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-comrie-leroy
+  openstates_id: ocd-person/dbc5723f-2fad-4c3e-b051-5ea05706340f
+  full_name: Leroy Comrie
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2801-12-15%29%20Comrie-HS-079.jpg?itok=SFD_SKfv
+  phone: ""
+  email: comrie@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Leroy_Comrie
+  - https://en.wikipedia.org/wiki/Leroy_Comrie
+  - https://justfacts.votesmart.org/candidate/biography/44666/leroy-comrie
+  - https://www.linkedin.com/in/comrieforsenate
+  - https://www.nysenate.gov/senators/leroy-comrie
+  - https://www.nysenate.gov/senators/leroy-comrie/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-chang-lester
+  openstates_id: ocd-person/b43ab7e1-e8f3-4b46-905e-ebfdded05b80
+  full_name: Lester Chang
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/049/headshot/049.jpg?hst=1674060585
+  phone: ""
+  email: changl@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Lester-Chang
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Lester-Chang
+  - https://ballotpedia.org/Lester_Chang
+  - https://en.wikipedia.org/wiki/Lester_Chang
+  - https://justfacts.votesmart.org/candidate/192055/lester-chang
+  - https://lesterchang.com
+  - https://lesterchang.com/about-1
+  - https://nyassembly.gov/mem/Lester-Chang
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-rosenthal-linda
+  openstates_id: ocd-person/2c20fb3d-4c95-4494-ac3b-a1ab93f72439
+  full_name: Linda Rosenthal
+  office_title: State Representative
+  chamber: house
+  district: "67"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/067/headshot/067.jpg?hst=1660073851
+  phone: ""
+  email: rosentl@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Linda-B-Rosenthal
+  - https://ballotpedia.org/Linda_Rosenthal
+  - https://en.wikipedia.org/wiki/Linda_Rosenthal
+  - https://justfacts.votesmart.org/candidate/biography/58067/linda-rosenthal
+  - https://nyassembly.gov/mem/linda-b-rosenthal
+  - https://www.linkedin.com/in/linda-b-rosenthal-5311ab198
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-krueger-liz
+  openstates_id: ocd-person/638d1d66-ccbe-4107-b7fb-f3d22cb2ec9c
+  full_name: Liz Krueger
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2803-05-09%29%20Liz%20Krueger8x10HS-002.jpg?itok=Uhcv13n6
+  phone: ""
+  email: lkrueger@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Liz_Krueger
+  - https://en.wikipedia.org/wiki/Liz_Krueger
+  - https://justfacts.votesmart.org/candidate/biography/55235/liz-krueger
+  - https://www.nysenate.gov/senators/liz-krueger
+  - https://www.nysenate.gov/senators/liz-krueger/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-seplveda-luis
+  openstates_id: ocd-person/1e5af6bc-1643-4cfd-b4c1-8b2e86b02c2d
+  full_name: Luis Sepúlveda
+  office_title: State Senator
+  chamber: senate
+  district: "32"
+  party: Democratic
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/hssepulveda2.jpg?itok=WvXJvenH
+  phone: ""
+  email: sepulveda@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Luis_Sepulveda_(New_York)
+  - https://en.wikipedia.org/wiki/Luis_R._Sep%C3%BAlveda
+  - https://justfacts.votesmart.org/candidate/biography/127944/luis-sepulveda
+  - https://www.linkedin.com/in/luis-sepulveda-231132119
+  - https://www.nysenate.gov/senators/luis-r-sepulveda
+  - https://www.nysenate.gov/senators/luis-r-sepulveda/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-santos-manny
+  openstates_id: ocd-person/e9e827d2-5eb7-4c53-bec7-d6a9fdef82fa
+  full_name: Manny De Los Santos
+  office_title: State Representative
+  chamber: house
+  district: "72"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/072/headshot/072.jpg?hst=1660073911
+  phone: ""
+  email: delossm@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Manny-De-Los-Santos
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Manny-De-Los-Santos
+  - https://ballotpedia.org/Manny_De_Los_Santos
+  - https://en.wikipedia.org/wiki/Manny_De_Los_Santos
+  - https://justfacts.votesmart.org/candidate/biography/155417/manny-de-los-santos
+  - https://nyassembly.gov/mem/Manny-De-Los-Santos
+  - https://www.linkedin.com/in/manny-de-los-santos-4b6a94aa
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-mitaynes-marcela
+  openstates_id: ocd-person/1dd95774-3fbe-43a8-ac78-6b4d05146e27
+  full_name: Marcela Mitaynes
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/051/headshot/051.jpg?hst=1660073582
+  phone: ""
+  email: mitaynesm@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Marcela-Mitaynes
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Marcela-Mitaynes
+  - https://ballotpedia.org/Marcela_Mitaynes
+  - https://en.wikipedia.org/wiki/Marcela_Mitaynes
+  - https://justfacts.votesmart.org/candidate/192206/marcela-mitaynes
+  - https://nyassembly.gov/mem/Marcela-Mitaynes
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-buttenschon-marianne
+  openstates_id: ocd-person/ac084b72-95c0-46df-96c9-be727ccf35ff
+  full_name: Marianne Buttenschon
+  office_title: State Representative
+  chamber: house
+  district: "119"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/119/headshot/119.jpg?hst=1660074697
+  phone: ""
+  email: buttenschonm@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Marianne-Buttenschon
+  - https://ballotpedia.org/Marianne_Buttenschon
+  - https://en.wikipedia.org/wiki/Marianne_Buttenschon
+  - https://nyassembly.gov/mem/Marianne-Buttenschon
+  - https://www.linkedin.com/in/marianne-buttenschon-a31635106
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-mattera-mario
+  openstates_id: ocd-person/04f9beb9-b562-4f2f-9f23-4856fe0fd0dc
+  full_name: Mario Mattera
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/mattera_official_headshot.2.jpg?itok=w5SiQVq0
+  phone: ""
+  email: mattera@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mario_Mattera
+  - https://en.wikipedia.org/wiki/Mario_Mattera
+  - https://justfacts.votesmart.org/candidate/biography/192039/mario-mattera
+  - https://www.nysenate.gov/senators/mario-r-mattera
+  - https://www.nysenate.gov/senators/mario-r-mattera/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-davila-maritza
+  openstates_id: ocd-person/6dfd759c-edcb-45d9-ac9a-9064a69d5f4a
+  full_name: Maritza Davila
+  office_title: State Representative
+  chamber: house
+  district: "53"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/053/headshot/053.jpg?hst=1660073605
+  phone: ""
+  email: davilam@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Maritza-Davila
+  - https://ballotpedia.org/Maritza_Davila_(New_York)
+  - https://en.wikipedia.org/wiki/Maritza_Davila
+  - https://justfacts.votesmart.org/candidate/biography/145250/maritza-davila
+  - https://nyassembly.gov/mem/Maritza-Davila
+  - https://www.linkedin.com/in/maritza-davila-8a182852
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-walczyk-mark
+  openstates_id: ocd-person/615c8d33-9652-4163-87b9-0fc82fc09b8c
+  full_name: Mark Walczyk
+  office_title: State Senator
+  chamber: senate
+  district: "49"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/walczyk_hs_001.jpg?itok=DzABU3Xf
+  phone: ""
+  email: walczyk@nysenate.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Mark-Walczyk
+  - https://ballotpedia.org/Mark_Walczyk
+  - https://en.wikipedia.org/wiki/Mark_Walczyk
+  - https://justfacts.votesmart.org/candidate/biography/185315/mark-walczyk
+  - https://www.linkedin.com/in/mark-walczyk-937990a
+  - https://www.nysenate.gov/senators/mark-walczyk
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-walsh-mary
+  openstates_id: ocd-person/f83f11f2-bfdb-4f84-925a-ae04c97b990e
+  full_name: Mary Beth Walsh
+  office_title: State Representative
+  chamber: house
+  district: "112"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/112/headshot/112.jpg?hst=1660074618
+  phone: ""
+  email: walshm@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Mary-Beth-Walsh
+  - https://ballotpedia.org/Mary_Beth_Walsh
+  - https://en.wikipedia.org/wiki/Mary_Beth_Walsh
+  - https://justfacts.votesmart.org/candidate/174245/mary-walsh
+  - https://marybeth4ny.com/meet-mary-beth
+  - https://nyassembly.gov/mem/Mary-Beth-Walsh
+  - https://www.linkedin.com/in/mahynes
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-shimsky-maryjane
+  openstates_id: ocd-person/18f58d92-0a20-4ec1-a2dd-e77a10280e9b
+  full_name: MaryJane Shimsky
+  office_title: State Representative
+  chamber: house
+  district: "92"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/092/headshot/092.jpg?hst=1672578886
+  phone: ""
+  email: shimskym@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/MaryJane-Shimsky
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/MaryJane-Shimsky
+  - https://ballotpedia.org/Maryjane_Shimsky
+  - https://en.wikipedia.org/wiki/MaryJane_Shimsky
+  - https://justfacts.votesmart.org/candidate/134462/maryjane-shimsky
+  - https://nyassembly.gov/mem/MaryJane-Shimsky
+  - https://www.linkedin.com/in/maryjane-shimsky-00490623
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-slater-matt
+  openstates_id: ocd-person/eba4d98e-baa7-4ee3-a705-ed38b137ee27
+  full_name: Matt Slater
+  office_title: State Representative
+  chamber: house
+  district: "94"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/094/headshot/094.jpg?hst=1672574790
+  phone: ""
+  email: slaterm@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Matt-Slater
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Matt-Slater
+  - https://ballotpedia.org/Matthew_Slater
+  - https://en.wikipedia.org/wiki/Matt_Slater_(politician)
+  - https://justfacts.votesmart.org/candidate/206035/matthew-slater
+  - https://nyassembly.gov/mem/Matt-Slater
+  - https://www.linkedin.com/in/matthew-slater-928a1619
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-simpson-matt
+  openstates_id: ocd-person/22ef60e3-2d31-41a1-b063-03f307e6414e
+  full_name: Matt Simpson
+  office_title: State Representative
+  chamber: house
+  district: "114"
+  party: Republican/Conservative/Independence
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/114/headshot/114.jpg?hst=1660074645
+  phone: ""
+  email: simpsonm@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Matthew-Simpson
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Matthew-Simpson
+  - https://ballotpedia.org/Matthew_Simpson_(New_York)
+  - https://en.wikipedia.org/wiki/Matt_Simpson_(New_York_politician)
+  - https://justfacts.votesmart.org/candidate/164414/matt-simpson
+  - https://nyassembly.gov/mem/Matthew-Simpson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-lasher-micah
+  openstates_id: ocd-person/bb46f499-d77e-4863-9269-6a04d5ba3f7e
+  full_name: Micah Lasher
+  office_title: State Representative
+  chamber: house
+  district: "69"
+  party: Democratic
+  status: active
+  photo_url: https://miro.medium.com/v2/resize:fit:2400/1*RmYHrIhRgeB_DrSfcfLOxw.jpeg
+  phone: ""
+  email: lasherm@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Micah-C-Lasher
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Micah_Lasher
+  - https://en.wikipedia.org/wiki/Micah_Lasher
+  - https://justfacts.votesmart.org/candidate/biography/174984/micah-lasher
+  - https://nyassembly.gov/mem/Micah-C-Lasher
+  - https://www.linkedin.com/in/micah-lasher-1490575
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-benedetto-michael
+  openstates_id: ocd-person/b2b9862e-f665-4848-9d9c-5dcf2c986fed
+  full_name: Michael Benedetto
+  office_title: State Representative
+  chamber: house
+  district: "82"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/082/headshot/082.jpg?hst=1660074060
+  phone: ""
+  email: benedettom@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Michael-Benedetto
+  - https://ballotpedia.org/Michael_Benedetto
+  - https://en.wikipedia.org/wiki/Michael_Benedetto
+  - https://justfacts.votesmart.org/candidate/55244/michael-benedetto
+  - https://nyassembly.gov/mem/michael-benedetto
+  - https://www.linkedin.com/in/michael-benedetto-06334735
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-cashman-michael
+  openstates_id: ocd-person/2b850a01-7bc1-4602-a0e4-46663e477060
+  full_name: Michael Cashman
+  office_title: State Representative
+  chamber: house
+  district: "115"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: cashmanm@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Michael-Cashman/
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Michael-Cashman
+  - https://assembly.state.ny.us/mem/Michael-Cashman/bio
+  - https://ballotpedia.org/Michael_Cashman
+  - https://www.linkedin.com/in/michaelscashman
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-durso-michael
+  openstates_id: ocd-person/d72babb1-84cc-49d4-8b91-7945b7b9abf5
+  full_name: Michael Durso
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Republican/Conservative/Independence/Libertarian
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/009/headshot/009.jpg?hst=1660072763
+  phone: ""
+  email: dursom@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Michael-Durso
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Michael-Durso
+  - https://ballotpedia.org/Michael_Durso
+  - https://en.wikipedia.org/wiki/Michael_Durso
+  - https://justfacts.votesmart.org/candidate/191981/michael-durso
+  - https://nyassembly.gov/mem/Michael-Durso
+  - https://www.linkedin.com/in/michael-durso-3369b8316
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-fitzpatrick-mike
+  openstates_id: ocd-person/7d944986-094e-4116-871c-d902074d70a5
+  full_name: Mike Fitzpatrick
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/008/headshot/008.jpg?hst=1660072739
+  phone: ""
+  email: fitzpatrickm@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Michael-J-Fitzpatrick
+  - https://ballotpedia.org/Michael_Fitzpatrick_(New_York)
+  - https://en.wikipedia.org/wiki/Michael_J._Fitzpatrick_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/44259/michael-fitzpatrick
+  - https://nyassembly.gov/mem/michael-j-fitzpatrick
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-gianaris-mike
+  openstates_id: ocd-person/b0c3d86b-33ca-4001-a9af-b963fabc06c3
+  full_name: Mike Gianaris
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/hs_3.jpg?itok=0w8WWqFj
+  phone: ""
+  email: gianaris@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Gianaris
+  - https://en.wikipedia.org/wiki/Michael_Gianaris
+  - https://justfacts.votesmart.org/candidate/biography/55455/michael-gianaris
+  - https://www.nysenate.gov/senators/michael-gianaris
+  - https://www.nysenate.gov/senators/michael-gianaris/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-novakhov-misha
+  openstates_id: ocd-person/3e2b0b14-23fb-4b1e-9d9f-48b97662ae1a
+  full_name: Misha Novakhov
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/045/headshot/045.jpg?hst=1672564058
+  phone: ""
+  email: novakhovm@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Michael-Novakhov
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Michael-Novakhov
+  - https://ballotpedia.org/Michael_Novakhov
+  - https://en.wikipedia.org/wiki/Michael_Novakhov
+  - https://justfacts.votesmart.org/candidate/207494/michael-novakhov
+  - https://nyassembly.gov/mem/Michael-Novakhov
+  - https://www.linkedin.com/in/michael-novakhov-a086524b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-reilly-mike
+  openstates_id: ocd-person/f827b8b8-7aa1-4b7b-b40e-d7af0f40d5eb
+  full_name: Mike Reilly
+  office_title: State Representative
+  chamber: house
+  district: "62"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/062/headshot/062.jpg?hst=1660073788
+  phone: ""
+  email: reillym@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Michael-Reilly
+  - https://ballotpedia.org/Michael_Reilly_(New_York)
+  - https://en.wikipedia.org/wiki/Michael_Reilly_(New_York_politician)
+  - https://justfacts.votesmart.org/candidate/185197/michael-reilly
+  - https://nyassembly.gov/mem/Michael-Reilly
+  - https://www.linkedin.com/in/mikewreilly
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-tannousis-mike
+  openstates_id: ocd-person/46506ffb-27af-4b91-b863-9b0a425195a8
+  full_name: Mike Tannousis
+  office_title: State Representative
+  chamber: house
+  district: "64"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/064/headshot/064.jpg?hst=1660073815
+  phone: ""
+  email: tannousism@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Michael-Tannousis
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Michael-Tannousis
+  - https://ballotpedia.org/Michael_Tannousis
+  - https://en.wikipedia.org/wiki/Michael_Tannousis
+  - https://justfacts.votesmart.org/candidate/192223/michael-tannousis
+  - https://nyassembly.gov/mem/Michael-Tannousis
+  - https://www.linkedin.com/in/michael-tannousis-80430262
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-solages-michaelle
+  openstates_id: ocd-person/2cb280b3-0aa9-4a76-abfd-3118e0d96a08
+  full_name: Michaelle Solages
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/022/headshot/022.jpg?hst=1660073080
+  phone: ""
+  email: solagesm@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Michaelle-C-Solages
+  - https://ballotpedia.org/Michaelle_C._Solages
+  - https://en.wikipedia.org/wiki/Michaelle_C._Solages
+  - https://justfacts.votesmart.org/candidate/biography/143116/michaelle-solages
+  - https://nyassembly.gov/mem/Michaelle-C-Solages
+  - https://solagesny.com
+  - https://www.linkedin.com/in/michaelle-solages-13a94716
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-hinchey-michelle
+  openstates_id: ocd-person/0f3cecb9-87fb-48c7-96af-fd3ff8e0cd8b
+  full_name: Michelle Hinchey
+  office_title: State Senator
+  chamber: senate
+  district: "41"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/hinchey-hs-0005.jpg?itok=vF5qXFPh
+  phone: ""
+  email: hinchey@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michelle_Hinchey
+  - https://en.wikipedia.org/wiki/Michelle_Hinchey
+  - https://justfacts.votesmart.org/candidate/biography/191970/michelle-hinchey
+  - https://www.linkedin.com/in/michellehinchey
+  - https://www.nysenate.gov/senators/michelle-hinchey
+  - https://www.nysenate.gov/senators/michelle-hinchey/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-martinez-monica
+  openstates_id: ocd-person/622242c6-d42c-4557-b9ab-29ca87e6d141
+  full_name: Monica Martinez
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/01-10-23_martinezhs.jpg?itok=aHOS1Fqm
+  phone: ""
+  email: martinez@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/monica-r-martinez
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Monica_Martinez
+  - https://en.wikipedia.org/wiki/Monica_Martinez
+  - https://www.linkedin.com/in/monica-r-martinez-54007771
+  - https://www.nysenate.gov/senators/monica-r-martinez
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-chandlerwaterman-monique
+  openstates_id: ocd-person/24fb9f1e-0bd6-4ac2-8a49-1091016863d2
+  full_name: Monique Chandler-Waterman
+  office_title: State Representative
+  chamber: house
+  district: "58"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/058/headshot/058.jpg?hst=1660073695
+  phone: ""
+  email: chandlerwatermanm@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Monique-Chandler-Waterman
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Monique-Chandler-Waterman
+  - https://ballotpedia.org/Monique_Chandler-Waterman
+  - https://en.wikipedia.org/wiki/Monique_Chandler-Waterman
+  - https://justfacts.votesmart.org/candidate/207263/monique-chandler-waterman
+  - https://nyassembly.gov/mem/Monique-Chandler-Waterman
+  - https://www.linkedin.com/in/monique-chandler-waterman-41907535
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-sayegh-nader
+  openstates_id: ocd-person/12dbcb73-95de-4067-8e68-7d7af51eac55
+  full_name: Nader Sayegh
+  office_title: State Representative
+  chamber: house
+  district: "90"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/090/headshot/090.jpg?hst=1660074194
+  phone: ""
+  email: sayeghn@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Nader-J-Sayegh
+  - https://ballotpedia.org/Nader_Sayegh
+  - https://en.wikipedia.org/wiki/Nader_Sayegh
+  - https://justfacts.votesmart.org/candidate/biography/185289/nader-sayegh
+  - https://nyassembly.gov/mem/Nader-J-Sayegh
+  - https://www.linkedin.com/in/nader-j-sayegh-64241674
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-fernandez-nathalia
+  openstates_id: ocd-person/2a38ba4b-176e-479f-8083-2ff50aef693e
+  full_name: Nathalia Fernández
+  office_title: State Senator
+  chamber: senate
+  district: "34"
+  party: Democratic
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/12-27-22_fernandez-hs.jpg?itok=0m96AhyY
+  phone: ""
+  email: fernandez@nysenate.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Nathalia-Fernandez
+  - https://ballotpedia.org/Nathalia_Fernandez
+  - https://en.wikipedia.org/wiki/Nathalia_Fernandez
+  - https://justfacts.votesmart.org/candidate/biography/179697/nathalia-fernandez
+  - https://www.linkedin.com/in/nathalia-fernandez-57301537
+  - https://www.nysenate.gov/senators/nathalia-fernandez
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-lucas-nikki
+  openstates_id: ocd-person/075a2bdd-9f2f-4160-bec6-dfa293da4c4e
+  full_name: Nikki Lucas
+  office_title: State Representative
+  chamber: house
+  district: "60"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/060/headshot/060.jpg?hst=1660073727
+  phone: ""
+  email: lucasn@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Nikki-Lucas
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Nikki-Lucas
+  - https://ballotpedia.org/Nikki_Lucas
+  - https://en.wikipedia.org/wiki/Nikki_Lucas
+  - https://justfacts.votesmart.org/candidate/201904/nikki-lucas
+  - https://nyassembly.gov/mem/Nikki-Lucas
+  - https://www.linkedin.com/in/nikki-lucas-11606350
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-rozic-nily
+  openstates_id: ocd-person/2dfa3301-d40b-4d1a-89c7-62a2b965bace
+  full_name: Nily Rozic
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/025/headshot/025.jpg?hst=1660073163
+  phone: ""
+  email: rozicn@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Nily-Rozic
+  - https://ballotpedia.org/Nily_Rozic
+  - https://en.wikipedia.org/wiki/Nily_Rozic
+  - https://justfacts.votesmart.org/candidate/biography/143120/nily-rozic
+  - https://nyassembly.gov/mem/Nily-Rozic
+  - https://www.linkedin.com/in/nily
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-burroughs-noah
+  openstates_id: ocd-person/43ad8195-7ba5-4b53-8365-383a737f0489
+  full_name: Noah Burroughs
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.villageofhempstead.org/ImageRepository/Document?documentID=14368
+  phone: ""
+  email: burroughsn@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Noah-Burroughs
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Noah_Burroughs
+  - https://en.wikipedia.org/wiki/Noah_Burroughs
+  - https://justfacts.votesmart.org/candidate/biography/217836/noah-burroughs
+  - https://nyassembly.gov/mem/Noah-Burroughs
+  - https://www.villageofhempstead.org/412/Trustee-Noah-Burroughs
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-helming-pam
+  openstates_id: ocd-person/fb2db4c8-a730-4fe7-b5e3-4d0156e46a1d
+  full_name: Pam Helming
+  office_title: State Senator
+  chamber: senate
+  district: "54"
+  party: Republican/Conservative/Independence
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/senator_helming_headshot_2022_1.jpg?itok=oitrgwih
+  phone: ""
+  email: helming@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pamela_Helming
+  - https://en.wikipedia.org/wiki/Pam_Helming
+  - https://justfacts.votesmart.org/candidate/biography/164544/pam-helming
+  - https://www.linkedin.com/in/pam-helming-8159a019
+  - https://www.nysenate.gov/senators/pamela-helming
+  - https://www.nysenate.gov/senators/pamela-helming/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-hunter-pamela
+  openstates_id: ocd-person/10fb37a0-e41f-4129-9ed2-7c5b674807da
+  full_name: Pamela Hunter
+  office_title: State Representative
+  chamber: house
+  district: "128"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/128/headshot/128.jpg?hst=1660074792
+  phone: ""
+  email: hunterp@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Pamela-J-Hunter
+  - https://ballotpedia.org/Pamela_Hunter
+  - https://en.wikipedia.org/wiki/Pamela_Hunter
+  - https://justfacts.votesmart.org/candidate/biography/133416/pam-hunter
+  - https://nyassembly.gov/mem/Pamela-J-Hunter
+  - https://www.linkedin.com/in/pamela-hunter-a5504515
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-chludzinski-pat
+  openstates_id: ocd-person/fe6635b5-8f6f-4bdb-ad2c-e68f53ed325b
+  full_name: Pat Chludzinski
+  office_title: State Representative
+  chamber: house
+  district: "143"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/892f79_39baff731e7e42719b93232045f0f29e~mv2.jpg/v1/fill/w_580,h_868,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/892f79_39baff731e7e42719b93232045f0f29e~mv2.jpg
+  phone: ""
+  email: chludzinskip@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Patrick-J-Chludzinski
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patrick_Chludzinski
+  - https://en.wikipedia.org/wiki/Patrick_Chludzinski
+  - https://justfacts.votesmart.org/candidate/217386/patrick-chludzinski
+  - https://nyassembly.gov/mem/Patrick-J-Chludzinski
+  - https://www.linkedin.com/in/patrick-chludzinski-0763a579
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-canzonerifitzpatrick-patricia
+  openstates_id: ocd-person/d04bd8aa-6178-419b-8738-a5f92141753a
+  full_name: Patricia Canzoneri-Fitzpatrick
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/canzoneri-fitzpatrick.jpg?itok=HCHxUy52
+  phone: ""
+  email: canzoneri@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/patricia-canzoneri-fitzpatrick
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patricia_Canzoneri-Fitzpatrick
+  - https://en.wikipedia.org/wiki/Patricia_Canzoneri-Fitzpatrick
+  - https://justfacts.votesmart.org/candidate/biography/192112/patricia-canzoneri-fitzpatrick
+  - https://www.nysenate.gov/senators/patricia-canzoneri-fitzpatrick
+  - https://www.patriciaforsenate.com/meet-patricia
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-fahy-pat
+  openstates_id: ocd-person/a3e0c7bc-45f6-4a6b-a092-1c124c149a6d
+  full_name: Pat Fahy
+  office_title: State Senator
+  chamber: senate
+  district: "46"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/109/headshot/109.jpg?hst=1660074584
+  phone: ""
+  email: fahy@nysenate.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Patricia-Fahy
+  - https://ballotpedia.org/Patricia_Fahy
+  - https://en.wikipedia.org/wiki/Patricia_Fahy
+  - https://justfacts.votesmart.org/candidate/biography/143189/patricia-fahy
+  - https://nyassembly.gov/mem/Patricia-Fahy
+  - https://www.linkedin.com/in/patricia-fahy-83950727
+  - https://www.nysenate.gov/senators/patricia-fahy
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-burke-pat
+  openstates_id: ocd-person/85c8422b-5132-4147-bdfc-f1cdec6d4731
+  full_name: Pat Burke
+  office_title: State Representative
+  chamber: house
+  district: "142"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/142/headshot/142.jpg?hst=1660074954
+  phone: ""
+  email: burkep@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Pat-Burke
+  - https://assembly.state.ny.us/mem/Patrick-Burke
+  - https://assembly.state.ny.us/mem/Patrick-T-Burke
+  - https://ballotpedia.org/Patrick_Burke_(New_York)
+  - https://en.wikipedia.org/wiki/Patrick_B._Burke
+  - https://justfacts.votesmart.org/candidate/biography/163719/pat-burke
+  - https://nyassembly.gov/mem/Patrick-Burke
+  - https://www.linkedin.com/in/patrick-burke-79796a8
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-carroll-pat
+  openstates_id: ocd-person/04a87708-f68c-43ca-b892-fc987f4deb5a
+  full_name: Pat Carroll
+  office_title: State Representative
+  chamber: house
+  district: "96"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.clarkstown.gov/wp-content/uploads/2021/10/Patrick-Carroll.jpg
+  phone: ""
+  email: carrollp@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Patrick-J-Carroll
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patrick_Carroll_(New_York)
+  - https://en.wikipedia.org/wiki/Patrick_Carroll_(New_York_politician)
+  - https://justfacts.votesmart.org/candidate/218028/patrick-carroll
+  - https://nyassembly.gov/mem/Patrick-J-Carroll
+  - https://www.linkedin.com/in/patrick-j-carroll-3921159
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-gallivan-patrick
+  openstates_id: ocd-person/531f1b36-a809-496b-beb8-ba3cd0bc0c53
+  full_name: Patrick Gallivan
+  office_title: State Senator
+  chamber: senate
+  district: "60"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/09-15-16_gallivan-hs-012a.jpg?itok=6Ayxm7iL
+  phone: ""
+  email: gallivan@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patrick_Gallivan
+  - https://en.wikipedia.org/wiki/Patrick_M._Gallivan
+  - https://justfacts.votesmart.org/candidate/biography/127657/patrick-gallivan
+  - https://www.linkedin.com/in/patrick-gallivan-66b0ba10
+  - https://www.nysenate.gov/senators/patrick-m-gallivan
+  - https://www.nysenate.gov/senators/patrick-m-gallivan/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-bologna-paul
+  openstates_id: ocd-person/4a510afe-84a6-4b0c-ac8d-13bebadfff78
+  full_name: Paul Bologna
+  office_title: State Representative
+  chamber: house
+  district: "144"
+  party: Republican/Conservative
+  status: active
+  photo_url: ""
+  phone: ""
+  email: bolognap@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Paul-A-Bologna
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Bologna
+  - https://en.wikipedia.org/wiki/Paul_Bologna
+  - https://justfacts.votesmart.org/candidate/220654/paul-bologna
+  - https://nyassembly.gov/mem/Paul-A-Bologna
+  - https://www.linkedin.com/in/paul-bologna-ba4a5748
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-kay-paula
+  openstates_id: ocd-person/ef4d73c0-2772-42ce-bc8b-407abf745f27
+  full_name: Paula Kay
+  office_title: State Representative
+  chamber: house
+  district: "100"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Rebecca_Gatto_20240808_100808.jpg
+  phone: ""
+  email: kayp@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Paula-Elaine-Kay
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paula_Kay
+  - https://en.wikipedia.org/wiki/Paula_Kay
+  - https://justfacts.votesmart.org/candidate/216765/paula-kay
+  - https://nyassembly.gov/mem/Paula-Elaine-Kay
+  - https://www.linkedin.com/in/paula-elaine-kay-93078910
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-harckham-pete
+  openstates_id: ocd-person/ee71493b-ee0d-43ac-bac5-c7dde6a0ef1c
+  full_name: Pete Harckham
+  office_title: State Senator
+  chamber: senate
+  district: "40"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/good_harckham_headshot_0.jpg?itok=gnA8L0jv
+  phone: ""
+  email: harckham@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Peter_Harckham
+  - https://en.wikipedia.org/wiki/Peter_Harckham
+  - https://justfacts.votesmart.org/candidate/biography/107594/pete-harckham
+  - https://www.nysenate.gov/senators/pete-harckham
+  - https://www.nysenate.gov/senators/pete-harckham/contact
+  - https://www.nysenate.gov/senators/peter-harckham/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-oberacker-peter
+  openstates_id: ocd-person/fe80b36a-56ba-49d6-a14c-05f35ba6f610
+  full_name: Peter Oberacker
+  office_title: State Senator
+  chamber: senate
+  district: "51"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/sen_oberacker_hs_square.jpeg?itok=GEcwHkc9
+  phone: ""
+  email: oberacker@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Peter_Oberacker
+  - https://en.wikipedia.org/wiki/Peter_Oberacker
+  - https://justfacts.votesmart.org/candidate/biography/175984/peter-oberacker
+  - https://www.linkedin.com/in/peter-oberacker-jr-3336a278
+  - https://www.nysenate.gov/senators/peter-oberacker
+  - https://www.nysenate.gov/senators/peter-oberacker/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-forrest-phara
+  openstates_id: ocd-person/8683c8ab-0d6c-471f-9259-a1b506109912
+  full_name: Phara Souffrant Forrest
+  office_title: State Representative
+  chamber: house
+  district: "57"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/057/headshot/057.jpg?hst=1660073678
+  phone: ""
+  email: souffrantforrestp@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Phara-Souffrant-Forrest
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Phara-Souffrant-Forrest
+  - https://ballotpedia.org/Phara_Souffrant_Forrest
+  - https://en.wikipedia.org/wiki/Phara_Souffrant_Forrest
+  - https://justfacts.votesmart.org/candidate/192219/phara-forrest
+  - https://nyassembly.gov/mem/Phara-Souffrant-Forrest
+  - https://www.linkedin.com/in/phara-souffrant-forrest-63580032
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-ramos-phil
+  openstates_id: ocd-person/efcd9b6f-4657-41aa-94a1-9b048c7043cf
+  full_name: Phil Ramos
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/006/headshot/006.jpg?hst=1660072681
+  phone: ""
+  email: ramosp@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Phil-Ramos
+  - https://ballotpedia.org/Philip_Ramos
+  - https://en.wikipedia.org/wiki/Philip_Ramos
+  - https://justfacts.votesmart.org/candidate/biography/44588/phil-ramos
+  - https://nyassembly.gov/mem/phil-ramos
+  - https://www.linkedin.com/in/phil-ramos-a226b215
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-steck-phil
+  openstates_id: ocd-person/968287e2-d20f-4e07-9f66-5765ca51b475
+  full_name: Phil Steck
+  office_title: State Representative
+  chamber: house
+  district: "110"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/110/headshot/110.jpg?hst=1660074591
+  phone: ""
+  email: steckp@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Phil-Steck
+  - https://ballotpedia.org/Phil_Steck
+  - https://en.wikipedia.org/wiki/Phillip_Steck
+  - https://justfacts.votesmart.org/candidate/biography/91186/phillip-steck
+  - https://nyassembly.gov/mem/Phil-Steck
+  - https://steckforassembly.com
+  - https://steckforassembly.com/about
+  - https://www.linkedin.com/in/phillipsteck
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-palmesano-phil
+  openstates_id: ocd-person/ea41f6b0-3275-4384-9425-c87f8a115da3
+  full_name: Phil Palmesano
+  office_title: State Representative
+  chamber: house
+  district: "132"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/132/headshot/132.jpg?hst=1660074839
+  phone: ""
+  email: palmesanop@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Philip-A-Palmesano
+  - https://ballotpedia.org/Philip_Palmesano
+  - https://en.wikipedia.org/wiki/Phil_Palmesano
+  - https://justfacts.votesmart.org/candidate/biography/127669/phil-palmesano
+  - https://nyassembly.gov/mem/philip-a-palmesano
+  - https://www.linkedin.com/in/phil-palmesano-90b9455
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-may-rachel
+  openstates_id: ocd-person/92f3f397-dd30-4d35-95dc-6381a8d9dcd5
+  full_name: Rachel May
+  office_title: State Senator
+  chamber: senate
+  district: "48"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/may-2019portrait.jpg?itok=4i_QKFvz
+  phone: ""
+  email: may@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rachel_May
+  - https://en.wikipedia.org/wiki/Rachel_May
+  - https://www.linkedin.com/in/rachel-may-4832198
+  - https://www.nysenate.gov/senators/rachel-may
+  - https://www.nysenate.gov/senators/rachel-may/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-kassay-rebecca
+  openstates_id: ocd-person/9cd7610d-b220-4443-991d-83c4c5e1f55b
+  full_name: Rebecca Kassay
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/RebeccaKassay2024.jpg
+  phone: ""
+  email: kassayr@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Rebecca-Kassay
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rebecca_Kassay
+  - https://en.wikipedia.org/wiki/Rebecca_Kassay
+  - https://justfacts.votesmart.org/candidate/biography/216735/rebecca-kassay
+  - https://nyassembly.gov/mem/Rebecca-Kassay
+  - https://www.linkedin.com/in/rebeccakassay
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-seawright-rebecca
+  openstates_id: ocd-person/78e9f465-ad6d-4067-a2df-1e2ddb34c860
+  full_name: Rebecca Seawright
+  office_title: State Representative
+  chamber: house
+  district: "76"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/076/headshot/076.jpg?hst=1660073966
+  phone: ""
+  email: seawrightr@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Rebecca-A-Seawright
+  - https://ballotpedia.org/Rebecca_Seawright
+  - https://en.wikipedia.org/wiki/Rebecca_Seawright
+  - https://justfacts.votesmart.org/candidate/biography/155422/rebecca-seawright
+  - https://nyassembly.gov/mem/Rebecca-A-Seawright
+  - https://www.linkedin.com/in/rebecca-seawright-811943137
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-carroll-robert
+  openstates_id: ocd-person/a0a7d4b0-2624-4560-8129-dbca30c4d4a1
+  full_name: Robert Carroll
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/044/headshot/044.jpg?hst=1672953348
+  phone: ""
+  email: carrollr@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Robert-C-Carroll
+  - https://ballotpedia.org/Robert_C._Carroll
+  - https://en.wikipedia.org/wiki/Robert_Carroll_(American_politician)
+  - https://justfacts.votesmart.org/candidate/biography/175045/robert-carroll
+  - https://nyassembly.gov/mem/Robert-C-Carroll
+  - https://www.linkedin.com/in/robert-carroll-894974b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-ortt-rob
+  openstates_id: ocd-person/3aaaa058-953f-4fd2-b905-af6bc8d3fca3
+  full_name: Rob Ortt
+  office_title: State Senator
+  chamber: senate
+  district: "62"
+  party: Republican/Conservative/Independence
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/62-2019-bio.jpg?itok=-buQ_zqu
+  phone: ""
+  email: ortt@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Ortt
+  - https://en.wikipedia.org/wiki/Robert_Ortt
+  - https://justfacts.votesmart.org/candidate/biography/155558/robert-ortt
+  - https://www.linkedin.com/in/robertortt
+  - https://www.nysenate.gov/senators/robert-g-ortt
+  - https://www.nysenate.gov/senators/robert-g-ortt/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-jackson-robert
+  openstates_id: ocd-person/3da548b5-8a96-4dbf-9bf8-da3755d6caa3
+  full_name: Robert Jackson
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/01-03-19jackson-hs-048_2.jpg?itok=OXbnwl-9
+  phone: ""
+  email: jackson@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Jackson_(New_York)
+  - https://en.wikipedia.org/wiki/Robert_Jackson_(New_York_politician)
+  - https://justfacts.votesmart.org/candidate/biography/44949/robert-jackson
+  - https://www.linkedin.com/in/robert-jackson-3b45a462
+  - https://www.nysenate.gov/senators/robert-jackson
+  - https://www.nysenate.gov/senators/robert-jackson/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-rolison-rob
+  openstates_id: ocd-person/68cdb041-2986-42dc-a2fd-2b9d6c668665
+  full_name: Rob Rolison
+  office_title: State Senator
+  chamber: senate
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/rgr_official_headshot_001_0.jpg?itok=C62GWztm
+  phone: ""
+  email: rolison@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/rob-rolison
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Rolison
+  - https://en.wikipedia.org/wiki/Robert_Rolison
+  - https://justfacts.votesmart.org/candidate/biography/91651/rob-rolison
+  - https://www.linkedin.com/in/robert-rolison-8b361825
+  - https://www.nysenate.gov/senators/rob-rolison
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-smullen-robert
+  openstates_id: ocd-person/1aed07cb-5108-40a1-a845-93f6848062dc
+  full_name: Robert Smullen
+  office_title: State Representative
+  chamber: house
+  district: "118"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/118/headshot/118.jpg?hst=1660074686
+  phone: ""
+  email: smullenr@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Robert-Smullen
+  - https://ballotpedia.org/Robert_Smullen
+  - https://en.wikipedia.org/wiki/Robert_Smullen
+  - https://justfacts.votesmart.org/candidate/biography/185062/robert-smullen
+  - https://nyassembly.gov/mem/Robert-Smullen
+  - https://www.linkedin.com/in/robertsmullen
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-hermelyn-rodneyse
+  openstates_id: ocd-person/b2811e4c-0b05-4775-a778-0539d22f1a6c
+  full_name: Rodneyse Bichotte Hermelyn
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/042/headshot/042.jpg?hst=1660073454
+  phone: ""
+  email: bichotter@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Rodneyse-Bichotte
+  - https://assembly.state.ny.us/mem/Rodneyse-Bichotte-Hermelyn
+  - https://ballotpedia.org/Rodneyse_Bichotte
+  - https://en.wikipedia.org/wiki/Rodneyse_Bichotte
+  - https://justfacts.votesmart.org/candidate/biography/143130/rodneyse-bichotte-hermelyn
+  - https://nyassembly.gov/mem/Rodneyse-Bichotte-Hermelyn
+  - https://www.linkedin.com/in/bichotte
+  - https://www.linkedin.com/in/votebichotte
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-kim-ron
+  openstates_id: ocd-person/f8732ad5-c692-4bab-bbaa-fb772a031a5d
+  full_name: Ron Kim
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/040/headshot/040.jpg?hst=1660073405
+  phone: ""
+  email: kimr@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Ron-Kim
+  - https://ballotpedia.org/Ron_Kim_(New_York_assemblyman)
+  - https://en.wikipedia.org/wiki/Ron_Kim_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/112376/ron-kim
+  - https://nyassembly.gov/mem/Ron-Kim
+  - https://www.linkedin.com/in/ronkim
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-persaud-roxanne
+  openstates_id: ocd-person/aa80fb3b-9add-463b-bfba-fe51e3409212
+  full_name: Roxanne Persaud
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/03-21-17_persaud_hs-018.jpg?itok=ALiZNeZt
+  phone: ""
+  email: persaud@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Roxanne_Persaud
+  - https://en.wikipedia.org/wiki/Roxanne_Persaud
+  - https://justfacts.votesmart.org/candidate/biography/155565/roxanne-persaud
+  - https://www.linkedin.com/in/roxannepersaud
+  - https://www.nysenate.gov/senators/roxanne-j-persaud
+  - https://www.nysenate.gov/senators/roxanne-j-persaud/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-berger-sam
+  openstates_id: ocd-person/4d3e092b-0cef-41ca-89a0-e73e1f9fda01
+  full_name: Sam Berger
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/027/headshot/027.jpg?hst=1695676852
+  phone: ""
+  email: bergers@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Sam-Berger
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Sam-Berger
+  - https://ballotpedia.org/Sam_Berger
+  - https://en.wikipedia.org/wiki/Sam_Berger_(New_York_politician)
+  - https://justfacts.votesmart.org/candidate/biography/212633/sam-berger
+  - https://nyassembly.gov/mem/Sam-Berger
+  - https://www.linkedin.com/in/sam-berger-088b5637a
+  - https://www.linkedin.com/in/sam-berger-74715020a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-pirozzolo-sam
+  openstates_id: ocd-person/ec764287-6c45-40e2-929d-383838a4c4c7
+  full_name: Sam Pirozzolo
+  office_title: State Representative
+  chamber: house
+  district: "63"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/063/headshot/063.jpg?hst=1672573792
+  phone: ""
+  email: pirozzolos@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Sam-Pirozzolo
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Sam-Pirozzolo
+  - https://ballotpedia.org/Samuel_T._Pirozzolo
+  - https://en.wikipedia.org/wiki/Sam_Pirozzolo
+  - https://justfacts.votesmart.org/candidate/143157/samuel-pirozzolo
+  - https://nyassembly.gov/mem/Sam-Pirozzolo
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-sutton-sam
+  openstates_id: ocd-person/f56ef763-1f12-493d-a4e6-30e5572417e0
+  full_name: Sam Sutton
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: https://cdn.cityandstateny.com/media/img/cd/2025/05/20/Sam_Sutton-1/860x394.jpg?1747765149
+  phone: ""
+  email: sutton@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/sam-sutton
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sam_Sutton
+  - https://en.wikipedia.org/wiki/Sam_Sutton_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/223234/sam-sutton
+  - https://www.nysenate.gov/senators/sam-sutton
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-brouk-samra
+  openstates_id: ocd-person/f1914b1e-ae9f-4b37-a12a-418b8618b98b
+  full_name: Samra Brouk
+  office_title: State Senator
+  chamber: senate
+  district: "55"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/brouk2023hs.jpg?itok=Y9a9shjq
+  phone: ""
+  email: brouk@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Samra_Brouk
+  - https://en.wikipedia.org/wiki/Samra_Brouk
+  - https://justfacts.votesmart.org/candidate/biography/191976/samra-brouk
+  - https://www.linkedin.com/in/samrabrouk
+  - https://www.nysenate.gov/senators/samra-g-brouk
+  - https://www.nysenate.gov/senators/samra-g-brouk/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-clark-sarah
+  openstates_id: ocd-person/fbb1dc03-2c64-431f-9aeb-6ee54c1c8ac6
+  full_name: Sarah Clark
+  office_title: State Representative
+  chamber: house
+  district: "136"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/136/headshot/136.jpg?hst=1660074877
+  phone: ""
+  email: clarks@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Sarah-Clark
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Sarah-Clark
+  - https://ballotpedia.org/Sarah_Clark_(New_York)
+  - https://en.wikipedia.org/wiki/Sarah_Clark_(politician)
+  - https://justfacts.votesmart.org/candidate/192290/sarah-clark
+  - https://nyassembly.gov/mem/Sarah-Clark
+  - https://www.linkedin.com/in/sarah-clark-26688610
+  - https://www.linkedin.com/in/sarah-hart-clark-a0347511
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-shrestha-sarahana
+  openstates_id: ocd-person/01fc9264-bdd4-4259-9e51-dbf2c888b285
+  full_name: Sarahana Shrestha
+  office_title: State Representative
+  chamber: house
+  district: "103"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/103/headshot/103.jpg?hst=1672577142
+  phone: ""
+  email: shresthas@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Sarahana-Shrestha
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Sarahana-Shrestha
+  - https://ballotpedia.org/Sarahana_Shrestha
+  - https://en.wikipedia.org/wiki/Sarahana_Shrestha
+  - https://justfacts.votesmart.org/candidate/206043/sarahana-shrestha
+  - https://nyassembly.gov/mem/Sarahana-Shrestha
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-bendett-scott
+  openstates_id: ocd-person/0ff06e12-5768-4c75-8d06-8e033796a78a
+  full_name: Scott Bendett
+  office_title: State Representative
+  chamber: house
+  district: "107"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/107/headshot/107.jpg?hst=1672572327
+  phone: ""
+  email: bendetts@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Scott-Bendett
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Scott-Bendett
+  - https://ballotpedia.org/Scott_Bendett
+  - https://nyassembly.gov/mem/Scott-Bendett
+  - https://www.linkedin.com/in/scott-bendett-a7556b15
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-gray-scott
+  openstates_id: ocd-person/556d38b7-19bd-491e-aa78-ac9bc94bc431
+  full_name: Scott Gray
+  office_title: State Representative
+  chamber: house
+  district: "116"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/116/headshot/116.jpg?hst=1672565401
+  phone: ""
+  email: grays@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Scott-Gray
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Scott-Gray
+  - https://ballotpedia.org/Scott_Gray
+  - https://en.wikipedia.org/wiki/Scott_Gray_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/91705/scott-gray
+  - https://nyassembly.gov/mem/Scott-Gray
+  - https://www.linkedin.com/in/scott-gray-290223213
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-mayer-shelley
+  openstates_id: ocd-person/a9b13089-77fc-4e9d-a9e4-35933ea903a0
+  full_name: Shelley Mayer
+  office_title: State Senator
+  chamber: senate
+  district: "37"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/senators-committee-160-photo-thumbsd37sm.jpg?itok=GVLoEXUn
+  phone: ""
+  email: smayer@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shelley_Mayer
+  - https://en.wikipedia.org/wiki/Shelley_Mayer
+  - https://justfacts.votesmart.org/candidate/biography/143182/shelley-mayer
+  - https://www.linkedin.com/in/shelley-mayer-739b1428
+  - https://www.nysenate.gov/senators/shelley-b-mayer
+  - https://www.nysenate.gov/senators/shelley-b-mayer/contact
+  - https://www.nysenate.gov/senators/shelley-mayer/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-bynoe-siela
+  openstates_id: ocd-person/ee6af720-d32a-4744-a62c-deba9747d733
+  full_name: Siela Bynoe
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: https://www.nassaucountyny.gov/ImageRepository/Document?documentID=9396
+  phone: ""
+  email: bynoe@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/siela-bynoe
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Siela_Bynoe
+  - https://en.wikipedia.org/wiki/Siela_Bynoe
+  - https://justfacts.votesmart.org/candidate/biography/164107/siela-bynoe
+  - https://www.nysenate.gov/senators/siela-bynoe
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-eichenstein-simcha
+  openstates_id: ocd-person/a7950377-6f32-4fdf-b4a5-e9729bc5d842
+  full_name: Simcha Eichenstein
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/048/headshot/048.jpg?hst=1660073541
+  phone: ""
+  email: eichensteins@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Simcha-Eichenstein
+  - https://ballotpedia.org/Simcha_Eichenstein
+  - https://en.wikipedia.org/wiki/Simcha_Eichenstein
+  - https://justfacts.votesmart.org/candidate/biography/185180/simcha-eichenstein
+  - https://nyassembly.gov/mem/Simcha-Eichenstein
+  - https://www.linkedin.com/in/seichenstein
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-amato-stacey
+  openstates_id: ocd-person/b4246863-b244-4d37-acae-0600d4b429b4
+  full_name: Stacey Pheffer Amato
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/023/headshot/023.jpg?hst=1660073108
+  phone: ""
+  email: amatos@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Stacey-Pheffer-Amato
+  - https://ballotpedia.org/Stacey_G._Pheffer_Amato
+  - https://en.wikipedia.org/wiki/Stacey_Pheffer_Amato
+  - https://justfacts.votesmart.org/candidate/biography/175028/stacey-pheffer-amato
+  - https://nyassembly.gov/mem/Stacey-Pheffer-Amato
+  - https://www.linkedin.com/in/stacey-pheffer-amato-99b4b220a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-zinerman-stefani
+  openstates_id: ocd-person/d4d53fcb-59b0-4869-bad8-42963b716e59
+  full_name: Stefani Zinerman
+  office_title: State Representative
+  chamber: house
+  district: "56"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/056/headshot/056.jpg?hst=1660073661
+  phone: ""
+  email: zinermans@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Stefani-Zinerman
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Stefani-Zinerman
+  - https://ballotpedia.org/Stefani_Zinerman
+  - https://en.wikipedia.org/wiki/Stefani_Zinerman
+  - https://justfacts.votesmart.org/candidate/192218/stefani-zinerman
+  - https://nyassembly.gov/mem/Stefani-Zinerman
+  - https://www.linkedin.com/in/stefani-zinerman-038042100
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-hawley-steve
+  openstates_id: ocd-person/fa5dc497-02d8-4810-bae4-4651b76f1597
+  full_name: Steve Hawley
+  office_title: State Representative
+  chamber: house
+  district: "139"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/139/headshot/139.jpg?hst=1660074922
+  phone: ""
+  email: hawleys@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Stephen-Hawley
+  - https://ballotpedia.org/Stephen_Hawley
+  - https://en.wikipedia.org/wiki/Stephen_Hawley
+  - https://justfacts.votesmart.org/candidate/biography/59388/steve-hawley
+  - https://nyassembly.gov/mem/stephen-hawley
+  - https://www.linkedin.com/in/steve-hawley-14142714
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-chan-steve
+  openstates_id: ocd-person/8a923d97-c689-4fb5-ac61-7b5e4ee950dd
+  full_name: Steve Chan
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Steve_Chan.png
+  phone: ""
+  email: chan@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/stephen-t-chan
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Chan
+  - https://en.wikipedia.org/wiki/Steve_Chan_(American_politician)
+  - https://justfacts.votesmart.org/candidate/biography/218015/stephen-chan
+  - https://www.linkedin.com/in/steven-chan-17748216
+  - https://www.nysenate.gov/senators/stephen-t-chan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-stern-steve
+  openstates_id: ocd-person/a6956643-33f7-4b99-bcfb-fd44f9d92481
+  full_name: Steve Stern
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/010/headshot/010.jpg?hst=1660072786
+  phone: ""
+  email: sterns@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Steve-Stern
+  - https://ballotpedia.org/Steve_Stern
+  - https://en.wikipedia.org/wiki/Steve_Stern_(politician)
+  - https://justfacts.votesmart.org/candidate/91488/steve-stern
+  - https://nyassembly.gov/mem/Steve-Stern
+  - https://www.linkedin.com/in/steven-stern-95442bb2
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-rhoads-steve
+  openstates_id: ocd-person/f7d38428-2656-4fb3-ac28-2455d5533a0b
+  full_name: Steve Rhoads
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/rhoads_headshot_2.jpg?itok=yLpr6nCr
+  phone: ""
+  email: rhoads@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators/steven-d-rhoads
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steven_Rhoads
+  - https://en.wikipedia.org/wiki/Steven_Rhoads
+  - https://justfacts.votesmart.org/candidate/biography/164089/steve-rhoads
+  - https://www.linkedin.com/in/steve-rhoads-04a6688
+  - https://www.nysenate.gov/senators/steven-d-rhoads
+  - https://www.nysenate.gov/senators/steven-d-rhoads/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-otis-steve
+  openstates_id: ocd-person/9a1eed19-c843-4853-bec1-aca4f7034a21
+  full_name: Steve Otis
+  office_title: State Representative
+  chamber: house
+  district: "91"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/091/headshot/091.jpg?hst=1661545963
+  phone: ""
+  email: otiss@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Steven-Otis
+  - https://ballotpedia.org/Steven_Otis
+  - https://en.wikipedia.org/wiki/Steven_Otis
+  - https://justfacts.votesmart.org/candidate/biography/143183/steve-otis
+  - https://nyassembly.gov/mem/Steven-Otis
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-raga-steven
+  openstates_id: ocd-person/b3a5dc39-1c55-48b7-986c-d36a3db0917e
+  full_name: Steven Raga
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/030/headshot/030.jpg?hst=1672571626
+  phone: ""
+  email: ragas@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Steven-Raga
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Steven-Raga
+  - https://ballotpedia.org/Steven_Raga
+  - https://en.wikipedia.org/wiki/Steven_Raga
+  - https://justfacts.votesmart.org/candidate/biography/207481/steven-raga
+  - https://nyassembly.gov/mem/Steven-Raga
+  - https://stevenraga.wordpress.com
+  - https://stevenraga.wordpress.com/bio
+  - https://www.linkedin.com/in/stevenraga
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-omara-tom
+  openstates_id: ocd-person/c7aec173-278b-4fe6-9237-7c8b751cda1e
+  full_name: Tom O'Mara
+  office_title: State Senator
+  chamber: senate
+  district: "58"
+  party: Republican/Conservative
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/02-10-15_official_hs_omara-hs-040_0.jpg?itok=0S6A6rmV
+  phone: ""
+  email: omara@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Thomas_O%27Mara
+  - https://en.wikipedia.org/wiki/Tom_O%27Mara
+  - https://justfacts.votesmart.org/candidate/biography/44804/thomas-omara
+  - https://www.linkedin.com/in/thomas-f-o-mara-13196820
+  - https://www.nysenate.gov/senators/thomas-f-omara
+  - https://www.nysenate.gov/senators/thomas-f-omara/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-stavisky-toby
+  openstates_id: ocd-person/3d51aca8-81d1-4f3e-8cef-47c999626a9a
+  full_name: Toby Stavisky
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2802-09-09%29%20Stavisky-HS-034-ret.jpg?itok=7GY17zRh
+  phone: ""
+  email: stavisky@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Toby_Ann_Stavisky
+  - https://en.wikipedia.org/wiki/Toby_Ann_Stavisky
+  - https://www.nysenate.gov/senators/toby-ann-stavisky
+  - https://www.nysenate.gov/senators/toby-ann-stavisky/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-schiavoni-tommy
+  openstates_id: ocd-person/60b6c2ff-a1ce-46a1-b484-affd805bc297
+  full_name: Tommy John Schiavoni
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Democratic/Working Families
+  status: active
+  photo_url: https://www.southamptontownny.gov/ImageRepository/Document?documentID=19829
+  phone: ""
+  email: schiavonitj@nyassembly.gov
+  address: ""
+  official_website: https://nyassembly.gov/mem/Tommy-John-Schiavoni
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Thomas_Schiavoni
+  - https://en.wikipedia.org/wiki/T._John_Schiavoni
+  - https://justfacts.votesmart.org/candidate/biography/192037/thomas-schiavoni
+  - https://nyassembly.gov/mem/Tommy-John-Schiavoni
+  - https://www.linkedin.com/in/tommy-john-schiavoni-127263160
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-simone-tony
+  openstates_id: ocd-person/83e08970-f529-4270-adcb-e15c660d8b7a
+  full_name: Tony Simone
+  office_title: State Representative
+  chamber: house
+  district: "75"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/075/headshot/075.jpg?hst=1672577505
+  phone: ""
+  email: simonet@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Tony-Simone
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Tony-Simone
+  - https://ballotpedia.org/Tony_Simone
+  - https://en.wikipedia.org/wiki/Tony_Simone
+  - https://justfacts.votesmart.org/candidate/biography/207526/tony-simone
+  - https://nyassembly.gov/mem/Tony-Simone
+  - https://www.linkedin.com/in/tonysimone
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-cook-vivian
+  openstates_id: ocd-person/96b77d8c-c15b-4881-b9c0-3f48cfd41572
+  full_name: Vivian Cook
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/032/headshot/032.jpg?hst=1660073288
+  phone: ""
+  email: cookv@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Vivian-E-Cook
+  - https://ballotpedia.org/Vivian_Cook
+  - https://en.wikipedia.org/wiki/Vivian_E._Cook
+  - https://justfacts.votesmart.org/candidate/biography/4294/vivian-cook
+  - https://nyassembly.gov/mem/vivian-e-cook
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-barclay-will
+  openstates_id: ocd-person/285393ce-64cc-4c07-88ac-79fe18e1fc6b
+  full_name: Will Barclay
+  office_title: State Representative
+  chamber: house
+  district: "120"
+  party: Republican
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/120/headshot/120.jpg?hst=1660074706
+  phone: ""
+  email: barclaw@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/William-A-Barclay
+  - https://ballotpedia.org/William_Barclay
+  - https://en.wikipedia.org/wiki/William_Barclay_(New_York_politician)
+  - https://justfacts.votesmart.org/candidate/44325/will-barclay
+  - https://nyassembly.gov/mem/william-a-barclay
+  - https://www.barclaydamon.com/profiles/William-A-Barclay
+  - https://www.linkedin.com/in/will-barclay-b23a5323
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-colton-william
+  openstates_id: ocd-person/664246f6-8749-4d3e-8b03-524dd4273b0a
+  full_name: William Colton
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/047/headshot/047.jpg?hst=1660073520
+  phone: ""
+  email: coltonw@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/William-Colton
+  - https://ballotpedia.org/William_Colton
+  - https://en.wikipedia.org/wiki/William_Colton
+  - https://justfacts.votesmart.org/candidate/15171/william-colton
+  - https://nyassembly.gov/mem/william-colton
+  - https://www.linkedin.com/in/william-colton-6bb261a7
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-conrad-bill
+  openstates_id: ocd-person/b03e8fcb-e9e1-4096-9483-654b3383341b
+  full_name: Bill Conrad
+  office_title: State Representative
+  chamber: house
+  district: "140"
+  party: Democratic/Independence/Working Families
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/140/headshot/140.jpg?hst=1660074930
+  phone: ""
+  email: conradw@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/William-Conrad
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/William-Conrad
+  - https://ballotpedia.org/William_Conrad_(New_York)
+  - https://en.wikipedia.org/wiki/William_Conrad_III
+  - https://justfacts.votesmart.org/candidate/174235/bill-conrad-iii
+  - https://nyassembly.gov/mem/William-Conrad
+  - https://www.linkedin.com/in/william-conrad-7aa10a6
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-magnarelli-bill
+  openstates_id: ocd-person/0507a521-7806-4d5c-ac7d-e50599bb32a6
+  full_name: Bill Magnarelli
+  office_title: State Representative
+  chamber: house
+  district: "129"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/129/headshot/129.jpg?hst=1660074804
+  phone: ""
+  email: magnarw@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/?sh=email
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/William-B-Magnarelli
+  - https://ballotpedia.org/William_Magnarelli
+  - https://en.wikipedia.org/wiki/William_Magnarelli
+  - https://justfacts.votesmart.org/candidate/biography/23183/bill-magnarelli
+  - https://nyassembly.gov/mem/william-b-magnarelli
+  - https://www.linkedin.com/in/william-magnarelli-9b40138a
+  - https://www.magnarelli.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-hou-tapia-yudelka
+  openstates_id: ocd-person/e924d52f-f944-4beb-9b67-bc243639a107
+  full_name: Yudelka Tapia
+  office_title: State Representative
+  chamber: house
+  district: "86"
+  party: Democratic
+  status: active
+  photo_url: https://assembly.state.ny.us/write/upload/member_files/086/headshot/086.jpg?hst=1660074111
+  phone: ""
+  email: tapiay@nyassembly.gov
+  address: ""
+  official_website: https://assembly.state.ny.us/mem/Yudelka-Tapia
+  twitter: ""
+  source_urls:
+  - https://assembly.state.ny.us/mem/Yudelka-Tapia
+  - https://ballotpedia.org/Yudelka_Tapia
+  - https://en.wikipedia.org/wiki/Yudelka_Tapia
+  - https://justfacts.votesmart.org/candidate/44371/yudelka-tapia
+  - https://nyassembly.gov/mem/Yudelka-Tapia
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ny-sen-myrie-zellnor
+  openstates_id: ocd-person/52c0e400-2385-4c12-8bf4-6b9205c18eb2
+  full_name: Zellnor Myrie
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://www.nysenate.gov/sites/default/files/styles/160x160/public/zmyriemainheadimage_0.jpg?itok=O2-EZTeD
+  phone: ""
+  email: myrie@nysenate.gov
+  address: ""
+  official_website: https://www.nysenate.gov/senators-committees
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Zellnor_Myrie
+  - https://en.wikipedia.org/wiki/Zellnor_Myrie
+  - https://justfacts.votesmart.org/candidate/biography/185086/zellnor-myrie
+  - https://www.linkedin.com/in/zellnor-y-myrie-506a5035
+  - https://www.nysenate.gov/senators/zellnor-myrie
+  - https://www.nysenate.gov/senators/zellnor-myrie/contact
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

@@ -1,0 +1,22 @@
+---
+title: "LaVon Bracy Davis"
+date: 2026-04-21T01:22:29Z
+draft: false
+type: "officials"
+
+official_id: "fl-sen-davis-lavon"
+full_name: "LaVon Bracy Davis"
+state: "florida"
+state_abbrev: "FL"
+office_title: "State Senator"
+chamber: "senate"
+district: "15"
+party: "Democratic"
+status: "active"
+official_website: "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4874&LegislativeTermId=90"
+email: "bracydavis.lavon.web@flsenate.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

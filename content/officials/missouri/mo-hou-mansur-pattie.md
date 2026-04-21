@@ -1,0 +1,22 @@
+---
+title: "Pattie Mansur"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "mo-hou-mansur-pattie"
+full_name: "Pattie Mansur"
+state: "missouri"
+state_abbrev: "MO"
+office_title: "State Representative"
+chamber: "house"
+district: "25"
+party: "Democratic"
+status: "active"
+official_website: "https://house.mo.gov/MemberDetails.aspx?district=025"
+email: "pattie.mansur@house.mo.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

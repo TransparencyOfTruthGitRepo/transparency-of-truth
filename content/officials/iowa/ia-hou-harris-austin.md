@@ -1,0 +1,22 @@
+---
+title: "Austin Harris"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "ia-hou-harris-austin"
+full_name: "Austin Harris"
+state: "iowa"
+state_abbrev: "IA"
+office_title: "State Representative"
+chamber: "house"
+district: "26"
+party: "Republican"
+status: "active"
+official_website: "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33971&ga=90"
+email: "austin.harris@legis.iowa.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

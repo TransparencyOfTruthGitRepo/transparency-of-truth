@@ -1,0 +1,22 @@
+---
+title: "Jane English"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "ar-sen-english-jane"
+full_name: "Jane English"
+state: "arkansas"
+state_abbrev: "AR"
+office_title: "State Senator"
+chamber: "senate"
+district: "13"
+party: "Republican"
+status: "active"
+official_website: "https://arkleg.state.ar.us/Legislators/Detail?member=J.+English"
+email: "jane.english@senate.ar.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

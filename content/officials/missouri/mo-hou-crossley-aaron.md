@@ -1,0 +1,22 @@
+---
+title: "Aaron Crossley"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "mo-hou-crossley-aaron"
+full_name: "Aaron Crossley"
+state: "missouri"
+state_abbrev: "MO"
+office_title: "State Representative"
+chamber: "house"
+district: "29"
+party: "Democratic"
+status: "active"
+official_website: "https://house.mo.gov/MemberDetails.aspx?district=29"
+email: "aaron.crossley@house.mo.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

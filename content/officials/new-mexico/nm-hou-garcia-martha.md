@@ -1,0 +1,22 @@
+---
+title: "Martha Garcia"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "nm-hou-garcia-martha"
+full_name: "Martha Garcia"
+state: "new-mexico"
+state_abbrev: "NM"
+office_title: "State Representative"
+chamber: "house"
+district: "6"
+party: "Democratic"
+status: "active"
+official_website: "https://www.nmlegis.gov/members/Legislator?SponCode=HGAMA"
+email: "martha.garcia@nmlegis.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

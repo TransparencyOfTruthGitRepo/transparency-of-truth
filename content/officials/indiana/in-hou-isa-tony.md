@@ -1,0 +1,22 @@
+---
+title: "Tony Isa"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "in-hou-isa-tony"
+full_name: "Tony Isa"
+state: "indiana"
+state_abbrev: "IN"
+office_title: "State Representative"
+chamber: "house"
+district: "51"
+party: "Republican"
+status: "active"
+official_website: "https://iga.in.gov/legislative/2026/legislators/legislator_tony_isa_1"
+email: "h51@iga.in.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

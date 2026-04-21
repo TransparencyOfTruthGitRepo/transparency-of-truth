@@ -1,4 +1,1963 @@
 ﻿state: hawaii
 state_abbrev: HI
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: hi-hou-tam-adrian
+  openstates_id: ocd-person/0ce91900-de38-4ab2-a6fe-089b04b20b74
+  full_name: Adrian Tam
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Tam.jpg
+  phone: ""
+  email: reptam@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=132
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Adrian_Tam
+  - https://en.wikipedia.org/wiki/Adrian_Tam
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=132
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/adrian-tam-7552205a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-perruso-amy
+  openstates_id: ocd-person/cb860f85-2006-4d5b-b1a8-1c56c1def2d7
+  full_name: Amy Perruso
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Perruso.jpg
+  phone: ""
+  email: repperruso@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=perruso&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Amy_Perruso
+  - https://capitol.hawaii.gov/memberpage.aspx?member=perruso&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Amy_Perruso
+  - https://justfacts.votesmart.org/candidate/biography/172203/amy-perruso
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=109
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=109&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=109&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=perruso&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=perruso&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/amy-perruso-1a03a280
+  - https://www.representativeamyperruso.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-garrett-andrew
+  openstates_id: ocd-person/442e3aac-61ca-4efe-bbb8-716654554597
+  full_name: Andrew Garrett
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Garrett.jpg
+  phone: ""
+  email: repgarrett@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=256
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrew_Takuya_Garrett
+  - https://en.wikipedia.org/wiki/Andrew_Takuya_Garrett
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=256
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=256&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=256&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-mckelvey-angus
+  openstates_id: ocd-person/d31a4d99-d6f1-42f8-b902-b6bff3c667e8
+  full_name: Angus McKelvey
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/mckelvey.jpg
+  phone: ""
+  email: senmckelvey@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=mckelvey&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Angus_McKelvey
+  - https://capitol.hawaii.gov/memberpage.aspx?member=mckelvey&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Angus_McKelvey
+  - https://justfacts.votesmart.org/candidate/biography/67875/angus-mckelvey
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=241&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=241&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=mckelvey&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=mckelvey&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/angus-mckelvey-5573b318
+  - https://www.linkedin.com/in/angus-mckelvey-ba906023
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-elefante-brandon
+  openstates_id: ocd-person/22139704-8a26-4f4a-8a03-989990c21f37
+  full_name: Brandon Elefante
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/elefante.jpg
+  phone: ""
+  email: senelefante@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=229
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brandon_Elefante
+  - https://en.wikipedia.org/wiki/Brandon_Elefante
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=229
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=229&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=229&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/brandonelefante
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-awa-brenton
+  openstates_id: ocd-person/be1149eb-5b0c-48fb-b9f2-9bee875479cc
+  full_name: Brenton Awa
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/awa.jpg
+  phone: ""
+  email: senawa@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=225
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brenton_Awa
+  - https://en.wikipedia.org/wiki/Brenton_Awa
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=225
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=225&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-fukunaga-carol
+  openstates_id: ocd-person/ca85a087-4a1f-450b-9386-11c13eb8c280
+  full_name: Carol Fukunaga
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/fukunaga.jpg
+  phone: ""
+  email: senfukunaga@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=168&year=2023
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Carol_Fukunaga
+  - https://en.wikipedia.org/wiki/Carol_Fukunaga
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=168&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=168&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/carol-fukunaga-0890a818
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-lee-chris
+  openstates_id: ocd-person/3484e323-b1a2-4c41-ad9f-8153445f8cd4
+  full_name: Chris Lee
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/clee.jpg
+  phone: ""
+  email: senlee@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=clee&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Lee_(Hawaii)
+  - https://capitol.hawaii.gov/memberpage.aspx?member=clee&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Chris_Lee_(Hawaii_politician)
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=193
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=193&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=193&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=senclee&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=senclee&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-muraoka-chris
+  openstates_id: ocd-person/1a5995d1-114e-4e7e-a53f-d91017df2bc3
+  full_name: Chris Muraoka
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Republican
+  status: active
+  photo_url: https://assets.civicengine.com/uploads/candidate/headshot/827989/827989.jpg
+  phone: ""
+  email: repmuraoka@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=307
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Muraoka
+  - https://en.wikipedia.org/wiki/Chris_Muraoka
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=307
+  - https://www.linkedin.com/in/christopher-muraoka-72a813a3
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-todd-chris
+  openstates_id: ocd-person/6f62978c-5c1e-4a93-b182-caa7b97d45e0
+  full_name: Chris Todd
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Todd.jpg
+  phone: ""
+  email: reptodd@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=todd&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Todd_(Hawaii)
+  - https://capitol.hawaii.gov/memberpage.aspx?member=todd&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Chris_Toshiro_Todd
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=137
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=137&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=137&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=todd&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=todd&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/chris-toshiro-todd-68059162
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-chun-cory
+  openstates_id: ocd-person/00c3bae0-1087-4a2f-bee8-af0fbd2c6cf6
+  full_name: Cory Chun
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Chun.jpg
+  phone: ""
+  email: repchun@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=252
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cory_Chun
+  - https://en.wikipedia.org/wiki/Cory_Chun
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=252
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=252&year=2023
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/cory-chun-2320515a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-hartsfield-daisy
+  openstates_id: ocd-person/801d5517-e486-41e4-8c3d-53528a3a8bef
+  full_name: Daisy Hartsfield
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: rephartsfield@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=310
+  twitter: ""
+  source_urls:
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=310
+  - https://www.linkedin.com/in/daisy-hartsfield-b88170b5
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-kila-darius
+  openstates_id: ocd-person/76c9a0ff-a9f0-47ac-bf3d-9f8ee134c411
+  full_name: Darius Kila
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Kila.jpg
+  phone: ""
+  email: repkila@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=266
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Darius_Kila
+  - https://en.wikipedia.org/wiki/Darius_Kila
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=266
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=266&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=266&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/darius-kila-629848b8
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-tarnas-david
+  openstates_id: ocd-person/fca91474-67f3-4b01-a985-6b0ddbfb2227
+  full_name: David Tarnas
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Tarnas.jpg
+  phone: ""
+  email: reptarnas@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=tarnas&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Tarnas
+  - https://capitol.hawaii.gov/memberpage.aspx?member=tarnas&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/David_Tarnas
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=135
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=135&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=135&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=tarnas&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=tarnas&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/david-tarnas-7021907
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-alcos-david
+  openstates_id: ocd-person/21e33d30-ecf0-431b-ad89-429f026efc24
+  full_name: David Alcos
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Alcos.jpg
+  phone: ""
+  email: repalcos@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=249
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Alcos
+  - https://en.wikipedia.org/wiki/David_Alcos
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=249
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=249&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=249&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/david-alcos-48908643
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-morikawa-dee
+  openstates_id: ocd-person/587a16dd-bb53-4164-829b-5e1703e06201
+  full_name: Dee Morikawa
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Morikawa.jpg
+  phone: ""
+  email: repmorikawa@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=morikawa&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dee_Morikawa
+  - https://capitol.hawaii.gov/memberpage.aspx?member=morikawa&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Dee_Morikawa
+  - https://justfacts.votesmart.org/candidate/biography/127591/dee-morikawa
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=96
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=96&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=96&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=morikawa&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=morikawa&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/dee-morikawa-541b1133
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-belatti-della
+  openstates_id: ocd-person/b3a0c91b-d6fd-4a54-9a34-2ba48cc53984
+  full_name: Della Belatti
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Belatti.jpg
+  phone: ""
+  email: repbelatti@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=belatti&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Della_Au_Belatti
+  - https://capitol.hawaii.gov/memberpage.aspx?member=belatti&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Della_Au_Belatti
+  - https://justfacts.votesmart.org/candidate/biography/67629/della-belatti
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=7
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=7&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=7&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=belatti&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=belatti&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/della-au-belatti-2150b24
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-garcia-diamond
+  openstates_id: ocd-person/810a94e5-8524-4de9-bdf2-2e0d6c64b7f2
+  full_name: Diamond Garcia
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Garcia.jpg
+  phone: ""
+  email: repgarcia@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=255
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Diamond_Garcia
+  - https://en.wikipedia.org/wiki/Diamond_Garcia
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=255
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=255&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=255&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/diamond-garcia-95b40682
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-kim-donna
+  openstates_id: ocd-person/f196e943-c8d6-4a35-96c2-252171c6529a
+  full_name: Donna Kim
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/kim.jpg
+  phone: ""
+  email: senkim@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=kim&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Donna_Kim
+  - https://capitol.hawaii.gov/memberpage.aspx?member=kim&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=S
+  - https://en.wikipedia.org/wiki/Donna_Mercado_Kim
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=189&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=189&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=kim&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=kim&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/donna-kim-a2996799
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-cruz-donovan
+  openstates_id: ocd-person/0a9ef1d8-8fec-48f4-963c-50f39332cfa7
+  full_name: Donovan Dela Cruz
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/delacruz.jpg
+  phone: ""
+  email: sendelacruz@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=delacruz&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Donovan_Dela_Cruz
+  - https://capitol.hawaii.gov/memberpage.aspx?member=delacruz&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=S
+  - https://en.wikipedia.org/wiki/Donovan_Dela_Cruz
+  - https://justfacts.votesmart.org/candidate/biography/72213/donovan-dela-cruz
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=162&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=162&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=delacruz&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=delacruz&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/donovandelacruz
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-kanuha-dru
+  openstates_id: ocd-person/e75469cc-851a-4e63-9908-9e63b5215448
+  full_name: Dru Kanuha
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/kanuha.jpg
+  phone: ""
+  email: senkanuha@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=kanuha&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dru_Kanuha
+  - https://capitol.hawaii.gov/memberpage.aspx?member=kanuha&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=S
+  - https://en.wikipedia.org/wiki/Dru_Kanuha
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=184&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=184&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=kanuha&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=kanuha&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-pierick-elijah
+  openstates_id: ocd-person/313f96df-c94e-45d7-8cc6-19465ad40612
+  full_name: Elijah Pierick
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Pierick.jpg
+  phone: ""
+  email: reppierick@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=283
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elijah_Pierick
+  - https://en.wikipedia.org/wiki/Elijah_Pierick
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=283
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=283&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=283&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-cochran-elle
+  openstates_id: ocd-person/f7bd1cdd-c131-47eb-ab96-1a7c0599bfa7
+  full_name: Elle Cochran
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Cochran.jpg
+  phone: ""
+  email: repcochran@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=253
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elle_Cochran
+  - https://en.wikipedia.org/wiki/Elle_Cochran
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=253
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=253&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=253&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/elle-cochran-23061546
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-shimizu-garner
+  openstates_id: ocd-person/9019d5ea-bfe8-4cca-9254-7960319a15bc
+  full_name: Garner Shimizu
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUEhycIE3vAcgX_afwsIq8sAlJD9VW3SFAaNSI-Ey13ObCLFnj
+  phone: ""
+  email: repshimizu@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=306
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Garner_Musashi_Shimizu
+  - https://en.wikipedia.org/wiki/Garner_Shimizu
+  - https://justfacts.votesmart.org/candidate/biography/127615/garner-shimizu
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=306
+  - https://www.linkedin.com/in/garner-shimizu-7557025b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-wakai-glenn
+  openstates_id: ocd-person/5ef4a0ba-e9b0-4a62-9ac7-42d88308f3df
+  full_name: Glenn Wakai
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/wakai.jpg
+  phone: ""
+  email: senwakai@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=wakai&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Glenn_Wakai
+  - https://capitol.hawaii.gov/memberpage.aspx?member=wakai&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=S
+  - https://en.wikipedia.org/wiki/Glenn_Wakai
+  - https://justfacts.votesmart.org/candidate/biography/32272/glenn-wakai
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=217&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=217&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=wakai&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=wakai&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/glenn-wakai-7395a11b2
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-takayama-gregg
+  openstates_id: ocd-person/33584899-9773-4fa2-96aa-869a6da7cf19
+  full_name: Gregg Takayama
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Takayama.jpg
+  phone: ""
+  email: reptakayama@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=takayama&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gregg_Takayama
+  - https://capitol.hawaii.gov/memberpage.aspx?member=takayama&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Gregg_Takayama
+  - https://justfacts.votesmart.org/candidate/biography/140608/gregg-takayama
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=130
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=130&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=130&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=takayama&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=takayama&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/gregg-takayama-79a8a37
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-ilagan-greggor
+  openstates_id: ocd-person/d56e9f60-c26e-4437-90d7-4414957e737d
+  full_name: Greggor Ilagan
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Ilagan.jpg
+  phone: ""
+  email: repilagan@capitol.hawaii.gov
+  address: ""
+  official_website: https://repilagan.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Greggor_Ilagan
+  - https://en.wikipedia.org/wiki/Greggor_Ilagan
+  - https://justfacts.votesmart.org/candidate/157776/greggor-ilagan
+  - https://repilagan.com
+  - https://repilagan.com/
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=61
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=61&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=61&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=Ilagan&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=Ilagan&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/greggorilagan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-richards-tim
+  openstates_id: ocd-person/ff0ea974-b3aa-4261-aa1b-fa9cf74b3728
+  full_name: Tim Richards
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/richards.jpg
+  phone: ""
+  email: senrichards@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=244
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tim_Richards
+  - https://en.wikipedia.org/wiki/Tim_Richards_III
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=244
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=244&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=244&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-hussey-ikaika
+  openstates_id: ocd-person/2f96974d-decf-46e2-8aed-adf60e072e1e
+  full_name: Ikaika Hussey
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/IkaikaHussey2.jpeg
+  phone: ""
+  email: rephussey@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=302
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ikaika_Hussey
+  - https://ikaikahussey.com
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=302
+  - https://www.linkedin.com/in/ikaikahussey
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-olds-ikaika
+  openstates_id: ocd-person/c5582fc0-ff8a-4c69-85f9-efd464e1a482
+  full_name: Ikaika Olds
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ikaika_Olds_20240812_095944.jpeg
+  phone: ""
+  email: repolds@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=300
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ikaika_Olds
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=300
+  - https://www.linkedin.com/in/ikaika-olds-ms-6b4a63121
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-sayama-jackson
+  openstates_id: ocd-person/451d1a20-20d4-4c75-95b9-ca4ba6dd3d1d
+  full_name: Jackson Sayama
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Sayama.jpg
+  phone: ""
+  email: repsayama@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=120
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jackson_Sayama
+  - https://en.wikipedia.org/wiki/Jackson_Sayama
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=120
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=Sayama&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=Sayama&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/jackson-sayama-0b7456128
+  - https://www.repjacksonsayama.com
+  - https://www.repjacksonsayama.com/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-keohokalole-jarrett
+  openstates_id: ocd-person/07ed1559-820e-4ea1-803e-024ce5359a87
+  full_name: Jarrett Keohokalole
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/keohokalole.jpg
+  phone: ""
+  email: senkeohokalole@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=jkeohokalole&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jarrett_K._Keohokalole
+  - https://capitol.hawaii.gov/memberpage.aspx?member=jkeohokalole&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=S
+  - https://en.wikipedia.org/wiki/Jarrett_Keohokalole
+  - https://justfacts.votesmart.org/candidate/biography/153435/jarrett-keohokalole
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=187&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=187&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=jkeohokalole&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=jkeohokalole&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/jarrett-keohokalole-4332041a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-kapela-jeann
+  openstates_id: ocd-person/47a7e8c6-361d-4854-9253-e311b58d9e1c
+  full_name: Jeanné Kapela
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Kapela.jpg
+  phone: ""
+  email: repkapela@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=71
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeanne_Kapela
+  - https://en.wikipedia.org/wiki/Jeann%C3%A9_Kapela
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=71
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=71&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=71&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=Kapela&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=Kapela&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-takenouchi-jenna
+  openstates_id: ocd-person/928645f2-46ed-4153-ab60-5b7a8250dab3
+  full_name: Jenna Takenouchi
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Takenouchi.jpg
+  phone: ""
+  email: reptakenouchi@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=290
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jenna_Takenouchi
+  - https://en.wikipedia.org/wiki/Jenna_Takenouchi
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=290
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=290&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=290&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/jtakenouchi
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-gedeon-joe
+  openstates_id: ocd-person/06d54403-a57b-40f8-96a6-94b58f4b2a0c
+  full_name: Joe Gedeon
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: repgedeon@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=309
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_Gedeon
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=309
+  - https://www.linkedin.com/in/joegedeon
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-buenaventura-joy
+  openstates_id: ocd-person/cac74229-bacc-4358-8208-23cdac57d57c
+  full_name: Joy San Buenaventura
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/sanbuenaventura.jpg
+  phone: ""
+  email: sensanbuenaventura@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=Sanbuenaventura&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joy_A._San_Buenaventura
+  - https://capitol.hawaii.gov/memberpage.aspx?member=Sanbuenaventura&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Joy_San_Buenaventura
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=206&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=206&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=sanbuenaventura&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=sanbuenaventura&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/joy-san-buenaventura-hutson-72089a6
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-oda-julie
+  openstates_id: ocd-person/7d6cf0c1-16d4-4c56-bba5-a50c3c5c18ce
+  full_name: Julie Reyes Oda
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Republican
+  status: active
+  photo_url: https://i0.wp.com/thefilipinochronicle.com/wp-content/uploads/2024/07/Julie-Reyes-Oda-scaled.jpg?resize=733%2C1024&ssl=1
+  phone: ""
+  email: repreyesoda@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=304
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Julie_Reyes_Oda
+  - https://en.wikipedia.org/wiki/Julie_Reyes_Oda
+  - https://justfacts.votesmart.org/candidate/208491/julie-reyes-oda
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=304
+  - https://www.linkedin.com/in/julie-reyes-oda-28b7972
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-woodson-justin
+  openstates_id: ocd-person/5d9e6c9d-a94b-4ff6-9828-ed2ce8ceeab0
+  full_name: Justin Woodson
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Woodson.jpg
+  phone: ""
+  email: repwoodson@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=woodson&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Justin_Woodson
+  - https://capitol.hawaii.gov/memberpage.aspx?member=woodson&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Justin_Woodson
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=146
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=146&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=146&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=woodson&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=woodson&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-souza-kanani
+  openstates_id: ocd-person/207b309f-9e03-4834-85cb-083725f7a7ab
+  full_name: Kanani Souza
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Souza.jpg
+  phone: ""
+  email: repsouza@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=288
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kanani_Souza
+  - https://en.wikipedia.org/wiki/Kanani_Souza
+  - https://justfacts.votesmart.org/candidate/biography/193736/kanani-souza
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=288
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=288&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=288&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/kanani-souza-30a66567
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-rhoads-karl
+  openstates_id: ocd-person/099756de-3b84-4531-b5da-6d1c5d4c89ee
+  full_name: Karl Rhoads
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/rhoads.jpg
+  phone: ""
+  email: senrhoads@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=krhoads&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Karl_Rhoads
+  - https://capitol.hawaii.gov/memberpage.aspx?member=krhoads&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=S
+  - https://en.wikipedia.org/wiki/Karl_Rhoads
+  - https://justfacts.votesmart.org/candidate/biography/68516/karl-rhoads
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=201&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=201&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=krhoads&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=krhoads&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/karl-rhoads-28674b21
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-iwamoto-kim
+  openstates_id: ocd-person/824eca2b-d968-4807-a48b-7b3df400a904
+  full_name: Kim Coco Iwamoto
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: repiwamoto@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=301
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kim_Coco_Iwamoto
+  - https://en.wikipedia.org/wiki/Kim_Coco_Iwamoto
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=301
+  - https://www.linkedin.com/in/kimcocoiwamoto
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-kahaloa-kirstin
+  openstates_id: ocd-person/b6d9dda7-d2e1-443e-a19b-ee44ed891cad
+  full_name: Kirstin Kahaloa
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Kahaloa.jpg
+  phone: ""
+  email: repkahaloa@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=264
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kirstin_Kahaloa
+  - https://en.wikipedia.org/wiki/Kirstin_Kahaloa
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=264
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=264&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=264&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/kkahaloa
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-fevella-kurt
+  openstates_id: ocd-person/e6bafd21-a2de-41b8-8139-fcbf5ea94cf4
+  full_name: Kurt Fevella
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/fevella.jpg
+  phone: ""
+  email: senfevella@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=fevella&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kurt_Fevella
+  - https://capitol.hawaii.gov/memberpage.aspx?member=fevella&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=S
+  - https://en.wikipedia.org/wiki/Kurt_Fevella
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=166&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=166&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=fevella&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=fevella&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-yamashita-kyle
+  openstates_id: ocd-person/51f31e1a-2fe4-4029-b49c-c3affa0b848d
+  full_name: Kyle Yamashita
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Yamashita.jpg
+  phone: ""
+  email: repyamashita@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=yamashita&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kyle_Yamashita
+  - https://capitol.hawaii.gov/memberpage.aspx?member=yamashita&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Kyle_Yamashita
+  - https://justfacts.votesmart.org/candidate/biography/32333/kyle-yamashita
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=149
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=149&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=149&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=yamashita&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=yamashita&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-matsumoto-lauren
+  openstates_id: ocd-person/8562d0d7-9915-4559-98bc-ac9c456efd02
+  full_name: Lauren Matsumoto
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Republican
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Matsumoto.jpg
+  phone: ""
+  email: repmatsumoto@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=matsumoto&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lauren_Kealohilani_Matsumoto
+  - https://capitol.hawaii.gov/memberpage.aspx?member=matsumoto&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Lauren_Matsumoto
+  - https://repmatsumoto.com
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=90
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=90&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=90&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=matsumoto&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=matsumoto&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/lauren-cheape-matsumoto-50835960
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-ihara-les
+  openstates_id: ocd-person/94e42ecd-2e4d-4502-8b50-c1c6324617f1
+  full_name: Les Ihara
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/ihara.jpg
+  phone: ""
+  email: senihara@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=ihara&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Les_Ihara,_Jr.
+  - https://capitol.hawaii.gov/memberpage.aspx?member=ihara&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=S
+  - https://en.wikipedia.org/wiki/Les_Ihara_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/3392/les-ihara-jr
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=180&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=180&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=ihara&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=ihara&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/les-ihara-62822216
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-ichiyama-linda
+  openstates_id: ocd-person/546ef7bf-9015-4a09-b8d3-f37fd87ed97f
+  full_name: Linda Ichiyama
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Ichiyama.jpg
+  phone: ""
+  email: repichiyama@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=60
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Linda_Ichiyama
+  - https://en.wikipedia.org/wiki/Linda_Ichiyama
+  - https://justfacts.votesmart.org/candidate/biography/127612/linda-ichiyama
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=60
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=60&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=60&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-kitagawa-lisa
+  openstates_id: ocd-person/1d8bd1da-7126-4248-8a1e-dce56626b746
+  full_name: Lisa Kitagawa
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Kitagawa.jpg
+  phone: ""
+  email: repkitagawa@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=Kitagawa&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lisa_Kitagawa
+  - https://capitol.hawaii.gov/memberpage.aspx?member=Kitagawa&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Lisa_Kitagawa
+  - https://justfacts.votesmart.org/candidate/biography/183678/lisa-kitagawa
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=76
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=76&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=76&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=Kitagawa&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=Kitagawa&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/lisa-kitagawa-9220b1191
+  - https://www.repkitagawa.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-marten-lisa
+  openstates_id: ocd-person/c4ea2b48-612d-42f4-b396-6f13c86bfe5b
+  full_name: Lisa Marten
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Marten.jpg
+  phone: ""
+  email: repmarten@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=87
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lisa_Marten
+  - https://en.wikipedia.org/wiki/Lisa_Marten
+  - https://lisamarten.com/lisa-marten
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=87
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=87&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=87&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=Marten&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=Marten&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/lisa-marten-92b753146
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-inouye-lorraine
+  openstates_id: ocd-person/77991a5e-d7df-4282-b1cc-2398c56c18cc
+  full_name: Lorraine Inouye
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/inouye.jpg
+  phone: ""
+  email: seninouye@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=181&year=2023
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lorraine_Inouye
+  - https://en.wikipedia.org/wiki/Lorraine_Inouye
+  - https://justfacts.votesmart.org/candidate/biography/17855/lorraine-inouye
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=181&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=181&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/lorraine-inouye-57431916
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-evslin-luke
+  openstates_id: ocd-person/128214ae-53bd-4dfe-88e6-ad3a70c6a83d
+  full_name: Luke Evslin
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Evslin.jpg
+  phone: ""
+  email: repevslin@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=291
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Luke_A._Evslin_(Kauai_County_Council,_Hawaii,_candidate_2022)
+  - https://ballotpedia.org/Luke_Evslin
+  - https://en.wikipedia.org/wiki/Luke_Evslin
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=291
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=291&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=291&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/luke-evslin-812b0681
+  - https://www.lukeevslin.com/about
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-decoite-lynn
+  openstates_id: ocd-person/d76e8f2c-2e55-4d2a-94e4-c13cc0a9e5e2
+  full_name: Lynn DeCoite
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/decoite.jpg
+  phone: ""
+  email: sendecoite@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=decoite&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lynn_DeCoite
+  - https://capitol.hawaii.gov/memberpage.aspx?member=decoite&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Lynn_DeCoite
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=161&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=161&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=decoite&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=sendecoite&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=sendecoite&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/lynn-decoite-475ab12a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-poepoe-mahina
+  openstates_id: ocd-person/c6f087db-713b-43c2-b557-7306f62ee15c
+  full_name: Mahina Poepoe
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Poepoe.jpg
+  phone: ""
+  email: reppoepoe@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=284
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mahina_Poepoe
+  - https://en.wikipedia.org/wiki/Mahina_Poepoe
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=284
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=284&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=284&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/mahina-poepoe-7b1b6115a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-hashem-mark
+  openstates_id: ocd-person/f2d1de1a-c206-46f7-8c5f-a6193229642f
+  full_name: Mark Hashem
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Hashem.jpg
+  phone: ""
+  email: rephashem@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=hashem&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Hashem
+  - https://capitol.hawaii.gov/memberpage.aspx?member=hashem&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Mark_Hashem
+  - https://justfacts.votesmart.org/candidate/biography/127594/mark-hashem
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=55
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=55&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=55&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=hashem&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=hashem&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-kusch-matthias
+  openstates_id: ocd-person/fb23dd18-ee42-45da-9fc5-8379ced56c88
+  full_name: Matthias Kusch
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Democratic
+  status: active
+  photo_url: https://storage.googleapis.com/enview-public-general/legislative-people-photos/149765.jpg
+  phone: ""
+  email: repkusch@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=297
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matthias_Kusch
+  - https://en.wikipedia.org/wiki/Matthias_Kusch
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=297
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=297&year=2024
+  - https://www.linkedin.com/in/matthias-kusch-0b9a256
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-kidani-michelle
+  openstates_id: ocd-person/511d674b-1e98-4a1f-8af2-24f986a165d9
+  full_name: Michelle Kidani
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/kidani.jpg
+  phone: ""
+  email: senkidani@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=kidani&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michelle_Kidani
+  - https://capitol.hawaii.gov/memberpage.aspx?member=kidani&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=S
+  - https://en.wikipedia.org/wiki/Michelle_Kidani
+  - https://justfacts.votesmart.org/candidate/biography/109575/michelle-kidani
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=188&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=188&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=kidani&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=kidani&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/michelle-kidani-b9745b13
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-gabbard-mike
+  openstates_id: ocd-person/9f87e7d6-a307-45ab-b384-96a8599dab56
+  full_name: Mike Gabbard
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/gabbard.jpg
+  phone: ""
+  email: sengabbard@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=169
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Gabbard
+  - https://en.wikipedia.org/wiki/Mike_Gabbard
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=169
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=169&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=169&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/mikegabbard
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-lee-mike
+  openstates_id: ocd-person/12d661c2-2391-4504-973d-e905022d3134
+  full_name: Mike Lee
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/leemichael.jpg
+  phone: ""
+  email: replee@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=305
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Lee_(Hawaii)
+  - https://mikeleeforhawaii.com/meet-mike
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=305
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-nakamura-nadine
+  openstates_id: ocd-person/aa2e4b09-2c1e-4fa2-b135-7d2427dca5b4
+  full_name: Nadine Nakamura
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Nakamura.jpg
+  phone: ""
+  email: repnakamura@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=100
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nadine_Nakamura
+  - https://en.wikipedia.org/wiki/Nadine_Nakamura
+  - https://justfacts.votesmart.org/candidate/biography/129309/nadine-nakamura
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=100
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=100&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=100&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.repnakamura.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-lowen-nicole
+  openstates_id: ocd-person/43795702-8cb7-40a5-945d-80fca537e085
+  full_name: Nicole Lowen
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Lowen.jpg
+  phone: ""
+  email: replowen@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=lowen&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nicole_Lowen
+  - https://capitol.hawaii.gov/memberpage.aspx?member=lowen&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Nicole_Lowen
+  - https://justfacts.votesmart.org/candidate/biography/140578/nicole-lowen
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=83
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=83&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=83&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=lowen&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=lowen&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/nicole-lowen-5aab066a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-lamosao-rachele
+  openstates_id: ocd-person/19b5116e-d2b7-4f4b-8d7d-f4dfcbcbe1d6
+  full_name: Rachele Lamosao
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Lamosao.jpg
+  phone: ""
+  email: senlamosao@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=270
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rachele_Fernandez_Lamosao
+  - https://en.wikipedia.org/wiki/Rachele_Lamosao
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=270
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=270&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=270&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-kouchi-ron
+  openstates_id: ocd-person/3ca1b2e5-0c68-4be1-ba5b-b0d935b85e6f
+  full_name: Ron Kouchi
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/kouchi.jpg
+  phone: ""
+  email: senkouchi@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=kouchi&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ronald_Kouchi
+  - https://capitol.hawaii.gov/memberpage.aspx?member=kouchi&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=S
+  - https://en.wikipedia.org/wiki/Ron_Kouchi
+  - https://justfacts.votesmart.org/candidate/biography/85011/ronald-kouchi
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=192
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=192&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=192&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=kouchi&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=kouchi&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-kong-sam
+  openstates_id: ocd-person/cbf4fe33-42cf-41c2-b689-5e4c0ff150f6
+  full_name: Sam Kong
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Kong.jpg
+  phone: ""
+  email: repkong@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=kong&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sam_Kong
+  - https://capitol.hawaii.gov/memberpage.aspx?member=kong&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Sam_Saturo_Kong
+  - https://justfacts.votesmart.org/candidate/biography/127621/sam-kong
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=78
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=kong&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=kong&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/sam-kong-317212120
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-decorte-samantha
+  openstates_id: ocd-person/8a60db8b-b07f-45da-8169-46ddd043ce02
+  full_name: Samantha DeCorte
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123803.jpg
+  phone: ""
+  email: sendecorte@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=308
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Samantha_DeCorte
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=308
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=308&year=2024
+  - https://www.linkedin.com/in/samantha-decorte-96880245
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-matayoshi-scot
+  openstates_id: ocd-person/78cc3d2c-31b6-421f-a666-5a96ca3fe65a
+  full_name: Scot Matayoshi
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Matayoshi.jpg
+  phone: ""
+  email: repmatayoshi@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=Matayoshi&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scot_Matayoshi
+  - https://capitol.hawaii.gov/memberpage.aspx?member=Matayoshi&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Scot_Matayoshi
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=89
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=89&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=89&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=Matayoshi&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=Matayoshi&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.honolulu-lawyers.com/lawyers/scot-z-matayoshi
+  - https://www.linkedin.com/in/scot-matayoshi-4038ab24
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-quinlan-sean
+  openstates_id: ocd-person/078931f6-9caa-4ba0-9f53-2b27e13ed400
+  full_name: Sean Quinlan
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Quinlan.jpg
+  phone: ""
+  email: repquinlan@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=quinlan&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sean_Quinlan_(Hawaii)
+  - https://capitol.hawaii.gov/memberpage.aspx?member=quinlan&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Sean_Quinlan
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=112
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=112&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=112&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=quinlan&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=quinlan&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-moriwaki-sharon
+  openstates_id: ocd-person/7e04af29-c684-402f-a7b0-bdde0591197c
+  full_name: Sharon Moriwaki
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/moriwaki.jpg
+  phone: ""
+  email: senmoriwaki@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=moriwaki&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sharon_Moriwaki
+  - https://capitol.hawaii.gov/memberpage.aspx?member=moriwaki&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=S
+  - https://en.wikipedia.org/wiki/Sharon_Moriwaki
+  - https://justfacts.votesmart.org/candidate/biography/183622/sharon-moriwaki
+  - https://senatormoriwaki.com
+  - https://senatormoriwaki.com/
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=198&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=198&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=moriwaki&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=moriwaki&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-templo-shirley
+  openstates_id: ocd-person/58181d36-e194-462d-a3cb-b3ab7615fbf9
+  full_name: Shirley Templo
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Shirley_Ann_Templo.jpg
+  phone: ""
+  email: reptemplo@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=303
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shirley_Ann_Templo
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=303
+  - https://www.linkedin.com/in/shirley-templo-650ab158
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-chang-stanley
+  openstates_id: ocd-person/d6359473-e0b5-4040-8d7f-9d95a0518650
+  full_name: Stanley Chang
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/schang.jpg
+  phone: ""
+  email: senchang@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=chang&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stanley_Chang
+  - https://capitol.hawaii.gov/memberpage.aspx?member=chang&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=S
+  - https://en.wikipedia.org/wiki/Stanley_Chang
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=157&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=157&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=chang&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=chang&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/stanleypchang
+  - https://www.senatorchang.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-loy-sue
+  openstates_id: ocd-person/6311f34d-9611-42be-be12-017fcc0f7aa6
+  full_name: Sue Lee Loy
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/SusanLeeLoy2024.png
+  phone: ""
+  email: repleeloy@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=298
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Susan_Lee_Loy
+  - https://en.wikipedia.org/wiki/Sue_Lee_Loy
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=298
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-amato-terez
+  openstates_id: ocd-person/3c16b940-790f-43f2-946d-998b6177dc5a
+  full_name: Terez Amato
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Amato.jpg
+  phone: ""
+  email: repamato@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=250
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Terez_Amato
+  - https://en.wikipedia.org/wiki/Terez_Amato
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=250
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=250&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=250&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-grandinetti-tina
+  openstates_id: ocd-person/bce62096-6c4d-4923-8826-7f67a6aaf35d
+  full_name: Tina Grandinetti
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Anthony_Miranda_20240808_093602.jpg
+  phone: ""
+  email: repgrandinetti@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=299
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tina_Nakada_Grandinetti
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=299
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-chica-trish
+  openstates_id: ocd-person/9957f6f1-9231-45b3-940f-2122c1caf3f7
+  full_name: Trish La Chica
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/LaChica.jpg
+  phone: ""
+  email: replachica@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=292
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Trish_La_Chica
+  - https://en.wikipedia.org/wiki/Trish_La_Chica
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=292
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=292&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=292&year=2024
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/trishlachica
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-sen-hashimoto-troy
+  openstates_id: ocd-person/3b99a717-698f-4bcf-a630-183bb63e623e
+  full_name: Troy Hashimoto
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Hashimoto.jpg
+  phone: ""
+  email: senhashimoto@capitol.hawaii.gov
+  address: ""
+  official_website: https://capitol.hawaii.gov/memberpage.aspx?member=hashimoto&year=2019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Troy_Hashimoto
+  - https://capitol.hawaii.gov/memberpage.aspx?member=hashimoto&year=2019
+  - https://capitol.hawaii.gov/members/legislators.aspx?chamber=H
+  - https://en.wikipedia.org/wiki/Troy_Hashimoto
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=293
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=293&year=2023
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=293&year=2024
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=hashimoto&year=2021
+  - https://www.capitol.hawaii.gov/memberpage.aspx?member=hashimoto&year=2022
+  - https://www.capitol.hawaii.gov/members/legislators.aspx
+  - https://www.linkedin.com/in/troy-hashimoto-b398523
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: hi-hou-miyake-tyson
+  openstates_id: ocd-person/6fb71afb-6ce8-4f21-ad16-a7255ca2bfec
+  full_name: Tyson Miyake
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: repmiyake@capitol.hawaii.gov
+  address: ""
+  official_website: https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=294
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tyson_Miyake
+  - https://en.wikipedia.org/wiki/Tyson_Miyake
+  - https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=294
+  - https://www.linkedin.com/in/tyson-miyake-tkm82
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

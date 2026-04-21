@@ -1,0 +1,22 @@
+---
+title: "Thedis Crowe"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "mt-hou-crowe-thedis"
+full_name: "Thedis Crowe"
+state: "montana"
+state_abbrev: "MT"
+office_title: "State Representative"
+chamber: "house"
+district: "15"
+party: "Democratic"
+status: "active"
+official_website: "https://legislators.legmt.gov/#/legislator/185"
+email: "thedis.crowe@legmt.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

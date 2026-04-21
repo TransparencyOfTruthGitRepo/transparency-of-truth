@@ -1,0 +1,22 @@
+---
+title: "Ambureen Rana"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "me-hou-rana-ambureen"
+full_name: "Ambureen Rana"
+state: "maine"
+state_abbrev: "ME"
+office_title: "State Representative"
+chamber: "house"
+district: "21"
+party: "Democratic"
+status: "active"
+official_website: "https://legislature.maine.gov/house/house/MemberProfiles/Details/1464"
+email: "ambureen.rana@legislature.maine.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

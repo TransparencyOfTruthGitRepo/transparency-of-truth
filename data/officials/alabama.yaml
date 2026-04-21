@@ -1,4 +1,3450 @@
 ﻿state: alabama
 state_abbrev: AL
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: al-hou-clarke-adline
+  openstates_id: ocd-person/4cb1aeb5-d822-4f2c-a7e6-ae2a132acf17
+  full_name: Adline Clarke
+  office_title: State Representative
+  chamber: house
+  district: "97"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Clarke_97.png
+  phone: ""
+  email: adline.clarke@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Adline_C._Clarke
+  - https://en.wikipedia.org/wiki/Adline_Clarke
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/144285/adline-clarke
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Clarke&OID_SPONSOR=100579&OID_PERSON=7425&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100579&OID_PERSON=7425
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-baker-alan
+  openstates_id: ocd-person/cb2488d5-f0b6-4e9f-948b-ff7e9f4e1907
+  full_name: Alan Baker
+  office_title: State Representative
+  chamber: house
+  district: "66"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Baker_66.png
+  phone: ""
+  email: staterep@co.escambia.al.us
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alan_Baker
+  - https://en.wikipedia.org/wiki/Alan_Baker_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/60439/alan-baker
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Baker&OID_SPONSOR=100548&OID_PERSON=8303&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100548&OID_PERSON=8303
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-treadaway-allen
+  openstates_id: ocd-person/3f96a690-e9a3-4774-8484-49a5a079b18c
+  full_name: Allen Treadaway
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Treadaway_51.png
+  phone: ""
+  email: allen.treadaway@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Allen_Treadaway
+  - https://en.wikipedia.org/wiki/Allen_Treadaway
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/60429/allen-treadaway
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Treadaway&OID_SPONSOR=100532&OID_PERSON=5536&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100532&OID_PERSON=5536
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-jones-andrew
+  openstates_id: ocd-person/84d43460-8578-4b85-b2ee-7f6849e270d8
+  full_name: Andrew Jones
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Jones_10.png
+  phone: ""
+  email: andrew.jones@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0010-andrew-jones
+  - https://ballotpedia.org/Andrew_Jones_(Alabama)
+  - https://en.wikipedia.org/wiki/Andrew_Jones_(Alabama_politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180625/andrew-jones
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Jones&OID_SPONSOR=100453&OID_PERSON=8483&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100453&OID_PERSON=8483
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-whitt-andy
+  openstates_id: ocd-person/c128ed12-dd1b-4b5f-8c64-9d86bf9d6580
+  full_name: Andy Whitt
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Whitt_6.png
+  phone: ""
+  email: andy.whitt@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andy_Whitt
+  - https://en.wikipedia.org/wiki/Andy_Whitt
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180562/andy-whitt
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Whitt&OID_SPONSOR=100486&OID_PERSON=8490&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100486&OID_PERSON=8490
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/andy-whitt-603700148
+  - https://www.linkedin.com/in/representative-andy-whitt-603700148
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-daniels-anthony
+  openstates_id: ocd-person/95f7541d-5429-41aa-85e5-7fc9cf33d688
+  full_name: Anthony Daniels
+  office_title: State Representative
+  chamber: house
+  district: "53"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Daniels_53.png
+  phone: ""
+  email: anthony.daniels@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Anthony_Daniels
+  - https://en.wikipedia.org/wiki/Anthony_Daniels_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/149925/anthony-daniels
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Daniels&OID_SPONSOR=100534&OID_PERSON=7711&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100534&OID_PERSON=7711
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/anthonyldaniels
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-weaver-april
+  openstates_id: ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d
+  full_name: April Weaver
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Weaver_14.png
+  phone: ""
+  email: april.weaver@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0014-april-weaver
+  - https://ballotpedia.org/April_Weaver_(Alabama)
+  - https://en.wikipedia.org/wiki/April_Weaver
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/121534/april-weaver
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100530&OID_PERSON=6684
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Weaver&OID_SPONSOR=110577&OID_PERSON=6684&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Weaver&OID_SPONSOR=110805&OID_PERSON=6684&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=9100457&OID_PERSON=94459
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  - https://www.linkedin.com/in/april-weaver-8a02096
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-mooney-arnold
+  openstates_id: ocd-person/02655110-0839-4b2e-9f4b-b3a43788e275
+  full_name: Arnold Mooney
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Mooney_43.png
+  phone: ""
+  email: arnold.mooney@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Arnold_Mooney
+  - https://en.wikipedia.org/wiki/Arnold_Mooney
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/149974/arnold-mooney-ii
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Mooney&OID_SPONSOR=100524&OID_PERSON=7699&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100524&OID_PERSON=7699
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/arnold-g-mooney-ii-91893a5
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-orr-arthur
+  openstates_id: ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578
+  full_name: Arthur Orr
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Orr_3.png
+  phone: ""
+  email: arthur.orr@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/003-arthur-orr
+  - https://arthurorr.com
+  - https://ballotpedia.org/Arthur_Orr
+  - https://en.wikipedia.org/wiki/Arthur_Orr
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/57118/arthur-orr
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Orr&OID_SPONSOR=100446&OID_PERSON=5527&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100446&OID_PERSON=5527
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-mccampbell-aj
+  openstates_id: ocd-person/474c3552-b3cd-4015-ac15-3c6301a0ce0e
+  full_name: A.J. McCampbell
+  office_title: State Representative
+  chamber: house
+  district: "71"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/McCampbell_71.png
+  phone: ""
+  email: ajmc1@bellsouth.net
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Artis_J._McCampbell
+  - https://en.wikipedia.org/wiki/Artis_J._McCampbell
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/60444/aj-mccampbell
+  - https://justfacts.votesmart.org/candidate/biography/60444/aj-mccampbell
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=McCampbell&OID_SPONSOR=100553&OID_PERSON=5544&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100553&OID_PERSON=5544
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-boyd-barbara
+  openstates_id: ocd-person/a1033b9f-f53e-46b8-ab4e-508d87e0d8e8
+  full_name: Barbara Boyd
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Boyd_32.png
+  phone: ""
+  email: barbara.boyd@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Barbara_Boyd,_Alabama_Representative
+  - https://en.wikipedia.org/wiki/Barbara_Boyd_(Alabama_politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/5627/barbara-boyd
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Boyd&OID_SPONSOR=100513&OID_PERSON=1022&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100513&OID_PERSON=1022
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-drummond-barbara
+  openstates_id: ocd-person/375419e1-4626-4a9a-92ed-15962de5be09
+  full_name: Barbara Drummond
+  office_title: State Representative
+  chamber: house
+  district: "103"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Drummond_103.png
+  phone: ""
+  email: drummondbarbara@att.net
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Barbara_Drummond
+  - https://en.wikipedia.org/wiki/Barbara_Drummond
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/149928/barbara-drummond
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Drummond&OID_SPONSOR=100585&OID_PERSON=7712&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100585&OID_PERSON=7712
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/barbara-drummond
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-harrison-ben
+  openstates_id: ocd-person/a2413268-fe7d-4a14-839c-14e9723da23a
+  full_name: Ben Harrison
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Harrison_2.png
+  phone: ""
+  email: ben.harrison@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ben_Harrison_(Alabama)
+  - https://en.wikipedia.org/wiki/Ben_Harrison_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/143744/ben-harrison
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-robbins-ben
+  openstates_id: ocd-person/7da5c799-bd67-458a-b3b1-a0cdda8f474e
+  full_name: Ben Robbins
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Robbins_33.png
+  phone: ""
+  email: ben.robbins@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alabama_House_of_Representatives_District_33
+  - https://ballotpedia.org/Ben_Robbins
+  - https://en.wikipedia.org/wiki/Ben_Robbins_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/180585/ben-robbins
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=District%2033&OID_SPONSOR=9100514&OID_PERSON=91090&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Robbins&OID_SPONSOR=107735&OID_PERSON=9187&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/ben-robbins-2ab598166
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-forte-berry
+  openstates_id: ocd-person/a5d0ab78-e643-4ea1-86f2-2dad948b498a
+  full_name: Berry Forte
+  office_title: State Representative
+  chamber: house
+  district: "84"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Forte_84.png
+  phone: ""
+  email: berry.forte@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Berry_Forte
+  - https://en.wikipedia.org/wiki/Berry_Forte
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/81792/berry-forte
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Forte&OID_SPONSOR=100566&OID_PERSON=6664&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100566&OID_PERSON=6664
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-lamb-bill
+  openstates_id: ocd-person/f470053d-6f95-4ed1-b641-5d0e7b236ed5
+  full_name: Bill Lamb
+  office_title: State Representative
+  chamber: house
+  district: "62"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Lamb_62.png
+  phone: ""
+  email: lambbama@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Lamb
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://www.linkedin.com/in/bill-lamb-380b0178
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-fincher-bob
+  openstates_id: ocd-person/03d6bca3-9630-4173-a3c0-4ab4b5aaaedb
+  full_name: Bob Fincher
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Fincher_37.png
+  phone: ""
+  email: rsfincher77@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bob_Fincher
+  - https://en.wikipedia.org/wiki/Bob_Fincher
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/121529/bob-fincher
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Fincher&OID_SPONSOR=100518&OID_PERSON=3191&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100518&OID_PERSON=3191
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-singleton-bobby
+  openstates_id: ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493
+  full_name: Bobby Singleton
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Singleton_24.png
+  phone: ""
+  email: bsingle362@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bobby_Singleton
+  - https://en.wikipedia.org/wiki/Bobby_Singleton_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/27551/bobby-singleton
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Singleton&OID_SPONSOR=100467&OID_PERSON=4471&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100467&OID_PERSON=4471
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-easterbrook-brett
+  openstates_id: ocd-person/def57a9e-a907-4e62-b990-41dc19661c06
+  full_name: Brett Easterbrook
+  office_title: State Representative
+  chamber: house
+  district: "65"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Easterbrook_65.png
+  phone: ""
+  email: brett.easterbrook@yahoo.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brett_Easterbrook
+  - https://en.wikipedia.org/wiki/Brett_Easterbrook
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180594/brett-easterbrook
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Easterbrook&OID_SPONSOR=100547&OID_PERSON=8505&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100547&OID_PERSON=8505
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/brett-easterbrook-14782aa5
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-colvin-brock
+  openstates_id: ocd-person/aaffbe89-25dd-4454-85f7-81e4ed89c749
+  full_name: Brock Colvin
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Colvin_26.png
+  phone: ""
+  email: brock.colvin@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brock_Colvin
+  - https://en.wikipedia.org/wiki/Brock_Colvin
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201848/brock-colvin
+  - https://www.linkedin.com/in/william-brock-colvin-38a658266
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-brinyark-bryan
+  openstates_id: ocd-person/ed6f9cbb-3180-4e8e-b9c1-c56dd888ce38
+  full_name: Bryan Brinyark
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Brinyark_16.png
+  phone: ""
+  email: bryan.brinyark@alhouse.gov
+  address: ""
+  official_website: ""
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bryan_Brinyark
+  - https://brinyark.com/about
+  - https://en.wikipedia.org/wiki/Bryan_Brinyark
+  - https://justfacts.votesmart.org/candidate/biography/212752/bryan-brinyark
+  - https://www.linkedin.com/in/bryan-brinyark-4a106457
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-robertson-chad
+  openstates_id: ocd-person/60ec1e11-da78-43be-90e5-5d850bf3edc7
+  full_name: Chad Robertson
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Robertson_40.png
+  phone: ""
+  email: chadrobertsond40@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chad_Robertson_(Alabama)
+  - https://en.wikipedia.org/wiki/Chad_Robertson
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201868/chad-robertson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-brown-chip
+  openstates_id: ocd-person/04a1794d-93f0-435f-8c68-1b435f2fc1a0
+  full_name: Chip Brown
+  office_title: State Representative
+  chamber: house
+  district: "105"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Brown_105.png
+  phone: ""
+  email: chip.brown@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chip_Brown
+  - https://en.wikipedia.org/wiki/Chip_Brown
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/15971/chip-brown
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Brown&OID_SPONSOR=100587&OID_PERSON=8517&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100587&OID_PERSON=8517
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/chip-brown
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-blackshear-chris
+  openstates_id: ocd-person/6b644492-bb54-496c-8ad3-22ec002056d4
+  full_name: Chris Blackshear
+  office_title: State Representative
+  chamber: house
+  district: "80"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Blackshear_80.png
+  phone: ""
+  email: chris.blackshear@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Blackshear
+  - https://en.wikipedia.org/wiki/Chris_Blackshear
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/143782/chris-blackshear
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Blackshear&OID_SPONSOR=100562&OID_PERSON=7981&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100562&OID_PERSON=7981
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-elliott-chris
+  openstates_id: ocd-person/67479855-f23e-4119-b886-91dddc09a47a
+  full_name: Chris Elliott
+  office_title: State Senator
+  chamber: senate
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Elliott_32.png
+  phone: ""
+  email: chris.elliott@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0032-chris-elliott
+  - https://ballotpedia.org/Chris_Elliott_(Alabama)
+  - https://en.wikipedia.org/wiki/Chris_Elliott_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/156759/chris-elliott
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Elliott&OID_SPONSOR=100475&OID_PERSON=8487&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100475&OID_PERSON=8487
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-england-chris
+  openstates_id: ocd-person/b57cc6b9-3627-431f-8a01-4c3c7ba973d4
+  full_name: Chris England
+  office_title: State Representative
+  chamber: house
+  district: "70"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/England_70.png
+  phone: ""
+  email: cengland1@hotmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Christopher_J._England
+  - https://en.wikipedia.org/wiki/Christopher_J._England
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/69176/chris-england
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=England&OID_SPONSOR=100552&OID_PERSON=5543&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100552&OID_PERSON=5543
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/chris-england-2428385
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-pringle-chris
+  openstates_id: ocd-person/f4133b43-f822-4d95-b1e0-a0a524de56f6
+  full_name: Chris Pringle
+  office_title: State Representative
+  chamber: house
+  district: "101"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Pringle_101.png
+  phone: ""
+  email: chris.pringle@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Pringle
+  - https://en.wikipedia.org/wiki/Chris_Pringle_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/5701/chris-pringle
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Pringle&OID_SPONSOR=100583&OID_PERSON=1109&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100583&OID_PERSON=1109
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/chris-pringle-7a427727
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-sells-chris
+  openstates_id: ocd-person/39a26498-6bb6-4627-8c49-d9c453c9aab8
+  full_name: Chris Sells
+  office_title: State Representative
+  chamber: house
+  district: "90"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Sells_90.png
+  phone: ""
+  email: csea@centurytel.net
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Sells
+  - https://en.wikipedia.org/wiki/Chris_Sells
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/149986/chris-sells
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Sells&OID_SPONSOR=100572&OID_PERSON=7702&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100572&OID_PERSON=7702
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/chris-sells-917ba870
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-myrex-cindy
+  openstates_id: ocd-person/cbfd2b4e-f512-4176-b2f6-1df9d2d9c99c
+  full_name: Cindy Myrex
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: cindy.myrex@alhouse.gov
+  address: ""
+  official_website: ""
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cindy_Myrex
+  - https://en.wikipedia.org/wiki/Cindy_Myrex
+  - https://www.linkedin.com/in/cindy-myrex-89958684
+  - https://www.realestateatsmithlake.com/about-cindy
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-chambliss-clyde
+  openstates_id: ocd-person/d1307771-6d50-4d56-9995-b5d799917d7b
+  full_name: Clyde Chambliss
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Chambliss_30.png
+  phone: ""
+  email: clyde.chambliss@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0030-clyde-chambliss
+  - https://ballotpedia.org/Clyde_Chambliss_Jr.
+  - https://en.wikipedia.org/wiki/Clyde_Chambliss
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/79831/clyde-chambliss-jr
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Chambliss&OID_SPONSOR=100473&OID_PERSON=7692&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100473&OID_PERSON=7692
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  - https://www.linkedin.com/in/clyde-chambliss-95756027
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-ellis-corley
+  openstates_id: ocd-person/3b1a631d-35d4-47bd-a37c-a98fed7a5bd4
+  full_name: Corley Ellis
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Ellis_41.png
+  phone: ""
+  email: corley.ellis@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Corley_Ellis
+  - https://en.wikipedia.org/wiki/Corley_Ellis
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/82053/corley-ellis
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Ellis&OID_SPONSOR=100522&OID_PERSON=8129&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100522&OID_PERSON=8129
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-lipscomb-craig
+  openstates_id: ocd-person/63e7d9b8-136c-4ebc-bb87-19660eb7b624
+  full_name: Craig Lipscomb
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Lipscomb_30.png
+  phone: ""
+  email: craig.lipscomb@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/B._Craig_Lipscomb
+  - https://en.wikipedia.org/wiki/Craig_Lipscomb
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Lipscomb&OID_SPONSOR=100511&OID_PERSON=8499&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100511&OID_PERSON=8499
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/bcraiglipscomb
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-travis-curtis
+  openstates_id: ocd-person/583c130d-a97a-48c9-9a18-03e94aa93930
+  full_name: Curtis Travis
+  office_title: State Representative
+  chamber: house
+  district: "72"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Travis_72.png
+  phone: ""
+  email: cltravis620@charter.net
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Curtis_Travis
+  - https://en.wikipedia.org/wiki/Curtis_Travis
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/201890/curtis-travis
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-roberts-dan
+  openstates_id: ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25
+  full_name: Dan Roberts
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Roberts_15.png
+  phone: ""
+  email: dan.roberts@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0015-dan-roberts
+  - https://ballotpedia.org/Dan_Roberts_(Alabama)
+  - https://en.wikipedia.org/wiki/Dan_Roberts_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180628/dan-roberts
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Roberts&OID_SPONSOR=100458&OID_PERSON=8485&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100458&OID_PERSON=8485
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-crawford-danny
+  openstates_id: ocd-person/749e2cb2-e087-4920-aea3-b40d28f56db5
+  full_name: Danny Crawford
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Crawford_5.png
+  phone: ""
+  email: danny.crawford@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Danny_Crawford
+  - https://en.wikipedia.org/wiki/Danny_Crawford_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/165903/danny-crawford
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Crawford&OID_SPONSOR=100485&OID_PERSON=8000&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100485&OID_PERSON=8000
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-garrett-danny
+  openstates_id: ocd-person/4aab5f96-d36a-4274-9591-9922a353c10b
+  full_name: Danny Garrett
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Garrett_44.png
+  phone: ""
+  email: dannygarrett44@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Danny_Garrett
+  - https://en.wikipedia.org/wiki/Danny_Garrett
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/149938/danny-garrett
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Garrett&OID_SPONSOR=100525&OID_PERSON=7713&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100525&OID_PERSON=7713
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/j-daniel-danny-garrett-8918b532
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-faulkner-david
+  openstates_id: ocd-person/9b9fd235-1045-4935-a097-bd5e51d2c592
+  full_name: David Faulkner
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Faulkner_46.png
+  phone: ""
+  email: david@davidfaulkneral46.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Faulkner
+  - https://en.wikipedia.org/wiki/David_Faulkner_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/149930/david-faulkner
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Faulkner&OID_SPONSOR=100527&OID_PERSON=7693&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100527&OID_PERSON=7693
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/david-faulkner-a743b122
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-sessions-david
+  openstates_id: ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa
+  full_name: David Sessions
+  office_title: State Senator
+  chamber: senate
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Sessions_35.png
+  phone: ""
+  email: d.r.sessions@att.net
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0035-david-sessions
+  - https://ballotpedia.org/David_Sessions
+  - https://en.wikipedia.org/wiki/David_Sessions
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/129898/david-sessions
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Sessions&OID_SPONSOR=100478&OID_PERSON=6832&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100478&OID_PERSON=6832
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-standridge-david
+  openstates_id: ocd-person/0efb60b3-60e6-4248-a264-41a2a1d35036
+  full_name: David Standridge
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Standridge_34.png
+  phone: ""
+  email: david.standridge@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Standridge
+  - https://en.wikipedia.org/wiki/David_Standridge
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/82406/david-standridge
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Standridge&OID_SPONSOR=100515&OID_PERSON=7217&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100515&OID_PERSON=7217
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-givens-donna
+  openstates_id: ocd-person/ef19bb65-dc3c-4815-ac71-b1ffd9abf28b
+  full_name: Donna Givens
+  office_title: State Representative
+  chamber: house
+  district: "64"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Givens_64.png
+  phone: ""
+  email: donnagivens55@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Donna_Givens
+  - https://en.wikipedia.org/wiki/Donna_Givens
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201857/donna-givens
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-chesteen-donnie
+  openstates_id: ocd-person/c1ce8b3f-ea56-4c8f-ab74-2a02b8d10063
+  full_name: Donnie Chesteen
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Chesteen_29.png
+  phone: ""
+  email: donnie.chesteen@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0029-donnie-chesteen
+  - https://ballotpedia.org/Donnie_Chesteen
+  - https://en.wikipedia.org/wiki/Donnie_Chesteen
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/121549/donnie-chesteen
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Chesteen&OID_SPONSOR=100472&OID_PERSON=6660&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100472&OID_PERSON=6660
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  - https://www.linkedin.com/in/donnie-chesteen-76710b85
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-oliver-ed
+  openstates_id: ocd-person/9ec989cb-f503-46c1-aa2a-2913e2bc16bd
+  full_name: Ed Oliver
+  office_title: State Representative
+  chamber: house
+  district: "81"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Oliver_81.png
+  phone: ""
+  email: ed.oliver@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ed_Oliver
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180598/ed-oliver
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Oliver&OID_SPONSOR=100563&OID_PERSON=8508&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100563&OID_PERSON=8508
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-yarbrough-ernie
+  openstates_id: ocd-person/5658aa05-6ffa-4774-a8a4-f49c169769d2
+  full_name: Ernie Yarbrough
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Yarbrough_7.png
+  phone: ""
+  email: yarbrough4house@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ernie_Yarbrough
+  - https://en.wikipedia.org/wiki/Ernie_Yarbrough
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201820/ernie-yarbrough
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-holkjones-frances
+  openstates_id: ocd-person/3bc2e263-71cf-41e2-80c5-3f97cad999ff
+  full_name: Frances Holk-Jones
+  office_title: State Representative
+  chamber: house
+  district: "95"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Holk-Jones_95.png
+  phone: ""
+  email: frances.holk-jones@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Frances_Holk-Jones
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://www.linkedin.com/in/frances-holk-jones-b04038101
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-gudger-garlan
+  openstates_id: ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e
+  full_name: Garlan Gudger
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Gudger_4.png
+  phone: ""
+  email: garlan.gudger@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/004-garlan-gudger
+  - https://ballotpedia.org/Garlan_Gudger
+  - https://en.wikipedia.org/wiki/Garlan_Gudger
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180619/garlan-gudger
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Gudger&OID_SPONSOR=100447&OID_PERSON=8481&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100447&OID_PERSON=8481
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  - https://www.linkedin.com/in/garlan-gudger-939a3564
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-allen-gerald
+  openstates_id: ocd-person/adbf5614-9045-4cb7-86eb-2d88f25a357a
+  full_name: Gerald Allen
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Allen_21.png
+  phone: ""
+  email: gerald.allen@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0021-gerald-allen
+  - https://ballotpedia.org/Gerald_Allen
+  - https://en.wikipedia.org/wiki/Gerald_Allen_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/5621/gerald-allen
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Allen&OID_SPONSOR=100464&OID_PERSON=1014&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100464&OID_PERSON=1014
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-shaver-ginny
+  openstates_id: ocd-person/08fce57e-b511-4572-bcb8-7c712d8e7d05
+  full_name: Ginny Shaver
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Shaver_39.png
+  phone: ""
+  email: ginny.shaver@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ginny_Shaver
+  - https://en.wikipedia.org/wiki/Ginny_Shaver
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180589/ginny-shaver
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Shaver&OID_SPONSOR=100520&OID_PERSON=8501&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100520&OID_PERSON=8501
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-albritton-greg
+  openstates_id: ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0
+  full_name: Greg Albritton
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Albritton_22.png
+  phone: ""
+  email: galbritton@att.net
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0022-greg-albritton
+  - https://ballotpedia.org/Greg_Albritton
+  - https://en.wikipedia.org/wiki/Greg_Albritton
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/15990/greg-albritton
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Albritton&OID_SPONSOR=100465&OID_PERSON=7691&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100465&OID_PERSON=7691
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-barnes-greg
+  openstates_id: ocd-person/319cc74b-3113-4053-8bda-0e1903227207
+  full_name: Greg Barnes
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: greg.barnes@alhouse.gov
+  address: ""
+  official_website: ""
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Greg_Barnes
+  - https://en.wikipedia.org/wiki/Greg_Barnes
+  - https://justfacts.votesmart.org/candidate/biography/201825/greg-barnes
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-allbright-heath
+  openstates_id: ocd-person/de4c986e-ec06-437e-8d3d-b7ca591606bc
+  full_name: Heath Allbright
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: heathallbright@gmail.com
+  address: ""
+  official_website: ""
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Heath_Allbright
+  - https://www.linkedin.com/in/heath-allbright-3b817b117
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-smith-van
+  openstates_id: ocd-person/2e9b60b3-d931-412e-a9f6-803aa7c7b085
+  full_name: Van Smith
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Smith_42.png
+  phone: ""
+  email: ivan.smith@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Van_Smith
+  - https://en.wikipedia.org/wiki/Ivan_Smith_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/156754/van-smith
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Smith&OID_SPONSOR=105207&OID_PERSON=8811&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Smith&OID_SPONSOR=105207&OID_PERSON=8811&SESSNAME=Regular%20Session%202021
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-waggoner-jabo
+  openstates_id: ocd-person/bdfa9580-2ce0-4828-8f9e-52e6f066fbce
+  full_name: Jabo Waggoner
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Waggoner_16.png
+  phone: ""
+  email: jabo.waggoner@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0016-jabo-waggoner
+  - https://ballotpedia.org/J.T._Waggoner
+  - https://en.wikipedia.org/wiki/J._T._Waggoner
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/5619/jt-waggoner
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Waggoner&OID_SPONSOR=100459&OID_PERSON=1141&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100459&OID_PERSON=1141
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  - https://www.linkedin.com/in/jabo-waggoner-804164b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-williams-jack
+  openstates_id: ocd-person/a7e333c5-03f2-4343-9981-956bcc1ea38e
+  full_name: Jack Williams
+  office_title: State Senator
+  chamber: senate
+  district: "34"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Williams_34.png
+  phone: ""
+  email: jackwilliams55@icloud.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0034-jack-williams
+  - https://ballotpedia.org/Jack_W._Williams
+  - https://en.wikipedia.org/wiki/Jack_W._Williams_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Williams&OID_SPONSOR=100477&OID_PERSON=7707&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100477&OID_PERSON=7707
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-lomax-james
+  openstates_id: ocd-person/d54b8dfc-7921-4f35-ad22-ad2efdaad100
+  full_name: James Lomax
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Lomax_20.png
+  phone: ""
+  email: jamesoliverlomax@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_Lomax
+  - https://en.wikipedia.org/wiki/James_Lomax
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201840/james-lomax
+  - https://www.linkedin.com/in/jamesolomax
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-kiel-jamie
+  openstates_id: ocd-person/390ee0ed-0b5e-4f45-a740-63511c4fa3fd
+  full_name: Jamie Kiel
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Kiel_18.png
+  phone: ""
+  email: jamie.kiel@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jamie_Kiel
+  - https://en.wikipedia.org/wiki/Jamie_Kiel
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180574/jamie-kiel
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Kiel&OID_SPONSOR=100498&OID_PERSON=8495&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100498&OID_PERSON=8495
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/jamiekiel
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-hovey-jay
+  openstates_id: ocd-person/d581a562-c33c-44c0-a707-c21dddf140aa
+  full_name: Jay Hovey
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Hovey_27.png
+  phone: ""
+  email: jay.hovey@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0027-jay-hovey
+  - https://ballotpedia.org/Jay_Hovey
+  - https://en.wikipedia.org/wiki/Jay_Hovey
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/196707/jay-hovey
+  - https://www.linkedin.com/in/jay-hovey-37668bb
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-ross-jeana
+  openstates_id: ocd-person/70d0256c-91eb-4338-b86d-181e1db4d8f7
+  full_name: Jeana Ross
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://education.ua.edu/wp-content/uploads/2023/02/Jeana-Ross.jpg
+  phone: ""
+  email: jeana.ross@alhouse.gov
+  address: ""
+  official_website: ""
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeana_Ross
+  - https://education.ua.edu/jeana-ross-2
+  - https://www.linkedin.com/in/jeana-ross-4a19a986
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-sorrells-jeff
+  openstates_id: ocd-person/18af5645-53f2-4571-b24d-3173abf2b567
+  full_name: Jeff Sorrells
+  office_title: State Representative
+  chamber: house
+  district: "87"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Sorrells_87.png
+  phone: ""
+  email: jeff.sorrells@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Sorrells
+  - https://en.wikipedia.org/wiki/Jeff_Sorrells
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/180601/jeff-sorrells
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Sorrells&OID_SPONSOR=100569&OID_PERSON=8510&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100569&OID_PERSON=8510
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/jeff-sorrells-4382b084
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-fidler-jennifer
+  openstates_id: ocd-person/48d9f4e1-ec8b-4353-9207-a70db34449a9
+  full_name: Jennifer Fidler
+  office_title: State Representative
+  chamber: house
+  district: "94"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Fidler_94.png
+  phone: ""
+  email: jennifer.fidler@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jennifer_Fidler
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-gray-jeremy
+  openstates_id: ocd-person/15372a5d-6a78-40f2-aebf-fd7692c41cb0
+  full_name: Jeremy Gray
+  office_title: State Representative
+  chamber: house
+  district: "83"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Gray_83.png
+  phone: ""
+  email: jeremy.gray@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeremy_Gray
+  - https://en.wikipedia.org/wiki/Jeremy_Gray_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180545/jeremy-gray
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Gray&OID_SPONSOR=100565&OID_PERSON=8509&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100565&OID_PERSON=8509
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-starnes-jerry
+  openstates_id: ocd-person/8394a967-dcf1-4901-a8d5-9ca120da382e
+  full_name: Jerry Starnes
+  office_title: State Representative
+  chamber: house
+  district: "88"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Starnes_88.png
+  phone: ""
+  email: jerry.starnes@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jerry_Starnes
+  - https://en.wikipedia.org/wiki/Jerry_Starnes
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/143786/jerry-starnes
+  - https://www.linkedin.com/in/jerry-starnes-9a302888
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-carns-jim
+  openstates_id: ocd-person/0d7f5989-df17-4c90-8267-4914f5598712
+  full_name: Jim Carns
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Carns_48.png
+  phone: ""
+  email: jwcarns@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jim_Carns
+  - https://en.wikipedia.org/wiki/Jim_Carns
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/5630/jim-carns
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Carns&OID_SPONSOR=100529&OID_PERSON=1028&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100529&OID_PERSON=1028
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-hill-jim
+  openstates_id: ocd-person/1fda4118-bfb1-4ffa-b71a-a9d131feec6b
+  full_name: Jim Hill
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Hill_50.png
+  phone: ""
+  email: jim.hill@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jim_Hill_(Alabama)
+  - https://en.wikipedia.org/wiki/Jim_Hill_(Alabama_politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://hwhlawgroup.com/attorneys/judge-james-e-hill-jr
+  - https://justfacts.votesmart.org/candidate/biography/149953/jim-hill
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Hill&OID_SPONSOR=100531&OID_PERSON=7696&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100531&OID_PERSON=7696
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-lovvorn-joe
+  openstates_id: ocd-person/972dcfd0-f2a2-438b-b5de-276ceb398a91
+  full_name: Joe Lovvorn
+  office_title: State Representative
+  chamber: house
+  district: "79"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Lovvorn_79.png
+  phone: ""
+  email: joe.lovvorn@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_Lovvorn
+  - https://en.wikipedia.org/wiki/Joe_Lovvorn
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/175673/joe-lovvorn
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Lovvorn&OID_SPONSOR=100561&OID_PERSON=8119&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100561&OID_PERSON=8119
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/joe-lovvorn-8983656
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-carnley-josh
+  openstates_id: ocd-person/51b33504-a943-4091-a3bd-f0b8feb124be
+  full_name: Josh Carnley
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Carnley_31.png
+  phone: ""
+  email: josh.carnley@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0031-josh-carnley
+  - https://ballotpedia.org/Josh_Carnley
+  - https://en.wikipedia.org/wiki/Josh_Carnley
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/156773/josh-carnley
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-givan-juandalynn
+  openstates_id: ocd-person/73cebf90-bf5a-444a-857e-b5bbddc374bf
+  full_name: Juandalynn Givan
+  office_title: State Representative
+  chamber: house
+  district: "60"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Givan_60.png
+  phone: ""
+  email: juandalynn.givan@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Juandalynn_Givan
+  - https://en.wikipedia.org/wiki/Juandalynn_Givan
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/121471/juandalynn-givan
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Givan&OID_SPONSOR=100541&OID_PERSON=6665&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100541&OID_PERSON=6665
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-kelley-keith
+  openstates_id: ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912
+  full_name: Keith Kelley
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Kelley_12.png
+  phone: ""
+  email: keith.kelley@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0012-keith-kelley
+  - https://ballotpedia.org/Keith_Kelley
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201804/keith-kelley
+  - https://www.linkedin.com/in/keith-kelley-7b711061
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-datcher-kelvin
+  openstates_id: ocd-person/441922a8-63c1-498b-9de5-f5ee85d9dcf3
+  full_name: Kelvin Datcher
+  office_title: State Representative
+  chamber: house
+  district: "52"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kelvin_Datcher_20240808_092142.jpeg
+  phone: ""
+  email: kelvin.datcher@alhouse.gov
+  address: ""
+  official_website: ""
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kelvin_Datcher
+  - https://www.linkedin.com/in/kelvindatcher
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-lawrence-kelvin
+  openstates_id: ocd-person/0e1643ee-370a-499d-80df-96116d63c216
+  full_name: Kelvin Lawrence
+  office_title: State Representative
+  chamber: house
+  district: "69"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Lawrence_69.png
+  phone: ""
+  email: kelvinj73@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kelvin_Lawrence
+  - https://en.wikipedia.org/wiki/Kelvin_Lawrence_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/149963/kelvin-lawrence
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Lawrence&OID_SPONSOR=100551&OID_PERSON=7697&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100551&OID_PERSON=7697
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/kelvin-lawrence-1a646263
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-paschal-kenneth
+  openstates_id: ocd-person/ab6d4114-8d0a-4439-934b-10197234473c
+  full_name: Kenneth Paschal
+  office_title: State Representative
+  chamber: house
+  district: "73"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Paschal_73.png
+  phone: ""
+  email: kenneth.paschal@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kenneth_Paschal
+  - https://en.wikipedia.org/wiki/Kenneth_Paschal
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/195795/kenneth-paschal
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Paschal&OID_SPONSOR=110579&OID_PERSON=9302&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=9100555&OID_PERSON=97694
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-hassell-kenyatt
+  openstates_id: ocd-person/63c5bc01-757d-474a-9c75-286da0076e3e
+  full_name: Kenyatté Hassell
+  office_title: State Representative
+  chamber: house
+  district: "78"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/kenyatte-hassell.png
+  phone: ""
+  email: ken.hassell@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kenyatt%C3%A9_Hassell
+  - https://en.wikipedia.org/wiki/Kenyatte_Hassell
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/195902/kenyatte-hassell
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Hassell&OID_SPONSOR=110693&OID_PERSON=9339&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=pending.jpeg&OID_SPONSOR=110693&OID_PERSON=9339&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/kenyatte-hassell-ab17b5123
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-underwood-bubba
+  openstates_id: ocd-person/3828d8e6-1f22-4cb1-be51-b3d3a0c36b98
+  full_name: Bubba Underwood
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Underwood_3.png
+  phone: ""
+  email: kerryucpa@me.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kerry_Underwood
+  - https://en.wikipedia.org/wiki/Kerry_Underwood
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/201817/kerry-underwood
+  - https://www.linkedin.com/in/kerry-underwood-79689563
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-hatcher-kirk
+  openstates_id: ocd-person/e0a28b79-3df1-491b-af90-4c0414ba72c8
+  full_name: Kirk Hatcher
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Hatcher_26.png
+  phone: ""
+  email: kirk.hatcher@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kirk_Hatcher
+  - https://en.wikipedia.org/wiki/Kirk_Hatcher
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180541/kirk-hatcher
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100560&OID_PERSON=8507
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Hatcher&OID_SPONSOR=108969&OID_PERSON=8507&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=108969&OID_PERSON=98507
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  - https://www.linkedin.com/in/kirk-hatcher-135385114
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-nelson-kristin
+  openstates_id: ocd-person/730c7d27-9f0a-4a8b-839b-8de86f6b012e
+  full_name: Kristin Nelson
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: kristin.nelson@alhouse.gov
+  address: ""
+  official_website: ""
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kristin_Nelson_(Alabama)
+  - https://en.wikipedia.org/wiki/Kristin_Nelson_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/228105/kristin-nelson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-bell-lance
+  openstates_id: ocd-person/889eac7b-10b6-4f00-9bd6-e93a93d93211
+  full_name: Lance Bell
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Bell_11.png
+  phone: ""
+  email: lance.bell@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0011-jim-mcclendon
+  - https://ballotpedia.org/Lance_Bell
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/201801/lance-bell
+  - https://tfrblaw.com/attorneys/r-lance-bell
+  - https://www.linkedin.com/in/lance-bell-412bb170
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-stutts-larry
+  openstates_id: ocd-person/abc69c3a-3f86-4880-a1ea-a2a52677b877
+  full_name: Larry Stutts
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Stutts_6.png
+  phone: ""
+  email: larry.stutts@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/006-larry-stutts
+  - https://ballotpedia.org/Larry_Stutts
+  - https://en.wikipedia.org/wiki/Larry_Stutts
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/152242/larry-stutts
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Stutts&OID_SPONSOR=100449&OID_PERSON=7718&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100449&OID_PERSON=7718
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  - https://www.linkedin.com/in/larry-stutts-9a68816b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-hall-laura
+  openstates_id: ocd-person/9314859d-000f-447c-9aa7-4993b13e8010
+  full_name: Laura Hall
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Hall_19.png
+  phone: ""
+  email: laura.hall@alhouse.org
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Laura_Hall_(Alabama)
+  - https://en.wikipedia.org/wiki/Laura_Hall_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/5652/laura-hall
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Hall&OID_SPONSOR=100499&OID_PERSON=1068&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100499&OID_PERSON=1068
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/replaurahalld19
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-hulsey-leigh
+  openstates_id: ocd-person/f2489dbf-ac57-427f-8200-4cf6e6610980
+  full_name: Leigh Hulsey
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Hulsey_15.png
+  phone: ""
+  email: leigh.hulsey@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Leigh_Hulsey
+  - https://en.wikipedia.org/wiki/Leigh_Hulsey
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-colemanmadison-linda
+  openstates_id: ocd-person/8ffbb88c-c323-436f-aab0-91a41bf6c8dd
+  full_name: Linda Coleman-Madison
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Coleman-Madison_20.png
+  phone: ""
+  email: lcolemanmadison926@yahoo.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Linda_Coleman-Madison
+  - https://en.wikipedia.org/wiki/Linda_Coleman_(Alabama_politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/27684/linda-coleman-madison
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Coleman&OID_SPONSOR=100463&OID_PERSON=4463&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100463&OID_PERSON=4463
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-butler-mack
+  openstates_id: ocd-person/5071243c-3e2d-4acb-ac8d-0d3a8af3eb8a
+  full_name: Mack Butler
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Butler_28.png
+  phone: ""
+  email: mack.butler@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mack_Butler
+  - https://en.wikipedia.org/wiki/Mack_Butler
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/143699/mack-butler
+  - https://www.linkedin.com/in/mack-butler-457b5921
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-paramore-marcus
+  openstates_id: ocd-person/723a971e-91d9-4717-8f19-45f16e18690f
+  full_name: Marcus Paramore
+  office_title: State Representative
+  chamber: house
+  district: "89"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Paramore_89.png
+  phone: ""
+  email: marcusforhouse@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marcus_Paramore
+  - https://en.wikipedia.org/wiki/Marcus_Paramore
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/180606/marcus-paramore
+  - https://www.linkedin.com/in/marcus-paramore-4970ab14
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-wilcox-margie
+  openstates_id: ocd-person/050e1a72-402d-46ae-a9c3-1c5dff003ee6
+  full_name: Margie Wilcox
+  office_title: State Representative
+  chamber: house
+  district: "104"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Wilcox_104.png
+  phone: ""
+  email: margie.wilcox@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Margie_Wilcox
+  - https://en.wikipedia.org/wiki/Margie_Wilcox
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/145310/margie-wilcox
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Wilcox&OID_SPONSOR=100586&OID_PERSON=7547&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100586&OID_PERSON=7547
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/margie-wilcox-b3140620
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-lands-marilyn
+  openstates_id: ocd-person/eb947430-2674-4158-8290-0d973c59e834
+  full_name: Marilyn Lands
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: https://storage.googleapis.com/enview-public-general/legislative-people-photos/141174.jpg
+  phone: ""
+  email: marilyn.lands@alhouse.gov
+  address: ""
+  official_website: ""
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marilyn_Lands
+  - https://www.linkedin.com/in/marilyn-lands-69b82a249
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-gidley-mark
+  openstates_id: ocd-person/97514731-a41d-4328-841f-afdcaac1c6e2
+  full_name: Mark Gidley
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Gidley_29.png
+  phone: ""
+  email: mark.gidley@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Gidley
+  - https://en.wikipedia.org/wiki/Mark_Gidley
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201851/mark-gidley
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-shirey-mark
+  openstates_id: ocd-person/41debaee-f705-453d-a46f-3e8282b8a4b0
+  full_name: Mark Shirey
+  office_title: State Representative
+  chamber: house
+  district: "100"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Shirey_100.png
+  phone: ""
+  email: mark.shirey@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Shirey
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://www.linkedin.com/in/mark-shirey-o-d-38a38429
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-moore-mary
+  openstates_id: ocd-person/63c58557-7c03-41f5-934a-866daed33ec8
+  full_name: Mary Moore
+  office_title: State Representative
+  chamber: house
+  district: "59"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Moore_59.png
+  phone: ""
+  email: mamoor48@bellsouth.net
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mary_Moore
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/27576/mary-moore
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Moore&OID_SPONSOR=100540&OID_PERSON=4462&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100540&OID_PERSON=4462
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-simpson-matt
+  openstates_id: ocd-person/52046189-0464-4140-9cdf-b6c66312d49d
+  full_name: Matt Simpson
+  office_title: State Representative
+  chamber: house
+  district: "96"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Simpson_96.png
+  phone: ""
+  email: matt.simpson@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matt_Simpson
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180610/matt-simpson
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Simpson&OID_SPONSOR=100578&OID_PERSON=8514&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100578&OID_PERSON=8514
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/matt-simpson-92b4132a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-woods-matt
+  openstates_id: ocd-person/e6c4edb0-48af-4db8-aa0a-57570f0aef1e
+  full_name: Matt Woods
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Woods_13.png
+  phone: ""
+  email: matt.woods@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matt_Woods
+  - https://en.wikipedia.org/wiki/Matt_Woods_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://www.linkedin.com/in/matthew-woods-20680883
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-hammett-matthew
+  openstates_id: ocd-person/ff14c161-755d-44c8-a1e5-c2e3930a5317
+  full_name: Matthew Hammett
+  office_title: State Representative
+  chamber: house
+  district: "92"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Hammett_92.png
+  phone: ""
+  email: matthew.hammett@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matthew_Hammett
+  - https://en.wikipedia.org/wiki/Matthew_Hammett
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201833/matthew-hammett
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-coleman-merika
+  openstates_id: ocd-person/764f926b-598f-458e-84c4-5cc13c2302e5
+  full_name: Merika Coleman
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Coleman_19.png
+  phone: ""
+  email: merika.coleman@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Merika_Coleman
+  - https://en.wikipedia.org/wiki/Merika_Coleman
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/27693/merika-coleman
+  - https://www.linkedin.com/in/merika-coleman-m-p-a-esq-b1965a135
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-kirkland-mike
+  openstates_id: ocd-person/c2e0fa74-36df-4d34-8203-962c546442fa
+  full_name: Mike Kirkland
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Kirkland_23.png
+  phone: ""
+  email: kirklandmike75@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Kirkland
+  - https://en.wikipedia.org/wiki/Mike_Kirkland_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201842/mike-kirkland
+  - https://www.linkedin.com/in/mike-kirkland-mba-44a00a45
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-shaw-mike
+  openstates_id: ocd-person/cff09a3a-b81e-433d-80f5-45f6472f4642
+  full_name: Mike Shaw
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Shaw_47.png
+  phone: ""
+  email: mike.shaw@alabama47.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Shaw_(Alabama)
+  - https://en.wikipedia.org/wiki/Mike_Shaw_(Alabama_politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/197169/mike-shaw
+  - https://www.linkedin.com/in/shawnuff
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-bracy-napoleon
+  openstates_id: ocd-person/947c7906-7825-442f-9241-d777b9bbe999
+  full_name: Napoleon Bracy
+  office_title: State Representative
+  chamber: house
+  district: "98"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Bracy_98.png
+  phone: ""
+  email: napoleon.bracy@alhouse.org
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Napoleon_Bracy_Jr.
+  - https://en.wikipedia.org/wiki/Napoleon_Bracy_Jr.
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/121495/napoleon-bracy-jr
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Bracy&OID_SPONSOR=100580&OID_PERSON=6657&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100580&OID_PERSON=6657
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/napoleon-bracy-29500aaa
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-ledbetter-nathaniel
+  openstates_id: ocd-person/097b764f-5d8c-462e-a962-3330c50721a4
+  full_name: Nathaniel Ledbetter
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Ledbetter_24.png
+  phone: ""
+  email: nathaniel.ledbetter@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nathaniel_Ledbetter
+  - https://en.wikipedia.org/wiki/Nathaniel_Ledbetter
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/121452/nathaniel-ledbetter
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Ledbetter&OID_SPONSOR=100504&OID_PERSON=7698&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100504&OID_PERSON=7698
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-rafferty-neil
+  openstates_id: ocd-person/dc6e41ae-d1b3-47c7-b225-1d5ec88a9fdc
+  full_name: Neil Rafferty
+  office_title: State Representative
+  chamber: house
+  district: "54"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Rafferty_54.png
+  phone: ""
+  email: reprafferty@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Neil_Rafferty
+  - https://en.wikipedia.org/wiki/Neil_Rafferty
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180386/neil-rafferty
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Rafferty&OID_SPONSOR=100535&OID_PERSON=8503&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100535&OID_PERSON=8503
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/neil-rafferty-82a03a8a
+  - https://www.reprafferty.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-crow-norman
+  openstates_id: ocd-person/3a86c192-f9b1-4b58-9f5b-2119d1fe4e0d
+  full_name: Norman Crow
+  office_title: State Representative
+  chamber: house
+  district: "63"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: norman.crow@alhouse.gov
+  address: ""
+  official_website: ""
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Norman_Crow_(Alabama)
+  - https://www.linkedin.com/in/norman-crow-53b35990
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-tillman-ontario
+  openstates_id: ocd-person/a86c6f40-304e-49fd-a312-3aa30660fcdf
+  full_name: Ontario Tillman
+  office_title: State Representative
+  chamber: house
+  district: "56"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Tillman_56.png
+  phone: ""
+  email: ojtillman@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ontario_Tillman
+  - https://en.wikipedia.org/wiki/Ontario_Tillman
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201897/ontario-tillman
+  - https://www.linkedin.com/in/ontario-tillman-b8517a41
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-moore-parker
+  openstates_id: ocd-person/95e63d6f-1815-4364-8817-0d26e360013f
+  full_name: Parker Moore
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Moore_4.png
+  phone: ""
+  email: parker.moore@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Parker_Moore
+  - https://en.wikipedia.org/wiki/Parker_Moore
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/176839/parker-moore
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Moore&OID_SPONSOR=100484&OID_PERSON=8461&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100484&OID_PERSON=8461
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/parker-moore-21823197
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-mcclammy-penni
+  openstates_id: ocd-person/c4b563a3-2b20-4c2d-8f54-2b7ed6a3af3f
+  full_name: Penni McClammy
+  office_title: State Representative
+  chamber: house
+  district: "76"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/mcclammy.png
+  phone: ""
+  email: patrice.mcclammy@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patrice_McClammy
+  - https://en.wikipedia.org/wiki/Patrice_McClammy
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/188318/patrice-mcclammy
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=McClammy&OID_SPONSOR=111050&OID_PERSON=1101&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/penni-mcclammy-30a5818
+  - https://www.pennimcclammy.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-sellers-patrick
+  openstates_id: ocd-person/19244bfa-5953-4304-8955-cc58d0c5d16d
+  full_name: Patrick Sellers
+  office_title: State Representative
+  chamber: house
+  district: "57"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Sellers_57.png
+  phone: ""
+  email: sellersfor57@yahoo.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patrick_Sellers
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/149985/patrick-sellers
+  - https://www.linkedin.com/in/patrick-sellers-68393048
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-lee-paul
+  openstates_id: ocd-person/37a5dfa8-e69f-4567-b8c0-3ea35a69f181
+  full_name: Paul Lee
+  office_title: State Representative
+  chamber: house
+  district: "86"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Lee_86.png
+  phone: ""
+  email: plee@wrcjobs.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Lee
+  - https://en.wikipedia.org/wiki/Paul_Lee_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/71487/paul-lee
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Lee&OID_SPONSOR=100568&OID_PERSON=6672&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100568&OID_PERSON=6672
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-warren-pebblin
+  openstates_id: ocd-person/7c93c20f-6b0b-4743-8118-3cb4e9194c26
+  full_name: Pebblin Warren
+  office_title: State Representative
+  chamber: house
+  district: "82"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Warren_82.png
+  phone: ""
+  email: tiger9127@bellsouth.net
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pebblin_Warren
+  - https://en.wikipedia.org/wiki/Pebblin_Warren
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/27675/pebblin-warren
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Warren&OID_SPONSOR=100564&OID_PERSON=5238&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100564&OID_PERSON=5238
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-ensler-phillip
+  openstates_id: ocd-person/397cb6b4-54fe-42e2-9135-7b440d925649
+  full_name: Phillip Ensler
+  office_title: State Representative
+  chamber: house
+  district: "74"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Ensler_74.png
+  phone: ""
+  email: phillip.ensler@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Phillip_Ensler
+  - https://en.wikipedia.org/wiki/Phillip_Ensler
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201889/phillip-ensler
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-pettus-phillip
+  openstates_id: ocd-person/a84a3fe8-5444-4db3-9f64-06ea0cba0e90
+  full_name: Phillip Pettus
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Pettus_1.png
+  phone: ""
+  email: phillip.pettus@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Phillip_Pettus
+  - https://en.wikipedia.org/wiki/Phillip_Pettus
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/149977/phillip-pettus
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Pettus&OID_SPONSOR=100481&OID_PERSON=7700&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100481&OID_PERSON=7700
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-rigsby-phillip
+  openstates_id: ocd-person/78f07b0c-9939-4e03-81f8-f851511a46cb
+  full_name: Phillip Rigsby
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Rigsby_25.png
+  phone: ""
+  email: reprigsbydistrict25@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Phillip_Rigsby
+  - https://en.wikipedia.org/wiki/Phillip_Rigsby
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201847/phillip-rigsby
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-chestnut-prince
+  openstates_id: ocd-person/b1e60061-fb98-4c20-8532-b734d08cdbc3
+  full_name: Prince Chestnut
+  office_title: State Representative
+  chamber: house
+  district: "67"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Chestnut_67.png
+  phone: ""
+  email: chestnut4house@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Prince_Chestnut
+  - https://en.wikipedia.org/wiki/Prince_Chestnut
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/176029/prince-chestnut
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Chestnut&OID_SPONSOR=100549&OID_PERSON=8261&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100549&OID_PERSON=8261
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-price-randy
+  openstates_id: ocd-person/040b7935-b32a-4d6d-9fa4-ec86e5ffd303
+  full_name: Randy Price
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Price_13.png
+  phone: ""
+  email: randyprice.sd13@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0013-randy-price
+  - https://ballotpedia.org/Randy_Price
+  - https://en.wikipedia.org/wiki/Randy_Price
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/149979/randy-price
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Price&OID_SPONSOR=100456&OID_PERSON=8484&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100456&OID_PERSON=8484
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-wood-randy
+  openstates_id: ocd-person/451a4cb7-3585-46d3-86c7-61b345f7a601
+  full_name: Randy Wood
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Wood_36.png
+  phone: ""
+  email: strep36@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Randy_Wood
+  - https://en.wikipedia.org/wiki/Randy_Wood_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/27617/randy-wood
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Wood&OID_SPONSOR=100517&OID_PERSON=4457&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100517&OID_PERSON=4457
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-ingram-reed
+  openstates_id: ocd-person/bd08d7a5-b1f3-484f-80c1-bddf2d636413
+  full_name: Reed Ingram
+  office_title: State Representative
+  chamber: house
+  district: "75"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Ingram_75.png
+  phone: ""
+  email: reedingram75@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Reed_Ingram
+  - https://en.wikipedia.org/wiki/Reed_Ingram
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/81538/reed-ingram
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Ingram&OID_SPONSOR=100557&OID_PERSON=6167&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100557&OID_PERSON=6167
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/reed-ingram-843bab22
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-reynolds-rex
+  openstates_id: ocd-person/e95b6e20-1207-4cdc-9875-15d14bfd72d2
+  full_name: Rex Reynolds
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Reynolds_21.png
+  phone: ""
+  email: rex.reynolds@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rex_Reynolds
+  - https://en.wikipedia.org/wiki/Rex_Reynolds
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Reynolds&OID_SPONSOR=100501&OID_PERSON=8445&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100501&OID_PERSON=8445
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/rex-reynolds-3857905
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-marques-rhett
+  openstates_id: ocd-person/d9d5a3a8-71f6-4c2e-8805-3fa715b315f4
+  full_name: Rhett Marques
+  office_title: State Representative
+  chamber: house
+  district: "91"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Marques_91.png
+  phone: ""
+  email: rhett.marques@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rhett_Marques
+  - https://en.wikipedia.org/wiki/Rhett_Marques
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180607/rhett-marques
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Marques&OID_SPONSOR=100573&OID_PERSON=8513&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100573&OID_PERSON=8513
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-rehm-rick
+  openstates_id: ocd-person/31629cc7-81e6-4422-9aa3-89e6b9073259
+  full_name: Rick Rehm
+  office_title: State Representative
+  chamber: house
+  district: "85"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Rehm_85.png
+  phone: ""
+  email: rrehm46@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rick_Rehm
+  - https://en.wikipedia.org/wiki/Rick_Rehm
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://www.linkedin.com/in/richard-rehm-600b8019a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-whorton-ritchie
+  openstates_id: ocd-person/7e00e45e-24bf-4939-83b8-a56a90e3ea61
+  full_name: Ritchie Whorton
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Whorton_22.png
+  phone: ""
+  email: ritchiewhorton@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ritchie_Whorton
+  - https://en.wikipedia.org/wiki/Ritchie_Whorton
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/150005/ritchie-whorton
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Whorton&OID_SPONSOR=100502&OID_PERSON=7705&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100502&OID_PERSON=7705
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/ritchie-whorton-655248114
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-stewart-rob
+  openstates_id: ocd-person/cd2d1a70-0bb3-49b3-871c-9e227392653d
+  full_name: Rob Stewart
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Stewart_23.png
+  phone: ""
+  email: robert.stewart@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Stewart_(Alabama)
+  - https://en.wikipedia.org/wiki/Robert_Stewart_(Alabama_politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201677/robert-stewart
+  - https://www.linkedin.com/in/robert-stewart-03711129
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-smitherman-rodger
+  openstates_id: ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7
+  full_name: Rodger Smitherman
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Smitherman_18.png
+  phone: ""
+  email: rodger.smitherman@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rodger_Smitherman
+  - https://en.wikipedia.org/wiki/Rodger_Smitherman
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/5617/rodger-smitherman
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Smitherman&OID_SPONSOR=100461&OID_PERSON=1139&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100461&OID_PERSON=1139
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-hollis-rolanda
+  openstates_id: ocd-person/721421f8-e118-4163-bae9-72f3662696e9
+  full_name: Rolanda Hollis
+  office_title: State Representative
+  chamber: house
+  district: "58"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Hollis_58.png
+  phone: ""
+  email: rolanda.hollis@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rolanda_Hollis
+  - https://en.wikipedia.org/wiki/Rolanda_Hollis
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/176056/rolanda-hollis
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Hollis&OID_SPONSOR=100539&OID_PERSON=8220&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100539&OID_PERSON=8220
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/rolanda-hollis-96736521
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-bolton-ron
+  openstates_id: ocd-person/b94526a8-1564-43f5-ad38-98b795e95f02
+  full_name: Ron Bolton
+  office_title: State Representative
+  chamber: house
+  district: "61"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Bolton_61.png
+  phone: ""
+  email: ronaldbolton1@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ron_Bolton_(Alabama)
+  - https://en.wikipedia.org/wiki/Ron_Bolton_(politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/201861/ron-bolton
+  - https://www.linkedin.com/in/ronald-bolton-33715143
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-bedsole-russell
+  openstates_id: ocd-person/af4e689f-d9f8-4a90-a883-1ed68e476aa9
+  full_name: Russell Bedsole
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Bedsole_49.png
+  phone: ""
+  email: russell.bedsole@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Russell_Bedsole
+  - https://en.wikipedia.org/wiki/Russell_Bedsole
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/143765/russell-bedsole
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Bedsole&OID_SPONSOR=107543&OID_PERSON=9140&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Bedsole&OID_SPONSOR=107543&OID_PERSON=9140&SESSNAME=Regular%20Session%202021
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-givhan-sam
+  openstates_id: ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4
+  full_name: Sam Givhan
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Givhan_7.png
+  phone: ""
+  email: sam.givhan@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/007-sam-givhan
+  - https://ballotpedia.org/Sam_Givhan
+  - https://en.wikipedia.org/wiki/Sam_Givhan
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/180622/sam-givhan
+  - https://samgivhan.com
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Givhan&OID_SPONSOR=100450&OID_PERSON=8482&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100450&OID_PERSON=8482
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  - https://www.linkedin.com/in/sam-givhan-20a046a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-jones-sam
+  openstates_id: ocd-person/1c825e04-ad1e-4009-a8d8-157abc001f3e
+  full_name: Sam Jones
+  office_title: State Representative
+  chamber: house
+  district: "99"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Jones_99.png
+  phone: ""
+  email: sam.jones@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sam_Jones_(Alabama)
+  - https://en.wikipedia.org/wiki/Sam_Jones_(Alabama_politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180554/sam-jones
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Jones&OID_SPONSOR=100581&OID_PERSON=8515&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100581&OID_PERSON=8515
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/re-elect-mayor-sam-jones-41530567
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-stadthagen-scott
+  openstates_id: ocd-person/9877dd5b-c3ee-459f-bb8d-d9d954ae343c
+  full_name: Scott Stadthagen
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Stadthagen_9.png
+  phone: ""
+  email: scott.stadthagen@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_Stadthagen
+  - https://en.wikipedia.org/wiki/Scott_Stadthagen
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/180566/scott-stadthagen
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Stadthagen&OID_SPONSOR=100489&OID_PERSON=8492&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100489&OID_PERSON=8492
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/rep-scott-stadthagen-b5735130
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-stringer-shane
+  openstates_id: ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b
+  full_name: Shane Stringer
+  office_title: State Representative
+  chamber: house
+  district: "102"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Stringer_102.png
+  phone: ""
+  email: shane.stringer@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shane_Stringer
+  - https://en.wikipedia.org/wiki/Shane_Stringer
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180615/shane-stringer
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Stringer&OID_SPONSOR=100584&OID_PERSON=8516&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100584&OID_PERSON=8516
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-shelnutt-shay
+  openstates_id: ocd-person/9487b441-352c-43be-a2bb-8abc45e20671
+  full_name: Shay Shelnutt
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Shelnutt_17.png
+  phone: ""
+  email: shay.sd17@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0017-shay-shelnutt
+  - https://ballotpedia.org/Shay_Shelnutt
+  - https://en.wikipedia.org/wiki/Shay_Shelnutt
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/149989/shay-shelnutt
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Shelnutt&OID_SPONSOR=100460&OID_PERSON=7690&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100460&OID_PERSON=7690
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  - https://www.linkedin.com/in/shay-shelnutt-03b6382a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-clouse-steve
+  openstates_id: ocd-person/6b191fda-698d-4061-8396-fef9771847ee
+  full_name: Steve Clouse
+  office_title: State Representative
+  chamber: house
+  district: "93"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Clouse_93.png
+  phone: ""
+  email: steve.clouse@alhouse.org
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Clouse
+  - https://en.wikipedia.org/wiki/Steve_Clouse
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/5635/steve-clouse
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Clouse&OID_SPONSOR=100575&OID_PERSON=1035&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100575&OID_PERSON=1035
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/steve-clouse-46007b76
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-hurst-steve
+  openstates_id: ocd-person/4f0a4d5d-b27a-4f33-b394-f27d306f8a42
+  full_name: Steve Hurst
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Hurst_35.png
+  phone: ""
+  email: repstevehurst98@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Hurst
+  - https://en.wikipedia.org/wiki/Steve_Hurst
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/15975/steve-hurst
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Hurst&OID_SPONSOR=100516&OID_PERSON=3294&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100516&OID_PERSON=3294
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/steve-hurst-4911a167
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-livingston-steve
+  openstates_id: ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce
+  full_name: Steve Livingston
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Livingston_8.png
+  phone: ""
+  email: steve.livingston@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/008-steve-livingston
+  - https://ballotpedia.org/Steve_Livingston
+  - https://en.wikipedia.org/wiki/Steve_Livingston
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/149964/steve-livingston
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Livingston&OID_SPONSOR=100451&OID_PERSON=7689&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100451&OID_PERSON=7689
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  - https://www.linkedin.com/in/steve-livingston-33b4aa49
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-dubose-susan
+  openstates_id: ocd-person/03612130-d61e-43dd-9768-ddca8f27d4ea
+  full_name: Susan DuBose
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/DuBose_45.png
+  phone: ""
+  email: susandubose2@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Susan_DuBose
+  - https://en.wikipedia.org/wiki/Susan_DuBose
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201865/susan-dubose
+  - https://www.linkedin.com/in/susan-dubose-9158a348
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-morris-tashina
+  openstates_id: ocd-person/2ba6dc9a-31db-4371-9d69-7fa000e7a08a
+  full_name: TaShina Morris
+  office_title: State Representative
+  chamber: house
+  district: "77"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Morris_77.png
+  phone: ""
+  email: tashina.morris@alhouse.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/TaShina_Morris
+  - https://en.wikipedia.org/wiki/Tashina_Morris
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180538/tashina-morris
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Morris&OID_SPONSOR=100559&OID_PERSON=8506&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100559&OID_PERSON=8506
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/tashina-morris-03522890
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-collins-terri
+  openstates_id: ocd-person/902f0f81-a34c-4714-a3eb-bf563abbea96
+  full_name: Terri Collins
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Collins_8.png
+  phone: ""
+  email: terri@terricollins.org
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Terri_Collins
+  - https://en.wikipedia.org/wiki/Terri_Collins
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/121502/terri-collins
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Collins&OID_SPONSOR=100488&OID_PERSON=6661&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100488&OID_PERSON=6661
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/terri-collins-7004435
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-jackson-thomas
+  openstates_id: ocd-person/3d737a2a-6fdf-4939-838d-4f035a647e23
+  full_name: Thomas Jackson
+  office_title: State Representative
+  chamber: house
+  district: "68"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Jackson_68.png
+  phone: ""
+  email: jthomase67@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Thomas_%22Action%22_Jackson
+  - https://en.wikipedia.org/wiki/Thomas_Jackson_(Alabama_politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/5666/thomas-jackson-jr
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Jackson&OID_SPONSOR=100550&OID_PERSON=1088&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100550&OID_PERSON=1088
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-melson-tim
+  openstates_id: ocd-person/2f934a90-dc27-4289-b571-36e80ea4384b
+  full_name: Tim Melson
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Melson_1.png
+  phone: ""
+  email: tim.melson@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/001-tim-melson
+  - https://ballotpedia.org/Tim_Melson
+  - https://en.wikipedia.org/wiki/Tim_Melson
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/149972/tim-melson
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Melson&OID_SPONSOR=100444&OID_PERSON=7688&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100444&OID_PERSON=7688
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-wadsworth-tim
+  openstates_id: ocd-person/04f7bd8e-094b-433c-9e91-7ebe64c75604
+  full_name: Tim Wadsworth
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Wadsworth_14.png
+  phone: ""
+  email: wadsworth.tim654321@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tim_Wadsworth
+  - https://en.wikipedia.org/wiki/Tim_Wadsworth
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/150001/tim-wadsworth
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Wadsworth&OID_SPONSOR=100494&OID_PERSON=7704&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100494&OID_PERSON=7704
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  - https://www.linkedin.com/in/tim-r-wadsworth-07043110
+  - https://www.linkedin.com/in/tim-wadsworth-83545732
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-butler-tom
+  openstates_id: ocd-person/32e10f9c-d38c-472f-8fb0-03450c4b538a
+  full_name: Tom Butler
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Butler_2.png
+  phone: ""
+  email: tom.butler@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/002-tom-butler
+  - https://ballotpedia.org/Tom_Butler
+  - https://en.wikipedia.org/wiki/Tom_Butler_(Alabama_politician)
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Butler&OID_SPONSOR=100445&OID_PERSON=1010&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100445&OID_PERSON=1010
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  - https://www.linkedin.com/in/senatorbutler
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-estes-tracy
+  openstates_id: ocd-person/25308613-cda5-4e1c-aef7-821ada580575
+  full_name: Tracy Estes
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Estes_17.png
+  phone: ""
+  email: jtracyestes@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tracy_Estes
+  - https://en.wikipedia.org/wiki/Tracy_Estes
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Estes&OID_SPONSOR=100497&OID_PERSON=8494&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100497&OID_PERSON=8494
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-hendrix-travis
+  openstates_id: ocd-person/03ab8e26-365c-4dab-8e49-df2a8b7613f8
+  full_name: Travis Hendrix
+  office_title: State Representative
+  chamber: house
+  district: "55"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Hendrix_55.png
+  phone: ""
+  email: hendrixfor55@gmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Travis_Hendrix
+  - https://en.wikipedia.org/wiki/Travis_Hendrix
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/201900/travis-hendrix
+  - https://www.linkedin.com/in/travis-hendrix-40a413b7
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-hou-stubbs-troy
+  openstates_id: ocd-person/82715f9c-12a1-4e99-8020-a47b37dfa92b
+  full_name: Troy Stubbs
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/house/members/Stubbs_31.png
+  phone: ""
+  email: troy.stubbs@hotmail.com
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Troy_Stubbs
+  - https://en.wikipedia.org/wiki/Troy_Stubbs
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/199958/troy-stubbs
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-figures-vivian
+  openstates_id: ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3
+  full_name: Vivian Figures
+  office_title: State Senator
+  chamber: senate
+  district: "33"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Figures_33.png
+  phone: ""
+  email: vivian.figures@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Vivian_Figures
+  - https://en.wikipedia.org/wiki/Vivian_Davis_Figures
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Figures&OID_SPONSOR=100476&OID_PERSON=1027&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100476&OID_PERSON=1027
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  - https://www.linkedin.com/in/vivian-figures-4661262a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-kitchens-wes
+  openstates_id: ocd-person/3f143edf-eac6-4bee-89b3-c5ac0b0b856e
+  full_name: Wes Kitchens
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Kitchens_9.png
+  phone: ""
+  email: weskitchens@mclo.org
+  address: ""
+  official_website: https://alison.legislature.state.al.us/house-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/009-district9-senator
+  - https://ballotpedia.org/Wes_Kitchens
+  - https://en.wikipedia.org/wiki/Wes_Kitchens
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/180577/wes-kitchens
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Kitchens&OID_SPONSOR=100507&OID_PERSON=8496&SESSNAME=
+  - https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100507&OID_PERSON=8496
+  - https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-barfoot-will
+  openstates_id: ocd-person/8cca1495-936e-4ac5-920a-cc4aa22e495e
+  full_name: Will Barfoot
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Barfoot_25.png
+  phone: ""
+  email: will.barfoot@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://alsenaterepublicans.org/representatives/0025-will-barfoot
+  - https://ballotpedia.org/Will_Barfoot
+  - https://en.wikipedia.org/wiki/Will_Barfoot
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/biography/56865/will-barfoot
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Barfoot&OID_SPONSOR=100468&OID_PERSON=8486&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100468&OID_PERSON=8486
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  - https://www.linkedin.com/in/will-barfoot-b4001a31
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: al-sen-beasley-billy
+  openstates_id: ocd-person/38c5b433-f53c-4073-a2da-a969e4c31696
+  full_name: Billy Beasley
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Democratic
+  status: active
+  photo_url: https://www.legislature.state.al.us/pdf/senate/members/Beasley_28.png
+  phone: ""
+  email: billy.beasley@alsenate.gov
+  address: ""
+  official_website: https://alison.legislature.state.al.us/senate-leaders-members
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Billy_Beasley
+  - https://en.wikipedia.org/wiki/Billy_Beasley
+  - https://gql.api.alison.legislature.state.al.us/graphql
+  - https://justfacts.votesmart.org/candidate/15872/billy-beasley
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Beasley&OID_SPONSOR=100471&OID_PERSON=3302&SESSNAME=Regular%20Session%202022
+  - https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100471&OID_PERSON=3302
+  - https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+  - https://www.linkedin.com/in/billy-beasley-b087b245
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

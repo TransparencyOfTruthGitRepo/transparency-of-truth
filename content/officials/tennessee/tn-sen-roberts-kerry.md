@@ -1,0 +1,22 @@
+---
+title: "Kerry Roberts"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "tn-sen-roberts-kerry"
+full_name: "Kerry Roberts"
+state: "tennessee"
+state_abbrev: "TN"
+office_title: "State Senator"
+chamber: "senate"
+district: "23"
+party: "Republican"
+status: "active"
+official_website: "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S23"
+email: "sen.kerry.roberts@capitol.tn.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

@@ -1,4 +1,1529 @@
 ﻿state: nevada
 state_abbrev: NV
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: nv-hou-hansen-alexis
+  openstates_id: ocd-person/6fee4c5a-f125-46bc-b11a-d254e40428e4
+  full_name: Alexis Hansen
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Hansen.Alexis.366.jpg
+  phone: ""
+  email: alexis.hansen@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=366
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alexis_Hansen
+  - https://en.wikipedia.org/wiki/Alexis_Hansen
+  - https://justfacts.votesmart.org/candidate/180994/alexis-hansen
+  - https://www.alexishansennv.com/about-alexis
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=366
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current                              "
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/32
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-taylor-angie
+  openstates_id: ocd-person/d95b3a70-9bb4-43b8-a376-9d3151f9c44d
+  full_name: Angie Taylor
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Taylor.Angela.424.jpg
+  phone: ""
+  email: angela.taylor@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Angie_Taylor
+  - https://en.wikipedia.org/wiki/Angie_Taylor
+  - https://justfacts.votesmart.org/candidate/121893/angela-taylor
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current                             "
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/15
+  - https://www.linkedin.com/in/angie-taylor
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-gurr-bert
+  openstates_id: ocd-person/11f44d71-88c1-4022-a2f5-f8ca9b8795f2
+  full_name: Bert Gurr
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Gurr.Bert.402.jpg
+  phone: ""
+  email: bert.gurr@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/33
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bert_Gurr
+  - https://en.wikipedia.org/wiki/Bert_Gurr
+  - https://justfacts.votesmart.org/candidate/204095/bert-gurr
+  - https://www.gurr4nevada.com/about
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/33
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/33 "
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-osborn-blayne
+  openstates_id: ocd-person/b89aa9d2-1550-4e73-8981-ffa49b7113ad
+  full_name: Blayne Osborn
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: http://www.leg.state.nv.us/Session/36th2025Special/legislators/Assembly/Images/Osborn.Blayne.427.jpg
+  phone: ""
+  email: blayne.osborn@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/36th2025Special/39
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Blayne_Osborn
+  - https://en.wikipedia.org/wiki/Blayne_Osborn
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/36th2025Special/39
+  - https://www.linkedin.com/in/blayne-osborn-73301b29
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-hibbetts-brian
+  openstates_id: ocd-person/20c9828b-8026-440a-9328-0c2cbcbad016
+  full_name: Brian Hibbetts
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Hibbetts.Brian.394.jpg
+  phone: ""
+  email: brian.hibbetts@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/13
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Hibbetts
+  - https://en.wikipedia.org/wiki/Brian_Hibbetts
+  - https://justfacts.votesmart.org/candidate/204187/brian-hibbetts
+  - https://www.brianhibbetts.com/about
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/13
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/13                              "                           "
+  - https://www.linkedin.com/in/brian-hibbetts-701326103
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-miller-brittney
+  openstates_id: ocd-person/287d0078-78f3-4717-8493-9f77d0eb57d6
+  full_name: Brittney Miller
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Miller.Brittney.304.jpg
+  phone: ""
+  email: brittney.miller@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=304
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brittney_Miller
+  - https://en.wikipedia.org/wiki/Brittney_Miller
+  - https://justfacts.votesmart.org/candidate/biography/169513/brittney-miller
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=304
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/5
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/5                           "                            "
+  - https://www.linkedin.com/in/brittney-miller-6227a865
+  - https://www.miller4thepeople.com/meet-brittney
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-buck-carrie
+  openstates_id: ocd-person/189d270a-96e5-45af-a2b8-bbcc2ad225c1
+  full_name: Carrie Buck
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Buck.Carrie.387.jpg
+  phone: ""
+  email: carrie.buck@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=387
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Carrie_Buck_(Nevada)
+  - https://en.wikipedia.org/wiki/Carrie_A._Buck
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=387
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/5
+  - https://www.linkedin.com/in/dr-carrie-a-buck-1111b488
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-gonzlez-cecelia
+  openstates_id: ocd-person/67f22a3d-05c3-4256-8260-dac682607fc7
+  full_name: Cecelia González
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Gonzlez.Cecelia.378.jpg
+  phone: ""
+  email: cecelia.gonzalez@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=378
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cecelia_Gonz%C3%A1lez
+  - https://en.wikipedia.org/wiki/Cecelia_Gonz%C3%A1lez
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=378
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/16
+  - https://www.linkedin.com/in/cecelia-gonz%C3%A1lez-484738174
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-moore-cinthia
+  openstates_id: ocd-person/0828d1f5-5772-4e62-88d8-1650abb8b749
+  full_name: Cinthia Moore
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Moore.Cinthia.412.jpg
+  phone: ""
+  email: cinthia.moore@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/11
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cinthia_Moore
+  - https://en.wikipedia.org/wiki/Cinthia_Zerme%C3%B1o_Moore
+  - https://justfacts.votesmart.org/candidate/180969/cinthia-moore
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/11
+  - https://www.linkedin.com/in/cinthia-moore-008a7445
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-monroemoreno-daniele
+  openstates_id: ocd-person/b266a1bc-d8f5-472c-ba8d-e98e0d904ee3
+  full_name: Daniele Monroe-Moreno
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/MonroeMoreno.Daniele.307.jpg
+  phone: ""
+  email: daniele.monroemoreno@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=307
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Daniele_Monroe-Moreno
+  - https://en.wikipedia.org/wiki/Daniele_Monroe-Moreno
+  - https://justfacts.votesmart.org/candidate/biography/169498/daniele-monroe-moreno
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=307
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/1
+  - https://www.linkedin.com/in/daniele-monroe-moreno-8089062a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-gallant-danielle
+  openstates_id: ocd-person/bf8b61a8-585a-4357-82f8-bd8de898262b
+  full_name: Danielle Gallant
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Gallant.Danielle.397.jpg
+  phone: ""
+  email: danielle.gallant@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/23
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Danielle_Gallant
+  - https://en.wikipedia.org/wiki/Danielle_Gallant
+  - https://justfacts.votesmart.org/candidate/key-votes/204208/danielle-gallant
+  - https://www.daniellefornv.com/about
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/23
+  - https://www.linkedin.com/in/danielle-gallant-a5267721
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-orentlicher-david
+  openstates_id: ocd-person/7d16a086-5877-48e9-9e76-13c5159f89ce
+  full_name: David Orentlicher
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: http://www.leg.state.nv.us/Session/36th2025Special/legislators/Assembly/Images/Orentlicher.David.377.jpg
+  phone: ""
+  email: david.orentlicher@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=377
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Orentlicher
+  - https://en.wikipedia.org/wiki/David_Orentlicher
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=377
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/20
+  - https://www.linkedin.com/in/davidorentlicher
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-neal-dina
+  openstates_id: ocd-person/6da4be55-c493-4b72-b436-5257259247d2
+  full_name: Dina Neal
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/81st2021/legislators/Senators/Images/Neal.Dina.129.jpg
+  phone: ""
+  email: dina.neal@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=129
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dina_Neal
+  - https://en.wikipedia.org/wiki/Dina_Neal
+  - https://justfacts.votesmart.org/candidate/biography/121828/dina-neal
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=129
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/4
+  - https://www.linkedin.com/in/dina-neal-juris-doctorate-8980b723
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-nguyen-duy
+  openstates_id: ocd-person/fb919fa4-e37e-4268-9f5d-e4c3e9490475
+  full_name: Duy Nguyen
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Nguyen.Duy.392.jpg
+  phone: ""
+  email: duy.nguyen@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/8
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Duy_Nguyen_(Nevada)
+  - https://en.wikipedia.org/wiki/Duy_Nguyen
+  - https://justfacts.votesmart.org/candidate/204172/duy-nguyen
+  - https://www.duyfornv.com/about-duy
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/8
+  - https://www.linkedin.com/in/duymba
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-flores-edgar
+  openstates_id: ocd-person/e5b06346-f5ee-4e1d-baed-342cc4a8ff36
+  full_name: Edgar Flores
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/Flores.Edgar.273.jpg
+  phone: ""
+  email: edgar.flores@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=273
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Edgar_Flores
+  - https://en.wikipedia.org/wiki/Edgar_Flores_(politician)
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=273
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/28
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/2
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-marzola-elaine
+  openstates_id: ocd-person/a76836f8-24c9-4f90-8e13-29f417a7ad9f
+  full_name: Elaine Marzola
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Marzola.Elaine.376.jpg
+  phone: ""
+  email: elaine.marzola@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=376
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elaine_Marzola
+  - https://en.wikipedia.org/wiki/Elaine_Marzola
+  - https://justfacts.votesmart.org/candidate/191161/elaine-marzola
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=376
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/21
+  - https://www.linkedin.com/in/elaine-marzola-964b51115
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-mosca-erica
+  openstates_id: ocd-person/39e0ca55-992e-4558-aec5-279adb467de7
+  full_name: Erica Mosca
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Mosca.Erica.395.jpg
+  phone: ""
+  email: erica.mosca@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/14
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Erica_Mosca
+  - https://en.wikipedia.org/wiki/Erica_Mosca
+  - https://justfacts.votesmart.org/candidate/169547/erica-mosca
+  - https://www.ericamosca.com/about-erica
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/14
+  - https://www.linkedin.com/in/emlv
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-roth-erica
+  openstates_id: ocd-person/1555ff9d-7b4a-46d9-be19-6a4be444f574
+  full_name: Erica Roth
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Roth.Erica.413.jpg
+  phone: ""
+  email: erica.roth@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/24
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Erica_Roth
+  - https://justfacts.votesmart.org/candidate/215856/erica-roth
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/24
+  - https://www.linkedin.com/in/ericarothesq
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-doate-fabian
+  openstates_id: ocd-person/bcad4dc1-c812-409b-9cc9-e1d8c91fdafa
+  full_name: Fabian Doñate
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/Doate.Fabian.350.jpg
+  phone: ""
+  email: fabian.donate@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/10
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Fabian_Donate
+  - https://en.wikipedia.org/wiki/Fabian_Do%C3%B1ate
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/10
+  - https://www.linkedin.com/in/fabiandonate
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-koenig-gregory
+  openstates_id: ocd-person/1c4f97a9-c965-4d0d-b5b6-39b91aee4f49
+  full_name: Gregory Koenig
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Republican
+  status: active
+  photo_url: http://www.leg.state.nv.us/Session/36th2025Special/legislators/Assembly/Images/Koenig.Gregory.403.jpg
+  phone: ""
+  email: gregory.koenig@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/38
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gregory_Koenig
+  - https://en.wikipedia.org/wiki/Gregory_Koenig
+  - https://justfacts.votesmart.org/candidate/204098/gregory-koenig
+  - https://koenigforassembly.com/about
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/38
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-hafen-greg
+  openstates_id: ocd-person/33330e1e-b22d-49d7-bce8-6964b289683a
+  full_name: Greg Hafen
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Hafen.Gregory.371.jpg
+  phone: ""
+  email: gregory.hafen@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=371
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gregory_Hafen
+  - https://en.wikipedia.org/wiki/Gregory_Hafen_II
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=371
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/36
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-nadeem-hanadi
+  openstates_id: ocd-person/684e4e66-da40-4914-943a-40ef578fa231
+  full_name: Hanadi Nadeem
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Hanadi_Nadeem1.jpeg
+  phone: ""
+  email: hanadi.nadeem@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/34
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Hanadi_Nadeem
+  - https://en.wikipedia.org/wiki/Hanadi_Nadeem
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/34
+  - https://www.linkedin.com/in/hanadi-nadeem-b0ba8a38
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-goulding-heather
+  openstates_id: ocd-person/bedabc75-c6b4-4949-9e0e-76b9432e740f
+  full_name: Heather Goulding
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Goulding.Heather.416.jpg
+  phone: ""
+  email: heather.goulding@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Heather_Goulding
+  - https://en.wikipedia.org/wiki/Heather_Goulding
+  - https://justfacts.votesmart.org/candidate/215861/heather-goulding
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27
+  - https://www.linkedin.com/in/heather-goulding-6b532511
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-kasama-heidi
+  openstates_id: ocd-person/61389b89-1169-49b3-a17b-c904f2111b4e
+  full_name: Heidi Kasama
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: http://www.leg.state.nv.us/Session/36th2025Special/legislators/Assembly/Images/Kasama.Heidi.379.jpg
+  phone: ""
+  email: heidi.kasama@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=379
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Heidi_Kasama
+  - https://en.wikipedia.org/wiki/Heidi_Kasama
+  - https://justfacts.votesmart.org/candidate/191090/heidi-kasama
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=379
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/2
+  - https://www.linkedin.com/in/heidikasama
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-watts-howard
+  openstates_id: ocd-person/b88fd854-c97b-4908-a554-583b93bca5c4
+  full_name: Howard Watts
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Watts.Howard.363.jpg
+  phone: ""
+  email: howard.watts@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=363
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Howard_Watts_III
+  - https://en.wikipedia.org/wiki/Howard_Watts_III
+  - https://justfacts.votesmart.org/candidate/180976/howard-watts-iii
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=363
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/15
+  - https://www.linkedin.com/in/howard-watts-iii-9a1321109
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-hansen-ira
+  openstates_id: ocd-person/94c7e249-88bb-4f83-b225-6b34f9361d0f
+  full_name: Ira Hansen
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Hansen.Ira.157.jpg
+  phone: ""
+  email: ira.hansen@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=157
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ira_Hansen
+  - https://en.wikipedia.org/wiki/Ira_Hansen
+  - https://justfacts.votesmart.org/candidate/121908/ira-hansen
+  - https://www.irahansen.com/about-ira
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=157
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/14
+  - https://www.linkedin.com/in/ira-hansen-305b0149
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-ohrenschall-james
+  openstates_id: ocd-person/75d6c9b4-d0ee-49bb-aa17-ec20bb33e9eb
+  full_name: James Ohrenschall
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/80th2019/legislators/Senators/Images/Ohrenschall.James.67.jpg
+  phone: ""
+  email: james.ohrenschall@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=67
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_Ohrenschall
+  - https://en.wikipedia.org/wiki/James_Ohrenschall
+  - https://justfacts.votesmart.org/candidate/biography/66853/james-ohrenschall
+  - https://www.jamesohrenschall.com/about
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=67
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/21
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-patchett-jason
+  openstates_id: ocd-person/4e25af9f-4cb3-4812-8a12-2f1012aa6cb7
+  full_name: Jason Patchett
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://media.lasvegassun.com/media/img/photos/2016/06/08/Patchett_Jason_t650.jpg?5711a3b57decb389a12ba40e20471e031ff69545
+  phone: ""
+  email: jason.patchett@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/19
+  twitter: ""
+  source_urls:
+  - https://en.wikipedia.org/wiki/Jason_Patchett
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/19
+  - https://www.linkedin.com/in/jason-b-patchett-esq-746247b4
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-stone-jeff
+  openstates_id: ocd-person/00ad1837-b472-4ce8-872d-e1eac1c1c6db
+  full_name: Jeff Stone
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Stone.Jeff.390.jpg
+  phone: ""
+  email: jeff.stone@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/20
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Stone_(California)
+  - https://en.wikipedia.org/wiki/Jeff_Stone_(California_politician)
+  - https://justfacts.votesmart.org/candidate/204154/jeffery-stone
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/20
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-dickman-jill
+  openstates_id: ocd-person/70e15282-2812-4486-9d7e-06862aa45cc3
+  full_name: Jill Dickman
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: http://www.leg.state.nv.us/Session/36th2025Special/legislators/Assembly/Images/Dickman.Jill.277.jpg
+  phone: ""
+  email: jill.dickman@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=277
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jill_Dickman
+  - https://en.wikipedia.org/wiki/Jill_Dickman
+  - https://justfacts.votesmart.org/candidate/key-votes/152682/jill-dickman
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=277
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/31
+  - https://www.linkedin.com/in/jill-dickman-59aa3985
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-dalia-joe
+  openstates_id: ocd-person/282757f9-1693-4ac5-bd98-4315543cd61a
+  full_name: Joe Dalia
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Dalia.Joe.414.jpg
+  phone: ""
+  email: joe.dalia@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/29
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_Dalia
+  - https://en.wikipedia.org/wiki/Joe_Dalia
+  - https://justfacts.votesmart.org/candidate/204215/joe-dalia
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/29
+  - https://www.linkedin.com/in/joe-dalia-3b89a8166
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-ellison-john
+  openstates_id: ocd-person/87e878e2-fd19-4b55-a7b5-b76adf520e84
+  full_name: John Ellison
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/Ellison.John.159.jpg
+  phone: ""
+  email: john.ellison@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=159
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Ellison
+  - https://en.wikipedia.org/wiki/John_Ellison_%28politician%29
+  - https://justfacts.votesmart.org/candidate/90566/john-ellison
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=159
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/33
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/19
+  - https://www.linkedin.com/in/john-ellison-a7858246
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-steinbeck-john
+  openstates_id: ocd-person/deb46b96-7bab-40be-a145-8d397b436d87
+  full_name: John Steinbeck
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: http://www.leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Steinbeck.John.418.jpg
+  phone: ""
+  email: john.steinbeck@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/18
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Steinbeck
+  - https://en.wikipedia.org/wiki/John_Steinbeck_(politician)
+  - https://justfacts.votesmart.org/candidate/215917/john-steinbeck
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/18
+  - https://www.linkedin.com/in/john-steinbeck-aa6b97ab
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-jackson-jovan
+  openstates_id: ocd-person/b6a16a74-3cb4-43c1-83cd-1b6f211993a0
+  full_name: Jovan Jackson
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Jackson.Jovan.422.jpg
+  phone: ""
+  email: jovan.jackson@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/6
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jovan_Jackson
+  - https://en.wikipedia.org/wiki/Jovan_Jackson
+  - https://justfacts.votesmart.org/candidate/215893/jovan-jackson
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/6
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-pazina-julie
+  openstates_id: ocd-person/a12a3103-37b0-4ac4-81f0-100aaad494e3
+  full_name: Julie Pazina
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/Pazina.Julie.391.jpg
+  phone: ""
+  email: julie.pazina@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/12
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Julie_Pazina
+  - https://en.wikipedia.org/wiki/Julie_Pazina
+  - https://justfacts.votesmart.org/candidate/biography/180946/julie-pazina
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/12
+  - https://www.linkedin.com/in/julie-pazina-cem-ap-9b31a55
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-hunt-linda
+  openstates_id: ocd-person/9a681fc4-e005-4c1f-a16b-6fa2b02106e3
+  full_name: Linda Hunt
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Hunt.Linda.420.jpg
+  phone: ""
+  email: linda.hunt@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/17
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Linda_Hunt_(Nevada)
+  - https://en.wikipedia.org/wiki/Linda_Hunt_(politician)
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/17
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-cole-lisa
+  openstates_id: ocd-person/1707682b-c409-4d5e-9a2d-9505180de66c
+  full_name: Lisa Cole
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Cole.Lisa.410.jpg
+  phone: ""
+  email: lisa.cole@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/4
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lisa_Cole_(Nevada)
+  - https://en.wikipedia.org/wiki/Lisa_Cole_(politician)
+  - https://justfacts.votesmart.org/candidate/215876/lisa-cole
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/4
+  - https://www.linkedin.com/in/lisa-cole-48551264
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-krasner-lisa
+  openstates_id: ocd-person/b82b9b71-1d83-4f91-9a7f-8adec73b023f
+  full_name: Lisa Krasner
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Krasner.Lisa.327.jpg
+  phone: ""
+  email: lisa.krasner@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=327
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lisa_Krasner
+  - https://en.wikipedia.org/wiki/Lisa_Krasner
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=327
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/26
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/16
+  - https://www.linkedin.com/in/lisa-krasner-36a345b4
+  - https://www.lisakrasnerfornevada.com/meet-lisa
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-rogich-lori
+  openstates_id: ocd-person/f3c4b2a7-2a24-4ba2-9894-421daed2d117
+  full_name: Lori Rogich
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: http://www.leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Rogich.Lori.425.jpg
+  phone: ""
+  email: lori.rogich@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/11
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lori_Rogich
+  - https://en.wikipedia.org/wiki/Lori_Rogich
+  - https://justfacts.votesmart.org/candidate/biography/215911/lori-rogich
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/11
+  - https://www.linkedin.com/in/lori-rogich-249029174
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-loop-marilyn
+  openstates_id: ocd-person/0435a1f4-d8e4-43d9-9ac1-788a0aed92e4
+  full_name: Marilyn Dondero Loop
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/80th2019/legislators/Senators/Images/DonderoLoop.Marilyn.92.jpg
+  phone: ""
+  email: marilyn.donderoloop@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=92
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marilyn_Dondero_Loop
+  - https://en.wikipedia.org/wiki/Marilyn_Dondero_Loop
+  - https://justfacts.votesmart.org/candidate/biography/106888/marilyn-dondero-loop
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=92
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/8
+  - https://www.linkedin.com/in/marilyn-dondero-loop-aa496b78
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-carter-max
+  openstates_id: ocd-person/bd27bab3-8a47-439f-8ae5-8ce3ba534f90
+  full_name: Max Carter
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Carter.Max.393.jpg
+  phone: ""
+  email: max.carter@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/12
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Max_Carter_II
+  - https://en.wikipedia.org/wiki/Max_Carter
+  - https://justfacts.votesmart.org/candidate/204180/max-carter
+  - https://nevadarealtorssupport.com/max-carter-ii
+  - https://www.carter4nv.com/about-max
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/12
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/12                               "
+  - https://www.linkedin.com/in/max-carter-ii-0b630867
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-scheible-melanie
+  openstates_id: ocd-person/860029b3-070b-4c23-a826-51948c5d995c
+  full_name: Melanie Scheible
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Scheible.Melanie.358.jpg
+  phone: ""
+  email: melanie.scheible@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=358
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Melanie_Scheible
+  - https://en.wikipedia.org/wiki/Melanie_Scheible
+  - https://justfacts.votesmart.org/candidate/biography/180937/melanie-scheible
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=358
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/9
+  - https://www.linkedin.com/in/melanie-scheible-52351622
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-hardy-melissa
+  openstates_id: ocd-person/5cafbfaf-3066-4080-9754-b53f337ba4ba
+  full_name: Melissa Hardy
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Hardy.Melissa.364.jpg
+  phone: ""
+  email: melissa.hardy@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=364
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Melissa_Hardy
+  - https://en.wikipedia.org/wiki/Melissa_Hardy
+  - https://justfacts.votesmart.org/candidate/180981/melissa-hardy
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=364
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/22
+  - https://www.linkedin.com/in/melissa-hardy-59505a26
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-anderson-natha
+  openstates_id: ocd-person/d4a1125a-69d2-4de1-a4b4-af2aae20de09
+  full_name: Natha Anderson
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Anderson.Natha.375.jpg
+  phone: ""
+  email: natha.anderson@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=375
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Natha_Anderson
+  - https://en.wikipedia.org/wiki/Natha_Anderson
+  - https://justfacts.votesmart.org/candidate/biography/191357/natha-anderson
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=375
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/30
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-cannizzaro-nicole
+  openstates_id: ocd-person/d2ca0a59-3bf1-4e1c-b4d7-9da33a4c5152
+  full_name: Nicole Cannizzaro
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Cannizzaro.Nicole.347.jpg
+  phone: ""
+  email: nicole.cannizzaro@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=347
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nicole_Cannizzaro
+  - https://en.wikipedia.org/wiki/Nicole_Cannizzaro
+  - https://justfacts.votesmart.org/candidate/biography/169489/nicole-cannizzaro
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=347
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/6
+  - https://www.linkedin.com/in/nicole-cannizzaro-03152b7
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-oneill-pk
+  openstates_id: ocd-person/a964be66-bd32-48ab-b6c4-9ede22177328
+  full_name: P.K. O'Neill
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/ONeill.PhilipPK.285.jpg
+  phone: ""
+  email: pk.oneill@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=285
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Philip_O%27Neill
+  - https://en.wikipedia.org/wiki/P._K._O%27Neill
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=285
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/40
+  - https://www.linkedin.com/in/pk-oneill-19036037
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-edgeworth-rebecca
+  openstates_id: ocd-person/0460d67c-f5e3-4ff8-82c3-27caabeff9a2
+  full_name: Rebecca Edgeworth
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Edgeworth.Rebecca.411.jpg
+  phone: ""
+  email: rebecca.edgeworth@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/35
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rebecca_Edgeworth
+  - https://en.wikipedia.org/wiki/Rebecca_Edgeworth
+  - https://justfacts.votesmart.org/candidate/215873/rebecca-edgeworth
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/35
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-dsilva-reuben
+  openstates_id: ocd-person/eae59702-f6de-431e-98f0-9c4bc5b6e059
+  full_name: Reuben D'Silva
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/DSilva.Reuben.401.jpg
+  phone: ""
+  email: reuben.dsilva@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/28
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Reuben_D%27Silva
+  - https://dsilvafornevada.com/copy-of-biography
+  - https://en.wikipedia.org/wiki/Reuben_D%27Silva
+  - https://justfacts.votesmart.org/candidate/biography/169437/reuben-dsilva
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/28
+  - https://www.linkedin.com/in/reuben-d-silva-90077414
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-delong-rich
+  openstates_id: ocd-person/204b492e-4b29-4e8e-9c3e-d2d0f0a8ceea
+  full_name: Rich DeLong
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/DeLong.Rich.399.jpg
+  phone: ""
+  email: rich.delong@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/26
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rich_DeLong
+  - https://en.wikipedia.org/wiki/Rich_DeLong
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/26
+  - https://www.linkedin.com/in/richard-delong-b5771319
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-lange-roberta
+  openstates_id: ocd-person/05dee0b4-bfea-4473-b253-739895818b0d
+  full_name: Roberta Lange
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Lange.Roberta.383.jpg
+  phone: ""
+  email: roberta.lange@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=383
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Roberta_Lange
+  - https://en.wikipedia.org/wiki/Roberta_Lange
+  - https://justfacts.votesmart.org/candidate/191084/roberta-lange
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=383
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/7
+  - https://www.linkedin.com/in/robertalange
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-titus-robin
+  openstates_id: ocd-person/6aa57859-c195-4a44-9404-b6e2bbe4ac04
+  full_name: Robin Titus
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Titus.Robin.281.jpg
+  phone: ""
+  email: robin.titus@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=281
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robin_Titus
+  - https://en.wikipedia.org/wiki/Robin_L._Titus
+  - https://justfacts.votesmart.org/candidate/biography/151015/robin-titus
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=281
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/38
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/17
+  - https://www.linkedin.com/in/dr-robin-titus-a4917126
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-nguyen-rochelle
+  openstates_id: ocd-person/d84ad99c-617a-4d33-a351-8bde19868746
+  full_name: Rochelle Nguyen
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/Nguyen.Rochelle.372.jpg
+  phone: ""
+  email: rochelle.nguyen@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=372
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rochelle_Nguyen
+  - https://en.wikipedia.org/wiki/Rochelle_Nguyen
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=372
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/10
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/3
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-jauregui-sandra
+  openstates_id: ocd-person/25e09131-39e3-4c58-96b0-6c1ac9e74b19
+  full_name: Sandra Jauregui
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Jauregui.Sandra.344.jpg
+  phone: ""
+  email: sandra.jauregui@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=344
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sandra_Jauregui
+  - https://en.wikipedia.org/wiki/Sandra_Jauregui
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=344
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/41
+  - https://www.linkedin.com/in/sandra-jauregui-856631a7
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-hatch-selena
+  openstates_id: ocd-person/99f4f903-1c4f-49f0-835f-c0b9b1aa0317
+  full_name: Selena La Rue Hatch
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/LaRueHatch.Selena.398.jpg
+  phone: ""
+  email: selena.la.rue.hatch@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/25
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Selena_La_Rue_Hatch
+  - https://en.wikipedia.org/wiki/Selena_La_Rue_Hatch
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/25
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-torresfossett-selena
+  openstates_id: ocd-person/59a3b5f2-a135-48e5-9baa-98585f8ff35e
+  full_name: Selena Torres-Fossett
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Torres.Selena.359.jpg
+  phone: ""
+  email: selena.torres@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=359
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Selena_Torres
+  - https://ballotpedia.org/Selena_Torres-Fossett
+  - https://en.wikipedia.org/wiki/Selena_Torres
+  - https://justfacts.votesmart.org/candidate/180952/selena-torres
+  - https://justfacts.votesmart.org/candidate/biography/180952/selena-torres
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=359
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/3
+  - https://www.linkedin.com/in/selena-torres-6a755683
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-backus-shea
+  openstates_id: ocd-person/1fa69460-c910-4cf1-acfb-1d44c342e658
+  full_name: Shea Backus
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Democratic
+  status: active
+  photo_url: http://www.leg.state.nv.us/Session/36th2025Special/legislators/Assembly/Images/Backus.Shea.368.jpg
+  phone: ""
+  email: shea.backus@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/37
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shea_Backus
+  - https://en.wikipedia.org/wiki/Shea_Backus
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/37
+  - https://www.linkedin.com/in/shea-backus-7369231b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-crawford-shelly
+  openstates_id: ocd-person/4acffaa7-5568-47e3-b476-bdf23867605e
+  full_name: Shelly Crawford
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/CruzCrawford.MicheleeShelly.419.jpg
+  phone: ""
+  email: shelly.cruzcrawford@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/1
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michelee_Crawford
+  - https://en.wikipedia.org/wiki/Michelee_Crawford
+  - https://justfacts.votesmart.org/candidate/215905/shelly-crawford
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/1
+  - https://www.linkedin.com/in/michelee-crawford-ronnow-es-3ab761274
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-sen-daly-skip
+  openstates_id: ocd-person/a0553b6f-7142-4321-9e3a-c089447d3a78
+  full_name: Skip Daly
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/Daly.Skip.155.jpg
+  phone: ""
+  email: skip.daly@sen.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/13
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Skip_Daly
+  - https://en.wikipedia.org/wiki/Skip_Daly
+  - https://justfacts.votesmart.org/candidate/biography/121904/skip-daly
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/13
+  - https://www.linkedin.com/in/skip-daly-01a69a84
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-yeager-steve
+  openstates_id: ocd-person/4caae060-1c91-4d9d-a8f9-83d74c7d0f58
+  full_name: Steve Yeager
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Yeager.Steve.310.jpg
+  phone: ""
+  email: steve.yeager@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=310
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Yeager
+  - https://en.wikipedia.org/wiki/Steve_Yeager_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/152786/steve-yeager
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=310
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/9
+  - https://www.linkedin.com/in/steve-yeager-a2598882
+  - https://www.yeager4nevada.com/about.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-flanagan-tanya
+  openstates_id: ocd-person/1af6f404-0dfc-424a-b6df-227f45782504
+  full_name: Tanya Flanagan
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Flanagan.Tanya.423.jpg
+  phone: ""
+  email: tanya.flanagan@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/7
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tanya_Flanagan
+  - https://en.wikipedia.org/wiki/Tanya_Flanagan
+  - https://justfacts.votesmart.org/candidate/political-courage-test/215897/tanya-flanagan
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/7
+  - https://www.linkedin.com/in/tanya-flanagan-8676882
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-brownmay-tracy
+  openstates_id: ocd-person/fc07db44-bc3c-412b-a15e-dd013220411a
+  full_name: Tracy Brown-May
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/BrownMay.Tracy.353.jpg
+  phone: ""
+  email: tracy.brownmay@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/42
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tracy_Brown-May
+  - https://en.wikipedia.org/wiki/Tracy_Brown-May
+  - https://justfacts.votesmart.org/candidate/195813/tracy-brown-may
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/42
+  - https://www.linkedin.com/in/tracy-brown-may-a660a639
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-considine-venicia
+  openstates_id: ocd-person/00175071-948a-4814-b66e-b07b2ec7785d
+  full_name: Venicia Considine
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Democratic
+  status: active
+  photo_url: http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/Considine.Venicia.380.jpg
+  phone: ""
+  email: venicia.considine@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=380
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Venicia_Considine
+  - https://en.wikipedia.org/wiki/Venicia_Considine
+  - https://justfacts.votesmart.org/candidate/biography/107008/venicia-considine
+  - https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=380
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/18
+  - https://www.linkedin.com/in/venicia-considine-532aa63
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: nv-hou-karris-venise
+  openstates_id: ocd-person/c1af6bc9-bae5-4174-a2f1-6b4d3c5fc496
+  full_name: Venise Karris
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/VeniseKarris2024.jpg
+  phone: ""
+  email: venise.karris@asm.state.nv.us
+  address: ""
+  official_website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/10
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Venise_Karris
+  - https://en.wikipedia.org/wiki/Venise_Karris
+  - https://justfacts.votesmart.org/candidate/key-votes/215840/venise-karris
+  - https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/10
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

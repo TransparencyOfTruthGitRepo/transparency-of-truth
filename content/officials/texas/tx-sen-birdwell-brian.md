@@ -1,0 +1,22 @@
+---
+title: "Brian Birdwell"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "tx-sen-birdwell-brian"
+full_name: "Brian Birdwell"
+state: "texas"
+state_abbrev: "TX"
+office_title: "State Senator"
+chamber: "senate"
+district: "22"
+party: "Republican"
+status: "active"
+official_website: "https://senate.texas.gov/member.php?d=22"
+email: "brian.birdwell@senate.texas.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+

@@ -1,4 +1,4254 @@
 ﻿state: south-carolina
 state_abbrev: SC
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: sc-sen-massey-shane
+  openstates_id: ocd-person/340b7b78-4f07-49ef-8872-dab35cf48c5c
+  full_name: Shane Massey
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1185227131.jpg
+  phone: ""
+  email: shanemassey@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1185227131
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shane_Massey
+  - https://en.wikipedia.org/wiki/A._Shane_Massey
+  - https://justfacts.votesmart.org/candidate/biography/101903/shane-massey
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=1185227131
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=1185227131
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-duncan-adam
+  openstates_id: ocd-person/0970c995-247f-4cc0-b0a3-8ee4a0e4ebcb
+  full_name: Adam Duncan
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://bloximages.chicago2.vip.townnews.com/upstatetoday.com/content/tncms/assets/v3/editorial/2/db/2dbe7f98-2879-11ef-8c0d-7356b5095dbe/66692c7a1bcf4.image.jpg?crop=1045%2C588%2C12%2C42&resize=1045%2C588&order=crop%2Cresize
+  phone: ""
+  email: adamduncan@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0502272667
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Adam_Duncan
+  - https://en.wikipedia.org/wiki/Adam_Lewis_Duncan
+  - https://justfacts.votesmart.org/candidate/biography/216237/adam-duncan
+  - https://www.scstatehouse.gov/member.php?code=0502272667
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-blackmon-allen
+  openstates_id: ocd-person/52d28efd-d83d-4825-8572-c9e30b8d7c77
+  full_name: Allen Blackmon
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://scdailygazette.com/wp-content/uploads/2024/06/image000001-682x1024.jpg
+  phone: ""
+  email: allenblackmon@scsenate.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0143749983
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Allen_Blackmon
+  - https://en.wikipedia.org/wiki/Allen_Blackmon
+  - https://www.scstatehouse.gov/member.php?code=0143749983
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-mcdaniel-annie
+  openstates_id: ocd-person/86e53967-3383-4df1-b3b6-49aa2b327110
+  full_name: Annie McDaniel
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1221590763.jpg
+  phone: ""
+  email: anniemcdaniel@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1221590763
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Annie_McDaniel
+  - https://en.wikipedia.org/wiki/Annie_McDaniel
+  - https://justfacts.votesmart.org/candidate/48010/annie-mcdaniel
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1221590763
+  - https://www.linkedin.com/in/annie-mcdaniel-429a55
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1221590763
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-cromer-april
+  openstates_id: ocd-person/dbb8fc98-5116-44c4-8009-8c91e514dec1
+  full_name: April Cromer
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0434090857.jpg
+  phone: ""
+  email: aprilcromer@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0434090857
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/April_Cromer
+  - https://en.wikipedia.org/wiki/April_Cromer
+  - https://justfacts.votesmart.org/candidate/biography/205385/april-cromer
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0434090857
+  - https://www.scstatehouse.gov/member.php?code=0434090857
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-bernstein-beth
+  openstates_id: ocd-person/a45d8c37-372d-4d32-b9a5-cce96299ea3d
+  full_name: Beth Bernstein
+  office_title: State Representative
+  chamber: house
+  district: "78"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0141477256.jpg
+  phone: ""
+  email: bethbernstein@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0141477256
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Beth_Bernstein
+  - https://en.wikipedia.org/wiki/Beth_Bernstein
+  - https://justfacts.votesmart.org/candidate/biography/139541/beth-bernstein
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0141477256
+  - https://www.linkedin.com/in/beth-bernstein-6475a57
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0141477256
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-taylor-bill
+  openstates_id: ocd-person/010940bd-8041-4f17-b425-5f42c8c07526
+  full_name: Bill Taylor
+  office_title: State Representative
+  chamber: house
+  district: "86"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1811363419.jpg
+  phone: ""
+  email: billtaylor@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1811363419
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Taylor_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Bill_Taylor_(South_Carolina_politician)
+  - https://justfacts.votesmart.org/candidate/biography/121739/bill-taylor
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1811363419
+  - https://www.linkedin.com/in/bill-taylor-5b222219
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1811363419
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-garrett-billy
+  openstates_id: ocd-person/898bb0dc-8dd1-4c29-b7a6-04f87c7cbd2d
+  full_name: Billy Garrett
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0638636287.jpg
+  phone: ""
+  email: billygarrett@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0638636287
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Billy_Garrett_(South_Carolina)
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0638636287
+  - https://www.linkedin.com/in/billy-garrett-1aa86991
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0638636287
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-sanders-blake
+  openstates_id: ocd-person/ddb2ac02-4d91-4379-8c8b-da2353f2163a
+  full_name: Blake Sanders
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/BlakeSanders24.jpg
+  phone: ""
+  email: blakesanders@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1624999805
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Blake_Sanders
+  - https://en.wikipedia.org/wiki/Blake_Sanders
+  - https://justfacts.votesmart.org/candidate/biography/216244/blake-sanders
+  - https://www.linkedin.com/in/rblakesanders
+  - https://www.scstatehouse.gov/member.php?code=1624999805
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-hutto-brad
+  openstates_id: ocd-person/16ba6021-423d-4b0d-b899-d2fe18778c12
+  full_name: Brad Hutto
+  office_title: State Senator
+  chamber: senate
+  district: "40"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0912499891.jpg
+  phone: ""
+  email: bradhutto@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0912499891
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brad_Hutto
+  - https://en.wikipedia.org/wiki/Brad_Hutto
+  - https://justfacts.votesmart.org/candidate/biography/11943/brad-hutto
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0912499891
+  - https://www.linkedin.com/in/brad-hutto-a7639b47
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0912499891
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-guffey-brandon
+  openstates_id: ocd-person/f89d05de-1f18-466c-bd51-f718a208407b
+  full_name: Brandon Guffey
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0730681731.jpg
+  phone: ""
+  email: brandonguffey@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0730681731
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brandon_Guffey
+  - https://en.wikipedia.org/wiki/Brandon_Guffey
+  - https://justfacts.votesmart.org/candidate/biography/205437/brandon-guffey
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0730681731
+  - https://www.linkedin.com/in/guffey
+  - https://www.scstatehouse.gov/member.php?code=0730681731
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-cox-brandon
+  openstates_id: ocd-person/d09020dc-87bc-49b4-a039-2a2809ab88cc
+  full_name: Brandon Cox
+  office_title: State Representative
+  chamber: house
+  district: "92"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0428124949.jpg
+  phone: ""
+  email: brandoncox@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0428124949
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brandon_Cox
+  - https://en.wikipedia.org/wiki/Brandon_Cox_(politician)
+  - https://justfacts.votesmart.org/candidate/174486/brandon-cox
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0428124949
+  - https://www.linkedin.com/in/brandon-cox-18b28a4
+  - https://www.scstatehouse.gov/member.php?code=0428124949
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-newton-brandon
+  openstates_id: ocd-person/aa158d61-1373-4c4a-9ad3-ea74bf422cc3
+  full_name: Brandon Newton
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1418607785.jpg
+  phone: ""
+  email: brandonnewton@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1418607785
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brandon_Newton
+  - https://en.wikipedia.org/wiki/Brandon_Newton
+  - https://justfacts.votesmart.org/candidate/biography/173012/brandon-newton
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1418607785
+  - https://www.linkedin.com/in/brandon-newton-85744026
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1418607785
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-adams-brian
+  openstates_id: ocd-person/9f665ce8-ed4c-4bef-841f-3036ac03a181
+  full_name: Brian Adams
+  office_title: State Senator
+  chamber: senate
+  district: "44"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0002272727.jpg
+  phone: ""
+  email: brianadams@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0002272727
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Adams_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Brian_Adams_(politician)
+  - https://justfacts.votesmart.org/candidate/191565/brian-adams
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0002272727
+  - https://www.linkedin.com/in/brian-adams-9042a074
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0002272727
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-bannister-bruce
+  openstates_id: ocd-person/d4974849-0939-472c-9862-4d760889125e
+  full_name: Bruce Bannister
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0103409079.jpg
+  phone: ""
+  email: brucebannister@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0103409079
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bruce_Bannister
+  - https://en.wikipedia.org/wiki/Bruce_W._Bannister
+  - https://justfacts.votesmart.org/candidate/biography/59275/bruce-bannister
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0103409079
+  - https://www.linkedin.com/in/bruce-bannister-8b2a9b14
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0103409079
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-forrest-cal
+  openstates_id: ocd-person/bbff9a4c-7b59-4538-b869-64ba0c8431ff
+  full_name: Cal Forrest
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0608238564.jpg
+  phone: ""
+  email: calforrest@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0608238564
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cal_Forrest
+  - https://en.wikipedia.org/wiki/Cal_Forrest
+  - https://justfacts.votesmart.org/candidate/biography/168962/cally-forrest
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0608238564
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0608238564
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-anderson-carl
+  openstates_id: ocd-person/c3b55867-85d7-4bf2-b1a0-30dd924ae734
+  full_name: Carl Anderson
+  office_title: State Representative
+  chamber: house
+  district: "103"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0021590907.jpg
+  phone: ""
+  email: carlanderson@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0021590907
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Carl_Anderson_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Carl_Anderson_(South_Carolina_politician)
+  - https://justfacts.votesmart.org/candidate/48270/carl-anderson
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0021590907
+  - https://www.linkedin.com/in/carl-anderson-2339bb46
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0021590907
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-schuessler-carla
+  openstates_id: ocd-person/b082de67-acd5-42db-bdfc-643650ad7e34
+  full_name: Carla Schuessler
+  office_title: State Representative
+  chamber: house
+  district: "61"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1635227077.jpg
+  phone: ""
+  email: carlaschuessler@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1635227077
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Carla_Schuessler
+  - https://en.wikipedia.org/wiki/Carla_Schuessler
+  - https://justfacts.votesmart.org/candidate/biography/205453/carla-schuessler
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1635227077
+  - https://www.linkedin.com/in/carla-schuessler-6b076521
+  - https://www.scstatehouse.gov/member.php?code=1635227077
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-kennedy-carlisle
+  openstates_id: ocd-person/31de54c6-a271-4c9e-a109-35de035197ce
+  full_name: Carlisle Kennedy
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: https://votecarlislekennedy.com/wp-content/uploads/2024/04/MG_3387-scaled.jpg
+  phone: ""
+  email: carlislekennedy@scsenate.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0984090791
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Carlisle_Kennedy
+  - https://en.wikipedia.org/wiki/Carlisle_Kennedy
+  - https://www.linkedin.com/in/carlislekennedy
+  - https://www.scstatehouse.gov/member.php?code=0984090791
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-dillard-chandra
+  openstates_id: ocd-person/2432a9be-a476-4dae-966c-74f01e24fdbb
+  full_name: Chandra Dillard
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0479545397.jpg
+  phone: ""
+  email: chandra@chandradillard.com
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0479545397
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chandra_Dillard
+  - https://en.wikipedia.org/wiki/Chandra_Dillard
+  - https://justfacts.votesmart.org/candidate/biography/77602/chandra-dillard
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0479545397
+  - https://www.linkedin.com/in/chandra-dillard-a0b2457
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0479545397
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-hartz-charlie
+  openstates_id: ocd-person/08342d93-85d9-498e-a602-85ef9715ebf6
+  full_name: Charlie Hartz
+  office_title: State Representative
+  chamber: house
+  district: "81"
+  party: Republican
+  status: active
+  photo_url: https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/6/dd/6ddc9b30-8988-11ef-9d6e-abf6ce2aa967/62e03fbeba019.image.jpg?crop=724%2C987%2C710%2C3&resize=367%2C500&order=crop%2Cresize
+  phone: ""
+  email: charleshartz@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0776136271
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Charles_Hartz
+  - https://en.wikipedia.org/wiki/Charles_Hartz
+  - https://justfacts.votesmart.org/candidate/biography/216357/charles-hartz
+  - https://www.scstatehouse.gov/member.php?code=0776136271
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-huff-chris
+  openstates_id: ocd-person/77bd81c9-3436-4635-a945-11f1cf37ead7
+  full_name: Chris Huff
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://assets.civicengine.com/uploads/candidate/headshot/817554/817554.jpg
+  phone: ""
+  email: chrishuff@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0893181711
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Huff
+  - https://en.wikipedia.org/wiki/Chris_Huff
+  - https://justfacts.votesmart.org/candidate/biography/216312/chris-huff
+  - https://www.scstatehouse.gov/member.php?code=0893181711
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-wooten-chris
+  openstates_id: ocd-person/728e5331-d2ec-4c21-a271-be37ae8843ff
+  full_name: Chris Wooten
+  office_title: State Representative
+  chamber: house
+  district: "69"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1978408854.jpg
+  phone: ""
+  email: chriswooten@schouse.gov.
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1978408854
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Wooten
+  - https://en.wikipedia.org/wiki/Chris_Wooten
+  - https://justfacts.votesmart.org/candidate/biography/177641/chris-wooten
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1978408854
+  - https://www.linkedin.com/in/chris-wooten-58060816
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1978408854
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-hart-chris
+  openstates_id: ocd-person/f9925f2e-d43e-47ff-ba74-f670b65d96e7
+  full_name: Chris Hart
+  office_title: State Representative
+  chamber: house
+  district: "73"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0770454453.jpg
+  phone: ""
+  email: chrishart@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0770454453
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Christopher_Hart
+  - https://en.wikipedia.org/wiki/Christopher_R._Hart
+  - https://justfacts.votesmart.org/candidate/56705/chris-hart
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0770454453
+  - https://www.linkedin.com/in/christopher-hart-a0245128
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0770454453
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-mitchell-cody
+  openstates_id: ocd-person/16726551-937d-43ca-a13b-c94c608d1ba3
+  full_name: Cody Mitchell
+  office_title: State Representative
+  chamber: house
+  district: "65"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1344033930.jpg
+  phone: ""
+  email: codymitchell@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1344033930
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cody_Mitchell
+  - https://en.wikipedia.org/wiki/Cody_Mitchell
+  - https://justfacts.votesmart.org/candidate/205458/cody-mitchell
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1344033930
+  - https://www.linkedin.com/in/cody-mitchell-2838229
+  - https://www.scstatehouse.gov/member.php?code=1344033930
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-waters-courtney
+  openstates_id: ocd-person/0a87faa3-3d88-4fd6-a29f-583102f8c89f
+  full_name: Courtney Waters
+  office_title: State Representative
+  chamber: house
+  district: "113"
+  party: Democratic
+  status: active
+  photo_url: https://courtneywaters.com/wp-content/uploads/2024/11/courtney-waters.jpg
+  phone: ""
+  email: ""
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1896590682
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Courtney_Waters
+  - https://en.wikipedia.org/wiki/Courtney_Waters
+  - https://justfacts.votesmart.org/candidate/biography/220682/courtney-waters
+  - https://www.linkedin.com/in/courtney-waters-47077335
+  - https://www.scstatehouse.gov/member.php?code=1896590682
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-gagnon-craig
+  openstates_id: ocd-person/52ab3f52-ec8b-4268-bfb2-16322df47839
+  full_name: Craig Gagnon
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0632954470.jpg
+  phone: ""
+  email: craiggagnon@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0632954470
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Craig_Gagnon
+  - https://en.wikipedia.org/wiki/Craig_A._Gagnon
+  - https://justfacts.votesmart.org/candidate/biography/139451/craig-gagnon
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0632954470
+  - https://www.linkedin.com/in/craig-gagnon-2209a987
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0632954470
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-verdin-danny
+  openstates_id: ocd-person/0ed8d824-c5b2-47c6-9970-2c475cbfd9ac
+  full_name: Danny Verdin
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1874999775.jpg
+  phone: ""
+  email: dannyverdin@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1874999775
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Daniel_Verdin
+  - https://en.wikipedia.org/wiki/Danny_Verdin
+  - https://justfacts.votesmart.org/candidate/biography/48080/danny-verdin-iii
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=1874999775
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=1874999775
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-gibson-daniel
+  openstates_id: ocd-person/fd827c3d-df23-4497-b39e-7c7ab43138fd
+  full_name: Daniel Gibson
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0667045375.jpg
+  phone: ""
+  email: danielgibson@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0667045375
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Daniel_Gibson
+  - https://en.wikipedia.org/wiki/Daniel_Gibson_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/205401/daniel-gibson
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0667045375
+  - https://www.scstatehouse.gov/member.php?code=0667045375
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-jackson-darrell
+  openstates_id: ocd-person/4eca904a-5153-440d-8e5c-4c9e056a1dd1
+  full_name: Darrell Jackson
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0920454435.jpg
+  phone: ""
+  email: darrelljackson@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0920454435
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Darrell_Jackson_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Darrell_Jackson_(politician)
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0920454435
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0920454435
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-martin-david
+  openstates_id: ocd-person/0187a0b8-b72e-42f1-82ea-8fdac9b9c484
+  full_name: David Martin
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/David_Martin_20240907_125219.jpeg
+  phone: ""
+  email: davidmartin@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1157954407
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Martin_(South_Carolina)
+  - https://en.wikipedia.org/wiki/David_Martin_(South_Carolina_politician)
+  - https://justfacts.votesmart.org/candidate/biography/216310/david-martin
+  - https://www.linkedin.com/in/david-w-martin-9a37113a
+  - https://www.scstatehouse.gov/member.php?code=1157954407
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-hiott-davey
+  openstates_id: ocd-person/14b0abeb-70fd-404b-9f55-ff2e75e2c7ef
+  full_name: Davey Hiott
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0848863535.jpg
+  phone: ""
+  email: daveyhiott@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0848863535
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Davey_Hiott
+  - https://en.wikipedia.org/wiki/Davey_Hiott
+  - https://justfacts.votesmart.org/candidate/biography/47851/davey-hiott
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0848863535
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0848863535
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-vaughan-david
+  openstates_id: ocd-person/96fcbf84-e1e8-4e69-bc26-eeced30abaf4
+  full_name: David Vaughan
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1865908867.jpg
+  phone: ""
+  email: davidvaughan@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1865908867
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Vaughan_(South_Carolina)
+  - https://en.wikipedia.org/wiki/David_Vaughan_(South_Carolina_politician)
+  - https://justfacts.votesmart.org/candidate/biography/205414/david-vaughan
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1865908867
+  - https://www.linkedin.com/in/david-vaughan-6886a06
+  - https://www.scstatehouse.gov/member.php?code=1865908867
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-moss-dennis
+  openstates_id: ocd-person/08cc0e0f-26e0-4117-8591-2ac463f6fbe6
+  full_name: Dennis Moss
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1379545289.jpg
+  phone: ""
+  email: dennismoss@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1379545289
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dennis_Moss_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Dennis_Moss
+  - https://justfacts.votesmart.org/candidate/biography/59289/dennis-moss
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1379545289
+  - https://www.linkedin.com/in/dennis-moss-07255730
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1379545289
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-tedder-deon
+  openstates_id: ocd-person/4f07a054-384b-4fc7-b60a-f5848ea514d4
+  full_name: Deon Tedder
+  office_title: State Senator
+  chamber: senate
+  district: "42"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1811931601.jpg
+  phone: ""
+  email: deontedder@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1811931601
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Deon_Tedder
+  - https://en.wikipedia.org/wiki/Deon_Tedder
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=1811931601
+  - https://www.linkedin.com/in/deon-tedder-esquire-60108063
+  - https://www.rpwb.com/attorneys/deon-tedder
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1811931601
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-mitchell-dianne
+  openstates_id: ocd-person/65b53c25-26eb-4478-9ddc-b46e29c20543
+  full_name: Dianne Mitchell
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: diannemitchell@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1344175976
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dianne_Mitchell
+  - https://en.wikipedia.org/wiki/Dianne_Mitchell
+  - https://justfacts.votesmart.org/candidate/biography/228257/dianne-mitchell
+  - https://www.scstatehouse.gov/member.php?code=1344175976
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-chapman-don
+  openstates_id: ocd-person/7a7a6119-3a67-4b02-9313-d8454421494e
+  full_name: Don Chapman
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0347727231.jpg
+  phone: ""
+  email: donchapman@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0347727231
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Don_Chapman
+  - https://en.wikipedia.org/wiki/Don_Chapman
+  - https://justfacts.votesmart.org/candidate/biography/205399/don-chapman
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0347727231
+  - https://www.chapmanforschouse.com/about
+  - https://www.linkedin.com/in/donald-g-chapman-aia-cmb-22b0a234
+  - https://www.scstatehouse.gov/member.php?code=0347727231
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-mccabe-ryan
+  openstates_id: ocd-person/68934441-84b3-48c7-b8a5-a694744f9e3b
+  full_name: Ryan McCabe
+  office_title: State Representative
+  chamber: house
+  district: "96"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1206818037.jpg
+  phone: ""
+  email: ryanmccabe@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1206818037
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/D._Ryan_McCabe
+  - https://en.wikipedia.org/wiki/Ryan_McCabe
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1206818037
+  - https://www.linkedin.com/in/d-ryan-mccabe-aa2b823
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1206818037
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-sutton-ed
+  openstates_id: ocd-person/6cabdb85-c770-42ce-9eaf-68326c9dc0aa
+  full_name: Ed Sutton
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ed_Sutton2024.jpg
+  phone: ""
+  email: edsutton@scsenate.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1782954332
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ed_Sutton
+  - https://en.wikipedia.org/wiki/Ed_Sutton_(South_Carolina_politician)
+  - https://justfacts.votesmart.org/candidate/biography/191695/ed-sutton
+  - https://www.linkedin.com/in/ed-sutton-a5785299
+  - https://www.scstatehouse.gov/member.php?code=1782954332
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-wetmore-spencer
+  openstates_id: ocd-person/a0512457-cf73-4c3a-8190-d381a90af2d8
+  full_name: Spencer Wetmore
+  office_title: State Representative
+  chamber: house
+  district: "115"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1905681590.jpg
+  phone: ""
+  email: spencerwetmore@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1905681590
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Spencer_Wetmore
+  - https://en.wikipedia.org/wiki/Spencer_Wetmore
+  - https://justfacts.votesmart.org/candidate/191594/spencer-wetmore
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1905681590
+  - https://www.linkedin.com/in/spencer-wetmore-692689a1
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1905681590
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-stubbs-everett
+  openstates_id: ocd-person/c699e1e2-e3f4-4b78-8aeb-7bef9374518f
+  full_name: Everett Stubbs
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://assets.civicengine.com/uploads/candidate/headshot/817690/817690.jpg
+  phone: ""
+  email: everettstubbs@scsenate.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1780681605
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Everett_Stubbs
+  - https://en.wikipedia.org/wiki/Everett_Stubbs
+  - https://justfacts.votesmart.org/candidate/216208/everett-stubbs
+  - https://www.scstatehouse.gov/member.php?code=1780681605
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-pedalino-fawn
+  openstates_id: ocd-person/5861846a-d293-416f-b5ab-227f8fd12b94
+  full_name: Fawn Pedalino
+  office_title: State Representative
+  chamber: house
+  district: "64"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1453408917.jpg
+  phone: ""
+  email: fawnpedalino@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1453408917
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Fawn_Pedalino
+  - https://en.wikipedia.org/wiki/Fawn_Pedalino
+  - https://justfacts.votesmart.org/candidate/205457/fawn-pedalino
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1453408917
+  - https://www.fawnsc.com/about
+  - https://www.linkedin.com/in/fawn-pedalino-319793311
+  - https://www.scstatehouse.gov/member.php?code=1453408917
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-smith-murrell
+  openstates_id: ocd-person/bc549137-780f-4b77-9438-61a92d3dce48
+  full_name: Murrell Smith
+  office_title: State Representative
+  chamber: house
+  district: "67"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1703408887.jpg
+  phone: ""
+  email: murrellsmith@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1703408887
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/George_Smith_Jr.
+  - https://en.wikipedia.org/wiki/G._Murrell_Smith_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/121732/murrell-smith-jr
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1703408887
+  - https://www.linkedin.com/in/murrell-smith-4442869
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1703408887
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-brewer-gary
+  openstates_id: ocd-person/774393b0-877d-4c4b-81cf-daf0494328f9
+  full_name: Gary Brewer
+  office_title: State Representative
+  chamber: house
+  district: "114"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0192045432.jpg
+  phone: ""
+  email: garybrewer@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0192045432
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gary_Brewer
+  - https://en.wikipedia.org/wiki/Gary_Brewer_(politician)
+  - https://justfacts.votesmart.org/candidate/205501/gary-brewer
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0192045432
+  - https://www.linkedin.com/in/gary-brewer-8bb17a7a
+  - https://www.scstatehouse.gov/member.php?code=0192045432
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-campsen-chip
+  openstates_id: ocd-person/2ff21c9e-e03e-4f5c-ac4e-7b1e5633969d
+  full_name: Chip Campsen
+  office_title: State Senator
+  chamber: senate
+  district: "43"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0302272691.jpg
+  phone: ""
+  email: chipcampsen@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0302272691
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/George_Campsen
+  - https://en.wikipedia.org/wiki/George_E._Campsen_III
+  - https://justfacts.votesmart.org/candidate/biography/11920/chip-campsen-iii
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0302272691
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0302272691
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-gatch-gil
+  openstates_id: ocd-person/21d2b4a4-f5fa-415b-8394-02e9b63c4ba0
+  full_name: Gil Gatch
+  office_title: State Representative
+  chamber: house
+  district: "94"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0658522648.jpg
+  phone: ""
+  email: gilgatch@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0658522648
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gil_Gatch
+  - https://en.wikipedia.org/wiki/Gil_Gatch
+  - https://justfacts.votesmart.org/candidate/191625/gil-gatch
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0658522648
+  - https://www.linkedin.com/in/gilgatch
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0658522648
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-cobbhunter-gilda
+  openstates_id: ocd-person/b494d1f6-d98e-4a8c-895c-6cb73ec892b8
+  full_name: Gilda Cobb-Hunter
+  office_title: State Representative
+  chamber: house
+  district: "95"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0372727228.jpg
+  phone: ""
+  email: gildacobbhunter@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0372727228
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gilda_Cobb-Hunter
+  - https://en.wikipedia.org/wiki/Gilda_Cobb-Hunter
+  - https://justfacts.votesmart.org/candidate/biography/4005/gilda-cobb-hunter
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0372727228
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0372727228
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-ford-greg
+  openstates_id: ocd-person/ef3c638d-4ad1-4d9d-abbb-1a87b5513a66
+  full_name: Greg Ford
+  office_title: State Representative
+  chamber: house
+  district: "98"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0605681746.jpg
+  phone: ""
+  email: gregford@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0605681746
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Greg_Ford_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Greg_Ford_(South_Carolina_politician)
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0605681746
+  - https://www.linkedin.com/in/greg-ford
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0605681746
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-hembree-greg
+  openstates_id: ocd-person/d09cb270-bb44-44e7-86d6-a880ce40d93d
+  full_name: Greg Hembree
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0819318084.jpg
+  phone: ""
+  email: greghembree@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0819318084
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Greg_Hembree
+  - https://justfacts.votesmart.org/candidate/139435/greg-hembree
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0819318084
+  - https://www.linkedin.com/in/greg-hembree-64b31632
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0819318084
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-grant-hamilton
+  openstates_id: ocd-person/c7b115f3-0fa8-4a8b-b01f-9b222f44018f
+  full_name: Hamilton Grant
+  office_title: State Representative
+  chamber: house
+  district: "79"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/HamiltonGrant2024.jpeg
+  phone: ""
+  email: hamiltongrant@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0705681734
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Hamilton_Grant
+  - https://en.wikipedia.org/wiki/Hamilton_R._Grant
+  - https://justfacts.votesmart.org/candidate/biography/216249/hamilton-grant
+  - https://www.linkedin.com/in/hamilton-grant-mba-1b5771a3
+  - https://www.scstatehouse.gov/member.php?code=0705681734
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-holman-harriet
+  openstates_id: ocd-person/7f424e9d-ce81-4413-9438-c5aeee1ec079
+  full_name: Harriet Holman
+  office_title: State Representative
+  chamber: house
+  district: "102"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/8accea_e11fd53b395c467b9a13c9643ee9b49f~mv2.jpg
+  phone: ""
+  email: harrietholman@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0867045351
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Harriet_Holman
+  - https://en.wikipedia.org/wiki/Harriet_Holman
+  - https://justfacts.votesmart.org/candidate/216289/harriet-holman
+  - https://www.scstatehouse.gov/member.php?code=0867045351
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-peeler-harvey
+  openstates_id: ocd-person/8b81073b-87da-4f5c-aacb-f387b69456cc
+  full_name: Harvey Peeler
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1454545280.jpg
+  phone: ""
+  email: harveypeeler@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1454545280
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Harvey_Peeler
+  - https://en.wikipedia.org/wiki/Harvey_S._Peeler_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/4020/harvey-peeler-jr
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=1454545280
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=1454545280
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-sessions-heath
+  openstates_id: ocd-person/dbc0a5ad-b105-4cd9-8849-e2a7c77d23f0
+  full_name: Heath Sessions
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1649715712.jpg
+  phone: ""
+  email: heathsessions@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1649715712
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Heath_Sessions
+  - https://en.wikipedia.org/wiki/Heath_Sessions
+  - https://justfacts.votesmart.org/candidate/biography/205435/heath-sessions
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1649715712
+  - https://www.linkedin.com/in/heath-sessions-71b86b66
+  - https://www.scstatehouse.gov/member.php?code=1649715712
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-crawford-heather
+  openstates_id: ocd-person/814c55e9-568f-403e-9e8a-ee3859c07300
+  full_name: Heather Crawford
+  office_title: State Representative
+  chamber: house
+  district: "68"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0428977222.jpg
+  phone: ""
+  email: heathercrawford@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0428977222
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Heather_Ammons_Crawford
+  - https://en.wikipedia.org/wiki/Heather_Ammons_Crawford
+  - https://justfacts.votesmart.org/candidate/biography/140708/heather-crawford
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0428977222
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0428977222
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-bauer-heather
+  openstates_id: ocd-person/573c5456-8b53-4a00-9538-1013f0fc12c5
+  full_name: Heather Bauer
+  office_title: State Representative
+  chamber: house
+  district: "75"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0125568167.jpg
+  phone: ""
+  email: heatherbauer@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0125568167
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Heather_Bauer
+  - https://en.wikipedia.org/wiki/Heather_Bauer
+  - https://justfacts.votesmart.org/candidate/191618/heather-bauer
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0125568167
+  - https://www.linkedin.com/in/heather-bauer-8a920012
+  - https://www.scstatehouse.gov/member.php?code=0125568167
+  - https://www.voteheatherbauer.com/about
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-weeks-david
+  openstates_id: ocd-person/10d7814d-009b-4d21-a048-2672f48fe130
+  full_name: David Weeks
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1898863409.jpg
+  phone: ""
+  email: davidweeks@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1898863409
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/J._David_Weeks
+  - https://en.wikipedia.org/wiki/J._David_Weeks
+  - https://justfacts.votesmart.org/candidate/biography/47971/david-weeks
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1898863409
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1898863409
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-rutherford-todd
+  openstates_id: ocd-person/ad25d5ef-8d4f-425f-9dbd-0b018f1771cc
+  full_name: Todd Rutherford
+  office_title: State Representative
+  chamber: house
+  district: "74"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1614772534.jpg
+  phone: ""
+  email: toddrutherford@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1614772534
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_Rutherford
+  - https://en.wikipedia.org/wiki/Todd_Rutherford
+  - https://justfacts.votesmart.org/candidate/biography/25057/todd-rutherford
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1614772534
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1614772534
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-moore-ja
+  openstates_id: ocd-person/6f92ad6a-95c7-4e74-aa91-05fd5448c99a
+  full_name: J.A. Moore
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1356818019.jpg
+  phone: ""
+  email: jamoore@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1356818019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/J.A._Moore
+  - https://en.wikipedia.org/wiki/JA_Moore_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/184240/ja-moore
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1356818019
+  - https://www.linkedin.com/in/ja-moore-5b83425a
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1356818019
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-hayes-jackie
+  openstates_id: ocd-person/0193ab02-383a-4b92-a810-00fd0bf0fb98
+  full_name: Jackie Hayes
+  office_title: State Representative
+  chamber: house
+  district: "55"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0802272631.jpg
+  phone: ""
+  email: jackiehayes@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0802272631
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jackie_Hayes
+  - https://en.wikipedia.org/wiki/Jackie_E._Hayes
+  - https://justfacts.votesmart.org/candidate/biography/24996/jackie-hayes
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0802272631
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0802272631
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-terribile-jackie
+  openstates_id: ocd-person/d5713eed-0ae5-4bf4-9dc8-7c3efdfae317
+  full_name: Jackie Terribile
+  office_title: State Representative
+  chamber: house
+  district: "66"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jackie_Terribile.jpeg
+  phone: ""
+  email: jackieterribile@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1812357738
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jackie_Terribile
+  - https://justfacts.votesmart.org/candidate/211924/jackie-terribile
+  - https://www.linkedin.com/in/jackie-terribile-40ab63369
+  - https://www.scstatehouse.gov/member.php?code=1812357738
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-neese-mike
+  openstates_id: ocd-person/31e694fa-e3e1-4df4-8ca7-4977dbf6e321
+  full_name: Mike Neese
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1403977105.jpg
+  phone: ""
+  email: mikeneese@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1403977105
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Neese
+  - https://en.wikipedia.org/wiki/Mike_Neese
+  - https://justfacts.votesmart.org/candidate/biography/191512/mike-neese
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1403977105
+  - https://www.linkedin.com/in/jmneese
+  - https://www.scstatehouse.gov/member.php?code=1403977105
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-burns-mike
+  openstates_id: ocd-person/6ffe4e57-021a-4424-bc36-b933c8e18477
+  full_name: Mike Burns
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0257954515.jpg
+  phone: ""
+  email: mikeburns@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0257954515
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Burns
+  - https://en.wikipedia.org/wiki/Mike_Burns_(politician)
+  - https://justfacts.votesmart.org/candidate/144188/mike-burns
+  - https://justfacts.votesmart.org/candidate/biography/144188/mike-burns
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0257954515
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0257954515
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-teeple-james
+  openstates_id: ocd-person/4b8dd070-0114-4788-9d4c-21eab54496c0
+  full_name: James Teeple
+  office_title: State Representative
+  chamber: house
+  district: "116"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/James_Teeple_20240908_101043.jpg
+  phone: ""
+  email: jamesteeple@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1812215692
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_Teeple
+  - https://en.wikipedia.org/wiki/James_Teeple
+  - https://justfacts.votesmart.org/candidate/216276/james-teeple
+  - https://www.linkedin.com/in/james-teeple-109b83145
+  - https://www.scstatehouse.gov/member.php?code=1812215692
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-elliott-jason
+  openstates_id: ocd-person/3d40ff3f-ddbf-4611-a366-9be7d55b9247
+  full_name: Jason Elliott
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0529545391.jpg
+  phone: ""
+  email: jasonelliott@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0529545391
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jason_Elliott
+  - https://en.wikipedia.org/wiki/Jason_Elliott_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/168956/jason-elliott
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0529545391
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0529545391
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-luck-jason
+  openstates_id: ocd-person/8c2d9f43-2498-4961-a046-bc5c3f8d7fa6
+  full_name: Jason Luck
+  office_title: State Representative
+  chamber: house
+  district: "54"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jason_Luck1.png
+  phone: ""
+  email: jasonluck@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1126420320
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jason_Luck
+  - https://en.wikipedia.org/wiki/Jason_S._Luck
+  - https://justfacts.votesmart.org/candidate/biography/216336/jason-luck
+  - https://www.linkedin.com/in/jason-luck-8a25368
+  - https://www.scstatehouse.gov/member.php?code=1126420320
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-chaplin-jd
+  openstates_id: ocd-person/a34e27e4-59ab-41a6-89ee-1b5d82fcbcf6
+  full_name: J.D. Chaplin
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: https://npr.brightspotcdn.com/dims4/default/533a1d5/2147483647/strip/true/crop/1761x1084+0+0/resize/1760x1084!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F35%2F0ec3711f4b1ab8064a0a54363740%2Fchaplin.JPG
+  phone: ""
+  email: jdchaplin@scsenate.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0346590868
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/J.D._Chaplin
+  - https://en.wikipedia.org/wiki/JD_Chaplin
+  - https://justfacts.votesmart.org/candidate/biography/173018/jd-chaplin
+  - https://www.scstatehouse.gov/member.php?code=0346590868
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-zell-jeff
+  openstates_id: ocd-person/236892d9-be31-4afa-9c3c-e68dff8bf480
+  full_name: Jeff Zell
+  office_title: State Senator
+  chamber: senate
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jeffrey_Zell.jpg
+  phone: ""
+  email: jeffzell@scsenate.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1999431789
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeffrey_Zell
+  - https://en.wikipedia.org/wiki/Jeff_Zell
+  - https://www.linkedin.com/in/jeffrey-zell
+  - https://www.scstatehouse.gov/member.php?code=1999431789
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-bradley-jeff
+  openstates_id: ocd-person/99dd735b-3ab4-4362-a2c5-f1b5c9257e52
+  full_name: Jeff Bradley
+  office_title: State Representative
+  chamber: house
+  district: "123"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0171590889.jpg
+  phone: ""
+  email: jeffbradley@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0171590889
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Bradley
+  - https://en.wikipedia.org/wiki/Jeff_Bradley_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/152611/jeff-bradley
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0171590889
+  - https://www.linkedin.com/in/jeff-bradley-4a85a378
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0171590889
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-johnson-jeff
+  openstates_id: ocd-person/7b2dc589-67e0-4286-9a21-73a69a299ef7
+  full_name: Jeff Johnson
+  office_title: State Representative
+  chamber: house
+  district: "58"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0938636251.jpg
+  phone: ""
+  email: jeffjohnson@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0938636251
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Johnson_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Jeff_Johnson_(South_Carolina_politician)
+  - https://justfacts.votesmart.org/candidate/biography/152557/jeff-johnson
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0938636251
+  - https://www.linkedin.com/in/jeffrey-johnson-28b277b3
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0938636251
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-graham-jeffrey
+  openstates_id: ocd-person/2a153d17-d828-4285-a361-fb9f736dd388
+  full_name: Jeffrey Graham
+  office_title: State Senator
+  chamber: senate
+  district: "35"
+  party: Democratic
+  status: active
+  photo_url: https://www.grahamrealtyinc.com/files/images/agents/g/4d80bc35-8f04-43ab-84f1-1858ae7a8b42/1.jpg
+  phone: ""
+  email: jeffreygraham@scsenate.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0703124916
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeffrey_Graham_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Jeffrey_R._Graham
+  - https://justfacts.votesmart.org/candidate/biography/216225/jeffrey-graham
+  - https://www.linkedin.com/in/jeffrey-graham-40912160
+  - https://www.scstatehouse.gov/member.php?code=0703124916
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-johnson-jermaine
+  openstates_id: ocd-person/4ae40a76-8a57-40b1-b4cd-0218170e3ff8
+  full_name: Jermaine Johnson
+  office_title: State Representative
+  chamber: house
+  district: "52"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0943181705.jpg
+  phone: ""
+  email: jermainejohnson@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0943181705
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jermaine_Johnson
+  - https://en.wikipedia.org/wiki/Jermaine_Johnson_(basketball)
+  - https://johnsonforsc.com/about
+  - https://justfacts.votesmart.org/candidate/191620/jermaine-johnson
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0943181705
+  - https://www.linkedin.com/in/dr-jermaine-johnson-sr-517b289a
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0943181705
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-govan-jerry
+  openstates_id: ocd-person/56f713aa-3887-4e45-996d-ca60006edd99
+  full_name: Jerry Govan
+  office_title: State Representative
+  chamber: house
+  district: "93"
+  party: Democratic
+  status: active
+  photo_url: https://www.scstatehouse.gov/images/members/0702272643.jpg
+  phone: ""
+  email: jerrygovan@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0702272643
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jerry_Govan_Jr.
+  - https://en.wikipedia.org/wiki/Jerry_Govan_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/8501/jerry-govan-jr
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0702272643
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-kilmartin-jay
+  openstates_id: ocd-person/5a7a2735-d539-4aa0-b1a9-2f0e3828a02b
+  full_name: Jay Kilmartin
+  office_title: State Representative
+  chamber: house
+  district: "85"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0993323745.jpg
+  phone: ""
+  email: jaykilmartin@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0993323745
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jay_Kilmartin
+  - https://en.wikipedia.org/wiki/Jay_Kilmartin
+  - https://justfacts.votesmart.org/candidate/205478/jay-kilmartin
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0993323745
+  - https://www.linkedin.com/in/jay-kilmartin-9282b78
+  - https://www.scstatehouse.gov/member.php?code=0993323745
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-lastinger-john
+  openstates_id: ocd-person/708261ba-00bd-4cef-bd7e-bd80de59b101
+  full_name: John Lastinger
+  office_title: State Representative
+  chamber: house
+  district: "88"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: johnlastinger@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1066761236
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Lastinger
+  - https://en.wikipedia.org/wiki/John_Thomas_Lastinger
+  - https://justfacts.votesmart.org/candidate/biography/191624/john-lastinger
+  - https://www.linkedin.com/in/john-lastinger-jr-4a068691
+  - https://www.scstatehouse.gov/member.php?code=1066761236
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-mccravy-john
+  openstates_id: ocd-person/f946b369-cfbd-4cc5-84f2-4cc343beb03a
+  full_name: John McCravy
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1217045309.jpg
+  phone: ""
+  email: johnmccravy@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1217045309
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_McCravy
+  - https://en.wikipedia.org/wiki/John_R._McCravy_III
+  - https://justfacts.votesmart.org/candidate/biography/139452/john-mccravy-iii
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1217045309
+  - https://www.linkedin.com/in/john-r-mccravy-iii-ba01335
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1217045309
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-king-john
+  openstates_id: ocd-person/12f4e61d-b847-4a7d-8029-613580ebfd9f
+  full_name: John King
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1002272607.jpg
+  phone: ""
+  email: johnking@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1002272607
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_King_(South_Carolina)
+  - https://en.wikipedia.org/wiki/John_Richard_C._King
+  - https://justfacts.votesmart.org/candidate/biography/57918/john-king
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1002272607
+  - https://www.linkedin.com/in/john-richard-king-01373110
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1002272607
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-pace-jordan
+  openstates_id: ocd-person/ec3b270f-6396-440c-89c1-e42262d02477
+  full_name: Jordan Pace
+  office_title: State Representative
+  chamber: house
+  district: "117"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1433984204.jpg
+  phone: ""
+  email: jordanpace@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1433984204
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jordan_Pace
+  - https://en.wikipedia.org/wiki/Jordan_Pace
+  - https://justfacts.votesmart.org/candidate/181060/jordan-pace
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1433984204
+  - https://www.linkedin.com/in/jscottpace
+  - https://www.scstatehouse.gov/member.php?code=1433984204
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-bustos-joe
+  openstates_id: ocd-person/35125937-cf55-4408-883f-6f81e45b0063
+  full_name: Joe Bustos
+  office_title: State Representative
+  chamber: house
+  district: "112"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0278409057.jpg
+  phone: ""
+  email: joebustos@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0278409057
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_Bustos
+  - https://en.wikipedia.org/wiki/Joe_Bustos
+  - https://justfacts.votesmart.org/candidate/biography/77624/joe-bustos
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0278409057
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0278409057
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-white-joe
+  openstates_id: ocd-person/e6db7b68-2d69-4585-816a-ad2c7ee9b1cc
+  full_name: Joe White
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1912499771.jpg
+  phone: ""
+  email: joewhite@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1912499771
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_White_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Joe_White_(South_Carolina_politician)
+  - https://justfacts.votesmart.org/candidate/biography/205429/joe-white
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1912499771
+  - https://www.scstatehouse.gov/member.php?code=1912499771
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-kimbrell-josh
+  openstates_id: ocd-person/abab175f-5281-4f94-9550-09131ee156ad
+  full_name: Josh Kimbrell
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0993465790.jpg
+  phone: ""
+  email: joshkimbrell@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0993465790
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Josh_Kimbrell
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0993465790
+  - https://www.linkedin.com/in/josh-kimbrell-8216a824
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0993465790
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-magnuson-josiah
+  openstates_id: ocd-person/6db09ea1-fe89-497a-8502-dce892c13fe8
+  full_name: Josiah Magnuson
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1130965774.jpg
+  phone: ""
+  email: josiahmagnuson@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1130965774
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Josiah_Magnuson
+  - https://en.wikipedia.org/wiki/Josiah_Magnuson
+  - https://justfacts.votesmart.org/candidate/biography/168961/josiah-magnuson
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1130965774
+  - https://www.josiahmagnuson.com/about
+  - https://www.linkedin.com/in/josiah-magnuson-1983208b
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1130965774
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-bamberg-justin
+  openstates_id: ocd-person/88861a7f-ca46-4ed7-a053-0d463cca48e0
+  full_name: Justin Bamberg
+  office_title: State Representative
+  chamber: house
+  district: "90"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0102840897.jpg
+  phone: ""
+  email: justinbamberg@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0102840897
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Justin_Bamberg
+  - https://en.wikipedia.org/wiki/Justin_Bamberg
+  - https://justfacts.votesmart.org/candidate/biography/152607/justin-bamberg
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0102840897
+  - https://www.linkedin.com/in/justinbamberg
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0102840897
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-garvin-kambrell
+  openstates_id: ocd-person/904331e5-36ae-43d5-8e3e-62a845c7965e
+  full_name: Kambrell Garvin
+  office_title: State Representative
+  chamber: house
+  district: "77"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0657954467.jpg
+  phone: ""
+  email: kambrellgarvin@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0657954467
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kambrell_Garvin
+  - https://en.wikipedia.org/wiki/Kambrell_Garvin
+  - https://justfacts.votesmart.org/candidate/181046/kambrell-garvin
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0657954467
+  - https://www.linkedin.com/in/kambrell-garvin-5a5aab21
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0657954467
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-allen-karl
+  openstates_id: ocd-person/946afea5-c89c-4a8f-a80e-a841bf7e899a
+  full_name: Karl Allen
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0015340908.jpg
+  phone: ""
+  email: karlallen@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0015340908
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Karl_Allen
+  - https://en.wikipedia.org/wiki/Karl_B._Allen
+  - https://justfacts.votesmart.org/candidate/biography/47878/karl-allen
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0015340908
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0015340908
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-landing-kathy
+  openstates_id: ocd-person/07274f31-3348-491d-af78-4eefad9d39c8
+  full_name: Kathy Landing
+  office_title: State Representative
+  chamber: house
+  district: "80"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1066477145.jpg
+  phone: ""
+  email: kathylanding@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1066477145
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kathy_Landing
+  - https://en.wikipedia.org/wiki/Katherine_D._Landing
+  - https://justfacts.votesmart.org/candidate/biography/187433/katherine-landing
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1066477145
+  - https://www.linkedin.com/in/kathylandingmtp
+  - https://www.raymondjames.com/landingfinancial/about-us/bio?_=Kathy.Landing
+  - https://www.scstatehouse.gov/member.php?code=1066477145
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-scott-keishan
+  openstates_id: ocd-person/d38909c5-fdcb-4230-8380-498f6f8cc510
+  full_name: Keishan Scott
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: ""
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1645738439
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Keishan_Scott
+  - https://en.wikipedia.org/wiki/Keishan_Scott
+  - https://justfacts.votesmart.org/candidate/biography/220936/keishan-scott
+  - https://www.linkedin.com/in/keishan-scott-6a07a8247
+  - https://www.scstatehouse.gov/member.php?code=1645738439
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-williams-kent
+  openstates_id: ocd-person/0fdf2e22-badf-4b5c-be34-969781dc40a3
+  full_name: Kent Williams
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1938636131.jpg
+  phone: ""
+  email: kentwilliams@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1938636131
+  twitter: ""
+  source_urls:
+  - https://en.wikipedia.org/wiki/Kent_M._Williams
+  - https://justfacts.votesmart.org/candidate/biography/47956/kent-williams
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=1938636131
+  - https://www.linkedin.com/in/kent-williams-42958567
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=1938636131
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-hardee-kevin
+  openstates_id: ocd-person/ad6c27e9-3571-477c-9d94-92127d0020e7
+  full_name: Kevin Hardee
+  office_title: State Representative
+  chamber: house
+  district: "105"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0743749911.jpg
+  phone: ""
+  email: kevinhardee@schouse.gov
+  address: ""
+  official_website: https://kevinhardee.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kevin_J._Hardee
+  - https://en.wikipedia.org/wiki/Kevin_Hardee
+  - https://justfacts.votesmart.org/candidate/biography/94982/kevin-hardee
+  - https://kevinhardee.com
+  - https://kevinhardee.com/about-kevin.html
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0743749911
+  - https://www.linkedin.com/in/kevin-hardee-31316446
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0743749911
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-grooms-larry
+  openstates_id: ocd-person/cc6f617e-1af7-4aa5-a9cc-a2214b2c21e2
+  full_name: Larry Grooms
+  office_title: State Senator
+  chamber: senate
+  district: "37"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0729545367.jpg
+  phone: ""
+  email: stranscomm@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0729545367
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lawrence_Grooms
+  - https://en.wikipedia.org/wiki/Larry_Grooms
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0729545367
+  - https://www.linkedin.com/in/larrygrooms
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0729545367
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-bright-lee
+  openstates_id: ocd-person/3ebbdeb2-9bbf-41d3-8175-2d4e901cb9d1
+  full_name: Lee Bright
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: http://www.scstatehouse.gov/images/members/0193181795.jpg
+  phone: ""
+  email: leebright@scsenate.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0193181795
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lee_Bright
+  - https://en.wikipedia.org/wiki/Lee_Bright
+  - https://justfacts.votesmart.org/candidate/biography/47863/lee-bright-iii
+  - https://www.linkedin.com/in/lee-bright-03a25646
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0193181795
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-gilreath-lee
+  openstates_id: ocd-person/16296fb0-76bf-4e65-b7e6-5dc6abceb7b4
+  full_name: Lee Gilreath
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://lirp.cdn-website.com/4c846247/dms3rep/multi/opt/_DSC0892-a9d9c1ff-1920w.jpg
+  phone: ""
+  email: leegilreath@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0675852192
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lee_Gilreath
+  - https://en.wikipedia.org/wiki/Lee_Gilreath
+  - https://justfacts.votesmart.org/candidate/biography/216241/lee-gilreath
+  - https://www.scstatehouse.gov/member.php?code=0675852192
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-hewitt-lee
+  openstates_id: ocd-person/eba98c82-1f71-45c1-951f-40076eb34a8b
+  full_name: Lee Hewitt
+  office_title: State Representative
+  chamber: house
+  district: "108"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0834658991.jpg
+  phone: ""
+  email: leehewitt@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0834658991
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lee_Hewitt
+  - https://en.wikipedia.org/wiki/Lee_Hewitt
+  - https://justfacts.votesmart.org/candidate/biography/173043/lee-hewitt
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0834658991
+  - https://www.linkedin.com/in/lee-hewitt-b30862a
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0834658991
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-gilliam-doug
+  openstates_id: ocd-person/3a09cbd2-aa21-4fa8-9511-d1f842816e49
+  full_name: Doug Gilliam
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0675426055.jpg
+  phone: ""
+  email: douggilliam@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0675426055
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Doug_Gilliam
+  - https://en.wikipedia.org/wiki/Doug_Gilliam
+  - https://justfacts.votesmart.org/candidate/biography/181033/doug-gilliam
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0675426055
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0675426055
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-howard-leon
+  openstates_id: ocd-person/a7665bc0-b03c-419e-976c-b3a25ebf358e
+  full_name: Leon Howard
+  office_title: State Representative
+  chamber: house
+  district: "76"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0879545349.jpg
+  phone: ""
+  email: leonhoward@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0879545349
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Leon_Howard
+  - https://en.wikipedia.org/wiki/Leon_Howard_(South_Carolina_politician)
+  - https://justfacts.votesmart.org/candidate/biography/8610/leon-howard
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0879545349
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0879545349
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-stavrinakis-leon
+  openstates_id: ocd-person/3faa0b04-4277-4a07-ae78-bc9cb0d20e07
+  full_name: Leon Stavrinakis
+  office_title: State Representative
+  chamber: house
+  district: "119"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1747727063.jpg
+  phone: ""
+  email: leonstavrinakis@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1747727063
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Leonidas_Stavrinakis
+  - https://en.wikipedia.org/wiki/Leon_Stavrinakis
+  - https://justfacts.votesmart.org/candidate/biography/59396/leon-stavrinakis
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1747727063
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1747727063
+  - https://www.stavlaw.net/about-leon
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-hosey-lonnie
+  openstates_id: ocd-person/a02e7674-1693-446b-8863-3d7df87a20fa
+  full_name: Lonnie Hosey
+  office_title: State Representative
+  chamber: house
+  district: "91"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0874999895.jpg
+  phone: ""
+  email: onniehosey@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0874999895
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lonnie_Hosey
+  - https://en.wikipedia.org/wiki/Lonnie_Hosey
+  - https://justfacts.votesmart.org/candidate/biography/15258/lonnie-hosey
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0874999895
+  - https://www.linkedin.com/in/lonnie-hosey-13931144
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0874999895
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-atkinson-lucas
+  openstates_id: ocd-person/e3d0a679-af6a-4861-aac2-be366fda3210
+  full_name: Lucas Atkinson
+  office_title: State Representative
+  chamber: house
+  district: "57"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0066477265.jpg
+  phone: ""
+  email: lucasatkinson@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0066477265
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lucas_Atkinson
+  - https://en.wikipedia.org/wiki/Lucas_Atkinson
+  - https://justfacts.votesmart.org/candidate/biography/168971/lucas-atkinson
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0066477265
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0066477265
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-rankin-luke
+  openstates_id: ocd-person/27fb6caf-f757-44a3-8973-6ce72aacd7e2
+  full_name: Luke Rankin
+  office_title: State Senator
+  chamber: senate
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1511363455.jpg
+  phone: ""
+  email: lukerankin@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1511363455
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Luke_Rankin
+  - https://en.wikipedia.org/wiki/Luke_A._Rankin
+  - https://justfacts.votesmart.org/candidate/biography/3972/luke-rankin-sr
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=1511363455
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=1511363455
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-rankin-luke
+  openstates_id: ocd-person/94b1b04a-1be7-4128-b7ac-0c3b299b7d53
+  full_name: Luke Rankin
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://lirp.cdn-website.com/44a83ceb/dms3rep/multi/opt/P1011798-1920w.jpg
+  phone: ""
+  email: lukerankin@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1510227092
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Luke_Rankin_(South_Carolina_state_representative)
+  - https://en.wikipedia.org/wiki/Luke_Samuel_Rankin
+  - https://justfacts.votesmart.org/candidate/biography/220606/luke-rankin
+  - https://www.scstatehouse.gov/member.php?code=1510227092
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-lawson-brian
+  openstates_id: ocd-person/d2019dc3-160d-4229-b681-280c52561435
+  full_name: Brian Lawson
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1067613508.jpg
+  phone: ""
+  email: brianlawson@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1067613508
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Lawson
+  - https://en.wikipedia.org/wiki/Brian_Lawson
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1067613508
+  - https://www.linkedin.com/in/brian-lawson-0797a2b1
+  - https://www.scstatehouse.gov/member.php?code=1067613508
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-matthews-margie
+  openstates_id: ocd-person/829bd3ab-d117-43fd-b274-f9ff8177c789
+  full_name: Margie Bright Matthews
+  office_title: State Senator
+  chamber: senate
+  district: "45"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0194318159.jpg
+  phone: ""
+  email: margiebrightmatthews@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0194318159
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Margie_Bright_Matthews
+  - https://en.wikipedia.org/wiki/Margie_Bright_Matthews
+  - https://justfacts.votesmart.org/candidate/biography/161280/margie-matthews
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0194318159
+  - https://www.linkedin.com/in/margiebrightmatthewsforsenate
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0194318159
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-willis-mark
+  openstates_id: ocd-person/45f11431-96b7-4bfe-85f5-ce986002a233
+  full_name: Mark Willis
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1942613404.jpg
+  phone: ""
+  email: markwillis@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1942613404
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Willis
+  - https://en.wikipedia.org/wiki/Mark_N._Willis
+  - https://justfacts.votesmart.org/candidate/biography/57624/mark-willis
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1942613404
+  - https://www.linkedin.com/in/mark-willis-34a40223
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1942613404
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-smith-mark
+  openstates_id: ocd-person/9d1ecabb-7f76-4f2e-9951-03599223ca4c
+  full_name: Mark Smith
+  office_title: State Representative
+  chamber: house
+  district: "99"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1724999793.jpg
+  phone: ""
+  email: marksmith@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1724999793
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Smith_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Mark_Smith_(South_Carolina_politician)
+  - https://justfacts.votesmart.org/candidate/160942/marvin-smith
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1724999793
+  - https://www.linkedin.com/in/mark-m-smith-cfsp-56a37824
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1724999793
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-leber-matt
+  openstates_id: ocd-person/1bf0b19d-9fa1-474a-99f2-16e7835064cf
+  full_name: Matt Leber
+  office_title: State Senator
+  chamber: senate
+  district: "41"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1074431690.jpg
+  phone: ""
+  email: matthewleber@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1074431690
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matthew_Leber
+  - https://en.wikipedia.org/wiki/Matt_Leber
+  - https://justfacts.votesmart.org/candidate/biography/205505/matt-leber
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1074431690
+  - https://www.linkedin.com/in/matt-leber-879a80279
+  - https://www.scstatehouse.gov/member.php?code=1074431690
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-oremus-melissa
+  openstates_id: ocd-person/b3dcafed-7f7a-4b8b-8a5e-a517d768ed42
+  full_name: Melissa Oremus
+  office_title: State Representative
+  chamber: house
+  district: "84"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1432386192.jpg
+  phone: ""
+  email: melissaoremus@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1432386192
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Melissa_Oremus
+  - https://en.wikipedia.org/wiki/Melissa_Lackey_Oremus
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1432386192
+  - https://www.linkedin.com/in/melissa-lackey-oremus-3156517
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1432386192
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-caskey-micah
+  openstates_id: ocd-person/32c6ccd9-4b56-4075-a99b-1882f4dd176d
+  full_name: Micah Caskey
+  office_title: State Representative
+  chamber: house
+  district: "89"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0329545415.jpg
+  phone: ""
+  email: micahcaskey@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0329545415
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Micah_Caskey
+  - https://en.wikipedia.org/wiki/Micah_Caskey
+  - https://justfacts.votesmart.org/candidate/biography/168999/micah-caskey-iv
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0329545415
+  - https://www.linkedin.com/in/micahcaskey
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0329545415
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-rivers-michael
+  openstates_id: ocd-person/ebf046cf-233e-4c98-b78e-4cefbb07615b
+  full_name: Michael Rivers
+  office_title: State Representative
+  chamber: house
+  district: "121"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1564346404.jpg
+  phone: ""
+  email: michaelrivers@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1564346404
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Rivers
+  - https://en.wikipedia.org/wiki/Michael_F._Rivers_Sr.
+  - https://justfacts.votesmart.org/candidate/biography/169017/michael-rivers-sr
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1564346404
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1564346404
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-johnson-michael
+  openstates_id: ocd-person/ef901990-e178-4836-b40c-1b5822227650
+  full_name: Michael Johnson
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0949431704.jpg
+  phone: ""
+  email: michaeljohnson@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0949431704
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Johnson_(South_Carolina)
+  - https://justfacts.votesmart.org/candidate/biography/48039/michael-johnson
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0949431704
+  - https://www.linkedin.com/in/michael-johnson-577b7412
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0949431704
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-gambrell-mike
+  openstates_id: ocd-person/52d745c3-ccb7-41db-9b4a-624c757b678a
+  full_name: Mike Gambrell
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0635227197.jpg
+  phone: ""
+  email: mwgambrell@bellsouth.net
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0635227197
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Gambrell
+  - https://en.wikipedia.org/wiki/Michael_Gambrell
+  - https://justfacts.votesmart.org/candidate/biography/56638/mike-gambrell
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0635227197
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0635227197
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-reichenbach-mike
+  openstates_id: ocd-person/c2a237ba-67b6-4280-9cf2-430f1d10d28e
+  full_name: Mike Reichenbach
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1528408908.jpg
+  phone: ""
+  email: mikereichenbach@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1528408908
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Reichenbach
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=1528408908
+  - https://www.linkedin.com/in/mike-reichenbach-a034bb7
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=1528408908
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-ballentine-nathan
+  openstates_id: ocd-person/129fde97-b4fa-4004-bfb9-f96169a7c0a5
+  full_name: Nathan Ballentine
+  office_title: State Representative
+  chamber: house
+  district: "71"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0102272715.jpg
+  phone: ""
+  email: nathanballentine@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0102272715
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nathan_Ballentine
+  - https://en.wikipedia.org/wiki/Nathan_Ballentine
+  - https://justfacts.votesmart.org/candidate/biography/47966/nathan-ballentine
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0102272715
+  - https://www.linkedin.com/in/nathanballentine1970/?trk=pub-pbmap&originalSubdomain=nl
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0102272715
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-collins-neal
+  openstates_id: ocd-person/73b7f73e-705e-409a-b582-51060e573fd5
+  full_name: Neal Collins
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0388636317.jpg
+  phone: ""
+  email: nealcollins@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0388636317
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Neal_Collins
+  - https://en.wikipedia.org/wiki/Neal_Collins_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/121780/neal-collins
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0388636317
+  - https://www.linkedin.com/in/neal-collins-261395220
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0388636317
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-walker-overture
+  openstates_id: ocd-person/3e43cada-6457-40bf-9f6d-ed024f737177
+  full_name: Overture Walker
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: https://overture4scsenate.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-12.12.03%E2%80%AFPM-813x1024.png
+  phone: ""
+  email: overturewalker@scsenate.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1889772501
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Overture_Walker
+  - https://en.wikipedia.org/wiki/Overture_Walker
+  - https://stoneywalkerlaw.com/overture-e-walker
+  - https://www.linkedin.com/in/overture-walker-2b886027
+  - https://www.scstatehouse.gov/member.php?code=1889772501
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-haddon-patrick
+  openstates_id: ocd-person/08f0816c-5d19-47df-90fb-1249e3f50fae
+  full_name: Patrick Haddon
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0733806731.jpg
+  phone: ""
+  email: patrick@patrickhaddon.com
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0733806731
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patrick_Haddon
+  - https://en.wikipedia.org/wiki/Patrick_Haddon
+  - https://justfacts.votesmart.org/candidate/biography/104954/patrick-haddon
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0733806731
+  - https://www.linkedin.com/in/patrickhaddon
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0733806731
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-wickensimer-paul
+  openstates_id: ocd-person/4774fe34-b398-48bb-98b8-4ce344781e6c
+  full_name: Paul Wickensimer
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/669915_0fcf6e9fdd9e484b959c5ec5b9c80ce2~mv2.jpg/v1/fill/w_489,h_982,al_l,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/669915_0fcf6e9fdd9e484b959c5ec5b9c80ce2~mv2.jpg
+  phone: ""
+  email: paulwickensimer@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1914630453
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Wickensimer
+  - https://en.wikipedia.org/wiki/Paul_Wickensimer
+  - https://justfacts.votesmart.org/candidate/216305/paul-wickensimer
+  - https://www.scstatehouse.gov/member.php?code=1914630453
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-calhoon-paula
+  openstates_id: ocd-person/ee278d2b-ce89-40bf-af2c-42ede04e3afd
+  full_name: Paula Calhoon
+  office_title: State Representative
+  chamber: house
+  district: "87"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0293181783.jpg
+  phone: ""
+  email: paulacalhoon@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0293181783
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paula_Rawl_Calhoon
+  - https://en.wikipedia.org/wiki/Paula_Rawl_Calhoon
+  - https://justfacts.votesmart.org/candidate/biography/181047/paula-calhoon
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0293181783
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0293181783
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-bowers-phillip
+  openstates_id: ocd-person/30bbaf18-f705-40eb-a035-be01314f1b44
+  full_name: Phillip Bowers
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Phillip_Bowers.PNG
+  phone: ""
+  email: phillipbowers@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0169318162
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Phillip_Bowers
+  - https://en.wikipedia.org/wiki/Phillip_Bowers
+  - https://justfacts.votesmart.org/candidate/biography/48068/phillip-bowers
+  - https://www.linkedin.com/in/phillip-bowers-ms-pmp-22574713
+  - https://www.scstatehouse.gov/member.php?code=0169318162
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-lowe-phillip
+  openstates_id: ocd-person/92bc68c6-b20b-4eec-a315-b0d5495db8ec
+  full_name: Phillip Lowe
+  office_title: State Representative
+  chamber: house
+  district: "60"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1125568047.jpg
+  phone: ""
+  email: philliplowe@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1125568047
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Phillip_Lowe_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Phillip_Lowe
+  - https://justfacts.votesmart.org/candidate/biography/60353/phillip-lowe
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1125568047
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1125568047
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-rice-rex
+  openstates_id: ocd-person/bfea6436-5d17-4d26-bc37-15f1a975575e
+  full_name: Rex Rice
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1547727087.jpg
+  phone: ""
+  email: rexrice@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1547727087
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rex_Rice
+  - https://justfacts.votesmart.org/candidate/biography/8939/rex-rice
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=1547727087
+  - https://www.linkedin.com/in/rex-rice-39b84570
+  - https://www.rexrice.com/bio
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=1547727087
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-cash-richard
+  openstates_id: ocd-person/69162972-6151-4fe2-b5fe-dee599d86ad3
+  full_name: Richard Cash
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0328409052.jpg
+  phone: ""
+  email: richard@richardcash.sc
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0328409052
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Richard_Cash
+  - https://en.wikipedia.org/wiki/Richard_Cash
+  - https://en.wikipedia.org/wiki/Richard_Cash_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/121778/richard-cash
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0328409052
+  - https://www.linkedin.com/in/richard-cash-18b91912
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0328409052
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-yow-richie
+  openstates_id: ocd-person/ebfb814e-0b47-4d8f-be94-63718f71a96c
+  full_name: Richie Yow
+  office_title: State Representative
+  chamber: house
+  district: "53"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1998863577.jpg
+  phone: ""
+  email: richieyow@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1998863577
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Richie_Yow
+  - https://en.wikipedia.org/wiki/Richie_Yow
+  - https://justfacts.votesmart.org/candidate/biography/139467/richie-yow
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1998863577
+  - https://treely.wixsite.com/yowtemplate03/about
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1998863577
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-robbins-robby
+  openstates_id: ocd-person/ea7da5ce-c132-44b0-8b3c-33745f9d3e4b
+  full_name: Robby Robbins
+  office_title: State Representative
+  chamber: house
+  district: "97"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1565340722.jpg
+  phone: ""
+  email: robertrobbins@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1565340722
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robby_Robbins
+  - https://en.wikipedia.org/wiki/Robby_Robbins
+  - https://justfacts.votesmart.org/candidate/201399/robby-robbins
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1565340722
+  - https://www.linkedin.com/in/robby-robbins-a1b1ab8
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1565340722
+  - https://www.tktlawyers.com/our-firm/robert-d-robbins
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-harris-rob
+  openstates_id: ocd-person/5bc3db4e-8055-4952-a217-1520e26c8929
+  full_name: Rob Harris
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0764772636.jpg
+  phone: ""
+  email: robharris@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0764772636
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Harris_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Rob_Harris_(South_Carolina_politician)
+  - https://justfacts.votesmart.org/candidate/205425/rob-harris
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0764772636
+  - https://www.scstatehouse.gov/member.php?code=0764772636
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-williams-robert
+  openstates_id: ocd-person/1b83cb36-84ea-44b1-b234-14ca1151c7a4
+  full_name: Robert Williams
+  office_title: State Representative
+  chamber: house
+  district: "62"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1942045222.jpg
+  phone: ""
+  email: robertwilliams@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1942045222
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Williams_(South_Carolina_Representative)
+  - https://en.wikipedia.org/wiki/Robert_Q._Williams
+  - https://justfacts.votesmart.org/candidate/biography/56499/robert-williams
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1942045222
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1942045222
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-reese-robert
+  openstates_id: ocd-person/82c25564-6f95-4fbc-96b8-2ab8a5954a4b
+  full_name: Robert Reese
+  office_title: State Representative
+  chamber: house
+  district: "70"
+  party: Democratic
+  status: active
+  photo_url: https://i0.wp.com/robertreeseforsc70.com/wp-content/uploads/2024/05/Rob_Marketing_-08-removebg-preview.png?w=408&ssl=1
+  phone: ""
+  email: robertreese@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1527840726
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Reese
+  - https://en.wikipedia.org/wiki/Robert_Reese
+  - https://justfacts.votesmart.org/candidate/biography/216350/robert-reese
+  - https://www.linkedin.com/in/robert-reese-47903928
+  - https://www.scstatehouse.gov/member.php?code=1527840726
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-kirby-roger
+  openstates_id: ocd-person/9aa18702-15a2-4281-926b-4e980f2e8aa0
+  full_name: Roger Kirby
+  office_title: State Representative
+  chamber: house
+  district: "101"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1006818061.jpg
+  phone: ""
+  email: rogerkirby@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1006818061
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Roger_Kirby
+  - https://en.wikipedia.org/wiki/Roger_K._Kirby
+  - https://justfacts.votesmart.org/candidate/biography/139590/roger-kirby
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1006818061
+  - https://www.linkedin.com/in/roger-kirby-3622ab21
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1006818061
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-sabb-ronnie
+  openstates_id: ocd-person/92a0b883-789a-4291-b2f1-330ec804ba12
+  full_name: Ronnie Sabb
+  office_title: State Senator
+  chamber: senate
+  district: "32"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1617045261.jpg
+  phone: ""
+  email: ronniesabb@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1617045261
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ronnie_Sabb
+  - https://en.wikipedia.org/wiki/Ronnie_A._Sabb
+  - https://justfacts.votesmart.org/candidate/biography/121747/ronnie-sabb
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=1617045261
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=1617045261
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-cromer-ronnie
+  openstates_id: ocd-person/a8c8738a-88f3-4a32-a61e-96004425b2c3
+  full_name: Ronnie Cromer
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0438636311.jpg
+  phone: ""
+  email: ronniecromer@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0438636311
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ronnie_Cromer
+  - https://en.wikipedia.org/wiki/Ronnie_W._Cromer
+  - https://justfacts.votesmart.org/candidate/biography/25065/ronnie-cromer
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0438636311
+  - https://www.linkedin.com/in/ronnie-cromer-77b45730
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0438636311
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-hendersonmyers-rosalyn
+  openstates_id: ocd-person/6a6c75f2-f3be-4764-9b7d-04b13c28b4aa
+  full_name: Rosalyn Henderson-Myers
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0824999901.jpg
+  phone: ""
+  email: rosalynhenderson-myers@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0824999901
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rosalyn_Henderson-Myers
+  - https://ballotpedia.org/Rosalyn_Henderson_Myers
+  - https://en.wikipedia.org/wiki/Rosalyn_Henderson-Myers
+  - https://justfacts.votesmart.org/candidate/174445/rosalyn-henderson-myers
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0824999901
+  - https://www.linkedin.com/in/representative-dr-rosalyn-henderson-myers-20389317
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0824999901
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-turner-ross
+  openstates_id: ocd-person/bf0e5259-d4e3-472c-a3a0-384eab1e8ae2
+  full_name: Ross Turner
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1847727051.jpg
+  phone: ""
+  email: rossturner@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1847727051
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ross_Turner
+  - https://en.wikipedia.org/wiki/Ross_Turner
+  - https://justfacts.votesmart.org/candidate/biography/139420/ross-turner
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=1847727051
+  - https://www.linkedin.com/in/senator-ross-turner-59707048
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=1847727051
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-ott-russell
+  openstates_id: ocd-person/458d191f-6584-4548-b464-a3a24cda3cf3
+  full_name: Russell Ott
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1433096420.jpg
+  phone: ""
+  email: russellott@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1433096420
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Russell_L._Ott
+  - https://en.wikipedia.org/wiki/Russell_Ott
+  - https://justfacts.votesmart.org/candidate/biography/144829/russell-ott
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1433096420
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1433096420
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-edgerton-sarita
+  openstates_id: ocd-person/60078bba-44b1-4606-9943-470d3b3ffbb2
+  full_name: Sarita Edgerton
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/SaritaEdgerton2024.jpeg
+  phone: ""
+  email: saritaedgerton@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0522159029
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sarita_Edgerton
+  - https://en.wikipedia.org/wiki/Sarita_Edgerton
+  - https://justfacts.votesmart.org/candidate/216321/sarita-edgerton
+  - https://www.linkedin.com/in/sarita-edgerton-58a91810
+  - https://www.scstatehouse.gov/member.php?code=0522159029
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-montgomery-scott
+  openstates_id: ocd-person/afbbce75-a054-458a-ad5f-95ac385510f2
+  full_name: Scott Montgomery
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/78a712_6c314e5806da4a328efc91387de831c7~mv2.jpg/v1/fill/w_321,h_446,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC_6157-Edit.jpg
+  phone: ""
+  email: scottmontgomery@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1351704384
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_Montgomery
+  - https://en.wikipedia.org/wiki/Scott_Montgomery_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/216319/scott-montgomery
+  - https://www.linkedin.com/in/scott-montgomery-0bb627
+  - https://www.scstatehouse.gov/member.php?code=1351704384
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-bennett-sean
+  openstates_id: ocd-person/3265c6c1-e300-4fd3-9d61-1cef57279d67
+  full_name: Sean Bennett
+  office_title: State Senator
+  chamber: senate
+  district: "38"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0141193165.jpg
+  phone: ""
+  email: seanbennett@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0141193165
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sean_Bennett
+  - https://en.wikipedia.org/wiki/Sean_Bennett_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/139441/sean-bennett
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0141193165
+  - https://www.linkedin.com/in/bennettscsenate
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0141193165
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-rose-seth
+  openstates_id: ocd-person/6f3e5d6a-0e85-4af0-9711-1eaa7e3da981
+  full_name: Seth Rose
+  office_title: State Representative
+  chamber: house
+  district: "72"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1584090719.jpg
+  phone: ""
+  email: sethrose@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1584090719
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Seth_Rose
+  - https://en.wikipedia.org/wiki/Seth_Rose
+  - https://justfacts.votesmart.org/candidate/biography/132461/seth-rose
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1584090719
+  - https://sethroselaw.com/profile
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1584090719
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-martin-shane
+  openstates_id: ocd-person/6409590b-b759-47e0-ba61-cfe5aee94228
+  full_name: Shane Martin
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1179545313.jpg
+  phone: ""
+  email: shanemartin@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1179545313
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shane_Martin
+  - https://en.wikipedia.org/wiki/Shane_Martin
+  - https://justfacts.votesmart.org/candidate/biography/104962/shane-martin
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=1179545313
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=1179545313
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-erickson-shannon
+  openstates_id: ocd-person/2bc4de0d-45ee-4cb7-8fda-f0a54a9a7492
+  full_name: Shannon Erickson
+  office_title: State Representative
+  chamber: house
+  district: "124"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0539772663.jpg
+  phone: ""
+  email: shannonerickson@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0539772663
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shannon_Erickson
+  - https://en.wikipedia.org/wiki/Shannon_Erickson
+  - https://justfacts.votesmart.org/candidate/biography/101096/shannon-erickson
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0539772663
+  - https://www.ericksonforhouse.com
+  - https://www.ericksonforhouse.com/about-shannon
+  - https://www.linkedin.com/in/shannon-erickson-40323310
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0539772663
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-frank-stephen
+  openstates_id: ocd-person/c706a635-007e-45fa-90c1-0961d0e4cd2f
+  full_name: Stephen Frank
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: https://votestephenfrank.com/wp-content/uploads/2024/05/430804199_10168719229715314_3862493250670651338_n.jpg
+  phone: ""
+  email: stephenfrank@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0614772654
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephen_Frank
+  - https://en.wikipedia.org/wiki/Stephen_Frank
+  - https://justfacts.votesmart.org/candidate/biography/216282/stephen-frank
+  - https://www.linkedin.com/in/stephendanielfrank
+  - https://www.scstatehouse.gov/member.php?code=0614772654
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-goldfinch-stephen
+  openstates_id: ocd-person/9837e1c5-5014-4306-9f78-1550b1a9a2c2
+  full_name: Stephen Goldfinch
+  office_title: State Senator
+  chamber: senate
+  district: "34"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0682386282.jpg
+  phone: ""
+  email: stephen@stephengoldfinch.com
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0682386282
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephen_Goldfinch,_Jr.
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0682386282
+  - https://stephengoldfinch.com/about
+  - https://www.linkedin.com/in/stephen-goldfinch-083bb019
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0682386282
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-long-steven
+  openstates_id: ocd-person/72f330b5-9ae0-40e6-b1d2-0ab6725cccf2
+  full_name: Steven Long
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1120454411.jpg
+  phone: ""
+  email: stevenlong@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1120454411
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steven_Long
+  - https://ballotpedia.org/Steven_Long_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Steven_Wayne_Long
+  - https://justfacts.votesmart.org/candidate/biography/168960/steven-long
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1120454411
+  - https://www.linkedin.com/in/stevenwlong
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1120454411
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-davis-sylleste
+  openstates_id: ocd-person/36dea3e2-2ea8-47e8-84df-cfc4a28073e7
+  full_name: Sylleste Davis
+  office_title: State Representative
+  chamber: house
+  district: "100"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0456249946.jpg
+  phone: ""
+  email: syllestedavis@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0456249946
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sylleste_Davis
+  - https://en.wikipedia.org/wiki/Sylleste_Davis
+  - https://justfacts.votesmart.org/candidate/biography/172947/sylleste-davis
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0456249946
+  - https://www.linkedin.com/in/sylleste-davis-86984129
+  - https://www.linkedin.com/in/syllestedavis
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0456249946
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-morgan-alan
+  openstates_id: ocd-person/10d51991-3dec-499f-8ed2-9c5685de9b00
+  full_name: Alan Morgan
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1374999835.jpg
+  phone: ""
+  email: alanmorgan@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1374999835
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alan_Morgan
+  - https://en.wikipedia.org/wiki/Alan_Morgan_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/204133/t-alan-morgan
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1374999835
+  - https://www.linkedin.com/in/alan-morgan
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1374999835
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-devine-tameika
+  openstates_id: ocd-person/51410bac-c642-4cd8-9935-dd87b16a6972
+  full_name: Tameika Isaac Devine
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: tameikaisaacdevine@scsenate.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0477840852
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tameika_Isaac_Devine
+  - https://en.wikipedia.org/wiki/Tameika_Isaac_Devine
+  - https://www.linkedin.com/in/tameikaisaacdevine
+  - https://www.scstatehouse.gov/member.php?code=0477840852
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-alexander-terry
+  openstates_id: ocd-person/ae65876e-c27c-49ff-a49f-d58bcbbd4bd5
+  full_name: Terry Alexander
+  office_title: State Representative
+  chamber: house
+  district: "59"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0011363635.jpg
+  phone: ""
+  email: terryalexander@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0011363635
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Terry_Alexander
+  - https://en.wikipedia.org/wiki/Terry_Alexander_(politician)
+  - https://justfacts.votesmart.org/candidate/56704/terry-alexander
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0011363635
+  - https://www.linkedin.com/in/terry-alexander-6182325
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0011363635
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-beach-thomas
+  openstates_id: ocd-person/2ac35060-d236-438e-a3ec-6ad2be0f53c6
+  full_name: Thomas Beach
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0129545439.jpg
+  phone: ""
+  email: thomasbeach@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0129545439
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Thomas_Beach
+  - https://en.wikipedia.org/wiki/Thomas_Beach_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/205389/thomas-beach
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0129545439
+  - https://www.linkedin.com/in/thomas-beach-b39b563a
+  - https://www.scstatehouse.gov/member.php?code=0129545439
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-alexander-thomas
+  openstates_id: ocd-person/06c7c886-4087-499e-855c-f36b0fa75195
+  full_name: Thomas Alexander
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0013636362.jpg
+  phone: ""
+  email: thomasalexander@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0013636362
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Thomas_Alexander
+  - https://en.wikipedia.org/wiki/Thomas_C._Alexander
+  - https://justfacts.votesmart.org/candidate/biography/3941/thomas-alexander
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0013636362
+  - https://www.linkedin.com/in/thomas-alexander-74006a6
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0013636362
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-brittain-case
+  openstates_id: ocd-person/30329193-5519-45c5-a7de-f841e62b91ac
+  full_name: Case Brittain
+  office_title: State Representative
+  chamber: house
+  district: "107"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0202272703.jpg
+  phone: ""
+  email: casebrittain@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0202272703
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Case_Brittain
+  - https://en.wikipedia.org/wiki/Case_Brittain
+  - https://justfacts.votesmart.org/candidate/191572/case-brittain
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0202272703
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0202272703
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-corbin-tom
+  openstates_id: ocd-person/25450820-f565-4644-95aa-885948c253c3
+  full_name: Tom Corbin
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0402272679.jpg
+  phone: ""
+  email: tomcorbin@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0402272679
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Corbin_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Tom_Corbin
+  - https://justfacts.votesmart.org/candidate/biography/121705/tom-corbin
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0402272679
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0402272679
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-guest-val
+  openstates_id: ocd-person/f8956197-cf73-4a14-927d-c3a0f62cff4c
+  full_name: Val Guest
+  office_title: State Representative
+  chamber: house
+  district: "106"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0730113549.jpg
+  phone: ""
+  email: valguest@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0730113549
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Val_Guest
+  - https://en.wikipedia.org/wiki/Thomas_Val_Guest
+  - https://grandstrandattorneys.com/attorney/thomas-d-guest
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0730113549
+  - https://www.linkedin.com/in/thomas-guest-735b09110
+  - https://www.scstatehouse.gov/member.php?code=0730113549
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-pope-tommy
+  openstates_id: ocd-person/7a31b7ee-6b6c-487b-bc69-c3c323357c05
+  full_name: Tommy Pope
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1484090731.jpg
+  phone: ""
+  email: tommypope@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1484090731
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tommy_Pope
+  - https://en.wikipedia.org/wiki/Tommy_Pope_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/121790/tommy-pope
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1484090731
+  - https://tommypope.com
+  - https://www.linkedin.com/in/tommy-pope-94a54232
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1484090731
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-hartnett-tom
+  openstates_id: ocd-person/3635c44f-6b49-4e42-bbd7-10dac688f92f
+  full_name: Tom Hartnett
+  office_title: State Representative
+  chamber: house
+  district: "110"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0774999907.jpg
+  phone: ""
+  email: tomhartnett@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0774999907
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Hartnett
+  - https://en.wikipedia.org/wiki/Tom_Hartnett_Jr.
+  - https://justfacts.votesmart.org/candidate/205494/tom-hartnett
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0774999907
+  - https://www.linkedin.com/in/tom-hartnett-jr-997a0510
+  - https://www.scstatehouse.gov/member.php?code=0774999907
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-ligon-randy
+  openstates_id: ocd-person/e4ab57f5-cf10-42ea-9c31-a6a4cc1a8c29
+  full_name: Randy Ligon
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1087499870.jpg
+  phone: ""
+  email: randyligon@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1087499870
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Randy_Ligon
+  - https://en.wikipedia.org/wiki/Randy_Ligon
+  - https://justfacts.votesmart.org/candidate/biography/181034/randy-ligon
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1087499870
+  - https://www.linkedin.com/in/randy-ligon-96250812
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1087499870
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-spannwilder-tiffany
+  openstates_id: ocd-person/e7352f8b-8faf-42e3-8216-b480056968c0
+  full_name: Tiffany Spann-Wilder
+  office_title: State Representative
+  chamber: house
+  district: "109"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: tiffanyspannwilder@schouse.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=1742897519
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tiffany_Spann-Wilder
+  - https://en.wikipedia.org/wiki/Tiffany_Spann-Wilder
+  - https://justfacts.votesmart.org/candidate/216263/tiffany-spann-wilder
+  - https://spannwilderlaw.com
+  - https://spannwilderlaw.com/attorney-spann-wilder
+  - https://www.linkedin.com/in/tiffany-spann-wilder-2b6913150
+  - https://www.linkedin.com/in/tiffany-spann-wilder-82560b48
+  - https://www.scstatehouse.gov/member.php?code=1742897519
+  - https://www.spannwilder4sc109.com/about.html
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-mcginnis-tim
+  openstates_id: ocd-person/023895b1-aeb4-410a-84d0-0059b3f10ee3
+  full_name: Tim McGinnis
+  office_title: State Representative
+  chamber: house
+  district: "56"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1256818031.jpg
+  phone: ""
+  email: timmcginnis@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1256818031
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tim_McGinnis
+  - https://en.wikipedia.org/wiki/Tim_McGinnis
+  - https://justfacts.votesmart.org/candidate/biography/176728/tim-mcginnis
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1256818031
+  - https://www.linkedin.com/in/tim-mcginnis-5b142b4
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1256818031
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-davis-tom
+  openstates_id: ocd-person/33fe6bed-f8b0-4002-90fa-870813b72caf
+  full_name: Tom Davis
+  office_title: State Senator
+  chamber: senate
+  district: "46"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0456818127.jpg
+  phone: ""
+  email: tomdavis@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0456818127
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Davis_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Tom_Davis_(South_Carolina_politician)
+  - https://harveyandbattey.com/attorneys/thomas-c-davis
+  - https://justfacts.votesmart.org/candidate/biography/104980/tom-davis
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0456818127
+  - https://www.linkedin.com/in/tom-davis-10073927
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0456818127
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-fernandez-tom
+  openstates_id: ocd-person/74b41634-f393-47b4-807b-124c14277ecb
+  full_name: Tom Fernandez
+  office_title: State Senator
+  chamber: senate
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: https://tomfernandezforsenate.com/wp-content/uploads/2023/03/tom-fernandez-headshot-2-957x1024.png
+  phone: ""
+  email: tomfernandez@scsenate.gov
+  address: ""
+  official_website: https://www.scstatehouse.gov/member.php?code=0574999931
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Fernandez
+  - https://en.wikipedia.org/wiki/Tom_Fernandez
+  - https://justfacts.votesmart.org/candidate/biography/181055/tom-fernandez
+  - https://www.scstatehouse.gov/member.php?code=0574999931
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-young-tom
+  openstates_id: ocd-person/b01d47f8-2131-4fe5-a611-d1b571696346
+  full_name: Tom Young
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1996590730.jpg
+  phone: ""
+  email: tomyoung@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1996590730
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Young_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Tom_Young_Jr.
+  - https://justfacts.votesmart.org/candidate/biography/105039/tom-young-jr
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=1996590730
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=1996590730
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-moore-travis
+  openstates_id: ocd-person/3b778652-2293-4f1d-ae0c-7d2308cbe9af
+  full_name: Travis Moore
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1365908927.jpg
+  phone: ""
+  email: travismoore@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1365908927
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Travis_Moore_(State_legislative_candidate)
+  - https://en.wikipedia.org/wiki/Travis_Moore_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/191604/travis-moore
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1365908927
+  - https://www.linkedin.com/in/travis-moore-2a5b1050
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1365908927
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-jordan-jay
+  openstates_id: ocd-person/00d450b3-f427-4e64-b0bd-45609b0a433b
+  full_name: Jay Jordan
+  office_title: State Representative
+  chamber: house
+  district: "63"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0957954431.jpg
+  phone: ""
+  email: jayjordan@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0957954431
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jay_Jordan
+  - https://en.wikipedia.org/wiki/Jay_Jordan_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/135934/jay-jordan-jr
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0957954431
+  - https://www.linkedin.com/in/jay-jordan-59946133
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0957954431
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-gilliard-wendell
+  openstates_id: ocd-person/7d11e90b-a028-4947-89d1-ac0788530446
+  full_name: Wendell Gilliard
+  office_title: State Representative
+  chamber: house
+  district: "111"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0675568101.jpg
+  phone: ""
+  email: wendellgilliard@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0675568101
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Wendell_Gilliard
+  - https://en.wikipedia.org/wiki/Wendell_Gilliard
+  - https://justfacts.votesmart.org/candidate/biography/78936/wendell-gilliard
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0675568101
+  - https://www.linkedin.com/in/representative-wendell-g-gilliard-79174518
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0675568101
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-jones-wendell
+  openstates_id: ocd-person/7a7e6769-eee4-4bb5-8246-a6463457f342
+  full_name: Wendell Jones
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0953408977.jpg
+  phone: ""
+  email: wendelljones@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0953408977
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Wendell_Jones
+  - https://en.wikipedia.org/wiki/Wendell_K._Jones
+  - https://justfacts.votesmart.org/candidate/205394/wendell-jones
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0953408977
+  - https://www.linkedin.com/in/wendell-jones-b9407713
+  - https://www.scstatehouse.gov/member.php?code=0953408977
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-sen-climer-wes
+  openstates_id: ocd-person/cccdb27c-0ed3-4d26-b2e1-5dd7c94e79ab
+  full_name: Wes Climer
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0356818139.jpg
+  phone: ""
+  email: wesclimer@scsenate.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0356818139
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Wes_Climer
+  - https://en.wikipedia.org/wiki/Wes_Climer
+  - https://justfacts.votesmart.org/candidate/biography/168929/wes-climer
+  - https://scstatehouse.gov/member.php?chamber=S
+  - https://scstatehouse.gov/member.php?code=0356818139
+  - https://www.scstatehouse.gov/member.php?chamber=S
+  - https://www.scstatehouse.gov/member.php?code=0356818139
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-clyburn-bill
+  openstates_id: ocd-person/58d2072a-c96a-49b2-8591-a4e186dc28eb
+  full_name: Bill Clyburn
+  office_title: State Representative
+  chamber: house
+  district: "82"
+  party: Democratic
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0363636320.jpg
+  phone: ""
+  email: billclyburn@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0363636320
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Clyburn_Sr.
+  - https://en.wikipedia.org/wiki/Bill_Clyburn
+  - https://justfacts.votesmart.org/candidate/biography/4006/bill-clyburn-sr
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0363636320
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0363636320
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-herbkersman-bill
+  openstates_id: ocd-person/e27051a1-60e8-4ad9-b1d2-55360e09ea8c
+  full_name: Bill Herbkersman
+  office_title: State Representative
+  chamber: house
+  district: "118"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0832954446.jpg
+  phone: ""
+  email: billherbkerman@schouse.gov
+  address: ""
+  official_website: https://repbillherbkersman.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Herbkersman
+  - https://en.wikipedia.org/wiki/Bill_Herbkersman
+  - https://justfacts.votesmart.org/candidate/47897/bill-herbkersman
+  - https://repbillherbkersman.com
+  - https://repbillherbkersman.com/about-bill
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0832954446
+  - https://www.linkedin.com/in/bill-herbkersman-0575507
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0832954446
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-bailey-william
+  openstates_id: ocd-person/40032da4-e72a-445f-b2df-7975724e64bb
+  full_name: William Bailey
+  office_title: State Representative
+  chamber: house
+  district: "104"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0088636353.jpg
+  phone: ""
+  email: williambailey@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0088636353
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Bailey
+  - https://en.wikipedia.org/wiki/William_Bailey_(South_Carolina_politician)
+  - https://justfacts.votesmart.org/candidate/181058/william-bailey
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0088636353
+  - https://www.linkedin.com/in/william-bailey-a302086a
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0088636353
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-chumley-bill
+  openstates_id: ocd-person/20240c0c-69e5-445f-b8ca-d33dd377e086
+  full_name: Bill Chumley
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0351704504.jpg
+  phone: ""
+  email: billchumley@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0351704504
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Chumley
+  - https://en.wikipedia.org/wiki/Bill_Chumley
+  - https://justfacts.votesmart.org/candidate/biography/48119/bill-chumley
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0351704504
+  - https://www.linkedin.com/in/bill-chumley-511151bb
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0351704504
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-hixon-bill
+  openstates_id: ocd-person/d1f25d1c-bd0e-4d0d-be0e-f8f3edad8a3d
+  full_name: Bill Hixon
+  office_title: State Representative
+  chamber: house
+  district: "83"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0849715808.jpg
+  phone: ""
+  email: billhixon@schouse.gov
+  address: ""
+  official_website: https://billhixon.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Hixon
+  - https://billhixon.com
+  - https://billhixon.com/about
+  - https://en.wikipedia.org/wiki/Bill_Hixon
+  - https://justfacts.votesmart.org/candidate/biography/121738/bill-hixon
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0849715808
+  - https://www.billhixon.com
+  - https://www.billhixon.com/about-bill
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=0849715808
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-whitmire-bill
+  openstates_id: ocd-person/ae3ba290-90f6-4121-874d-ba80e16ccbe7
+  full_name: Bill Whitmire
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1914204316.jpg
+  phone: ""
+  email: billwhitmire@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1914204316
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Whitmire
+  - https://en.wikipedia.org/wiki/Bill_Whitmire
+  - https://justfacts.votesmart.org/candidate/biography/47969/william-whitmire
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1914204316
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1914204316
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-hager-bill
+  openstates_id: ocd-person/066a2879-ab95-4082-803d-9c4dd582f04e
+  full_name: Bill Hager
+  office_title: State Representative
+  chamber: house
+  district: "122"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/0733948776.jpg
+  phone: ""
+  email: billhager@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=0733948776
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Hager_(South_Carolina)
+  - https://en.wikipedia.org/wiki/Bill_Hager_(South_Carolina_politician)
+  - https://justfacts.votesmart.org/candidate/biography/205508/bill-hager
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=0733948776
+  - https://www.linkedin.com/in/bill-hager-5a42467
+  - https://www.scstatehouse.gov/member.php?code=0733948776
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: sc-hou-newton-weston
+  openstates_id: ocd-person/eba4b1a4-14ca-44dd-93ab-25cdd3cbd5fd
+  full_name: Weston Newton
+  office_title: State Representative
+  chamber: house
+  district: "120"
+  party: Republican
+  status: active
+  photo_url: https://scstatehouse.gov/images/members/1418749830.jpg
+  phone: ""
+  email: westonnewton@schouse.gov
+  address: ""
+  official_website: https://scstatehouse.gov/member.php?code=1418749830
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Weston_Newton
+  - https://en.wikipedia.org/wiki/Weston_J._Newton
+  - https://justfacts.votesmart.org/candidate/biography/95106/weston-newton
+  - https://scstatehouse.gov/member.php?chamber=H
+  - https://scstatehouse.gov/member.php?code=1418749830
+  - https://www.linkedin.com/in/weston-newton-18431247
+  - https://www.scstatehouse.gov/member.php?chamber=H
+  - https://www.scstatehouse.gov/member.php?code=1418749830
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

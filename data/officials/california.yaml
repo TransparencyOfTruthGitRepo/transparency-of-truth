@@ -1,4 +1,2942 @@
 ﻿state: california
 state_abbrev: CA
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: ca-sen-wahab-aisha
+  openstates_id: ocd-person/295965df-6c71-4e11-806f-2b7d5be5d45c
+  full_name: Aisha Wahab
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wahab_aisha_d-10_-_crop.jpg
+  phone: ""
+  email: senator.wahab@senate.ca.gov
+  address: ""
+  official_website: https://sd10.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Aisha_Wahab
+  - https://en.wikipedia.org/wiki/Aisha_Wahab
+  - https://justfacts.votesmart.org/candidate/biography/198411/aisha-wahab
+  - https://sd10.senate.ca.gov
+  - https://sd10.senate.ca.gov/biography
+  - https://www.linkedin.com/in/aishabbwahab
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-pierson-akilah
+  openstates_id: ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525
+  full_name: Akilah Weber Pierson
+  office_title: State Senator
+  chamber: senate
+  district: "39"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-79_weber_a._005_resized.jpg
+  phone: ""
+  email: senator.weber@senate.ca.gov
+  address: ""
+  official_website: https://a79.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a79.asmdc.org
+  - https://a79.asmdc.org/
+  - https://ballotpedia.org/Akilah_Weber
+  - https://en.wikipedia.org/wiki/Akilah_Weber
+  - https://justfacts.votesmart.org/candidate/biography/195832/akilah-weber
+  - https://sd39.senate.ca.gov
+  - https://sd39.senate.ca.gov/biography
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/akilah-weber-3164404
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-muratsuchi-al
+  openstates_id: ocd-person/78610d0e-c790-4fc9-ab8e-0887adbbe063
+  full_name: Al Muratsuchi
+  office_title: State Representative
+  chamber: house
+  district: "66"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad66.jpg
+  phone: ""
+  email: assemblymember.muratsuchi@assembly.ca.gov
+  address: ""
+  official_website: https://a66.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a66.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Al_Muratsuchi
+  - https://en.wikipedia.org/wiki/Al_Muratsuchi
+  - https://justfacts.votesmart.org/candidate/biography/138450/al-muratsuchi
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/al-muratsuchi-ab916a7
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-lee-alex
+  openstates_id: ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a
+  full_name: Alex Lee
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/lee-025.jpg
+  phone: ""
+  email: assemblymember.lee@assembly.ca.gov
+  address: ""
+  official_website: https://a24.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a24.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Alex_Lee
+  - https://en.wikipedia.org/wiki/Alex_Lee_(politician)
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/votealexlee
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-macedo-ali
+  openstates_id: ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd
+  full_name: Ali Macedo
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: https://www.joincalifornia.com/candidate_pic.php?id=15000
+  phone: ""
+  email: assemblymember.macedo@assembly.ca.gov
+  address: ""
+  official_website: https://ad33.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad33.asmrc.org
+  - https://ballotpedia.org/Alexandra_Macedo
+  - https://en.wikipedia.org/wiki/Alexandra_Macedo
+  - https://justfacts.votesmart.org/candidate/213228/alexandra-macedo
+  - https://www.assembly.ca.gov/assemblymembers/33
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-farias-anamarie
+  openstates_id: ocd-person/c3921173-9680-4387-a70e-ebba5c599846
+  full_name: Anamarie Avila Farias
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Anamarie_Avila_Farias_20240905_034457.jpg
+  phone: ""
+  email: assemblymember.avilafarias@assembly.ca.gov
+  address: ""
+  official_website: https://a15.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a15.asmdc.org
+  - https://ballotpedia.org/Anamarie_Avila_Farias
+  - https://en.wikipedia.org/wiki/Anamarie_Avila_Farias
+  - https://justfacts.votesmart.org/candidate/146377/anamarie-avila-farias
+  - https://www.assembly.ca.gov/assemblymembers/15
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-ashby-angelique
+  openstates_id: ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f
+  full_name: Angelique Ashby
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/ashby_angelique_d-08.jpg
+  phone: ""
+  email: senator.ashby@senate.ca.gov
+  address: ""
+  official_website: https://sd08.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Angelique_Ashby
+  - https://en.wikipedia.org/wiki/Angelique_Ashby
+  - https://justfacts.votesmart.org/candidate/biography/129642/angelique-ashby
+  - https://sd08.senate.ca.gov
+  - https://www.angeliqueashby.com
+  - https://www.linkedin.com/in/angeliqueashby
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-caballero-anna
+  openstates_id: ocd-person/fe462917-df55-4a43-9fd8-970541544ca6
+  full_name: Anna Caballero
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/2016-ad30_annacaballero.jpg
+  phone: ""
+  email: senator.caballero@senate.ca.gov
+  address: ""
+  official_website: https://sd14.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Anna_Caballero
+  - https://en.wikipedia.org/wiki/Anna_Caballero
+  - https://justfacts.votesmart.org/candidate/biography/58583/anna-caballero
+  - https://sd14.senate.ca.gov
+  - https://sd14.senate.ca.gov/biography
+  - https://senate.ca.gov/senators
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-kalra-ash
+  openstates_id: ocd-person/820619fd-d053-4915-b099-1d134a880228
+  full_name: Ash Kalra
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad27_karla_roster150_20161205.jpg
+  phone: ""
+  email: assemblymember.kalra@assembly.ca.gov
+  address: ""
+  official_website: https://a25.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a25.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Ash_Kalra
+  - https://en.wikipedia.org/wiki/Ash_Kalra
+  - https://justfacts.votesmart.org/candidate/biography/112088/ash-kalra
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/ash-kalra-2b874b3
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-valencia-avelino
+  openstates_id: ocd-person/87062971-b583-4983-8ac5-4af98bef354d
+  full_name: Avelino Valencia
+  office_title: State Representative
+  chamber: house
+  district: "68"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/valencia_518_11-30-22_resized.jpg
+  phone: ""
+  email: assemblymember.valencia@assembly.ca.gov
+  address: ""
+  official_website: https://a68.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a68.asmdc.org
+  - https://a68.asmdc.org/biography
+  - https://ballotpedia.org/Avelino_Valencia
+  - https://en.wikipedia.org/wiki/Avelino_Valencia
+  - https://justfacts.votesmart.org/candidate/biography/196582/avelino-valencia
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/avelino-valencia-70395b62
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-allen-ben
+  openstates_id: ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3
+  full_name: Ben Allen
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/allen_ben_d-26.jpg
+  phone: ""
+  email: senator.allen@senate.ca.gov
+  address: ""
+  official_website: https://sd24.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ben_Allen
+  - https://en.wikipedia.org/wiki/Ben_Allen_(California_politician)
+  - https://sd24.senate.ca.gov
+  - https://sd24.senate.ca.gov/biography
+  - https://senate.ca.gov/senators
+  - https://www.linkedin.com/in/ben-allen-47bb902
+  - https://www.linkedin.com/in/ben-allen-79547113b
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-rubio-blanca
+  openstates_id: ocd-person/82cbb6e9-8486-44ec-8450-86d1e700f828
+  full_name: Blanca Rubio
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/rubio.jpg
+  phone: ""
+  email: assemblymember.rubio@assembly.ca.gov
+  address: ""
+  official_website: https://a48.asmdc.org
+  twitter: ""
+  source_urls:
+  - https://a48.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Blanca_Rubio
+  - https://en.wikipedia.org/wiki/Blanca_Rubio
+  - https://justfacts.votesmart.org/candidate/biography/169399/blanca-rubio
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/blanca-rubio-california-state-assembly-74365a65
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-pacheco-blanca
+  openstates_id: ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2
+  full_name: Blanca Pacheco
+  office_title: State Representative
+  chamber: house
+  district: "64"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/pachecho_007_11-30-22_resized.jpg
+  phone: ""
+  email: assemblymember.pacheco@assembly.ca.gov
+  address: ""
+  official_website: https://a64.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a64.asmdc.org
+  - https://a64.asmdc.org/biography
+  - https://ballotpedia.org/Blanca_Pacheco
+  - https://en.wikipedia.org/wiki/Blanca_Pacheco
+  - https://justfacts.votesmart.org/candidate/biography/198033/blanca-pacheco
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/blanca-pacheco
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-archuleta-bob
+  openstates_id: ocd-person/a76028df-5730-47b0-b617-1565621def41
+  full_name: Bob Archuleta
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/archuleta_bob.jpg
+  phone: ""
+  email: senator.archuleta@senate.ca.gov
+  address: ""
+  official_website: https://sd30.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bob_Archuleta
+  - https://en.wikipedia.org/wiki/Bob_Archuleta
+  - https://justfacts.votesmart.org/candidate/biography/71279/bob-archuleta
+  - https://sd30.senate.ca.gov
+  - https://sd30.senate.ca.gov/biography
+  - https://senate.ca.gov/senators
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-jones-brian
+  openstates_id: ocd-person/ea5c3b3d-bbad-41f6-a912-69f60f1553a4
+  full_name: Brian Jones
+  office_title: State Senator
+  chamber: senate
+  district: "40"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/brian_jones_headshot_blue.jpg
+  phone: ""
+  email: senator.jones@senate.ca.gov
+  address: ""
+  official_website: https://senate.ca.gov/sd38
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Jones_(California)
+  - https://en.wikipedia.org/wiki/Brian_Jones_(California_politician)
+  - https://justfacts.votesmart.org/candidate/biography/70781/brian-jones
+  - https://senate.ca.gov/senators
+  - https://sr40.senate.ca.gov
+  - https://www.linkedin.com/in/brian-jones-bb3365b
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-wicks-buffy
+  openstates_id: ocd-person/8230907e-9ae3-4ae9-b52a-c8464a157f64
+  full_name: Buffy Wicks
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a15_b_wicks.jpg
+  phone: ""
+  email: assemblymember.wicks@assembly.ca.gov
+  address: ""
+  official_website: https://a14.asmdc.org
+  twitter: ""
+  source_urls:
+  - https://a14.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Buffy_Wicks
+  - https://en.wikipedia.org/wiki/Buffy_Wicks
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/buffy-wicks-036890bb
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-demaio-carl
+  openstates_id: ocd-person/053d119b-847e-43bf-9a22-18b5f309067f
+  full_name: Carl DeMaio
+  office_title: State Representative
+  chamber: house
+  district: "75"
+  party: Republican
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/159263.jpg
+  phone: ""
+  email: assemblymember.demaio@assembly.ca.gov
+  address: ""
+  official_website: https://ad75.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad75.asmrc.org
+  - https://ballotpedia.org/Carl_DeMaio
+  - https://en.wikipedia.org/wiki/Carl_DeMaio
+  - https://www.assembly.ca.gov/assemblymembers/75
+  - https://www.linkedin.com/in/carl-demaio-66361553
+  - https://www.linkedin.com/in/carldemaio
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-menjivar-caroline
+  openstates_id: ocd-person/b19c0361-ca41-4cba-bcf4-b7342a67f28b
+  full_name: Caroline Menjivar
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/menjivar_caroline_d-20.jpg
+  phone: ""
+  email: senator.menjivar@senate.ca.gov
+  address: ""
+  official_website: https://sd20.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Caroline_Menjivar
+  - https://en.wikipedia.org/wiki/Caroline_Menjivar
+  - https://sd20.senate.ca.gov
+  - https://sd20.senate.ca.gov/biography
+  - https://www.linkedin.com/in/menjivarc
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-blakespear-catherine
+  openstates_id: ocd-person/39e3ce0f-c2e2-4480-9e99-76e1e62f366d
+  full_name: Catherine Blakespear
+  office_title: State Senator
+  chamber: senate
+  district: "38"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/blakespear_catherine_d-38.jpg
+  phone: ""
+  email: senator.blakespear@senate.ca.gov
+  address: ""
+  official_website: https://sd38.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Catherine_Blakespear
+  - https://en.wikipedia.org/wiki/Catherine_Blakespear
+  - https://justfacts.votesmart.org/candidate/biography/157195/catherine-blakespear
+  - https://sd38.senate.ca.gov
+  - https://sd38.senate.ca.gov/biography
+  - https://www.linkedin.com/in/catherine-blakespear-6549a24
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-stefani-catherine
+  openstates_id: ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5
+  full_name: Catherine Stefani
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: https://sfbos.org/sites/default/files/Roster_frame_stefani_0.jpg
+  phone: ""
+  email: assemblymember.stefani@assembly.ca.gov
+  address: ""
+  official_website: https://a19.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a19.asmdc.org
+  - https://ballotpedia.org/Catherine_Stefani
+  - https://en.wikipedia.org/wiki/Catherine_Stefani
+  - https://sfbos.org/supervisor-stefani-district-2
+  - https://sfbos.org/supervisor-stefani-overview
+  - https://www.assembly.ca.gov/assemblymembers/19
+  - https://www.linkedin.com/in/catherine-stefani-64969b20
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-aguiarcurry-cecilia
+  openstates_id: ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c
+  full_name: Cecilia Aguiar-Curry
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-04_aguiar-curry_c18_resized.jpg
+  phone: ""
+  email: assemblymember.aguiar-curry@assembly.ca.gov
+  address: ""
+  official_website: https://a04.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a04.asmdc.org
+  - https://a04.asmdc.org/biography
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Cecilia_Aguiar-Curry
+  - https://en.wikipedia.org/wiki/Cecilia_Aguiar-Curry
+  - https://justfacts.votesmart.org/candidate/biography/169297/cecilia-aguiar-curry
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.assembly.ca.gov/assemblymembers/04
+  - https://www.linkedin.com/in/cecilia-aguiar-curry-9810b526
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-rodriguez-celeste
+  openstates_id: ocd-person/1dbf574d-4c03-40ce-8c30-a6727c4bd5ab
+  full_name: Celeste Rodriguez
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Democratic
+  status: active
+  photo_url: https://ci.san-fernando.ca.us/wp-content/uploads/2021/07/Rodriguez-Celeste-2021-267x300.png
+  phone: ""
+  email: assemblymember.celesterodriguez@assembly.ca.gov
+  address: ""
+  official_website: https://a43.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a43.asmdc.org
+  - https://ballotpedia.org/Celeste_Rodriguez
+  - https://en.wikipedia.org/wiki/Celeste_Rodriguez
+  - https://www.assembly.ca.gov/assemblymembers/43
+  - https://www.linkedin.com/in/celeste-t-rodriguez
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-rogers-chris
+  openstates_id: ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58
+  full_name: Chris Rogers
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Democratic
+  status: active
+  photo_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvc9FWYBOubY6iEQhH0tArBAvSS_ZMhoOGw&s
+  phone: ""
+  email: assemblymember.rogers@assembly.ca.gov
+  address: ""
+  official_website: https://a02.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a02.asmdc.org
+  - https://ballotpedia.org/Chris_Rogers_(California)
+  - https://en.wikipedia.org/wiki/Chris_Rogers_(politician)
+  - https://www.assembly.ca.gov/assemblymembers/02
+  - https://www.linkedin.com/in/chrisrogersforassembly
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-cabaldon-christopher
+  openstates_id: ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20
+  full_name: Christopher Cabaldon
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Democratic
+  status: active
+  photo_url: https://calearninglab.org/wp-content/uploads/2024/09/Emcee-Christopher-Cabaldon-488x559.png
+  phone: ""
+  email: senator.cabaldon@senate.ca.gov
+  address: ""
+  official_website: https://sd03.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Christopher_Cabaldon
+  - https://en.wikipedia.org/wiki/Christopher_Cabaldon
+  - https://justfacts.votesmart.org/candidate/key-votes/71164/christopher-cabaldon
+  - https://sd03.senate.ca.gov
+  - https://www.linkedin.com/in/christophercabaldon
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-ward-chris
+  openstates_id: ocd-person/71590420-10d6-4deb-8d59-453256d625b6
+  full_name: Chris Ward
+  office_title: State Representative
+  chamber: house
+  district: "78"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ward-006.jpg
+  phone: ""
+  email: assemblymember.ward@assembly.ca.gov
+  address: ""
+  official_website: https://a78.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a78.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Christopher_Ward_(California)
+  - https://en.wikipedia.org/wiki/Chris_Ward_(American_politician)
+  - https://justfacts.votesmart.org/candidate/176914/chris-ward
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/harward
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-jackson-corey
+  openstates_id: ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383
+  full_name: Corey Jackson
+  office_title: State Representative
+  chamber: house
+  district: "60"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/jackson_027_11-30-22_resized.jpg
+  phone: ""
+  email: assemblymember.jackson@assembly.ca.gov
+  address: ""
+  official_website: https://a60.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a60.asmdc.org
+  - https://ballotpedia.org/Corey_Jackson
+  - https://en.wikipedia.org/wiki/Corey_Jackson_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/205321/corey-jackson
+  - https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD60&inframe=N
+  - https://ww2.arb.ca.gov/about/leadership/dr-corey-jackson
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/corey-jackson-msw-a250496
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-petrienorris-cottie
+  openstates_id: ocd-person/c766abf8-06ca-4a98-9665-82b87149ca96
+  full_name: Cottie Petrie-Norris
+  office_title: State Representative
+  chamber: house
+  district: "73"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a74_c_p_norris.jpg
+  phone: ""
+  email: assemblymember.petrie-norris@assembly.ca.gov
+  address: ""
+  official_website: https://a73.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a73.asmdc.org
+  - https://a73.asmdc.org/biography
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Cottie_Petrie-Norris
+  - https://en.wikipedia.org/wiki/Cottie_Petrie-Norris
+  - https://justfacts.votesmart.org/candidate/biography/180141/cottie-petrie-norris
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/cottie-petrie-norris-9b1619
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-connolly-damon
+  openstates_id: ocd-person/32e06e60-77ac-4c5e-af1e-2110b602dc97
+  full_name: Damon Connolly
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/connolly_509_11-30-22_resized.jpg
+  phone: ""
+  email: assemblymember.connolly@assembly.ca.gov
+  address: ""
+  official_website: https://a12.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a12.asmdc.org
+  - https://a12.asmdc.org/biography
+  - https://ballotpedia.org/Damon_Connolly
+  - https://en.wikipedia.org/wiki/Damon_Connolly
+  - https://justfacts.votesmart.org/candidate/biography/59851/damon-connolly
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/damon-connolly-7093588
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-patel-darsh
+  openstates_id: ocd-person/86218623-ea63-4b2a-ab5c-7694e3f4a18a
+  full_name: Darsh Patel
+  office_title: State Representative
+  chamber: house
+  district: "76"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Darshana_Patel.jpg
+  phone: ""
+  email: assemblymember.patel@assembly.ca.gov
+  address: ""
+  official_website: https://a76.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a76.asmdc.org
+  - https://ballotpedia.org/Darshana_Patel
+  - https://www.assembly.ca.gov/assemblymembers/76
+  - https://www.linkedin.com/in/darshanapatelphd
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-cortese-dave
+  openstates_id: ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff
+  full_name: Dave Cortese
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd15_cortese_0.jpg
+  phone: ""
+  email: senator.cortese@senate.ca.gov
+  address: ""
+  official_website: https://sd15.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dave_Cortese_(California)
+  - https://en.wikipedia.org/wiki/Dave_Cortese
+  - https://justfacts.votesmart.org/candidate/biography/114701/dave-cortese
+  - https://sd15.senate.ca.gov
+  - https://senate.ca.gov/senators
+  - https://www.linkedin.com/in/dave-cortese-a5874a4
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-alvarez-david
+  openstates_id: ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605
+  full_name: David Alvarez
+  office_title: State Representative
+  chamber: house
+  district: "80"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad80_alvarez_008_06-16-22.jpg
+  phone: ""
+  email: assemblymember.alvarez@assembly.ca.gov
+  address: ""
+  official_website: https://a80.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a80.asmdc.org
+  - https://a80.asmdc.org/about/biography
+  - https://ballotpedia.org/David_Alvarez_(California)
+  - https://en.wikipedia.org/wiki/David_Alvarez_(politician)
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/alvarezsd
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-tangipa-david
+  openstates_id: ocd-person/748ce69c-a2bc-41a7-95e2-b09fba6e5ecd
+  full_name: David Tangipa
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://youngamericans.berkeley.edu/wp-content/uploads/2024/04/David-Tangipa-1024x1024.jpg
+  phone: ""
+  email: assemblymember.tangipa@assembly.ca.gov
+  address: ""
+  official_website: https://ad08.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad08.asmrc.org
+  - https://ballotpedia.org/David_Tangipa
+  - https://en.wikipedia.org/wiki/David_Tangipa
+  - https://justfacts.votesmart.org/candidate/213160/david-tangipa
+  - https://www.assembly.ca.gov/assemblymembers/08
+  - https://www.linkedin.com/in/david-tangipa-819877b2
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-addis-dawn
+  openstates_id: ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb
+  full_name: Dawn Addis
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/addis_003_11-30-22_resized.jpg
+  phone: ""
+  email: dawn.addis@asm.ca.gov
+  address: ""
+  official_website: https://a30.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a30.asmdc.org
+  - https://a30.asmdc.org/biography
+  - https://ballotpedia.org/Dawn_Addis
+  - https://dawnaddis.org/about
+  - https://en.wikipedia.org/wiki/Dawn_Addis
+  - https://justfacts.votesmart.org/candidate/biography/188800/dawn-addis
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/dawn-addis
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-dixon-diane
+  openstates_id: ocd-person/0c4e1b43-c3d7-4a13-87c4-92e29903cb73
+  full_name: Diane Dixon
+  office_title: State Representative
+  chamber: house
+  district: "72"
+  party: Republican
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/dixon_a25i1340_resized.png
+  phone: ""
+  email: assemblymember.dixon@assembly.ca.gov
+  address: ""
+  official_website: https://ad72.asmrc.org
+  twitter: ""
+  source_urls:
+  - https://ad72.asmrc.org
+  - https://ad72.asmrc.org/biography
+  - https://ballotpedia.org/Diane_Dixon
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/dianebrooksdixon
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-papan-diane
+  openstates_id: ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede
+  full_name: Diane Papan
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/papan_002_11-30-22_resized.jpg
+  phone: ""
+  email: assemblymember.papan@assembly.ca.gov
+  address: ""
+  official_website: https://a21.asmdc.org
+  twitter: ""
+  source_urls:
+  - https://a21.asmdc.org
+  - https://a21.asmdc.org/biography
+  - https://ballotpedia.org/Diane_Papan
+  - https://en.wikipedia.org/wiki/Diane_Papan
+  - https://justfacts.votesmart.org/candidate/biography/172943/diane-papan
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/diane-papan-a15b0365
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-arambula-joaquin
+  openstates_id: ocd-person/e2da0f08-1bd8-4ac2-95f1-002870238527
+  full_name: Joaquin Arambula
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/asm-arambula.jpg
+  phone: ""
+  email: assemblymember.arambula@assembly.ca.gov
+  address: ""
+  official_website: https://a31.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a31.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Joaquin_Arambula
+  - https://en.wikipedia.org/wiki/Joaquin_Arambula
+  - https://justfacts.votesmart.org/candidate/biography/169272/joaquin-arambula
+  - https://www.assembly.ca.gov/assemblymembers
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-reyes-eloise
+  openstates_id: ocd-person/19f694d8-b409-40e5-9f87-d8e3e84afc7f
+  full_name: Eloise Reyes
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-50_reyes_e17_resized.jpg
+  phone: ""
+  email: senator.reyes@senate.ca.gov
+  address: ""
+  official_website: https://a47.asmdc.org
+  twitter: ""
+  source_urls:
+  - https://a50.asmdc.org
+  - https://a50.asmdc.org/biography
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Eloise_Reyes
+  - https://en.wikipedia.org/wiki/Eloise_Reyes
+  - https://justfacts.votesmart.org/candidate/biography/169395/eloise-reyes
+  - https://sd29.senate.ca.gov
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/eloise-reyes-726759a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-soria-esmeralda
+  openstates_id: ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7
+  full_name: Esmeralda Soria
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/soria_025_edit_11-29-22_resized_0.jpg
+  phone: ""
+  email: assemblymember.soria@assembly.ca.gov
+  address: ""
+  official_website: https://a27.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a27.asmdc.org
+  - https://ballotpedia.org/Esmeralda_Soria
+  - https://en.wikipedia.org/wiki/Esmeralda_Soria
+  - https://soriaforcalifornia.com/meet-the-candidate
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/esmeraldas1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-pellerin-gail
+  openstates_id: ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570
+  full_name: Gail Pellerin
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/pellerin_502_11-30-22_resized.jpg
+  phone: ""
+  email: assemblymember.pellerin@assembly.ca.gov
+  address: ""
+  official_website: https://a28.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a28.asmdc.org
+  - https://a28.asmdc.org/biography
+  - https://ballotpedia.org/Gail_Pellerin
+  - https://en.wikipedia.org/wiki/Gail_Pellerin
+  - https://justfacts.votesmart.org/candidate/205284/gail-pellerin
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.gailpellerinforassembly.com/about-gail
+  - https://www.linkedin.com/in/gail-pellerin-86265b17
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-wallis-greg
+  openstates_id: ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e
+  full_name: Greg Wallis
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Republican
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/wallis_greg_0.jpg
+  phone: ""
+  email: assemblymember.wallis@assembly.ca.gov
+  address: ""
+  official_website: https://ad47.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad47.asmrc.org
+  - https://ballotpedia.org/Greg_Wallis
+  - https://en.wikipedia.org/wiki/Greg_Wallis
+  - https://justfacts.votesmart.org/candidate/biography/205311/greg-wallis
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.gregwallis.org/meet-greg
+  - https://www.linkedin.com/in/gregory-wallis-75211846
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-hart-gregg
+  openstates_id: ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279
+  full_name: Gregg Hart
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/hart_027_11-30-22_resized.jpg
+  phone: ""
+  email: assemblymember.hart@assembly.ca.gov
+  address: ""
+  official_website: https://a37.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a37.asmdc.org
+  - https://a37.asmdc.org/biography
+  - https://ballotpedia.org/Gregg_Hart
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/gregg-hart-37b3504
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-flora-heath
+  openstates_id: ocd-person/c830a90c-8964-4c0f-b31b-729cab1144fd
+  full_name: Heath Flora
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/flora.jpg
+  phone: ""
+  email: assemblymember.flora@assembly.ca.gov
+  address: ""
+  official_website: https://ad09.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad09.asmrc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Heath_Flora
+  - https://en.wikipedia.org/wiki/Heath_Flora
+  - https://justfacts.votesmart.org/candidate/biography/169309/heath-flora
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/heath-flora-24060a47
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-hadwick-heather
+  openstates_id: ocd-person/3b125433-5362-42e2-a2b5-b608962c9481
+  full_name: Heather Hadwick
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://theorion.com/wp-content/uploads/2024/09/Hadwick-MCOE-.jpg
+  phone: ""
+  email: assemblymember.hadwick@assembly.ca.gov
+  address: ""
+  official_website: https://ad01.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad01.asmrc.org
+  - https://ad01.asmrc.org/biography
+  - https://ballotpedia.org/Heather_Hadwick
+  - https://justfacts.votesmart.org/candidate/213143/heather-hadwick
+  - https://www.assembly.ca.gov/assemblymembers/01
+  - https://www.linkedin.com/in/heather-hadwick-051016290
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-stern-henry
+  openstates_id: ocd-person/66bd4b32-5536-4bae-ab55-08c0b70ca5fd
+  full_name: Henry Stern
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/stern.jpg
+  phone: ""
+  email: senator.stern@senate.ca.gov
+  address: ""
+  official_website: https://sd27.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Henry_Stern
+  - https://en.wikipedia.org/wiki/Henry_Stern_(California_politician)
+  - https://justfacts.votesmart.org/candidate/biography/169182/henry-stern
+  - https://sd27.senate.ca.gov
+  - https://senate.ca.gov/senators
+  - https://ww2.arb.ca.gov/about/leadership/henry-stern
+  - https://www.linkedin.com/in/henry-stern-3805713
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-bryan-isaac
+  openstates_id: ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651
+  full_name: Isaac Bryan
+  office_title: State Representative
+  chamber: house
+  district: "55"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/isaacbryan.jpg
+  phone: ""
+  email: assemblymember.bryan@assembly.ca.gov
+  address: ""
+  official_website: https://a54.asmdc.org
+  twitter: ""
+  source_urls:
+  - https://a54.asmdc.org
+  - https://a54.asmdc.org/
+  - https://a55.asmdc.org
+  - https://ballotpedia.org/Isaac_Bryan
+  - https://en.wikipedia.org/wiki/Isaac_Bryan
+  - https://justfacts.votesmart.org/candidate/biography/195907/isaac-bryan
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/isaacbryan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-irwin-jacqui
+  openstates_id: ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c
+  full_name: Jacqui Irwin
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD44_Irwin_Portrait150_20141201.jpg
+  phone: ""
+  email: assemblymember.irwin@assembly.ca.gov
+  address: ""
+  official_website: https://a42.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a42.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Jacqui_Irwin
+  - https://en.wikipedia.org/wiki/Jacqui_Irwin
+  - https://justfacts.votesmart.org/candidate/biography/70919/jacqui-irwin
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/jacqui-irwin-3101828
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-ramos-james
+  openstates_id: ocd-person/156660b1-4c3f-45e3-8384-53cda60d7ea5
+  full_name: James Ramos
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a40_jc_ramos.jpg
+  phone: ""
+  email: assemblymember.ramos@assembly.ca.gov
+  address: ""
+  official_website: https://a40.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a45.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/James_Ramos
+  - https://en.wikipedia.org/wiki/James_Ramos
+  - https://justfacts.votesmart.org/candidate/biography/144120/james-ramos
+  - https://www.assembly.ca.gov/assemblymembers
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-gallagher-james
+  openstates_id: ocd-person/5d93a1cb-7a01-43ab-a26c-a2abecdee135
+  full_name: James Gallagher
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Gallagher_LDC_headshot.jpg
+  phone: ""
+  email: assemblymember.gallagher@assembly.ca.gov
+  address: ""
+  official_website: https://ad03.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad03.asmrc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/James_Gallagher_(California)
+  - https://en.wikipedia.org/wiki/James_Gallagher_(California_politician)
+  - https://www.assembly.ca.gov/assemblymembers
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-bains-jasmeet
+  openstates_id: ocd-person/b08199e4-63d9-4bd4-9be3-99e628fa7059
+  full_name: Jasmeet Bains
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: assemblymember.bains@assembly.ca.gov
+  address: ""
+  official_website: https://a35.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a35.asmdc.org
+  - https://ballotpedia.org/Jasmeet_Bains
+  - https://en.wikipedia.org/wiki/Jasmeet_Bains
+  - https://justfacts.votesmart.org/candidate/biography/205296/jasmeet-bains
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.drjasmeetbains.com/archived-bio-12-30-23
+  - https://www.linkedin.com/in/jasmeet-bains-md-b7684a93
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-gonzalez-jeff
+  openstates_id: ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737
+  full_name: Jeff Gonzalez
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: https://californiaglobe.com/wp-content/uploads/2024/10/Screenshot-2024-10-03-at-7.03.49%E2%80%AFAM-708x642.png
+  phone: ""
+  email: assemblymember.gonzalez@assembly.ca.gov
+  address: ""
+  official_website: https://ad36.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad36.asmrc.org
+  - https://ballotpedia.org/Jeff_Gonzalez
+  - https://justfacts.votesmart.org/candidate/biography/180114/jeff-gonzalez
+  - https://www.assembly.ca.gov/assemblymembers/36
+  - https://www.linkedin.com/in/jeffgonzalez-
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-mcnerney-jerry
+  openstates_id: ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7
+  full_name: Jerry McNerney
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/70583.jpg
+  phone: ""
+  email: senator.mcnerney@senate.ca.gov
+  address: ""
+  official_website: https://sd05.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jerry_McNerney
+  - https://en.wikipedia.org/wiki/Jerry_McNerney
+  - https://justfacts.votesmart.org/candidate/29474/jerry-mcnerney
+  - https://sd05.senate.ca.gov
+  - https://www.govtrack.us/congress/members/jerry_mcnerney/412189
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-arregun-jesse
+  openstates_id: ocd-person/83a64401-d95d-42c5-8cfc-03bd29e4adc8
+  full_name: Jesse Arreguín
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Democratic
+  status: active
+  photo_url: https://berkeleyca.gov/sites/default/files/elected-office-holder/portrait.jpg
+  phone: ""
+  email: senator.arreguin@senate.ca.gov
+  address: ""
+  official_website: https://sd07.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jesse_Arregu%C3%ADn
+  - https://berkeleyca.gov/your-government/city-council/council-roster/jesse-arreguin
+  - https://en.wikipedia.org/wiki/Jesse_Arregu%C3%ADn
+  - https://justfacts.votesmart.org/candidate/111582/jesse-arreguin
+  - https://sd07.senate.ca.gov
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-gabriel-jesse
+  openstates_id: ocd-person/407f6fda-8638-4cca-9704-7aa8df7de26e
+  full_name: Jesse Gabriel
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-46_gabriel_resized.jpg
+  phone: ""
+  email: assemblymember.gabriel@assembly.ca.gov
+  address: ""
+  official_website: https://a45.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a46.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Jesse_Gabriel
+  - https://en.wikipedia.org/wiki/Jesse_Gabriel
+  - https://justfacts.votesmart.org/candidate/biography/178075/jesse-gabriel
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/jesse-gabriel-4111b32b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-caloza-jessica
+  openstates_id: ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e
+  full_name: Jessica Caloza
+  office_title: State Representative
+  chamber: house
+  district: "52"
+  party: Democratic
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/158655.jpg
+  phone: ""
+  email: assemblymember.caloza@assembly.ca.gov
+  address: ""
+  official_website: https://a52.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a52.asmdc.org
+  - https://ballotpedia.org/Jessica_Caloza
+  - https://en.wikipedia.org/wiki/Jessica_Caloza
+  - https://www.assembly.ca.gov/assemblymembers/52
+  - https://www.linkedin.com/in/jessicacaloza
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-patterson-joe
+  openstates_id: ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc
+  full_name: Joe Patterson
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/patterson_a25i1438_resized.png
+  phone: ""
+  email: assemblymember.joepatterson@assembly.ca.gov
+  address: ""
+  official_website: https://ad05.asmrc.org
+  twitter: ""
+  source_urls:
+  - https://ad05.asmrc.org
+  - https://ad05.asmrc.org/biography
+  - https://ballotpedia.org/Joe_Patterson_(California)
+  - https://joepatterson.com/about
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/joepatterson82
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-harabedian-john
+  openstates_id: ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8
+  full_name: John Harabedian
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Democratic
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/158662.jpg
+  phone: ""
+  email: assemblymember.harabedian@assembly.ca.gov
+  address: ""
+  official_website: https://a41.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a41.asmdc.org
+  - https://a41.asmdc.org/biography
+  - https://ballotpedia.org/John_Harabedian
+  - https://en.wikipedia.org/wiki/John_Harabedian
+  - https://www.assembly.ca.gov/assemblymembers/41
+  - https://www.linkedin.com/in/john-harabedian-9ba716a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-laird-john
+  openstates_id: ocd-person/7476789f-49a4-491a-b294-9d1486f24193
+  full_name: John Laird
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd17_laird_0.jpg
+  phone: ""
+  email: senator.laird@senate.ca.gov
+  address: ""
+  official_website: https://sd17.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Laird
+  - https://en.wikipedia.org/wiki/John_Laird_(American_politician)
+  - https://sd17.senate.ca.gov
+  - https://senate.ca.gov/senators
+  - https://www.linkedin.com/in/john-laird-42095110
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-solache-jos
+  openstates_id: ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc
+  full_name: José Solache
+  office_title: State Representative
+  chamber: house
+  district: "62"
+  party: Democratic
+  status: active
+  photo_url: https://www.lynwoodca.gov/ImageRepository/Document?documentID=302
+  phone: ""
+  email: assemblymember.solache@assembly.ca.gov
+  address: ""
+  official_website: https://a62.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a62.asmdc.org
+  - https://ballotpedia.org/Jose_Solache
+  - https://justfacts.votesmart.org/candidate/biography/146371/jose-solache
+  - https://www.assembly.ca.gov/assemblymembers/62
+  - https://www.linkedin.com/in/jose-l-solache-40393b6
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-becker-josh
+  openstates_id: ocd-person/c71137b2-3fc3-48bf-b0ad-6c29aff98268
+  full_name: Josh Becker
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd13_becker_0.jpg
+  phone: ""
+  email: senator.becker@senate.ca.gov
+  address: ""
+  official_website: https://sd13.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Josh_Becker
+  - https://en.wikipedia.org/wiki/Josh_Becker_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/120184/josh-becker
+  - https://sd13.senate.ca.gov
+  - https://senate.ca.gov/senators
+  - https://www.linkedin.com/in/beckerjosh
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-hoover-joshua
+  openstates_id: ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b
+  full_name: Joshua Hoover
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: assemblymember.hoover@assembly.ca.gov
+  address: ""
+  official_website: https://ad07.asmrc.org
+  twitter: ""
+  source_urls:
+  - https://ad07.asmrc.org
+  - https://ad07.asmrc.org/biography
+  - https://ballotpedia.org/Josh_Hoover
+  - https://en.wikipedia.org/wiki/Josh_Hoover
+  - https://justfacts.votesmart.org/candidate/biography/205249/josh-hoover
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/joshuaryanhoover
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-lowenthal-josh
+  openstates_id: ocd-person/b20254b0-437a-4d3d-9aa9-baa5db2bc5ef
+  full_name: Josh Lowenthal
+  office_title: State Representative
+  chamber: house
+  district: "69"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/lowenthal_009_11-30-22_resized.jpg
+  phone: ""
+  email: assemblymember.lowenthal@assembly.ca.gov
+  address: ""
+  official_website: https://a69.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a69.asmdc.org
+  - https://a69.asmdc.org/biography
+  - https://ballotpedia.org/Josh_Lowenthal
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/josh-lowenthal-82298420
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-alanis-juan
+  openstates_id: ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62
+  full_name: Juan Alanis
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/alanis_a25i1397_resized.png
+  phone: ""
+  email: assemblymember.alanis@assembly.ca.gov
+  address: ""
+  official_website: https://ad22.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad22.asmrc.org
+  - https://ad22.asmrc.org/biography
+  - https://ballotpedia.org/Juan_Alanis_(California)
+  - https://en.wikipedia.org/wiki/Juan_Alanis_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/205277/juan-alanis
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/juan-alanis-8a450b15a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-carrillo-juan
+  openstates_id: ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b
+  full_name: Juan Carrillo
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/carrillo_001_11-30-29_resized.jpg
+  phone: ""
+  email: assemblymember.juancarrillo@assembly.ca.gov
+  address: ""
+  official_website: https://a39.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a39.asmdc.org
+  - https://a39.asmdc.org/biography
+  - https://ballotpedia.org/Juan_Carrillo
+  - https://en.wikipedia.org/wiki/Juan_Carrillo
+  - https://votejuancarrillo.com/meet-the-candidate
+  - https://www.assembly.ca.gov/assemblymembers
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-sanchez-kate
+  openstates_id: ocd-person/76378b56-7ad9-463c-a4fd-47c665b26ee8
+  full_name: Kate Sanchez
+  office_title: State Representative
+  chamber: house
+  district: "71"
+  party: Republican
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/sanchez_a25i1518_resized.png
+  phone: ""
+  email: assemblymember.sanchez@assembly.ca.gov
+  address: ""
+  official_website: https://ad71.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad71.asmrc.org
+  - https://ad71.asmrc.org/biography
+  - https://ballotpedia.org/Kate_Sanchez
+  - https://en.wikipedia.org/wiki/Kate_Sanchez
+  - https://justfacts.votesmart.org/candidate/biography/205341/kate-sanchez
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/kate-sanchez-9aa099312
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-seyarto-kelly
+  openstates_id: ocd-person/d9462f08-2b27-4969-8436-9a1c21534a40
+  full_name: Kelly Seyarto
+  office_title: State Senator
+  chamber: senate
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/seyarto_kelly_r-32c.jpg
+  phone: ""
+  email: senator.seyarto@senate.ca.gov
+  address: ""
+  official_website: https://ad67.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Kelly_Seyarto
+  - https://en.wikipedia.org/wiki/Kelly_Seyarto
+  - https://sr32.senate.ca.gov
+  - https://sr32.senate.ca.gov/about-kelly
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-sharpcollins-lashae
+  openstates_id: ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945
+  full_name: LaShae Sharp-Collins
+  office_title: State Representative
+  chamber: house
+  district: "79"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/lscollins.JPG
+  phone: ""
+  email: assemblymember.sharpcollins@assembly.ca.gov
+  address: ""
+  official_website: https://a79.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a79.asmdc.org
+  - https://ballotpedia.org/LaShae_Sharp-Collins
+  - https://en.wikipedia.org/wiki/LaShae_Sharp-Collins
+  - https://justfacts.votesmart.org/candidate/biography/213430/lashae-sharp-collins
+  - https://www.assembly.ca.gov/assemblymembers/79
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-richardson-laura
+  openstates_id: ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5
+  full_name: Laura Richardson
+  office_title: State Senator
+  chamber: senate
+  district: "35"
+  party: Democratic
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/6409.jpg
+  phone: ""
+  email: senator.richardson@senate.ca.gov
+  address: ""
+  official_website: https://sd35.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Laura_Richardson
+  - https://en.wikipedia.org/wiki/Laura_Richardson
+  - https://sd35.senate.ca.gov
+  - https://www.govtrack.us/congress/members/laura_richardson/412253
+  - https://www.linkedin.com/in/laura-richardson-40732a43
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-davies-laurie
+  openstates_id: ocd-person/1b3ac39e-7b50-4263-bd1d-add1e91d71b9
+  full_name: Laurie Davies
+  office_title: State Representative
+  chamber: house
+  district: "74"
+  party: Republican
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/arc_new_member_headshots_asm.ca_.gov_120x150px_davies.jpg
+  phone: ""
+  email: assemblymember.davies@assembly.ca.gov
+  address: ""
+  official_website: https://ad73.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad74.asmrc.org
+  - https://ad74.asmrc.org/biography
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Laurie_Davies
+  - https://en.wikipedia.org/wiki/Laurie_Davies_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/146356/laurie-davies
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/mayor-laurie-davies-0465896
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-gonzalez-lena
+  openstates_id: ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7
+  full_name: Lena Gonzalez
+  office_title: State Senator
+  chamber: senate
+  district: "33"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator-lena-gonzalez.jpg
+  phone: ""
+  email: senator.gonzalez@senate.ca.gov
+  address: ""
+  official_website: https://sd33.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lena_Gonzalez
+  - https://en.wikipedia.org/wiki/Lena_Gonzalez
+  - https://sd33.senate.ca.gov
+  - https://senate.ca.gov/senators
+  - https://www.linkedin.com/in/lena-a-gonzalez
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-castillo-leticia
+  openstates_id: ocd-person/06d4d543-2374-436f-978d-b924c7ec7d53
+  full_name: Leticia Castillo
+  office_title: State Representative
+  chamber: house
+  district: "58"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/May162022532PM_104500298_0304E3268B78420096DFCD3FA3DB99B7-min.jpeg
+  phone: ""
+  email: assemblymember.castillo@assembly.ca.gov
+  address: ""
+  official_website: https://ad58.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad58.asmrc.org
+  - https://ballotpedia.org/Leticia_Castillo
+  - https://www.assembly.ca.gov/assemblymembers/58
+  - https://www.linkedin.com/in/leticiacastillo
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-calderon-lisa
+  openstates_id: ocd-person/ed58ae30-ffe5-4395-9353-141e4018cbe3
+  full_name: Lisa Calderon
+  office_title: State Representative
+  chamber: house
+  district: "56"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/calderon-057.jpg
+  phone: ""
+  email: assemblymember.calderon@assembly.ca.gov
+  address: ""
+  official_website: https://a56.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a56.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Lisa_Calderon_(California)
+  - https://en.wikipedia.org/wiki/Lisa_Calderon
+  - https://justfacts.votesmart.org/candidate/biography/188854/lisa-calderon
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/lisacalderon
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-ortega-liz
+  openstates_id: ocd-person/54e48d10-22e1-43da-b114-c1d3f741faff
+  full_name: Liz Ortega
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ortega_004_11-30-22_resized.jpg
+  phone: ""
+  email: assemblymember.ortega@assembly.ca.gov
+  address: ""
+  official_website: https://a20.asmdc.org
+  twitter: ""
+  source_urls:
+  - https://a20.asmdc.org
+  - https://a20.asmdc.org/biography
+  - https://ballotpedia.org/Liz_Ortega
+  - https://en.wikipedia.org/wiki/Liz_Ortega
+  - https://justfacts.votesmart.org/candidate/biography/205270/liz-ortega
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/liz-ortega-145989140
+  - https://www.ortegaforassembly.com/about
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-smallwoodcuevas-lola
+  openstates_id: ocd-person/37f2dc9f-d788-4f71-b794-093c8816333b
+  full_name: Lola Smallwood-Cuevas
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/smallwood-cuevas_lola_d-28.jpg
+  phone: ""
+  email: senator.smallwood-cuevas@senate.ca.gov
+  address: ""
+  official_website: https://sd28.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lola_Smallwood-Cuevas
+  - https://en.wikipedia.org/wiki/Lola_Smallwood-Cuevas
+  - https://justfacts.votesmart.org/candidate/biography/205233/lola-smallwood-cuevas
+  - https://sd28.senate.ca.gov
+  - https://sd28.senate.ca.gov/biography
+  - https://www.linkedin.com/in/lola-smallwood-cuevas-4406886b
+  - https://www.linkedin.com/in/lola-smallwood-cuevas-4b3a5824
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-wilson-lori
+  openstates_id: ocd-person/926d1337-0318-4c12-a291-178f10199b23
+  full_name: Lori Wilson
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad11-wilson_006_portraits_resized.jpg
+  phone: ""
+  email: assemblymember.wilson@assembly.ca.gov
+  address: ""
+  official_website: https://a11.asmdc.org
+  twitter: ""
+  source_urls:
+  - https://a11.asmdc.org
+  - https://ballotpedia.org/Lori_Wilson
+  - https://en.wikipedia.org/wiki/Lori_Wilson_(California_politician)
+  - https://justfacts.votesmart.org/candidate/202065/lori-wilson
+  - https://loridwilson.com
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/loridwilson
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-krell-maggy
+  openstates_id: ocd-person/e8ac7b26-03a5-4818-b05d-0f379029bbdb
+  full_name: Maggy Krell
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Democratic
+  status: active
+  photo_url: https://lettersandscience.ucdavis.edu/sites/g/files/dgvnsk15706/files/styles/sf_profile/public/images/person/Maggy%20Krell.jpeg?h=a7e6d17b&itok=kwhSUK6x
+  phone: ""
+  email: assemblymember.krell@assembly.ca.gov
+  address: ""
+  official_website: https://a06.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a06.asmdc.org
+  - https://ballotpedia.org/Maggy_Krell
+  - https://en.wikipedia.org/wiki/Maggy_Krell
+  - https://justfacts.votesmart.org/candidate/213154/maggy-krell
+  - https://www.assembly.ca.gov/assemblymembers/06
+  - https://www.linkedin.com/in/maggy-krell-7aa62066
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-berman-marc
+  openstates_id: ocd-person/24facf9e-7fb1-4475-9120-05cd0145c7c1
+  full_name: Marc Berman
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad24_berman_roster150_20161205.jpg
+  phone: ""
+  email: assemblymember.berman@assembly.ca.gov
+  address: ""
+  official_website: https://a23.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a23.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Marc_Berman
+  - https://en.wikipedia.org/wiki/Marc_Berman
+  - https://justfacts.votesmart.org/candidate/biography/146412/marc-berman
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/marcberman7
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-durazo-mara
+  openstates_id: ocd-person/b3f55460-f87b-4db4-b6a5-35a735f34076
+  full_name: María Elena Durazo
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_durazo.jpg
+  phone: ""
+  email: senator.durazo@senate.ca.gov
+  address: ""
+  official_website: https://sd26.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Maria_Elena_Durazo
+  - https://en.wikipedia.org/wiki/Maria_Elena_Durazo
+  - https://justfacts.votesmart.org/candidate/biography/179971/maria-durazo
+  - https://sd26.senate.ca.gov
+  - https://senate.ca.gov/senators
+  - https://www.linkedin.com/in/maria-elena-durazo-63724689
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-alvaradogil-marie
+  openstates_id: ocd-person/b6907bd6-05e1-44a4-bfc6-db4b672ff8b4
+  full_name: Marie Alvarado-Gil
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/alvarado-gill_marie_d-04.jpg
+  phone: ""
+  email: senator.alvarado-gil@senate.ca.gov
+  address: ""
+  official_website: https://sd04.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marie_Alvarado-Gil
+  - https://en.wikipedia.org/wiki/Marie_Alvarado-Gil
+  - https://justfacts.votesmart.org/candidate/biography/205209/marie-alvarado-gil
+  - https://sd04.senate.ca.gov
+  - https://sd04.senate.ca.gov/biography
+  - https://sr04.senate.ca.gov
+  - https://www.linkedin.com/in/alvaradogilforsenate2022
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-gonzlez-mark
+  openstates_id: ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb
+  full_name: Mark González
+  office_title: State Representative
+  chamber: house
+  district: "54"
+  party: Democratic
+  status: active
+  photo_url: https://www.sgvtribune.com/wp-content/uploads/2024/10/LDN-L-ELX-VG-ASSMD54-GONZALEZ.jpg?w=520
+  phone: ""
+  email: assemblymember.gonzalez@assembly.ca.gov
+  address: ""
+  official_website: https://a54.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a54.asmdc.org
+  - https://ballotpedia.org/Mark_Gonzalez_(California)
+  - https://en.wikipedia.org/wiki/Mark_Gonzalez_(politician)
+  - https://www.assembly.ca.gov/assemblymembers/54
+  - https://www.markgonzalezforassembly.com/about
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-haney-matt
+  openstates_id: ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9
+  full_name: Matt Haney
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad17_haney.jpg
+  phone: ""
+  email: assemblymember.haney@assembly.ca.gov
+  address: ""
+  official_website: https://a17.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a17.asmdc.org
+  - https://ballotpedia.org/Matt_Haney
+  - https://en.wikipedia.org/wiki/Matt_Haney
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/matthaneysf
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-dahle-megan
+  openstates_id: ocd-person/1509d608-4d2b-4ebc-be73-b4cd6c06b7c6
+  full_name: Megan Dahle
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/mdahle-ad01.gif
+  phone: ""
+  email: senator.dahle@senate.ca.gov
+  address: ""
+  official_website: https://ad01.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad01.asmrc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Megan_Dahle
+  - https://en.wikipedia.org/wiki/Megan_Dahle
+  - https://justfacts.votesmart.org/candidate/186798/megan-dahle
+  - https://sr01.senate.ca.gov
+  - https://www.assembly.ca.gov/assemblymembers
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-hurtado-melissa
+  openstates_id: ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41
+  full_name: Melissa Hurtado
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_hurtado_0.jpg
+  phone: ""
+  email: senator.hurtado@senate.ca.gov
+  address: ""
+  official_website: https://sd16.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Melissa_Hurtado
+  - https://en.wikipedia.org/wiki/Melissa_Hurtado
+  - https://justfacts.votesmart.org/candidate/biography/179956/melissa-hurtado
+  - https://sd16.senate.ca.gov
+  - https://senate.ca.gov/senators
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-bonta-mia
+  openstates_id: ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1
+  full_name: Mia Bonta
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-18_bonta_m._portraits_edit_155_11-5-21_resized.jpg
+  phone: ""
+  email: assemblymember.mbonta@assembly.ca.gov
+  address: ""
+  official_website: https://a18.asmdc.org
+  twitter: ""
+  source_urls:
+  - https://a18.asmdc.org
+  - https://ballotpedia.org/Mia_Bonta
+  - https://en.wikipedia.org/wiki/Mia_Bonta
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/mialisabonta
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-rodriguez-michelle
+  openstates_id: ocd-person/c8e36b71-c739-4afb-b8e9-cbdd4d362693
+  full_name: Michelle Rodriguez
+  office_title: State Representative
+  chamber: house
+  district: "53"
+  party: Democratic
+  status: active
+  photo_url: https://michelleforassembly.com/cms/wp-content/uploads/2023/08/new-safe-meeno-MICHELLE_RODRIGUEZ-2023.07_011.jpg
+  phone: ""
+  email: assemblymember.michellerodriguez@assembly.ca.gov
+  address: ""
+  official_website: https://a53.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a53.asmdc.org
+  - https://ballotpedia.org/Michelle_Rodriguez_(California)
+  - https://justfacts.votesmart.org/candidate/213398/michelle-rodriguez
+  - https://www.assembly.ca.gov/assemblymembers/53
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-gipson-mike
+  openstates_id: ocd-person/404dbee4-6b74-4249-ab26-9644cab7c7d5
+  full_name: Mike Gipson
+  office_title: State Representative
+  chamber: house
+  district: "65"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD64_Gipson_Portrait150_20141201.jpg
+  phone: ""
+  email: assemblymember.gipson@assembly.ca.gov
+  address: ""
+  official_website: https://a64.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a65.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Mike_Gipson
+  - https://en.wikipedia.org/wiki/Mike_Gipson
+  - https://justfacts.votesmart.org/candidate/biography/70443/mike-gipson
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/mike-gipson-b3304120
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-fong-mike
+  openstates_id: ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6
+  full_name: Mike Fong
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-49_fong_m._037_2022_resized.jpg
+  phone: ""
+  email: assemblymember.mikefong@asm.ca.gov
+  address: ""
+  official_website: https://a49.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a49.asmdc.org
+  - https://ballotpedia.org/Mike_Fong
+  - https://en.wikipedia.org/wiki/Mike_Fong
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/mike-fong-89083967
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-mcguire-mike
+  openstates_id: ocd-person/a1394aeb-094a-4fc0-b4d5-005104ceddc0
+  full_name: Mike McGuire
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mcguire-mike.jpg
+  phone: ""
+  email: senator.mcguire@senate.ca.gov
+  address: ""
+  official_website: https://sd02.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_McGuire
+  - https://en.wikipedia.org/wiki/Mike_McGuire_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/129749/mike-mcguire
+  - https://sd02.senate.ca.gov
+  - https://senate.ca.gov/senators
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-limn-monique
+  openstates_id: ocd-person/e924a3ec-c7c0-4094-8504-7611bcf8979f
+  full_name: Monique Limón
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/limon_monique_d-19_2.jpg
+  phone: ""
+  email: senator.limon@senate.ca.gov
+  address: ""
+  official_website: https://sd19.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Monique_Lim%C3%B3n
+  - https://ballotpedia.org/S._Monique_Lim%C3%B3n
+  - https://en.wikipedia.org/wiki/Monique_Lim%C3%B3n
+  - https://justfacts.votesmart.org/candidate/biography/169364/monique-limon
+  - https://sd19.senate.ca.gov
+  - https://sd21.senate.ca.gov
+  - https://senate.ca.gov/senators
+  - https://www.linkedin.com/in/monique-lim%C3%B3n-073b9011
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-johnson-natasha
+  openstates_id: ocd-person/0c47a1ba-99a2-44a9-8c65-fcad12aeee97
+  full_name: Natasha Johnson
+  office_title: State Representative
+  chamber: house
+  district: "63"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: assemblymember.johnson@assembly.ca.gov
+  address: ""
+  official_website: https://ad63.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad63.asmrc.org
+  - https://ballotpedia.org/Natasha_Johnson
+  - https://en.wikipedia.org/wiki/Natasha_Johnson
+  - https://justfacts.votesmart.org/candidate/biography/146358/natasha-johnson
+  - https://www.assembly.ca.gov/assemblymembers/63
+  - https://www.linkedin.com/in/natasha-johnson-91555919
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-schultz-nick
+  openstates_id: ocd-person/06ae0707-255b-4af9-8e3e-c940e8f29600
+  full_name: Nick Schultz
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Democratic
+  status: active
+  photo_url: https://www.burbankca.gov/documents/1626247/0/20210330-nick-schultz-001.jpg
+  phone: ""
+  email: assemblymember.schultz@assembly.ca.gov
+  address: ""
+  official_website: https://a44.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a44.asmdc.org
+  - https://ballotpedia.org/Nick_Schultz
+  - https://en.wikipedia.org/wiki/Nick_Schultz_(politician)
+  - https://www.assembly.ca.gov/assemblymembers/44
+  - https://www.burbankca.gov/nick-schultz
+  - https://www.linkedin.com/in/nick-schultz-a11b1996
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-ahrens-patrick
+  openstates_id: ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919
+  full_name: Patrick Ahrens
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: http://www.fhda.edu/_images/PatrickAhrens2018.jpg
+  phone: ""
+  email: assemblymember.ahrens@assembly.ca.gov
+  address: ""
+  official_website: https://a26.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a26.asmdc.org
+  - https://ballotpedia.org/Patrick_Ahrens
+  - https://en.wikipedia.org/wiki/Patrick_Ahrens
+  - https://www.assembly.ca.gov/assemblymembers/26
+  - https://www.linkedin.com/in/patrick-ahrens-497a6963
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-chen-phillip
+  openstates_id: ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491
+  full_name: Phillip Chen
+  office_title: State Representative
+  chamber: house
+  district: "59"
+  party: Republican
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/chen.jpg
+  phone: ""
+  email: assemblymember.chen@assembly.ca.gov
+  address: ""
+  official_website: https://ad55.asmrc.org
+  twitter: ""
+  source_urls:
+  - https://ad59.asmrc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Phillip_Chen_(California)
+  - https://en.wikipedia.org/wiki/Phillip_Chen
+  - https://justfacts.votesmart.org/candidate/biography/151715/phillip-chen
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/phillip-chen-11b0548
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-schiavo-pilar
+  openstates_id: ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9
+  full_name: Pilar Schiavo
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/schiavo_030_11-29-22_resized.jpg
+  phone: ""
+  email: assemblymember.schiavo@assembly.ca.gov
+  address: ""
+  official_website: https://a40.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a40.asmdc.org
+  - https://ballotpedia.org/Pilar_Schiavo
+  - https://en.wikipedia.org/wiki/Pilar_Schiavo
+  - https://justfacts.votesmart.org/candidate/biography/205304/pilar-schiavo
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/pilar-schiavo-840949
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-bauerkahan-rebecca
+  openstates_id: ocd-person/2918acca-40a2-4819-a79a-b2873c7895bc
+  full_name: Rebecca Bauer-Kahan
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a16_r_b_kahan.jpg
+  phone: ""
+  email: assemblymember.bauer-kahan@assembly.ca.gov
+  address: ""
+  official_website: https://a16.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a16.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Rebecca_Bauer-Kahan
+  - https://en.wikipedia.org/wiki/Rebecca_Bauer-Kahan
+  - https://justfacts.votesmart.org/candidate/biography/180050/rebecca-bauer-kahan
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/rebecca-bauer-kahan-27bb7240
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-ransom-rhodesia
+  openstates_id: ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff
+  full_name: Rhodesia Ransom
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Democratic
+  status: active
+  photo_url: https://ca.emergeamerica.org/wp-content/uploads/sites/4/2023/01/Rhodesia-Ransom.jpg
+  phone: ""
+  email: assemblymember.ransom@assembly.ca.gov
+  address: ""
+  official_website: https://a13.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a13.asmdc.org
+  - https://ballotpedia.org/Rhodesia_Ransom
+  - https://en.wikipedia.org/wiki/Rhodesia_Ransom
+  - https://www.assembly.ca.gov/assemblymembers/13
+  - https://www.linkedin.com/in/rhodesia-ransom
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-zbur-rick
+  openstates_id: ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7
+  full_name: Rick Zbur
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/chavez-zbur_510_11-30-22_resized.jpg
+  phone: ""
+  email: assemblymember.zbur@assembly.ca.gov
+  address: ""
+  official_website: https://a51.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a51.asmdc.org
+  - https://a51.asmdc.org/biography
+  - https://ballotpedia.org/Rick_Chavez_Zbur
+  - https://en.wikipedia.org/wiki/Rick_Zbur
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/rick-zbur-238489a1
+  - https://www.rickchavezzbur.com/meet-rick
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-garcia-robert
+  openstates_id: ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d
+  full_name: Robert Garcia
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Democratic
+  status: active
+  photo_url: https://www.joincalifornia.com/candidate_pic.php?id=15124
+  phone: ""
+  email: assemblymember.garcia@assembly.ca.gov
+  address: ""
+  official_website: https://a50.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a50.asmdc.org
+  - https://ballotpedia.org/Robert_Garcia_(Etiwanda_School_District)
+  - https://justfacts.votesmart.org/candidate/213364/robert-garcia
+  - https://www.assembly.ca.gov/assemblymembers/50
+  - https://www.longbeach.gov/mayor/contact
+  - https://www.longbeach.gov/mayor/contact/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-rivas-robert
+  openstates_id: ocd-person/68f5ee30-aa70-489b-84b7-6501e6188751
+  full_name: Robert Rivas
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-29_rivas_r19_resized.jpg
+  phone: ""
+  email: assemblymember.robertrivas@assembly.ca.gov
+  address: ""
+  official_website: https://a29.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Robert_Rivas
+  - https://en.wikipedia.org/wiki/Robert_Rivas_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/129744/robert-rivas
+  - https://speaker.asmdc.org
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/robert-rivas-8924b141
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-niello-roger
+  openstates_id: ocd-person/ee85bc79-20ee-4046-905e-ad797995fa41
+  full_name: Roger Niello
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/niello_roger_r-06.jpg
+  phone: ""
+  email: senator.niello@senate.ca.gov
+  address: ""
+  official_website: https://senate.ca.gov/sd06
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Roger_Niello
+  - https://en.wikipedia.org/wiki/Roger_Niello
+  - https://justfacts.votesmart.org/candidate/biography/28727/roger-niello
+  - https://sr06.senate.ca.gov
+  - https://www.linkedin.com/in/roger-niello-b50185174
+  - https://www.linkedin.com/in/rogerniello
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-bogh-rosilicie
+  openstates_id: ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3
+  full_name: Rosilicie Ochoa Bogh
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd23_ochoa_bogh.jpg
+  phone: ""
+  email: senator.ochoabogh@senate.ca.gov
+  address: ""
+  official_website: https://senate.ca.gov/sd23
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rosilicie_Ochoa_Bogh
+  - https://en.wikipedia.org/wiki/Rosilicie_Ochoa_Bogh
+  - https://senate.ca.gov/senators
+  - https://sr19.senate.ca.gov
+  - https://sr23.senate.ca.gov
+  - https://www.linkedin.com/in/rosilicie-bogh-39256344
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-cervantes-sabrina
+  openstates_id: ocd-person/61cc77e3-551f-40e6-bb6f-16edd89b04db
+  full_name: Sabrina Cervantes
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad60_cervantes_roster150_20161205.jpg
+  phone: ""
+  email: senator.cervantes@senate.ca.gov
+  address: ""
+  official_website: https://a58.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a58.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Sabrina_Cervantes
+  - https://en.wikipedia.org/wiki/Sabrina_Cervantes
+  - https://justfacts.votesmart.org/candidate/biography/169409/sabrina-cervantes
+  - https://sabrinacervantes.com/meet-sabrina-cervantes
+  - https://sd31.senate.ca.gov
+  - https://sd31.senate.ca.gov/biography
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/sabrina-cervantes-79a84915
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-elhawary-sade
+  openstates_id: ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea
+  full_name: Sade Elhawary
+  office_title: State Representative
+  chamber: house
+  district: "57"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/SadeElhawary2024.jpeg
+  phone: ""
+  email: assemblymember.elhawary@assembly.ca.gov
+  address: ""
+  official_website: https://a57.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a57.asmdc.org
+  - https://a57.asmdc.org/biography
+  - https://ballotpedia.org/Sade_Elhawary
+  - https://en.wikipedia.org/wiki/Sade_Elhawary
+  - https://www.assembly.ca.gov/assemblymembers/57
+  - https://www.linkedin.com/in/sadeelhawary
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-prez-sasha
+  openstates_id: ocd-person/aa59bbc8-0f05-4974-a88a-2e805deb26b4
+  full_name: Sasha Pérez
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: https://www.cityofalhambra.org/ImageRepository/Document?documentId=1262
+  phone: ""
+  email: senator.perez@senate.ca.gov
+  address: ""
+  official_website: https://sd25.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sasha_Ren%C3%A9e_P%C3%A9rez
+  - https://en.wikipedia.org/wiki/Sasha_Ren%C3%A9e_P%C3%A9rez
+  - https://sd25.senate.ca.gov
+  - https://www.cityofalhambra.org/333/Sasha-Rene-Prez
+  - https://www.linkedin.com/in/sasha-renee-perez-424a96a9
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-wiener-scott
+  openstates_id: ocd-person/de84277e-1c23-4036-bd64-b27c310a1c0e
+  full_name: Scott Wiener
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wiener.jpg
+  phone: ""
+  email: senator.wiener@senate.ca.gov
+  address: ""
+  official_website: https://sd11.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_Wiener
+  - https://en.wikipedia.org/wiki/Scott_Wiener
+  - https://justfacts.votesmart.org/candidate/biography/129655/scott-wiener
+  - https://sd11.senate.ca.gov
+  - https://senate.ca.gov/senators
+  - https://www.linkedin.com/in/scott-wiener-936760
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-grove-shannon
+  openstates_id: ocd-person/b4b8e8fb-831b-4cae-9081-b8f75477fcd0
+  full_name: Shannon Grove
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/grove_hs_0625_lls.jpg
+  phone: ""
+  email: senator.grove@senate.ca.gov
+  address: ""
+  official_website: https://senate.ca.gov/sd12
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Shannon_Grove
+  - https://en.wikipedia.org/wiki/Shannon_Grove
+  - https://justfacts.votesmart.org/candidate/biography/120204/shannon-grove
+  - https://senate.ca.gov/senators
+  - https://sr12.senate.ca.gov
+  - https://www.linkedin.com/in/shannon-grove-b17b4116
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-quirksilva-sharon
+  openstates_id: ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db
+  full_name: Sharon Quirk-Silva
+  office_title: State Representative
+  chamber: house
+  district: "67"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad65_quirk-silva_siteportrait.jpg
+  phone: ""
+  email: assemblymember.quirk-silva@assembly.ca.gov
+  address: ""
+  official_website: https://a65.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a67.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Sharon_Quirk-Silva
+  - https://en.wikipedia.org/wiki/Sharon_Quirk-Silva
+  - https://justfacts.votesmart.org/candidate/biography/71051/sharon-quirk-silva
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/sharon-quirk-silva-7a240582
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-ellis-stan
+  openstates_id: ocd-person/01fddc24-a5ac-40b7-a9e1-80e918fee609
+  full_name: Stan Ellis
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: assemblymember.ellis@assembly.ca.gov
+  address: ""
+  official_website: https://ad32.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad32.asmrc.org
+  - https://ballotpedia.org/Stan_Ellis
+  - https://en.wikipedia.org/wiki/Stan_Ellis
+  - https://www.assembly.ca.gov/assemblymembers/32
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-nguyen-stephanie
+  openstates_id: ocd-person/62102f53-b531-4290-9699-05a0d7687cae
+  full_name: Stephanie Nguyen
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/nguyen_515_11-30-22_resized.jpg
+  phone: ""
+  email: assemblymember.stephanienguyen@assembly.ca.gov
+  address: ""
+  official_website: https://a10.asmdc.org
+  twitter: ""
+  source_urls:
+  - https://a10.asmdc.org
+  - https://a10.asmdc.org/biography
+  - https://ballotpedia.org/Stephanie_Nguyen
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/stephanie-nguyen-97a45230
+  - https://www.stephanienguyenforassembly.com/meet-stephanie
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-bennett-steve
+  openstates_id: ocd-person/1e0ccfc0-2d57-4e57-8d16-589d07c1bc72
+  full_name: Steve Bennett
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/official_portrait_0.jpg
+  phone: ""
+  email: assemblymember.bennett@assembly.ca.gov
+  address: ""
+  official_website: https://a37.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a38.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Steve_Bennett
+  - https://en.wikipedia.org/wiki/Steve_Bennett_(California_politician)
+  - https://justfacts.votesmart.org/candidate/biography/81822/steve-bennett
+  - https://www.assembly.ca.gov/assemblymembers
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-padilla-steve
+  openstates_id: ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d
+  full_name: Steve Padilla
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/padilla_steve_d-18.jpg
+  phone: ""
+  email: senator.padilla@senate.ca.gov
+  address: ""
+  official_website: https://sd18.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Padilla
+  - https://en.wikipedia.org/wiki/Steve_Padilla
+  - https://justfacts.votesmart.org/candidate/biography/176708/stephen-padilla
+  - https://sd18.senate.ca.gov
+  - https://sd18.senate.ca.gov/biography
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-choi-steve
+  openstates_id: ocd-person/8b61aa87-d573-47e2-b17b-bd0edd3c8cf2
+  full_name: Steve Choi
+  office_title: State Senator
+  chamber: senate
+  district: "37"
+  party: Republican
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/choi.jpg
+  phone: ""
+  email: senator.choi@senate.ca.gov
+  address: ""
+  official_website: https://ad68.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Steven_S._Choi
+  - https://en.wikipedia.org/wiki/Steven_Choi
+  - https://justfacts.votesmart.org/candidate/biography/70192/steven-choi
+  - https://sr37.senate.ca.gov
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/dr-steven-choi-04679b10
+  - https://www.linkedin.com/in/steven-choi-a871aa70
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-rubio-susan
+  openstates_id: ocd-person/cb0f6477-568f-49db-aba3-f88e7bccbefc
+  full_name: Susan Rubio
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_rubio.jpg
+  phone: ""
+  email: senator.rubio@senate.ca.gov
+  address: ""
+  official_website: https://sd22.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Susan_Rubio
+  - https://en.wikipedia.org/wiki/Susan_Rubio
+  - https://justfacts.votesmart.org/candidate/biography/129493/susan-rubio
+  - https://sd22.senate.ca.gov
+  - https://senate.ca.gov/senators
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-valladares-suzette
+  openstates_id: ocd-person/fb1c2c06-108c-41bf-9f08-44a9f8e0cb08
+  full_name: Suzette Valladares
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/arc_new_member_headshots_asm.ca_.gov_120x150px_valladares.jpg
+  phone: ""
+  email: senator.valladares@senate.ca.gov
+  address: ""
+  official_website: https://a38.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Suzette_Martinez_Valladares
+  - https://en.wikipedia.org/wiki/Suzette_Martinez_Valladares
+  - https://justfacts.votesmart.org/candidate/biography/188814/suzette-valladares
+  - https://sr23.senate.ca.gov
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/suzette-martinez-valladares-53794a28
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-boerner-tasha
+  openstates_id: ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a
+  full_name: Tasha Boerner
+  office_title: State Representative
+  chamber: house
+  district: "77"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a76_t_b_horvath.jpg
+  phone: ""
+  email: assemblymember.BoernerHorvath@assembly.ca.gov
+  address: ""
+  official_website: https://a77.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a77.asmdc.org
+  - https://a77.asmdc.org/biography
+  - https://ballotpedia.org/Tasha_Boerner_Horvath
+  - https://en.wikipedia.org/wiki/Tasha_Boerner_Horvath
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/boerner
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-umberg-tom
+  openstates_id: ocd-person/cecabb81-51ab-46f5-9815-cc3486da0632
+  full_name: Tom Umberg
+  office_title: State Senator
+  chamber: senate
+  district: "34"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_umberg.jpg
+  phone: ""
+  email: senator.umberg@senate.ca.gov
+  address: ""
+  official_website: https://sd34.senate.ca.gov/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tom_Umberg
+  - https://en.wikipedia.org/wiki/Tom_Umberg
+  - https://justfacts.votesmart.org/candidate/biography/29299/thomas-umberg
+  - https://sd34.senate.ca.gov
+  - https://senate.ca.gov/senators
+  - https://www.linkedin.com/in/thomas-u-9152078a
+  - https://www.senate.ca.gov/senators
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-grayson-tim
+  openstates_id: ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0
+  full_name: Tim Grayson
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad14_header.jpg
+  phone: ""
+  email: senator.grayson@senate.ca.gov
+  address: ""
+  official_website: https://a14.asmdc.org
+  twitter: ""
+  source_urls:
+  - https://a15.asmdc.org
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Tim_Grayson
+  - https://en.wikipedia.org/wiki/Tim_Grayson
+  - https://justfacts.votesmart.org/candidate/biography/129519/tim-grayson
+  - https://sd09.senate.ca.gov
+  - https://www.assembly.ca.gov/assemblymembers
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-mckinnor-tina
+  openstates_id: ocd-person/1aa5dff4-3d71-4642-a5e6-e3d00a5b99f9
+  full_name: Tina McKinnor
+  office_title: State Representative
+  chamber: house
+  district: "61"
+  party: Democratic
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/mckinnon_portrait_web.jpg
+  phone: ""
+  email: assemblymember.mckinnor@assembly.ca.gov
+  address: ""
+  official_website: https://a61.asmdc.org/
+  twitter: ""
+  source_urls:
+  - https://a61.asmdc.org
+  - https://a61.asmdc.org/biography
+  - https://ballotpedia.org/Tina_McKinnor
+  - https://en.wikipedia.org/wiki/Tina_McKinnor
+  - https://justfacts.votesmart.org/candidate/biography/205324/tina-mckinnor
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/tina-mckinnor-67abb621
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-lackey-tom
+  openstates_id: ocd-person/a8879d70-713c-4d0c-b723-77d0e96c18df
+  full_name: Tom Lackey
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Republican
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/lackey.png
+  phone: ""
+  email: assemblymember.lackey@assembly.ca.gov
+  address: ""
+  official_website: https://ad34.asmrc.org/
+  twitter: ""
+  source_urls:
+  - https://ad34.asmrc.org
+  - https://ad34.asmrc.org/biography
+  - https://assembly.ca.gov/assemblymembers
+  - https://ballotpedia.org/Tom_Lackey
+  - https://en.wikipedia.org/wiki/Tom_Lackey
+  - https://justfacts.votesmart.org/candidate/biography/71099/tom-lackey
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.linkedin.com/in/tom-lackey-85a9a365
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-sen-strickland-tony
+  openstates_id: ocd-person/3dae8bef-7fb2-40a0-afee-78d79212521b
+  full_name: Tony Strickland
+  office_title: State Senator
+  chamber: senate
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: http://votesmart.org/canphoto/16765.jpg
+  phone: ""
+  email: senator.strickland@senate.ca.gov
+  address: ""
+  official_website: https://cssrc.us/web/19/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tony_Strickland
+  - https://en.wikipedia.org/wiki/Tony_Strickland
+  - https://justfacts.votesmart.org/candidate/biography/16765/tony-strickland
+  - https://senate.ca.gov/senators
+  - https://sr36.senate.ca.gov
+  - https://www.linkedin.com/in/tony-strickland-8720616
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: ca-hou-ta-tri
+  openstates_id: ocd-person/75229920-399d-4216-9b76-c27ea398665a
+  full_name: Tri Ta
+  office_title: State Representative
+  chamber: house
+  district: "70"
+  party: Republican
+  status: active
+  photo_url: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/tri_ta_a25i1353_resized.png
+  phone: ""
+  email: assemblymember.ta@assembly.ca.gov
+  address: ""
+  official_website: https://ad70.asmrc.org
+  twitter: ""
+  source_urls:
+  - https://ad70.asmrc.org
+  - https://ad70.asmrc.org/biography
+  - https://ballotpedia.org/Tri_Ta
+  - https://en.wikipedia.org/wiki/Tri_Ta
+  - https://www.assembly.ca.gov/assemblymembers
+  - https://www.ci.westminster.ca.us
+  - https://www.ci.westminster.ca.us/
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

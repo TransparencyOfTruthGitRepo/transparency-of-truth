@@ -1,4 +1,2408 @@
 ﻿state: wyoming
 state_abbrev: WY
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: wy-hou-angelos-abby
+  openstates_id: ocd-person/9995703e-90eb-4d20-a2f6-bfd9542102bd
+  full_name: Abby Angelos
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-AngelosAbby.jpg
+  phone: ""
+  email: abby.angelos@wyoleg.gov
+  address: ""
+  official_website: https://en.wikipedia.org/wiki/Abby_Angelos
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Abby_Angelos
+  - https://en.wikipedia.org/wiki/Abby_Angelos
+  - https://justfacts.votesmart.org/candidate/biography/207662/abby-angelos
+  - https://www.wyoleg.gov/Legislators/2023/H/2091
+  - https://www.wyoleg.gov/Legislators/2025/H/2091
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2091
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-byron-andrew
+  openstates_id: ocd-person/3198aa67-829e-4827-8b26-8955cbf36f4a
+  full_name: Andrew Byron
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-ByronAndrew.jpg
+  phone: ""
+  email: andrew.byron@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2099
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Andrew_Byron
+  - https://en.wikipedia.org/wiki/Andrew_Byron
+  - https://justfacts.votesmart.org/candidate/biography/207687/andrew-byron
+  - https://www.wyoleg.gov/Legislators/2023/H/2099
+  - https://www.wyoleg.gov/Legislators/2025/H/2099
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2099
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-lucas-ann
+  openstates_id: ocd-person/4665c34f-70f5-4bc0-af49-0239e0e907a1
+  full_name: Ann Lucas
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-LucasAnn.jpg
+  phone: ""
+  email: ann.lucas@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2025/H/2128
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ann_Lucas
+  - https://justfacts.votesmart.org/candidate/biography/218341/ann-lucas
+  - https://www.linkedin.com/in/ann-lucas-aab8869
+  - https://www.wyoleg.gov/Legislators/2025/H/2128
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-washut-art
+  openstates_id: ocd-person/394ba273-63d7-409d-90cd-5d183e750ea4
+  full_name: Art Washut
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-WashutArt.jpg
+  phone: ""
+  email: art.washut@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2058
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Art_Washut
+  - https://en.wikipedia.org/wiki/Art_Washut
+  - https://justfacts.votesmart.org/candidate/biography/184074/art-washut
+  - https://www.caspercollege.edu/directory/arthur-washut
+  - https://www.linkedin.com/in/arthur-washut-9a03b3149
+  - https://www.wyoleg.gov/Legislators/2023/H/2058
+  - https://www.wyoleg.gov/Legislators/2025/H/2058
+  - https://wyoleg.gov/Legislators/2019/R/2058
+  - https://wyoleg.gov/Legislators/2021/R/2058
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2058
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-crago-barry
+  openstates_id: ocd-person/c6578593-1ca0-4b7d-8635-67249df87c36
+  full_name: Barry Crago
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-CragoBarry.jpg
+  phone: ""
+  email: barry.crago@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2078
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Barry_Crago
+  - https://en.wikipedia.org/wiki/Barry_Crago
+  - https://justfacts.votesmart.org/candidate/194585/barry-crago
+  - https://www.wyoleg.gov/Legislators/2023/H/2078
+  - https://www.wyoleg.gov/Legislators/2025/S/2078
+  - https://wyoleg.gov/Legislators/2021/R/2078
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2078
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-allemand-bill
+  openstates_id: ocd-person/2f0d84dc-df29-4c3d-83ea-aa56beca9839
+  full_name: Bill Allemand
+  office_title: State Representative
+  chamber: house
+  district: "58"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-AllemandBill.jpg
+  phone: ""
+  email: bill.allemand@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2114
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Allemand
+  - https://en.wikipedia.org/wiki/Bill_Allemand
+  - https://justfacts.votesmart.org/candidate/biography/207721/bill-allemand
+  - https://www.wyoleg.gov/Legislators/2023/H/2114
+  - https://www.wyoleg.gov/Legislators/2024/H/2114
+  - https://www.wyoleg.gov/Legislators/2025/H/2114
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2114
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-landen-bill
+  openstates_id: ocd-person/e0c25487-a7fb-406b-b637-c3a4de3c6770
+  full_name: Bill Landen
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-LandenBill.jpg
+  phone: ""
+  email: bill.landen@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/434
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Landen
+  - https://en.wikipedia.org/wiki/Bill_Landen
+  - https://justfacts.votesmart.org/candidate/93366/bill-landen
+  - https://www.linkedin.com/in/william-r-landen-80838021
+  - https://www.wyoleg.gov/Legislators/2023/S/434
+  - https://www.wyoleg.gov/Legislators/2026/S/434
+  - https://wyoleg.gov/Legislators/2019/R/434
+  - https://wyoleg.gov/Legislators/2021/R/434
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/434
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-biteman-bo
+  openstates_id: ocd-person/016465da-4d49-4ffc-8bb0-cf9528bc6d0e
+  full_name: Bo Biteman
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-BitemanBo.jpg
+  phone: ""
+  email: bo.biteman@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2018/H/2044
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bo_Biteman
+  - https://en.wikipedia.org/wiki/Bo_Biteman
+  - https://justfacts.votesmart.org/candidate/biography/171297/bo-biteman
+  - https://www.linkedin.com/in/bobiteman
+  - https://www.wyoleg.gov/Legislators/2018/H/2044
+  - https://www.wyoleg.gov/Legislators/2023/S/2044
+  - https://www.wyoleg.gov/Legislators/2025/S/2044
+  - https://wyoleg.gov/Legislators/2019/R/2044
+  - https://wyoleg.gov/Legislators/2021/R/2044
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/2044
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-davis-bob
+  openstates_id: ocd-person/8ddb8078-482c-4df5-983d-ece9e5825cc2
+  full_name: Bob Davis
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-DavisBob.jpg
+  phone: ""
+  email: bob.davis@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2110
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Davis_(Wyoming)
+  - https://en.wikipedia.org/wiki/Bob_Davis_(Wyoming_politician)
+  - https://justfacts.votesmart.org/candidate/biography/207713/robert-davis
+  - https://www.wyoleg.gov/Legislators/2023/H/2110
+  - https://www.wyoleg.gov/Legislators/2025/H/2110
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2110
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-ide-bob
+  openstates_id: ocd-person/6d1c2665-46ea-444d-b88b-b22e2623e660
+  full_name: Bob Ide
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/67th-IdeBob.jpg
+  phone: ""
+  email: bob.ide@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2089
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Ide_(Wyoming)
+  - https://en.wikipedia.org/wiki/Bob_Ide
+  - https://justfacts.votesmart.org/candidate/biography/153744/bob-ide
+  - https://www.linkedin.com/in/robert-ide-8a266040
+  - https://www.wyoleg.gov/Legislators/2023/S/2089
+  - https://www.wyoleg.gov/Legislators/2025/S/2089
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/2089
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-nicholas-bob
+  openstates_id: ocd-person/6ff4eff9-e68c-42a1-9aa5-b964daa37a89
+  full_name: Bob Nicholas
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-NicholasBob.jpg
+  phone: ""
+  email: bob.nicholas@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/1980
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bob_Nicholas
+  - https://en.wikipedia.org/wiki/Bob_Nicholas
+  - https://justfacts.votesmart.org/candidate/106111/bob-nicholas
+  - https://www.wyoleg.gov/Legislators/2023/H/1980
+  - https://www.wyoleg.gov/Legislators/2025/H/1980
+  - https://wyoleg.gov/Legislators/2019/R/1980
+  - https://wyoleg.gov/Legislators/2021/R/1980
+  - https://wyoleg.gov/LsoService/api/legislator/1980
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-boner-brian
+  openstates_id: ocd-person/cfed8eb6-ad00-4414-9ceb-bd5d46c5974f
+  full_name: Brian Boner
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-BonerBrian.jpg
+  phone: ""
+  email: brian.boner@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2021
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Boner
+  - https://en.wikipedia.org/wiki/Brian_Boner
+  - https://justfacts.votesmart.org/candidate/biography/156618/brian-boner
+  - https://www.linkedin.com/in/brian-boner-40a4882a
+  - https://www.wyoleg.gov/Legislators/2023/S/2021
+  - https://www.wyoleg.gov/Legislators/2025/S/2021
+  - https://wyoleg.gov/Legislators/2019/R/2021
+  - https://wyoleg.gov/Legislators/2021/R/2021
+  - https://wyoleg.gov/LsoService/api/legislator/2021
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-case-cale
+  openstates_id: ocd-person/0b07cbe8-73ba-4371-9acb-95cb7ecf6251
+  full_name: Cale Case
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-CaseCale.jpg
+  phone: ""
+  email: cale.case@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/945
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cale_Case
+  - https://en.wikipedia.org/wiki/Cale_Case
+  - https://justfacts.votesmart.org/candidate/biography/2744/cale-case
+  - https://www.wyoleg.gov/Legislators/2023/S/945
+  - https://www.wyoleg.gov/Legislators/2025/S/945
+  - https://wyoleg.gov/Legislators/2019/R/945
+  - https://wyoleg.gov/Legislators/2021/R/945
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/945
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-scott-charles
+  openstates_id: ocd-person/a3ddc445-efa1-4c0c-809a-d21fc383fa59
+  full_name: Charles Scott
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-ScottCharles.jpg
+  phone: ""
+  email: charles.scott@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/294
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Charles_Scott_(Wyoming)
+  - https://en.wikipedia.org/wiki/Charles_Scott_(Wyoming_politician)
+  - https://justfacts.votesmart.org/candidate/biography/2756/charles-scott
+  - https://www.wyoleg.gov/Legislators/2023/S/294
+  - https://www.wyoleg.gov/Legislators/2025/S/294
+  - https://wyoleg.gov/Legislators/2019/R/294
+  - https://wyoleg.gov/Legislators/2021/R/294
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/294
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-steinmetz-cheri
+  openstates_id: ocd-person/9fe08ab5-b31c-4f7b-bb23-c7aff3cd3e4d
+  full_name: Cheri Steinmetz
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-SteinmetzCheri.jpg
+  phone: ""
+  email: cheri.steinmetz@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2011
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cheri_Steinmetz
+  - https://en.wikipedia.org/wiki/Cheri_Steinmetz
+  - https://justfacts.votesmart.org/candidate/biography/127266/cheri-steinmetz
+  - https://www.wyoleg.gov/Legislators/2023/S/2011
+  - https://www.wyoleg.gov/Legislators/2025/S/2011
+  - https://wyoleg.gov/Legislators/2019/R/2011
+  - https://wyoleg.gov/Legislators/2021/R/2011
+  - https://wyoleg.gov/LsoService/api/legislator/2011
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-neiman-chip
+  openstates_id: ocd-person/b9414bc4-f900-474b-b99c-8f2716419683
+  full_name: Chip Neiman
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-NeimanChip.jpg
+  phone: ""
+  email: chip.neiman@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2070
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chip_Neiman
+  - https://en.wikipedia.org/wiki/Chip_Neiman
+  - https://justfacts.votesmart.org/candidate/biography/194490/chip-neiman
+  - https://www.wyoleg.gov/Legislators/2023/H/2070
+  - https://www.wyoleg.gov/Legislators/2025/H/2070
+  - https://wyoleg.gov/Legislators/2021/R/2070
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2070
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-rothfuss-chris
+  openstates_id: ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e
+  full_name: Chris Rothfuss
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-RothfussChris.jpg
+  phone: ""
+  email: chris.rothfuss@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/1971
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Rothfuss
+  - https://en.wikipedia.org/wiki/Chris_Rothfuss
+  - https://www.linkedin.com/in/rothfuss
+  - https://www.wyoleg.gov/Legislators/2023/S/1971
+  - https://www.wyoleg.gov/Legislators/2025/S/1971
+  - https://wyoleg.gov/Legislators/2019/D/1971
+  - https://wyoleg.gov/Legislators/2021/D/1971
+  - https://wyoleg.gov/LsoService/api/legislator/1971
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-knapp-chris
+  openstates_id: ocd-person/ffe52a1f-bc33-424a-bd8c-a2df967ac83a
+  full_name: Chris Knapp
+  office_title: State Representative
+  chamber: house
+  district: "53"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-KnappChristopher.jpg
+  phone: ""
+  email: chris.knapp@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2086
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Christopher_Knapp
+  - https://en.wikipedia.org/wiki/Chris_Knapp_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/100262/christopher-knapp
+  - https://www.linkedin.com/in/chris-knapp-6027b329
+  - https://www.wyoleg.gov/Legislators/2023/H/2086
+  - https://www.wyoleg.gov/Legislators/2025/H/2086
+  - https://wyoleg.gov/Legislators/2021/R/2086
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2086
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-styvar-clarence
+  openstates_id: ocd-person/0df4327b-df46-4886-ab09-0c8a55639548
+  full_name: Clarence Styvar
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-StyvarClarence.jpg
+  phone: ""
+  email: clarence.styvar@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2051
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Clarence_Styvar
+  - https://en.wikipedia.org/wiki/Clarence_Styvar
+  - https://justfacts.votesmart.org/candidate/biography/171210/clarence-styvar
+  - https://www.wyoleg.gov/Legislators/2023/H/2051
+  - https://www.wyoleg.gov/Legislators/2025/H/2051
+  - https://wyoleg.gov/Legislators/2019/R/2051
+  - https://wyoleg.gov/Legislators/2021/R/2051
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2051
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-wylie-cody
+  openstates_id: ocd-person/9b6e58cd-4dbc-4554-a677-b362c913c069
+  full_name: Cody Wylie
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/67th-WylieCody.jpg
+  phone: ""
+  email: cody.wylie@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2107
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cody_Wylie
+  - https://en.wikipedia.org/wiki/Cody_Wylie
+  - https://justfacts.votesmart.org/candidate/biography/207704/cody-wylie
+  - https://www.wyoleg.gov/Legislators/2023/H/2107
+  - https://www.wyoleg.gov/Legislators/2025/H/2107
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2107
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-banks-dalton
+  openstates_id: ocd-person/416ee113-2983-43ab-bf24-3d7134767b41
+  full_name: Dalton Banks
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-BanksDalton.jpg
+  phone: ""
+  email: dalton.banks@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2101
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dalton_Banks
+  - https://en.wikipedia.org/wiki/Dalton_Banks
+  - https://justfacts.votesmart.org/candidate/biography/207693/dalton-banks
+  - https://www.linkedin.com/in/dalton-banks-164a3a228
+  - https://www.wyoleg.gov/Legislators/2023/H/2101
+  - https://www.wyoleg.gov/Legislators/2025/H/2101
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2101
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-dockstader-dan
+  openstates_id: ocd-person/5395223c-9b56-410d-b18f-978d9e2a07a9
+  full_name: Dan Dockstader
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-DockstaderDan.jpg
+  phone: ""
+  email: dan.dockstader@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/1048
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dan_Dockstader
+  - https://en.wikipedia.org/wiki/Dan_Dockstader
+  - https://justfacts.votesmart.org/candidate/66202/dan-dockstader
+  - https://www.wyoleg.gov/Legislators/2023/S/1048
+  - https://www.wyoleg.gov/Legislators/2025/S/1048
+  - https://www.wyoleg.gov/Legislators/2026/S/1048
+  - https://wyoleg.gov/Legislators/2019/R/1048
+  - https://wyoleg.gov/Legislators/2021/R/1048
+  - https://wyoleg.gov/LsoService/api/legislator/1048
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-laursen-dan
+  openstates_id: ocd-person/982cdb50-2a81-47b4-97e8-cf80b92d1412
+  full_name: Dan Laursen
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-LaursenDan.jpg
+  phone: ""
+  email: dan.laursen@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2006
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dan_Laursen
+  - https://en.wikipedia.org/wiki/Dan_Laursen
+  - https://justfacts.votesmart.org/candidate/153967/dan-laursen
+  - https://www.linkedin.com/in/representative-laursen-965ba0101
+  - https://www.wyoleg.gov/Legislators/2023/S/2006
+  - https://www.wyoleg.gov/Legislators/2025/S/2006
+  - https://wyoleg.gov/LsoService/api/legislator/2006
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-singh-daniel
+  openstates_id: ocd-person/0a177e23-5f49-46dd-bc32-b2403ea7124c
+  full_name: Daniel Singh
+  office_title: State Representative
+  chamber: house
+  district: "61"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-SinghDaniel.jpg
+  phone: ""
+  email: daniel.singh@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2116
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Daniel_Singh
+  - https://en.wikipedia.org/wiki/Daniel_Singh
+  - https://justfacts.votesmart.org/candidate/biography/210274/daniel-singh
+  - https://www.linkedin.com/in/daniel-singh-96b445227
+  - https://www.wyoleg.gov/Legislators/2023/H/2116
+  - https://www.wyoleg.gov/Legislators/2025/H/2116
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2116
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-mccann-darin
+  openstates_id: ocd-person/ff389664-aac3-4241-abc7-3a8e781e5989
+  full_name: Darin McCann
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-McCannDarin.jpg
+  phone: ""
+  email: darin.mccann@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2130
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Darin_McCann
+  - https://justfacts.votesmart.org/candidate/218347/darin-mccann
+  - https://www.linkedin.com/in/darin-mccann-29258930
+  - https://wyoleg.gov/Legislators/2025/H/2130
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-cooper-ed
+  openstates_id: ocd-person/13022d64-c748-4603-b60e-bd176383b8f1
+  full_name: Ed Cooper
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-CooperEd.jpg
+  phone: ""
+  email: ed.cooper@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2068
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Edward_Cooper
+  - https://en.wikipedia.org/wiki/Ed_Cooper_(politician)
+  - https://justfacts.votesmart.org/candidate/194474/ed-cooper
+  - https://www.wyoleg.gov/Legislators/2023/S/2068
+  - https://www.wyoleg.gov/Legislators/2025/S/2068
+  - https://wyoleg.gov/Legislators/2021/R/2068
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/2068
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-campbell-elissa
+  openstates_id: ocd-person/c0c75f8e-6d58-4197-9076-154528191d47
+  full_name: Elissa Campbell
+  office_title: State Representative
+  chamber: house
+  district: "56"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-CampbellElissa.jpg
+  phone: ""
+  email: elissa.campbell@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2133
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elissa_Campbell
+  - https://justfacts.votesmart.org/candidate/biography/218357/elissa-campbell
+  - https://www.linkedin.com/in/elissa-campbell-b6511b11
+  - https://wyoleg.gov/Legislators/2025/H/2133
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-barlow-eric
+  openstates_id: ocd-person/afa67bb0-3191-4dce-94ab-ddb3a9e7475c
+  full_name: Eric Barlow
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-BarlowEric.jpg
+  phone: ""
+  email: eric.barlow@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/1995
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Eric_Barlow
+  - https://en.wikipedia.org/wiki/Eric_Barlow
+  - https://justfacts.votesmart.org/candidate/140045/eric-barlow
+  - https://www.wyoleg.gov/Legislators/2023/S/1995
+  - https://www.wyoleg.gov/Legislators/2025/S/1995
+  - https://wyoleg.gov/LsoService/api/legislator/1995
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-brennan-evie
+  openstates_id: ocd-person/7f287d7d-8f05-4116-8bcf-33174ecf1e9c
+  full_name: Evie Brennan
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-BrennanEvie.jpg
+  phone: ""
+  email: evie.brennan@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2090
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Evie_Brennan
+  - https://en.wikipedia.org/wiki/Evie_Brennan
+  - https://justfacts.votesmart.org/candidate/biography/207660/evie-brennan
+  - https://www.linkedin.com/in/evie-brennan-3bb99170
+  - https://www.wyoleg.gov/Legislators/2023/S/2090
+  - https://www.wyoleg.gov/Legislators/2025/S/2090
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/2090
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-brown-gary
+  openstates_id: ocd-person/472c50ea-da65-42c3-a9b3-3639a9881a7f
+  full_name: Gary Brown
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-BrownGary.jpg
+  phone: ""
+  email: gary.brown@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2140
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gary_Brown_(Wyoming)
+  - https://justfacts.votesmart.org/candidate/biography/218338/gary-brown
+  - https://wyoleg.gov/Legislators/2025/H/2140
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-crum-gary
+  openstates_id: ocd-person/84464d31-bdbb-4687-9757-27794e64d319
+  full_name: Gary Crum
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-CrumGary.jpg
+  phone: ""
+  email: gary.crum@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/S/2144
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gary_Crum_(Wyoming)
+  - https://en.wikipedia.org/wiki/Gary_Crum
+  - https://justfacts.votesmart.org/candidate/218299/gary-crum
+  - https://www.linkedin.com/in/gary-crum-9635b9126
+  - https://wyoleg.gov/Legislators/2025/S/2144
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-posey-ivan
+  openstates_id: ocd-person/df82de40-cf5b-4197-b276-5e5982146849
+  full_name: Ivan Posey
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Democratic
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-PoseyIvan.jpg
+  phone: ""
+  email: ivan.posey@wyoleg.gov
+  address: ""
+  official_website: https://www.poseyforhd33.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ivan_Posey
+  - https://en.wikipedia.org/wiki/Ivan_Posey
+  - https://justfacts.votesmart.org/candidate/218330/ivan-posey
+  - https://www.linkedin.com/in/ivan-posey-802848132
+  - https://www.poseyforhd33.com
+  - https://www.poseyforhd33.com/about
+  - https://wyoleg.gov/Legislators/2025/H/2141
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-wasserburger-jacob
+  openstates_id: ocd-person/b598ad4e-6124-4863-ac74-dbb13630e7db
+  full_name: Jacob Wasserburger
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-WasserburgerJacob.jpg
+  phone: ""
+  email: jacob.wasserburger@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2139
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jacob_Wasserburger
+  - https://en.wikipedia.org/wiki/Jacob_Wasserburger
+  - https://justfacts.votesmart.org/candidate/biography/218313/jacob-wasserburger
+  - https://wyoleg.gov/Legislators/2025/H/2139
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-olsen-jared
+  openstates_id: ocd-person/63e25ff3-1832-45c8-a9af-669bb74a3aa4
+  full_name: Jared Olsen
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-OlsenJared.jpg
+  phone: ""
+  email: jared.olsen@wyoleg.gov
+  address: ""
+  official_website: https://www.olsenforwyoming.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jared_Olsen
+  - https://en.wikipedia.org/wiki/Jared_Olsen
+  - https://www.linkedin.com/in/jaredsolsen
+  - https://www.olsenforwyoming.com
+  - https://www.olsenforwyoming.com/about-jared
+  - https://www.wyoleg.gov/Legislators/2023/H/2035
+  - https://www.wyoleg.gov/Legislators/2025/S/2035
+  - https://wyoleg.gov/Legislators/2019/R/2035
+  - https://wyoleg.gov/Legislators/2021/R/2035
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2035
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-lien-jayme
+  openstates_id: ocd-person/89408a3a-ae27-4a8d-aa93-0050a48cf93d
+  full_name: Jayme Lien
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-LienJayme.jpg
+  phone: ""
+  email: jayme.lien@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2126
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jayme_Lien
+  - https://justfacts.votesmart.org/candidate/biography/218333/jayme-lien
+  - https://wyoleg.gov/Legislators/2025/H/2126
+  - https://wyoleg.gov/Legislators/2025/R/2126
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-williams-jd
+  openstates_id: ocd-person/fc63a597-e32a-4c94-a2f2-7420f7836aeb
+  full_name: J.D. Williams
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-WilliamsJD.jpg
+  phone: ""
+  email: jd.williams@wyoleg.gov
+  address: ""
+  official_website: https://www.jdforstatehouse.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/J.D._Williams
+  - https://en.wikipedia.org/wiki/J._D._Williams_(Wyoming_politician)
+  - https://justfacts.votesmart.org/candidate/200405/jd-williams
+  - https://www.jdforstatehouse.com
+  - https://www.jdforstatehouse.com/meet-jd
+  - https://www.wyoleg.gov/Legislators/2025/H/2087
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2087
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-haroldson-jeremy
+  openstates_id: ocd-person/b9bbea38-a84b-4173-a599-cd9f5500b181
+  full_name: Jeremy Haroldson
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-HaroldsonJeremy.jpg
+  phone: ""
+  email: jeremy.haroldson@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2071
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeremy_Haroldson
+  - https://en.wikipedia.org/wiki/Jeremy_Haroldson
+  - https://justfacts.votesmart.org/candidate/194492/jeremy-haroldson
+  - https://www.wyoleg.gov/Legislators/2023/H/2071
+  - https://www.wyoleg.gov/Legislators/2025/H/2071
+  - https://wyoleg.gov/Legislators/2021/R/2071
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2071
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-anderson-jim
+  openstates_id: ocd-person/f40c41d5-b371-49c5-a597-db8435e613a0
+  full_name: Jim Anderson
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-AndersonJim.jpg
+  phone: ""
+  email: jim.anderson@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/1985
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/James_Anderson_(Wyoming_State_Senate_District_28)
+  - https://en.wikipedia.org/wiki/James_Lee_Anderson
+  - https://justfacts.votesmart.org/candidate/141984/jim-anderson
+  - https://www.linkedin.com/in/jim-anderson-10882361
+  - https://www.wyoleg.gov/Legislators/2023/S/1985
+  - https://www.wyoleg.gov/Legislators/2025/S/1985
+  - https://www.wyoleg.gov/Legislators/2026/S/1985
+  - https://wyoleg.gov/Legislators/2019/R/1985
+  - https://wyoleg.gov/Legislators/2021/R/1985
+  - https://wyoleg.gov/LsoService/api/legislator/1985
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-webb-joe
+  openstates_id: ocd-person/19e421d2-03a4-4a0a-86e8-b18b63d13822
+  full_name: Joe Webb
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-WebbJoe.jpg
+  phone: ""
+  email: joe.webb@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2120
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joseph_Webb_(Wyoming)
+  - https://en.wikipedia.org/wiki/Joe_Webb_(politician)
+  - https://justfacts.votesmart.org/candidate/218322/joe-webb
+  - https://www.linkedin.com/in/joewebb82937
+  - https://wyoleg.gov/Legislators/2025/H/2120
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-guggenmos-joel
+  openstates_id: ocd-person/39076643-ca3a-47d2-888e-d944eb4f5de9
+  full_name: Joel Guggenmos
+  office_title: State Representative
+  chamber: house
+  district: "55"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-GuggenmosJoel.jpg
+  phone: ""
+  email: joel.guggenmos@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2132
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joel_Guggenmos
+  - https://justfacts.votesmart.org/candidate/biography/218356/joel-guggenmos
+  - https://wyoleg.gov/Legislators/2025/H/2132
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-bear-john
+  openstates_id: ocd-person/931a9e71-33a6-4e65-be91-703ad612447e
+  full_name: John Bear
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-BearJohn.jpg
+  phone: ""
+  email: john.bear@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2075
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Bear_(Wyoming)
+  - https://en.wikipedia.org/wiki/John_Bear_%28politician%29
+  - https://justfacts.votesmart.org/candidate/194580/john-bear
+  - https://www.linkedin.com/in/john-bear-105729a6
+  - https://www.wyoleg.gov/Legislators/2023/H/2075
+  - https://www.wyoleg.gov/Legislators/2025/H/2075
+  - https://wyoleg.gov/Legislators/2021/R/2075
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2075
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-kolb-john
+  openstates_id: ocd-person/a8a05d47-8306-4f20-a848-02c92db1fffe
+  full_name: John Kolb
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-KolbJohn.jpg
+  phone: ""
+  email: john.kolb@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2066
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Kolb
+  - https://en.wikipedia.org/wiki/John_Kolb
+  - https://justfacts.votesmart.org/candidate/biography/129296/john-kolb
+  - https://www.wyoleg.gov/Legislators/2023/S/2066
+  - https://www.wyoleg.gov/Legislators/2025/S/2066
+  - https://wyoleg.gov/Legislators/2021/R/2066
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/2066
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-winter-john
+  openstates_id: ocd-person/e79049b8-a6d9-4356-a190-fc1e90837d5d
+  full_name: John Winter
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-WinterJohn.jpg
+  phone: ""
+  email: john.winter@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2056
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Winter_(Wyoming)
+  - https://en.wikipedia.org/wiki/John_Winter_(Wyoming_politician)
+  - https://justfacts.votesmart.org/candidate/biography/184072/john-winter
+  - https://www.wyoleg.gov/Legislators/2023/H/2056
+  - https://www.wyoleg.gov/Legislators/2025/H/2056
+  - https://wyoleg.gov/Legislators/2019/R/2056
+  - https://wyoleg.gov/Legislators/2021/R/2056
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2056
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-riggins-jr
+  openstates_id: ocd-person/25e8e592-1425-4e8d-bcce-97ec84ef66c3
+  full_name: J.R. Riggins
+  office_title: State Representative
+  chamber: house
+  district: "59"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-RigginsJR.jpg
+  phone: ""
+  email: jr.riggins@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2135
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/J.R._Riggins
+  - https://justfacts.votesmart.org/candidate/biography/218361/justin-riggins
+  - https://wyoleg.gov/Legislators/2025/H/2135
+  - https://wyoleg.gov/Legislators/2025/R/2135
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-larson-jt
+  openstates_id: ocd-person/2a0be03f-4f0a-4b2e-850b-50b4d0dade13
+  full_name: J.T. Larson
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-LarsonJT.jpg
+  phone: ""
+  email: jt.larson@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2096
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/J.T._Larson
+  - https://en.wikipedia.org/wiki/J.T._Larson
+  - https://justfacts.votesmart.org/candidate/biography/207679/joshua-larson
+  - https://www.linkedin.com/in/j-t-larson-4a80a1197
+  - https://www.wyoleg.gov/Legislators/2023/H/2096
+  - https://www.wyoleg.gov/Legislators/2025/H/2096
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2096
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-jarvis-julie
+  openstates_id: ocd-person/64428f70-4a9b-453d-b2f5-bbbdcdb370e5
+  full_name: Julie Jarvis
+  office_title: State Representative
+  chamber: house
+  district: "57"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-JarvisJulie.jpg
+  phone: ""
+  email: julie.jarvis@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2134
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Julie_Jarvis
+  - https://justfacts.votesmart.org/candidate/biography/218360/julie-jarvis
+  - https://www.linkedin.com/in/dr-julie-jarvis
+  - https://wyoleg.gov/Legislators/2025/H/2134
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-fornstrom-justin
+  openstates_id: ocd-person/970ff542-b60c-4a3b-bd63-492a38a0a878
+  full_name: Justin Fornstrom
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-FornstromJustin.JPG
+  phone: ""
+  email: justin.fornstrom@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2025/H/2146
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Justin_Fornstrom
+  - https://ballotpedia.org/Justin_Fornstrom_(Mayor_of_Pine_Bluffs,_Wyoming,_candidate_2024)
+  - https://www.wyoleg.gov/Legislators/2025/H/2146
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-provenza-karlee
+  openstates_id: ocd-person/588c810c-0a65-475b-9593-46fa556cb962
+  full_name: Karlee Provenza
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Democratic
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-ProvenzaKarlee.jpg
+  phone: ""
+  email: karlee.provenza@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2080
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Karlee_Provenza
+  - https://en.wikipedia.org/wiki/Karlee_Provenza
+  - https://justfacts.votesmart.org/candidate/194589/karlee-provenza
+  - https://www.linkedin.com/in/karlee-provenza-ph-d-057303207
+  - https://www.linkedin.com/in/karlee-r-provenza-717776122
+  - https://www.wyoleg.gov/Legislators/2023/H/2080
+  - https://www.wyoleg.gov/Legislators/2025/H/2080
+  - https://wyoleg.gov/Legislators/2021/D/2080
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2080
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-chestek-ken
+  openstates_id: ocd-person/dcc60e43-41b3-44ef-976c-0604a295b9cd
+  full_name: Ken Chestek
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Democratic
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-ChestekKen.jpg
+  phone: ""
+  email: ken.chestek@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2095
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ken_Chestek
+  - https://en.wikipedia.org/wiki/Ken_Chestek
+  - https://justfacts.votesmart.org/candidate/biography/171292/ken-chestek
+  - https://www.wyoleg.gov/Legislators/2023/H/2095
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2095
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-clouston-ken
+  openstates_id: ocd-person/15ae95ba-274d-4b7b-a2c7-a5cfb5e2b089
+  full_name: Ken Clouston
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-CloustonKen.jpg
+  phone: ""
+  email: ken.clouston@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2104
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ken_Clouston
+  - https://en.wikipedia.org/wiki/Ken_Clouston
+  - https://justfacts.votesmart.org/candidate/biography/196263/ken-clouston
+  - https://www.gillettept.com/ken-clouston
+  - https://www.linkedin.com/in/ken-clouston-7639081a2
+  - https://www.wyoleg.gov/Legislators/2023/H/2104
+  - https://www.wyoleg.gov/Legislators/2025/H/2104
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2104
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-pendergraft-ken
+  openstates_id: ocd-person/b7a5cb78-6473-4b7b-9c27-90c8ab2130a5
+  full_name: Ken Pendergraft
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-PendergraftKen.jpg
+  phone: ""
+  email: ken.pendergraft@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2103
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ken_Pendergraft
+  - https://en.wikipedia.org/wiki/Ken_Pendergraft
+  - https://justfacts.votesmart.org/candidate/194538/ken-pendergraft
+  - https://www.linkedin.com/in/ken-pendergraft-544a8210
+  - https://www.wyoleg.gov/Legislators/2023/H/2103
+  - https://www.wyoleg.gov/Legislators/2025/H/2103
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2103
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-campbell-kevin
+  openstates_id: ocd-person/e6242790-9cdf-48ec-a5d3-aae3e5439733
+  full_name: Kevin Campbell
+  office_title: State Representative
+  chamber: house
+  district: "62"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-CampbellKevin.jpg
+  phone: ""
+  email: kevin.campbell@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2136
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kevin_Campbell_(Wyoming)
+  - https://justfacts.votesmart.org/candidate/218364/kevin-campbell
+  - https://wyoleg.gov/Legislators/2025/H/2136
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-brown-landon
+  openstates_id: ocd-person/7052600a-c1b3-484d-80a3-232fc9815d7c
+  full_name: Landon Brown
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-BrownLandon.jpg
+  phone: ""
+  email: landon.brown@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2034
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Landon_Brown
+  - https://en.wikipedia.org/wiki/Landon_Brown
+  - https://justfacts.votesmart.org/candidate/biography/171204/landon-brown
+  - https://www.linkedin.com/in/landon-brown-mpa-30790076
+  - https://www.wyoleg.gov/Legislators/2023/H/2034
+  - https://www.wyoleg.gov/Legislators/2025/H/2034
+  - https://wyoleg.gov/Legislators/2019/R/2034
+  - https://wyoleg.gov/Legislators/2021/R/2034
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2034
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-hicks-larry
+  openstates_id: ocd-person/286af01e-ace3-4de2-b1c3-44756370d932
+  full_name: Larry Hicks
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-HicksLarry.jpg
+  phone: ""
+  email: larry.hicks@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/1963
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Larry_S._Hicks_(Wyoming)
+  - https://en.wikipedia.org/wiki/Larry_S._Hicks
+  - https://justfacts.votesmart.org/candidate/52685/larry-hicks
+  - https://www.wyoleg.gov/Legislators/2023/S/1963
+  - https://www.wyoleg.gov/Legislators/2025/S/1963
+  - https://wyoleg.gov/Legislators/2019/R/1963
+  - https://wyoleg.gov/Legislators/2021/R/1963
+  - https://wyoleg.gov/LsoService/api/legislator/1963
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-pearson-laura
+  openstates_id: ocd-person/c6b78357-5a9d-41e9-b947-1d81227b0f15
+  full_name: Laura Pearson
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-PearsonLaura.jpg
+  phone: ""
+  email: laura.pearson@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/R/2138
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Laura_Taliaferro_Pearson
+  - https://en.wikipedia.org/wiki/Laura_Taliaferro_Pearson
+  - https://justfacts.votesmart.org/candidate/218302/laura-taliaferro-pearson
+  - https://www.linkedin.com/in/laura-pearson-80352334
+  - https://wyoleg.gov/Legislators/2025/R/2138
+  - https://wyoleg.gov/Legislators/2025/S/2138
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-bratten-laurie
+  openstates_id: ocd-person/5eabff67-a57e-4fd5-b62c-3072d0374d56
+  full_name: Laurie Bratten
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-BrattenLaurie.jpg
+  phone: ""
+  email: laurie.bratten@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2131
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Laurie_Bratten
+  - https://justfacts.votesmart.org/candidate/biography/218354/laurie-bratten
+  - https://www.linkedin.com/in/laurie-bratten-87591661
+  - https://wyoleg.gov/Legislators/2025/H/2131
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-filer-lee
+  openstates_id: ocd-person/be3b0a04-4e00-42e4-9202-5c8f68aacedd
+  full_name: Lee Filer
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-FilerLee.jpg
+  phone: ""
+  email: lee.filer@wyoleg.gov
+  address: ""
+  official_website: https://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=1990
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lee_Filer
+  - https://en.wikipedia.org/wiki/Lee_Filer
+  - https://justfacts.votesmart.org/candidate/biography/140049/lee-filer
+  - https://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=1990
+  - https://legisweb.state.wy.us/LegislatorSummary/LegislatorList.aspx?strHouse=H&strStatus=N
+  - https://www.linkedin.com/in/lee-filer-4320806a
+  - https://wyoleg.gov/Legislators/2025/H/1990
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-storer-liz
+  openstates_id: ocd-person/7d3ea3c1-de6a-433f-83e2-c53dde09be61
+  full_name: Liz Storer
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-StorerLiz.jpg
+  phone: ""
+  email: liz.storer@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2100
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Liz_Storer
+  - https://en.wikipedia.org/wiki/Liz_Storer
+  - https://justfacts.votesmart.org/candidate/207688/liz-storer
+  - https://www.linkedin.com/in/elizabeth-storer-4286198
+  - https://www.wyoleg.gov/Legislators/2023/H/2100
+  - https://www.wyoleg.gov/Legislators/2025/H/2100
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2100
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-larsen-lloyd
+  openstates_id: ocd-person/6466bd0e-d531-4ac0-8667-3e7f34a32f9a
+  full_name: Lloyd Larsen
+  office_title: State Representative
+  chamber: house
+  district: "54"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-LarsenLloyd.jpg
+  phone: ""
+  email: lloyd.larsen@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/1988
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lloyd_Charles_Larsen
+  - https://en.wikipedia.org/wiki/Lloyd_Larsen
+  - https://justfacts.votesmart.org/candidate/biography/140069/lloyd-larsen
+  - https://www.linkedin.com/in/lloyd-larsen-ab29647
+  - https://www.wyoleg.gov/Legislators/2023/H/1988
+  - https://www.wyoleg.gov/Legislators/2025/H/1988
+  - https://wyoleg.gov/Legislators/2019/R/1988
+  - https://wyoleg.gov/Legislators/2021/R/1988
+  - https://wyoleg.gov/LsoService/api/legislator/1988
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-hutchings-lynn
+  openstates_id: ocd-person/b91459e7-2049-4cf9-8b0b-f769ce373613
+  full_name: Lynn Hutchings
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-HutchingsLynn.jpg
+  phone: ""
+  email: lynn.hutchings@wyoleg.gov
+  address: ""
+  official_website: https://www.hutchingsforsenate.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lynn_Hutchings
+  - https://en.wikipedia.org/wiki/Lynn_Hutchings
+  - https://justfacts.votesmart.org/candidate/biography/127281/lynn-hutchings
+  - https://www.hutchingsforsenate.com
+  - https://www.hutchingsforsenate.com/message-about-lynn
+  - https://www.wyoleg.gov/Legislators/2023/S/1997
+  - https://www.wyoleg.gov/Legislators/2025/S/1997
+  - https://wyoleg.gov/Legislators/2019/R/1997
+  - https://wyoleg.gov/Legislators/2021/R/1997
+  - https://wyoleg.gov/LsoService/api/legislator/1997
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-connolly-marilyn
+  openstates_id: ocd-person/65ae499e-9549-42e2-ab16-65b56eb0f8ab
+  full_name: Marilyn Connolly
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-ConnollyMarilyn.jpg
+  phone: ""
+  email: marilyn.connolly@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2127
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marilyn_Connoly
+  - https://justfacts.votesmart.org/candidate/biography/218336/marilyn-connoly
+  - https://wyoleg.gov/Legislators/2025/H/2127
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-brady-marlene
+  openstates_id: ocd-person/b2d0dc89-4104-4f6e-a1eb-bbc9dafbefa9
+  full_name: Marlene Brady
+  office_title: State Representative
+  chamber: house
+  district: "60"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-BradyMarlene.jpg
+  phone: ""
+  email: marlene.brady@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2143
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marlene_Brady
+  - https://en.wikipedia.org/wiki/Marlene_Brady
+  - https://justfacts.votesmart.org/candidate/218362/marlene-brady
+  - https://wyoleg.gov/Legislators/2025/H/2143
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-lawley-martha
+  openstates_id: ocd-person/c954b74f-1933-4be4-801d-cc93f7f37ac0
+  full_name: Martha Lawley
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-LawleyMartha.jpg
+  phone: ""
+  email: martha.lawley@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2102
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Martha_Lawley
+  - https://en.wikipedia.org/wiki/Martha_Lawley
+  - https://justfacts.votesmart.org/candidate/biography/207696/martha-lawley
+  - https://www.marthalawley.com
+  - https://www.wyoleg.gov/Legislators/2023/H/2102
+  - https://www.wyoleg.gov/Legislators/2025/H/2102
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2102
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-erickson-mckay
+  openstates_id: ocd-person/f3fe63a7-b938-41c4-b2f5-b4069949a163
+  full_name: McKay Erickson
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-EricksonMcKay.jpg
+  phone: ""
+  email: mckay.erickson@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/R/2122
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/McKay_Erickson
+  - https://en.wikipedia.org/wiki/McKay_Erickson
+  - https://justfacts.votesmart.org/candidate/biography/218324/mckay-erickson
+  - https://wyoleg.gov/Legislators/2025/R/2122
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-gierau-mike
+  openstates_id: ocd-person/587874e4-f0c9-4679-aa08-a2442b7d33b1
+  full_name: Mike Gierau
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Democratic
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-GierauMike.jpg
+  phone: ""
+  email: mike.gierau@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2027
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Gierau
+  - https://en.wikipedia.org/wiki/Mike_Gierau
+  - https://justfacts.votesmart.org/candidate/biography/52778/mike-gierau
+  - https://www.linkedin.com/in/mike-gierau-0851ba2a
+  - https://www.wyoleg.gov/Legislators/2023/S/2027
+  - https://www.wyoleg.gov/Legislators/2025/S/2027
+  - https://wyoleg.gov/Legislators/2019/D/2027
+  - https://wyoleg.gov/Legislators/2021/D/2027
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/2027
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-schmid-mike
+  openstates_id: ocd-person/4c9350f0-084c-4ba2-be0d-9ee0b5f6c629
+  full_name: Mike Schmid
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-SchmidMike.jpg
+  phone: ""
+  email: mike.schmid@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2121
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Schmid
+  - https://en.wikipedia.org/wiki/Mike_Schmid_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/207683/michael-schmid
+  - https://www.linkedin.com/in/mike-schmid-5335a91a
+  - https://wyoleg.gov/Legislators/2025/H/2121
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-yin-mike
+  openstates_id: ocd-person/28649646-1108-4954-9381-4aa2d3b6f31b
+  full_name: Mike Yin
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Democratic
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-YinMike.jpg
+  phone: ""
+  email: mike.yin@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2054
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Yin
+  - https://en.wikipedia.org/wiki/Mike_Yin
+  - https://justfacts.votesmart.org/candidate/biography/184068/mike-yin
+  - https://www.linkedin.com/in/yincrash
+  - https://www.wyoleg.gov/Legislators/2023/H/2054
+  - https://www.wyoleg.gov/Legislators/2025/H/2054
+  - https://wyoleg.gov/Legislators/2019/D/2054
+  - https://wyoleg.gov/Legislators/2021/D/2054
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2054
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-webber-nina
+  openstates_id: ocd-person/86d51e65-7fef-49ff-a19a-60984fe2fab2
+  full_name: Nina Webber
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-WebberNina.jpg
+  phone: ""
+  email: nina.webber@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2123
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nina_Webber
+  - https://en.wikipedia.org/wiki/Nina_Webber
+  - https://justfacts.votesmart.org/candidate/biography/194535/nina-webber
+  - https://www.linkedin.com/in/nina-webber-798bb467
+  - https://wyoleg.gov/Legislators/2025/H/2123
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-andrew-ocean
+  openstates_id: ocd-person/d811f813-1093-449a-a4dc-5d02c704ee49
+  full_name: Ocean Andrew
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/66th-AndrewOcean.jpg
+  phone: ""
+  email: ocean.andrew@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2081
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ocean_Andrew
+  - https://en.wikipedia.org/wiki/Ocean_Andrew
+  - https://justfacts.votesmart.org/candidate/biography/194591/ocean-andrew
+  - https://www.linkedin.com/in/ocean-andrew-07a321b9
+  - https://www.wyoleg.gov/Legislators/2023/H/2081
+  - https://www.wyoleg.gov/Legislators/2025/H/2081
+  - https://wyoleg.gov/Legislators/2021/R/2081
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2081
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-driskill-ogden
+  openstates_id: ocd-person/e72a31cf-cefd-42c1-9620-967af32a2f48
+  full_name: Ogden Driskill
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-DriskillOgden.jpg
+  phone: ""
+  email: ogden.driskill@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/1972
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ogden_Driskill
+  - https://en.wikipedia.org/wiki/Ogden_Driskill
+  - https://justfacts.votesmart.org/candidate/biography/52627/ogden-driskill
+  - https://www.linkedin.com/in/ogden-driskill-b43bb610
+  - https://www.wyoleg.gov/Legislators/2023/S/1972
+  - https://www.wyoleg.gov/Legislators/2025/S/1972
+  - https://wyoleg.gov/Legislators/2019/R/1972
+  - https://wyoleg.gov/Legislators/2021/R/1972
+  - https://wyoleg.gov/LsoService/api/legislator/1972
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-thayer-pam
+  openstates_id: ocd-person/4e09e885-4101-4e95-8560-17d35caad18c
+  full_name: Pam Thayer
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-ThayerPamela.jpg
+  phone: ""
+  email: pam.thayer@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2025/H/2119
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pam_Thayer
+  - https://en.wikipedia.org/wiki/Pam_Thayer
+  - https://justfacts.votesmart.org/candidate/biography/218319/pamela-thayer
+  - https://www.linkedin.com/in/pam-thayer-289a5918b
+  - https://www.wyoleg.gov/Legislators/2025/H/2119
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-hoeft-paul
+  openstates_id: ocd-person/d110d38a-8f1f-4056-b89d-d7d46613c72a
+  full_name: Paul Hoeft
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-HoeftPaul.jpg
+  phone: ""
+  email: paul.hoeft@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2124
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Paul_Hoeft
+  - https://justfacts.votesmart.org/candidate/biography/218326/paul-hoeft
+  - https://www.linkedin.com/in/paul-hoeft-3b7017a2
+  - https://wyoleg.gov/Legislators/2025/H/2124
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-ottman-pepper
+  openstates_id: ocd-person/9c9a9e1b-8107-40ac-b667-a8e75c5f806d
+  full_name: Pepper Ottman
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-OttmanPepper.jpg
+  phone: ""
+  email: pepper.ottman@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2076
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Pepper_Ottman
+  - https://en.wikipedia.org/wiki/Pepper_Ottman
+  - https://justfacts.votesmart.org/candidate/194583/pepper-ottman
+  - https://www.wyoleg.gov/Legislators/2023/H/2076
+  - https://www.wyoleg.gov/Legislators/2025/H/2076
+  - https://wyoleg.gov/Legislators/2021/R/2076
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2076
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-rodriguezwilliams-rachel
+  openstates_id: ocd-person/2fc47a70-0bf7-4d7c-bda2-5cdbf75a99ea
+  full_name: Rachel Rodriguez-Williams
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-Rodriguez-WilliamsRachel.jpg
+  phone: ""
+  email: rachel.rodriguez-williams@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2083
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rachel_Rodriguez-Williams
+  - https://en.wikipedia.org/wiki/Rachel_Rodriguez-Williams
+  - https://justfacts.votesmart.org/candidate/194595/rachel-rodriguez-williams
+  - https://www.linkedin.com/in/rachel-rodriguez-williams-93335b80
+  - https://www.wyoleg.gov/Legislators/2023/H/2083
+  - https://www.wyoleg.gov/Legislators/2025/H/2083
+  - https://wyoleg.gov/Legislators/2021/R/2083
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2083
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-tarver-reuben
+  openstates_id: ocd-person/8b636fd9-d6e2-4369-9764-c56803244076
+  full_name: Reuben Tarver
+  office_title: State Representative
+  chamber: house
+  district: "52"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-TarverReuben.jpg
+  phone: ""
+  email: reuben.tarver@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2112
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Reuben_Tarver
+  - https://en.wikipedia.org/wiki/Reuben_Tarver
+  - https://justfacts.votesmart.org/candidate/biography/207717/reuben-tarver
+  - https://www.linkedin.com/in/reuben-tarver-70174178
+  - https://www.wyoleg.gov/Legislators/2023/H/2112
+  - https://www.wyoleg.gov/Legislators/2025/H/2112
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2112
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-geringer-rob
+  openstates_id: ocd-person/219dcec3-8f83-401b-91df-1a79ac725889
+  full_name: Rob Geringer
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-GeringerRob.jpg
+  phone: ""
+  email: rob.geringer@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2142
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rob_Geringer
+  - https://justfacts.votesmart.org/candidate/218339/rob-geringer
+  - https://www.linkedin.com/in/robgeringer
+  - https://wyoleg.gov/Legislators/2025/H/2142
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-wharff-bob
+  openstates_id: ocd-person/bc53e98d-bd3c-4a67-9822-68e609f45251
+  full_name: Bob Wharff
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-WharffRobert.jpg
+  phone: ""
+  email: robert.wharff@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2021/R/2082
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Wharff
+  - https://en.wikipedia.org/wiki/Robert_Wharff
+  - https://justfacts.votesmart.org/candidate/biography/194594/robert-wharff
+  - https://www.linkedin.com/in/robert-wharff-1143ba1a5
+  - https://www.linkedin.com/in/robert-wharff-23584927
+  - https://wyoleg.gov/Legislators/2021/R/2082
+  - https://wyoleg.gov/Legislators/2025/H/2082
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2082
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-heiner-scott
+  openstates_id: ocd-person/232d6600-4cfd-40a1-abb9-8a1eecd84768
+  full_name: Scott Heiner
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-HeinerScott.jpg
+  phone: ""
+  email: scott.heiner@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2074
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_Heiner
+  - https://en.wikipedia.org/wiki/Scott_Heiner
+  - https://justfacts.votesmart.org/candidate/biography/171225/scott-heiner
+  - https://www.linkedin.com/in/scott-heiner-9a1a8420
+  - https://www.wyoleg.gov/Legislators/2023/H/2074
+  - https://wyoleg.gov/Legislators/2021/R/2074
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2074
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-smith-scott
+  openstates_id: ocd-person/201b5fe9-4060-4dfa-ae2c-c59a3a3120ff
+  full_name: Scott Smith
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/67th-SmithScott.jpg
+  phone: ""
+  email: scott.smith@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2093
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_Smith_(Wyoming)
+  - https://en.wikipedia.org/wiki/Scott_Smith_%28Wyoming_politician%29
+  - https://justfacts.votesmart.org/candidate/biography/207663/scott-smith
+  - https://www.wyoleg.gov/Legislators/2023/H/2093
+  - https://www.wyoleg.gov/Legislators/2025/H/2093
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2093
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-jones-stacy
+  openstates_id: ocd-person/343a76eb-5672-433a-9d39-f34b6f683cab
+  full_name: Stacy Jones
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-JonesStacy.jpg
+  phone: ""
+  email: stacy.jones@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2088
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stacy_Jones
+  - https://en.wikipedia.org/wiki/Stacy_Jones_(Wyoming_politician)
+  - https://justfacts.votesmart.org/candidate/207656/stacy-jones
+  - https://www.linkedin.com/in/realtorwyo
+  - https://www.wyoleg.gov/Legislators/2023/S/2088
+  - https://www.wyoleg.gov/Legislators/2025/S/2088
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/2088
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-pappas-stephan
+  openstates_id: ocd-person/f46abbfe-3a0a-4657-a4ac-fbc418adfcc7
+  full_name: Stephan Pappas
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-PappasStephan.jpg
+  phone: ""
+  email: stephan.pappas@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2008
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephan_Pappas
+  - https://en.wikipedia.org/wiki/Stephan_Pappas
+  - https://justfacts.votesmart.org/candidate/153702/stephan-pappas
+  - https://www.linkedin.com/in/stephanpappas
+  - https://www.wyoleg.gov/Legislators/2023/S/2008
+  - https://www.wyoleg.gov/Legislators/2025/S/2008
+  - https://wyoleg.gov/Legislators/2019/R/2008
+  - https://wyoleg.gov/Legislators/2021/R/2008
+  - https://wyoleg.gov/LsoService/api/legislator/2008
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-harshman-steve
+  openstates_id: ocd-person/1f6a3489-e152-487f-852a-23fc40a22185
+  full_name: Steve Harshman
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-HarshmanSteve.jpg
+  phone: ""
+  email: steve.harshman@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/717
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Harshman
+  - https://en.wikipedia.org/wiki/Steve_Harshman
+  - https://justfacts.votesmart.org/candidate/52736/steve-harshman
+  - https://www.wyoleg.gov/Legislators/2023/H/717
+  - https://www.wyoleg.gov/Legislators/2025/H/717
+  - https://wyoleg.gov/Legislators/2019/R/717
+  - https://wyoleg.gov/Legislators/2021/R/717
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/717
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-johnson-steve
+  openstates_id: ocd-person/51b4d190-c5b4-4860-acb9-a6569f26e064
+  full_name: Steve Johnson
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-JohnsonSteve.jpg
+  phone: ""
+  email: steve.johnson@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2118
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Johnson_(Wyoming)
+  - https://en.wikipedia.org/wiki/Steve_Johnson_(Wyoming_politician)
+  - https://justfacts.votesmart.org/candidate/207671/stephen-johnson
+  - https://wyoleg.gov/Legislators/2025/H/2118
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-love-taft
+  openstates_id: ocd-person/e6276406-b441-4265-a110-7e3f9b8b0e3f
+  full_name: Taft Love
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-LoveTaft.jpg
+  phone: ""
+  email: taft.love@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2026/R/2145
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Taft_Love
+  - https://en.wikipedia.org/wiki/Taft_Love
+  - https://justfacts.votesmart.org/candidate/218298/taft-love
+  - https://www.linkedin.com/in/taft-love-231148101
+  - https://wyoleg.gov/Legislators/2026/R/2145
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-nethercott-tara
+  openstates_id: ocd-person/f20c9c17-f2bd-4c88-9f6f-208af6a61f26
+  full_name: Tara Nethercott
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-NethercottTara.jpg
+  phone: ""
+  email: tara.nethercott@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2029
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tara_Nethercott
+  - https://crowleyfleck.com/biography/tara-b-nethercott
+  - https://en.wikipedia.org/wiki/Tara_Nethercott
+  - https://justfacts.votesmart.org/candidate/biography/171165/tara-nethercott
+  - https://www.wyoleg.gov/Legislators/2023/S/2029
+  - https://www.wyoleg.gov/Legislators/2025/S/2029
+  - https://wyoleg.gov/Legislators/2019/R/2029
+  - https://wyoleg.gov/Legislators/2021/R/2029
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/2029
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-french-tim
+  openstates_id: ocd-person/057afdb5-3c0e-4503-b6cd-50ba6df1aaab
+  full_name: Tim French
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-FrenchTim.jpg
+  phone: ""
+  email: tim.french@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2067
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tim_French
+  - https://en.wikipedia.org/wiki/Tim_French
+  - https://justfacts.votesmart.org/candidate/100304/tim-french
+  - https://www.wyoleg.gov/Legislators/2023/S/2067
+  - https://www.wyoleg.gov/Legislators/2025/S/2067
+  - https://wyoleg.gov/Legislators/2021/R/2067
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/2067
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-salazar-tim
+  openstates_id: ocd-person/4f702d02-54ad-4143-837a-09be9a03ee6e
+  full_name: Tim Salazar
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-SalazarTim.jpg
+  phone: ""
+  email: tim.salazar@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2028
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tim_Salazar
+  - https://en.wikipedia.org/wiki/Tim_Salazar
+  - https://justfacts.votesmart.org/candidate/biography/153981/tim-salazar
+  - https://www.wyoleg.gov/Legislators/2023/S/2028
+  - https://www.wyoleg.gov/Legislators/2025/S/2028
+  - https://wyoleg.gov/Legislators/2019/R/2028
+  - https://wyoleg.gov/Legislators/2021/R/2028
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/2028
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-kelly-tom
+  openstates_id: ocd-person/312edf5d-1dad-475a-b3bd-4b58f5f98ad4
+  full_name: Tom Kelly
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-KellyTom.jpg
+  phone: ""
+  email: tom.kelly@wyoleg.gov
+  address: ""
+  official_website: https://wyoleg.gov/Legislators/2025/H/2125
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Thomas_Kelly_(Wyoming)
+  - https://en.wikipedia.org/wiki/Tom_Kelly_(Wyoming_politician)
+  - https://justfacts.votesmart.org/candidate/biography/207650/thomas-kelly
+  - https://www.linkedin.com/in/thomas-kelly-9052b6238
+  - https://wyoleg.gov/Legislators/2025/H/2125
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-strock-tomi
+  openstates_id: ocd-person/d1ac363d-41ed-4c2c-a661-6e400d0b7d57
+  full_name: Tomi Strock
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-StrockTomi.jpg
+  phone: ""
+  email: tomi.strock@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2094
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tomi_Strock
+  - https://en.wikipedia.org/wiki/Tomi_Strock
+  - https://justfacts.votesmart.org/candidate/biography/207664/tomi-strock
+  - https://www.linkedin.com/in/tom-strock-665b2a92
+  - https://www.wyoleg.gov/Legislators/2023/H/2094
+  - https://www.wyoleg.gov/Legislators/2025/H/2094
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2094
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-locke-tony
+  openstates_id: ocd-person/0cd9d0d3-09eb-4cf1-8e5b-bfc15a71b337
+  full_name: Tony Locke
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-LockeTony.jpg
+  phone: ""
+  email: tony.locke@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2106
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tony_Locke
+  - https://en.wikipedia.org/wiki/Tony_Locke_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/207702/tony-locke
+  - https://www.wyoleg.gov/Legislators/2023/H/2106
+  - https://www.wyoleg.gov/Legislators/2025/H/2106
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2106
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-hou-sherwood-trey
+  openstates_id: ocd-person/b2265fcb-f768-4617-ad03-15f5b65af79f
+  full_name: Trey Sherwood
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-SherwoodTrey.jpg
+  phone: ""
+  email: trey.sherwood@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/H/2072
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Trey_Sherwood
+  - https://en.wikipedia.org/wiki/Trey_Sherwood
+  - https://www.linkedin.com/in/treysherwood
+  - https://www.wyoleg.gov/Legislators/2023/H/2072
+  - https://www.wyoleg.gov/Legislators/2025/H/2072
+  - https://wyoleg.gov/Legislators/2021/D/2072
+  - https://wyoleg.gov/LsoService/api/legislator/2021/H
+  - https://wyoleg.gov/LsoService/api/legislator/2023/H
+  - https://wyoleg.gov/LsoService/api/legislator/2072
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-mckeown-troy
+  openstates_id: ocd-person/c1525bf9-8a43-4807-b72a-e42f94267b09
+  full_name: Troy McKeown
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-McKeownTroy.jpg
+  phone: ""
+  email: troy.mckeown@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2069
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Troy_McKeown
+  - https://en.wikipedia.org/wiki/Troy_McKeown
+  - https://justfacts.votesmart.org/candidate/biography/194471/troy-mckeown
+  - https://www.wyoleg.gov/Legislators/2023/S/2069
+  - https://www.wyoleg.gov/Legislators/2025/S/2069
+  - https://wyoleg.gov/Legislators/2021/R/2069
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/2069
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: wy-sen-schuler-wendy
+  openstates_id: ocd-person/6dd13000-c423-47d8-9fbb-3cbcf730d7fe
+  full_name: Wendy Schuler
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://wyoleg.gov/LegislatorSummary/Photos/68th-SchulerWendy.jpg
+  phone: ""
+  email: wendy.schuler@wyoleg.gov
+  address: ""
+  official_website: https://www.wyoleg.gov/Legislators/2023/S/2062
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Wendy_Davis_Schuler
+  - https://en.wikipedia.org/wiki/Wendy_Davis_Schuler
+  - https://justfacts.votesmart.org/candidate/biography/184028/wendy-schuler
+  - https://www.linkedin.com/in/wendy-schuler-872bb39b
+  - https://www.wyoleg.gov/Legislators/2023/S/2062
+  - https://www.wyoleg.gov/Legislators/2025/S/2062
+  - https://wyoleg.gov/Legislators/2019/R/2062
+  - https://wyoleg.gov/Legislators/2021/R/2062
+  - https://wyoleg.gov/LsoService/api/legislator/2021/S
+  - https://wyoleg.gov/LsoService/api/legislator/2023/S
+  - https://wyoleg.gov/LsoService/api/legislator/2062
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

@@ -1,4 +1,4580 @@
 ﻿state: missouri
 state_abbrev: MO
-last_roster_update: "2026-04-20"
-officials: []
+last_updated: 2026-04-21
+officials:
+- person_id: mo-hou-crossley-aaron
+  openstates_id: ocd-person/ba6eb394-0402-49ba-9917-c5618d8a1589
+  full_name: Aaron Crossley
+  office_title: State Representative
+  chamber: house
+  district: "29"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2366
+  phone: ""
+  email: aaron.crossley@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=29
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Aaron_Crossley
+  - https://house.mo.gov/MemberDetails.aspx?district=29
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=029
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=29
+  - https://justfacts.votesmart.org/candidate/biography/205695/aaron-crossley
+  - https://www.linkedin.com/in/aaron-crossley
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-schnelting-adam
+  openstates_id: ocd-person/f436aa10-c006-4128-9748-050bf50c4e21
+  full_name: Adam Schnelting
+  office_title: State Senator
+  chamber: senate
+  district: "23"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2087
+  phone: ""
+  email: adam.schnelting@senate.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=069
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Adam_Schnelting
+  - https://en.wikipedia.org/wiki/Adam_Schnelting
+  - https://house.mo.gov/MemberDetails.aspx?district=069
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=104
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=069
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/169769/adam-schnelting
+  - https://www.house.mo.gov/MemberDetails.aspx?district=104
+  - https://www.senate.mo.gov/Senators/Member/23
+  - https://www.senate.mo.gov/Senators/Member?id=6375
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-plank-adrian
+  openstates_id: ocd-person/f2e657d5-999a-4d77-98e3-b06a7c3771f4
+  full_name: Adrian Plank
+  office_title: State Representative
+  chamber: house
+  district: "47"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2395
+  phone: ""
+  email: adrian.plank@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=047
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Adrian_Plank
+  - https://house.mo.gov/MemberDetails.aspx?district=047
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=047
+  - https://www.linkedin.com/in/adrian-plank-936487123
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-riley-alex
+  openstates_id: ocd-person/b11b5a8d-08e8-4cf3-802c-42a842102cfa
+  full_name: Alex Riley
+  office_title: State Representative
+  chamber: house
+  district: "134"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2232
+  phone: ""
+  email: alex.riley@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=134
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Alex_Riley
+  - https://en.wikipedia.org/wiki/Alex_Riley_(politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=134
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=134
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=134
+  - https://justfacts.votesmart.org/candidate/biography/193401/alex-riley
+  - https://www.linkedin.com/in/alex-riley-69334570
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-mosley-angela
+  openstates_id: ocd-person/048bc29f-0bab-4fa1-8a1e-647b0eba4dcd
+  full_name: Angela Mosley
+  office_title: State Senator
+  chamber: senate
+  district: "13"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Mosley2021-200x300.jpg
+  phone: ""
+  email: angela.mosley@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/mem13
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Angela_Mosley
+  - https://en.wikipedia.org/wiki/Angela_Mosley
+  - https://www.senate.mo.gov/mem13
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/13
+  - https://www.senate.mo.gov/Senators/Member?id=20
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-kelley-ann
+  openstates_id: ocd-person/fff43ce1-d209-4556-ba74-32f9ba46d3c0
+  full_name: Ann Kelley
+  office_title: State Representative
+  chamber: house
+  district: "127"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2051
+  phone: ""
+  email: ann.kelley@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/memberdetails.aspx?district=127
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ann_Kelley
+  - https://en.wikipedia.org/wiki/Ann_Kelley_(politician)
+  - https://house.mo.gov/memberdetails.aspx?district=127
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=127
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=127
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183349/ann-kelley
+  - https://www.house.mo.gov/MemberDetails.aspx?district=127
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-ealy-anthony
+  openstates_id: ocd-person/a5cc5083-e44a-4379-b4db-74c4a930821b
+  full_name: Anthony Ealy
+  office_title: State Representative
+  chamber: house
+  district: "36"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2384
+  phone: ""
+  email: anthony.ealy@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=36
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Anthony_Ealy
+  - https://house.mo.gov/MemberDetails.aspx?district=36
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=036
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=36
+  - https://justfacts.votesmart.org/candidate/biography/205703/anthony-ealy
+  - https://www.linkedin.com/in/anthonyealyjr
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-aune-ashley
+  openstates_id: ocd-person/1ff1dec0-c449-4ff8-aa22-0830817c2070
+  full_name: Ashley Aune
+  office_title: State Representative
+  chamber: house
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2210
+  phone: ""
+  email: ashley.aune@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=014
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ashley_Aune
+  - https://en.wikipedia.org/wiki/Ashley_Aune
+  - https://house.mo.gov/MemberDetails.aspx?district=014
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=014
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=014
+  - https://justfacts.votesmart.org/candidate/biography/193275/ashley-aune
+  - https://www.linkedin.com/in/theashleyaune
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-washington-barbara
+  openstates_id: ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a
+  full_name: Barbara Washington
+  office_title: State Senator
+  chamber: senate
+  district: "9"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: barbara.washington@senate.mo.gov
+  address: ""
+  official_website: https://www.house.mo.gov/MemberDetails.aspx?district=23
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Barbara_Anne_Washington
+  - https://en.wikipedia.org/wiki/Barbara_Washington
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/176775/barbara-washington
+  - https://www.house.mo.gov/MemberDetails.aspx?district=23
+  - https://www.linkedin.com/in/barbara-washington-1582259
+  - https://www.senate.mo.gov/mem09
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/09
+  - https://www.senate.mo.gov/Senators/Member?id=31
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-hovis-barry
+  openstates_id: ocd-person/54f9145f-2529-448e-8238-b00d049a782c
+  full_name: Barry Hovis
+  office_title: State Representative
+  chamber: house
+  district: "146"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2129
+  phone: ""
+  email: barry.hovis@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=146
+  twitter: ""
+  source_urls:
+  - https://house.mo.gov/MemberDetails.aspx?district=146
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=146
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=146
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183414/barry-hovis
+  - https://www.friendsofbarryhovis.com/meet-barry
+  - https://www.house.mo.gov/MemberDetails.aspx?district=146
+  - https://www.linkedin.com/in/barry-hovis-492603166
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-laubinger-becky
+  openstates_id: ocd-person/483aaa6b-d64a-48d0-8bc4-bca6c252f8dc
+  full_name: Becky Laubinger
+  office_title: State Representative
+  chamber: house
+  district: "117"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: becky.laubinger@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=117
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Becky_Laubinger
+  - https://house.mo.gov/MemberDetails.aspx?&district=117
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-brown-ben
+  openstates_id: ocd-person/c44ce433-7957-40b8-98dd-221b2f7d1436
+  full_name: Ben Brown
+  office_title: State Senator
+  chamber: senate
+  district: "26"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mo.gov/WebPhotos/SenatorPortraits/Brown26.jpg
+  phone: ""
+  email: ben.brown@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/Senators/Member/26
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ben_Brown_(Missouri)
+  - https://en.wikipedia.org/wiki/Ben_Brown_(politician)
+  - https://justfacts.votesmart.org/candidate/205662/ben-brown
+  - https://www.linkedin.com/in/benjamin-brown-88474328
+  - https://www.senate.mo.gov/senators/index
+  - https://www.senate.mo.gov/Senators/Member/26
+  - https://www.senate.mo.gov/Senators/Member?id=271
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-keathley-ben
+  openstates_id: ocd-person/1f082953-c9f5-4a72-a281-cdb9fe4bda5e
+  full_name: Ben Keathley
+  office_title: State Representative
+  chamber: house
+  district: "101"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2389
+  phone: ""
+  email: ben.keathley@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=101
+  twitter: ""
+  source_urls:
+  - https://house.mo.gov/MemberDetails.aspx?district=101
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=101
+  - https://house.mo.gov/MemberDetails.aspx?year=2024&code=R&district=101
+  - https://www.linkedin.com/in/benkeath
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-cook-bennie
+  openstates_id: ocd-person/9c485ac1-4ad5-4466-9392-a9014827ef56
+  full_name: Bennie Cook
+  office_title: State Representative
+  chamber: house
+  district: "143"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2235
+  phone: ""
+  email: bennie.cook@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=143
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bennie_Cook
+  - https://en.wikipedia.org/wiki/Bennie_Cook
+  - https://house.mo.gov/MemberDetails.aspx?district=143
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=143
+  - https://justfacts.votesmart.org/candidate/biography/193409/bennie-cook
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-fogle-betsy
+  openstates_id: ocd-person/55b3b80d-f69c-4f9f-aaed-4d1e5cd2634d
+  full_name: Betsy Fogle
+  office_title: State Representative
+  chamber: house
+  district: "135"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2233
+  phone: ""
+  email: betsy.fogle@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/memberdetails.aspx?district=135
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Betsy_Fogle
+  - https://house.mo.gov/memberdetails.aspx?district=135
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=135
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=135
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-allen-bill
+  openstates_id: ocd-person/7472aac6-4730-456b-8e2f-3b79e45da74c
+  full_name: Bill Allen
+  office_title: State Representative
+  chamber: house
+  district: "17"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2377
+  phone: ""
+  email: bill.allen@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/memberdetails.aspx?district=017
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Allen_(Missouri)
+  - https://en.wikipedia.org/wiki/Bill_Allen_(Missouri_politician)
+  - https://house.mo.gov/memberdetails.aspx?district=017
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=017
+  - https://justfacts.votesmart.org/candidate/biography/205684/bill-allen
+  - https://www.linkedin.com/in/bill-allen-ph-d-130243141
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-falkner-bill
+  openstates_id: ocd-person/28245e55-fddc-46db-85a7-ce9ca55da6d7
+  full_name: Bill Falkner
+  office_title: State Representative
+  chamber: house
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2062
+  phone: ""
+  email: bill.falkner@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/memberdetails.aspx?district=010
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Falkner
+  - https://en.wikipedia.org/wiki/Bill_Falkner
+  - https://house.mo.gov/memberdetails.aspx?district=010
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=010
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=010
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/75375/bill-falkner
+  - https://www.house.mo.gov/MemberDetails.aspx?district=10
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-hardwick-bill
+  openstates_id: ocd-person/6b7c5c9c-05ba-4a2e-8f23-117edbf2969b
+  full_name: Bill Hardwick
+  office_title: State Representative
+  chamber: house
+  district: "121"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2253
+  phone: ""
+  email: bill.hardwick@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=121
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Hardwick
+  - https://house.mo.gov/MemberDetails.aspx?district=121
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=121
+  - https://www.linkedin.com/in/bill-hardwick-56535555
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-irwin-bill
+  openstates_id: ocd-person/21a85544-7b2f-4d34-9654-a1ebfaa34881
+  full_name: Bill Irwin
+  office_title: State Representative
+  chamber: house
+  district: "55"
+  party: Republican
+  status: active
+  photo_url: https://images.squarespace-cdn.com/content/v1/64e208458934da6e60e3a002/211532ff-154d-44d5-84d6-5cd347f4aaba/Irwin+4+Congress+office.jpg?format=2500w
+  phone: ""
+  email: bill.irwin@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=055
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/William_Irwin_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?district=055
+  - https://justfacts.votesmart.org/candidate/biography/205857/william-irwin
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-lucas-bill
+  openstates_id: ocd-person/720cb5cb-6d39-4cdf-be60-020493ac19d9
+  full_name: Bill Lucas
+  office_title: State Representative
+  chamber: house
+  district: "115"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: william.lucas@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=115
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Lucas
+  - https://house.mo.gov/MemberDetails.aspx?&district=115
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-owen-bill
+  openstates_id: ocd-person/d9dd5492-e605-4fc6-a18a-8772a7682a08
+  full_name: Bill Owen
+  office_title: State Representative
+  chamber: house
+  district: "131"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2231
+  phone: ""
+  email: bill.owen@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=131
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bill_Owen
+  - https://en.wikipedia.org/wiki/Bill_Owen_(politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=131
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=131
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=131
+  - https://justfacts.votesmart.org/candidate/biography/193398/bill-owen
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-davidson-bishop
+  openstates_id: ocd-person/163f458d-ad80-4bad-9223-69e1f6fec4d2
+  full_name: Bishop Davidson
+  office_title: State Representative
+  chamber: house
+  district: "130"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2230
+  phone: ""
+  email: bishop.davidson@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=130
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bishop_Davidson
+  - https://house.mo.gov/MemberDetails.aspx?district=130
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=130
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=130
+  - https://www.linkedin.com/in/bishop-davidson-88b87a8a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-bromley-bob
+  openstates_id: ocd-person/4d763e2a-ab08-46ea-8561-9b3b74b34971
+  full_name: Bob Bromley
+  office_title: State Representative
+  chamber: house
+  district: "162"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2074
+  phone: ""
+  email: bob.bromley@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=162
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Robert_Bromley
+  - https://en.wikipedia.org/wiki/Bob_Bromley_(Missouri_politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=162
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=162
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=162
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183497/robert-bromley
+  - https://www.house.mo.gov/MemberDetails.aspx?district=162
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-titus-bob
+  openstates_id: ocd-person/b2f744fa-f71d-4865-a704-afcd3d030ff7
+  full_name: Bob Titus
+  office_title: State Representative
+  chamber: house
+  district: "139"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2369
+  phone: ""
+  email: bob.titus@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=139
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bob_Titus
+  - https://house.mo.gov/MemberDetails.aspx?district=139
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=139
+  - https://www.linkedin.com/in/bobtitusagency
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-banderman-brad
+  openstates_id: ocd-person/e0e9f47c-af7c-45f3-9d7e-1a158a19b362
+  full_name: Brad Banderman
+  office_title: State Representative
+  chamber: house
+  district: "119"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2379
+  phone: ""
+  email: brad.banderman@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=119
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brad_Banderman
+  - https://en.wikipedia.org/wiki/Brad_Banderman
+  - https://house.mo.gov/MemberDetails.aspx?district=119
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=119
+  - https://justfacts.votesmart.org/candidate/biography/205788/brad-banderman
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-christ-brad
+  openstates_id: ocd-person/8f5928b4-5528-4506-8075-4e69c5864b42
+  full_name: Brad Christ
+  office_title: State Representative
+  chamber: house
+  district: "96"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2374
+  phone: ""
+  email: brad.christ@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=096
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brad_Christ
+  - https://en.wikipedia.org/wiki/Brad_Christ
+  - https://house.mo.gov/MemberDetails.aspx?district=096
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=096
+  - https://justfacts.votesmart.org/candidate/biography/205760/brad-christ
+  - https://www.linkedin.com/in/brad-christ
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-hudson-brad
+  openstates_id: ocd-person/9f6b3ff8-f439-44d0-bdf7-315451e52cb7
+  full_name: Brad Hudson
+  office_title: State Senator
+  chamber: senate
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2081
+  phone: ""
+  email: brad.hudson@senate.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/memberdetails.aspx?district=138
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brad_Hudson
+  - https://en.wikipedia.org/wiki/Brad_Hudson
+  - https://house.mo.gov/memberdetails.aspx?district=138
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=138
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=138
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183395/brad-hudson
+  - https://www.brad4mo.com/meet-brad
+  - https://www.house.mo.gov/MemberDetails.aspx?district=138
+  - https://www.senate.mo.gov/Senators/Member/33
+  - https://www.senate.mo.gov/Senators/Member?id=6377
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-pollitt-brad
+  openstates_id: ocd-person/4cfed488-abe6-46e5-a3aa-55a73e2984ca
+  full_name: Brad Pollitt
+  office_title: State Representative
+  chamber: house
+  district: "52"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2073
+  phone: ""
+  email: bradley.pollitt@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=052
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bradley_Pollitt
+  - https://en.wikipedia.org/wiki/Brad_Pollitt
+  - https://house.mo.gov/MemberDetails.aspx?district=052
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=052
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=052
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=52
+  - https://house.mo.gov/MemberDetails.aspx?year=2024&code=R&district=052
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183221/bradley-pollitt
+  - https://www.house.mo.gov/MemberDetails.aspx?district=52
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-phelps-brandon
+  openstates_id: ocd-person/18f02633-c607-4c80-9088-742b28a49122
+  full_name: Brandon Phelps
+  office_title: State Representative
+  chamber: house
+  district: "54"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: brandon.phelps@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=054
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brandon_Phelps_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?district=054
+  - https://house.mo.gov/MemberDetails.aspx?district=054&year=2024
+  - https://justfacts.votesmart.org/candidate/biography/217673/brandon-phelps
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-shields-brenda
+  openstates_id: ocd-person/b7d28fcb-9563-420c-91bb-01d3202124fd
+  full_name: Brenda Shields
+  office_title: State Representative
+  chamber: house
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2093
+  phone: ""
+  email: brenda.shields@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=011
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brenda_Shields
+  - https://house.mo.gov/MemberDetails.aspx?district=011
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=011
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=011
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://www.house.mo.gov/MemberDetails.aspx?district=11
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-seitz-brian
+  openstates_id: ocd-person/83283f83-e8d3-4e03-949c-1bdfae4bfd7f
+  full_name: Brian Seitz
+  office_title: State Representative
+  chamber: house
+  district: "156"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2240
+  phone: ""
+  email: brian.seitz@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=156
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Seitz
+  - https://house.mo.gov/MemberDetails.aspx?district=156
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=156
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=156
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-williams-brian
+  openstates_id: ocd-person/4f5340d3-7637-4eb2-be68-890073af50af
+  full_name: Brian Williams
+  office_title: State Senator
+  chamber: senate
+  district: "14"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.mo.gov/19web/wp-content/uploads/2019/05/Williams2019-200x300.jpg
+  phone: ""
+  email: brian.williams@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/mem14
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Brian_Williams_(Missouri)
+  - https://en.wikipedia.org/wiki/Brian_Williams_(Missouri_politician)
+  - https://www.senate.mo.gov/mem14
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/14
+  - https://www.senate.mo.gov/Senators/Member?id=34
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-moore-bridget
+  openstates_id: ocd-person/d29468e7-eb61-45e7-89ad-4dfb93a0baf2
+  full_name: Bridget Moore
+  office_title: State Representative
+  chamber: house
+  district: "93"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2248
+  phone: ""
+  email: bridget.walshmoore@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=093
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bridget_Walsh_Moore
+  - https://house.mo.gov/MemberDetails.aspx?district=093
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=093
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=093
+  - https://www.linkedin.com/in/bridget-walsh-moore-3a1a3415
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-sassmann-bruce
+  openstates_id: ocd-person/d01a9b1a-a262-4d27-9de9-b7ad0ff8c7f0
+  full_name: Bruce Sassmann
+  office_title: State Representative
+  chamber: house
+  district: "61"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2222
+  phone: ""
+  email: bruce.sassmann@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=061
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bruce_Sassmann
+  - https://house.mo.gov/MemberDetails.aspx?district=061
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=062
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=061
+  - https://justfacts.votesmart.org/candidate/biography/139198/bruce-sassmann
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-wolfin-bryant
+  openstates_id: ocd-person/06f2e023-3786-4c2f-b057-fd9087a6a1db
+  full_name: Bryant Wolfin
+  office_title: State Representative
+  chamber: house
+  district: "145"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Bryant_Wolfin.jpg
+  phone: ""
+  email: bryant.wolfin@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=145
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Bryant_Wolfin
+  - https://house.mo.gov/MemberDetails.aspx?district=145
+  - https://www.linkedin.com/in/bryant-wolfin-0baba684
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-whaley-burt
+  openstates_id: ocd-person/89ef08d6-96fd-4d5f-9a48-d8093ba60052
+  full_name: Burt Whaley
+  office_title: State Representative
+  chamber: house
+  district: "138"
+  party: Republican
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/164677.jpg
+  phone: ""
+  email: burt.whaley@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=138
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Burt_Whaley
+  - https://house.mo.gov/MemberDetails.aspx?district=138
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-parker-cameron
+  openstates_id: ocd-person/08f76b3a-4317-4d18-a44b-f2d6a673f1e3
+  full_name: Cameron Parker
+  office_title: State Representative
+  chamber: house
+  district: "150"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2393
+  phone: ""
+  email: cameron.buntingparke@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=150
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cameron_Bunting_Parker
+  - https://house.mo.gov/MemberDetails.aspx?district=150
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=150
+  - https://justfacts.votesmart.org/candidate/biography/205817/cameron-parker
+  - https://www.linkedin.com/in/cameron-bunting-parker-0a143a125
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-caton-carolyn
+  openstates_id: ocd-person/34df0cd7-f366-4d01-a1e7-d6241e34deec
+  full_name: Carolyn Caton
+  office_title: State Representative
+  chamber: house
+  district: "33"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: carolyn.caton@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=033
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Carolyn_Caton
+  - https://house.mo.gov/MemberDetails.aspx?district=033
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=033
+  - https://justfacts.votesmart.org/candidate/biography/216998/carolyn-caton
+  - https://www.linkedin.com/in/carolyn-caton-829a838
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-loy-cathy
+  openstates_id: ocd-person/0d50b579-ab89-4b9c-ae24-eb0d4216f3bd
+  full_name: Cathy Loy
+  office_title: State Representative
+  chamber: house
+  district: "163"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/CathyLoy2024.jpg
+  phone: ""
+  email: cathyjo.loy@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=163
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cathy_Loy
+  - https://house.mo.gov/MemberDetails.aspx?district=163
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=163
+  - https://justfacts.votesmart.org/candidate/biography/217791/cathy-jo-loy
+  - https://www.linkedin.com/in/cathy-jo-loy
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-williams-cecelie
+  openstates_id: ocd-person/66b84db3-dd1a-4c94-8a78-bbf219068347
+  full_name: Cecelie Williams
+  office_title: State Representative
+  chamber: house
+  district: "111"
+  party: Republican
+  status: active
+  photo_url: https://bloximages.newyork1.vip.townnews.com/myleaderpaper.com/content/tncms/assets/v3/editorial/5/41/5413b724-454a-11ef-9a7c-074f5d50855a/669985197fe04.image.jpg?resize=500%2C500
+  phone: ""
+  email: cecelie.williams@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=111
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cecelie_Williams
+  - https://house.mo.gov/MemberDetails.aspx?district=111
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=111
+  - https://justfacts.votesmart.org/candidate/biography/205782/cecelie-williams
+  - https://www.linkedin.com/in/cecelie-williams-83a07473
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-perkins-chad
+  openstates_id: ocd-person/b1fb2c50-2091-4264-abed-e89079479bc0
+  full_name: Chad Perkins
+  office_title: State Representative
+  chamber: house
+  district: "40"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2207
+  phone: ""
+  email: chad.perkins@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=40
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chad_Perkins_(Missouri)
+  - https://en.wikipedia.org/wiki/Chad_Perkins
+  - https://house.mo.gov/MemberDetails.aspx?&district=40
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=040
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=040
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=40
+  - https://justfacts.votesmart.org/candidate/biography/193313/chad-perkins
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-mosley-chanel
+  openstates_id: ocd-person/ef435f26-5456-4e1b-9d53-16d972983db0
+  full_name: Chanel Mosley
+  office_title: State Representative
+  chamber: house
+  district: "75"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: chanel.mosley@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=075
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chanel_Mosley
+  - https://house.mo.gov/MemberDetails.aspx?&district=075
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-brown-chris
+  openstates_id: ocd-person/43f13a74-64cd-41b6-b03a-51af80dbfc10
+  full_name: Chris Brown
+  office_title: State Representative
+  chamber: house
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2212
+  phone: ""
+  email: chris.brown@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=016
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Chris_Brown_(Missouri_House_of_Representatives_District_16_candidate)
+  - https://en.wikipedia.org/wiki/Chris_Brown_(Missouri_politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=016
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=016
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=016
+  - https://justfacts.votesmart.org/candidate/biography/193276/chris-brown
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-warwick-chris
+  openstates_id: ocd-person/075c14fd-b8dd-433d-ae30-69fb9d210979
+  full_name: Chris Warwick
+  office_title: State Representative
+  chamber: house
+  district: "128"
+  party: Republican
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/164674.jpg
+  phone: ""
+  email: christopher.warwick@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/memberdetails.aspx?district=128
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Christopher_Warwick
+  - https://house.mo.gov/memberdetails.aspx?district=128
+  - https://www.linkedin.com/in/chris-warwick-812388153
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-olaughlin-cindy
+  openstates_id: ocd-person/77b71863-3523-489a-a6a8-953ffa0d8955
+  full_name: Cindy O'Laughlin
+  office_title: State Senator
+  chamber: senate
+  district: "18"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mo.gov/19web/wp-content/uploads/2019/09/OLaughlin2019-200x300.jpg
+  phone: ""
+  email: cindy.olaughlin@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/mem18
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Cindy_O%27Laughlin
+  - https://en.wikipedia.org/wiki/Cindy_O%27Laughlin
+  - https://justfacts.votesmart.org/candidate/biography/183129/cindy-olaughlin
+  - https://www.linkedin.com/in/cindy-o-laughlin-bba1ba125
+  - https://www.senate.mo.gov/mem18
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/18
+  - https://www.senate.mo.gov/Senators/Member?id=21
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-wellenkamp-colin
+  openstates_id: ocd-person/0c02ea62-5611-4292-bf13-316c50c3a866
+  full_name: Colin Wellenkamp
+  office_title: State Representative
+  chamber: house
+  district: "105"
+  party: Republican
+  status: active
+  photo_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX0dvieAKQKNkpNLYf1CfTOGpW1d2Fr9PPxQ&s
+  phone: ""
+  email: colin.wellenkamp@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=105
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Colin_Wellenkamp
+  - https://house.mo.gov/MemberDetails.aspx?district=105
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=105
+  - https://www.linkedin.com/in/colin-wellenkamp-063bb77
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-steinmetz-connie
+  openstates_id: ocd-person/a4d25b21-09c7-49d8-aaca-a07a18dad245
+  full_name: Connie Steinmetz
+  office_title: State Representative
+  chamber: house
+  district: "87"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Connie_Steinmetz.jpg
+  phone: ""
+  email: connie.steinmetz@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=087
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Connie_Steinmetz
+  - https://house.mo.gov/MemberDetails.aspx?district=087
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=087
+  - https://www.linkedin.com/in/connie-steinmetz-0b631725
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-trent-curtis
+  openstates_id: ocd-person/c5e38dee-7f82-4795-a134-b984b6878458
+  full_name: Curtis Trent
+  office_title: State Senator
+  chamber: senate
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: curtis.trent@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/Senators/Member/20
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Curtis_Trent
+  - https://en.wikipedia.org/wiki/Curtis_Trent
+  - https://justfacts.votesmart.org/candidate/biography/169927/curtis-trent
+  - https://www.linkedin.com/in/curtis-trent-a75a6629
+  - https://www.senate.mo.gov/Senators/Member/20
+  - https://www.senate.mo.gov/Senators/Member?id=275
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-wright-dale
+  openstates_id: ocd-person/616dd247-4438-44de-97b4-cd3a5a3e554d
+  full_name: Dale Wright
+  office_title: State Representative
+  chamber: house
+  district: "116"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2095
+  phone: ""
+  email: dale.wright@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=116
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dale_Wright
+  - https://en.wikipedia.org/wiki/Dale_Wright_(politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=116
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=116
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=116
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183318/dale-wright
+  - https://www.house.mo.gov/MemberDetails.aspx?district=116
+  - https://www.linkedin.com/in/dale-wright-b5903619
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-diehl-dane
+  openstates_id: ocd-person/0f4f5a2e-bc86-4c2a-9ab1-041d1c844283
+  full_name: Dane Diehl
+  office_title: State Representative
+  chamber: house
+  district: "125"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2370
+  phone: ""
+  email: dane.diehl@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=125
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dane_Diehl
+  - https://en.wikipedia.org/wiki/Dane_Diehl
+  - https://house.mo.gov/MemberDetails.aspx?district=125
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=125
+  - https://justfacts.votesmart.org/candidate/biography/205796/dane-diehl
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-busick-danny
+  openstates_id: ocd-person/ace530aa-6fbb-40a0-b91e-94820a287b2e
+  full_name: Danny Busick
+  office_title: State Representative
+  chamber: house
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2069
+  phone: ""
+  email: danny.busick@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=003
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Danny_Busick
+  - https://en.wikipedia.org/wiki/Danny_Busick
+  - https://house.mo.gov/MemberDetails.aspx?district=003
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=003
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=003
+  - https://house.mo.gov/MemberDetails.aspx?year=2024&code=R&district=003
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/89783/danny-busick
+  - https://www.house.mo.gov/MemberDetails.aspx?district=3
+  - https://www.linkedin.com/in/busick-danny-36365746
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-chappell-darin
+  openstates_id: ocd-person/1cd15a85-b074-4d67-8fcd-1cbccfc924f4
+  full_name: Darin Chappell
+  office_title: State Representative
+  chamber: house
+  district: "137"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2362
+  phone: ""
+  email: darin.chappell@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=137
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Darin_Chappell
+  - https://house.mo.gov/MemberDetails.aspx?district=137
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=137
+  - https://justfacts.votesmart.org/candidate/biography/124763/darin-chappell
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-griffith-dave
+  openstates_id: ocd-person/841b8b5c-a701-43c0-bb81-8e9515e61ea0
+  full_name: Dave Griffith
+  office_title: State Representative
+  chamber: house
+  district: "60"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2052
+  phone: ""
+  email: dave.griffith@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=060
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dave_Griffith
+  - https://en.wikipedia.org/wiki/Dave_Griffith
+  - https://house.mo.gov/MemberDetails.aspx?district=060
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=060
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=060
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/132545/dave-griffith
+  - https://www.house.mo.gov/MemberDetails.aspx?district=60
+  - https://www.linkedin.com/in/griffith-david-72b5976b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-hinman-dave
+  openstates_id: ocd-person/49609474-e343-4c1d-8e6b-677f31c228b7
+  full_name: Dave Hinman
+  office_title: State Representative
+  chamber: house
+  district: "103"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2357
+  phone: ""
+  email: dave.hinman@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?\district=103
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dave_Hinman
+  - https://en.wikipedia.org/wiki/Dave_Hinman
+  - https://house.mo.gov/MemberDetails.aspx?\district=103
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=103
+  - https://justfacts.votesmart.org/candidate/biography/159907/dave-hinman
+  - https://www.linkedin.com/in/dave-hinman-010a5029b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-casteel-david
+  openstates_id: ocd-person/6db49039-f2b0-42ea-990d-92ffef2494c3
+  full_name: David Casteel
+  office_title: State Representative
+  chamber: house
+  district: "97"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2383
+  phone: ""
+  email: david.casteel@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=097
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Casteel
+  - https://house.mo.gov/MemberDetails.aspx?district=097
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=097
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=97
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=097
+  - https://justfacts.votesmart.org/candidate/biography/205762/david-casteel
+  - https://www.linkedin.com/in/david-casteel-a1444048
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-dolan-david
+  openstates_id: ocd-person/3055e426-4c34-404c-b286-820e978cb05c
+  full_name: David Dolan
+  office_title: State Representative
+  chamber: house
+  district: "148"
+  party: Republican
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/167282.jpg
+  phone: ""
+  email: david.dolan@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=148
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_A._Dolan
+  - https://house.mo.gov/MemberDetails.aspx?district=148
+  - https://justfacts.votesmart.org/candidate/biography/217772/david-dolan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-gregory-david
+  openstates_id: ocd-person/2f4b4782-bc17-40fd-88b7-53840c68ee3a
+  full_name: David Gregory
+  office_title: State Senator
+  chamber: senate
+  district: "15"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=1943
+  phone: ""
+  email: david.gregory@senate.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=096
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_Gregory
+  - https://en.wikipedia.org/wiki/David_Gregory_(politician)
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=096
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://senate.mo.gov/Senators/Member/15
+  - https://www.house.mo.gov/MemberDetails.aspx?district=96
+  - https://www.linkedin.com/in/david-gregory-86ab511aa
+  - https://www.senate.mo.gov/Senators/Member?id=6371
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-smith-david
+  openstates_id: ocd-person/c509449e-070c-462c-810e-f14315c9df42
+  full_name: David Smith
+  office_title: State Representative
+  chamber: house
+  district: "46"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2290
+  phone: ""
+  email: david.smith@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=046
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/David_T._Smith_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?district=046
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=046
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-vanschoiack-dean
+  openstates_id: ocd-person/f3250139-5c42-40d9-b535-2e7137f83f1e
+  full_name: Dean VanSchoiack
+  office_title: State Representative
+  chamber: house
+  district: "9"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2243
+  phone: ""
+  email: dean.vanschoiack@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=9
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dean_VanSchoiack
+  - https://deanvan.com
+  - https://en.wikipedia.org/wiki/Dean_Van_Schoiack
+  - https://house.mo.gov/MemberDetails.aspx?district=9
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=009
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=009
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=9
+  - https://justfacts.votesmart.org/candidate/biography/193267/dean-vanschoiack
+  - https://www.linkedin.com/in/dean-vanschoiack-6b55742b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-self-deanna
+  openstates_id: ocd-person/b24e59bc-bc91-456f-9b96-bd1f501c1d49
+  full_name: Deanna Self
+  office_title: State Representative
+  chamber: house
+  district: "64"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/DeannaSelf.jpg
+  phone: ""
+  email: deanna.self@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=064
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Deanna_Self
+  - https://house.mo.gov/MemberDetails.aspx?&district=064
+  - https://justfacts.votesmart.org/candidate/biography/205738/deanna-self
+  - https://www.linkedin.com/in/deannaself
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-taylor-del
+  openstates_id: ocd-person/4a6e4da5-0cbd-4033-89a3-5bd749b37108
+  full_name: Del Taylor
+  office_title: State Representative
+  chamber: house
+  district: "84"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2400
+  phone: ""
+  email: del.taylor@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=084
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Del_Taylor
+  - https://house.mo.gov/MemberDetails.aspx?district=084
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=084
+  - https://www.linkedin.com/in/delbret-taylor-27b02152
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-deaton-dirk
+  openstates_id: ocd-person/914b9a95-6dd2-4d1d-8dc4-eed597b02e53
+  full_name: Dirk Deaton
+  office_title: State Representative
+  chamber: house
+  district: "159"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2090
+  phone: ""
+  email: dirk.deaton@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=159
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Dirk_Deaton
+  - https://en.wikipedia.org/wiki/Dirk_Deaton
+  - https://house.mo.gov/MemberDetails.aspx?district=159
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=159
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=159
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183481/dirk-deaton
+  - https://www.house.mo.gov/MemberDetails.aspx?district=159
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-mayhew-don
+  openstates_id: ocd-person/af64f0a2-f3ff-4c6d-b24f-62c3941d1da4
+  full_name: Don Mayhew
+  office_title: State Representative
+  chamber: house
+  district: "124"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2082
+  phone: ""
+  email: don.mayhew@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=124
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Don_Mayhew_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?district=124
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=121
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=124
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183326/don-mayhew
+  - https://www.house.mo.gov/MemberDetails.aspx?district=121
+  - https://www.linkedin.com/in/donald-mayhew-ab383a2b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-barnes-donna
+  openstates_id: ocd-person/fb57ce9b-bd82-4f93-8774-2cfef191289a
+  full_name: Donna Barnes
+  office_title: State Representative
+  chamber: house
+  district: "28"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: donna.barnes@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=028
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Donna_Barnes_(Missouri)
+  - https://en.wikipedia.org/wiki/Donna_Barnes
+  - https://house.mo.gov/MemberDetails.aspx?district=028
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=028
+  - https://justfacts.votesmart.org/candidate/biography/216993/donna-barnes
+  - https://www.linkedin.com/in/donna-sims-barnes-146b5874
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-beck-doug
+  openstates_id: ocd-person/f6f3c354-c65e-4d9a-a713-5fce1ad2c403
+  full_name: Doug Beck
+  office_title: State Senator
+  chamber: senate
+  district: "1"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Beck2021-683x1024.jpg
+  phone: ""
+  email: doug.beck@senate.mo.gov
+  address: ""
+  official_website: https://www.house.mo.gov/MemberDetails.aspx?district=92
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Doug_Beck
+  - https://en.wikipedia.org/wiki/Doug_Beck
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/175849/doug-beck
+  - https://www.house.mo.gov/MemberDetails.aspx?district=92
+  - https://www.linkedin.com/in/doug-beck-ab3993153
+  - https://www.senate.mo.gov/mem01
+  - https://www.senate.mo.gov/mem01/
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/01
+  - https://www.senate.mo.gov/Senators/Member?id=3
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-clemens-doug
+  openstates_id: ocd-person/c2ccbec5-9ad2-4210-9029-3c9968b72d2f
+  full_name: Doug Clemens
+  office_title: State Representative
+  chamber: house
+  district: "72"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2060
+  phone: ""
+  email: doug.clemens@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=072
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Doug_Clemens
+  - https://en.wikipedia.org/wiki/Doug_Clemens_(politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=072
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=072
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=072
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/124096/doug-clemens
+  - https://www.house.mo.gov/MemberDetails.aspx?district=72
+  - https://www.linkedin.com/in/douglas-clemens-120320a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-justus-doyle
+  openstates_id: ocd-person/f3eb420f-df97-4edf-b8c9-e0fa231c6860
+  full_name: Doyle Justus
+  office_title: State Representative
+  chamber: house
+  district: "41"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2364
+  phone: ""
+  email: doyle.justus@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=41
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Doyle_Justus
+  - https://en.wikipedia.org/wiki/Doyle_Justus
+  - https://house.mo.gov/MemberDetails.aspx?district=41
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=041
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=41
+  - https://justfacts.votesmart.org/candidate/biography/205708/doyle-justus
+  - https://www.linkedin.com/in/doyle-justus-8b7452113
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-lewis-ed
+  openstates_id: ocd-person/c53c50aa-49b2-415a-9a50-eb947daf3d7f
+  full_name: Ed Lewis
+  office_title: State Representative
+  chamber: house
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2244
+  phone: ""
+  email: ed.lewis@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=006
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ed_Lewis
+  - https://en.wikipedia.org/wiki/Ed_Lewis_(Missouri_politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=006
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=006
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=006
+  - https://justfacts.votesmart.org/candidate/biography/193261/ed-lewis
+  - https://www.linkedin.com/in/ed-lewis-b5377411a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-weber-emily
+  openstates_id: ocd-person/f7c7d32d-5d88-489a-9adf-76c9837b3272
+  full_name: Emily Weber
+  office_title: State Representative
+  chamber: house
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2246
+  phone: ""
+  email: emily.weber@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=024
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Emily_Weber
+  - https://house.mo.gov/MemberDetails.aspx?district=024
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=024
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=024
+  - https://www.linkedin.com/in/emily-weber-4877279
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-woods-eric
+  openstates_id: ocd-person/76bc7488-cc9e-4b47-91da-4557fb577ff5
+  full_name: Eric Woods
+  office_title: State Representative
+  chamber: house
+  district: "18"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2367
+  phone: ""
+  email: eric.woods@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=018
+  twitter: ""
+  source_urls:
+  - https://house.mo.gov/MemberDetails.aspx?district=018
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=018
+  - https://www.linkedin.com/in/eric-woods-13743549
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-hruza-george
+  openstates_id: ocd-person/5e3e358e-622b-462c-ba56-ea42bf7c1fc2
+  full_name: George Hruza
+  office_title: State Representative
+  chamber: house
+  district: "89"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/GeorgeHruza2023.jpg
+  phone: ""
+  email: george.hruza@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=089
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/George_Hruza
+  - https://en.wikipedia.org/wiki/George_J._Hruza
+  - https://house.mo.gov/MemberDetails.aspx?district=089
+  - https://www.linkedin.com/in/georgehruza
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-sharpe-greg
+  openstates_id: ocd-person/d6be1f75-f237-41ad-af36-a7d1c6e3a9c6
+  full_name: Greg Sharpe
+  office_title: State Representative
+  chamber: house
+  district: "4"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2086
+  phone: ""
+  email: greg.sharpe@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=004
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Greg_Sharpe
+  - https://house.mo.gov/MemberDetails.aspx?district=004
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=004
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=004
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://www.house.mo.gov/MemberDetails.aspx?district=4
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-bush-gregg
+  openstates_id: ocd-person/ec53a7aa-4a63-4c8f-8f74-8002d5c654e5
+  full_name: Gregg Bush
+  office_title: State Representative
+  chamber: house
+  district: "50"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/GreggBush24.jpeg
+  phone: ""
+  email: gregg.bush@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=050
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Gregg_Bush
+  - https://house.mo.gov/MemberDetails.aspx?district=050
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=050
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-billington-hardy
+  openstates_id: ocd-person/a9a55831-48ad-4f2e-b548-0b7652b2b681
+  full_name: Hardy Billington
+  office_title: State Representative
+  chamber: house
+  district: "152"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2058
+  phone: ""
+  email: hardy.billington@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=152
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Hardy_Billington
+  - https://en.wikipedia.org/wiki/Hardy_Billington
+  - https://house.mo.gov/MemberDetails.aspx?district=152
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=152
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=152
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/124784/hardy-billington
+  - https://www.house.mo.gov/MemberDetails.aspx?district=152
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-jones-holly
+  openstates_id: ocd-person/c47d84db-02de-4687-bd5b-c6dbc71cc8c4
+  full_name: Holly Jones
+  office_title: State Representative
+  chamber: house
+  district: "88"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2388
+  phone: ""
+  email: holly.jones@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=088
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Holly_Jones_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?district=088
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=088
+  - https://www.linkedin.com/in/holly-m-jones-61658018
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-mackey-ian
+  openstates_id: ocd-person/b93bdb73-001b-43ed-a436-99ad2efe4937
+  full_name: Ian Mackey
+  office_title: State Representative
+  chamber: house
+  district: "99"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2080
+  phone: ""
+  email: ian.mackey@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=099
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ian_Mackey
+  - https://house.mo.gov/MemberDetails.aspx?district=099
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=087
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=099
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183274/ian-mackey
+  - https://www.house.mo.gov/MemberDetails.aspx?district=87
+  - https://www.imackey.com/meet-ian
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-zimmermann-jaclyn
+  openstates_id: ocd-person/b7335950-e605-45b7-9c64-1e725315deca
+  full_name: Jaclyn Zimmermann
+  office_title: State Representative
+  chamber: house
+  district: "98"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JaclynZimmerman2024.JPG
+  phone: ""
+  email: jaclyn.zimmermann@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=098
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jaclyn_Zimmermann
+  - https://house.mo.gov/MemberDetails.aspx?district=098
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=098
+  - https://justfacts.votesmart.org/candidate/biography/217712/jaclyn-zimmermann
+  - https://www.linkedin.com/in/jaclyn-zimmermann-13a19522
+  - https://www.ponderzimmermann.com/lawyers/jaclyn-zimmermann
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-burger-jamie
+  openstates_id: ocd-person/87967de8-0f0d-45d5-9248-2767f9157d7b
+  full_name: Jamie Burger
+  office_title: State Senator
+  chamber: senate
+  district: "27"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2237
+  phone: ""
+  email: jamie.burger@senate.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=148
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jamie_Burger
+  - https://en.wikipedia.org/wiki/Jamie_Burger
+  - https://house.mo.gov/MemberDetails.aspx?district=148
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=148
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=148
+  - https://justfacts.votesmart.org/candidate/biography/89858/jamie-burger
+  - https://www.senate.mo.gov/Senators/Member/27
+  - https://www.senate.mo.gov/Senators/Member?id=6376
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-gragg-jamie
+  openstates_id: ocd-person/1235305e-980d-4eb8-8743-8d0d8a455c4e
+  full_name: Jamie Ray Gragg
+  office_title: State Representative
+  chamber: house
+  district: "140"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2386
+  phone: ""
+  email: jamieray.gragg@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=140
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jamie_Ray_Gragg
+  - https://house.mo.gov/MemberDetails.aspx?district=140
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=140
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-bean-jason
+  openstates_id: ocd-person/87d06121-1f5c-49ed-88dc-f5c70e88533e
+  full_name: Jason Bean
+  office_title: State Senator
+  chamber: senate
+  district: "25"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Bean-200x300.jpg
+  phone: ""
+  email: jason.bean@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/mem25
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jason_Bean
+  - https://en.wikipedia.org/wiki/Jason_Bean
+  - https://justfacts.votesmart.org/candidate/biography/193257/jason-bean
+  - https://www.senate.mo.gov/mem25
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/25
+  - https://www.senate.mo.gov/Senators/Member?id=2
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-coleman-jeff
+  openstates_id: ocd-person/100ec26e-d90f-4707-822c-db61c8f1b370
+  full_name: Jeff Coleman
+  office_title: State Representative
+  chamber: house
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2071
+  phone: ""
+  email: jeff.coleman@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=32
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Coleman
+  - https://house.mo.gov/MemberDetails.aspx?district=32
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=032
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=032
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=32
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183185/jeff-coleman
+  - https://www.house.mo.gov/MemberDetails.aspx?district=32
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-farnan-jeff
+  openstates_id: ocd-person/633fd335-98a2-42a7-acac-cb78eeca9a12
+  full_name: Jeff Farnan
+  office_title: State Representative
+  chamber: house
+  district: "1"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2354
+  phone: ""
+  email: jeff.farnan@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=1
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Farnan
+  - https://en.wikipedia.org/wiki/Jeff_Farnan
+  - https://house.mo.gov/MemberDetails.aspx?district=1
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=001
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=1
+  - https://justfacts.votesmart.org/candidate/biography/205673/jeff-farnan
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-hales-jeff
+  openstates_id: ocd-person/92aabb0f-94de-4d54-b4d0-23f09035d8a0
+  full_name: Jeff Hales
+  office_title: State Representative
+  chamber: house
+  district: "86"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: jeffrey.hales@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=086
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Hales
+  - https://en.wikipedia.org/wiki/Jeff_Hales
+  - https://house.mo.gov/MemberDetails.aspx?&district=086
+  - https://www.linkedin.com/in/jeffhalesjr
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-knight-jeff
+  openstates_id: ocd-person/fa6c1b05-02e8-4c6f-9a84-d1f58885ea04
+  full_name: Jeff Knight
+  office_title: State Representative
+  chamber: house
+  district: "142"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2020
+  phone: ""
+  email: jeff.knight@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=142
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Knight
+  - https://en.wikipedia.org/wiki/Jeff_Knight_(politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=142
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=129
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=142
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/177254/jeff-knight
+  - https://www.house.mo.gov/MemberDetails.aspx?district=129
+  - https://www.linkedin.com/in/jeff-knight-8154496b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-myers-jeff
+  openstates_id: ocd-person/acd99a81-de49-4ab0-9bb5-bb4fa72c02c5
+  full_name: Jeff Myers
+  office_title: State Representative
+  chamber: house
+  district: "42"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2392
+  phone: ""
+  email: jeff.myers@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=42
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Myers_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?district=42
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=042
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=42
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-vernetti-jeff
+  openstates_id: ocd-person/0b281a28-10f1-496b-aa00-29e59a57d253
+  full_name: Jeff Vernetti
+  office_title: State Representative
+  chamber: house
+  district: "123"
+  party: Republican
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/166122.jpg
+  phone: ""
+  email: jeff.vernetti@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/memberdetails.aspx?district=123
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeff_Vernetti
+  - https://en.wikipedia.org/wiki/Jeff_Vernetti
+  - https://house.mo.gov/memberdetails.aspx?district=123
+  - https://justfacts.votesmart.org/candidate/biography/217743/jeff-vernetti
+  - https://www.linkedin.com/in/jeff-vernetti-08950467
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-dean-jeremy
+  openstates_id: ocd-person/98bc3ac1-1f5d-4a1c-bac8-356dfbbfa875
+  full_name: Jeremy Dean
+  office_title: State Representative
+  chamber: house
+  district: "132"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jeremy_Dean_20240911_121645.jpg
+  phone: ""
+  email: jeremy.dean@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=132
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jeremy_Dean
+  - https://house.mo.gov/MemberDetails.aspx?district=132
+  - https://www.linkedin.com/in/jeremy-dean-308199172
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-carter-jill
+  openstates_id: ocd-person/29fe2ddb-6025-4e60-942d-fd0880ebad5b
+  full_name: Jill Carter
+  office_title: State Senator
+  chamber: senate
+  district: "32"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: jill.carter@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/Senators/Member/32/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jill_Carter_(Missouri)
+  - https://en.wikipedia.org/wiki/Jill_Carter_(politician)
+  - https://www.senate.mo.gov/Senators/Member/32
+  - https://www.senate.mo.gov/Senators/Member?id=273
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-kalberloh-jim
+  openstates_id: ocd-person/49c68d0e-cf5d-4b46-9890-c887a428929e
+  full_name: Jim Kalberloh
+  office_title: State Representative
+  chamber: house
+  district: "126"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2229
+  phone: ""
+  email: jim.kalberloh@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=126
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jim_Kalberloh
+  - https://en.wikipedia.org/wiki/Jim_Kalberloh
+  - https://house.mo.gov/MemberDetails.aspx?district=126
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=125
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=126
+  - https://justfacts.votesmart.org/candidate/193389/jim-kalberloh
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-murphy-jim
+  openstates_id: ocd-person/06e17e6f-a17c-4654-9ead-d0aa98a95110
+  full_name: Jim Murphy
+  office_title: State Representative
+  chamber: house
+  district: "94"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2063
+  phone: ""
+  email: jim.murphy@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=094
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jim_Murphy_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?district=094
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=094
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=094
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://www.house.mo.gov/MemberDetails.aspx?district=94
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-schulte-jim
+  openstates_id: ocd-person/9814247b-44fc-473f-b770-a44c77292d77
+  full_name: Jim Schulte
+  office_title: State Representative
+  chamber: house
+  district: "49"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2397
+  phone: ""
+  email: jim.schulte@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=049
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jim_Schulte
+  - https://house.mo.gov/MemberDetails.aspx?district=049
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=049
+  - https://justfacts.votesmart.org/candidate/biography/205720/jim-schulte
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-doll-jo
+  openstates_id: ocd-person/0f113187-3958-449e-9c4e-3e81390c1dd4
+  full_name: Jo Doll
+  office_title: State Representative
+  chamber: house
+  district: "91"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2224
+  phone: ""
+  email: jo.doll@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=091
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jo_Doll
+  - https://house.mo.gov/MemberDetails.aspx?district=091
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=083
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=091
+  - https://justfacts.votesmart.org/candidate/biography/193352/jo-doll
+  - https://www.linkedin.com/in/jo-doll-65408516
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-nicola-joe
+  openstates_id: ocd-person/a93088fa-ad80-49de-aa94-d03da0add0bc
+  full_name: Joe Nicola
+  office_title: State Senator
+  chamber: senate
+  district: "11"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JoeNicola2023.jpeg
+  phone: ""
+  email: joe.nicola@senate.mo.gov
+  address: ""
+  official_website: https://senatorjoenicola.com/
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Joe_Nicola
+  - https://en.wikipedia.org/wiki/Joe_Nicola
+  - https://justfacts.votesmart.org/candidate/biography/205650/joe-nicola
+  - https://senatorjoenicola.com
+  - https://www.linkedin.com/in/joe-nicola-b2a6017a
+  - https://www.senate.mo.gov/Senators/Member/11
+  - https://www.senate.mo.gov/Senators/Member?id=6370
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-black-john
+  openstates_id: ocd-person/1250ea3d-fe5c-46ea-bead-f7249d234e68
+  full_name: John Black
+  office_title: State Representative
+  chamber: house
+  district: "129"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2114
+  phone: ""
+  email: john.black@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=129
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Black_(Missouri)
+  - https://en.wikipedia.org/wiki/John_Black_(Missouri_politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=129
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=137
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=129
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183393/john-black
+  - https://www.house.mo.gov/MemberDetails.aspx?district=137
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-hewkin-john
+  openstates_id: ocd-person/5fae2678-d379-4ef0-9481-0f78f544d0c4
+  full_name: John Hewkin
+  office_title: State Representative
+  chamber: house
+  district: "120"
+  party: Republican
+  status: active
+  photo_url: https://dailyjournalonline.com/wp-content/uploads/2023/09/Hewkin-1.jpeg
+  phone: ""
+  email: john.hewkin@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=120
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Hewkin
+  - https://house.mo.gov/MemberDetails.aspx?district=120
+  - https://justfacts.votesmart.org/candidate/biography/217739/john-hewkin
+  - https://www.linkedin.com/in/john-hewkin-7689aa122
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-martin-john
+  openstates_id: ocd-person/6e5b11bc-fc9c-4822-9a82-1a5a59771c00
+  full_name: John Martin
+  office_title: State Representative
+  chamber: house
+  district: "44"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/5e062e_e41671d0d6714f5cb9bbb25925e34d15~mv2.jpg/v1/crop/x_172,y_24,w_1449,h_1427/fill/w_397,h_391,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/DSC_6591%20copy%20(1)_edited.jpg
+  phone: ""
+  email: john.martin@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=044
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Martin_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?&district=044
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-simmons-john
+  openstates_id: ocd-person/3de9f0e2-7062-4363-91d0-c3f17084ced4
+  full_name: John Simmons
+  office_title: State Representative
+  chamber: house
+  district: "109"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2097
+  phone: ""
+  email: john.simmons@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=109
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Simmons_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?district=109
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=109
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://www.house.mo.gov/MemberDetails.aspx?district=109
+  - https://www.linkedin.com/in/john-simmons-5b60b0162
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-voss-john
+  openstates_id: ocd-person/709dba3b-3a48-4429-94e7-fada7faa0d90
+  full_name: John Voss
+  office_title: State Representative
+  chamber: house
+  district: "147"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2355
+  phone: ""
+  email: john.voss@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=147
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/John_Voss
+  - https://en.wikipedia.org/wiki/John_Voss_(politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=147
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=147
+  - https://justfacts.votesmart.org/candidate/biography/73468/john-voss
+  - https://www.linkedin.com/in/john-voss-47176b5
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-patterson-jon
+  openstates_id: ocd-person/419c30c0-b3f2-4d4b-a2f1-ee08050e845b
+  full_name: Jon Patterson
+  office_title: State Representative
+  chamber: house
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2075
+  phone: ""
+  email: jonathan.patterson@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=030
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Jon_Patterson
+  - https://en.wikipedia.org/wiki/Jonathan_Patterson
+  - https://house.mo.gov/MemberDetails.aspx?district=030
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=030
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=030
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183179/jon-patterson
+  - https://www.house.mo.gov/MemberDetails.aspx?district=30
+  - https://www.linkedin.com/in/jonathan-patterson-m-d-6b24613b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-hurlbert-josh
+  openstates_id: ocd-person/1da3a25b-64fa-48d4-8441-e1dca4526f7f
+  full_name: Josh Hurlbert
+  office_title: State Representative
+  chamber: house
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2242
+  phone: ""
+  email: josh.hurlbert@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=008
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Josh_Hurlbert
+  - https://en.wikipedia.org/wiki/Josh_Hurlbert
+  - https://house.mo.gov/MemberDetails.aspx?district=008
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=008
+  - https://justfacts.votesmart.org/candidate/biography/139140/josh-hurlbert
+  - https://www.linkedin.com/in/josh-hurlbert-74348439
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-brown-justin
+  openstates_id: ocd-person/867469f6-f988-49ec-be8c-4a065db3f223
+  full_name: Justin Brown
+  office_title: State Senator
+  chamber: senate
+  district: "16"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mo.gov/19web/wp-content/uploads/2019/09/Brown2019-200x300.jpg
+  phone: ""
+  email: justin.brown@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/mem16
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Justin_Brown_(Missouri)
+  - https://en.wikipedia.org/wiki/Justin_Brown_(politician)
+  - https://justfacts.votesmart.org/candidate/biography/183127/justin-brown
+  - https://www.senate.mo.gov/mem16
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/16
+  - https://www.senate.mo.gov/Senators/Member?id=6
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-may-karla
+  openstates_id: ocd-person/fbeafead-44b9-4f08-9854-ad516fb6c838
+  full_name: Karla May
+  office_title: State Senator
+  chamber: senate
+  district: "4"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.mo.gov/19web/wp-content/uploads/2019/01/KarlaMay-200x300.jpg
+  phone: ""
+  email: karla.may@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/mem04
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Karla_May
+  - https://en.wikipedia.org/wiki/Karla_May
+  - https://justfacts.votesmart.org/candidate/biography/66328/karla-may
+  - https://www.linkedin.com/in/karla-may-00b754123
+  - https://www.senate.mo.gov/mem04
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/04
+  - https://www.senate.mo.gov/Senators/Member?id=18
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-steinhoff-kathy
+  openstates_id: ocd-person/6ee52a1a-7c1b-4ebb-ac4f-8602d03b2034
+  full_name: Kathy Steinhoff
+  office_title: State Representative
+  chamber: house
+  district: "45"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2361
+  phone: ""
+  email: kathy.steinhoff@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=045
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kathy_Steinhoff
+  - https://ballotpedia.org/Mary_Steinhoff
+  - https://house.mo.gov/MemberDetails.aspx?district=045
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=045
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-elliott-keith
+  openstates_id: ocd-person/31ee0443-77bc-415d-9774-d09dee750243
+  full_name: Keith Elliott
+  office_title: State Representative
+  chamber: house
+  district: "153"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: keith.elliot@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=153
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Keith_Elliott
+  - https://house.mo.gov/MemberDetails.aspx?district=153
+  - https://justfacts.votesmart.org/candidate/biography/217777/keith-elliott
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-smith-kem
+  openstates_id: ocd-person/e4b24233-89d2-41eb-b360-ae297e3385ba
+  full_name: Kem Smith
+  office_title: State Representative
+  chamber: house
+  district: "68"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/KemSmith2024.jpg
+  phone: ""
+  email: kem.smith@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=068
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kem_Smith
+  - https://house.mo.gov/MemberDetails.aspx?district=068
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=068
+  - https://www.linkedin.com/in/drkem-smith-54257935
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-strickler-kemp
+  openstates_id: ocd-person/c140221e-dfad-45d7-9371-faf3cc12ff17
+  full_name: Kemp Strickler
+  office_title: State Representative
+  chamber: house
+  district: "34"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2358
+  phone: ""
+  email: kemp.strickler@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=034
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kemp_Strickler
+  - https://house.mo.gov/MemberDetails.aspx?district=034
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=034
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=34
+  - https://house.mo.gov/MemberDetails.aspx?year=2024&code=R&district=034
+  - https://www.linkedin.com/in/kemp-strickler
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-jamison-ken
+  openstates_id: ocd-person/34a05fb9-bb36-416e-ada9-6be70b48b6b2
+  full_name: Ken Jamison
+  office_title: State Representative
+  chamber: house
+  district: "15"
+  party: Democratic
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/167307.jpg
+  phone: ""
+  email: ken.jamison@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=015
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kenneth_Jamison
+  - https://house.mo.gov/MemberDetails.aspx?&district=015
+  - https://www.linkedin.com/in/kenneth-jamison-08132142
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-haden-kent
+  openstates_id: ocd-person/96d0d8da-dcff-4f59-b051-e0da15584b7b
+  full_name: Kent Haden
+  office_title: State Representative
+  chamber: house
+  district: "43"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2076
+  phone: ""
+  email: kent.haden@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=43
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kent_Haden
+  - https://en.wikipedia.org/wiki/Kent_Haden
+  - https://house.mo.gov/MemberDetails.aspx?district=43
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=043
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=043
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=43
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183213/kent-haden
+  - https://www.house.mo.gov/MemberDetails.aspx?district=43
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-ingle-keri
+  openstates_id: ocd-person/7f91f845-d612-45d2-bc08-421c4e91357a
+  full_name: Keri Ingle
+  office_title: State Representative
+  chamber: house
+  district: "35"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2134
+  phone: ""
+  email: keri.ingle@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=35
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Keri_Ingle
+  - https://en.wikipedia.org/wiki/Keri_Ingle
+  - https://house.mo.gov/MemberDetails.aspx?district=35
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=035
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=035
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=35
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183204/keri-ingle
+  - https://www.house.mo.gov/MemberDetails.aspx?district=35
+  - https://www.keriingle.com/meet-keri
+  - https://www.linkedin.com/in/keri-ingle-lmsw-b849bb138
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-collins-kimberlyann
+  openstates_id: ocd-person/6b417baa-36e5-4928-bb3d-b6b8f2cc95dd
+  full_name: Kimberly-Ann Collins
+  office_title: State Representative
+  chamber: house
+  district: "77"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2277
+  phone: ""
+  email: kimberlyann.collins@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=077
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kimberly-Ann_Collins
+  - https://house.mo.gov/MemberDetails.aspx?district=077
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=077
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=077
+  - https://justfacts.votesmart.org/candidate/biography/183258/kimberly-ann-collins
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-gregory-kurtis
+  openstates_id: ocd-person/1ab01adf-962d-47ac-977c-2cf25712f583
+  full_name: Kurtis Gregory
+  office_title: State Senator
+  chamber: senate
+  district: "21"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2218
+  phone: ""
+  email: kurtis.gregory@senate.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=051
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Kurtis_Gregory
+  - https://en.wikipedia.org/wiki/Kurtis_Gregory
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=051
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=051
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=51
+  - https://justfacts.votesmart.org/candidate/biography/193322/kurtis-gregory
+  - https://www.senate.mo.gov/Senators/Member/21
+  - https://www.senate.mo.gov/Senators/Member?id=6374
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-appelbaum-ladonna
+  openstates_id: ocd-person/6c3609dd-62d2-4030-9b24-7b5d49a16677
+  full_name: LaDonna Appelbaum
+  office_title: State Representative
+  chamber: house
+  district: "71"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2057
+  phone: ""
+  email: ladonna.appelbaum@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=071
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/LaDonna_Appelbaum
+  - https://en.wikipedia.org/wiki/LaDonna_Appelbaum
+  - https://house.mo.gov/MemberDetails.aspx?district=071
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=071
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=071
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183247/ladonna-appelbaum
+  - https://www.house.mo.gov/MemberDetails.aspx?district=71
+  - https://www.linkedin.com/in/ladonna-appelbaum-a2152875
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-bosley-lakeysha
+  openstates_id: ocd-person/24c9a1f1-0023-4733-aa18-80f252645723
+  full_name: LaKeySha Bosley
+  office_title: State Representative
+  chamber: house
+  district: "79"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2133
+  phone: ""
+  email: lakeysha.bosley@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=079
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/LaKeySha_Bosley
+  - https://en.wikipedia.org/wiki/LaKeySha_Frazier-Bosley
+  - https://house.mo.gov/MemberDetails.aspx?district=079
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=079
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=079
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://www.house.mo.gov/MemberDetails.aspx?district=79
+  - https://www.linkedin.com/in/lakeysha-frazier-bosley-a0209165
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-roberts-lane
+  openstates_id: ocd-person/56f5920f-46d9-4991-b029-5984b80cd7ff
+  full_name: Lane Roberts
+  office_title: State Representative
+  chamber: house
+  district: "161"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2092
+  phone: ""
+  email: lane.roberts@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=161
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lane_Roberts
+  - https://en.wikipedia.org/wiki/Lane_Roberts
+  - https://house.mo.gov/MemberDetails.aspx?district=161
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=161
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=161
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183493/lane-roberts
+  - https://www.house.mo.gov/MemberDetails.aspx?district=161
+  - https://www.lanejroberts.com/about-lane-roberts
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-fuchs-lilly
+  openstates_id: ocd-person/733d6ca4-9be3-4541-bcc9-75b7431cfc39
+  full_name: Lilly Fuchs
+  office_title: State Representative
+  chamber: house
+  district: "80"
+  party: Democratic
+  status: active
+  photo_url: https://victoryfund.org/wp-content/uploads/2024/08/Capital-Photos-Arm-on-hip-at-pillar-full-body-scaled-e1724799705880-500x500-250x250.jpg
+  phone: ""
+  email: elizabeth.fuchs@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=080
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Elizabeth_Fuchs
+  - https://house.mo.gov/MemberDetails.aspx?district=080
+  - https://justfacts.votesmart.org/candidate/biography/217695/elizabeth-fuchs
+  - https://www.linkedin.com/in/elizabeth-fuchs-msw-8b31226a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-hough-lincoln
+  openstates_id: ocd-person/934fdfca-5cdf-4c67-a3b0-b23e433f87f6
+  full_name: Lincoln Hough
+  office_title: State Senator
+  chamber: senate
+  district: "30"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mo.gov/19web/wp-content/uploads/2019/10/Hough-200x300.jpg
+  phone: ""
+  email: lincoln.hough@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/mem30
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lincoln_Hough
+  - https://en.wikipedia.org/wiki/Lincoln_Hough
+  - https://justfacts.votesmart.org/candidate/biography/124803/lincoln-hough
+  - https://www.senate.mo.gov/mem30
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/30
+  - https://www.senate.mo.gov/Senators/Member?id=15
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-durnell-lisa
+  openstates_id: ocd-person/5f182358-80ec-4463-a8b0-2dd660ac97ab
+  full_name: Lisa Durnell
+  office_title: State Representative
+  chamber: house
+  district: "154"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: lisa.durnell@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=154
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Lisa_Durnell
+  - https://house.mo.gov/MemberDetails.aspx?&district=154
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-riggs-louis
+  openstates_id: ocd-person/9a78c55e-0f06-4dd9-b86e-287db7332d98
+  full_name: Louis Riggs
+  office_title: State Representative
+  chamber: house
+  district: "5"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2094
+  phone: ""
+  email: louis.riggs@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=005
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Louis_Riggs
+  - https://house.mo.gov/MemberDetails.aspx?district=005
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=005
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=005
+  - https://house.mo.gov/MemberDetails.aspx?year=2024&code=R&district=005
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/39898/louis-riggs
+  - https://louisriggs.com
+  - https://www.house.mo.gov/MemberDetails.aspx?district=5
+  - https://www.linkedin.com/in/louis-riggs-9840686
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-nurrenbern-maggie
+  openstates_id: ocd-person/d8594030-4826-48c5-af43-674470f1dd44
+  full_name: Maggie Nurrenbern
+  office_title: State Senator
+  chamber: senate
+  district: "17"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2211
+  phone: ""
+  email: maggie.nurrenbern@senate.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=015
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Maggie_Nurrenbern
+  - https://en.wikipedia.org/wiki/Maggie_Nurrenbern
+  - https://house.mo.gov/MemberDetails.aspx?district=015
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=015
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=015
+  - https://justfacts.votesmart.org/candidate/193270/maggie-nurrenbern
+  - https://www.linkedin.com/in/maggie-nurrenbern-2730ab2bb
+  - https://www.senate.mo.gov/Senators/Member/17
+  - https://www.senate.mo.gov/Senators/Member?id=6372
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-boyko-mark
+  openstates_id: ocd-person/3a6ee726-1e30-4f9a-82cc-af57163e571b
+  full_name: Mark Boyko
+  office_title: State Representative
+  chamber: house
+  district: "90"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Mark_Boyko.jpg
+  phone: ""
+  email: mark.boyko@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=090
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Boyko
+  - https://house.mo.gov/MemberDetails.aspx?district=090
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=090
+  - https://justfacts.votesmart.org/candidate/biography/169717/mark-boyko
+  - https://www.baileyglasser.com/lawyers-mark-g-boyko
+  - https://www.linkedin.com/in/mark-boyko
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-matthiesen-mark
+  openstates_id: ocd-person/661f49f4-e075-491e-aad8-4dde65ecb6df
+  full_name: Mark Matthiesen
+  office_title: State Representative
+  chamber: house
+  district: "107"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=1937
+  phone: ""
+  email: mark.matthiesen@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=107
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Matthiesen
+  - https://en.wikipedia.org/wiki/Mark_Matthiesen
+  - https://house.mo.gov/MemberDetails.aspx?district=107
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=107
+  - https://justfacts.votesmart.org/candidate/biography/169778/mark-matthiesen
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-meirath-mark
+  openstates_id: ocd-person/ba1cff78-9a39-4e6e-a998-c8dc324d7b80
+  full_name: Mark Meirath
+  office_title: State Representative
+  chamber: house
+  district: "39"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: mark.meirath@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=039
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Meirath
+  - https://house.mo.gov/MemberDetails.aspx?&district=039
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-nolte-mark
+  openstates_id: ocd-person/443938dd-c7a0-4061-890a-8bd4ec4a1924
+  full_name: Mark Nolte
+  office_title: State Representative
+  chamber: house
+  district: "51"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: mark.nolte@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=051
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Nolte
+  - https://house.mo.gov/MemberDetails.aspx?&district=051
+  - https://www.linkedin.com/in/mark-nolte-10405b2a2
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-sharp-mark
+  openstates_id: ocd-person/0fddc5af-b1f0-49ca-84d9-fc6458edf362
+  full_name: Mark Sharp
+  office_title: State Representative
+  chamber: house
+  district: "37"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2169
+  phone: ""
+  email: mark.sharp@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=37
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mark_Sharp
+  - https://house.mo.gov/MemberDetails.aspx?district=37
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=036
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=037
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=37
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://www.house.mo.gov/MemberDetails.aspx?district=36
+  - https://www.linkedin.com/in/mark-sharp-b7ba89180
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-smith-marla
+  openstates_id: ocd-person/56a68a64-7a44-4052-b5f2-e9f7c626e311
+  full_name: Marla Smith
+  office_title: State Representative
+  chamber: house
+  district: "74"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: marla.smith@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=074
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marla_Smith
+  - https://house.mo.gov/MemberDetails.aspx?&district=074
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-terry-marlene
+  openstates_id: ocd-person/47f4d77d-149c-410a-a324-067172efda3c
+  full_name: Marlene Terry
+  office_title: State Representative
+  chamber: house
+  district: "66"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2247
+  phone: ""
+  email: marlene.terry@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=066
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marlene_Terry
+  - https://house.mo.gov/MemberDetails.aspx?district=066
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=066
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=066
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-anderson-marlon
+  openstates_id: ocd-person/500e226f-ea79-4915-ab13-a11ab4d9e48e
+  full_name: Marlon Anderson
+  office_title: State Representative
+  chamber: house
+  district: "76"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2276
+  phone: ""
+  email: marlon.anderson@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=076
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marlon_Anderson
+  - https://en.wikipedia.org/wiki/Marlon_Anderson_(politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=076
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=076
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=076
+  - https://justfacts.votesmart.org/candidate/193348/marlon-anderson
+  - https://www.linkedin.com/in/marlon-anderson-esq-31230046
+  - https://www.marlonsandersonlawstl.com
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-jacobs-marty
+  openstates_id: ocd-person/e5a2f458-8afb-41b6-9bf0-79143ea24a25
+  full_name: Marty Jacobs
+  office_title: State Representative
+  chamber: house
+  district: "38"
+  party: Democratic
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/167306.jpg
+  phone: ""
+  email: martin.jacobs@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=038
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Martin_Jacobs
+  - https://house.mo.gov/MemberDetails.aspx?&district=038
+  - https://www.linkedin.com/in/martin-jacobs-aa596320
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-murray-marty
+  openstates_id: ocd-person/f36fd5fa-6d20-43d4-9555-ce4d2d472849
+  full_name: Marty Murray
+  office_title: State Representative
+  chamber: house
+  district: "78"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MartyMurray2024.jpg
+  phone: ""
+  email: marty.murray@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=078
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Marty_Joe_Murray
+  - https://house.mo.gov/MemberDetails.aspx?district=078
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=078
+  - https://www.linkedin.com/in/martymurrayjr
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-coleman-mary
+  openstates_id: ocd-person/f1d83642-4aa6-4fea-80f1-4c3f422c63ed
+  full_name: Mary Elizabeth Coleman
+  office_title: State Senator
+  chamber: senate
+  district: "22"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: maryelizabeth.coleman@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/Senators/Member/22
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mary_Coleman_(Missouri)
+  - https://en.wikipedia.org/wiki/Mary_Elizabeth_Coleman
+  - https://justfacts.votesmart.org/candidate/biography/183290/mary-coleman
+  - https://www.senate.mo.gov/Senators/Member/22
+  - https://www.senate.mo.gov/Senators/Member?id=272
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-overcast-matthew
+  openstates_id: ocd-person/c22f94cc-641f-4a45-a2a6-610f829e7c43
+  full_name: Matthew Overcast
+  office_title: State Representative
+  chamber: house
+  district: "155"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Matthew_Overcast23.jpeg
+  phone: ""
+  email: matthew.overcast@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=155
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Matthew_Overcast
+  - https://house.mo.gov/MemberDetails.aspx?district=155
+  - https://justfacts.votesmart.org/candidate/biography/217782/matthew-overcast
+  - https://www.linkedin.com/in/matthewovercast
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-christensen-mazzie
+  openstates_id: ocd-person/22e282f9-afbf-46b8-ac81-0780f5372d0d
+  full_name: Mazzie Christensen
+  office_title: State Representative
+  chamber: house
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2381
+  phone: ""
+  email: mazzie.christensen@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=002
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mazzie_Boyd
+  - https://en.wikipedia.org/wiki/Mazzie_Boyd
+  - https://house.mo.gov/MemberDetails.aspx?district=002
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=002
+  - https://www.linkedin.com/in/mazzie-boyd-07028215a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-stinnett-melanie
+  openstates_id: ocd-person/1df6dc2e-0d12-40d6-b368-4d0b3a19ef95
+  full_name: Melanie Stinnett
+  office_title: State Representative
+  chamber: house
+  district: "133"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2399
+  phone: ""
+  email: melanie.stinnett@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=133
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Melanie_Stinnett
+  - https://en.wikipedia.org/wiki/Melanie_Stinnett
+  - https://house.mo.gov/MemberDetails.aspx?district=133
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=133
+  - https://justfacts.votesmart.org/candidate/biography/205801/melanie-stinnett
+  - https://www.linkedin.com/in/melanie-stinnett-07264673
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-douglas-melissa
+  openstates_id: ocd-person/9815268f-50dc-451b-9bb2-b36f3c556ac4
+  full_name: Melissa Douglas
+  office_title: State Representative
+  chamber: house
+  district: "27"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: melissa.douglas@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=027
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Melissa_Douglas
+  - https://house.mo.gov/MemberDetails.aspx?&district=027
+  - https://www.linkedin.com/in/melissa-douglas-8421133a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-schmidt-melissa
+  openstates_id: ocd-person/7839a137-9de7-440a-bad8-20db1e0ead3b
+  full_name: Melissa Schmidt
+  office_title: State Representative
+  chamber: house
+  district: "141"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/530e0b_df591691a465401684e3625621398fd5~mv2.jpg/v1/fill/w_952,h_721,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/530e0b_df591691a465401684e3625621398fd5~mv2.jpg
+  phone: ""
+  email: melissa.schmidt@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=141
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Melissa_Schmidt_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?district=141
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=141
+  - https://www.linkedin.com/in/mdschmidt1
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-burton-michael
+  openstates_id: ocd-person/24dc0503-f4cf-48b1-afdf-e57157bafec3
+  full_name: Michael Burton
+  office_title: State Representative
+  chamber: house
+  district: "92"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2225
+  phone: ""
+  email: michael.burton@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=092
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Burton_(Missouri_House_candidate)
+  - https://house.mo.gov/MemberDetails.aspx?district=092
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=092
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=092
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-davis-michael
+  openstates_id: ocd-person/dc271660-9483-4b46-8c96-4794078b130f
+  full_name: Michael Davis
+  office_title: State Representative
+  chamber: house
+  district: "56"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2220
+  phone: ""
+  email: michael.davis@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=056
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Davis_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?district=056
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=056
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=056
+  - https://www.linkedin.com/in/michael-davis-69271582
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-johnson-michael
+  openstates_id: ocd-person/8014964b-117f-40a4-a466-ac597dd70983
+  full_name: Michael Johnson
+  office_title: State Representative
+  chamber: house
+  district: "23"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2255
+  phone: ""
+  email: michael.johnson@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=023
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Michael_Johnson_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?district=023
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=023
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=023
+  - https://www.linkedin.com/in/michael-johnson-56965015a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-bernskoetter-mike
+  openstates_id: ocd-person/8df40920-38e1-4892-aa6b-764467bf79b7
+  full_name: Mike Bernskoetter
+  office_title: State Senator
+  chamber: senate
+  district: "6"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mo.gov/19web/wp-content/uploads/2019/01/Bernskoetter-200x300.jpg
+  phone: ""
+  email: mike.bernskoetter@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/mem06
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Bernskoetter
+  - https://en.wikipedia.org/wiki/Mike_Bernskoetter
+  - https://justfacts.votesmart.org/candidate/biography/124589/mike-bernskoetter
+  - https://www.senate.mo.gov/mem06
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/06
+  - https://www.senate.mo.gov/Senators/Member?id=4
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-cierpiot-mike
+  openstates_id: ocd-person/70c04c22-b1a9-4c3c-96f9-36761e63f3f8
+  full_name: Mike Cierpiot
+  office_title: State Senator
+  chamber: senate
+  district: "8"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mo.gov/20web/wp-content/uploads/2020/01/Cierpiot2020-200x300.jpg
+  phone: ""
+  email: mike.cierpiot@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/mem08
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Cierpiot
+  - https://en.wikipedia.org/wiki/Mike_Cierpiot
+  - https://justfacts.votesmart.org/candidate/biography/123854/mike-cierpiot
+  - https://www.senate.mo.gov/mem08
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/08
+  - https://www.senate.mo.gov/Senators/Member?id=8
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-costlow-mike
+  openstates_id: ocd-person/c08a9151-fdfe-4da9-97c2-5536ed96f255
+  full_name: Mike Costlow
+  office_title: State Representative
+  chamber: house
+  district: "108"
+  party: Republican
+  status: active
+  photo_url: https://costlowformissouri.com/wp-content/uploads/2024/05/Headshot-No-Background-2.png
+  phone: ""
+  email: mike.costlow@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=108
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Costlow
+  - https://house.mo.gov/MemberDetails.aspx?district=108
+  - https://justfacts.votesmart.org/candidate/biography/217724/mike-costlow
+  - https://www.linkedin.com/in/mikecostlow2
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-henderson-mike
+  openstates_id: ocd-person/bfad4ef7-fad2-46e6-8f12-f8ea9feaa0cb
+  full_name: Mike Henderson
+  office_title: State Senator
+  chamber: senate
+  district: "3"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=1944
+  phone: ""
+  email: mike.henderson@senate.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=117
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Henderson
+  - https://en.wikipedia.org/wiki/Mike_Henderson_(politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=117
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=117
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=117
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/169897/mike-henderson
+  - https://www.house.mo.gov/MemberDetails.aspx?district=117
+  - https://www.linkedin.com/in/mike-henderson-96b74561
+  - https://www.senate.mo.gov/Senators/Member/03
+  - https://www.senate.mo.gov/Senators/Member?id=6368
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-jones-mike
+  openstates_id: ocd-person/8e0bb3e7-085b-471c-a588-a1de9b466706
+  full_name: Mike Jones
+  office_title: State Representative
+  chamber: house
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: https://static.wixstatic.com/media/c0c31e_a5630222da5c43efb8e8c52283f027da~mv2.jpg/v1/fill/w_473,h_549,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Michael-18%20(2)_edited.jpg
+  phone: ""
+  email: michael.jones@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=012
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Jones_(Missouri_State_House_District_12_candidate)
+  - https://house.mo.gov/MemberDetails.aspx?&district=012
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-mcgirl-mike
+  openstates_id: ocd-person/1a644e87-8691-4e86-af73-6a2af0f56c82
+  full_name: Mike McGirl
+  office_title: State Representative
+  chamber: house
+  district: "118"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2065
+  phone: ""
+  email: mike.mcgirl@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=118
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_McGirl
+  - https://house.mo.gov/MemberDetails.aspx?district=118
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=118
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=118
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/152724/michael-mcgirl
+  - https://www.house.mo.gov/MemberDetails.aspx?district=118
+  - https://www.linkedin.com/in/mike-mcgirl-4b829261
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-moon-mike
+  openstates_id: ocd-person/43563b48-1d26-4a85-bad2-615971201d41
+  full_name: Mike Moon
+  office_title: State Senator
+  chamber: senate
+  district: "29"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: mike.moon@senate.mo.gov
+  address: ""
+  official_website: https://www.house.mo.gov/MemberDetails.aspx?district=157
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Moon
+  - https://en.wikipedia.org/wiki/Mike_Moon_(politician)
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/123397/mike-moon
+  - https://www.house.mo.gov/MemberDetails.aspx?district=157
+  - https://www.linkedin.com/in/mike-moon-59875820
+  - https://www.senate.mo.gov/mem29
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/29
+  - https://www.senate.mo.gov/Senators/Member?id=19
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-steinmeyer-mike
+  openstates_id: ocd-person/df4d176b-2a0b-41be-977f-efa722d6a321
+  full_name: Mike Steinmeyer
+  office_title: State Representative
+  chamber: house
+  district: "20"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Mike_Steinmeyer_20241028_013139.jpeg
+  phone: ""
+  email: mike.steinmeyer@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=020
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mike_Steinmeyer
+  - https://house.mo.gov/MemberDetails.aspx?district=020
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=020
+  - https://justfacts.votesmart.org/candidate/biography/197071/michael-steinmeyer
+  - https://www.linkedin.com/in/michaelsteinmeyer
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-boggs-mitch
+  openstates_id: ocd-person/c5b24334-9dfa-4356-8aa2-8f91c2a3d692
+  full_name: Mitch Boggs
+  office_title: State Representative
+  chamber: house
+  district: "157"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2241
+  phone: ""
+  email: mitch.boggs@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=157
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Mitch_Boggs
+  - https://house.mo.gov/MemberDetails.aspx?district=157
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=157
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=157
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-kimble-nick
+  openstates_id: ocd-person/e6caa351-c418-431a-bf50-1bd16923ae49
+  full_name: Nick Kimble
+  office_title: State Representative
+  chamber: house
+  district: "82"
+  party: Democratic
+  status: active
+  photo_url: https://media.upballot.com/candidates/_250x250_crop_center-center_100_none/Nick-Kimble-Headshot.jpeg
+  phone: ""
+  email: nick.kimble@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=082
+  twitter: ""
+  source_urls:
+  - https://house.mo.gov/MemberDetails.aspx?district=082
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=082
+  - https://justfacts.votesmart.org/candidate/biography/217698/nick-kimble
+  - https://www.linkedin.com/in/nick-kimble-b754ab94
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-schroer-nick
+  openstates_id: ocd-person/ecbee637-2b07-4028-acb3-b82df2edb42a
+  full_name: Nick Schroer
+  office_title: State Senator
+  chamber: senate
+  district: "2"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: nick.schroer@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/Senators/Member/02
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Nick_Schroer
+  - https://en.wikipedia.org/wiki/Nick_Schroer
+  - https://justfacts.votesmart.org/candidate/169831/nick-schroer
+  - https://www.linkedin.com/in/nicholas-schroer-1946ba60
+  - https://www.senate.mo.gov/Senators/Member/02
+  - https://www.senate.mo.gov/Senators/Member?id=276
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-mansur-pattie
+  openstates_id: ocd-person/a0be4ce1-fdbd-47d2-a74c-aaee85644992
+  full_name: Pattie Mansur
+  office_title: State Representative
+  chamber: house
+  district: "25"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/PattieMansur2024.jpg
+  phone: ""
+  email: pattie.mansur@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=025
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patricia_Mansur
+  - https://house.mo.gov/MemberDetails.aspx?district=025
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=025
+  - https://www.linkedin.com/in/pattie-mansur-51a755a6
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-lewis-patty
+  openstates_id: ocd-person/618e91b0-663d-4095-9a38-eefab6304e5f
+  full_name: Patty Lewis
+  office_title: State Senator
+  chamber: senate
+  district: "7"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2213
+  phone: ""
+  email: patty.lewis@senate.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=025
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Patty_Lewis
+  - https://en.wikipedia.org/wiki/Patty_Lewis
+  - https://house.mo.gov/MemberDetails.aspx?district=025
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=025
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=025
+  - https://justfacts.votesmart.org/candidate/193297/patty-lewis
+  - https://www.senate.mo.gov/Senators/Member/07
+  - https://www.senate.mo.gov/Senators/Member?id=6369
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-mcgaugh-peggy
+  openstates_id: ocd-person/920c5b79-73a0-477b-a90d-1a290e48e014
+  full_name: Peggy McGaugh
+  office_title: State Representative
+  chamber: house
+  district: "7"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2019
+  phone: ""
+  email: peggy.mcgaugh@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=007
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Peggy_McGaugh
+  - https://house.mo.gov/MemberDetails.aspx?district=007
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=039
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=007
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/177250/peggy-mcgaugh
+  - https://www.house.mo.gov/MemberDetails.aspx?district=39
+  - https://www.linkedin.com/in/peggy-mcgaugh-32702650
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-amato-phil
+  openstates_id: ocd-person/1d96c354-2527-4449-9b40-36bb78fe2cb7
+  full_name: Phil Amato
+  office_title: State Representative
+  chamber: house
+  district: "113"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2378
+  phone: ""
+  email: phil.amato@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=113
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Phil_Amato
+  - https://en.wikipedia.org/wiki/Phil_Amato
+  - https://house.mo.gov/MemberDetails.aspx?district=113
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=113
+  - https://justfacts.votesmart.org/candidate/biography/183291/phil-amato
+  - https://www.linkedin.com/in/phil-amato-b48917137
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-oehlerking-philip
+  openstates_id: ocd-person/4d403f59-65f6-484f-9aeb-fe05380d4bcf
+  full_name: Philip Oehlerking
+  office_title: State Representative
+  chamber: house
+  district: "100"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2371
+  phone: ""
+  email: philip.oehlerking@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=100
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Philip_Oehlerking
+  - https://house.mo.gov/MemberDetails.aspx?district=100
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=100
+  - https://justfacts.votesmart.org/candidate/biography/169814/philip-oehlerking
+  - https://www.linkedin.com/in/philip-oehlerking-bb6423126
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-reed-ray
+  openstates_id: ocd-person/41f72deb-7981-4053-bb15-7eb3580b9ade
+  full_name: Ray Reed
+  office_title: State Representative
+  chamber: house
+  district: "83"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/May162022836PM_104500298_ReedForMissouriHeadshot.jpeg
+  phone: ""
+  email: ray.reed@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=083
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Raymond_Reed
+  - https://house.mo.gov/MemberDetails.aspx?district=083
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=083
+  - https://www.linkedin.com/in/raymondreed1113
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-proudie-raychel
+  openstates_id: ocd-person/e0d1f714-8603-40c6-8c3e-04934648caa4
+  full_name: Raychel Proudie
+  office_title: State Representative
+  chamber: house
+  district: "73"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2099
+  phone: ""
+  email: raychel.proudie@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=073
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Raychel_Proudie
+  - https://en.wikipedia.org/wiki/Raychel_Proudie
+  - https://house.mo.gov/MemberDetails.aspx?district=073
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=073
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=073
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183254/raychel-proudie
+  - https://www.house.mo.gov/MemberDetails.aspx?district=73
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-reuter-renee
+  openstates_id: ocd-person/64a3bd7d-7dc8-4ce6-bd30-6101b2b7926e
+  full_name: Renee Reuter
+  office_title: State Representative
+  chamber: house
+  district: "112"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2396
+  phone: ""
+  email: renee.reuter@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=112
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Renee_Reuter
+  - https://en.wikipedia.org/wiki/Renee_Reuter
+  - https://house.mo.gov/MemberDetails.aspx?district=112
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=112
+  - https://justfacts.votesmart.org/candidate/biography/132669/renee-reuter
+  - https://www.linkedin.com/in/reneemreuter
+  - https://www.reneereuter.info
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-west-richard
+  openstates_id: ocd-person/4209f53e-18f3-4c9e-8183-caa385c319ec
+  full_name: Richard West
+  office_title: State Representative
+  chamber: house
+  district: "102"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2245
+  phone: ""
+  email: richard.west@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=102
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Richard_West_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?district=102
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=063
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=102
+  - https://www.linkedin.com/in/richard-west-5b66956b
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-brattin-rick
+  openstates_id: ocd-person/e4811e7a-7df7-4275-917d-8bdcc2778fb1
+  full_name: Rick Brattin
+  office_title: State Senator
+  chamber: senate
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: rick.brattin@senate.mo.gov
+  address: ""
+  official_website: https://www.house.mo.gov/MemberDetails.aspx?district=55
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rick_Brattin
+  - https://en.wikipedia.org/wiki/Rick_Brattin
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/124815/rick-brattin-jr
+  - https://www.house.mo.gov/MemberDetails.aspx?district=55
+  - https://www.senate.mo.gov/mem31
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/31
+  - https://www.senate.mo.gov/Senators/Member?id=5
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-reedy-rodger
+  openstates_id: ocd-person/bd63f6e7-ed53-4a4c-98b6-925588710b0b
+  full_name: Rodger Reedy
+  office_title: State Representative
+  chamber: house
+  district: "57"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2096
+  phone: ""
+  email: rodger.reedy@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=057
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rodger_Reedy
+  - https://house.mo.gov/MemberDetails.aspx?district=057
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=057
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=057
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://www.house.mo.gov/MemberDetails.aspx?district=57
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-fowler-ron
+  openstates_id: ocd-person/7a66b805-a3a7-4440-b404-a562c1e00059
+  full_name: Ron Fowler
+  office_title: State Representative
+  chamber: house
+  district: "31"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: william.fowler@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=031
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Ron_Fowler_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?&district=031
+  - https://www.linkedin.com/in/ron-fowler-7aa78167
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-veit-rudy
+  openstates_id: ocd-person/fe941ee4-f34a-4685-873c-29adbb732b2c
+  full_name: Rudy Veit
+  office_title: State Representative
+  chamber: house
+  district: "59"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2078
+  phone: ""
+  email: rudy.veit@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=059
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rudy_Veit
+  - https://en.wikipedia.org/wiki/Rudy_Veit
+  - https://house.mo.gov/MemberDetails.aspx?district=059
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=059
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=059
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/183231/rudolph-veit
+  - https://www.house.mo.gov/MemberDetails.aspx?district=59
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-black-rusty
+  openstates_id: ocd-person/bb98b6a0-ba5f-45f8-ad14-b798515fa8a0
+  full_name: Rusty Black
+  office_title: State Senator
+  chamber: senate
+  district: "12"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: rusty.black@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/Senators/Member/12
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Rusty_Black
+  - https://en.wikipedia.org/wiki/Rusty_Black
+  - https://justfacts.votesmart.org/candidate/169725/rusty-black
+  - https://www.linkedin.com/in/rusty-black-40458953
+  - https://www.senate.mo.gov/Senators/Member/12
+  - https://www.senate.mo.gov/Senators/Member?id=270
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-crawford-sandy
+  openstates_id: ocd-person/4f194218-3d95-4f08-8963-7e3440fdb671
+  full_name: Sandy Crawford
+  office_title: State Senator
+  chamber: senate
+  district: "28"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mo.gov/19web/wp-content/uploads/2019/09/Crawford2019-200x300.jpg
+  phone: ""
+  email: sandy.crawford@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/mem28
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sandy_Crawford
+  - https://en.wikipedia.org/wiki/Sandy_Crawford
+  - https://justfacts.votesmart.org/candidate/biography/124820/sandy-crawford
+  - https://www.linkedin.com/in/sandy-crawford-7b913346
+  - https://www.senate.mo.gov/mem28
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/28
+  - https://www.senate.mo.gov/Senators/Member?id=9
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-cupps-scott
+  openstates_id: ocd-person/515b97f2-7c88-40e5-b127-04146435e50e
+  full_name: Scott Cupps
+  office_title: State Representative
+  chamber: house
+  district: "158"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2172
+  phone: ""
+  email: scott.cupps@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=158
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_Cupps
+  - https://en.wikipedia.org/wiki/Scott_Cupps
+  - https://house.mo.gov/MemberDetails.aspx?district=158
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=158
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=158
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://justfacts.votesmart.org/candidate/biography/186491/scott-cupps
+  - https://www.house.mo.gov/MemberDetails.aspx?district=158
+  - https://www.linkedin.com/in/scott-cupps-80ab1333
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-miller-scott
+  openstates_id: ocd-person/3e251c9a-ef4d-436d-9c10-9aa447b3fcbd
+  full_name: Scott Miller
+  office_title: State Representative
+  chamber: house
+  district: "69"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Scott_Miller_20240924_022629.png
+  phone: ""
+  email: scott.miller@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=069
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Scott_Miller_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?district=069
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=069
+  - https://www.linkedin.com/in/scottm2009
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-pouche-sean
+  openstates_id: ocd-person/e1a53185-3c84-4f82-87f0-09bd607cf2e7
+  full_name: Sean Pouche
+  office_title: State Representative
+  chamber: house
+  district: "13"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2209
+  phone: ""
+  email: sean.pouche@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=013
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sean_Pouche
+  - https://en.wikipedia.org/wiki/Sean_Pouche
+  - https://house.mo.gov/MemberDetails.aspx?district=013
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=013
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=013
+  - https://justfacts.votesmart.org/candidate/biography/169729/sean-pouche
+  - https://www.linkedin.com/in/sean-scobee-pouche-93a251b7
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-gallick-sherri
+  openstates_id: ocd-person/272db469-eb67-4752-8307-c46a95eaace0
+  full_name: Sherri Gallick
+  office_title: State Representative
+  chamber: house
+  district: "62"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2359
+  phone: ""
+  email: sherri.gallick@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=062
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Sherri_Gallick
+  - https://en.wikipedia.org/wiki/Sherri_Gallick
+  - https://house.mo.gov/MemberDetails.aspx?district=062
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=062
+  - https://justfacts.votesmart.org/candidate/biography/205733/sherri-gallick
+  - https://www.linkedin.com/in/sherri-gallick-mba-b410014
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-boykin-stephanie
+  openstates_id: ocd-person/129ff7c8-e210-47d5-a30c-777571984925
+  full_name: Stephanie Boykin
+  office_title: State Representative
+  chamber: house
+  district: "70"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Stephanie__Boykin__20240808_091242.jpg
+  phone: ""
+  email: stephanie.boykin@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=070
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephanie_Boykin
+  - https://house.mo.gov/MemberDetails.aspx?district=070
+  - https://www.linkedin.com/in/stephanie-boykin-26a11337
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-hein-stephanie
+  openstates_id: ocd-person/9adf60fd-19a0-429c-ab41-5cbc8e6391fc
+  full_name: Stephanie Hein
+  office_title: State Representative
+  chamber: house
+  district: "136"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2363
+  phone: ""
+  email: stephanie.hein@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=136
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephanie_Hein
+  - https://en.wikipedia.org/wiki/Stephanie_Hein
+  - https://house.mo.gov/MemberDetails.aspx?district=136
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=136
+  - https://www.linkedin.com/in/stephanie-hein-3277a96
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-webber-stephen
+  openstates_id: ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9
+  full_name: Stephen Webber
+  office_title: State Senator
+  chamber: senate
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/5569.jpg
+  phone: ""
+  email: stephen.webber@senate.mo.gov
+  address: ""
+  official_website: https://senate.mo.gov/Senators/Member/19
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Stephen_Webber_(Missouri)
+  - https://en.wikipedia.org/wiki/Stephen_Webber
+  - https://senate.mo.gov/Senators/Member/19
+  - https://www.senate.mo.gov/Senators/Member?id=6373
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-butz-steve
+  openstates_id: ocd-person/6ad9db86-5e30-4693-be71-41bacad5b843
+  full_name: Steve Butz
+  office_title: State Representative
+  chamber: house
+  district: "81"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2061
+  phone: ""
+  email: steve.butz@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=081
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Butz
+  - https://en.wikipedia.org/wiki/Steve_Butz
+  - https://house.mo.gov/MemberDetails.aspx?district=081
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=081
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=081
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://www.house.mo.gov/MemberDetails.aspx?district=81
+  - https://www.linkedin.com/in/steve-butz-4672827
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-jordan-steve
+  openstates_id: ocd-person/7ff101ee-474f-410d-9644-88bb17ae7519
+  full_name: Steve Jordan
+  office_title: State Representative
+  chamber: house
+  district: "151"
+  party: Republican
+  status: active
+  photo_url: https://public-assets-prod.pubgen.ai/brand_a7b06a8b-02b9-4920-9426-9b9be1d4e410/asset_912fbf35-14cf-4899-857f-bfa1a8508a2d.jpg?w=1240
+  phone: ""
+  email: steve.jordan@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=151
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steven_Jordan
+  - https://house.mo.gov/MemberDetails.aspx?&district=151
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-roberts-steve
+  openstates_id: ocd-person/20ad6a34-2965-4068-b819-49c5e0d27831
+  full_name: Steve Roberts
+  office_title: State Senator
+  chamber: senate
+  district: "5"
+  party: Democratic
+  status: active
+  photo_url: https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Roberts-2021-200x300.jpg
+  phone: ""
+  email: steven.roberts@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/mem05
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Steve_Roberts_(Missouri_state_legislator)
+  - https://en.wikipedia.org/wiki/Steve_Roberts_(Missouri_politician)
+  - https://www.linkedin.com/in/steven-roberts-6031b396
+  - https://www.senate.mo.gov/mem05
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/05
+  - https://www.senate.mo.gov/Senators/Member?id=26
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-peters-tara
+  openstates_id: ocd-person/ae8a2d25-fbb2-4254-976a-f9dcf0c92c6f
+  full_name: Tara Peters
+  office_title: State Representative
+  chamber: house
+  district: "122"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2394
+  phone: ""
+  email: tara.peters@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=122
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tara_Peters
+  - https://en.wikipedia.org/wiki/Tara_Peters
+  - https://house.mo.gov/MemberDetails.aspx?district=122
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=122
+  - https://justfacts.votesmart.org/candidate/biography/205791/tara-peters
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-violet-terri
+  openstates_id: ocd-person/ea5a5b0f-1c94-4c8d-a39f-e76357ebb2bf
+  full_name: Terri Violet
+  office_title: State Representative
+  chamber: house
+  district: "104"
+  party: Republican
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Terri_Violet_20240810_031254.png
+  phone: ""
+  email: terri.violet@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=104
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Terri_Violet
+  - https://house.mo.gov/MemberDetails.aspx?district=104
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=104
+  - https://justfacts.votesmart.org/candidate/biography/217718/terri-violet
+  - https://www.linkedin.com/in/terri-violet-2609b418
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-thompson-terry
+  openstates_id: ocd-person/da48983a-852b-4d3b-b635-285f37d8d012
+  full_name: Terry Thompson
+  office_title: State Representative
+  chamber: house
+  district: "53"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2219
+  phone: ""
+  email: terry.thompson@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=053
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Terry_Thompson
+  - https://en.wikipedia.org/wiki/Terry_Thompson_(politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=053
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=053
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=053
+  - https://justfacts.votesmart.org/candidate/biography/193323/terry-thompson
+  - https://www.linkedin.com/in/terry-thompson-388a56190
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-price-tiffany
+  openstates_id: ocd-person/53e00142-c4a0-41e7-bef7-fedb8de2bcdc
+  full_name: Tiffany Price
+  office_title: State Representative
+  chamber: house
+  district: "26"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: tiffany.price@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=026
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tiffany_Price
+  - https://house.mo.gov/MemberDetails.aspx?&district=026
+  - https://www.linkedin.com/in/tiffprice
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-taylor-tim
+  openstates_id: ocd-person/14c919a7-4443-4bc7-8221-34a59cc3bfef
+  full_name: Tim Taylor
+  office_title: State Representative
+  chamber: house
+  district: "48"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2217
+  phone: ""
+  email: tim.taylor@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=048
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tim_Taylor_(Missouri)
+  - https://house.mo.gov/MemberDetails.aspx?district=048
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=048
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=048
+  - https://justfacts.votesmart.org/candidate/biography/193319/tim-taylor
+  - https://www.linkedin.com/in/timothy-taylor-4aba9773
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-harbison-tony
+  openstates_id: ocd-person/b3e74d72-fdba-4c02-b75c-1ba8cc5b44b2
+  full_name: Tony Harbison
+  office_title: State Representative
+  chamber: house
+  district: "144"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: tony.harbison@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=144
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tony_Harbison
+  - https://house.mo.gov/MemberDetails.aspx?&district=144
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-luetkemeyer-tony
+  openstates_id: ocd-person/98b8120c-7a9c-4415-9e7b-8bfcdc8fa8a5
+  full_name: Tony Luetkemeyer
+  office_title: State Senator
+  chamber: senate
+  district: "34"
+  party: Republican
+  status: active
+  photo_url: https://www.senate.mo.gov/20web/wp-content/uploads/2020/01/010720-002-200x300.jpg
+  phone: ""
+  email: tony.luetkemeyer@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/mem34
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tony_Luetkemeyer
+  - https://en.wikipedia.org/wiki/Tony_Luetkemeyer
+  - https://justfacts.votesmart.org/candidate/biography/183139/tony-luetkemeyer
+  - https://www.linkedin.com/in/tony-luetkemeyer-99218628
+  - https://www.senate.mo.gov/mem34
+  - https://www.senate.mo.gov/senators-listing
+  - https://www.senate.mo.gov/senators-listing/
+  - https://www.senate.mo.gov/Senators/Member/34
+  - https://www.senate.mo.gov/Senators/Member?id=17
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-rush-tonya
+  openstates_id: ocd-person/b45073a9-ed4d-4d2c-89cd-edf310e7d373
+  full_name: Tonya Rush
+  office_title: State Representative
+  chamber: house
+  district: "67"
+  party: Democratic
+  status: active
+  photo_url: https://assets.civicengine.com/uploads/candidate/headshot/824926/824926.jpg
+  phone: ""
+  email: latondra.rush@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?&district=067
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tonya_Rush
+  - https://house.mo.gov/MemberDetails.aspx?&district=067
+  - https://www.linkedin.com/in/tonya-rush-27570475
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-mccreery-tracy
+  openstates_id: ocd-person/802c155f-8979-418f-b13b-b75de93caf31
+  full_name: Tracy McCreery
+  office_title: State Senator
+  chamber: senate
+  district: "24"
+  party: Democratic
+  status: active
+  photo_url: ""
+  phone: ""
+  email: tracy.mccreery@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/Senators/Member/24
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tracy_McCreery
+  - https://en.wikipedia.org/wiki/Tracy_McCreery
+  - https://justfacts.votesmart.org/candidate/biography/134862/tracy-mccreery
+  - https://www.linkedin.com/in/tracy-mccreery-23251912
+  - https://www.senate.mo.gov/Senators/Member/24
+  - https://www.senate.mo.gov/Senators/Member?id=277
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-sen-fitzwater-travis
+  openstates_id: ocd-person/c9758b3c-066c-40b4-9d40-a93880fda67a
+  full_name: Travis Fitzwater
+  office_title: State Senator
+  chamber: senate
+  district: "10"
+  party: Republican
+  status: active
+  photo_url: ""
+  phone: ""
+  email: travis.fitzwater@senate.mo.gov
+  address: ""
+  official_website: https://www.senate.mo.gov/Senators/Member/10
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Travis_Fitzwater
+  - https://en.wikipedia.org/wiki/Travis_Fitzwater
+  - https://www.linkedin.com/in/travisfitzwater
+  - https://www.senate.mo.gov/Senators/Member/10
+  - https://www.senate.mo.gov/Senators/Member?id=269
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-wilson-travis
+  openstates_id: ocd-person/350514c2-7875-44c4-8ef3-20da25540793
+  full_name: Travis Wilson
+  office_title: State Representative
+  chamber: house
+  district: "106"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2373
+  phone: ""
+  email: travis.wilson@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=106
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Travis_Wilson
+  - https://en.wikipedia.org/wiki/Travis_Wilson_(politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=106
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=106
+  - https://justfacts.votesmart.org/candidate/biography/205769/travis-wilson
+  - https://www.linkedin.com/in/travis-wilson-670a3a80
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-byrnes-tricia
+  openstates_id: ocd-person/4f9135f0-db97-4860-af00-182d0026feae
+  full_name: Tricia Byrnes
+  office_title: State Representative
+  chamber: house
+  district: "63"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2382
+  phone: ""
+  email: tricia.byrnes@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=063
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Tricia_Byrnes
+  - https://en.wikipedia.org/wiki/Tricia_Byrnes_(politician)
+  - https://house.mo.gov/MemberDetails.aspx?district=063
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=063
+  - https://justfacts.votesmart.org/candidate/biography/205735/tricia-byrnes
+  - https://www.linkedin.com/in/triciabyrnes
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-hausman-wendy
+  openstates_id: ocd-person/b6ab609a-1abc-40ee-9ac1-889ccb08a9f0
+  full_name: Wendy Hausman
+  office_title: State Representative
+  chamber: house
+  district: "65"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2360
+  phone: ""
+  email: wendy.hausman@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=065
+  twitter: ""
+  source_urls:
+  - https://house.mo.gov/MemberDetails.aspx?district=065
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=065
+  - https://www.linkedin.com/in/wendy-hausman-59875a2a
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-thomas-wick
+  openstates_id: ocd-person/39bcc093-37e9-469a-866d-5b6f10c52381
+  full_name: Wick Thomas
+  office_title: State Representative
+  chamber: house
+  district: "19"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/wthomas2.jpg
+  phone: ""
+  email: wick.thomas@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=019
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Wick_Thomas
+  - https://house.mo.gov/MemberDetails.aspx?district=019
+  - https://house.mo.gov/MemberDetails.aspx?year=2025&code=R&district=019
+  - https://www.linkedin.com/in/wick-thomas-9a4312129
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-jobe-will
+  openstates_id: ocd-person/9c6a9708-529e-422f-82b7-e92385a32688
+  full_name: Will Jobe
+  office_title: State Representative
+  chamber: house
+  district: "21"
+  party: Democratic
+  status: active
+  photo_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JoeStreno2024.jpg
+  phone: ""
+  email: will.jobe@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=021
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Will_Jobe
+  - https://en.wikipedia.org/wiki/Will_Jobe
+  - https://house.mo.gov/MemberDetails.aspx?district=021
+  - https://www.linkedin.com/in/william-jobe-ab909488
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-haley-willard
+  openstates_id: ocd-person/05c84580-b849-4320-9aa4-e34d8b977aca
+  full_name: Willard Haley
+  office_title: State Representative
+  chamber: house
+  district: "58"
+  party: Republican
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2221
+  phone: ""
+  email: willard.haley@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=058
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Willard_Haley
+  - https://en.wikipedia.org/wiki/Willard_Haley
+  - https://house.mo.gov/MemberDetails.aspx?district=058
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=058
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=058
+  - https://justfacts.votesmart.org/candidate/biography/193330/willard-haley
+  - https://www.linkedin.com/in/willard-haley-a0465227
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-young-yolanda
+  openstates_id: ocd-person/e2fb607f-9af9-4d80-b473-8ed33e3d942d
+  full_name: Yolanda Young
+  office_title: State Representative
+  chamber: house
+  district: "22"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2168
+  phone: ""
+  email: yolanda.young@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=022
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Yolanda_Young
+  - https://house.mo.gov/MemberDetails.aspx?district=022
+  - https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=022
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=022
+  - https://house.mo.gov/MemberGridCluster.aspx
+  - https://www.house.mo.gov/MemberDetails.aspx?district=22
+  - https://www.linkedin.com/in/yolanda-young-mo22rep
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+- person_id: mo-hou-fountainhenderson-yolonda
+  openstates_id: ocd-person/6f65a218-7bef-4fa3-b86c-907ed92296d8
+  full_name: Yolonda Fountain-Henderson
+  office_title: State Representative
+  chamber: house
+  district: "85"
+  party: Democratic
+  status: active
+  photo_url: https://house.mo.gov/MemberPhoto.aspx?id=2385
+  phone: ""
+  email: yolonda.fountainhend@house.mo.gov
+  address: ""
+  official_website: https://house.mo.gov/MemberDetails.aspx?district=085
+  twitter: ""
+  source_urls:
+  - https://ballotpedia.org/Yolonda_Fountain_Henderson
+  - https://house.mo.gov/MemberDetails.aspx?district=085
+  - https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=085
+  - https://www.linkedin.com/in/yolonda-henderson-3abb2115
+  bio_short: ""
+  review_status: seeded
+  retrieved_at: 2026-04-21
+

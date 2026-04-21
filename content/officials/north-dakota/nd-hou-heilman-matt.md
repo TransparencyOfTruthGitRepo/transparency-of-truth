@@ -1,0 +1,22 @@
+---
+title: "Matt Heilman"
+date: 2026-04-21T01:23:31Z
+draft: false
+type: "officials"
+
+official_id: "nd-hou-heilman-matt"
+full_name: "Matt Heilman"
+state: "north-dakota"
+state_abbrev: "ND"
+office_title: "State Representative"
+chamber: "house"
+district: "7"
+party: "Republican"
+status: "active"
+official_website: "https://ndlegis.gov/biography/matt-heilman"
+email: "mheilman@ndlegis.gov"
+phone: ""
+review_status: "seeded"
+retrieved_at: "2026-04-21"
+---
+
