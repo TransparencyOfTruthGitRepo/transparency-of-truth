@@ -6,7 +6,8 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-paginate = 20
+[pagination]
+  pagerSize = 20
 [params]
 env = "production"
 title = "Transparency of Truth"
