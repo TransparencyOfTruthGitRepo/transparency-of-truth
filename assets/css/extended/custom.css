@@ -141,3 +141,81 @@
   color: #d4a843;
   opacity: 0.8;
 }
+/* State page chamber grouping */
+.state-title-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.state-abbrev {
+  font-size: 1rem;
+  opacity: 0.4;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+}
+.state-meta-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  opacity: 0.6;
+  margin-top: 0.5rem;
+  flex-wrap: wrap;
+}
+.meta-divider { opacity: 0.3; }
+.status-seeded-label { color: #d4a843; opacity: 1; }
+.officials-chamber-section {
+  margin: 2rem 0;
+}
+.chamber-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+.chamber-header h2 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+.chamber-count {
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  border-radius: 20px;
+  background: rgba(255,255,255,0.07);
+  opacity: 0.7;
+}
+.officials-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 0.75rem;
+}
+.state-sources {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255,255,255,0.06);
+  font-size: 0.85rem;
+}
+.state-sources h2 {
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+  opacity: 0.7;
+}
+.state-sources ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+.state-sources a {
+  opacity: 0.6;
+  font-size: 0.8rem;
+}
+.state-sources a:hover { opacity: 1; }
+.roster-date {
+  margin-top: 0.75rem;
+  opacity: 0.4;
+  font-size: 0.75rem;
+}

@@ -1,8 +1,21 @@
 {{ define "main" }}
 <article class="state-page">
   <header class="state-header">
-    <h1>{{ .Title }}</h1>
-    {{ with .Params.state_abbrev }}<span class="state-abbrev">{{ . }}</span>{{ end }}
+    <div class="state-title-row">
+      <h1>{{ .Title }}</h1>
+      <span class="state-abbrev">{{ .Params.state_abbrev }}</span>
+    </div>
+    {{ $slug := .File.ContentBaseName }}
+    {{ $officials := index hugo.Data.officials $slug }}
+    {{ if and $officials $officials.officials }}
+    <div class="state-meta-bar">
+      <span class="meta-item">{{ len $officials.officials }} officials tracked</span>
+      <span class="meta-divider">·</span>
+      <span class="meta-item">Last updated: {{ $officials.last_updated }}</span>
+      <span class="meta-divider">·</span>
+      <span class="meta-item status-seeded-label">Seeded — verification in progress</span>
+    </div>
+    {{ end }}
   </header>
 
   <div class="state-content">{{ .Content }}</div>
@@ -11,34 +24,70 @@
   {{ $officials := index hugo.Data.officials $slug }}
 
   {{ if and $officials $officials.officials }}
-    <section class="officials-roster">
-      <h2>Elected Officials — {{ len $officials.officials }} records</h2>
-      {{ range $officials.officials }}
-        {{ partial "official-card.html" . }}
-      {{ end }}
+
+    {{ $executive := where $officials.officials "chamber" "executive" }}
+    {{ $senate := where $officials.officials "chamber" "senate" }}
+    {{ $house := where $officials.officials "chamber" "house" }}
+
+    {{ if $executive }}
+    <section class="officials-chamber-section">
+      <div class="chamber-header">
+        <h2>Executive Branch</h2>
+        <span class="chamber-count">{{ len $executive }}</span>
+      </div>
+      <div class="officials-grid">
+        {{ range $executive }}{{ partial "official-card.html" . }}{{ end }}
+      </div>
     </section>
+    {{ end }}
+
+    {{ if $senate }}
+    <section class="officials-chamber-section">
+      <div class="chamber-header">
+        <h2>Senate Leadership</h2>
+        <span class="chamber-count">{{ len $senate }}</span>
+      </div>
+      <div class="officials-grid">
+        {{ range $senate }}{{ partial "official-card.html" . }}{{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+    {{ if $house }}
+    <section class="officials-chamber-section">
+      <div class="chamber-header">
+        <h2>House Leadership</h2>
+        <span class="chamber-count">{{ len $house }}</span>
+      </div>
+      <div class="officials-grid">
+        {{ range $house }}{{ partial "official-card.html" . }}{{ end }}
+      </div>
+    </section>
+    {{ end }}
+
   {{ else }}
-    <section class="officials-roster">
+    <section class="officials-chamber-section">
       <p class="roster-pending">Official roster is being compiled. Source verification in progress.</p>
     </section>
   {{ end }}
 
   {{ $statedata := index hugo.Data.states $slug }}
   {{ if $statedata }}
-    <section class="state-sources">
-      <h2>Primary Sources</h2>
-      <ul>
-        {{ range $statedata.executive_source_urls }}
-          <li><a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a></li>
-        {{ end }}
-        {{ range $statedata.legislative_source_urls }}
-          <li><a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a></li>
-        {{ end }}
-      </ul>
-      {{ if $statedata.last_roster_update }}
-        <p class="roster-date">Roster last updated: {{ $statedata.last_roster_update }}</p>
+  <section class="state-sources">
+    <h2>Primary Sources</h2>
+    <ul>
+      {{ range $statedata.executive_source_urls }}
+        <li><a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a></li>
       {{ end }}
-    </section>
+      {{ range $statedata.legislative_source_urls }}
+        <li><a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a></li>
+      {{ end }}
+    </ul>
+    {{ if $statedata.last_roster_update }}
+      <p class="roster-date">Roster last updated: {{ $statedata.last_roster_update }}</p>
+    {{ end }}
+  </section>
   {{ end }}
+
 </article>
 {{ end }}
