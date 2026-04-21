@@ -7,7 +7,7 @@
 
 {{ range (where .Site.RegularPages "Type" "states") }}
   {{ $slug := .File.ContentBaseName }}
-  {{ $data := index site.Data.officials $slug }}
+  {{ $data := index hugo.Data.officials $slug }}
   {{ if and $data $data.officials }}
     {{ $totalOfficials = add $totalOfficials (len $data.officials) }}
     {{ if gt (len $data.officials) 0 }}
@@ -16,7 +16,7 @@
   {{ end }}
 {{ end }}
 
-{{ range site.Data.officials }}
+{{ range hugo.Data.officials }}
   {{ if .officials }}
     {{ range .officials }}
       {{ if .source_urls }}
@@ -62,7 +62,7 @@
   <div class="state-grid">
     {{ range (where .Site.RegularPages "Type" "states") }}
     {{ $slug := .File.ContentBaseName }}
-    {{ $data := index site.Data.officials $slug }}
+    {{ $data := index hugo.Data.officials $slug }}
     <a href="{{ .RelPermalink }}" class="state-card {{ if and $data $data.officials }}has-data{{ end }}">
       <span class="state-abbrev-badge">{{ .Params.state_abbrev }}</span>
       <span class="state-name">{{ .Title }}</span>
@@ -83,3 +83,4 @@
 </section>
 
 {{ end }}
+

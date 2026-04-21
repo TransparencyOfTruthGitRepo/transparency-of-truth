@@ -1,5 +1,5 @@
 ﻿{{ $id := .Get "id" }}
-{{ range site.Data.sources.master.sources }}
+{{ range hugo.Data.sources.master.sources }}
   {{ if eq .id $id }}
     <cite class="source-ref">
       <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a>
@@ -10,3 +10,4 @@
     </cite>
   {{ end }}
 {{ end }}
+

@@ -10,7 +10,7 @@
     <span class="state-abbrev-badge">{{ .Params.state_abbrev }}</span>
     <span class="state-name">{{ .Title }}</span>
     {{ $slug := .File.ContentBaseName }}
-    {{ $data := index site.Data.officials $slug }}
+    {{ $data := index hugo.Data.officials $slug }}
     {{ if and $data $data.officials }}
       <span class="state-count">{{ len $data.officials }} official{{ if gt (len $data.officials) 1 }}s{{ end }}</span>
     {{ else }}
@@ -20,3 +20,4 @@
   {{ end }}
 </div>
 {{ end }}
+
