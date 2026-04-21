@@ -1,0 +1,67 @@
+baseURL = "https://transparencyfortruth.com/"
+languageCode = "en-us"
+title = "Transparency for Truth"
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+paginate = 20
+[params]
+env = "production"
+title = "Transparency for Truth"
+description = "A verifiable, source-first database of every elected official in the United States."
+author = "Transparency for Truth"
+defaultTheme = "dark"
+ShowReadingTime = true
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+TocOpen = false
+ShowWordCount = false
+disableScrollToTop = false
+comments = false
+[params.homeInfoParams]
+Title = "Truth is Public Record"
+Content = "Every elected official. Every contact. Every source. Verified and open."
+[menu]
+[[menu.main]]
+identifier = "states"
+name = "States"
+url = "/states/"
+weight = 10
+[[menu.main]]
+identifier = "officials"
+name = "Officials"
+url = "/officials/"
+weight = 20
+[[menu.main]]
+identifier = "evidence"
+name = "Evidence"
+url = "/evidence/"
+weight = 30
+[[menu.main]]
+identifier = "methodology"
+name = "Methodology"
+url = "/methodology/"
+weight = 40
+[[menu.main]]
+identifier = "donate"
+name = "Donate"
+url = "/donate/"
+weight = 50
+[taxonomies]
+state = "states"
+party = "parties"
+office_type = "office_types"
+jurisdiction = "jurisdictions"
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+noClasses = false

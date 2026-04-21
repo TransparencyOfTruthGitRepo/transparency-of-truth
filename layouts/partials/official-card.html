@@ -1,0 +1,26 @@
+{{ $o := . }}
+<div class="official-card">
+  <div class="official-header">
+    <div class="official-identity">
+      <h3 class="official-name">
+        {{ if $o.official_website }}
+          <a href="{{ $o.official_website }}" target="_blank" rel="noopener noreferrer">{{ $o.full_name }}</a>
+        {{ else }}
+          {{ $o.full_name }}
+        {{ end }}
+      </h3>
+      <span class="official-title">{{ $o.office_title }}</span>
+      {{ if $o.district }}<span class="official-district">{{ $o.district }}</span>{{ end }}
+      <span class="official-party party-{{ $o.party | lower }}">{{ $o.party }}</span>
+    </div>
+    <div class="official-status status-{{ $o.review_status }}">{{ $o.review_status }}</div>
+  </div>
+  <div class="official-contact">
+    {{ if $o.phone }}<span class="contact-phone">📞 {{ $o.phone }}</span>{{ end }}
+    {{ if $o.email }}<span class="contact-email">✉ <a href="mailto:{{ $o.email }}">{{ $o.email }}</a></span>{{ end }}
+    {{ if $o.office_page_url }}
+      <a class="contact-office" href="{{ $o.office_page_url }}" target="_blank" rel="noopener noreferrer">Official Page →</a>
+    {{ end }}
+  </div>
+  {{ if $o.bio_short }}<p class="official-bio">{{ $o.bio_short }}</p>{{ end }}
+</div>

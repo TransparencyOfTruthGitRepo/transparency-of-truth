@@ -1,0 +1,34 @@
+.official-card {
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  background: var(--entry);
+}
+.official-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+.official-name { margin: 0 0 0.25rem 0; font-size: 1.1rem; }
+.official-title { font-size: 0.9rem; opacity: 0.7; display: block; }
+.official-district { font-size: 0.8rem; opacity: 0.6; display: block; }
+.official-party { font-size: 0.75rem; padding: 2px 8px; border-radius: 4px; display: inline-block; margin-top: 4px; }
+.party-republican { background: rgba(200,50,50,0.2); color: #e87777; }
+.party-democrat { background: rgba(50,100,200,0.2); color: #6a9fd8; }
+.party-independent { background: rgba(150,150,150,0.2); color: #aaa; }
+.official-status { font-size: 0.7rem; padding: 2px 8px; border-radius: 4px; white-space: nowrap; }
+.status-seeded { background: rgba(200,150,50,0.2); color: #d4a843; }
+.status-source-confirmed { background: rgba(50,180,100,0.2); color: #5cb87a; }
+.status-published { background: rgba(50,150,200,0.2); color: #5aafd4; }
+.status-stale { background: rgba(200,50,50,0.15); color: #e07070; }
+.status-needs-review { background: rgba(180,100,200,0.2); color: #c97ed4; }
+.official-contact { display: flex; flex-wrap: wrap; gap: 0.75rem; font-size: 0.85rem; margin-bottom: 0.5rem; }
+.official-bio { font-size: 0.9rem; opacity: 0.8; margin: 0; }
+.roster-pending { opacity: 0.6; font-style: italic; }
+.state-sources { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.1); }
+.roster-date { font-size: 0.8rem; opacity: 0.5; margin-top: 0.5rem; }
+.source-ref { display: block; font-size: 0.85rem; border-left: 3px solid rgba(255,255,255,0.15); padding-left: 0.75rem; margin: 0.5rem 0; }
+.source-meta { display: block; font-size: 0.75rem; opacity: 0.6; margin-top: 2px; }

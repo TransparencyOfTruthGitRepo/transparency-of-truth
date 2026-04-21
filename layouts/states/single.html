@@ -1,0 +1,44 @@
+{{ define "main" }}
+<article class="state-page">
+  <header class="state-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.state_abbrev }}<span class="state-abbrev">{{ . }}</span>{{ end }}
+  </header>
+
+  <div class="state-content">{{ .Content }}</div>
+
+  {{ $slug := .File.ContentBaseName }}
+  {{ $officials := index hugo.Data.officials $slug }}
+
+  {{ if and $officials $officials.officials }}
+    <section class="officials-roster">
+      <h2>Elected Officials — {{ len $officials.officials }} records</h2>
+      {{ range $officials.officials }}
+        {{ partial "official-card.html" . }}
+      {{ end }}
+    </section>
+  {{ else }}
+    <section class="officials-roster">
+      <p class="roster-pending">Official roster is being compiled. Source verification in progress.</p>
+    </section>
+  {{ end }}
+
+  {{ $statedata := index hugo.Data.states $slug }}
+  {{ if $statedata }}
+    <section class="state-sources">
+      <h2>Primary Sources</h2>
+      <ul>
+        {{ range $statedata.executive_source_urls }}
+          <li><a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a></li>
+        {{ end }}
+        {{ range $statedata.legislative_source_urls }}
+          <li><a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a></li>
+        {{ end }}
+      </ul>
+      {{ if $statedata.last_roster_update }}
+        <p class="roster-date">Roster last updated: {{ $statedata.last_roster_update }}</p>
+      {{ end }}
+    </section>
+  {{ end }}
+</article>
+{{ end }}
