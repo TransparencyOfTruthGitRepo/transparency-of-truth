@@ -1,0 +1,52 @@
+id: ocd-person/3aa56ec5-a087-40b1-960a-acb9426ccb2a
+name: Marko Liias
+given_name: Marko
+family_name: Liias
+birth_date: 1981-07-17
+gender: Male
+email: marko.liias@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/13546.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2014-01-22
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '21'
+- end_date: 2014-01-22
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '21'
+  start_date: 2014-01-22
+offices:
+- classification: capitol
+  address: Room 305, John A. Cherberg Building P.O. Box 40421, Olympia, WA 98504
+  voice: 360-786-7640
+links:
+- url: https://leg.wa.gov/legislators/member/marko-liias
+- url: https://markoliias.com/
+- url: https://sdc.wastateleg.org/Liias/
+- url: https://senatedemocrats.wa.gov/liias/
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+other_names:
+- name: Liias, M.
+- name: M. Liias
+- name: M.S. Liias
+- name: Marko Sakari Liias
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000103
+- scheme: legacy_openstates
+  identifier: WAL000209
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=Senate
+- url: https://ballotpedia.org/Marko_Liias
+- url: https://en.wikipedia.org/wiki/Marko_Liias
+- url: https://justfacts.votesmart.org/candidate/biography/102020/marko-liias
+- url: https://leg.wa.gov/legislators/member/marko-liias
+- url: https://markoliias.com
+- url: https://markoliias.com/about-marko
+- url: https://senatedemocrats.wa.gov/liias
+- url: https://senatedemocrats.wa.gov/liias/
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+- url: https://www.linkedin.com/in/markoliias

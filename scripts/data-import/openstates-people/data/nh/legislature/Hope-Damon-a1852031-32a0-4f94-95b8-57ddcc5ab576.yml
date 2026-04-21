@@ -1,0 +1,36 @@
+id: ocd-person/a1852031-32a0-4f94-95b8-57ddcc5ab576
+name: Hope Damon
+given_name: Hope
+family_name: Damon
+gender: Female
+email: hope.damon@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123204.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Sullivan 8
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10910
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10910
+  note: member detail page
+other_names:
+- name: Damon, H.
+- name: H. Damon
+sources:
+- url: https://ballotpedia.org/Hope_Damon
+- url: https://en.wikipedia.org/wiki/Hope_Damon
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10910
+- url: https://justfacts.votesmart.org/candidate/208964/hope-damon
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10910
+- url: https://www.hopefornh.com/about
+extras:
+  county: Sullivan
+  elected status: new
+  gender code: F

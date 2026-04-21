@@ -1,0 +1,45 @@
+id: ocd-person/b6e8a5cf-ec5c-494b-b9ff-efa0fb92e1c1
+name: Beth Mizell
+given_name: Beth
+family_name: Mizell
+gender: Female
+email: mizellb@legis.la.gov
+image: https://senate.la.gov/SenatorPics/Sen12.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '12'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 1051 Main St., Franklinton, LA 70438
+  voice: 985-839-3936
+links:
+- url: https://senate.la.gov/smembers.aspx?ID=12
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=12
+other_names:
+- name: B. Mizell
+- name: M.B.S. Mizell
+- name: Mizell, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000832
+sources:
+- url: https://ballotpedia.org/Beth_Mizell
+- url: https://en.wikipedia.org/wiki/Beth_Mizell
+- url: https://justfacts.votesmart.org/candidate/biography/134643/beth-mizell
+- url: https://senate.la.gov/Senators_FullInfo
+- url: https://senate.la.gov/smembers.aspx?ID=12
+- url: https://senate.la.gov/smembers?ID=12
+extras:
+  legislative assistant: Penny Jones
+  representing parishes:
+  - St. Tammany
+  - Tangipahoa
+  - Washington

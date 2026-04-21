@@ -1,0 +1,63 @@
+id: ocd-person/0b2d5ec3-c1b2-4b09-8444-144c92125cc4
+name: Matt Claman
+given_name: Matt
+family_name: Claman
+gender: Male
+email: senator.matt.claman@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/CLA.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-17
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: H
+- start_date: 2015-01-20
+  end_date: 2023-01-16
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: H
+- end_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '21'
+offices:
+- classification: capitol
+  address: State Capitol Room 429, 120 4th St., Juneau, AK 99801
+  voice: 907-465-4919
+- classification: district
+  address: 1500 W. Benson Blvd., Anchorage, AK 99503
+  voice: 907-269-0130
+links:
+- url: https://alaskasenate.org/matt-claman/
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=cla
+- url: https://www.akleg.gov/basis/Member/Detail/31?code=cla
+- url: https://www.akleg.gov/basis/Member/Detail/32?code=cla
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=CLA
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=cla
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=cla
+other_names:
+- name: Claman, M.
+- name: M. Claman
+- name: M.W. Claman
+- name: Matt W. Claman
+- name: Matthew Claman
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AKL000167
+sources:
+- url: https://alaskasenate.org/matt-claman
+- url: https://ballotpedia.org/Matt_Claman
+- url: https://en.wikipedia.org/wiki/Matt_Claman
+- url: https://justfacts.votesmart.org/candidate/biography/71396/matt-claman
+- url: https://w3.akleg.gov
+- url: https://w3.akleg.gov/
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=cla
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=CLA
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=cla
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=cla
+- url: https://www.linkedin.com/in/matt-claman-55440717
+extras:
+  toll_free_phone: 888-465-4919

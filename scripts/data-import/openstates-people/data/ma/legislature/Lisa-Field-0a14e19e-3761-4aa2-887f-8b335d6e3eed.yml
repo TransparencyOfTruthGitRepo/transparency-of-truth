@@ -1,0 +1,26 @@
+id: ocd-person/0a14e19e-3761-4aa2-887f-8b335d6e3eed
+name: Lisa Field
+given_name: Lisa
+family_name: Field
+gender: Female
+email: lisa.field@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/LMF1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-07-16
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 3rd Bristol
+offices:
+- classification: capitol
+  address: State House 24 Beacon St., Boston, MA 02133
+links:
+- url: https://malegislature.gov/Legislators/Profile/LMF1
+other_names:
+- name: Field, L.
+- name: L. Field
+sources:
+- url: https://ballotpedia.org/Lisa_Field
+- url: https://malegislature.gov/Legislators/Profile/LMF1
+- url: https://www.linkedin.com/in/lisa-field-b132b92b

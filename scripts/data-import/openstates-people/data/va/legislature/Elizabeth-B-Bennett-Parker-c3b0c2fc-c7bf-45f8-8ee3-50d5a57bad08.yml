@@ -1,0 +1,55 @@
+id: ocd-person/c3b0c2fc-c7bf-45f8-8ee3-50d5a57bad08
+name: Elizabeth Bennett-Parker
+given_name: Elizabeth
+family_name: Bennett-Parker
+gender: Female
+email: senatorbennett-parker@senate.virginia.gov
+image: https://memdata.virginiageneralassembly.gov/images/display_image/H0334
+party:
+- name: Democratic
+roles:
+- start_date: 2026-02-18
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '39'
+- start_date: 2024-01-10
+  end_date: 2026-02-18
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '5'
+- start_date: 2022-01-12
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '45'
+offices:
+- classification: capitol
+  address: Room 611, P.O. Box 396 General Assembly Building, 201 N. 9th St., Richmond,
+    VA 23218
+  voice: 804-698-7539
+  fax: 804-698-7651
+- classification: district
+  address: '107 SW St. #152, Alexandria, VA 22314'
+  voice: 703-239-3155
+links:
+- url: https://house.vga.virginia.gov/members/H0334
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H334
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H334
+- url: https://senate.virginia.gov/Senator/memberpage.php?id=S135
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0334
+other_names:
+- name: Bennett-Parker, E.
+- name: Bennett-Parker, Elizabeth B.
+- name: E. Bennett-Parker
+- name: E.B. Bennett-Parker
+- name: Elizabeth B. Bennett-Parker
+sources:
+- url: https://ballotpedia.org/Elizabeth_Bennett-Parker
+- url: https://en.wikipedia.org/wiki/Elizabeth_Bennett-Parker
+- url: https://house.vga.virginia.gov/members/H0334
+- url: https://justfacts.votesmart.org/candidate/biography/195975/elizabeth-bennett-parker
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H334
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H334
+- url: https://senate.virginia.gov/Senator/memberpage.php?id=S135
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0334
+- url: https://www.linkedin.com/in/elizabeth-bennett-parker-7002875

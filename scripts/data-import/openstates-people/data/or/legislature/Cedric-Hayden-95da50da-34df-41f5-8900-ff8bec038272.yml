@@ -1,0 +1,47 @@
+id: ocd-person/95da50da-34df-41f5-8900-ff8bec038272
+name: Cedric Hayden
+given_name: Cedric
+family_name: Hayden
+gender: Male
+email: sen.cedrichayden@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/hayden/PublishingImages/member_photo.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '6'
+- end_date: 2023-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '6'
+  start_date: 2023-01-09
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '7'
+offices:
+- classification: capitol
+  address: Room S-315, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1706
+links:
+- url: https://www.oregonlegislature.gov/hayden
+  note: homepage
+other_names:
+- name: C. Hayden
+- name: C.R. Hayden
+- name: Hayden, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000264
+- scheme: legacy_openstates
+  identifier: ORL000299
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Cedric_Hayden
+- url: https://en.wikipedia.org/wiki/Cedric_Ross_Hayden
+- url: https://justfacts.votesmart.org/candidate/biography/155196/cedric-hayden
+- url: https://www.linkedin.com/in/cedric-ross-hayden-8b71a78a
+- url: https://www.oregonlegislature.gov/hayden

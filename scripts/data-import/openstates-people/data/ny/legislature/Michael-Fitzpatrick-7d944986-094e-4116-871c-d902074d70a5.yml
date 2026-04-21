@@ -1,0 +1,45 @@
+id: ocd-person/7d944986-094e-4116-871c-d902074d70a5
+name: Mike Fitzpatrick
+given_name: Mike
+family_name: Fitzpatrick
+birth_date: 1957-04-15
+gender: Male
+email: fitzpatrickm@nyassembly.gov
+image: https://assembly.state.ny.us/write/upload/member_files/008/headshot/008.jpg?hst=1660072739
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room 458, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-5021
+  fax: 518-455-4394
+- classification: district
+  address: 285 Middle Country Road Suite 202, Smithtown, NY 11787
+  voice: 631-724-2929
+  fax: 631-724-3024
+links:
+- url: https://assembly.state.ny.us/mem/?sh=email
+- url: https://assembly.state.ny.us/mem/Michael-J-Fitzpatrick
+- url: https://nyassembly.gov/mem/michael-j-fitzpatrick
+other_names:
+- name: Fitzpatrick, M.
+- name: M. Fitzpatrick
+- name: M.J. Fitzpatrick
+- name: Michael Fitzpatrick
+- name: Michael J. Fitzpatrick
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000105
+- scheme: legacy_openstates
+  identifier: NYL000261
+sources:
+- url: https://assembly.state.ny.us/mem/Michael-J-Fitzpatrick
+- url: https://ballotpedia.org/Michael_Fitzpatrick_(New_York)
+- url: https://en.wikipedia.org/wiki/Michael_J._Fitzpatrick_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/44259/michael-fitzpatrick
+- url: https://nyassembly.gov/mem/michael-j-fitzpatrick

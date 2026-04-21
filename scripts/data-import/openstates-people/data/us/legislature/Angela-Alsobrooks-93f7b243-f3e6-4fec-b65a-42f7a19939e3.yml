@@ -1,0 +1,48 @@
+id: ocd-person/93f7b243-f3e6-4fec-b65a-42f7a19939e3
+name: Angela Alsobrooks
+given_name: Angela
+family_name: Alsobrooks
+birth_date: 1971-02-23
+gender: Female
+email: https://www.alsobrooks.senate.gov/
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Maryland
+offices:
+- classification: capitol
+  address: 374 Russell Senate Office Building, Washington, DC 20510
+  voice: 202-224-4524
+- classification: district
+  address: 100 S. Charles St. Suite 1710, Baltimore, MD 21201
+  voice: 410-962-4436
+- classification: district
+  address: '10201 Martin Luther King Jr. Highway #210, Bowie, MD 20720'
+  voice: 301-860-0414
+- classification: district
+  address: 114 S. Washington St. Suite 202, Easton, MD 21601
+  voice: 410-546-4250
+- classification: district
+  address: 451 Hungerford Drive Suite 230, Rockville, MD 20850
+  voice: 240-599-7390
+- classification: district
+  address: 50 Citizen Way Suite 201, Frederick, MD 21701
+links:
+- url: https://www.alsobrooks.senate.gov/
+other_names:
+- name: A. Alsobrooks
+- name: A.D. Alsobrooks
+- name: Alsobrooks, A.
+other_identifiers:
+- scheme: bioguide
+  identifier: A000382
+sources:
+- url: https://ballotpedia.org/Angela_Alsobrooks
+- url: https://en.wikipedia.org/wiki/Angela_Alsobrooks
+- url: https://www.alsobrooks.senate.gov
+- url: https://www.angelaalsobrooks.com/meet-angela
+- url: https://www.linkedin.com/in/angela-alsobrooks-0554632b1

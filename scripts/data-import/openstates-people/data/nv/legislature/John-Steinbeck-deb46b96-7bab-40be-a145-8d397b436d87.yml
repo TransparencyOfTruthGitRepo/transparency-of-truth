@@ -1,0 +1,33 @@
+id: ocd-person/deb46b96-7bab-40be-a145-8d397b436d87
+name: John Steinbeck
+given_name: John
+family_name: Steinbeck
+gender: Male
+email: john.steinbeck@sen.state.nv.us
+image: http://www.leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Steinbeck.John.418.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-11-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '18'
+offices:
+- classification: capitol
+  address: Room 2101, Nevada Senate 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-1442
+- classification: district
+  address: Room 292, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/18
+other_names:
+- name: J. Steinbeck
+- name: J.C. Steinbeck
+- name: Steinbeck, J.
+- name: Steinbeck, John
+sources:
+- url: https://ballotpedia.org/John_Steinbeck
+- url: https://en.wikipedia.org/wiki/John_Steinbeck_(politician)
+- url: https://justfacts.votesmart.org/candidate/215917/john-steinbeck
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/18
+- url: https://www.linkedin.com/in/john-steinbeck-aa6b97ab

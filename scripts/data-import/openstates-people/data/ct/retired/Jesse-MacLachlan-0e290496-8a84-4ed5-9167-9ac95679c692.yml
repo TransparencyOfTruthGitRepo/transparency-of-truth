@@ -1,0 +1,19 @@
+id: ocd-person/0e290496-8a84-4ed5-9167-9ac95679c692
+name: Jesse MacLachlan
+given_name: Jesse
+family_name: MacLachlan
+email: Jesse.MacLachlan@housegop.ct.gov
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '35'
+links:
+- url: http://www.cthousegop.com/MacLachlan/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000265
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

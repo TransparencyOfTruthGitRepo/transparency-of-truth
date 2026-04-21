@@ -1,0 +1,36 @@
+id: ocd-person/58e5c3fe-6972-4711-8898-740675959441
+name: Karen Carter Peterson
+given_name: Karen Carter
+family_name: Peterson
+email: petersonk@legis.la.gov
+image: https://senate.la.gov/SenatorPics/Sen5.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2022-04-08'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '5'
+  end_reason: Resigned to recover from depression and gambling addiction
+links:
+- url: https://senate.la.gov/smembers.aspx?ID=5
+  note: homepage
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000166
+- scheme: legacy_openstates
+  identifier: LAL000312
+- scheme: legacy_openstates
+  identifier: LAL000513
+sources:
+- url: https://senate.la.gov/smembers.aspx?ID=5
+- url: https://senate.la.gov/Senators_FullInfo
+extras:
+  legislative assistant: Jonathan Henderson
+  representing parishes:
+  - Jefferson
+  - Orleans
+  education: |
+    Mercy Academy; Howard University, Washington, D.C., B.A. in International
+    Business/Marketing; Boston College Law School; University of Virginia School of
+    Law; Tulane Law School, J.D.

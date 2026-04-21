@@ -1,0 +1,48 @@
+id: ocd-person/7fa67dd6-999c-4116-a136-32633710f6b0
+name: Clark Boyd
+given_name: Clark
+family_name: Boyd
+birth_date: 1978-06-14
+gender: Male
+email: rep.clark.boyd@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h46.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2018-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '46'
+offices:
+- classification: capitol
+  address: Room 528, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-7086
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H46
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h46.html
+other_names:
+- name: Boyd, C
+- name: Boyd, C.
+- name: C. Boyd
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000496
+sources:
+- url: https://ballotpedia.org/Clark_Boyd
+- url: https://justfacts.votesmart.org/candidate/biography/153222/clark-boyd
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H46
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h46.html
+extras:
+  office: 528 CHB
+  personal info:
+  - Born June 14, 1978
+  - Married, two children
+  - Insurance
+  - Southern Baptist
+  - B.S., Human Development and Learning with Minor in Military Science, East Tennessee
+    State University

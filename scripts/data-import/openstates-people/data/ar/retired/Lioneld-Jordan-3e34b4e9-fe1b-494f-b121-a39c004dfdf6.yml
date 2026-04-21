@@ -1,0 +1,17 @@
+id: ocd-person/3e34b4e9-fe1b-494f-b121-a39c004dfdf6
+name: Lioneld Jordan
+given_name: Lioneld
+family_name: Jordan
+email: mayor@fayetteville-ar.gov
+roles:
+- end_date: '2020-12-31'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/place:fayetteville/government
+offices:
+- classification: primary
+  address: 113 West Mountain Street;Fayetteville, AR 72701
+  voice: 479-575-8330
+links:
+- url: http://www.accessfayetteville.org/
+sources:
+- url: http://www.accessfayetteville.org/

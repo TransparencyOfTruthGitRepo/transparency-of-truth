@@ -1,0 +1,65 @@
+id: ocd-organization/27347312-531d-400b-9600-60d632d3383c
+jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+classification: committee
+name: Administration
+chamber: lower
+sources:
+- url: https://capitol.texas.gov/Committees/CommitteesMbrs.aspx?Chamber=H
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C300
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C300
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C300
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C300
+- url: https://house.texas.gov/committees/committee/300
+- url: https://house.texas.gov/committees/committee/?committee=C300
+links:
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C300
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C300
+  note: homepage
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C300
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C300
+- url: https://house.texas.gov/committees/committee/300
+- url: https://house.texas.gov/committees/committee/?committee=C300
+members:
+- name: Charlie Geren
+  role: chair
+  person_id: ocd-person/65a42043-6243-4f79-b1e0-69b3b8b4af29
+- name: Sheryl Cole
+  role: vice chair
+  person_id: ocd-person/97805dd7-1f42-482c-bac3-049dfccda311
+- name: Angie Button
+  role: member
+  person_id: ocd-person/2a9478ef-b573-4de6-ab96-bb3f6091346f
+- name: Drew Darby
+  role: member
+  person_id: ocd-person/40f0e868-e021-4453-8675-a9d2357e41e1
+- name: James Talarico
+  role: member
+  person_id: ocd-person/5e4e2fd2-e8a9-46f3-aab5-ffbc782afa8b
+- name: Joe Moody
+  role: member
+  person_id: ocd-person/5898294d-5b10-4aaf-a084-b8522e69623c
+- name: Ken King
+  role: member
+  person_id: ocd-person/d9f32e07-7835-4edf-b986-7a2cf16d608b
+- name: Mando Martinez
+  role: member
+  person_id: ocd-person/e2d786e9-5e46-4807-be42-546203016996
+- name: Morgan Meyer
+  role: member
+  person_id: ocd-person/2639e096-d327-4c4d-823f-759b1ce373e0
+- name: Ron Reynolds
+  role: member
+  person_id: ocd-person/72bad853-b403-49c2-9a99-32c5fb3222c7
+- name: Sam Harless
+  role: member
+  person_id: ocd-person/2db06a9d-ae17-4881-98b4-5172fdfca19f
+other_names:
+- name: House Administration
+- name: House Administration Committee
+- name: House Committee on Administration
+extras:
+  clerk: Anna Newell
+  legislature: 88(R) - 2023
+  phone: (512) 463-0784
+  appointment date: 2/8/2023
+  room: EXT E2.140

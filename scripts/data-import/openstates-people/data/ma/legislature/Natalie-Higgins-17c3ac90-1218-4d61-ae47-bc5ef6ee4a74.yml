@@ -1,0 +1,47 @@
+id: ocd-person/17c3ac90-1218-4d61-ae47-bc5ef6ee4a74
+name: Natalie Higgins
+given_name: Natalie
+family_name: Higgins
+birth_date: 1988-07-24
+gender: Female
+email: natalie.higgins@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/N_H1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 4th Worcester
+offices:
+- classification: capitol
+  address: Room 39, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2014
+- classification: district
+  address: MA
+  voice: 978-227-5278
+links:
+- url: https://malegislature.gov/Legislators/Profile/N_H1
+- url: https://www.repnataliehiggins.com/
+other_names:
+- name: Higgins, N.
+- name: N. Higgins
+- name: N.M. Higgins
+- name: Natalie M. Higgins
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000406
+sources:
+- url: https://ballotpedia.org/Natalie_Higgins
+- url: https://en.wikipedia.org/wiki/Natalie_Higgins
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/N_H1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/N_H1
+- url: https://malegislature.gov/Legislators/Profile/N_H1
+- url: https://www.linkedin.com/in/nataliemhiggins
+- url: https://www.repnataliehiggins.com
+extras:
+  member code: N_H1

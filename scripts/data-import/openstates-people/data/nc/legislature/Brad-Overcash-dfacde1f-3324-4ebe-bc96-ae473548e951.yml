@@ -1,0 +1,38 @@
+id: ocd-person/dfacde1f-3324-4ebe-bc96-ae473548e951
+name: Brad Overcash
+given_name: Brad
+family_name: Overcash
+gender: Male
+email: brad.overcash@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/S/444/Low
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '43'
+offices:
+- classification: capitol
+  address: Room 526, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-733-5734
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/444
+- url: https://www.ncleg.gov/Members/Committees/S/444
+- url: https://www.ncleg.gov/Members/IntroducedBills/S/444
+- url: https://www.ncleg.gov/Members/Votes/S/444
+other_names:
+- name: B. Overcash
+- name: B.K. Overcash
+- name: Overcash, B.
+sources:
+- url: https://ballotpedia.org/Brad_Overcash
+- url: https://www.linkedin.com/in/bradovercash
+- url: https://www.ncleg.gov/Members/Biography/S/444
+- url: https://www.ncleg.gov/Members/MemberTable/S
+extras:
+  terms in senate: 1 (0 in House)
+  represented counties: Gaston
+  legislative assistant: James Von Canon
+  legislative assistant email: James.VonCanon@ncleg.gov

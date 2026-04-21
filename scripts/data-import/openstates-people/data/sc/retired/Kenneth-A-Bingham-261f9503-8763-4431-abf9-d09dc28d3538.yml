@@ -1,0 +1,22 @@
+id: ocd-person/261f9503-8763-4431-abf9-d09dc28d3538
+name: Kenneth A. Bingham
+given_name: Kenneth
+family_name: Bingham
+middle_name: A.
+image: http://www.scstatehouse.gov/images/members/0143181801.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '89'
+links:
+- url: http://www.scstatehouse.gov/member.php?code=0143181801
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000061
+sources:
+- url: http://www.scstatehouse.gov/member.php?code=0143181801
+- url: http://www.scstatehouse.gov/member.php?chamber=H

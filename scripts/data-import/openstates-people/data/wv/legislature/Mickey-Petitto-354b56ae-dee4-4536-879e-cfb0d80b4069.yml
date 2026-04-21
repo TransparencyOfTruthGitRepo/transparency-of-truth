@@ -1,0 +1,33 @@
+id: ocd-person/354b56ae-dee4-4536-879e-cfb0d80b4069
+name: Mickey Petitto
+given_name: Mickey
+family_name: Petitto
+gender: Female
+email: mickey.petitto@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/petitto_mickey.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '70'
+offices:
+- classification: capitol
+  address: State Capitol Room 210E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3171
+- classification: district
+  address: 228 E. Main St., Clarksburg, WV 26301
+  voice: 304-626-0372
+links:
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Petitto
+other_names:
+- name: M. Petitto
+- name: Petitto, M
+- name: Petitto, M.
+sources:
+- url: https://ballotpedia.org/Mickey_Petitto
+- url: https://en.wikipedia.org/wiki/Mickey_Petitto
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Petitto
+- url: https://www.wvlegislature.gov/House/roster.cfm

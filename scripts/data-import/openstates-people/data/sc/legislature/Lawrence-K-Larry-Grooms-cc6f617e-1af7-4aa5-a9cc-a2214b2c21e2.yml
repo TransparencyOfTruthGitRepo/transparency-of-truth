@@ -1,0 +1,44 @@
+id: ocd-person/cc6f617e-1af7-4aa5-a9cc-a2214b2c21e2
+name: Larry Grooms
+given_name: Larry
+family_name: Grooms
+birth_date: 1964-03-20
+gender: Male
+email: stranscomm@scsenate.gov
+image: https://scstatehouse.gov/images/members/0729545367.jpg
+party:
+- name: Republican
+roles:
+- start_date: 1997-11-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '37'
+offices:
+- classification: capitol
+  address: Room 313, Gressette Building P.O. Box 142, Columbia, SC 29201
+  voice: 803-212-6400
+links:
+- url: https://scstatehouse.gov/member.php?code=0729545367
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=0729545367
+  note: homepage
+other_names:
+- name: Grooms, L.
+- name: Grooms, Larry
+- name: Grooms, Lawrence K.
+- name: L. Grooms
+- name: L.K. Grooms
+- name: Lawrence K. "Larry" Grooms
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000016
+sources:
+- url: https://ballotpedia.org/Lawrence_Grooms
+- url: https://en.wikipedia.org/wiki/Larry_Grooms
+- url: https://scstatehouse.gov/member.php?chamber=S
+- url: https://scstatehouse.gov/member.php?code=0729545367
+- url: https://www.linkedin.com/in/larrygrooms
+- url: https://www.scstatehouse.gov/member.php?chamber=S
+- url: https://www.scstatehouse.gov/member.php?code=0729545367
+extras:
+  counties represented: Berkeley & Charleston Counties

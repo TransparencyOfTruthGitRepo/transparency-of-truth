@@ -1,0 +1,36 @@
+id: ocd-person/c3d23eba-caa6-4d2a-bbd2-5b8b2ca184ae
+name: Aaron Saunders
+given_name: Aaron
+family_name: Saunders
+gender: Male
+email: aaron.saunders@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/ALS1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 7th Hampden
+offices:
+- classification: capitol
+  address: Room 34, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2320
+links:
+- url: https://malegislature.gov/Legislators/Profile/ALS1
+other_names:
+- name: A. Saunders
+- name: A.L. Saunders
+- name: Aaron L. Saunders
+- name: Saunders, A.
+sources:
+- url: https://ballotpedia.org/Aaron_Saunders
+- url: https://en.wikipedia.org/wiki/Aaron_Saunders
+- url: https://justfacts.votesmart.org/candidate/biography/154132/aaron-saunders
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/ALS1
+- url: https://malegislature.gov/Legislators/Profile/ALS1
+- url: https://www.linkedin.com/in/a-saunders-
+extras:
+  member code: ALS1

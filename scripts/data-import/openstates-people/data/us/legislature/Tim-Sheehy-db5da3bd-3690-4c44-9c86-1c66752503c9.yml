@@ -1,0 +1,54 @@
+id: ocd-person/db5da3bd-3690-4c44-9c86-1c66752503c9
+name: Tim Sheehy
+given_name: Tim
+family_name: Sheehy
+birth_date: 1985-11-18
+gender: Male
+email: https://www.sheehy.senate.gov/contact/share-your-opinion/
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Montana
+offices:
+- classification: capitol
+  address: 124 Russell Senate Office Building, Washington, DC 20510
+  voice: 202-224-2644
+- classification: district
+  address: 1 E. Main St. Suite 204, Bozeman, MT 59715
+  voice: 406-872-6350
+- classification: district
+  address: 119 1st Ave. North Suite 102, Great Falls, MT 59401
+  voice: 406-452-9587
+- classification: district
+  address: 208 N. Montana Ave. Suite 104, Helena, MT 59601
+  voice: 406-441-1069
+- classification: district
+  address: 222 N. 32nd St. Suite 102, Billings, MT 59101
+  voice: 406-252-0559
+- classification: district
+  address: 2620 Connery Way Suite 202, Missoula, MT 59808
+  voice: 406-218-2658
+- classification: district
+  address: 8 3rd St. East, Kalispell, MT 59901
+  voice: 406-257-3398
+- classification: district
+  address: Silver Bow Center 125 W. Granite St. Suite 200, Butte, MT 59701
+  voice: 406-782-2048
+links:
+- url: https://www.sheehy.senate.gov/
+other_names:
+- name: Sheehy, T.
+- name: T. Sheehy
+- name: T.P. Sheehy
+other_identifiers:
+- scheme: bioguide
+  identifier: S001232
+sources:
+- url: https://en.wikipedia.org/wiki/Tim_Sheehy_(businessman)
+- url: https://timformt.com/meet-tim
+- url: https://www.linkedin.com/in/tim-sheehy-a2362678
+- url: https://www.sheehy.senate.gov

@@ -1,0 +1,38 @@
+id: ocd-person/6d4386a3-50ff-437f-bf9e-50faea1fd774
+name: Bill Bolton
+given_name: Bill
+family_name: Bolton
+gender: Male
+email: bill.bolton@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123173.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Grafton 8
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10765
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10765
+  note: member detail page
+other_names:
+- name: B. Bolton
+- name: Bill R Bolton
+- name: Bolton, B.
+- name: W.R. Bolton
+- name: William R. Bolton
+sources:
+- url: https://ballotpedia.org/Bill_Bolton_(New_Hampshire)
+- url: https://en.wikipedia.org/wiki/Bill_Bolton_(politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10765
+- url: https://justfacts.votesmart.org/candidate/biography/185200/bill-bolton
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10765
+- url: https://www.linkedin.com/in/william-bolton-8bb24711
+extras:
+  county: Grafton
+  gender code: M

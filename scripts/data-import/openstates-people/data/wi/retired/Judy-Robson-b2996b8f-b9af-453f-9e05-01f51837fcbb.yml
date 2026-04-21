@@ -1,0 +1,17 @@
+id: ocd-person/b2996b8f-b9af-453f-9e05-01f51837fcbb
+name: Judy Robson
+given_name: Judy
+family_name: Robson
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '15'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000343
+sources:
+- url: http://legis.wi.gov/w3asp/contact/legislatorpages.aspx?house=Senate&district=15

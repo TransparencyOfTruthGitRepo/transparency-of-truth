@@ -1,0 +1,54 @@
+id: ocd-organization/05fc8282-f975-4d6e-81d1-062330f9f0ec
+jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+classification: committee
+name: Energy and Natural Resources
+chamber: lower
+sources:
+- url: https://ndlegis.gov/assembly/69-2025/committees/house/energy-and-natural-resources
+- url: https://www.ndlegis.gov/assembly/68-2023/committees
+  note: Committee List page of ndlegis gov site
+- url: https://www.ndlegis.gov/assembly/68-2023/committees/house/energy-and-natural-resources
+  note: Committee Details page
+links:
+- url: https://ndlegis.gov/assembly/68-2023/committees/house/energy-and-natural-resources
+- url: https://ndlegis.gov/assembly/69-2025/committees/house/energy-and-natural-resources
+- url: https://www.ndlegis.gov/assembly/68-2023/committees/house/energy-and-natural-resources
+  note: homepage
+members:
+- name: Todd Porter
+  role: chair
+  person_id: ocd-person/94b03c1b-39a3-495a-8a11-0c21a5f30f08
+- name: Anna Novak
+  role: vice chair
+  person_id: ocd-person/c40382fd-ce08-46af-8649-afd1f5e04091
+- name: Dick Anderson
+  role: vice chair
+  person_id: ocd-person/65381298-5fe3-49d8-9739-8678016f8383
+- name: Andrew Marschall
+  role: member
+  person_id: ocd-person/6fbb2691-956f-4427-8927-66309b08ed68
+- name: Austin Foss
+  role: member
+  person_id: ocd-person/7b99ceee-cc27-4b30-96f9-b29845bacdf8
+- name: Craig Headland
+  role: member
+  person_id: ocd-person/74e50305-a021-46bd-9d0d-dcd872645cfd
+- name: Jason Dockter
+  role: member
+  person_id: ocd-person/0b48f460-f41c-4f21-8620-c64728604e4c
+- name: Jorin Johnson
+  role: member
+  person_id: ocd-person/230e88ef-7b8d-4229-b121-c1df2328c78a
+- name: Liz Conmy
+  role: member
+  person_id: ocd-person/d8e43158-838e-40fc-a960-c29c46aa512e
+- name: Matt Ruby
+  role: member
+  person_id: ocd-person/11d3d315-2e0d-4824-8ad2-6fd81962c9d1
+- name: Pat Heinert
+  role: member
+  person_id: ocd-person/1f5bad71-f1e2-4729-896b-293137ed6a84
+other_names:
+- name: House Committee on Energy and Natural Resources
+- name: House Energy and Natural Resources
+- name: House Energy and Natural Resources Committee

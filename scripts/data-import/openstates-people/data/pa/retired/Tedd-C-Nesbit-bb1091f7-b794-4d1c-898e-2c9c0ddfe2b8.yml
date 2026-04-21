@@ -1,0 +1,23 @@
+id: ocd-person/bb1091f7-b794-4d1c-898e-2c9c0ddfe2b8
+name: Tedd C. Nesbit
+given_name: Tedd C.
+family_name: Nesbit
+image: https://www.legis.state.pa.us/images/members/200/1700.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-01-02'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '8'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000518
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1700
+extras:
+  facebook: https://www.facebook.com/RepNesbit
+  youtube: http://www.youtube.com/user/RepNesbit

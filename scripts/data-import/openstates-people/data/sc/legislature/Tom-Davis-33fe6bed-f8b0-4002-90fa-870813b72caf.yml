@@ -1,0 +1,44 @@
+id: ocd-person/33fe6bed-f8b0-4002-90fa-870813b72caf
+name: Tom Davis
+given_name: Tom
+family_name: Davis
+birth_date: 1960-05-31
+gender: Male
+email: tomdavis@scsenate.gov
+image: https://scstatehouse.gov/images/members/0456818127.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2009-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '46'
+offices:
+- classification: capitol
+  address: Room 203, Gressette Building P.O. Box 142, Columbia, SC 29201
+  voice: 803-212-6080
+links:
+- url: https://scstatehouse.gov/member.php?code=0456818127
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=0456818127
+  note: homepage
+other_names:
+- name: Davis, T.
+- name: Davis, Tom
+- name: T. Davis
+- name: T.C. Davis
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000011
+sources:
+- url: https://ballotpedia.org/Tom_Davis_(South_Carolina)
+- url: https://en.wikipedia.org/wiki/Tom_Davis_(South_Carolina_politician)
+- url: https://harveyandbattey.com/attorneys/thomas-c-davis
+- url: https://justfacts.votesmart.org/candidate/biography/104980/tom-davis
+- url: https://scstatehouse.gov/member.php?chamber=S
+- url: https://scstatehouse.gov/member.php?code=0456818127
+- url: https://www.linkedin.com/in/tom-davis-10073927
+- url: https://www.scstatehouse.gov/member.php?chamber=S
+- url: https://www.scstatehouse.gov/member.php?code=0456818127
+extras:
+  counties represented: Beaufort & Jasper Counties

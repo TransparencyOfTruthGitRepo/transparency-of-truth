@@ -1,0 +1,52 @@
+id: ocd-person/b5f897f3-cce8-43b0-a130-f98d0d88da8e
+name: Len Turcotte
+given_name: Len
+family_name: Turcotte
+gender: Male
+email: lenturcotte@metrocast.net
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/45130.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-12-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 4
+- end_date: 2018-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 4
+  start_date: 2020-12-02
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=920
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=920
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+other_names:
+- name: L. Turcotte
+- name: Len P. Turcotte
+- name: Leonard P. Turcotte
+- name: Leonard Turcotte
+- name: Turcotte, L.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001218
+sources:
+- url: https://ballotpedia.org/Len_Turcotte
+- url: https://en.wikipedia.org/wiki/Len_Turcotte
+- url: https://gc.nh.gov/house/members/member.aspx?pid=920
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=920
+- url: https://justfacts.votesmart.org/candidate/biography/141973/len-turcotte
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377269
+- url: https://www.linkedin.com/in/len-turcotte-8518486a
+extras:
+  county: Strafford
+  elected status: Former
+  gender code: M

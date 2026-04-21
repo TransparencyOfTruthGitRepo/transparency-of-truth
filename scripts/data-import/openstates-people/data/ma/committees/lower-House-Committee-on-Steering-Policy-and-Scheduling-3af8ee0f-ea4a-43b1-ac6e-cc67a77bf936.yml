@@ -1,0 +1,49 @@
+id: ocd-organization/3af8ee0f-ea4a-43b1-ac6e-cc67a77bf936
+jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+classification: committee
+name: Steering, Policy and Scheduling
+chamber: lower
+sources:
+- url: https://malegislature.gov/Committees/Detail/H52
+  note: Committee Details Page
+links:
+- url: https://malegislature.gov/Committees/Detail/H52
+  note: homepage
+members:
+- name: Kevin Honan
+  role: chair
+  person_id: ocd-person/9e4b8b32-233e-443f-a147-46fbaa778a58
+- name: Chris Hendricks
+  role: vice chair
+  person_id: ocd-person/9750bdb4-4dce-4003-85ec-672185a3a5a4
+- name: Steven Howitt
+  role: ranking member
+  person_id: ocd-person/54487f49-5377-4c41-bd97-60b748cc240a
+- name: Aaron Saunders
+  role: member
+  person_id: ocd-person/c3d23eba-caa6-4d2a-bbd2-5b8b2ca184ae
+- name: Brian Ashe
+  role: member
+  person_id: ocd-person/503a0888-f086-4b52-b03c-c5293378bc51
+- name: Chris Worrell
+  role: member
+  person_id: ocd-person/59539448-5c3b-4d4d-8e96-48fabb01b10f
+- name: David LeBoeuf
+  role: member
+  person_id: ocd-person/ca659c30-e49e-420b-8213-797cfeb3c378
+- name: Dennis Gallagher
+  role: member
+  person_id: ocd-person/3601344e-8a37-488b-a3b1-f355f4e52ea7
+- name: Hannah Kane
+  role: member
+  person_id: ocd-person/3dd1e2a8-3fdd-4d3a-9504-88a04f3fc973
+- name: Michelle DuBois
+  role: member
+  person_id: ocd-person/f41834f0-0d73-4e8e-8758-66184772c081
+- name: Sean Reid
+  role: member
+  person_id: ocd-person/d3ad855a-567f-443a-bb9f-480a0c95fb06
+other_names:
+- name: House Committee on Steering, Policy and Scheduling
+- name: House Steering, Policy and Scheduling
+- name: House Steering, Policy and Scheduling Committee

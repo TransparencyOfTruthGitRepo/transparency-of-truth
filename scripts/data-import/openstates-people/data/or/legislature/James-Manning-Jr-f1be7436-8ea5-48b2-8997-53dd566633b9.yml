@@ -1,0 +1,40 @@
+id: ocd-person/f1be7436-8ea5-48b2-8997-53dd566633b9
+name: James Manning
+given_name: James
+family_name: Manning
+gender: Male
+email: sen.jamesmanning@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/manning/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2016-12-15
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '7'
+offices:
+- classification: capitol
+  address: Room S-213, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1707
+links:
+- url: https://www.oregonlegislature.gov/Manning
+- url: https://www.oregonlegislature.gov/manning
+other_names:
+- name: J. Manning
+- name: J.I. Manning
+- name: James Manning Jr.
+- name: Manning, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000373
+- scheme: legacy_openstates
+  identifier: ORL000390
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/James_Manning_(Oregon)
+- url: https://en.wikipedia.org/wiki/James_Manning_Jr.
+- url: https://justfacts.votesmart.org/candidate/biography/168035/james-manning-jr
+- url: https://www.linkedin.com/in/senator-james-i-manning-jr-0822163b
+- url: https://www.oregonlegislature.gov/manning
+- url: https://www.oregonlegislature.gov/Manning

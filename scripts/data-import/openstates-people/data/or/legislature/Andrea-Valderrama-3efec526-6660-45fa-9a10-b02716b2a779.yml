@@ -1,0 +1,33 @@
+id: ocd-person/3efec526-6660-45fa-9a10-b02716b2a779
+name: Andrea Valderrama
+given_name: Andrea
+family_name: Valderrama
+gender: Female
+email: rep.andreavalderrama@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/valderrama/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-04-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '47'
+offices:
+- classification: capitol
+  address: Room H-286, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1447
+links:
+- url: https://www.oregonlegislature.gov/valderrama
+  note: homepage
+- url: https://www.oregonlegislature.gov/valderrama/Pages/map.aspx
+other_names:
+- name: A. Valderrama
+- name: Valderrama, A.
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Andrea_Valderrama
+- url: https://en.wikipedia.org/wiki/Andrea_Valderrama
+- url: https://www.linkedin.com/in/andrea-valderrama-21801023
+- url: https://www.oregonlegislature.gov/valderrama
+- url: https://www.oregonlegislature.gov/valderrama/Pages/map.aspx

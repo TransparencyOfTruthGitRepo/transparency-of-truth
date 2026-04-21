@@ -1,0 +1,71 @@
+id: ocd-organization/8828598f-8099-44db-b4c1-ab8a42060ee2
+jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+classification: committee
+name: Education
+chamber: upper
+sources:
+- url: https://www.scstatehouse.gov/committee.php?chamber=S
+  note: Committee list page
+- url: https://www.scstatehouse.gov/CommitteeInfo/senateeducation.php
+  note: Committee details page
+links:
+- url: https://www.scstatehouse.gov/CommitteeInfo/senateeducation.php
+  note: homepage
+members:
+- name: Greg Hembree
+  role: chair
+  person_id: ocd-person/d09cb270-bb44-44e7-86d6-a880ce40d93d
+- name: Brad Hutto
+  role: member
+  person_id: ocd-person/16ba6021-423d-4b0d-b899-d2fe18778c12
+- name: Darrell Jackson
+  role: member
+  person_id: ocd-person/4eca904a-5153-440d-8e5c-4c9e056a1dd1
+- name: Everett Stubbs
+  role: member
+  person_id: ocd-person/c699e1e2-e3f4-4b78-8aeb-7bef9374518f
+- name: Harvey Peeler
+  role: member
+  person_id: ocd-person/8b81073b-87da-4f5c-aacb-f387b69456cc
+- name: Jason Elliott
+  role: member
+  person_id: ocd-person/3d40ff3f-ddbf-4611-a366-9be7d55b9247
+- name: Karl Allen
+  role: member
+  person_id: ocd-person/946afea5-c89c-4a8f-a80e-a841bf7e899a
+- name: Larry Grooms
+  role: member
+  person_id: ocd-person/cc6f617e-1af7-4aa5-a9cc-a2214b2c21e2
+- name: Luke Rankin
+  role: member
+  person_id: ocd-person/27fb6caf-f757-44a3-8973-6ce72aacd7e2
+- name: Michael Johnson
+  role: member
+  person_id: ocd-person/ef901990-e178-4836-b40c-1b5822227650
+- name: Rex Rice
+  role: member
+  person_id: ocd-person/bfea6436-5d17-4d26-bc37-15f1a975575e
+- name: Richard Cash
+  role: member
+  person_id: ocd-person/69162972-6151-4fe2-b5fe-dee599d86ad3
+- name: Ronnie Sabb
+  role: member
+  person_id: ocd-person/92a0b883-789a-4291-b2f1-330ec804ba12
+- name: Ross Turner
+  role: member
+  person_id: ocd-person/bf0e5259-d4e3-472c-a3a0-384eab1e8ae2
+- name: Shane Massey
+  role: member
+  person_id: ocd-person/340b7b78-4f07-49ef-8872-dab35cf48c5c
+- name: Tom Fernandez
+  role: member
+  person_id: ocd-person/74b41634-f393-47b4-807b-124c14277ecb
+- name: Tom Young
+  role: member
+  person_id: ocd-person/b01d47f8-2131-4fe5-a611-d1b571696346
+other_names:
+- name: Committee on Education
+- name: Education Committee
+- name: Senate Committee on Education
+- name: Senate Education
+- name: Senate Education Committee

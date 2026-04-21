@@ -1,0 +1,36 @@
+id: ocd-person/88b67b7d-e856-43b3-9ae3-90092919c4e5
+name: Debra Tendrich
+given_name: Debra
+family_name: Tendrich
+gender: Female
+email: debra.tendrich@flhouse.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Debra__Tendrich__20241023_121011.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-11-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '89'
+offices:
+- classification: capitol
+  address: Room 1402, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5089
+- classification: district
+  address: 1850 Forest Hill Blvd. Suite 200, Lake Clarke Shores, FL 33406
+  voice: 561-954-0850
+links:
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4924&LegislativeTermId=91
+- url: https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4924
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4924
+other_names:
+- name: D. Tendrich
+- name: Tendrich, D.
+sources:
+- url: https://ballotpedia.org/Debra_Tendrich
+- url: https://en.wikipedia.org/wiki/Debra_Tendrich
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4924&LegislativeTermId=91
+- url: https://www.debraforhouse.com/about
+- url: https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4924
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4924
+- url: https://www.linkedin.com/in/eatbetterlivebetter

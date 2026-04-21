@@ -1,0 +1,54 @@
+id: ocd-person/17a7e011-73f2-4ac5-8470-3436b47a6744
+name: Clint Dixon
+given_name: Clint
+family_name: Dixon
+birth_date: 1979-07-16
+gender: Male
+email: clint.dixon@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/dixon-clint-4982.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '45'
+offices:
+- classification: capitol
+  address: State Capitol Room 421-A, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-463-2518
+- classification: district-mail
+  address: P.O. Box 802, Buford, GA 30515
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/4982
+- url: https://www.legis.ga.gov/members/senate/4982?session=1029
+- url: https://www.legis.ga.gov/members/senate/4982?session=1031
+  note: HTML member detail page
+- url: https://www.legis.ga.gov/members/senate/4982?session=1032
+other_names:
+- name: C. Dixon
+- name: C.R. Dixon
+- name: DIXON, 45TH
+- name: Dixon, C.
+sources:
+- url: https://ballotpedia.org/Clint_Dixon
+- url: https://en.wikipedia.org/wiki/Clint_Dixon
+- url: https://justfacts.votesmart.org/candidate/biography/190326/clint-dixon
+- url: https://www.legis.ga.gov/api/members/detail/4982?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4982?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/4982
+- url: https://www.legis.ga.gov/members/senate/4982?session=1029
+- url: https://www.legis.ga.gov/members/senate/4982?session=1031
+- url: https://www.linkedin.com/in/clint-dixon-69238251
+extras:
+  residence: Gwinnett
+  city: Gwinnett
+  georgia_id: 4982
+  staff: Rachel Whitted
+  staff email: rachel.whitted@senate.ga.gov

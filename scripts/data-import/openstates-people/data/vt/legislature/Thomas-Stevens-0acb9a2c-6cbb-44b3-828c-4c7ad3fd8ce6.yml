@@ -1,0 +1,61 @@
+id: ocd-person/0acb9a2c-6cbb-44b3-828c-4c7ad3fd8ce6
+name: Tom Stevens
+given_name: Tom
+family_name: Stevens
+gender: Male
+email: tstevens@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/Stevens.Thomas.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2009-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Washington-Chittenden
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+- classification: home
+  address: 12 Winooski St., Waterbury, VT 05676
+  voice: 802-244-4164
+links:
+- url: https://legislature.vermont.gov/Documents/SmallMaps/WAS-CHI.pdf
+  note: district map
+- url: https://legislature.vermont.gov/people/single/2020/14689
+- url: https://legislature.vermont.gov/people/single/2022/14689
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2024/14689
+- url: https://legislature.vermont.gov/people/single/2026/14689
+other_names:
+- name: Stevens, T.
+- name: T. Stevens
+- name: T.S. Stevens
+- name: Thomas S. Stevens
+- name: Thomas Stevens
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000161
+- scheme: legacy_openstates
+  identifier: VTL000308
+- scheme: legacy_openstates
+  identifier: VTL000416
+- scheme: legacy_openstates
+  identifier: VTL000683
+- scheme: legacy_openstates
+  identifier: VTL000772
+sources:
+- url: https://ballotpedia.org/Tom_Stevens
+- url: https://en.wikipedia.org/wiki/Tom_Stevens_(Vermont_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/110260/tom-stevens
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/single/2020/14689
+- url: https://legislature.vermont.gov/people/single/2022/14689
+- url: https://legislature.vermont.gov/people/single/2024/14689
+- url: https://legislature.vermont.gov/people/single/2026/14689
+- url: https://stevensvermont.com/about/bio
+- url: https://www.linkedin.com/in/thomas-stevens-a482771
+extras:
+  home address: Waterbury, VT 05676
+  state email: tstevens@leg.state.vt.us

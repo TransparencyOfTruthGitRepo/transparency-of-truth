@@ -1,0 +1,23 @@
+id: ocd-person/18a13c90-57d1-47b0-a754-6bd8979fd12b
+name: Rhonda L. Nyman
+given_name: Rhonda
+family_name: Nyman
+middle_name: L.
+image: https://malegislature.gov/Images/MemberProfile/Web/rhnyman.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 5th Plymouth
+links:
+- url: http://www.malegislature.gov/People/Profile/RLN1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000148
+- scheme: legacy_openstates
+  identifier: MAL000320
+sources:
+- url: http://www.malegislature.gov/People/Profile/RLN1

@@ -1,0 +1,25 @@
+id: ocd-person/a706e6bd-c82f-479d-9c33-6ceeafdf2663
+name: Larry M. Bell
+given_name: Larry M.
+family_name: Bell
+image: http://www.ncleg.net/House/pictures/hiRes/301.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '21'
+links:
+- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=House&nUserID=301
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000061
+sources:
+- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=House&nUserID=301
+extras:
+  counties:
+  - Duplin
+  - Sampson
+  - Wayne
+  notice: null

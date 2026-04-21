@@ -1,0 +1,20 @@
+id: ocd-person/dd95825c-d102-4418-beb8-24ca8c54a22c
+name: Ralph Northam
+given_name: Ralph
+family_name: Northam
+birth_date: 1959-09-13
+party:
+- name: Democratic
+roles:
+- start_date: '2018-01-13'
+  end_date: '2022-01-13'
+  type: governor
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+links:
+- url: https://www.governor.virginia.gov/
+sources:
+- url: https://www.governor.virginia.gov/
+offices:
+- voice: 804-786-2211
+  fax: 804-371-6351
+  classification: capitol

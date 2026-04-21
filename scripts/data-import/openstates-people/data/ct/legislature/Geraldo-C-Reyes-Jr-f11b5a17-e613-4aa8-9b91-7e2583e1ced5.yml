@@ -1,0 +1,44 @@
+id: ocd-person/f11b5a17-e613-4aa8-9b91-7e2583e1ced5
+name: Geraldo Reyes
+given_name: Geraldo
+family_name: Reyes
+gender: Male
+email: geraldo.reyes@cga.ct.gov
+image: http://www2.housedems.ct.gov/Reyes/images/Reyes_HS.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2016-04-28
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '75'
+offices:
+- classification: capitol
+  address: Room 4114, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 800-842-8267
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27075%27&dist_name=Reyes,%20Geraldo%20C.
+- url: https://www.housedems.ct.gov/Reyes
+other_names:
+- name: G. Reyes
+- name: G.C. Reyes
+- name: Geraldo C. Reyes
+- name: Geraldo C. Reyes Jr.
+- name: Reyes, G.
+- name: Reyes, Geraldo C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000312
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Geraldo_Reyes
+- url: https://en.wikipedia.org/wiki/Geraldo_Reyes
+- url: https://justfacts.votesmart.org/candidate/172238/geraldo-reyes-jr
+- url: https://www.housedems.ct.gov/Reyes
+- url: https://www.linkedin.com/in/geraldoreyes
+extras:
+  gender: Male
+  title: Deputy Speaker of the House
+  committees: Appropriations; Environment; Legislative Management; Transportation
+  committee codes: ;APP;ENV;LM;TRA;
+  prison: '0'

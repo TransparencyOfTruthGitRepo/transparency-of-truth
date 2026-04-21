@@ -1,0 +1,49 @@
+id: ocd-person/6ae972c8-aff3-4886-a7d7-bd2cc5e40a38
+name: Jill Cooper
+given_name: Jill
+family_name: Cooper
+gender: Female
+email: jcooper@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1951.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '55'
+offices:
+- classification: capitol
+  address: Room 150, East Wing P.O. Box 202055, Harrisburg, PA 17120
+  voice: 717-787-8939
+- classification: district
+  address: 105 Pfeffer Road Suite 5, Export, PA 15632
+  voice: 724-387-9113
+- classification: district
+  address: 356 Freeport St., New Kensington, PA 15068
+  voice: 724-472-4102
+- classification: district
+  address: Murrysville Community Center 3091 Carson Ave., Murrysville, PA 15668
+  voice: 724-387-1281
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1951
+  note: homepage
+- url: https://www.palegis.us/house/members/bio/1951/rep-cooper
+- url: https://www.repjillcooper.com/
+other_names:
+- name: Cooper, J.
+- name: J. Cooper
+- name: J.N. Cooper
+- name: Jill N. Cooper
+ids:
+  facebook: RepJillCooper
+sources:
+- url: https://ballotpedia.org/Jill_Cooper
+- url: https://en.wikipedia.org/wiki/Jill_Cooper_(politician)
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1951
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.linkedin.com/in/jill-cooper-8195b829
+- url: https://www.palegis.us/house/members/bio/1951/rep-cooper
+- url: https://www.repjillcooper.com
+extras:
+  website: http://www.RepJillCooper.com

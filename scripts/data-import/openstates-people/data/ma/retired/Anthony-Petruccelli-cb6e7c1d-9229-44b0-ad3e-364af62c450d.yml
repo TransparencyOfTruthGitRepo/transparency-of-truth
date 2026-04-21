@@ -1,0 +1,29 @@
+id: ocd-person/cb6e7c1d-9229-44b0-ad3e-364af62c450d
+name: Anthony Petruccelli
+given_name: Anthony W.
+family_name: Petruccelli
+image: https://malegislature.gov/Images/MemberProfile/Web/apetruccelli.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: First Suffolk and Middlesex
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: First Suffolk and Middlesex
+links:
+- url: http://www.malegislature.gov/People/Profile/AWP0
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000030
+- scheme: legacy_openstates
+  identifier: MAL000265
+- scheme: legacy_openstates
+  identifier: MAL000288
+sources:
+- url: http://www.malegislature.gov/People/Profile/AWP0

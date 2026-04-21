@@ -1,0 +1,67 @@
+id: ocd-person/fc31ab02-026c-4173-86db-570c0b297c64
+name: Kay Kirkpatrick
+given_name: Kay
+family_name: Kirkpatrick
+birth_date: 1954-09-13
+gender: Female
+email: kay.kirkpatrick@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/kirkpatrick-kay-4910.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-06-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '32'
+offices:
+- classification: capitol
+  address: Room 324-A, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0508
+- classification: district
+  address: 2146 Roswell Road Suite 108895, Marietta, GA 30062
+  voice: 404-656-3932
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/4910
+- url: https://www.legis.ga.gov/members/senate/4910?session=1029
+- url: https://www.legis.ga.gov/members/senate/4910?session=1031
+  note: HTML member detail page
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4910&Session=27
+other_names:
+- name: K. Kirkpatrick
+- name: Kay Kirkpatrick
+- name: Kay Kirkpatrick Haltom
+- name: Kirkpatrick
+- name: KIRKPATRICK, 32ND
+- name: Kirkpatrick, K.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000477
+sources:
+- url: https://ballotpedia.org/Kay_Kirkpatrick
+- url: https://en.wikipedia.org/wiki/Kay_Kirkpatrick
+- url: https://justfacts.votesmart.org/candidate/biography/176159/kay-kirkpatrick
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.legis.ga.gov/api/members/detail/4910?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4910?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/4910
+- url: https://www.legis.ga.gov/members/senate/4910?session=1029
+- url: https://www.linkedin.com/in/kay-kirkpatrick-7788264
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4910&Session=27
+extras:
+  residence: Marietta
+  city: Marietta
+  georgia_id: 4910
+  birthday: September 13
+  occupation: 'Physician '
+  press: 'https://senatepress.net/category/senate-press/kay-kirkpatrick '
+  religion: Methodist
+  spouse: Thomas
+  staff: Hannah Holcomb
+  staff email: hannah.holcomb@senate.ga.gov

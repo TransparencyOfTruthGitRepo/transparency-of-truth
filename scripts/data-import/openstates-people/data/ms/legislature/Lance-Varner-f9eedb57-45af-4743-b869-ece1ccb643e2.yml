@@ -1,0 +1,31 @@
+id: ocd-person/f9eedb57-45af-4743-b869-ece1ccb643e2
+name: Lance Varner
+given_name: Lance
+family_name: Varner
+birth_date: 1980-01-30
+gender: Male
+email: varner@house.ms.gov
+image: https://mcgeerealtyservices.com/wp-content/uploads/2020/09/Lances-Headshot-300x400.gif
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '62'
+offices:
+- classification: capitol
+  address: State Capitol 400 High St., Jackson, MS 39201
+  voice: 601-359-3728
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/varner.xml
+other_names:
+- name: L. Varner
+- name: Varner, L.
+sources:
+- url: https://ballotpedia.org/Lance_Varner
+- url: https://billstatus.ls.state.ms.us/members/house/varner.xml
+- url: https://en.wikipedia.org/wiki/Lance_Varner
+- url: https://justfacts.votesmart.org/candidate/211438/lance-varner

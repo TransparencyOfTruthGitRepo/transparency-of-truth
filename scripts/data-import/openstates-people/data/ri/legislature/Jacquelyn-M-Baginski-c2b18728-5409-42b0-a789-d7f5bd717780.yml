@@ -1,0 +1,44 @@
+id: ocd-person/c2b18728-5409-42b0-a789-d7f5bd717780
+name: Jackie Baginski
+given_name: Jackie
+family_name: Baginski
+gender: Female
+email: rep-baginski@rilegislature.gov
+image: http://www.rilegislature.gov/representatives/Pictures/Baginski.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '17'
+offices:
+- classification: capitol
+  address: 82 Smith St., Providence, RI 02903
+  voice: 401-222-3580
+- classification: district
+  address: 119 Brettonwoods Drive, Cranston, RI 02920
+  voice: 401-310-0009
+links:
+- url: https://www.rilegislature.gov/representatives/baginski/default.aspx
+- url: https://www.rilegislature.gov/representatives/baginski/Pages/Biography.aspx
+- url: https://www.rilegislature.gov/representatives/carson/default.aspx
+other_names:
+- name: Baginski
+- name: Baginski, J.
+- name: J. Baginski
+- name: J.M. Baginski
+- name: Jacquelyn Baginski
+- name: Jacquelyn M. Baginski
+sources:
+- url: https://ballotpedia.org/Jacquelyn_Baginski
+- url: https://en.wikipedia.org/wiki/Jacquelyn_Baginski
+- url: https://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: https://www.rilegislature.gov/representatives/baginski/default.aspx
+- url: https://www.rilegislature.gov/representatives/baginski/Pages/Biography.aspx
+  note: Image Source
+- url: https://www.rilegislature.gov/SiteAssets/MailingLists/Representatives.xls
+- url: https://www.rilegislature.gov/SiteAssets/Representatives.xls
+  note: Detail Excel Source
+extras:
+  City/Town Represented: Cranston

@@ -1,0 +1,48 @@
+id: ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7
+name: Rodger Smitherman
+given_name: Rodger
+family_name: Smitherman
+birth_date: 1953-03-02
+gender: Male
+email: rodger.smitherman@alsenate.gov
+image: https://www.legislature.state.al.us/pdf/senate/members/Smitherman_18.png
+party:
+- name: Democratic
+roles:
+- start_date: 1995-11-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '18'
+offices:
+- classification: capitol
+  address: Room 736, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0870
+links:
+- url: https://alison.legislature.state.al.us/senate-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100461&OID_PERSON=1139
+other_names:
+- name: R. Smitherman
+- name: R.M. Smitherman
+- name: Rodger M. Smitherman
+- name: Smitherman, R.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000030
+- scheme: legacy_openstates
+  identifier: ALL000307
+- scheme: legacy_openstates
+  identifier: ALL000416
+- scheme: legacy_openstates
+  identifier: ALL000548
+sources:
+- url: https://ballotpedia.org/Rodger_Smitherman
+- url: https://en.wikipedia.org/wiki/Rodger_Smitherman
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/5617/rodger-smitherman
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Smitherman&OID_SPONSOR=100461&OID_PERSON=1139&SESSNAME=Regular%20Session%202022
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100461&OID_PERSON=1139
+- url: https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+extras:
+  counties: Jefferson County

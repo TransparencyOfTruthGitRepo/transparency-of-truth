@@ -1,0 +1,29 @@
+id: ocd-person/7ab1d262-f01a-483c-866f-eeec5fc3de38
+name: Cameron Henry
+given_name: Cameron
+family_name: Henry
+image: http://house.louisiana.gov/h_reps/RepPics09/rep82.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-01-13'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '82'
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=82
+other_names:
+- name: Cameron Henry
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000216
+- scheme: legacy_openstates
+  identifier: LAL000365
+- scheme: legacy_openstates
+  identifier: LAL000566
+- scheme: legacy_openstates
+  identifier: LAL000682
+- scheme: legacy_openstates
+  identifier: LAL000917
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=82

@@ -1,0 +1,21 @@
+id: ocd-person/650d566a-6198-4b32-9594-448a1d40efee
+name: Beth R Arsenault
+given_name: Beth
+family_name: Arsenault
+middle_name: R
+image: http://www.livefreeordiealliance.org/Portals/0/images_candidates/BArsenaultBH9.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Belknap 9
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376660
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000436
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members.txt

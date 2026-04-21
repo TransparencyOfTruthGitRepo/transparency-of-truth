@@ -1,0 +1,51 @@
+id: ocd-person/3efcf2f9-f7f8-4441-9ec7-4f6d8c17940f
+name: Deb Fellela
+given_name: Deb
+family_name: Fellela
+birth_date: 1956-11-16
+gender: Female
+email: rep-fellela@rilegislature.gov
+image: http://www.rilegislature.gov/representatives/pictures/fellela.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '43'
+offices:
+- classification: capitol
+  address: Room 331A, 82 Smith St., Providence, RI 02903
+  voice: 401-470-3924
+- classification: district
+  address: 3 Diaz St., Johnston, RI 02919
+  voice: 401-231-2014
+links:
+- url: https://www.rilegislature.gov/representatives/carson/default.aspx
+- url: https://www.rilegislature.gov/representatives/fellela/default.aspx
+- url: https://www.rilegislature.gov/representatives/fellela/Pages/Biography.aspx
+- url: https://www.rilin.state.ri.us/representatives/carson/
+other_names:
+- name: D. Fellela
+- name: D.A. Fellela
+- name: Deborah A. Fellela
+- name: Deborah Fellela
+- name: Fellela, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000082
+sources:
+- url: https://ballotpedia.org/Deborah_Fellela
+- url: https://en.wikipedia.org/wiki/Deborah_Fellela
+- url: https://justfacts.votesmart.org/candidate/biography/67581/deborah-fellela
+- url: https://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: https://www.linkedin.com/in/deborah-fellela-a85001127
+- url: https://www.rilegislature.gov/representatives/fellela/default.aspx
+- url: https://www.rilegislature.gov/representatives/fellela/Pages/Biography.aspx
+  note: Image Source
+- url: https://www.rilegislature.gov/SiteAssets/MailingLists/Representatives.xls
+- url: https://www.rilegislature.gov/SiteAssets/Representatives.xls
+  note: Detail Excel Source
+- url: https://www.rilin.state.ri.us/representatives/Fellela
+- url: https://www.rilin.state.ri.us/representatives/Fellela/
+extras:
+  City/Town Represented: Johnston

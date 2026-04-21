@@ -1,0 +1,55 @@
+id: ocd-person/59c5505d-902d-4b6a-b3d5-8e036e640348
+name: Sam Zager
+given_name: Sam
+family_name: Zager
+gender: Male
+email: sam.zager@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/b6cd2a0d-2b96-4103-a43b-bea5aef4a435_Zager.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '116'
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '116'
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '41'
+offices:
+- classification: capitol
+  address: Room 333, House Democratic Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1418
+  note: homepage
+- url: https://legislature.maine.gov/housedems/zagers/index.html
+- url: https://www.maine.gov/housedems/zagers
+other_names:
+- name: S. Zager
+- name: S.L. Zager
+- name: Samuel Lewis Zager
+- name: Samuel ZAGER
+- name: ZAGER of Portland
+- name: Zager, S.
+sources:
+- url: https://ballotpedia.org/Samuel_Zager
+- url: https://en.wikipedia.org/wiki/Samuel_Zager
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1418
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/housedems/zagers/index.html
+- url: https://www.linkedin.com/in/sam-zager-5158605
+- url: https://www.maine.gov/housedems/zagers
+extras:
+  Seat Number: '120'
+  towns represented:
+  - Portland (Part)
+  occupation: Family Physician
+  education: U.S. Naval Academy; University of Oxford (UK); Harvard Medical School;
+    Maine Medical Center Family Medicine Residency

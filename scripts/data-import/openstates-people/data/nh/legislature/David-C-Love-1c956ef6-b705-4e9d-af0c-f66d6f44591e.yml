@@ -1,0 +1,54 @@
+id: ocd-person/1c956ef6-b705-4e9d-af0c-f66d6f44591e
+name: David Love
+given_name: David
+family_name: Love
+gender: Male
+email: david.love@gc.nh.gov
+image: https://vote-usa.org/Image.aspx?Id=NHLoveDavidC&Col=Profile300&Def=Profile300
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 13
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 13
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 6
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=8407
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=8407
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8407
+  note: member detail page
+other_names:
+- name: D. Love
+- name: D.C. Love
+- name: David C. Love
+- name: Love, D.
+sources:
+- url: https://ballotpedia.org/David_Love
+- url: https://en.wikipedia.org/wiki/David_Love_(politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=8407
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=8407
+- url: https://justfacts.votesmart.org/candidate/biography/173059/david-love
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408905
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8407
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: M

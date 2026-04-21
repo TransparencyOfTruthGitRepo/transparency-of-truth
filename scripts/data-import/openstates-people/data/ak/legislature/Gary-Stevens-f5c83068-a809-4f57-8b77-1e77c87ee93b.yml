@@ -1,0 +1,78 @@
+id: ocd-person/f5c83068-a809-4f57-8b77-1e77c87ee93b
+name: Gary Stevens
+given_name: Gary
+family_name: Stevens
+birth_date: 1941-08-21
+gender: Male
+email: senator.gary.stevens@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/STG.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-17
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: C
+- start_date: 2015-01-26
+  end_date: 2023-01-16
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: C
+- start_date: 2003-01-20
+  end_date: 2003-02-19
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: C
+- start_date: 2003-02-19
+  end_date: 2015-01-26
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: C
+- start_date: 2001-01-08
+  end_date: 2003-01-20
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: C
+- end_date: 2023-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: P
+offices:
+- classification: capitol
+  address: State Capitol Room 111, 120 4th St., Juneau, AK 99801
+  voice: 907-465-4925
+- classification: district
+  address: 305 Center Ave. Suite 1, Kodiak, AK 99615
+  voice: 907-486-4925
+links:
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=stg
+- url: https://www.akleg.gov/basis/Member/Detail/31?code=stg
+- url: https://www.akleg.gov/basis/Member/Detail/32?code=stg
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=stg
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=stg
+other_names:
+- name: G. Stevens
+- name: G.L. Stevens
+- name: Gary L. Stevens
+- name: Gary Lee Stevens
+- name: Stevens, G.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AKL000001
+- scheme: legacy_openstates
+  identifier: AKL000173
+sources:
+- url: https://ballotpedia.org/Gary_Stevens
+- url: https://en.wikipedia.org/wiki/Gary_Stevens_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/12784/gary-stevens
+- url: https://w3.akleg.gov
+- url: https://w3.akleg.gov/
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=stg
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=STG
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=stg
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=stg
+extras:
+  title: Senate President
+  toll_free_phone: 800-821-4925

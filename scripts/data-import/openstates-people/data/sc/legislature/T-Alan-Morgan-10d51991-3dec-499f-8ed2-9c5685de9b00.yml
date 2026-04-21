@@ -1,0 +1,42 @@
+id: ocd-person/10d51991-3dec-499f-8ed2-9c5685de9b00
+name: Alan Morgan
+given_name: Alan
+family_name: Morgan
+birth_date: 1988-02-08
+gender: Male
+email: alanmorgan@schouse.gov
+image: https://scstatehouse.gov/images/members/1374999835.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-06-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '18'
+offices:
+- classification: capitol
+  address: Room 312C, Blatt Building P.O. Box 11867, Columbia, SC 29201
+  voice: 803-212-6881
+links:
+- url: https://scstatehouse.gov/member.php?code=1374999835
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=1374999835
+  note: homepage
+other_names:
+- name: A. Morgan
+- name: Morgan, A.
+- name: Morgan, Alan
+- name: Morgan, T. Alan
+- name: T. Alan Morgan
+- name: T.A. Morgan
+sources:
+- url: https://ballotpedia.org/Alan_Morgan
+- url: https://en.wikipedia.org/wiki/Alan_Morgan_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/204133/t-alan-morgan
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=1374999835
+- url: https://www.linkedin.com/in/alan-morgan
+- url: https://www.scstatehouse.gov/member.php?chamber=H
+- url: https://www.scstatehouse.gov/member.php?code=1374999835
+extras:
+  counties represented: Greenville County

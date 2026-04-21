@@ -1,0 +1,71 @@
+id: ocd-person/cfed8eb6-ad00-4414-9ceb-bd5d46c5974f
+name: Brian Boner
+given_name: Brian
+family_name: Boner
+birth_date: 1984-12-10
+gender: Male
+email: brian.boner@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-BonerBrian.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-03-19
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '2'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 1308, Douglas, WY 82633
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/S/2021
+- url: https://www.wyoleg.gov/Legislators/2025/S/2021
+- url: https://wyoleg.gov/Legislators/2019/R/2021
+- url: https://wyoleg.gov/Legislators/2021/R/2021
+other_names:
+- name: B. Boner
+- name: Boner, B
+- name: Boner, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000136
+sources:
+- url: https://ballotpedia.org/Brian_Boner
+- url: https://en.wikipedia.org/wiki/Brian_Boner
+- url: https://justfacts.votesmart.org/candidate/biography/156618/brian-boner
+- url: https://www.linkedin.com/in/brian-boner-40a4882a
+- url: https://www.wyoleg.gov/Legislators/2023/S/2021
+- url: https://www.wyoleg.gov/Legislators/2025/S/2021
+- url: https://wyoleg.gov/Legislators/2019/R/2021
+- url: https://wyoleg.gov/Legislators/2021/R/2021
+- url: https://wyoleg.gov/LsoService/api/legislator/2021
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+extras:
+  county: Converse, Natrona Counties
+  education:
+  - schoolName: University of Wyoming
+    gradYear: '2007'
+    degree: B.S.-Political Science
+  - schoolName: University of Wyoming
+    gradYear: '2007'
+    degree: B.S.-Russian
+  - schoolName: University of Nebraska
+    gradYear: '2011'
+    degree: MBA-Agribusiness
+  religion: Catholic
+  spouse name: Nicole
+  occupation: Farmer/Rancher
+  organizations:
+  - orgname: Moose Lodge
+  - orgname: Knights of Columbus
+  - orgname: American Legion
+  - orgname: Wyoming LEAD Class 13
+  - orgname: Association of Air Force Missileers
+  senate years: 'Senate: 2015-Present'
+  prior service:
+  - chamber: Senate
+    startYear: 2015
+    endYear: Present
+    district: ' District 02, '

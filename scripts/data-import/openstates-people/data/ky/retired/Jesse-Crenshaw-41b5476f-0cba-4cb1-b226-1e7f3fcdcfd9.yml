@@ -1,0 +1,20 @@
+id: ocd-person/41b5476f-0cba-4cb1-b226-1e7f3fcdcfd9
+name: Jesse Crenshaw
+given_name: Jesse
+family_name: Crenshaw
+image: http://www.lrc.ky.gov/pubinfo/thumbnails/House77.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '77'
+links:
+- url: http://www.lrc.ky.gov/legislator/H077.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000057
+sources:
+- url: http://www.lrc.ky.gov/legislator/H077.htm

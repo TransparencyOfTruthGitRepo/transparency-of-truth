@@ -1,0 +1,60 @@
+id: ocd-person/e79049b8-a6d9-4356-a190-fc1e90837d5d
+name: John Winter
+given_name: John
+family_name: Winter
+gender: Male
+email: john.winter@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-WinterJohn.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '28'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district
+  address: P. O. Box 311, Thermopolis, WY 82443
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/H/2056
+- url: https://www.wyoleg.gov/Legislators/2025/H/2056
+- url: https://wyoleg.gov/Legislators/2019/R/2056
+- url: https://wyoleg.gov/Legislators/2021/R/2056
+other_names:
+- name: J. Winter
+- name: Winter, J
+- name: Winter, J.
+sources:
+- url: https://ballotpedia.org/John_Winter_(Wyoming)
+- url: https://en.wikipedia.org/wiki/John_Winter_(Wyoming_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/184072/john-winter
+- url: https://www.wyoleg.gov/Legislators/2023/H/2056
+- url: https://www.wyoleg.gov/Legislators/2025/H/2056
+- url: https://wyoleg.gov/Legislators/2019/R/2056
+- url: https://wyoleg.gov/Legislators/2021/R/2056
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2056
+extras:
+  county: Big Horn, Fremont, Hot Springs, Park Counties
+  education:
+  - schoolName: University of Wyoming
+    gradYear: '1972'
+    degree: B.S. Range Management
+  religion: Church of Jesus Christ of Latter Day Saints
+  spouse name: S. Diane Winter
+  number of children: '10'
+  birth place: Cody,Wyoming
+  occupation: Rancher / Wyoming Outfitter& Guide
+  organizations:
+  - orgname: Wyoming Outfitters & Guides Assn.
+  - orgname: Hot Springs County Farm Bureau
+  - orgname: National Rifle Association
+  house years: 'House:  2019-Present'
+  prior service:
+  - chamber: House
+    startYear: 2019
+    endYear: Present
+    district: ' District 28, '

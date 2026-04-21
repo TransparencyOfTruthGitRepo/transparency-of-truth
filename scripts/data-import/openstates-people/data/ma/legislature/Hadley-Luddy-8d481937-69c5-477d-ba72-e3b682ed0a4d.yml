@@ -1,0 +1,30 @@
+id: ocd-person/8d481937-69c5-477d-ba72-e3b682ed0a4d
+name: Hadley Luddy
+given_name: Hadley
+family_name: Luddy
+gender: Female
+email: hadley.luddy@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/H_L1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 4th Barnstable
+offices:
+- classification: capitol
+  address: Room 448, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2582
+links:
+- url: https://malegislature.gov/Legislators/Profile/H_L1
+other_names:
+- name: H. Luddy
+- name: Luddy, H.
+sources:
+- url: https://ballotpedia.org/Hadley_Luddy
+- url: https://en.wikipedia.org/wiki/Hadley_Luddy
+- url: https://malegislature.gov/Legislators/Profile/H_L1
+- url: https://www.linkedin.com/in/hadley-luddy-0172bb11
+extras:
+  member code: H_L1

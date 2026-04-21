@@ -1,0 +1,66 @@
+id: ocd-organization/ccb3f896-65e2-4cdb-bedc-b4346c1154c2
+jurisdiction: ocd-jurisdiction/country:us/state:ok/government
+classification: committee
+name: Administrative Rules
+chamber: lower
+sources:
+- url: https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=417&SubCommID=0
+- url: https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=498&SubCommID=0
+- url: https://www.okhouse.gov/committees/house
+  note: House committees list page
+- url: https://www.okhouse.gov/committees/house/admnrul
+  note: Committee details page
+links:
+- url: https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=417&SubCommID=0
+  note: homepage
+- url: https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=498&SubCommID=0
+  note: homepage
+- url: https://www.okhouse.gov/committees/house/admnrul
+  note: homepage
+members:
+- name: Gerrid Kendrix
+  role: chair
+  person_id: ocd-person/1120aff3-9773-4cc8-9c47-18026559363a
+- name: Kevin Norwood
+  role: vice chair
+  person_id: ocd-person/7a7aca64-e9e6-465e-a423-6e4cf939c67a
+- name: Aletia Timmons
+  role: member
+  person_id: ocd-person/a91af3e5-8f27-4aa3-9c5d-6166eeb7ec8a
+- name: Clay Staires
+  role: member
+  person_id: ocd-person/82e04ad9-64c8-4439-9853-cbc3e273d637
+- name: Cody Maynard
+  role: member
+  person_id: ocd-person/17d5c3a4-a468-4aca-b58c-314605214857
+- name: Collin Duel
+  role: member
+  person_id: ocd-person/0cffa048-1b45-4609-a1b6-9e741ca1948c
+- name: Jason Blair
+  role: member
+  person_id: ocd-person/a791f43c-0ca9-42aa-b90a-98968718a7e1
+- name: John Waldron
+  role: member
+  person_id: ocd-person/6a662cc1-492b-4c65-a77c-9b8b202b1ae5
+- name: Kevin West
+  role: member
+  person_id: ocd-person/fa002548-470f-4cf0-8365-f6f5aa0c50c7
+- name: Marilyn Stark
+  role: member
+  person_id: ocd-person/aefe24ff-5a23-48bd-a5df-faa7b3dd0af9
+- name: Mark Chapman
+  role: member
+  person_id: ocd-person/a688f8ac-d265-4830-963f-617b726524ed
+- name: Michelle McCane
+  role: member
+  person_id: ocd-person/5822cf27-1b1f-40bd-ace3-a06a7f304820
+- name: Rande Worthen
+  role: member
+  person_id: ocd-person/cfa7e540-ce4e-4230-9f82-9784d11733cb
+- name: Ryan Eaves
+  role: member
+  person_id: ocd-person/f61f3be0-ac28-411d-9641-917af1eb6753
+other_names:
+- name: House Administrative Rules
+- name: House Administrative Rules Committee
+- name: House Committee on Administrative Rules

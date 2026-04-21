@@ -1,0 +1,46 @@
+id: ocd-person/b31cb55a-94ea-4f44-a4b9-8003b32c749a
+name: John Hoffman
+given_name: John
+family_name: Hoffman
+birth_date: 1965-01-17
+gender: Male
+email: sen.john.hoffman@senate.mn
+image: https://www.senate.mn/graphics/36Hoffman.jpg
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '34'
+- end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '36'
+offices:
+- classification: capitol
+  address: Room 2111, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-4154
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1205
+other_names:
+- name: Hoffman, J.
+- name: J. Hoffman
+- name: J.A. Hoffman
+- name: John A. Hoffman
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000516
+sources:
+- url: https://ballotpedia.org/John_Hoffman_(Minnesota)
+- url: https://en.wikipedia.org/wiki/John_Hoffman_(Minnesota_politician)
+- url: https://en.wikipedia.org/wiki/John_Hoffman_(politician)
+- url: https://justfacts.votesmart.org/candidate/140901/john-hoffman
+- url: https://www.johnhoffmanmn.com
+- url: https://www.johnhoffmanmn.com/about-john/biography
+- url: https://www.linkedin.com/in/jhoffman1
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/index.php
+- url: https://www.senate.mn/members/list.csv
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1205

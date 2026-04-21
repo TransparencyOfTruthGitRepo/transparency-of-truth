@@ -1,0 +1,32 @@
+id: ocd-person/8dc23ca9-1ad8-466d-83d4-453f1bf324b0
+name: Paul Waggoner
+given_name: Paul
+family_name: Waggoner
+gender: Male
+email: paul.waggoner@house.ks.gov
+image: https://www.kslegislature.org/li/s/images/pics/rep_waggoner_paul_1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '104'
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_waggoner_paul_1/
+- url: https://www.kslegislature.org/li/b2019_20/members/rep_waggoner_paul_1/
+- url: https://www.kslegislature.org/li/b2021_22/members/rep_waggoner_paul_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_waggoner_paul_1/
+other_names:
+- name: P. Waggoner
+- name: Waggoner, P.
+sources:
+- url: https://ballotpedia.org/Paul_Waggoner
+- url: https://en.wikipedia.org/wiki/Paul_Waggoner_(politician)
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_waggoner_paul_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_waggoner_paul_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_waggoner_paul_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_waggoner_paul_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_waggoner_paul_1/
+extras:
+  occupation: Manager, Waggoners, Inc.

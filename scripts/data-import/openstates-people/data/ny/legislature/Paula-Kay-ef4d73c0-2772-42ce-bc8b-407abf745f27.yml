@@ -1,0 +1,36 @@
+id: ocd-person/ef4d73c0-2772-42ce-bc8b-407abf745f27
+name: Paula Kay
+given_name: Paula
+family_name: Kay
+gender: Female
+email: kayp@nyassembly.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Rebecca_Gatto_20240808_100808.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '100'
+offices:
+- classification: capitol
+  address: Room 435, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-5355
+- classification: district
+  address: 461 Broadway, Monticello, NY 12701
+  voice: 845-794-5807
+- classification: district
+  address: Middletown City Hall, Third Floor 16 James St., Middletown, NY 10940
+  voice: 845-342-9304
+links:
+- url: https://nyassembly.gov/mem/Paula-Elaine-Kay
+other_names:
+- name: Kay, P.
+- name: P. Kay
+- name: P.E. Kay
+sources:
+- url: https://ballotpedia.org/Paula_Kay
+- url: https://en.wikipedia.org/wiki/Paula_Kay
+- url: https://justfacts.votesmart.org/candidate/216765/paula-kay
+- url: https://nyassembly.gov/mem/Paula-Elaine-Kay
+- url: https://www.linkedin.com/in/paula-elaine-kay-93078910

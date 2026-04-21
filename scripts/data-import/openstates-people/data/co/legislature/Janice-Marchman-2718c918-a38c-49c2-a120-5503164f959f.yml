@@ -1,0 +1,36 @@
+id: ocd-person/2718c918-a38c-49c2-a120-5503164f959f
+name: Janice Marchman
+given_name: Janice
+family_name: Marchman
+gender: Female
+email: janice.marchman.senate@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_marchman%2Cjanice.jpg?itok=Of-P3JI-
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '15'
+offices:
+- classification: capitol
+  address: State Capitol Room 346, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-4853
+links:
+- url: https://leg.colorado.gov/legislators/janice-marchman
+  note: homepage
+other_names:
+- name: J. Marchman
+- name: Marchman J.
+- name: Marchman, J.
+sources:
+- url: https://ballotpedia.org/Janice_Marchman
+- url: https://en.wikipedia.org/wiki/Janice_Marchman
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/janice-marchman
+- url: https://www.linkedin.com/in/janice-marchman-a123a32b
+extras:
+  counties represented:
+  - Boulder
+  - Larimer

@@ -1,0 +1,29 @@
+id: ocd-person/1a7c3ce0-97be-4601-895d-8300458a7e42
+name: Todd Carver
+given_name: Todd
+family_name: Carver
+gender: Male
+email: todd.carver@ncleg.gov
+image: https://www.iredellfreenews.com/wp-content/uploads/2023/12/Todd-Carver.jpg.webp
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '95'
+offices:
+- classification: capitol
+  address: Room 603, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-733-5741
+- classification: district-mail
+  address: Room 603, 300 N. Salisbury St., Raleigh, NC 27603
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/842
+other_names:
+- name: Carver, T.
+- name: T. Carver
+sources:
+- url: https://ballotpedia.org/Todd_Carver
+- url: https://www.ncleg.gov/Members/Biography/H/842

@@ -1,0 +1,34 @@
+id: ocd-person/55a6fa48-006b-48ee-bffd-655ed7e56fce
+name: Sharon MacDonell
+given_name: Sharon
+family_name: MacDonell
+gender: Female
+email: sharonmacdonell@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '56'
+offices:
+- classification: capitol
+  address: Room N-990, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-2617
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/Sharon-MacDonell/
+other_names:
+- name: MacDonell, S.
+- name: S. MacDonell
+sources:
+- url: https://ballotpedia.org/Sharon_MacDonell
+- url: https://housedems.com/Sharon-MacDonell
+- url: https://housedems.com/Sharon-MacDonell/
+  note: Member Details Page
+- url: https://housedems.com/sharon-macdonell/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/sharonmacd

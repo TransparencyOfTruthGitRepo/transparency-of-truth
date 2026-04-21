@@ -1,0 +1,29 @@
+id: ocd-person/76c59be2-cf5e-49d2-8dd6-7d2506a7bcef
+name: Jackie Addison
+given_name: Jackie
+family_name: Addison
+birth_date: 1962-09-14
+gender: Female
+email: jackie.addison@house.maryland.gov
+image: https://mgaleg.maryland.gov/2023RS/images/addison01.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '45'
+offices:
+- classification: capitol
+  address: Room 216, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3551
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/addison01
+other_names:
+- name: Addison, J.
+- name: J. Addison
+- name: J.T. Addison
+sources:
+- url: https://ballotpedia.org/Jackie_Addison
+- url: https://en.wikipedia.org/wiki/Jackie_Addison
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/addison01

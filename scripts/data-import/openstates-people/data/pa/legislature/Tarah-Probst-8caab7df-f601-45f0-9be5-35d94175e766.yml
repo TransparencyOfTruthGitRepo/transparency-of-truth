@@ -1,0 +1,50 @@
+id: ocd-person/8caab7df-f601-45f0-9be5-35d94175e766
+name: Tarah Probst
+given_name: Tarah
+family_name: Probst
+gender: Female
+email: repprobst@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/1982.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '189'
+offices:
+- classification: capitol
+  address: Room 5A, East Wing P.O. Box 202189, Harrisburg, PA 17120
+  voice: 717-772-1421
+- classification: district
+  address: 116 Wilson High Road, Dingmans Ferry, PA 18328
+- classification: district
+  address: 18 S. 9th St. Suite 105, Stroudsburg, PA 18360
+  voice: 570-420-2850
+- classification: district
+  address: 193 Municipal Drive, Bushkill, PA 18324
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1982
+  note: homepage
+- url: https://www.pahouse.com/Probst/
+- url: https://www.palegis.us/house/members/bio/1982/rep-probst
+other_names:
+- name: Probst, T.
+- name: T. Probst
+- name: T.D. Probst
+ids:
+  twitter: RepProbst
+  facebook: RepProbst
+sources:
+- url: https://ballotpedia.org/Tarah_Probst
+- url: https://en.wikipedia.org/wiki/Tarah_Probst
+- url: https://justfacts.votesmart.org/candidate/biography/179199/tarah-probst
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1982
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.pahouse.com/Probst
+- url: https://www.palegis.us/house/members/bio/1982/rep-probst
+extras:
+  Education:
+  - East Stroudsburg High School, 1988 College Prep
+  - King's College, 1992 B.A. Communications
+  - Widener University of Law, 2003 J.D.

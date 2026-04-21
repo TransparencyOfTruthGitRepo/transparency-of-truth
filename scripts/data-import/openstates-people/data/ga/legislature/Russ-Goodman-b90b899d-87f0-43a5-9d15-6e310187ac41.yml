@@ -1,0 +1,55 @@
+id: ocd-person/b90b899d-87f0-43a5-9d15-6e310187ac41
+name: Russ Goodman
+given_name: Russ
+family_name: Goodman
+birth_date: 1977-04-14
+gender: Male
+email: russ.goodman@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/goodman-russ-4977.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room 301-A, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-463-1318
+- classification: district
+  address: 9677 Frank S. Sessoms Memorial Highway, Homerville, GA 31634
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/4977
+- url: https://www.legis.ga.gov/members/senate/4977?session=1029
+- url: https://www.legis.ga.gov/members/senate/4977?session=1031
+  note: HTML member detail page
+- url: https://www.legis.ga.gov/members/senate/4977?session=1032
+other_names:
+- name: GOODMAN, 8TH
+- name: Goodman, R.
+- name: R. Goodman
+- name: R.E. Goodman
+sources:
+- url: https://ballotpedia.org/Russ_Goodman
+- url: https://en.wikipedia.org/wiki/Russ_Goodman
+- url: https://justfacts.votesmart.org/candidate/biography/190131/russ-goodman
+- url: https://www.legis.ga.gov/api/members/detail/4977?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4977?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/4977
+- url: https://www.legis.ga.gov/members/senate/4977?session=1029
+- url: https://www.legis.ga.gov/members/senate/4977?session=1031
+- url: https://www.linkedin.com/in/russ-goodman-25634545
+extras:
+  residence: Cogdell
+  city: Cogdell
+  georgia_id: 4977
+  staff: Rachel Whitted
+  staff email: rachel.whitted@senate.ga.gov

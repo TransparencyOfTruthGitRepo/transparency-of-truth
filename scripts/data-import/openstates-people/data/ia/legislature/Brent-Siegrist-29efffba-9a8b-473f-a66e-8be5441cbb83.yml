@@ -1,0 +1,44 @@
+id: ocd-person/29efffba-9a8b-473f-a66e-8be5441cbb83
+name: Brent Siegrist
+given_name: Brent
+family_name: Siegrist
+birth_date: 1952-09-30
+gender: Male
+email: brent.siegrist@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30646
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '19'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '16'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://iowahouserepublicans.nationbuilder.com/reps
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=30646&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30646
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=30646
+other_names:
+- name: B. Siegrist
+- name: J.B. Siegrist
+- name: Siegrist, B.
+sources:
+- url: https://ballotpedia.org/Brent_Siegrist
+- url: https://en.wikipedia.org/wiki/Brent_Siegrist
+- url: https://justfacts.votesmart.org/candidate/biography/6544/j-brent-siegrist
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30646
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=30646
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=30646
+- url: https://www.linkedin.com/in/brent-siegrist-a619a8108
+extras:
+  home email: siegristbrent2@gmail.com
+  occupation: Legislator

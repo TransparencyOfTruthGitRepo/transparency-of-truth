@@ -1,0 +1,48 @@
+id: ocd-person/236ec233-4d24-4514-82a5-05a028c1de14
+name: Stephanie Gricius
+given_name: Stephanie
+family_name: Gricius
+gender: Female
+email: sgricius@le.utah.gov
+image: https://le.utah.gov/images/legislator/GRICIS.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '50'
+offices:
+- classification: capitol
+  address: P.O. Box 145030 350 N. State St., Suite 350, Salt Lake City, UT 84114
+  voice: 801-538-1029
+- classification: district
+  address: UT
+  voice: 801-901-8251
+links:
+- url: https://house.utah.gov/rep/GRICIS/
+  note: homepage
+- url: https://house.utleg.gov/rep/GRICIS/
+- url: https://le.utah.gov/asp/billsintro/RepResults.asp?Listbox3=GRICIS
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/House_Dist50.pdf
+  note: district demographics
+other_names:
+- name: Gricius, S.
+- name: Gricius, Stephanie
+- name: S. Gricius
+sources:
+- url: https://ballotpedia.org/Stephanie_Gricius
+- url: https://en.wikipedia.org/wiki/Stephanie_Gricius
+- url: https://house.utah.gov/rep/GRICIS
+- url: https://house.utah.gov/rep/GRICIS/
+- url: https://house.utleg.gov/rep/GRICIS
+- url: https://house.utleg.gov/rep/GRICIS/
+- url: https://justfacts.votesmart.org/candidate/biography/204518/stephanie-gricius
+- url: https://le.utah.gov/data/legislators.json
+extras:
+  service start: January 1, 2023
+  profession: Entrepreneur
+  counties represented:
+  - Utah
+  cell phone: 801-901-8251

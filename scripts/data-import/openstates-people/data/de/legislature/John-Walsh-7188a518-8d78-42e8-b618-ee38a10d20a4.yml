@@ -1,0 +1,41 @@
+id: ocd-person/7188a518-8d78-42e8-b618-ee38a10d20a4
+name: Jack Walsh
+given_name: Jack
+family_name: Walsh
+gender: Male
+email: john.walsh@delaware.gov
+image: https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2023/03/Senator-Walsh.png
+party:
+- name: Democratic
+roles:
+- start_date: 2016-11-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:de/government
+  district: '9'
+offices:
+- classification: capitol
+  address: P.O. Box 1401 411 Legislative Ave., Dover, DE 19901
+  voice: 302-744-4163
+links:
+- url: https://legis.delaware.gov/AssemblyMember/150/Walsh
+- url: https://legis.delaware.gov/LegislatorDetail?personId=3131
+  note: legislator page
+- url: https://senatedems.delaware.gov/members/senate-district-9/
+other_names:
+- name: J. Walsh
+- name: John "Jack" Walsh
+- name: John Walsh
+- name: Walsh, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: DEL000152
+sources:
+- url: https://ballotpedia.org/Jack_Walsh_(Delaware)
+- url: https://en.wikipedia.org/wiki/Jack_Walsh_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/174060/jack-walsh
+- url: https://legis.delaware.gov/AssemblyMember/150/Walsh
+- url: https://legis.delaware.gov/json/Senate/GetSenators
+- url: https://legis.delaware.gov/LegislatorDetail?personId=3131
+- url: https://legis.delaware.gov/Senate
+  note: legislator list page
+- url: https://senatedems.delaware.gov/members/senate-district-9

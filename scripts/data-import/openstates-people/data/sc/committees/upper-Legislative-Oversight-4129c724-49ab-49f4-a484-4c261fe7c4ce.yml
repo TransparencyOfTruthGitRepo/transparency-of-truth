@@ -1,0 +1,57 @@
+id: ocd-organization/4129c724-49ab-49f4-a484-4c261fe7c4ce
+jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+classification: committee
+name: Legislative Oversight
+chamber: upper
+sources:
+- url: https://www.scstatehouse.gov/committee.php?chamber=S
+  note: Committee list page
+- url: https://www.scstatehouse.gov/CommitteeInfo/senateloc.php
+  note: Committee details page
+links:
+- url: https://www.scstatehouse.gov/CommitteeInfo/senateloc.php
+  note: homepage
+members:
+- name: Thomas Alexander
+  role: chair
+  person_id: ocd-person/06c7c886-4087-499e-855c-f36b0fa75195
+- name: Brad Hutto
+  role: member
+  person_id: ocd-person/16ba6021-423d-4b0d-b899-d2fe18778c12
+- name: Chip Campsen
+  role: member
+  person_id: ocd-person/2ff21c9e-e03e-4f5c-ac4e-7b1e5633969d
+- name: Darrell Jackson
+  role: member
+  person_id: ocd-person/4eca904a-5153-440d-8e5c-4c9e056a1dd1
+- name: Harvey Peeler
+  role: member
+  person_id: ocd-person/8b81073b-87da-4f5c-aacb-f387b69456cc
+- name: Karl Allen
+  role: member
+  person_id: ocd-person/946afea5-c89c-4a8f-a80e-a841bf7e899a
+- name: Kent Williams
+  role: member
+  person_id: ocd-person/0fdf2e22-badf-4b5c-be34-969781dc40a3
+- name: Margie Bright Matthews
+  role: member
+  person_id: ocd-person/829bd3ab-d117-43fd-b274-f9ff8177c789
+- name: Ronnie Sabb
+  role: member
+  person_id: ocd-person/92a0b883-789a-4291-b2f1-330ec804ba12
+- name: Shane Massey
+  role: member
+  person_id: ocd-person/340b7b78-4f07-49ef-8872-dab35cf48c5c
+- name: Tom Davis
+  role: member
+  person_id: ocd-person/33fe6bed-f8b0-4002-90fa-870813b72caf
+- name: Tom Young
+  role: member
+  person_id: ocd-person/b01d47f8-2131-4fe5-a611-d1b571696346
+- name: Wes Climer
+  role: member
+  person_id: ocd-person/cccdb27c-0ed3-4d26-b2e1-5dd7c94e79ab
+other_names:
+- name: Senate Committee on Legislative Oversight
+- name: Senate Legislative Oversight
+- name: Senate Legislative Oversight Committee

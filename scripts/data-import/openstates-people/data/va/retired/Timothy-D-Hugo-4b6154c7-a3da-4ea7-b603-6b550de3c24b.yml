@@ -1,0 +1,21 @@
+id: ocd-person/4b6154c7-a3da-4ea7-b603-6b550de3c24b
+name: Timothy D. Hugo
+given_name: Timothy D.
+family_name: Hugo
+gender: Male
+image: http://memdata.virginiageneralassembly.gov/images/display_image/H0162
+party:
+- name: Republican
+roles:
+- end_date: '2019-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '40'
+links:
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H162
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000080
+sources:
+- url: http://lis.virginia.gov/191/mbr/MBR.HTM
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H162

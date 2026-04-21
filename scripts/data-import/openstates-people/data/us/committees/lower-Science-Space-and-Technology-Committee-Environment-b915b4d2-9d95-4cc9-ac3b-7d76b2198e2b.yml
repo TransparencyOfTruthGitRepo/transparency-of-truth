@@ -1,0 +1,43 @@
+id: ocd-organization/b915b4d2-9d95-4cc9-ac3b-7d76b2198e2b
+jurisdiction: ocd-jurisdiction/country:us/government
+classification: subcommittee
+name: Science, Space and Technology Committee Environment
+chamber: lower
+sources:
+- url: https://science.house.gov/subcommittee-environment
+parent: ocd-organization/3784e5c7-f164-569f-b164-2accdc099783
+links:
+- url: https://science.house.gov/subcommittee-environment
+members:
+- name: Scott Franklin
+  role: chair
+  person_id: ocd-person/04fde057-6aef-56ae-9baa-b1450d74ab09
+- name: Brian Babin
+  role: ex officio
+  person_id: ocd-person/e1f14f02-810c-52c5-8ad5-b2744b95a069
+- name: Zoe Lofgren
+  role: ex officio
+  person_id: ocd-person/80764021-2b87-5b48-8999-98943700dea8
+- name: Gabe Amo
+  role: ranking member
+  person_id: ocd-person/c0f06e59-7d28-535f-8efe-5f49f273763d
+- name: David Rouzer
+  role: member
+  person_id: ocd-person/5e9726e3-2aae-5708-9227-0e95ac43c203
+- name: Deborah Ross
+  role: member
+  person_id: ocd-person/ea21df34-9ef4-5746-b83a-700bdc2d1918
+- name: Jeff Hurd
+  role: member
+  person_id: ocd-person/8c492331-43dd-4525-8f31-9b50cdc86818
+- name: Nick Begich
+  role: member
+  person_id: ocd-person/b0cf2626-c728-4970-bf18-bb30ea91c229
+- name: Suzanne Bonamici
+  role: member
+  person_id: ocd-person/90d40f72-ffae-544d-86bb-b41605730fee
+other_names:
+- name: House Committee on Science, Space, and Technology Subcommittee on Environment
+- name: House Science, Space and Technology Committee Environment
+- name: House Science, Space and Technology Committee Environment Subcommittee
+- name: House Subcommittee on Science, Space and Technology Committee Environment

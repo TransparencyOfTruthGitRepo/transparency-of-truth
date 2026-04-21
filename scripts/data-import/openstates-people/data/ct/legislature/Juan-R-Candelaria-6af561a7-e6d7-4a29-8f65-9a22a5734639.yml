@@ -1,0 +1,44 @@
+id: ocd-person/6af561a7-e6d7-4a29-8f65-9a22a5734639
+name: Juan Candelaria
+given_name: Juan
+family_name: Candelaria
+birth_date: 1970-10-27
+gender: Male
+email: juan.candelaria@cga.ct.gov
+image: http://www2.housedems.ct.gov/Candelaria/images/Candelaria_HS.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2003-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '95'
+offices:
+- classification: capitol
+  address: Room 4015, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27095%27&dist_name=095%20-%Candelaria,%Juan%20R.
+- url: https://www.housedems.ct.gov/Candelaria
+other_names:
+- name: Candelaria, J.
+- name: Candelaria, Juan R.
+- name: J. Candelaria
+- name: J.R. Candelaria
+- name: Juan R. Candelaria
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000131
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Juan_Candelaria
+- url: https://en.wikipedia.org/wiki/Juan_Candelaria
+- url: https://justfacts.votesmart.org/candidate/biography/30401/juan-candelaria
+- url: https://www.housedems.ct.gov/Candelaria
+- url: https://www.linkedin.com/in/juan-candelaria-9a6a478
+extras:
+  gender: Male
+  title: Deputy Speaker of the House
+  committees: Appropriations; Education; General Law
+  committee codes: ;APP;ED;GL;
+  prison: '0'

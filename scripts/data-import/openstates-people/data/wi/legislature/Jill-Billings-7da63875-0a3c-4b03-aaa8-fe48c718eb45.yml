@@ -1,0 +1,58 @@
+id: ocd-person/7da63875-0a3c-4b03-aaa8-fe48c718eb45
+name: Jill Billings
+given_name: Jill
+family_name: Billings
+birth_date: 1962-01-19
+gender: Female
+email: rep.billings@legis.wisconsin.gov
+image: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2448.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2012-01-26
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '95'
+links:
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1540
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1889
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/2124
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2448
+- url: https://docs.legis.wisconsin.gov/2025/legislators/assembly/2714
+- url: https://legis.wisconsin.gov/assembly/95/billings
+other_names:
+- name: BILLINGS, J
+- name: Billings, J
+- name: Billings, J.
+- name: J. Billings
+- name: J.E. Billings
+- name: Jill Elizabeth Billings
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000419
+- scheme: legacy_openstates
+  identifier: WIL000492
+sources:
+- url: https://ballotpedia.org/Jill_Billings
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1540
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1889
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/2124
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/
+  note: members list page
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2448
+  note: member detail page
+- url: https://docs.legis.wisconsin.gov/2025/legislators/assembly/2714
+- url: https://en.wikipedia.org/wiki/Jill_Billings
+- url: https://justfacts.votesmart.org/candidate/98417/jill-billings
+- url: https://legis.wisconsin.gov/assembly/95/billings
+extras:
+  website: http://legis.wisconsin.gov/assembly/95/billings
+  title: Minority Caucus Vice-Chair
+  extra phone: (888) 534-0095
+  staff1: Marissa Howe
+  staff_email1: Marissa.Howe@legis.wisconsin.gov
+  staff2: Eric Koch
+  staff_email2: Eric.Koch@legis.wisconsin.gov

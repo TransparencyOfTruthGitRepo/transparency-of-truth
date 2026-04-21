@@ -1,0 +1,48 @@
+id: ocd-person/7595b557-0c70-44e3-a26b-af533d1ca94d
+name: Peter Wirth
+given_name: Peter
+family_name: Wirth
+birth_date: 1961-12-03
+gender: Male
+email: peter.wirth@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SWIRT.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2009-01-20
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '25'
+offices:
+- classification: capitol
+  address: State Capitol Room 119A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4727
+- classification: district
+  address: NM
+  voice: 505-986-4727
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SWIRT
+  note: homepage
+other_names:
+- name: P. Wirth
+- name: Wirth, P.
+- name: Wirth, Peter
+ids:
+  twitter: senatorwirth
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000025
+- scheme: legacy_openstates
+  identifier: NML000194
+- scheme: legacy_openstates
+  identifier: NML000379
+sources:
+- url: https://ballotpedia.org/Peter_Wirth
+- url: https://en.wikipedia.org/wiki/Peter_Wirth_(politician)
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SWIRT
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: Santa Fe
+  service: Representative from 2004-2008; Senator since 2009
+  occupation: Attorney

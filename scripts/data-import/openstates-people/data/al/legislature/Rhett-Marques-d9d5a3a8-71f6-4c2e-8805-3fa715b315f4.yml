@@ -1,0 +1,41 @@
+id: ocd-person/d9d5a3a8-71f6-4c2e-8805-3fa715b315f4
+name: Rhett Marques
+given_name: Rhett
+family_name: Marques
+birth_date: 1972-12-03
+gender: Male
+email: rhett.marques@alhouse.gov
+image: https://www.legislature.state.al.us/pdf/house/members/Marques_91.png
+party:
+- name: Republican
+roles:
+- start_date: 2018-11-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '91'
+offices:
+- classification: capitol
+  address: Room 431, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0473
+- classification: district
+  address: 1161 Geneva Highway, Enterprise, AL 36330
+  voice: 334-289-5664
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100573&OID_PERSON=8513
+other_names:
+- name: Marques, R.
+- name: R. Marques
+- name: R.W. Marques
+sources:
+- url: https://ballotpedia.org/Rhett_Marques
+- url: https://en.wikipedia.org/wiki/Rhett_Marques
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/180607/rhett-marques
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Marques&OID_SPONSOR=100573&OID_PERSON=8513&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100573&OID_PERSON=8513
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+extras:
+  counties: Coffee County

@@ -1,0 +1,34 @@
+id: ocd-person/16e469e4-8014-4ba2-8fc4-91804d6ef491
+name: Tex Fischer
+given_name: Tex
+family_name: Fischer
+gender: Male
+email: rep59@ohiohouse.gov
+image: https://ogden_images.s3.amazonaws.com/www.salemnews.net/images/2024/06/27232837/Fischer-Tex.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '59'
+- start_date: 2024-06-27
+  end_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '58'
+offices:
+- classification: capitol
+  address: 77 S. High St. 13th Floor, Columbus, OH 43215
+  voice: 614-466-6107
+links:
+- url: https://ohiohouse.gov/houseapp/members/tex-fischer
+- url: https://www.ohiohouse.gov/members/tex-fischer
+other_names:
+- name: Fischer, T.
+- name: T. Fischer
+sources:
+- url: https://ballotpedia.org/Tex_Fischer
+- url: https://ohiohouse.gov/houseapp/members/tex-fischer
+- url: https://www.linkedin.com/in/tex-fischer-65613570
+- url: https://www.ohiohouse.gov/members/tex-fischer

@@ -1,0 +1,61 @@
+id: ocd-person/013d012f-a50e-43c8-af40-f12aa852a0da
+name: Celina Villanueva
+given_name: Celina
+family_name: Villanueva
+gender: Female
+email: district@senatorvillanueva.com
+image: https://cdn.ilga.gov/assets/img/members/{F8A21A81-5453-4E94-AC51-E644E1B0C00B}.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '12'
+- end_date: 2020-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '21'
+- start_date: 2020-01-07
+  end_date: 2023-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '11'
+offices:
+- classification: capitol
+  address: Room 631, Capitol Building, Springfield, IL 62706
+  voice: 217-782-5304
+- classification: district
+  address: 2501 S. Central Park Ave. Front Suite, Chicago, IL 60623
+  voice: 773-565-4661
+links:
+- url: https://ilga.gov/senate/Senator.asp?GA=101&MemberID=2777
+- url: https://ilga.gov/senate/Senator.asp?GA=102&MemberID=2976
+- url: https://ilga.gov/senate/Senator.asp?GA=103&MemberID=3167
+  note: homepage
+- url: https://www.ilga.gov/Senate/Members/Details/3375
+- url: https://www.ilga.gov/senate/Senator.asp?GA=103&MemberID=3167
+- url: https://www.ilga.gov/senate/Senator.asp?GA=104&MemberID=3375
+- url: https://www.senatorvillanueva.com/
+other_names:
+- name: C. Villanueva
+- name: Villanueva, C.
+- name: Villanueva, Celina
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ILL001094
+sources:
+- url: https://ballotpedia.org/Celina_Villanueva
+- url: https://en.wikipedia.org/wiki/Celina_Villanueva
+- url: https://ilga.gov/senate/default.asp?GA=101
+- url: https://ilga.gov/senate/default.asp?GA=102
+- url: https://ilga.gov/senate/default.asp?GA=103
+- url: https://ilga.gov/senate/Senator.asp?GA=101&MemberID=2777
+- url: https://ilga.gov/senate/Senator.asp?GA=102&MemberID=2976
+- url: https://ilga.gov/senate/Senator.asp?GA=103&MemberID=3167
+- url: https://justfacts.votesmart.org/candidate/biography/185836/celina-villanueva
+- url: https://www.ilga.gov/Senate/Members/Details/3375
+- url: https://www.ilga.gov/senate/Senator.asp?GA=103&MemberID=3167
+- url: https://www.ilga.gov/senate/Senator.asp?GA=104&MemberID=3375
+- url: https://www.linkedin.com/in/celinavillanueva
+- url: https://www.senatorvillanueva.com

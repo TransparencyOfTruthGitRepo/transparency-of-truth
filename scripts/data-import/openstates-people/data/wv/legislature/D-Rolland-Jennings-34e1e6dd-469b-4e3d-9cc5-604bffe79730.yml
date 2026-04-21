@@ -1,0 +1,50 @@
+id: ocd-person/34e1e6dd-469b-4e3d-9cc5-604bffe79730
+name: Buck Jennings
+given_name: Buck
+family_name: Jennings
+birth_date: 1951-09-03
+gender: Male
+email: buck.jennings@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/jennings_d.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '84'
+- start_date: 2017-10-15
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '84'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '53'
+offices:
+- classification: capitol
+  address: State Capitol Room 207E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3396
+- classification: district
+  address: 2366 Evansville Pike, Thornton, WV 26440
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Jennings
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jennings
+other_names:
+- name: B. Jennings
+- name: D. Rolland Jennings
+- name: D.R. Jennings
+- name: Jennings, B
+- name: Jennings, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000391
+sources:
+- url: https://ballotpedia.org/D.R._Jennings
+- url: https://en.wikipedia.org/wiki/D._Rolland_Jennings
+- url: https://justfacts.votesmart.org/candidate/biography/167574/buck-jennings
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Jennings
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jennings
+- url: https://www.wvlegislature.gov/House/roster.cfm

@@ -1,0 +1,23 @@
+id: ocd-person/e6d5262d-ffbc-46c2-8e21-a41ef9ad2303
+name: Clarice Navarro
+given_name: Clarice
+family_name: Navarro
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2017b_rsz_navarro-co-17.jpg?itok=XTxv1Dl2
+party:
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '47'
+links:
+- url: http://leg.colorado.gov/legislators/clarice-navarro
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: COL000127
+- scheme: legacy_openstates
+  identifier: COL000152
+sources:
+- url: http://leg.colorado.gov/legislators/clarice-navarro
+- url: http://leg.colorado.gov/legislators

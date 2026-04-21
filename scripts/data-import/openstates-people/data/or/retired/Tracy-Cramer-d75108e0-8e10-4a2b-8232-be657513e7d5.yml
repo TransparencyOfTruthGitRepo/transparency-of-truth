@@ -1,0 +1,26 @@
+id: ocd-person/d75108e0-8e10-4a2b-8232-be657513e7d5
+name: Tracy Cramer
+given_name: Tracy
+family_name: Cramer
+gender: Female
+email: rep.tracycramer@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/cramer/PublishingImages/member_photo.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '22'
+  end_date: 2025-01-23
+offices: []
+links:
+- url: https://www.oregonlegislature.gov/cramer
+  note: homepage
+other_names:
+- name: Cramer, T.
+- name: T. Cramer
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Tracy_Cramer
+- url: https://www.oregonlegislature.gov/cramer

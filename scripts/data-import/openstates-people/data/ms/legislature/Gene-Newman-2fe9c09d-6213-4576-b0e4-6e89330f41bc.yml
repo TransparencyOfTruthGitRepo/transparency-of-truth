@@ -1,0 +1,42 @@
+id: ocd-person/2fe9c09d-6213-4576-b0e4-6e89330f41bc
+name: Gene Newman
+given_name: Gene
+family_name: Newman
+birth_date: 1955-12-12
+gender: Male
+email: gnewman@house.ms.gov
+image: http://billstatus.ls.state.ms.us/members/house/newman.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '61'
+offices:
+- classification: capitol
+  address: State Capitol 400 High St., Jackson, MS 39201
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/newman.xml
+  note: homepage
+other_names:
+- name: G. Newman
+- name: Newman, G.
+sources:
+- url: https://ballotpedia.org/Gene_Newman
+- url: https://billstatus.ls.state.ms.us/members/house/newman.xml
+- url: https://billstatus.ls.state.ms.us/members/hr_membs.xml
+- url: https://justfacts.votesmart.org/candidate/biography/186604/gene-newman
+- url: https://www.linkedin.com/in/gene-newman-07a45620
+extras:
+  occupation: Bail Agent/Insurance Agent
+  education:
+  - University of Cincinnati, (M.S.)
+  - University of Southern Miss, (B.S. in Economics)
+  - Copiah Lincoln Jr. College
+  - Pearl High school
+  counties represented:
+  - Rankin
+  other phone: (601)316-2491

@@ -1,0 +1,32 @@
+id: ocd-person/1eece00d-5b31-4be0-9263-b594863b295c
+name: Ken Sweezey
+given_name: Ken
+family_name: Sweezey
+gender: Male
+email: ken.sweezey@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/KPS1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 6th Plymouth
+offices:
+- classification: capitol
+  address: Room 237, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2305
+links:
+- url: https://malegislature.gov/Legislators/Profile/KPS1
+other_names:
+- name: K. Sweezey
+- name: K.P. Sweezey
+- name: Kenneth P. Sweezey
+- name: Sweezey, K.
+sources:
+- url: https://ballotpedia.org/Kenneth_Sweezey
+- url: https://justfacts.votesmart.org/candidate/biography/209621/kenneth-sweezey
+- url: https://malegislature.gov/Legislators/Profile/KPS1
+- url: https://www.linkedin.com/in/kenneth-sweezey-257b1891
+extras:
+  member code: KPS1

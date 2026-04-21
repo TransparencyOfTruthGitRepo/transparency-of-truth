@@ -1,0 +1,24 @@
+id: ocd-person/546c8bff-6c33-47e5-bc79-2ce3c87d14e0
+name: Lee Qualm
+given_name: Lee
+family_name: Qualm
+email: Lee.Qualm@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Qualm_2017.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '21'
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1493&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1569&Session=2019
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000190
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1493&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1569&Session=2019
+extras:
+  occupation: Farmer

@@ -1,0 +1,20 @@
+id: ocd-person/2010a978-bebe-46c6-b493-f621ce07ebdf
+name: Susan A. Bonilla
+given_name: Susan A.
+family_name: Bonilla
+image: http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/11.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/government
+  district: '14'
+links:
+- url: http://asmdc.org/members/a14/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CAL000450
+sources:
+- url: http://assembly.ca.gov/assemblymembers

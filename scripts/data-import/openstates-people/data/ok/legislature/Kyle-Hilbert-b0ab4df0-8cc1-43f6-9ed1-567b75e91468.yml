@@ -1,0 +1,40 @@
+id: ocd-person/b0ab4df0-8cc1-43f6-9ed1-567b75e91468
+name: Kyle Hilbert
+given_name: Kyle
+family_name: Hilbert
+gender: Male
+email: kyle.hilbert@okhouse.gov
+image: https://www.okhouse.gov/Members/Pictures/HiRes/Hilbert,%20Kyle.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-11-23
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ok/government
+  district: '29'
+offices:
+- classification: capitol
+  address: Room 401, 2300 N. Lincoln Blvd., Oklahoma City, OK 73105
+  voice: 405-557-7353
+links:
+- url: https://www.okhouse.gov/Members/Contact.aspx?District=29
+  note: Contact Form
+- url: https://www.okhouse.gov/Members/District.aspx?District=29
+- url: https://www.okhouse.gov/representatives/kyle-hilbert
+other_names:
+- name: Hilbert, K.
+- name: K. Hilbert
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OKL000319
+sources:
+- url: https://ballotpedia.org/Kyle_Hilbert
+- url: https://en.wikipedia.org/wiki/Kyle_Hilbert
+- url: https://justfacts.votesmart.org/candidate/biography/170797/kyle-hilbert
+- url: https://www.linkedin.com/in/kyle-hilbert-13a02baa
+- url: https://www.okhouse.gov/Members/Default.aspx
+- url: https://www.okhouse.gov/Members/District.aspx?District=29
+- url: https://www.okhouse.gov/representatives/kyle-hilbert
+extras:
+  _scraped_name: Hilbert, Kyle
+  email: Kyle.Hilbert@okhouse.gov

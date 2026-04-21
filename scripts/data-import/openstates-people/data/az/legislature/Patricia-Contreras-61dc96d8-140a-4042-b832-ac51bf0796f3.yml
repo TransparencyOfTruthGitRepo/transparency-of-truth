@@ -1,0 +1,34 @@
+id: ocd-person/61dc96d8-140a-4042-b832-ac51bf0796f3
+name: Patty Contreras
+given_name: Patty
+family_name: Contreras
+gender: Female
+email: pcontreras@azleg.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Patty_Contreras.jpeg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '12'
+offices:
+- classification: capitol
+  address: Room 126, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-4057
+links:
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2157
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2302
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2157
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2157
+other_names:
+- name: Contreras, P.
+- name: P. Contreras
+- name: Patricia Contreras
+sources:
+- url: https://ballotpedia.org/Patricia_Contreras
+- url: https://en.wikipedia.org/wiki/Patty_Contreras
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2157
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2302
+- url: https://www.azleg.gov/memberroster/?body=H
+- url: https://www.linkedin.com/in/patty-contreras-71ba62178

@@ -1,0 +1,25 @@
+id: ocd-person/2eda7ff0-af84-4ad3-a72c-ea7c37e46877
+name: Mary Jane Mulligan
+given_name: Mary Jane
+family_name: Mulligan
+email: maryjane.mulligan@leg.state.nh.us
+image: http://www.gencourt.state.nh.us/house/images/memberpics/408502.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Grafton 12
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001353
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408502
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+extras:
+  first_name: Mary Jane
+  last_name: Mulligan
+  middle_name: ''

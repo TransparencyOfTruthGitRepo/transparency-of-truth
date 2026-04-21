@@ -1,0 +1,45 @@
+id: ocd-person/927edca0-8b67-40c6-b786-4cbfac5b344f
+name: John Gillespie
+given_name: John
+family_name: Gillespie
+gender: Male
+email: rep.john.gillespie@capitol.tn.gov
+image: https://www.capitol.tn.gov/house/members/images/h97.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-11-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '97'
+offices:
+- classification: capitol
+  address: Room 590, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-8201
+links:
+- url: https://tnhousegop.org/members/representative-john-gillespie/
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H97
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h97.html
+other_names:
+- name: Gillespie, J
+- name: Gillespie, J.
+- name: J. Gillespie
+sources:
+- url: https://ballotpedia.org/John_Gillespie
+- url: https://en.wikipedia.org/wiki/John_Gillespie_(Tennessee_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/193527/john-gillespie
+- url: https://tnhousegop.org/members/representative-john-gillespie
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H97
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h97.html
+extras:
+  office: 590 CHB
+  personal info:
+  - Born January 17
+  - Nonprofit Development
+  - Episcopalian
+  - B.A. Political Science, High Point University, High Point, NC

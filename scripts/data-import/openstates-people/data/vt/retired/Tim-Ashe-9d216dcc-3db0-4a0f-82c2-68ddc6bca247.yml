@@ -1,0 +1,27 @@
+id: ocd-person/9d216dcc-3db0-4a0f-82c2-68ddc6bca247
+name: Tim Ashe
+given_name: Tim
+family_name: Ashe
+email: tashe@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/TAshe.jpg
+party:
+- name: Democratic/Progressive
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Chittenden
+links:
+- url: http://legislature.vermont.gov/people/single/2020/14665
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000001
+- scheme: legacy_openstates
+  identifier: VTL000352
+- scheme: legacy_openstates
+  identifier: VTL000537
+- scheme: legacy_openstates
+  identifier: VTL000578
+sources:
+- url: http://legislature.vermont.gov/people/loadAll/2020
+- url: http://legislature.vermont.gov/people/single/2020/14665

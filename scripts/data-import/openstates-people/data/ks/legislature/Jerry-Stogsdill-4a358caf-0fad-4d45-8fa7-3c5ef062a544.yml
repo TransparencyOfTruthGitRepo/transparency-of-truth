@@ -1,0 +1,36 @@
+id: ocd-person/4a358caf-0fad-4d45-8fa7-3c5ef062a544
+name: Jerry Stogsdill
+given_name: Jerry
+family_name: Stogsdill
+birth_date: 1947-06-15
+gender: Male
+email: jerry.stogsdill@house.ks.gov
+image: https://www.kslegislature.org/li/s/images/pics/rep_stogsdill_jerry_1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '21'
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_stogsdill_jerry_1/
+- url: https://www.kslegislature.org/li/b2019_20/members/rep_stogsdill_jerry_1/
+- url: https://www.kslegislature.org/li/b2021_22/members/rep_stogsdill_jerry_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_stogsdill_jerry_1/
+other_names:
+- name: J. Stogsdill
+- name: Stogsdill, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KSL000368
+sources:
+- url: https://ballotpedia.org/Jerry_Stogsdill
+- url: https://en.wikipedia.org/wiki/Jerry_Stogsdill
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_stogsdill_jerry_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_stogsdill_jerry_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_stogsdill_jerry_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_stogsdill_jerry_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_stogsdill_jerry_1/
+extras:
+  occupation: Real Estate Investor

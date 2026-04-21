@@ -1,0 +1,24 @@
+id: ocd-person/b1b66e13-b1b1-4589-850d-874de540a2b4
+name: Wayne Shaw
+given_name: Wayne
+family_name: Shaw
+image: http://www.oksenate.gov/Senators/biographies/Shaw_bio.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2021-01-11'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ok/government
+  district: '3'
+links:
+- url: http://oksenate.gov/Senators/biographies/shaw_bio.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OKL000161
+- scheme: legacy_openstates
+  identifier: OKL000217
+sources:
+- url: http://oksenate.gov/Senators/biographies/shaw_bio.aspx
+- url: http://oksenate.gov/Senators/biographies/shaw_bio.html
+extras:
+  email: shaw@oksenate.gov

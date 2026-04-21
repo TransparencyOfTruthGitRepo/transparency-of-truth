@@ -1,0 +1,53 @@
+id: ocd-person/b46ed135-4c70-40b9-81ab-94660b76be3e
+name: Stephen Boyd
+given_name: Stephen
+family_name: Boyd
+gender: Male
+email: stepheneboyd@gmail.com
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/StephenBoyd.jfif
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 10
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 10
+- start_date: 2022-12-07
+  end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 24
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9929
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9929
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9929
+  note: member detail page
+other_names:
+- name: Boyd, S.
+- name: S. Boyd
+- name: S.E. Boyd
+- name: Stephen E. Boyd
+sources:
+- url: https://ballotpedia.org/Stephen_Boyd_(New_Hampshire)
+- url: https://en.wikipedia.org/wiki/Stephen_Boyd_(New_Hampshire_politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9929
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9929
+- url: https://justfacts.votesmart.org/candidate/biography/195026/stephen-boyd
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9929
+- url: https://www.linkedin.com/in/stephen-boyd-76083aa1
+extras:
+  county: Merrimack
+  elected status: Incumbent
+  gender code: M

@@ -1,0 +1,31 @@
+id: ocd-person/9147362c-8b83-49ff-8fab-4d48a77eebc9
+name: Claire Valdez
+given_name: Claire
+family_name: Valdez
+gender: Female
+email: valdezc@nyassembly.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Claire_Valdez_20240808_060205.jpeg
+party:
+- name: Democratic/Working Families
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '37'
+offices:
+- classification: capitol
+  address: Room 427, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-4851
+- classification: district
+  address: 45-10 Skillman Ave. 1st Floor, Sunnyside, NY 11104
+  voice: 718-784-3194
+links:
+- url: https://assembly.state.ny.us/mem/Claire-Valdez/
+other_names:
+- name: C. Valdez
+- name: Valdez, C.
+sources:
+- url: https://assembly.state.ny.us/mem/Claire-Valdez
+- url: https://ballotpedia.org/Claire_Valdez
+- url: https://en.wikipedia.org/wiki/Claire_Valdez
+- url: https://justfacts.votesmart.org/candidate/217339/claire-valdez

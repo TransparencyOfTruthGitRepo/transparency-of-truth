@@ -1,0 +1,62 @@
+id: ocd-person/3194a8e0-aaf8-4686-b2c9-a22521f85fff
+name: Steven Meeks
+given_name: Steven
+family_name: Meeks
+birth_date: 1974-09-10
+gender: Male
+email: steven.meeks@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/meeks-steven-4961.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '178'
+offices:
+- classification: capitol
+  address: State Capitol Room 245-F, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-463-2246
+- classification: district-mail
+  address: P.O. Box 178, Screven, GA 31560
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4961&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4961
+- url: https://www.legis.ga.gov/members/house/4961?session=1029
+- url: https://www.legis.ga.gov/members/house/4961?session=1031
+  note: HTML member detail page
+other_names:
+- name: MEEKS, 178TH
+- name: Meeks, S.
+- name: S. Meeks
+- name: S.A. Meeks
+- name: Steven A. Meeks
+- name: Steven Meeks
+sources:
+- url: https://ballotpedia.org/Steven_Meeks
+- url: https://en.wikipedia.org/wiki/Steven_Meeks
+- url: https://justfacts.votesmart.org/candidate/biography/178992/steven-meeks
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4961&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4961?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4961?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4961
+- url: https://www.legis.ga.gov/members/house/4961?session=1029
+- url: https://www.linkedin.com/in/steve-meeks-0b8a7937
+extras:
+  residence: Screven
+  city: Screven
+  georgia_id: 4961
+  birthday: September 10
+  occupation: COO, FMR Burch Farms
+  press: https://house-press.com/representative/Steven-Meeks
+  spouse: Joy
+  staff: Lauryn Bennett-Walker - Administrative Assistant
+  staff email: lauryn.bennett-walker@house.ga.gov
+  title: Chairman, Budget & Fiscal Affairs Oversight

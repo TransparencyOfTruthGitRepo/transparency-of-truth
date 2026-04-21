@@ -1,0 +1,19 @@
+id: ocd-person/1a33f5ef-fe58-44dd-98dc-d496a1e76275
+name: Latha Mangipudi
+given_name: Latha
+family_name: Mangipudi
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 35
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377200
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000821
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members.txt

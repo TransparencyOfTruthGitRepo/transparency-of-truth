@@ -1,0 +1,25 @@
+id: ocd-person/593b165b-f3bc-4e40-b4e4-fd8713696004
+name: Janine R. Boyd
+given_name: Janine
+family_name: Boyd
+email: rep09@ohiohouse.gov
+image: https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2805.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2022-04-22'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '9'
+  end_reason: Appointed as HHS Regional Director for Region 5
+links:
+- url: http://www.ohiohouse.gov/janine-r-boyd
+- url: http://ohiohouse.gov/janine-r-boyd
+other_names:
+- name: Janine Boyd
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000283
+sources:
+- url: http://www.ohiohouse.gov/members/member-directory
+- url: http://ohiohouse.gov/janine-r-boyd

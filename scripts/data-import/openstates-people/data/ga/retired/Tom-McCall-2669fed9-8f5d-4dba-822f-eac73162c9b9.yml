@@ -1,0 +1,25 @@
+id: ocd-person/2669fed9-8f5d-4dba-822f-eac73162c9b9
+name: Tom McCall
+given_name: Tom
+family_name: McCall
+email: tom.mccall@house.ga.gov
+image: http://www.house.ga.gov/SiteCollectionImages/McCallTom167.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '33'
+links:
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=167&Session=27
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000163
+- scheme: legacy_openstates
+  identifier: GAL000329
+sources:
+- url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=167&Session=27
+extras:
+  guid: 167

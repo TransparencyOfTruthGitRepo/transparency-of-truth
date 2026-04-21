@@ -1,0 +1,36 @@
+id: ocd-person/eef5df5d-b9da-4ac3-9a3e-7f6ba775e6d7
+name: Stefani Lord
+given_name: Stefani
+family_name: Lord
+gender: Female
+email: stefani.lord@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HLORD.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-19
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '22'
+offices:
+- classification: capitol
+  address: Room 203HN, New Mexico Capitol Annex 325 Don Gaspar Ave., Santa Fe, NM
+    87501
+  voice: 505-986-4453
+- classification: district-mail
+  address: P.O. Box 131, Sandia Park, NM 87047
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HLORD
+  note: homepage
+other_names:
+- name: Lord, S.
+- name: Lord, Stefani
+- name: S. Lord
+sources:
+- url: https://ballotpedia.org/Stefani_Lord
+- url: https://en.wikipedia.org/wiki/Stefani_Lord
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HLORD
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Bernalillo & Torrance
+  service: Representative since 2021

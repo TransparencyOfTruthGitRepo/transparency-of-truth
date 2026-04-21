@@ -1,0 +1,29 @@
+id: ocd-organization/315bc8b9-f1f7-4b9a-9965-a4ca1fa376a6
+jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+classification: committee
+name: School Security Task Force
+chamber: legislature
+sources:
+- url: https://le.utah.gov/committee/committee.jsp?year=2025&com=TSKSCS
+- url: https://le.utah.gov/committee/committee.jsp?year=2026&com=TSKSCS
+links:
+- url: https://le.utah.gov/committee/committee.jsp?year=2024&com=TSKSCS
+- url: https://le.utah.gov/committee/committee.jsp?year=2025&com=TSKSCS
+- url: https://le.utah.gov/committee/committee.jsp?year=2026&com=TSKSCS
+members:
+- name: Ann Millner
+  role: chair
+  person_id: ocd-person/6b86542a-9b8a-418f-a275-6c261cdd86d2
+- name: Ryan Wilcox
+  role: chair
+  person_id: ocd-person/9657724b-ade7-467e-b77d-b77fb98891c5
+- name: Derrin Owens
+  role: member
+  person_id: ocd-person/ef1c9af3-b4f9-4eeb-b63d-a22f01c84262
+- name: Steve Eliason
+  role: member
+  person_id: ocd-person/06d334f0-dd19-4a8e-b1c9-5f1ae1d90e26
+other_names:
+- name: Joint Committee on School Security Task Force
+- name: Joint School Security Task Force
+- name: Joint School Security Task Force Committee

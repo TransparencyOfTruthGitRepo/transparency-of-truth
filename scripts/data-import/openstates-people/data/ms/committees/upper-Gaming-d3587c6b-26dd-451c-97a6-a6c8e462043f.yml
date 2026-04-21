@@ -1,0 +1,43 @@
+id: ocd-organization/d3587c6b-26dd-451c-97a6-a6c8e462043f
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Gaming
+chamber: upper
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: homepage
+members:
+- name: David Blount
+  role: chair
+  person_id: ocd-person/c8e4b4c1-6c8f-4b95-9b48-c73997b3f518
+- name: Chuck Younger
+  role: vice chair
+  person_id: ocd-person/c22d208a-59c7-4e90-bbe0-37b953a00b41
+- name: Dennis DeBar
+  role: member
+  person_id: ocd-person/8c139a04-43ed-48c5-98cc-e2d308efa65b
+- name: Derrick Simmons
+  role: member
+  person_id: ocd-person/3ea1bab4-64f2-4ff3-b0a9-e04a8caa3e9f
+- name: Lydia Chassaniol
+  role: member
+  person_id: ocd-person/094c0731-4932-4400-ad96-84c83ba1dd59
+- name: Michael McLendon
+  role: member
+  person_id: ocd-person/017dec88-1105-454d-b55b-eeb3a3c85b55
+- name: Mike Thompson
+  role: member
+  person_id: ocd-person/eaa39996-c8a7-4568-b01e-d7685667227b
+- name: Philman Ladner
+  role: member
+  person_id: ocd-person/7aef9236-de61-47cf-8243-b5a21fcac9dc
+- name: Reginald Jackson
+  role: member
+  person_id: ocd-person/0fde8bcf-e43a-4b39-a9a5-b7869424e2d9
+other_names:
+- name: Senate Committee on Gaming
+- name: Senate Gaming
+- name: Senate Gaming Committee

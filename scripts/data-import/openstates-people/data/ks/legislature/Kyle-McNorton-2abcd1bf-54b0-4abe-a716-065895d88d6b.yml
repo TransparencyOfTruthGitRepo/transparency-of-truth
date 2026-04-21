@@ -1,0 +1,36 @@
+id: ocd-person/2abcd1bf-54b0-4abe-a716-065895d88d6b
+name: Kyle McNorton
+given_name: Kyle
+family_name: McNorton
+gender: Male
+email: kyle.mcnorton@house.ks.gov
+image: https://www.kslegislature.org/li/s/images/pics/rep_mcnorton_kyle_1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-10-24
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '50'
+offices:
+- classification: capitol
+  address: State Capitol Room 561-W, Kansas  Building 300 SW 10th St., Topeka, KS
+    66612
+  voice: 785-296-7460
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_mcnorton_kyle_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_mcnorton_kyle_1/
+other_names:
+- name: K. McNorton
+- name: McNorton, K.
+sources:
+- url: https://ballotpedia.org/Kyle_McNorton
+- url: https://en.wikipedia.org/wiki/Kyle_McNorton
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_mcnorton_kyle_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_mcnorton_kyle_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_mcnorton_kyle_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_mcnorton_kyle_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_mcnorton_kyle_1/
+- url: https://www.linkedin.com/in/kyle-mcnorton-b1219136
+extras:
+  occupation: Retired

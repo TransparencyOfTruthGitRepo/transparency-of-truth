@@ -1,0 +1,56 @@
+id: ocd-person/77713b68-e8ef-455e-80a6-1614488fb71a
+name: Mae Flexer
+given_name: Mae
+family_name: Flexer
+gender: Female
+email: flexer@senatedems.ct.gov
+image: http://www.senatedems.ct.gov/templates/flexer/images/flexer-hi.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '29'
+- start_date: 2009-01-07
+  end_date: 2015-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '29'
+offices:
+- classification: capitol
+  address: Room 1000, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8634
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S29%27&dist_name=Flexer,%20Mae
+- url: https://www.senatedems.ct.gov/Flexer
+- url: https://www.senatedems.ct.gov/Flexer.php
+- url: https://www.senatedems.ct.gov/senator/mae-flexer
+other_names:
+- name: Flexer, M.
+- name: Flexer, Mae
+- name: M. Flexer
+- name: M.M. Flexer
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000080
+- scheme: legacy_openstates
+  identifier: CTL000284
+- scheme: legacy_openstates
+  identifier: CTL000302
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Mae_Flexer
+- url: https://en.wikipedia.org/wiki/Mae_Flexer
+- url: https://www.linkedin.com/in/mae-flexer-157b5010
+- url: https://www.senatedems.ct.gov/Flexer.php
+- url: https://www.senatedems.ct.gov/senator/mae-flexer
+- url: https://www.senatedems.ct.gov/senator/mae-flexer/bio
+extras:
+  gender: Female
+  title: Deputy Senate President Pro Tempore & Federal Relations Liaison
+  committees: Government Administration and Elections (Chair); Judiciary (Vice Chair);
+    Appropriations; Education; Higher Education and Employment Advancement; Veterans'
+    and Military Affairs
+  committee codes: ;APP;ED;GAE;HED;JUD;VA;
+  prison: '0'

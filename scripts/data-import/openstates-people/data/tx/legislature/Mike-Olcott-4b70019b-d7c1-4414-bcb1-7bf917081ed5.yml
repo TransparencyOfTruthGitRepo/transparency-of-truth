@@ -1,0 +1,34 @@
+id: ocd-person/4b70019b-d7c1-4414-bcb1-7bf917081ed5
+name: Mike Olcott
+given_name: Mike
+family_name: Olcott
+gender: Male
+email: mike.olcott@house.texas.gov
+image: https://www.house.texas.gov/images/members/4705.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '60'
+offices:
+- classification: capitol
+  address: Room E2.704, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0656
+- classification: district
+  address: 212 Santa Fe Drive, Weatherford, TX 76086
+  voice: 817-382-4673
+links:
+- url: https://www.house.texas.gov/members/60
+other_names:
+- name: M. Olcott
+- name: M.C. Olcott
+- name: Olcott, M.
+- name: Olcott, Mike
+sources:
+- url: https://ballotpedia.org/Mike_Olcott
+- url: https://en.wikipedia.org/wiki/Mike_Olcott
+- url: https://house.texas.gov/members/4705/biography
+- url: https://justfacts.votesmart.org/candidate/biography/201309/mike-olcott
+- url: https://www.house.texas.gov/members/60

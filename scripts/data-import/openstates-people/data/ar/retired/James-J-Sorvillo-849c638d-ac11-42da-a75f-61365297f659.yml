@@ -1,0 +1,26 @@
+id: ocd-person/849c638d-ac11-42da-a75f-61365297f659
+name: Jim Sorvillo
+given_name: James
+family_name: Sorvillo
+email: sorvillo4house@gmail.com
+image: http://www.arkleg.state.ar.us/Content/photos/House/499_sm.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '32'
+links:
+- url: http://www.arkleg.state.ar.us/Legislators/Detail?member=Sorvillo&ddBienniumSession=2019%2F2020F
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ARL000283
+- scheme: legacy_openstates
+  identifier: ARL000294
+- scheme: legacy_openstates
+  identifier: ARL000348
+sources:
+- url: http://www.arkleg.state.ar.us/Legislators/Detail?member=Sorvillo&ddBienniumSession=2019%2F2020F
+extras:
+  occupation: Advertising

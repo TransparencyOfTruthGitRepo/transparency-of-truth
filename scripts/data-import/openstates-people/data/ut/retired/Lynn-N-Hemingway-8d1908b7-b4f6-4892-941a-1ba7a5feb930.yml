@@ -1,0 +1,40 @@
+id: ocd-person/8d1908b7-b4f6-4892-941a-1ba7a5feb930
+name: Lynn N. Hemingway
+given_name: Lynn N.
+family_name: Hemingway
+middle_name: N
+image: https://le.utah.gov/images/legislator/HEMINLN.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '40'
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '40'
+links:
+- url: http://house.utah.gov/rep/HEMINLN
+- url: http://le.utah.gov/house2/detail.jsp?i=HEMINLN
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: UTL000275
+- scheme: openstates
+  identifier: ocd-person/75747011-ade6-4864-8245-785e622289ef
+- scheme: legacy_openstates
+  identifier: UTL000061
+sources:
+- url: http://le.utah.gov/data/legislators.json
+- url: http://le.utah.gov/house2/representatives.jsp
+- url: http://le.utah.gov/house2/detail.jsp?i=HEMINLN
+extras:
+  links:
+  - https://le.utah.gov/house2/CofI/COFIHEMINLN.pdf
+  - http://le.utah.gov/house2/CofI/HEMINLN1.pdf
+  - http://le.utah.gov/house2/CofI/lhemingwa2y.pdf
+  - http://le.utah.gov/house2/CofI/lhemingway.pdf
+  - http://le.utah.gov/house2/CofI/HEMINLN.pdf
+  - http://www.disclosures.utah.gov/Search/PublicSearch

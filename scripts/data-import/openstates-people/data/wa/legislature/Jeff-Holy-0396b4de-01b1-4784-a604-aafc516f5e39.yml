@@ -1,0 +1,49 @@
+id: ocd-person/0396b4de-01b1-4784-a604-aafc516f5e39
+name: Jeff Holy
+given_name: Jeff
+family_name: Holy
+birth_date: 1955-10-25
+gender: Male
+email: jeff.holy@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/17223.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '6'
+- end_date: 2019-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '6'
+  start_date: 2019-01-14
+offices:
+- classification: capitol
+  address: Room 312A, Irv Newhouse Building P.O. Box 40406, Olympia, WA 98504
+  voice: 360-786-7610
+- classification: district
+  address: WA
+  voice: 509-456-2747
+links:
+- url: https://JeffHoly.src.wastateleg.org/
+- url: https://jeffholy.src.wastateleg.org/
+- url: https://leg.wa.gov/legislators/member/jeff-holy
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+other_names:
+- name: Holy, J.
+- name: J. Holy
+- name: J.M. Holy
+- name: Jeffrey Mark Holy
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000179
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=Senate
+- url: https://ballotpedia.org/Jeff_Holy
+- url: https://en.wikipedia.org/wiki/Jeff_Holy
+- url: https://jeffholy.src.wastateleg.org
+- url: https://jeffholy.src.wastateleg.org/
+- url: https://leg.wa.gov/legislators/member/jeff-holy
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+- url: https://www.linkedin.com/in/jeff-holy-0620015

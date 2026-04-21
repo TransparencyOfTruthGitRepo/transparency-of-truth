@@ -1,0 +1,54 @@
+id: ocd-person/918888ac-edc7-4178-9133-d058f0f21010
+name: Max Burns
+given_name: Max
+family_name: Burns
+birth_date: 1948-11-08
+gender: Male
+email: max.burns@senate.ga.gov
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '23'
+offices:
+- classification: capitol
+  address: Room 327-A, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-463-1376
+- classification: district-mail
+  address: P.O. Box 203, Sylvania, GA 30467
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/4979
+- url: https://www.legis.ga.gov/members/senate/4979?session=1029
+- url: https://www.legis.ga.gov/members/senate/4979?session=1031
+  note: HTML member detail page
+other_names:
+- name: BURNS, 23RD
+- name: Burns, M.
+- name: M. Burns
+- name: Max Burns
+- name: O.M. Burns
+- name: Othell Maxie Burns
+sources:
+- url: https://ballotpedia.org/Max_Burns
+- url: https://en.wikipedia.org/wiki/Max_Burns
+- url: https://justfacts.votesmart.org/candidate/biography/32069/max-burns
+- url: https://www.legis.ga.gov/api/members/detail/4979?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4979?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/4979
+- url: https://www.legis.ga.gov/members/senate/4979?session=1029
+- url: https://www.linkedin.com/in/max-burns-56980a9
+extras:
+  residence: Sylvania
+  city: Sylvania
+  georgia_id: 4979
+  staff: Tarika Jackson
+  staff email: tarika.jackson@senate.ga.gov

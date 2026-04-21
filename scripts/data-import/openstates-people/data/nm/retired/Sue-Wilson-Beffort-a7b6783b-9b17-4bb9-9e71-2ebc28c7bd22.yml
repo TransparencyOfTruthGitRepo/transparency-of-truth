@@ -1,0 +1,25 @@
+id: ocd-person/a7b6783b-9b17-4bb9-9e71-2ebc28c7bd22
+name: Sue Wilson Beffort
+given_name: Sue
+family_name: Beffort
+middle_name: Wilson
+image: http://www.nmlegis.gov/lcs/graphics/photos/SBEFF.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '19'
+links:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=SBEFF
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000019
+- scheme: legacy_openstates
+  identifier: NML000188
+- scheme: legacy_openstates
+  identifier: NML000326
+sources:
+- url: http://www.nmlegis.gov/Members/Legislator?SponCode=SBEFF

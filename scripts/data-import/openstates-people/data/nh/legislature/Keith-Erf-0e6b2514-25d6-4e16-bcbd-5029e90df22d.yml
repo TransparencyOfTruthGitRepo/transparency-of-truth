@@ -1,0 +1,55 @@
+id: ocd-person/0e6b2514-25d6-4e16-bcbd-5029e90df22d
+name: Keith Erf
+given_name: Keith
+family_name: Erf
+gender: Male
+email: keith.erf@gc.nh.gov
+image: https://static.votesmart.org/static/canphoto/185241.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 28
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 28
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 2
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9416
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9416
+- url: https://keitherf.com/
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9416
+  note: member detail page
+other_names:
+- name: Erf, K.
+- name: K. Erf
+sources:
+- url: https://ballotpedia.org/Keith_Erf
+- url: https://en.wikipedia.org/wiki/Keith_Erf
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9416
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9416
+- url: https://justfacts.votesmart.org/candidate/biography/185241/keith-erf
+- url: https://keitherf.com
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408845
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9416
+- url: https://www.linkedin.com/in/keith-erf-0b46311
+extras:
+  county: Hillsborough
+  elected status: Incumbent
+  gender code: M

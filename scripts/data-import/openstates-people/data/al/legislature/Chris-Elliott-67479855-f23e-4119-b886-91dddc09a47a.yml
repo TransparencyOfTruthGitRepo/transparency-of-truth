@@ -1,0 +1,40 @@
+id: ocd-person/67479855-f23e-4119-b886-91dddc09a47a
+name: Chris Elliott
+given_name: Chris
+family_name: Elliott
+birth_date: 1980-06-18
+gender: Male
+email: chris.elliott@alsenate.gov
+image: https://www.legislature.state.al.us/pdf/senate/members/Elliott_32.png
+party:
+- name: Republican
+roles:
+- start_date: 2018-11-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '32'
+offices:
+- classification: capitol
+  address: Room 732, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0897
+links:
+- url: https://alison.legislature.state.al.us/senate-leaders-members
+  note: homepage
+- url: https://alsenaterepublicans.org/representatives/0032-chris-elliott/
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100475&OID_PERSON=8487
+other_names:
+- name: C. Elliott
+- name: Elliott, C.
+- name: T.C. Elliott
+sources:
+- url: https://alsenaterepublicans.org/representatives/0032-chris-elliott
+- url: https://ballotpedia.org/Chris_Elliott_(Alabama)
+- url: https://en.wikipedia.org/wiki/Chris_Elliott_(politician)
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/156759/chris-elliott
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Elliott&OID_SPONSOR=100475&OID_PERSON=8487&SESSNAME=Regular%20Session%202022
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100475&OID_PERSON=8487
+- url: https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+extras:
+  counties: Baldwin County

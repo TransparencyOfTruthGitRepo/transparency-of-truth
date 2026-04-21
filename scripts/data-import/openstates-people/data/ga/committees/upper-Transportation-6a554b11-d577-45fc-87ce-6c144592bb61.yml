@@ -1,0 +1,65 @@
+id: ocd-organization/6a554b11-d577-45fc-87ce-6c144592bb61
+jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+classification: committee
+name: Transportation
+chamber: upper
+sources:
+- url: https://www.legis.ga.gov/api/committees/details/86/1029
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/details/86/1031
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1029
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1031
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/committees/senate/86
+links:
+- url: https://www.legis.ga.gov/committees/senate/86
+  note: homepage
+members:
+- name: Greg Dolezal
+  role: chair
+  person_id: ocd-person/1f7d013a-8861-4e08-b6bf-7c8d36f8107c
+- name: Clint Dixon
+  role: vice chair
+  person_id: ocd-person/17a7e011-73f2-4ac5-8470-3436b47a6744
+- name: Jason Dickerson
+  role: ex-officio
+  person_id: ocd-person/584267b0-e40b-4d6e-a7fe-4c076eb6214c
+- name: Larry Walker
+  role: ex-officio
+  person_id: ocd-person/44a51125-9e82-41f6-8d4f-a646895b5994
+- name: Max Burns
+  role: ex-officio
+  person_id: ocd-person/918888ac-edc7-4178-9133-d058f0f21010
+- name: Steven McNeel
+  role: ex-officio
+  person_id: ocd-person/516cb969-9467-490f-9a05-02c3e7decae3
+- name: Jason Anavitarte
+  role: secretary
+  person_id: ocd-person/cb7d8c1d-3c26-4f35-8d37-d1cf8a7ce207
+- name: David Lucas
+  role: member
+  person_id: ocd-person/4b05e770-4423-4b64-8ae1-9600e8c73244
+- name: Derek Mallow
+  role: member
+  person_id: ocd-person/73918c45-83c1-4d52-a84d-3ad7ad8de40b
+- name: Frank Ginn
+  role: member
+  person_id: ocd-person/9e417b67-da09-4516-b858-6b2458f53633
+- name: Josh McLaurin
+  role: member
+  person_id: ocd-person/b83b0486-773f-4979-a1ce-e2f7f3e6d7e1
+- name: Shawn Still
+  role: member
+  person_id: ocd-person/314d7845-ba55-4bd4-809a-c7c7aea26690
+- name: Steve Gooch
+  role: member
+  person_id: ocd-person/e2c141e9-9e04-4e2b-8e5b-57db594c7abc
+other_names:
+- name: Senate Committee on Transportation
+- name: Senate Transportation
+- name: Senate Transportation Committee
+extras:
+  address: 421-B CAP  Atlanta, GA 30334
+  phone: '4046560040'

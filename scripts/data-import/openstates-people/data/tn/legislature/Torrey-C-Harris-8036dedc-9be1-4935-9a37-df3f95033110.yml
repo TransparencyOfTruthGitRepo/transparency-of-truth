@@ -1,0 +1,57 @@
+id: ocd-person/8036dedc-9be1-4935-9a37-df3f95033110
+name: Torrey Harris
+given_name: Torrey
+family_name: Harris
+birth_date: 1991-03-12
+gender: Male
+email: rep.torrey.harris@capitol.tn.gov
+image: https://capitol.tn.gov/house/members/images/H91.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '91'
+- start_date: 2020-11-03
+  end_date: 2022-11-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '91'
+- end_date: 2022-11-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '90'
+offices:
+- classification: capitol
+  address: Room 582, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-2239
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H91
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h90.html
+other_names:
+- name: Harris, T
+- name: Harris, T.
+- name: T. Harris
+- name: Torrey C Harris
+- name: Torrey C. Harris
+sources:
+- url: https://ballotpedia.org/Torrey_Harris
+- url: https://en.wikipedia.org/wiki/Torrey_Harris
+- url: https://justfacts.votesmart.org/candidate/182528/torrey-harris
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H91
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h90.html
+- url: https://www.linkedin.com/in/torreyharris
+extras:
+  office: 420 CHB
+  personal info:
+  - Born March 12, 1991
+  - Single
+  - Christian
+  - Chief Operating Officer; Public Relations Consultant
+  - 'Christian Brothers University : Industrial & Organizational Psychology'

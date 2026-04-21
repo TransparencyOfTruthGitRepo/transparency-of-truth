@@ -1,0 +1,34 @@
+id: ocd-person/f96b188a-83e0-4eab-876f-964e06d721d4
+name: Kristen Gonzalez
+given_name: Kristen
+family_name: Gonzalez
+birth_date: 1995-08-06
+gender: Female
+email: gonzalez@nysenate.gov
+image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/gonzalez_hs-1_0.jpg?itok=Ji5anDju
+party:
+- name: Democratic/Working Families
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '59'
+offices:
+- classification: capitol
+  address: Room 817, Legislative Office Building 198 State Street, Albany, NY 12247
+  voice: 518-455-3250
+- classification: district
+  address: 801 2nd Ave. Suite 303, New York, NY 10017
+  voice: 718-765-6674
+links:
+- url: https://www.nysenate.gov/senators/kristen-gonzalez
+other_names:
+- name: Gonzalez, K.
+- name: K. Gonzalez
+- name: K.S. Gonzalez
+- name: Kristen S. Gonzalez
+sources:
+- url: https://ballotpedia.org/Kristen_Gonzalez
+- url: https://en.wikipedia.org/wiki/Kristen_Gonzalez
+- url: https://justfacts.votesmart.org/candidate/biography/210445/kristen-gonzalez
+- url: https://www.nysenate.gov/senators/kristen-gonzalez

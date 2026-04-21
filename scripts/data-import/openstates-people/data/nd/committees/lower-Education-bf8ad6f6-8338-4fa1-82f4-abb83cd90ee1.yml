@@ -1,0 +1,60 @@
+id: ocd-organization/bf8ad6f6-8338-4fa1-82f4-abb83cd90ee1
+jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+classification: committee
+name: Education
+chamber: lower
+sources:
+- url: https://ndlegis.gov/assembly/69-2025/committees/house/education
+- url: https://www.ndlegis.gov/assembly/68-2023/committees
+  note: Committee List page of ndlegis gov site
+- url: https://www.ndlegis.gov/assembly/68-2023/committees/house/education
+  note: Committee Details page
+links:
+- url: https://ndlegis.gov/assembly/68-2023/committees/house/education
+- url: https://ndlegis.gov/assembly/69-2025/committees/house/education
+- url: https://www.ndlegis.gov/assembly/68-2023/committees/house/education
+  note: homepage
+members:
+- name: Pat Heinert
+  role: chair
+  person_id: ocd-person/1f5bad71-f1e2-4729-896b-293137ed6a84
+- name: Andrew Marschall
+  role: member
+  person_id: ocd-person/6fbb2691-956f-4427-8927-66309b08ed68
+- name: Anna Novak
+  role: member
+  person_id: ocd-person/c40382fd-ce08-46af-8649-afd1f5e04091
+- name: Desiree Morton
+  role: member
+  person_id: ocd-person/6c9076a0-42ad-4045-81da-7f463d0e57b5
+- name: Donald Longmuir
+  role: member
+  person_id: ocd-person/da7774ec-8498-4094-b7d7-87d301911015
+- name: Dori Hauck
+  role: member
+  person_id: ocd-person/6035e38b-ec58-44f7-9b47-7c6672c575f8
+- name: Doug Osowski
+  role: member
+  person_id: ocd-person/bf1ee8a5-edf3-44c5-82bf-6be1beecd989
+- name: Jim Jonas
+  role: member
+  person_id: ocd-person/364ea7b0-8ff8-42b6-ac54-1453cc9d7785
+- name: LaurieBeth Hager
+  role: member
+  person_id: ocd-person/f233c739-2bfe-4a96-ba9b-f3c4cbff539c
+- name: Liz Conmy
+  role: member
+  person_id: ocd-person/d8e43158-838e-40fc-a960-c29c46aa512e
+- name: Matt Heilman
+  role: member
+  person_id: ocd-person/27436563-29f4-4508-be92-0adf91ea442a
+- name: Patrick Hatlestad
+  role: member
+  person_id: ocd-person/8fd64fab-cbe4-4ad3-bd63-447cc527e567
+- name: Roger Maki
+  role: member
+  person_id: ocd-person/3bf442fa-fe42-48c3-b10a-6e94bc20e23d
+other_names:
+- name: House Committee on Education
+- name: House Education
+- name: House Education Committee

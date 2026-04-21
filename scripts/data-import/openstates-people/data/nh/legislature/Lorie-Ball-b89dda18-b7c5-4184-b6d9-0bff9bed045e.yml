@@ -1,0 +1,36 @@
+id: ocd-person/b89dda18-b7c5-4184-b6d9-0bff9bed045e
+name: Lorie Ball
+given_name: Lorie
+family_name: Ball
+gender: Female
+email: lorie.ball@gc.nh.gov
+image: https://lorieball.com/assets/lorie-340x285.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 25
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-770-7319
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10702
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10702
+  note: member detail page
+other_names:
+- name: Ball, L.
+- name: L. Ball
+sources:
+- url: https://ballotpedia.org/Lorie_Ball
+- url: https://en.wikipedia.org/wiki/Lorie_Ball
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10702
+- url: https://justfacts.votesmart.org/candidate/209245/lorie-ball
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10702
+- url: https://www.linkedin.com/in/lorie-ball-6a4a2915
+extras:
+  county: Rockingham
+  elected status: new
+  gender code: F

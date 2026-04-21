@@ -1,0 +1,38 @@
+id: ocd-person/8e424b53-9531-4b76-bd44-a8008f34b539
+name: Eric Gjerde
+given_name: Eric
+family_name: Gjerde
+gender: Male
+email: eric.gjerde@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30659
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '74'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://eepurl.com/hn8I8P
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=30659
+other_names:
+- name: E. Gjerde
+- name: E.J. Gjerde
+- name: Eric J. Gjerde
+- name: Gjerde
+- name: Gjerde, E.
+sources:
+- url: https://ballotpedia.org/Eric_Gjerde
+- url: https://en.wikipedia.org/wiki/Eric_Gjerde
+- url: https://justfacts.votesmart.org/candidate/biography/180254/eric-gjerde
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=30659
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=30659
+- url: https://www.linkedin.com/in/eric-gjerde-ed-d-96729a70
+extras:
+  home email: drericgjerde@gmail.com
+  occupation: Police Officer

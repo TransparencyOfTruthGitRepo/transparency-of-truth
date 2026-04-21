@@ -1,0 +1,29 @@
+id: ocd-person/bec9a2c9-a77c-4ac9-b649-2a7360a5c0ad
+name: Farrah Chaichi
+given_name: Farrah
+family_name: Chaichi
+gender: Female
+email: rep.farrahchaichi@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/chaichi/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '35'
+offices:
+- classification: capitol
+  address: Room H-478, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1435
+links:
+- url: https://www.oregonlegislature.gov/chaichi
+  note: homepage
+other_names:
+- name: Chaichi, F.
+- name: F. Chaichi
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Farrah_Chaichi
+- url: https://en.wikipedia.org/wiki/Farrah_Chaichi
+- url: https://www.oregonlegislature.gov/chaichi

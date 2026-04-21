@@ -1,0 +1,21 @@
+id: ocd-person/bc7be948-aece-46e3-a6d7-a1009edfa473
+name: Kimmi Lewis
+given_name: Kimmi
+family_name: Lewis
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2019a_rsz_lewis-co-17.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-12-06'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '64'
+  end_reason: Deceased
+links:
+- url: http://leg.colorado.gov/legislators/kimmi-lewis
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: COL000227
+sources:
+- url: http://leg.colorado.gov/legislators/kimmi-lewis
+- url: http://leg.colorado.gov/legislators

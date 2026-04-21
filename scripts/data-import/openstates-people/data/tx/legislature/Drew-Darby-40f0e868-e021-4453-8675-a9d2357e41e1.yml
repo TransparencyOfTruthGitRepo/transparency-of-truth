@@ -1,0 +1,43 @@
+id: ocd-person/40f0e868-e021-4453-8675-a9d2357e41e1
+name: Drew Darby
+given_name: Drew
+family_name: Darby
+birth_date: 1947-02-22
+gender: Male
+email: drew.darby@house.texas.gov
+image: https://house.texas.gov/images/members/2645.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2007-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '72'
+offices:
+- classification: capitol
+  address: Room GW.12, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0331
+- classification: district
+  address: 136 W. Twohig Ave. Suite E, San Angelo, TX 76903
+  voice: 325-658-7313
+links:
+- url: https://house.texas.gov/members/2645
+- url: https://house.texas.gov/members/member-page/?district=72
+other_names:
+- name: D. Darby
+- name: Darby, D.
+- name: Darby, Drew
+- name: W.D. Darby
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000242
+- scheme: legacy_openstates
+  identifier: TXL000060
+- scheme: legacy_openstates
+  identifier: TXL000556
+sources:
+- url: https://ballotpedia.org/Drew_Darby
+- url: https://en.wikipedia.org/wiki/Drew_Darby
+- url: https://house.texas.gov/members/2645
+- url: https://house.texas.gov/members/member-page/?district=72
+- url: https://justfacts.votesmart.org/candidate/biography/49842/drew-darby

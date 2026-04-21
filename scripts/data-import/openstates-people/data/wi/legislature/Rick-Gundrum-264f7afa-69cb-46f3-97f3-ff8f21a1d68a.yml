@@ -1,0 +1,54 @@
+id: ocd-person/264f7afa-69cb-46f3-97f3-ff8f21a1d68a
+name: Rick Gundrum
+given_name: Rick
+family_name: Gundrum
+gender: Male
+email: rep.gundrum@legis.wisconsin.gov
+image: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2467.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2018-01-24
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '58'
+links:
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1780
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1852
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/2141
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2467
+- url: https://docs.legis.wisconsin.gov/2025/legislators/assembly/2735
+- url: https://legis.wisconsin.gov/assembly/58/gundrum/
+other_names:
+- name: GUNDRUM, R
+- name: Gundrum, R
+- name: Gundrum, R.
+- name: R. Gundrum
+- name: R.M. Gundrum
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000651
+sources:
+- url: https://ballotpedia.org/Rick_Gundrum
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1780
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1852
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/2141
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/
+  note: members list page
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2467
+  note: member detail page
+- url: https://docs.legis.wisconsin.gov/2025/legislators/assembly/2735
+- url: https://en.wikipedia.org/wiki/Rick_Gundrum
+- url: https://justfacts.votesmart.org/candidate/biography/98970/rick-gundrum
+- url: https://legis.wisconsin.gov/assembly/58/gundrum
+- url: https://www.linkedin.com/in/rick-mckay-gundrum-594581b1
+extras:
+  website: http://legis.wisconsin.gov/assembly/58/gundrum
+  extra phone: (888) 534-0058
+  staff1: John Graber
+  staff_email1: John.Graber@legis.wisconsin.gov
+  staff2: Christian Lubke
+  staff_email2: Christian.Lubke@legis.wisconsin.gov

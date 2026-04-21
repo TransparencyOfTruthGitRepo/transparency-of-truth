@@ -1,0 +1,74 @@
+id: ocd-person/57554431-caac-4074-a8d8-40a4e6289ec1
+name: Bill Wielechowski
+given_name: Bill
+family_name: Wielechowski
+birth_date: 1967-12-07
+gender: Male
+email: senator.bill.wielechowski@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/WIE.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-17
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: K
+- start_date: 2013-01-28
+  end_date: 2023-01-16
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: K
+- start_date: 2007-01-16
+  end_date: 2013-01-27
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: K
+- end_date: 2023-01-16
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: H
+offices:
+- classification: capitol
+  address: State Capitol Room 103, 120 4th St., Juneau, AK 99801
+  voice: 907-465-2435
+- classification: district
+  address: 1500 W. Benson Blvd., Anchorage, AK 99501
+  voice: 907-269-0120
+links:
+- url: https://alaskasenate.org/wielechowski/
+- url: https://senatorbill.org/
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=wie
+- url: https://www.akleg.gov/basis/Member/Detail/31?code=wie
+- url: https://www.akleg.gov/basis/Member/Detail/32?code=wie
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=wie
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=wie
+other_names:
+- name: B. Wielechowski
+- name: B.P. Wielechowski
+- name: Bill P. Wielechowski
+- name: W.P. Wielechowski
+- name: Wielechowski, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AKL000019
+- scheme: legacy_openstates
+  identifier: AKL000090
+- scheme: legacy_openstates
+  identifier: AKL000136
+sources:
+- url: https://alaskasenate.org/wielechowski
+- url: https://ballotpedia.org/Bill_Wielechowski
+- url: https://en.wikipedia.org/wiki/Bill_Wielechowski
+- url: https://justfacts.votesmart.org/candidate/biography/68283/bill-wielechowski
+- url: https://senatorbill.org
+- url: https://w3.akleg.gov
+- url: https://w3.akleg.gov/
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=wie
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=WIE
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=wie
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=wie
+- url: https://www.linkedin.com/in/bill-wielechowski-641866
+extras:
+  toll_free_phone: 800-550-2435

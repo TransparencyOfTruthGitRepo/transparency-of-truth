@@ -1,0 +1,58 @@
+id: ocd-person/4b162447-89a7-4ffc-acbf-617e1ad87e2a
+name: Tyler Smith
+given_name: Tyler
+family_name: Smith
+birth_date: 1990-07-07
+gender: Male
+email: tyler.smith@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/smith-tyler-paul-4990.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '18'
+offices:
+- classification: capitol
+  address: State Capitol Room 401-K, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-463-7853
+- classification: district-mail
+  address: P.O. Box 605, Bremen, GA 30110
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4990
+- url: https://www.legis.ga.gov/members/house/4990?session=1029
+- url: https://www.legis.ga.gov/members/house/4990?session=1031
+  note: HTML member detail page
+other_names:
+- name: SMITH, 18TH
+- name: Smith, T.
+- name: T. Smith
+- name: T.P. Smith
+- name: Tyler Paul Smith
+- name: Tyler Smith
+sources:
+- url: https://ballotpedia.org/Tyler_Smith_(Georgia)
+- url: https://en.wikipedia.org/wiki/Tyler_Smith_(politician)
+- url: https://justfacts.votesmart.org/candidate/190358/tyler-smith
+- url: https://www.legis.ga.gov/api/members/detail/4990?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4990?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4990
+- url: https://www.legis.ga.gov/members/house/4990?session=1029
+- url: https://www.linkedin.com/in/tyler-paul-smith-b1281a33
+extras:
+  residence: Bremen
+  city: Bremen
+  georgia_id: 4990
+  birthday: July 7
+  occupation: Attorney/Farmer
+  press: https://house-press.com/representative/Tyler-Smith
+  staff: Ronny Pouliot - Administrative Assistant
+  staff email: ronny.pouliot@house.ga.gov
+  title: Chairman, Judiciary Non-Civil

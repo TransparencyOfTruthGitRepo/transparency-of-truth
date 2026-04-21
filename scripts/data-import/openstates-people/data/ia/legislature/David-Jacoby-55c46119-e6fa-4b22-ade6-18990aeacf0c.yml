@@ -1,0 +1,36 @@
+id: ocd-person/55c46119-e6fa-4b22-ade6-18990aeacf0c
+name: Dave Jacoby
+given_name: Dave
+family_name: Jacoby
+gender: Male
+email: david.jacoby@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=320
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '86'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://eepurl.com/gXMR_X
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=320
+other_names:
+- name: D. Jacoby
+- name: David Jacoby
+- name: Jacoby, D.
+sources:
+- url: https://ballotpedia.org/David_Jacoby
+- url: https://en.wikipedia.org/wiki/David_Jacoby
+- url: https://en.wikipedia.org/wiki/David_Jacoby_(politician)
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=320
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=320
+- url: https://www.linkedin.com/in/david-jacoby-6557b014a
+extras:
+  home email: davejjacoby@aol.com
+  occupation: STEM-Retired

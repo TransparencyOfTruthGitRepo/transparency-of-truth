@@ -1,0 +1,41 @@
+id: ocd-person/c40382fd-ce08-46af-8649-afd1f5e04091
+name: Anna Novak
+given_name: Anna
+family_name: Novak
+gender: Female
+email: anovak@ndlegis.gov
+image: https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/anovak2023.jpg?itok=EptvTScj
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '33'
+offices:
+- classification: capitol
+  address: State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505
+- classification: district-mail
+  address: ND
+  voice: 701-748-2399
+links:
+- url: https://ndlegis.gov/biography/anna-s-novak
+- url: https://www.ndlegis.gov/biography/anna-s-novak
+other_names:
+- name: A. Novak
+- name: A.G. Novak
+- name: Anna S. Novak
+- name: Novak, A.
+sources:
+- url: https://ballotpedia.org/Anna_Novak
+- url: https://en.wikipedia.org/wiki/Anna_Novak
+- url: https://ndlegis.gov/biography/anna-s-novak
+- url: https://www.ndlegis.gov/assembly/68-2023/regular/members?combine=&field_legis_chamber_target_id=All&field_legis_district_target_id=All&field_legislator_party_target_id=All&page=5
+  note: members list page
+- url: https://www.ndlegis.gov/assembly/68-2023/regular/members?page=5
+  note: members list page
+- url: https://www.ndlegis.gov/biography/anna-s-novak
+  note: member details page
+extras:
+  cell: 701-870-0288
+  home: 701-748-2399

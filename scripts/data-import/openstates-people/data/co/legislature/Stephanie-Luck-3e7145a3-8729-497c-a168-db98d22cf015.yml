@@ -1,0 +1,45 @@
+id: ocd-person/3e7145a3-8729-497c-a168-db98d22cf015
+name: Stephanie Luck
+given_name: Stephanie
+family_name: Luck
+gender: Female
+email: stephanie.luck.house@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_luck%2C%20stephanie.jpg?itok=b1DCrqcw
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '60'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '47'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-2905
+links:
+- url: https://leg.colorado.gov/legislators/stephanie-luck
+other_names:
+- name: Luck S.
+- name: Luck, S.
+- name: S. Luck
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/bf7f0f6f-82b3-4eeb-b7c4-f9fc4213b52c
+sources:
+- url: https://ballotpedia.org/Stephanie_Luck
+- url: https://en.wikipedia.org/wiki/Stephanie_Luck
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/stephanie-luck
+- url: https://www.linkedin.com/in/smluck
+extras:
+  counties represented:
+  - Chaffee
+  - Custer
+  - Fremont
+  - Pueblo
+  - Teller

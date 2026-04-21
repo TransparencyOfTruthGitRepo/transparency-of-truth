@@ -1,0 +1,37 @@
+id: ocd-person/554fe6ba-061a-413f-b2c7-c0e10c47ad01
+name: Lilli Walsh
+given_name: Lilli
+family_name: Walsh
+gender: Female
+email: lilli.walsh@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123439.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 15
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10692
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10692
+  note: member detail page
+other_names:
+- name: L. Walsh
+- name: Lilli M Walsh
+- name: Walsh, L.
+sources:
+- url: https://ballotpedia.org/Lilli_Walsh
+- url: https://en.wikipedia.org/wiki/Lilli_Walsh
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10692
+- url: https://justfacts.votesmart.org/candidate/209215/lilli-walsh
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10692
+- url: https://www.linkedin.com/in/lilli-walsh-5159048b
+extras:
+  county: Rockingham
+  elected status: new
+  gender code: F

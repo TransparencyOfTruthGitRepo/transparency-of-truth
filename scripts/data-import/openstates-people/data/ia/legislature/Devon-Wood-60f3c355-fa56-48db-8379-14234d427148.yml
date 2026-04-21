@@ -1,0 +1,36 @@
+id: ocd-person/60f3c355-fa56-48db-8379-14234d427148
+name: Devon Wood
+given_name: Devon
+family_name: Wood
+gender: Female
+email: devon.wood@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33968
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '17'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33968&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33968
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33968
+other_names:
+- name: D. Wood
+- name: D.G. Wood
+- name: Wood, D.
+sources:
+- url: https://ballotpedia.org/Devon_Wood
+- url: https://en.wikipedia.org/wiki/Devon_Wood
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33968
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33968
+- url: https://www.linkedin.com/in/devon-wood-7657a9162
+extras:
+  home email: devongrace14@gmail.com
+  occupation: Farmer

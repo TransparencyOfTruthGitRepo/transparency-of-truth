@@ -1,0 +1,42 @@
+id: ocd-person/417c9599-7617-4b6d-ac0a-1d1b2a005f4e
+name: Wendy Rogers
+given_name: Wendy
+family_name: Rogers
+birth_date: 1954-07-24
+gender: Female
+email: wrogers@azleg.gov
+image: https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/ROGERS.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '7'
+- end_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '6'
+offices:
+- classification: capitol
+  address: Room 304, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-3042
+links:
+- url: https://www.azleg.gov/senate-member/?legislature=55&legislator=1960
+- url: https://www.azleg.gov/senate-member/?legislature=57&legislator=2394
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=123&legislator=1960
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=125&legislator=1960
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2140
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2140
+other_names:
+- name: Rogers, W.
+- name: W. Rogers
+sources:
+- url: https://ballotpedia.org/Wendy_Rogers
+- url: https://en.wikipedia.org/wiki/Wendy_Rogers_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/123618/wendy-rogers
+- url: https://www.azleg.gov/MemberRoster/?body=S
+- url: https://www.azleg.gov/memberroster/?body=S
+- url: https://www.azleg.gov/senate-member/?legislature=55&legislator=1960
+- url: https://www.azleg.gov/senate-member/?legislature=57&legislator=2394
+- url: https://www.linkedin.com/in/wendyrogersaz

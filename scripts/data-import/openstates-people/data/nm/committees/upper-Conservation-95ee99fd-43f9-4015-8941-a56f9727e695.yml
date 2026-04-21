@@ -1,0 +1,45 @@
+id: ocd-organization/95ee99fd-43f9-4015-8941-a56f9727e695
+jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+classification: committee
+name: Conservation
+chamber: upper
+sources:
+- url: https://www.nmlegis.gov/Committee/
+  note: Committee Page from nmlegis.gov site
+- url: https://www.nmlegis.gov/Committee/Standing_Committee?CommitteeCode=SCONC
+links:
+- url: https://www.nmlegis.gov/Committee/Standing_Committee?CommitteeCode=SCONC
+members:
+- name: Liz Stefanics
+  role: chair
+  person_id: ocd-person/1ed4e059-94c6-4404-b28e-0dc572112d03
+- name: Antoinette Sedillo Lopez
+  role: vice chair
+  person_id: ocd-person/3dcac810-1d9b-4a4d-9e82-8b6e49eba735
+- name: Candy Ezzell
+  role: ranking member
+  person_id: ocd-person/46464f19-1bda-489f-93cf-3772d0445407
+- name: Angel Charley
+  role: member
+  person_id: ocd-person/948ee9a0-a718-46f1-a1fe-35eb97f01fad
+- name: Ant Thornton
+  role: member
+  person_id: ocd-person/02d806fd-fb8f-4d66-b9b8-6dacd2bd9656
+- name: Carrie Hamblen
+  role: member
+  person_id: ocd-person/83df260f-2110-4d39-8e19-6a2edc33491d
+- name: Debbie O'Malley
+  role: member
+  person_id: ocd-person/e347c564-d1f5-4fb8-a24d-47218fa754e7
+- name: Joe Cervantes
+  role: member
+  person_id: ocd-person/14f0186e-bf9b-46aa-aa00-1ccc8f58490b
+- name: Larry Scott
+  role: member
+  person_id: ocd-person/febbd8f4-a85e-476c-b96f-52f4f759f8c7
+other_names:
+- name: Committee on Conservation
+- name: Conservation Committee
+- name: Senate Committee on Conservation
+- name: Senate Conservation
+- name: Senate Conservation Committee

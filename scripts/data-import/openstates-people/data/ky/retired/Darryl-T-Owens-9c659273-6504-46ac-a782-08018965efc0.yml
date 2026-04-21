@@ -1,0 +1,19 @@
+id: ocd-person/9c659273-6504-46ac-a782-08018965efc0
+name: Darryl T. Owens
+given_name: Darryl T.
+family_name: Owens
+image: http://www.lrc.ky.gov/pubinfo/thumbnails/House43.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '43'
+links:
+- url: http://www.lrc.ky.gov/legislator/H043.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000107
+sources:
+- url: http://www.lrc.ky.gov/legislator/H043.htm

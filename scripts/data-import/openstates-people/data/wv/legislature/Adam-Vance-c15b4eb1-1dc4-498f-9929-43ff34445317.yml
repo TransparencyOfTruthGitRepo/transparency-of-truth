@@ -1,0 +1,32 @@
+id: ocd-person/c15b4eb1-1dc4-498f-9929-43ff34445317
+name: Adam Vance
+given_name: Adam
+family_name: Vance
+gender: Male
+email: adam.vance@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/vance_adam.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '35'
+offices:
+- classification: capitol
+  address: State Capitol Room 212E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3163
+links:
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Vance
+other_names:
+- name: A. Vance
+- name: Vance, A
+- name: Vance, A.
+sources:
+- url: https://ballotpedia.org/Adam_Vance
+- url: https://en.wikipedia.org/wiki/Adam_Vance
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Vance
+- url: https://www.wvlegislature.gov/House/roster.cfm
+extras:
+  title: Assistant Majority Whip

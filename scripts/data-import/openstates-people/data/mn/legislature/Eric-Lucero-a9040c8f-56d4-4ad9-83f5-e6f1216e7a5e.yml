@@ -1,0 +1,39 @@
+id: ocd-person/a9040c8f-56d4-4ad9-83f5-e6f1216e7a5e
+name: Eric Lucero
+given_name: Eric
+family_name: Lucero
+gender: Male
+email: sen.eric.lucero@senate.mn
+image: https://www.senate.mn/graphics/30Lucero.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '30'
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 30B
+offices:
+- classification: capitol
+  address: Room 2413, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-5655
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1260
+other_names:
+- name: E. Lucero
+- name: Lucero, E.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000606
+sources:
+- url: https://ballotpedia.org/Eric_Lucero_(Minnesota)
+- url: https://en.wikipedia.org/wiki/Eric_Lucero
+- url: https://justfacts.votesmart.org/candidate/biography/152881/eric-lucero
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.linkedin.com/in/ericlucero
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1260

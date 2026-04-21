@@ -1,0 +1,42 @@
+id: ocd-person/6dea5a89-20c8-4370-94c2-0dac7fe29d77
+name: Zack Hawkins
+given_name: Zack
+family_name: Hawkins
+gender: Male
+email: zack.hawkins@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/742/Low
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '31'
+offices:
+- classification: capitol
+  address: Room 1307, North Carolina Legislative Building 16 W. Jones St., Raleigh,
+    NC 27601
+  voice: 919-715-2528
+- classification: district-mail
+  address: P.O. Box 829, Durham, NC 27702
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/742
+- url: https://www.ncleg.gov/Members/Committees/H/742
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/742
+- url: https://www.ncleg.gov/Members/Votes/H/742
+other_names:
+- name: Hawkins, Z.
+- name: Z. Hawkins
+- name: Z.A. Hawkins
+sources:
+- url: https://ballotpedia.org/Zack_Forde-Hawkins
+- url: https://ballotpedia.org/Zack_Hawkins
+- url: https://www.linkedin.com/in/zack-hawkins-945b474
+- url: https://www.ncleg.gov/Members/Biography/H/742
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 16 West Jones Street, Rm. 1307; Raleigh, NC 27601-1096
+  terms in senate: 3 (0 in Senate)
+  represented counties: Durham
+  legislative assistant: Madison Kilgore
+  legislative assistant email: Madison.Kilgore@ncleg.gov

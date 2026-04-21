@@ -1,0 +1,34 @@
+id: ocd-person/c8ca77f5-97e7-4604-aec3-fe4ee5e7dc31
+name: Jim Mehlhaff
+given_name: Jim
+family_name: Mehlhaff
+gender: Male
+email: jim.mehlhaff@sdlegislature.gov
+image: https://jimmehlhaff.com/wp-content/uploads/2022/03/Jim-High-Res-819x1024.jpeg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '24'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3821
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/4460/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4636/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4787/Detail
+other_names:
+- name: J. Mehlhaff
+- name: Mehlhaff, J.
+sources:
+- url: https://ballotpedia.org/Jim_Mehlhaff
+- url: https://en.wikipedia.org/wiki/Jim_Mehlhaff
+- url: https://justfacts.votesmart.org/candidate/biography/113353/jim-mehlhaff
+- url: https://sdlegislature.gov/Legislators/Profile/4460/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4636/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4787/Detail
+extras:
+  occupation: Retired

@@ -1,0 +1,38 @@
+id: ocd-person/aec12ca2-6ad3-4026-9f01-7a691566c6fc
+name: Matt Rinker
+given_name: Matt
+family_name: Rinker
+gender: Male
+email: matthew.rinker@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33998
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '99'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33998&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33998
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33998
+other_names:
+- name: M. Rinker
+- name: M.B. Rinker
+- name: Matthew B. Rinker
+- name: Rinker
+- name: Rinker, M.
+sources:
+- url: https://ballotpedia.org/Matthew_Rinker
+- url: https://en.wikipedia.org/wiki/Matthew_Rinker
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33998
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33998
+- url: https://www.linkedin.com/in/matthew-rinker-26bab852
+extras:
+  home email: mrinker.burl@gmail.com
+  occupation: Insurance Agent

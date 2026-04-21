@@ -1,0 +1,31 @@
+id: ocd-person/622ea33c-23b7-4074-9ed6-75d2086677e8
+name: Pete Morency
+given_name: Pete
+family_name: Morency
+gender: Male
+email: peter.morency@gc.nh.gov
+image: https://bloximages.newyork1.vip.townnews.com/conwaydailysun.com/content/tncms/assets/v3/editorial/6/46/6467e002-7331-11ec-9cc3-9f90488fe870/61de0acc9a4e0.image.jpg?resize=400%2C308
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Coos 5
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=8401
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=8401
+other_names:
+- name: Morency, P.
+- name: P. Morency
+- name: Peter Morency
+sources:
+- url: https://ballotpedia.org/Peter_Morency
+- url: https://en.wikipedia.org/wiki/Pete_Morency
+- url: https://gc.nh.gov/house/members/member.aspx?pid=8401
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=8401
+- url: https://justfacts.votesmart.org/candidate/biography/218888/peter-morency

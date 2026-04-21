@@ -1,0 +1,40 @@
+id: ocd-person/27cea850-e6f2-4fe8-a02e-26f9867d00f1
+name: Ray Pickett
+given_name: Ray
+family_name: Pickett
+gender: Male
+email: ray.pickett@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/772/Low
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '93'
+offices:
+- classification: capitol
+  address: Room 411, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-733-7727
+- classification: district-mail
+  address: P.O. Box 265, Blowing Rock, NC 28605
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/772
+- url: https://www.ncleg.gov/Members/Committees/H/772
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/772
+- url: https://www.ncleg.gov/Members/Votes/H/772
+other_names:
+- name: Pickett, R.
+- name: R. Pickett
+sources:
+- url: https://ballotpedia.org/Ray_Pickett
+- url: https://www.ncleg.gov/Members/Biography/H/772
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 300 N. Salisbury Street, Rm. 306A2; Raleigh, NC 27603-5925
+  terms in senate: 2 (0 in Senate)
+  represented counties: Alleghany, Ashe, Watauga
+  legislative assistant: Joseph Verykoukis
+  legislative assistant email: Joseph.Verykoukis@ncleg.gov
+  occupation: Self-Employed

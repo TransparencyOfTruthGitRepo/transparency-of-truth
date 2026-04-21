@@ -1,0 +1,48 @@
+id: ocd-person/9e4b8b32-233e-443f-a147-46fbaa778a58
+name: Kevin Honan
+given_name: Kevin
+family_name: Honan
+gender: Male
+email: kevin.honan@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/KGH1.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 17th Suffolk
+  start_date: 2011-01-01
+offices:
+- classification: capitol
+  address: Room 38, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2470
+  fax: 617-722-2162
+links:
+- url: https://malegislature.gov/Legislators/Profile/KGH1
+- url: https://www.repkevinhonan.org/
+other_names:
+- name: Honan, K.
+- name: K. Honan
+- name: K.G. Honan
+- name: Kevin G. Honan
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000495
+- scheme: legacy_openstates
+  identifier: MAL000113
+- scheme: openstates
+  identifier: ocd-person/533b1880-c82c-4588-a1d6-a7211f9f83aa
+sources:
+- url: https://ballotpedia.org/Kevin_Honan
+- url: https://en.wikipedia.org/wiki/Kevin_Honan
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/KGH1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/KGH1
+- url: https://malegislature.gov/Legislators/Profile/KGH1
+- url: https://www.linkedin.com/in/kevin-honan-41a17710
+- url: https://www.repkevinhonan.org
+extras:
+  member code: KGH1

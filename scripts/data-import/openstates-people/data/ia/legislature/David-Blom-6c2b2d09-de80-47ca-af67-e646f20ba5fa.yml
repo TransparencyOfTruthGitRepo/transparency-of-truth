@@ -1,0 +1,28 @@
+id: ocd-person/6c2b2d09-de80-47ca-af67-e646f20ba5fa
+name: David Blom
+given_name: David
+family_name: Blom
+gender: Male
+email: david.blom@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=25125
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '52'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=25125
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=25125
+other_names:
+- name: Blom, D.
+- name: D. Blom
+sources:
+- url: https://ballotpedia.org/David_Blom
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=25125
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=25125

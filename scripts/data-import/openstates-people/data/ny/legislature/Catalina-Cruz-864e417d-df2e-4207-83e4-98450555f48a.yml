@@ -1,0 +1,36 @@
+id: ocd-person/864e417d-df2e-4207-83e4-98450555f48a
+name: Catalina Cruz
+given_name: Catalina
+family_name: Cruz
+gender: Female
+email: cruzc@nyassembly.gov
+image: https://assembly.state.ny.us/write/upload/member_files/039/headshot/039.jpg?hst=1683131280
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '39'
+offices:
+- classification: capitol
+  address: Room 652, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-4567
+- classification: district
+  address: 41-40 Junction Blvd., Corona, NY 11368
+  voice: 718-458-5367
+links:
+- url: https://assembly.state.ny.us/mem/?sh=email
+- url: https://assembly.state.ny.us/mem/Catalina-Cruz
+- url: https://nyassembly.gov/mem/Catalina-Cruz
+other_names:
+- name: C. Cruz
+- name: Cruz, C.
+ids:
+  twitter: CatalinaCruzNY
+sources:
+- url: https://assembly.state.ny.us/mem/Catalina-Cruz
+- url: https://ballotpedia.org/Catalina_Cruz
+- url: https://en.wikipedia.org/wiki/Catalina_Cruz_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/185172/catalina-cruz
+- url: https://nyassembly.gov/mem/Catalina-Cruz

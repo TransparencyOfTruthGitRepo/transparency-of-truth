@@ -1,0 +1,45 @@
+id: ocd-person/4183f327-e2a6-4b1a-9d23-161da1b5e261
+name: Aaron Michlewitz
+given_name: Aaron
+family_name: Michlewitz
+birth_date: 1978-06-07
+gender: Male
+email: aaron.m.michlewitz@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/AMM1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2009-07-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 3rd Suffolk
+offices:
+- classification: capitol
+  address: Room 243, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2990
+  fax: 617-570-6575
+links:
+- url: https://malegislature.gov/Legislators/Profile/AMM1
+other_names:
+- name: A. Michlewitz
+- name: A.M. Michlewitz
+- name: Aaron M. Michlewitz
+- name: Michlewitz, A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000565
+sources:
+- url: https://ballotpedia.org/Aaron_Michlewitz
+- url: https://en.wikipedia.org/wiki/Aaron_Michlewitz
+- url: https://justfacts.votesmart.org/candidate/biography/115768/aaron-michlewitz
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/AMM1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/AMM1
+- url: https://malegislature.gov/Legislators/Profile/AMM1
+- url: https://www.linkedin.com/in/aaron-michlewitz-4a74177
+extras:
+  leadership position: House Ways and Means Chair
+  member code: AMM1

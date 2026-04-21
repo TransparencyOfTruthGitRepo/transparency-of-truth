@@ -1,0 +1,43 @@
+id: ocd-person/a6956643-33f7-4b99-bcfb-fd44f9d92481
+name: Steve Stern
+given_name: Steve
+family_name: Stern
+birth_date: 1979-02-28
+gender: Male
+email: sterns@nyassembly.gov
+image: https://assembly.state.ny.us/write/upload/member_files/010/headshot/010.jpg?hst=1660072786
+party:
+- name: Democratic
+roles:
+- start_date: 2018-04-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '10'
+offices:
+- classification: capitol
+  address: Room 841, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-5732
+- classification: district
+  address: 95 Broad Hollow Road Suite 100, Melville, NY 11747
+  voice: 631-271-8025
+links:
+- url: https://assembly.state.ny.us/mem/?sh=email
+- url: https://assembly.state.ny.us/mem/Steve-Stern
+- url: https://nyassembly.gov/mem/Steve-Stern
+other_names:
+- name: S. Stern
+- name: S.H. Stern
+- name: Stern, S.
+- name: Steven H. Stern
+ids:
+  twitter: SteveSternNY
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000472
+sources:
+- url: https://assembly.state.ny.us/mem/Steve-Stern
+- url: https://ballotpedia.org/Steve_Stern
+- url: https://en.wikipedia.org/wiki/Steve_Stern_(politician)
+- url: https://justfacts.votesmart.org/candidate/91488/steve-stern
+- url: https://nyassembly.gov/mem/Steve-Stern
+- url: https://www.linkedin.com/in/steven-stern-95442bb2

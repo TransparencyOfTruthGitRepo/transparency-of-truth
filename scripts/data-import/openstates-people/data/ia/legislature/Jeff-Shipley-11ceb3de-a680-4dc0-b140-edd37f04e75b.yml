@@ -1,0 +1,44 @@
+id: ocd-person/11ceb3de-a680-4dc0-b140-edd37f04e75b
+name: Jeff Shipley
+given_name: Jeff
+family_name: Shipley
+birth_date: 1988-08-09
+gender: Male
+email: jeff.shipley@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27036
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '87'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '82'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://iowahouserepublicans.nationbuilder.com/reps
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=27036&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=27036
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=27036
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=27036
+other_names:
+- name: J. Shipley
+- name: Shipley, J.
+sources:
+- url: https://ballotpedia.org/Jeff_Shipley_(Iowa)
+- url: https://en.wikipedia.org/wiki/Jeff_Shipley
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=27036
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=27036
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=27036
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=27036
+extras:
+  home email: j.j.shipley@gmail.com
+  cell phone: 319.432.3108
+  occupation: Legal Advocate

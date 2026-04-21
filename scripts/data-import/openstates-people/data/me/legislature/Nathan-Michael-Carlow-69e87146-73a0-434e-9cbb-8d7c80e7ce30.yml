@@ -1,0 +1,55 @@
+id: ocd-person/69e87146-73a0-434e-9cbb-8d7c80e7ce30
+name: Nathan Carlow
+given_name: Nathan
+family_name: Carlow
+birth_date: 1999-05-18
+gender: Male
+email: nathan.carlow@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a06a6e19-aeb1-4d9f-b827-7ff997065c8d_CarlowNEW.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '137'
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '137'
+- start_date: 2020-12-02
+  end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '16'
+offices:
+- classification: capitol
+  address: Room 332, House Republican Office 2 State House Station, Augusta, ME 04333
+  voice: 207-287-1440
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1411
+  note: homepage
+- url: https://mainehousegop.org/members/carlow-nathan/
+other_names:
+- name: CARLOW of Buxton
+- name: Carlow, N.
+- name: N. Carlow
+- name: N.M. Carlow
+- name: Nathan CARLOW
+- name: Nathan M. Carlow
+- name: Nathan Michael Carlow
+sources:
+- url: https://ballotpedia.org/Nathan_Carlow
+- url: https://en.wikipedia.org/wiki/Nathan_Carlow
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1411
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://mainehousegop.org/members/carlow-nathan
+- url: https://www.linkedin.com/in/nathan-carlow-830a7b143
+extras:
+  Seat Number: '20'
+  towns represented:
+  - Buxton (Part)
+  - Hollis (Part)
+  occupation: Accounts Payable Specialist
+  education: USM

@@ -1,0 +1,80 @@
+id: ocd-organization/7a9eef64-2cfa-4898-92db-887f6a394f93
+jurisdiction: ocd-jurisdiction/country:us/state:la/government
+classification: committee
+name: Insurance
+chamber: lower
+sources:
+- url: https://house.louisiana.gov/H_Cmtes/Insurance
+- url: https://house.louisiana.gov/H_Cmtes/Insurance.aspx
+  note: Committee Detail Page
+- url: https://www.legis.la.gov/legis/Committees.aspx?c=H
+  note: Committees List Page
+links:
+- url: https://house.louisiana.gov/H_Cmtes/Insurance
+- url: https://house.louisiana.gov/H_Cmtes/Insurance.aspx
+  note: homepage
+members:
+- name: Gabe Firment
+  role: chair
+  person_id: ocd-person/50b42a20-9d29-4388-b06f-b4511eda2131
+- name: John Illg
+  role: vice chair
+  person_id: ocd-person/3c0eeaa2-cf62-4b17-9b62-2531c078dd42
+- name: Mike Johnson
+  role: ex-officio
+  person_id: ocd-person/0e901294-3718-49df-9922-0ac4503acee2
+- name: Phillip DeVillier
+  role: ex-officio
+  person_id: ocd-person/ee23b4bf-f5f7-498c-9fcc-f3b2d6f8fb1d
+- name: Aimee Freeman
+  role: member
+  person_id: ocd-person/3937cef1-8c62-428c-8837-aa6a6a8b60e7
+- name: Brian Glorioso
+  role: member
+  person_id: ocd-person/96385d4e-bfae-4929-9845-502fd2ed2cc7
+- name: Chance Henry
+  role: member
+  person_id: ocd-person/75101b55-81b9-465a-8ec6-297fa75cdd07
+- name: Dana Henry
+  role: member
+  person_id: ocd-person/1175d9fd-94fc-4988-98ee-de8d0029de06
+- name: Dennis Bamburg
+  role: member
+  person_id: ocd-person/a900feca-75c7-434e-8d00-dd67170f2b01
+- name: Ed Murray
+  role: member
+  person_id: ocd-person/807a71ac-5657-4933-add4-024d35529e38
+- name: Edmond Jordan
+  role: member
+  person_id: ocd-person/efdf7ee4-4d37-4e57-8f0c-e0db52ee7f70
+- name: "Jay Gall\xE9"
+  role: member
+  person_id: ocd-person/ef1c54d6-d162-48d3-b3b5-b02da086c1ee
+- name: Kyle Green
+  role: member
+  person_id: ocd-person/8ffaa2bd-ff67-464a-b639-19a6069e28a2
+- name: Larry Bagley
+  role: member
+  person_id: ocd-person/d6e47850-c123-4060-8309-74192011981b
+- name: Michael Melerine
+  role: member
+  person_id: ocd-person/b38eb9d5-c27d-443e-995d-f9681e3a992e
+- name: Mike Bayham
+  role: member
+  person_id: ocd-person/e06c4ec7-9051-4489-b572-5b55e5fd4a68
+- name: Roger Wilder
+  role: member
+  person_id: ocd-person/c6f00cae-9826-4be6-934e-1a9516b20c4d
+- name: Shaun Mena
+  role: member
+  person_id: ocd-person/6fdcb100-c1e5-450e-a3dd-cf42c06cff1e
+- name: Tammy Phelps
+  role: member
+  person_id: ocd-person/a838e3b6-52ea-4ad0-a308-2337762a492b
+- name: Troy Hebert
+  role: member
+  person_id: ocd-person/ba2902d5-5a0e-4e71-b396-6e85358511de
+other_names:
+- name: House Committee on Insurance
+- name: House Insurance
+- name: House Insurance Committee

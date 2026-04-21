@@ -1,0 +1,32 @@
+id: ocd-person/6c867cbf-9d0b-4dd8-9537-55e834a42dc4
+name: Deb Patterson
+given_name: Deb
+family_name: Patterson
+gender: Female
+email: sen.debpatterson@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/patterson/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '10'
+offices:
+- classification: capitol
+  address: Room S-411, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1710
+links:
+- url: https://www.oregonlegislature.gov/patterson
+- url: https://www.oregonlegislature.gov/Patterson
+other_names:
+- name: D. Patterson
+- name: Patterson, D.
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Deb_Patterson
+- url: https://en.wikipedia.org/wiki/Deb_Patterson_(politician)
+- url: https://www.linkedin.com/in/deb-patterson-49009162
+- url: https://www.oregonlegislature.gov/Patterson
+- url: https://www.oregonlegislature.gov/patterson

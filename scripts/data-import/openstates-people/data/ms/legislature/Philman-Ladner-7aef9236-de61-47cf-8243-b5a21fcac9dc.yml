@@ -1,0 +1,29 @@
+id: ocd-person/7aef9236-de61-47cf-8243-b5a21fcac9dc
+name: Philman Ladner
+given_name: Philman
+family_name: Ladner
+gender: Male
+email: pladner@senate.ms.gov
+image: https://billstatus.ls.state.ms.us/members/senate/Ladner.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '46'
+offices:
+- classification: capitol
+  address: State Capitol Room 213, 400 High St., Jackson, MS 39201
+  voice: 601-359-4088
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/senate/ladner.xml
+other_names:
+- name: Ladner, P.
+- name: P. Ladner
+- name: P.A. Ladner
+sources:
+- url: https://ballotpedia.org/Philman_Ladner
+- url: https://billstatus.ls.state.ms.us/members/senate/ladner.xml

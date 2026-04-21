@@ -1,0 +1,35 @@
+id: ocd-person/d9b64ebb-2332-4ab8-b21f-e697f08759d3
+name: Dan Gehlbach
+given_name: Dan
+family_name: Gehlbach
+gender: Male
+email: dan.gehlbach@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33980
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '46'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33980&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33980
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33980
+other_names:
+- name: D. Gehlbach
+- name: Gehlbach, D.
+sources:
+- url: https://ballotpedia.org/Dan_Gehlbach
+- url: https://en.wikipedia.org/wiki/Dan_Gehlbach
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33980
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33980
+- url: https://www.linkedin.com/in/dangehlbach
+extras:
+  home email: dangehlbach@icloud.com
+  occupation: Small Business Owner

@@ -1,0 +1,29 @@
+id: ocd-person/1c179bc8-d192-44c1-aed6-4801e9d6b338
+name: Billie Butler
+given_name: Billie
+family_name: Butler
+gender: X
+image: https://www.fosters.com/gcdn/authoring/authoring-images/2025/06/11/NFDD/84151476007-billie-1.jpg?width=660&height=495&fit=crop&format=pjpg&auto=webp
+party:
+- name: Democratic
+roles:
+- start_date: 2025-07-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 12
+  end_date: 2026-03-18
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=11524
+other_names:
+- name: B. Butler
+- name: Butler, B.
+sources:
+- url: https://ballotpedia.org/Billie_Butler
+- url: https://en.wikipedia.org/wiki/Billie_Butler
+- url: https://gc.nh.gov/house/members/member.aspx?pid=11524
+- url: https://justfacts.votesmart.org/candidate/biography/221861/billie-butler
+- url: https://www.linkedin.com/in/billiebutler

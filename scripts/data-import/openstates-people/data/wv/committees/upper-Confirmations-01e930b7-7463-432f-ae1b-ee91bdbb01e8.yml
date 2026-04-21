@@ -1,0 +1,42 @@
+id: ocd-organization/01e930b7-7463-432f-ae1b-ee91bdbb01e8
+jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+classification: committee
+name: Confirmations
+chamber: upper
+sources:
+- url: https://www.wvlegislature.gov/committees/senate/SenateCommittee.cfm?Chart=con
+- url: https://www.wvlegislature.gov/committees/senate/SenateCommittee.cfm?Chart=conf
+  note: Confirmations committee url
+links:
+- url: https://www.wvlegislature.gov/committees/senate/SenateCommittee.cfm?Chart=con
+- url: https://www.wvlegislature.gov/committees/senate/SenateCommittee.cfm?Chart=conf
+  note: homepage
+members:
+- name: Anne Charnock
+  role: chair
+  person_id: ocd-person/37bf9de9-84b5-4983-8742-a5c3eeeca64a
+- name: Chris Rose
+  role: member
+  person_id: ocd-person/9c82f11d-28f2-4167-b10c-26815533f73a
+- name: Jason Barrett
+  role: member
+  person_id: ocd-person/bcbe03de-3df0-4c07-8973-0304dafa2cb8
+- name: Jay Taylor
+  role: member
+  person_id: ocd-person/a7ae16a1-8a1e-4280-8d00-9125719a893e
+- name: Mike Azinger
+  role: member
+  person_id: ocd-person/8fe81e26-b0ce-4349-a3e3-91d25247b980
+- name: Mike Woelfel
+  role: member
+  person_id: ocd-person/500ddd59-2fb2-406a-869c-2b06f6cc2385
+- name: Ryan Weld
+  role: member
+  person_id: ocd-person/680aa2ce-6408-4047-a36b-0b3badc82851
+- name: Trenton Barnhart
+  role: member
+  person_id: ocd-person/4a909c49-37c6-4105-ac77-afe4745a1b1b
+other_names:
+- name: Senate Committee on Confirmations
+- name: Senate Confirmations
+- name: Senate Confirmations Committee

@@ -1,0 +1,29 @@
+id: ocd-person/472c50ea-da65-42c3-a9b3-3639a9881a7f
+name: Gary Brown
+given_name: Gary
+family_name: Brown
+gender: Male
+email: gary.brown@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-BrownGary.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '41'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 20735, Cheyenne, WY 82003
+links:
+- url: https://wyoleg.gov/Legislators/2025/H/2140
+other_names:
+- name: Brown, G
+- name: Brown, G.
+- name: G. Brown
+sources:
+- url: https://ballotpedia.org/Gary_Brown_(Wyoming)
+- url: https://justfacts.votesmart.org/candidate/biography/218338/gary-brown
+- url: https://wyoleg.gov/Legislators/2025/H/2140

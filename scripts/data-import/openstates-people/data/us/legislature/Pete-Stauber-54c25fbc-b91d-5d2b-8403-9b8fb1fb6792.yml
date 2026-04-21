@@ -1,0 +1,86 @@
+id: ocd-person/54c25fbc-b91d-5d2b-8403-9b8fb1fb6792
+name: Pete Stauber
+given_name: Pete
+family_name: Stauber
+birth_date: 1966-05-10
+gender: Male
+email: https://stauber.house.gov/contact/email-me
+image: https://unitedstates.github.io/images/congress/450x550/S001212.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MN-8
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MN-8
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MN-8
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MN-8
+offices:
+- classification: capitol
+  address: 145 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-6211
+- classification: district
+  address: 5094 Miller Trunk Highway Suite 900, Hermantown, MN 55811
+  voice: 218-481-6396
+- classification: district
+  address: Brainerd City Hall 501 Laurel St., Brainerd, MN 56401
+  voice: 218-355-0862
+- classification: district
+  address: Chisholm City Hall 316 W. Lake St., Room 7, Chisholm, MN 55719
+  voice: 218-355-0240
+- classification: district
+  address: Forest Lake City Hall 1408 Lake St. South, Forest Lake, MN 55025
+links:
+- url: https://stauber.house.gov
+  note: website
+- url: https://stauber.house.gov/
+other_names:
+- name: P. Stauber
+- name: P.A. Stauber
+- name: Stauber, P.
+ids:
+  twitter: RepPeteStauber
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Pete Stauber
+- scheme: bioguide
+  identifier: S001212
+- scheme: fec
+  identifier: H8MN08043
+- scheme: google_entity_id
+  identifier: kg:/g/11gjy6v3nv
+- scheme: govtrack
+  identifier: '412792'
+- scheme: icpsr
+  identifier: '21969'
+- scheme: opensecrets
+  identifier: N00041511
+- scheme: pictorial
+  identifier: '13114'
+- scheme: votesmart
+  identifier: '159954'
+- scheme: wikidata
+  identifier: Q55955746
+sources:
+- url: https://ballotpedia.org/Pete_Stauber
+- url: https://en.wikipedia.org/wiki/Pete_Stauber
+- url: https://justfacts.votesmart.org/candidate/159954/peter-stauber
+- url: https://petestauberforcongress.com/about
+- url: https://stauber.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/pete_stauber/412792

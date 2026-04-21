@@ -1,0 +1,29 @@
+id: ocd-person/fdce734b-2080-4a62-bf9c-baec09572938
+name: Chris Stewart
+given_name: Chris
+family_name: Stewart
+gender: Male
+email: chris.stewart@housegop.ct.gov
+image: https://www2.cbia.com/govaff/images/legpics/H051_Stewart.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '51'
+offices:
+- classification: capitol
+  address: Room 4200, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8700
+links:
+- url: https://www.cthousegop.com/stewart/
+other_names:
+- name: C. Stewart
+- name: Stewart, C.
+sources:
+- url: https://ballotpedia.org/Chris_Stewart_(Connecticut)
+- url: https://en.wikipedia.org/wiki/Chris_Stewart_(Connecticut_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/219057/chris-stewart
+- url: https://www.cthousegop.com/stewart
+- url: https://www.linkedin.com/in/chris-stewart-8a8326150

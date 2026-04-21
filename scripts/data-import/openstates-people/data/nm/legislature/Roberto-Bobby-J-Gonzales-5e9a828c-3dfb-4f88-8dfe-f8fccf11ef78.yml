@@ -1,0 +1,47 @@
+id: ocd-person/5e9a828c-3dfb-4f88-8dfe-f8fccf11ef78
+name: Bobby Gonzales
+given_name: Bobby
+family_name: Gonzales
+gender: Male
+email: roberto.gonzales@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SGONZ.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-12-20
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '6'
+- end_date: 2019-12-20
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '42'
+offices:
+- classification: capitol
+  address: State Capitol Room 217A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4362
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SGONZ
+  note: homepage
+other_names:
+- name: B. Gonzales
+- name: Gonzales, B.
+- name: Gonzales, Bobby
+- name: Gonzales, Roberto "Bobby" J.
+- name: R.J. Gonzales
+- name: Roberto "Bobby" J. Gonzales
+- name: Roberto Jesse Gonzales
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000376
+sources:
+- url: https://ballotpedia.org/Roberto_Gonzales
+- url: https://en.wikipedia.org/wiki/Roberto_Gonzales
+- url: https://justfacts.votesmart.org/candidate/biography/5837/roberto-gonzales
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SGONZ
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: Los Alamos, Rio Arriba, Santa Fe & Taos
+  service: Representative from 1995-2019; Senator since 2019
+  occupation: Retired Educator

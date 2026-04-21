@@ -1,0 +1,49 @@
+id: ocd-person/2a9569a0-feaf-431d-8a8d-012d8ebccbf8
+name: Alice Peisch
+given_name: Alice
+family_name: Peisch
+birth_date: 1954-10-04
+gender: Female
+email: alice.peisch@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/AHP1.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 14th Norfolk
+  start_date: 2011-01-01
+offices:
+- classification: capitol
+  address: Room 234, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2783
+links:
+- url: https://malegislature.gov/Legislators/Profile/AHP1
+- url: https://www.alicepeisch.org
+other_names:
+- name: A. Peisch
+- name: A.H. Peisch
+- name: Alice Hanlon Peisch
+- name: Peisch, A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000558
+- scheme: legacy_openstates
+  identifier: MAL000155
+- scheme: openstates
+  identifier: ocd-person/9ff50f03-e7dc-407d-afd9-16cae5c80667
+sources:
+- url: https://ballotpedia.org/Alice_Peisch
+- url: https://en.wikipedia.org/wiki/Alice_Peisch
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/AHP1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/AHP1
+- url: https://malegislature.gov/Legislators/Profile/AHP1
+- url: https://www.alicepeisch.org
+- url: https://www.linkedin.com/in/alice-peisch-0311038
+extras:
+  leadership position: Assistant Majority Leader
+  member code: AHP1

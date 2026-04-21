@@ -1,4 +1,4 @@
----
+﻿---
 title: "Dave Hinman"
 date: 2026-04-21T01:23:31Z
 draft: false
@@ -13,7 +13,7 @@ chamber: "house"
 district: "103"
 party: "Republican"
 status: "active"
-official_website: "https://house.mo.gov/MemberDetails.aspx?\district=103"
+official_website: "https://house.mo.gov/MemberDetails.aspx?district=103"
 email: "dave.hinman@house.mo.gov"
 phone: ""
 review_status: "seeded"

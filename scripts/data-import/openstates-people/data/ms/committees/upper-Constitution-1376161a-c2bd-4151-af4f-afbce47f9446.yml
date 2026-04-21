@@ -1,0 +1,43 @@
+id: ocd-organization/1376161a-c2bd-4151-af4f-afbce47f9446
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Constitution
+chamber: upper
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: homepage
+members:
+- name: Angela Hill
+  role: chair
+  person_id: ocd-person/4004cf9a-6d23-4323-b158-00f22078d2b4
+- name: Derrick Simmons
+  role: vice chair
+  person_id: ocd-person/3ea1bab4-64f2-4ff3-b0a9-e04a8caa3e9f
+- name: Ben Suber
+  role: member
+  person_id: ocd-person/ba13036f-790b-4745-b008-eeb74f1c86a1
+- name: Chris Johnson
+  role: member
+  person_id: ocd-person/20510bb3-edcd-4cb8-a41a-e0114e6215c9
+- name: Hob Bryan
+  role: member
+  person_id: ocd-person/717de4df-c8b0-4387-a767-4d37b577f370
+- name: Kamesha Mumford
+  role: member
+  person_id: ocd-person/d0269daa-032c-482b-9faf-1d569a4645a9
+- name: Kevin Blackwell
+  role: member
+  person_id: ocd-person/b58c7115-6f1d-4de3-9327-eef3b6f0c83c
+- name: Lydia Chassaniol
+  role: member
+  person_id: ocd-person/094c0731-4932-4400-ad96-84c83ba1dd59
+- name: Mike Thompson
+  role: member
+  person_id: ocd-person/eaa39996-c8a7-4568-b01e-d7685667227b
+other_names:
+- name: Senate Committee on Constitution
+- name: Senate Constitution
+- name: Senate Constitution Committee

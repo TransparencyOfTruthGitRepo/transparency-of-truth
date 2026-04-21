@@ -1,0 +1,32 @@
+id: ocd-person/c64e6628-efa4-4ffe-8b2f-d9df80f4f313
+name: Kellee Hennessy
+given_name: Kellee
+family_name: Hennessy
+birth_date: 1970-02-06
+gender: Female
+email: hse064@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics/rep64.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '64'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 32350 Louisiana Highway 16 Building F, Suite 2, Denham Springs, LA 70706
+links:
+- url: https://house.louisiana.gov/H_Reps/members?ID=64
+other_names:
+- name: Dickerson
+- name: Hennessy, K.
+- name: K. Hennessy
+- name: Kellee Dickerson
+sources:
+- url: https://ballotpedia.org/Kellee_Hennessy_Dickerson
+- url: https://en.wikipedia.org/wiki/Kellee_Hennessy_Dickerson
+- url: https://house.louisiana.gov/H_Reps/members?ID=64

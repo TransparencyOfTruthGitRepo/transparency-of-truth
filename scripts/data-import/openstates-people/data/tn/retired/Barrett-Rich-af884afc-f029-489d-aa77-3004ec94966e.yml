@@ -1,0 +1,27 @@
+id: ocd-person/af884afc-f029-489d-aa77-3004ec94966e
+name: Barrett Rich
+given_name: Barrett
+family_name: Rich
+image: http://www.capitol.tn.gov/house/members/images/h94.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '94'
+links:
+- url: http://www.capitol.tn.gov/house/members/h94.html
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000106
+- scheme: legacy_openstates
+  identifier: TNL000236
+- scheme: legacy_openstates
+  identifier: TNL000297
+- scheme: legacy_openstates
+  identifier: TNL000373
+sources:
+- url: http://www.capitol.tn.gov/house/members/
+- url: http://www.capitol.tn.gov/house/members/h94.html

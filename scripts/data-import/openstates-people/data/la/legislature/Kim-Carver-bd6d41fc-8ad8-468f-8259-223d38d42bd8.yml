@@ -1,0 +1,32 @@
+id: ocd-person/bd6d41fc-8ad8-468f-8259-223d38d42bd8
+name: Kim Carver
+given_name: Kim
+family_name: Carver
+gender: Male
+email: hse089@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics/rep89.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '89'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 1200 W. Causeway Approach Suite 20, Mandeville, LA 70471
+links:
+- url: https://house.louisiana.gov/H_Reps/members?ID=89
+other_names:
+- name: C.K. Carver
+- name: Carver, K.
+- name: K. Carver
+sources:
+- url: https://ballotpedia.org/Kim_Carver
+- url: https://en.wikipedia.org/wiki/Christopher_Kim_Carver
+- url: https://house.louisiana.gov/H_Reps/members?ID=89
+- url: https://justfacts.votesmart.org/candidate/biography/212522/kim-carver
+- url: https://www.linkedin.com/in/kim-carver-64526933

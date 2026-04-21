@@ -1,0 +1,64 @@
+id: ocd-organization/430fec11-2695-46d4-9f96-49b2e2c82dfb
+jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+classification: committee
+name: Environment and Agriculture
+chamber: lower
+sources:
+- url: https://gc.nh.gov/house/committees/committeedetails.aspx?id=2
+- url: https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=2
+  note: Committee details page
+- url: https://www.gencourt.state.nh.us/house/committees/standingcommittees.aspx
+  note: Committees list page
+links:
+- url: https://gc.nh.gov/house/committees/committeedetails.aspx?id=2
+- url: https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=2
+members:
+- name: Judy Aron
+  role: chair
+  person_id: ocd-person/533fb85c-c4f0-41f3-9bc6-8b1c422a9693
+- name: Barbara Comtois
+  role: vice chair
+  person_id: ocd-person/3e0ee111-2332-4742-b073-a23cc37a8b51
+- name: Seth King
+  role: clerk
+  person_id: ocd-person/15d93e43-ec08-4958-8f3b-1d56d95eb574
+- name: Catherine Sofikitis
+  role: member
+  person_id: ocd-person/36fb226e-9ed4-483f-a254-141baf18d295
+- name: Jim Gruber
+  role: member
+  person_id: ocd-person/c46f0617-3009-41d2-97e3-a51004d83430
+- name: Jonah Wheeler
+  role: member
+  person_id: ocd-person/87b1ae9f-d7ad-4fc2-b96c-a03c1926c4b1
+- name: Kelley Potenza
+  role: member
+  person_id: ocd-person/b9b6f587-2395-497d-8f04-dfaae1b3d7f4
+- name: Kevin Scully
+  role: member
+  person_id: ocd-person/2a474f9c-7a7d-4d4f-8c7c-73ade8e11ad8
+- name: Larry Miner
+  role: member
+  person_id: ocd-person/efbf2adf-16f5-490e-9513-a80698aab5d8
+- name: Linda Haskins
+  role: member
+  person_id: ocd-person/ad3c3841-fa56-4055-bd86-8a3c504d36a9
+- name: Lisa Freeman
+  role: member
+  person_id: ocd-person/a87a3359-2def-4743-bf8f-9df4d308f864
+- name: Liz Barbour
+  role: member
+  person_id: ocd-person/6fbc7a9b-82b3-4897-86e1-61e3fb4a4f77
+- name: Molly Howard
+  role: member
+  person_id: ocd-person/4825494b-dbbb-44f4-a4a7-dee1df0a87ae
+- name: Nick Germana
+  role: member
+  person_id: ocd-person/170e4582-46d4-480d-9bca-b49b2ba8baf3
+- name: Peter Bixby
+  role: member
+  person_id: ocd-person/2c42e95c-0192-4910-9fc6-8a43b58c6467
+other_names:
+- name: House Committee on Environment and Agriculture
+- name: House Environment and Agriculture
+- name: House Environment and Agriculture Committee

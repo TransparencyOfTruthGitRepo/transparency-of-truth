@@ -1,0 +1,27 @@
+id: ocd-person/3b5ae6f7-6365-4b6a-b324-3ff5b46733dd
+name: Stephen F. Carter
+given_name: Stephen F.
+family_name: Carter
+image: http://house.louisiana.gov/h_reps/RepPics09/rep68.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-01-13'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '68'
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=68
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000189
+- scheme: legacy_openstates
+  identifier: LAL000338
+- scheme: legacy_openstates
+  identifier: LAL000542
+- scheme: legacy_openstates
+  identifier: LAL000658
+- scheme: legacy_openstates
+  identifier: LAL000926
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=68

@@ -1,0 +1,20 @@
+id: ocd-person/e67509cd-fea2-4db9-99f7-4d49b98556e0
+name: Diego Hernandez
+given_name: Diego
+family_name: Hernandez
+email: Rep.DiegoHernandez@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/house/MemberPhotos/hernandez.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2021-03-15'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '47'
+links:
+- url: https://www.oregonlegislature.gov/hernandez
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000386
+sources:
+- url: https://www.oregonlegislature.gov/hernandez

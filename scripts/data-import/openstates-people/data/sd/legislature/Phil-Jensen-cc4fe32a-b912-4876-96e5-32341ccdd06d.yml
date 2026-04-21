@@ -1,0 +1,59 @@
+id: ocd-person/cc4fe32a-b912-4876-96e5-32341ccdd06d
+name: Phil Jensen
+given_name: Phil
+family_name: Jensen
+birth_date: 1952-07-24
+gender: Male
+email: phil.jensen@sdlegislature.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Phil-Jensen.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '33'
+- start_date: 2013-01-08
+  end_date: 2021-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '33'
+- end_date: 2013-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '33'
+  start_date: 2021-01-12
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3851
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1442&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1471&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Profile/1805/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4375/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4511/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4618/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4770/Detail
+other_names:
+- name: Jensen (Phil)
+- name: Jensen, P.
+- name: P. Jensen
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000063
+- scheme: legacy_openstates
+  identifier: SDL000153
+sources:
+- url: https://ballotpedia.org/Phil_Jensen
+- url: https://en.wikipedia.org/wiki/Phil_Jensen
+- url: https://justfacts.votesmart.org/candidate/biography/104047/phil-jensen
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1442&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1471&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Profile/1805/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4375/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4511/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4618/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4770/Detail
+extras:
+  occupation: Small Business Owner

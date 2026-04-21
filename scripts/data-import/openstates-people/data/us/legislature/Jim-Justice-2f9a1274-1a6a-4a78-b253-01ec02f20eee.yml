@@ -1,0 +1,39 @@
+id: ocd-person/2f9a1274-1a6a-4a78-b253-01ec02f20eee
+name: Jim Justice
+given_name: Jim
+family_name: Justice
+birth_date: 1951-04-27
+gender: Male
+email: https://www.justice.senate.gov/share-your-opinion/
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: West Virginia
+offices:
+- classification: capitol
+  address: 509 Hart Senate Office Building, Washington, DC 20510
+  voice: 202-224-3954
+- classification: district
+  address: 900 Pennsylvania Ave. Suite 629, Charleston, WV 25302
+  voice: 304-342-5855
+links:
+- url: https://www.justice.senate.gov/
+other_names:
+- name: J. Justice
+- name: J.C. Justice
+- name: James C. Justice
+- name: Justice, J.
+other_identifiers:
+- scheme: bioguide
+  identifier: J000312
+sources:
+- url: https://ballotpedia.org/Jim_Justice
+- url: https://en.wikipedia.org/wiki/Jim_Justice
+- url: https://governor.wv.gov/about/Pages/default.aspx
+- url: https://jimjusticewv.com/meet-jim
+- url: https://justfacts.votesmart.org/candidate/biography/166287/jim-justice-jr
+- url: https://www.justice.senate.gov

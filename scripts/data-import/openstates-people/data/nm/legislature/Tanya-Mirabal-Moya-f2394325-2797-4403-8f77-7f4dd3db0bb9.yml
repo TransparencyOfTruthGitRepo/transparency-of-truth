@@ -1,0 +1,39 @@
+id: ocd-person/f2394325-2797-4403-8f77-7f4dd3db0bb9
+name: Tanya Moya
+given_name: Tanya
+family_name: Moya
+gender: Female
+email: tanya.mirabalmoya@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HMIRA.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '7'
+offices:
+- classification: capitol
+  address: State Capitol Room 201B, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4214
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HMIRA
+  note: homepage
+other_names:
+- name: Mirabal Moya
+- name: Mirabal Moya, Tanya
+- name: Moya, T.
+- name: Moya, Tanya
+- name: T. Moya
+- name: T.M. Moya
+- name: Tanya M. Moya
+- name: Tanya Mirabal Moya
+sources:
+- url: https://ballotpedia.org/Tanya_Mirabal_Moya
+- url: https://en.wikipedia.org/wiki/Tanya_Mirabal_Moya
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HMIRA
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Valencia
+  occupation: Teacher

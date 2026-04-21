@@ -1,0 +1,27 @@
+id: ocd-person/7c0a8209-9c6a-4c52-91c4-25b0b2bedb5e
+name: Louis Pate
+given_name: Louis
+family_name: Pate
+image: http://www.ncleg.net/Senate/pictures/hiRes/273.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-14'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '7'
+links:
+- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=Senate&nUserID=273
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000192
+- scheme: legacy_openstates
+  identifier: NCL000258
+sources:
+- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=Senate&nUserID=273
+extras:
+  counties:
+  - Lenoir
+  - Pitt
+  - Wayne
+  notice: null

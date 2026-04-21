@@ -1,0 +1,30 @@
+id: ocd-person/2d13f154-7e05-462c-b8d9-da5c5556d8b9
+name: John Carley
+given_name: John
+family_name: Carley
+gender: Male
+email: john.carley@sdlegislature.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JohnCarley3.png
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '29'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3821
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/4692/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4740/Detail
+other_names:
+- name: Carley, J.
+- name: J. Carley
+sources:
+- url: https://ballotpedia.org/John_Carley
+- url: https://en.wikipedia.org/wiki/John_Carley
+- url: https://justfacts.votesmart.org/candidate/biography/205084/john-carley
+- url: https://sdlegislature.gov/Legislators/Profile/4692/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4740/Detail

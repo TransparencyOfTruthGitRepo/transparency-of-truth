@@ -1,0 +1,37 @@
+id: ocd-organization/7fb23df2-3250-4665-a6aa-60ddf9ab47a0
+jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+classification: committee
+name: Internet and Technology
+chamber: upper
+sources:
+- url: https://www.nysenate.gov/committees/internet-and-technology
+- url: https://www.nysenate.gov/senators-committees
+links:
+- url: https://www.nysenate.gov/committees/internet-and-technology
+  note: homepage
+members:
+- name: Kristen Gonzalez
+  role: chair
+  person_id: ocd-person/f96b188a-83e0-4eab-876f-964e06d721d4
+- name: Dan Stec
+  role: ranking member
+  person_id: ocd-person/7bb8c8bc-0238-4fd2-8dff-e5f2b2aaa92a
+- name: Andrew Gounardes
+  role: member
+  person_id: ocd-person/ae1f415b-958c-4a4c-805b-626e6eca5fe3
+- name: Jeremy Zellner
+  role: member
+  person_id: ocd-person/6409bcf6-2def-4150-bf11-292ec93b72f6
+- name: Kevin Parker
+  role: member
+  person_id: ocd-person/dbf73f29-d4ce-4192-b8fe-42b3ac538dda
+- name: Mark Walczyk
+  role: member
+  person_id: ocd-person/615c8d33-9652-4163-87b9-0fc82fc09b8c
+- name: Michelle Hinchey
+  role: member
+  person_id: ocd-person/0f3cecb9-87fb-48c7-96af-fd3ff8e0cd8b
+other_names:
+- name: Senate Committee on Internet and Technology
+- name: Senate Internet and Technology
+- name: Senate Internet and Technology Committee

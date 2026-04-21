@@ -1,0 +1,73 @@
+id: ocd-person/a68063b7-2ce8-5638-a836-4fa7b22b3432
+name: Jake Auchincloss
+given_name: Jake
+family_name: Auchincloss
+birth_date: 1988-01-29
+gender: Male
+email: https://auchincloss.house.gov/contact/email-me
+image: https://unitedstates.github.io/images/congress/450x550/A000148.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-4
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-4
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-4
+offices:
+- classification: capitol
+  address: 1524 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-5931
+  fax: 202-225-0182
+- classification: district
+  address: 29 Crafts St. Suite 375, Newton, MA 02458
+  voice: 617-332-3333
+- classification: district
+  address: 8 N. Main St. Suite 200, Attleboro, MA 02703
+  voice: 508-431-1110
+links:
+- url: https://auchincloss.house.gov
+  note: website
+- url: https://auchincloss.house.gov/
+other_names:
+- name: Auchincloss, J.
+- name: J. Auchincloss
+- name: J.D. Auchincloss
+ids:
+  twitter: RepAuchincloss
+other_identifiers:
+- scheme: bioguide
+  identifier: A000148
+- scheme: fec
+  identifier: H0MA04192
+- scheme: google_entity_id
+  identifier: kg:/g/11f0xw2_p4
+- scheme: govtrack
+  identifier: '456825'
+- scheme: opensecrets
+  identifier: N00045506
+- scheme: pictorial
+  identifier: '13078'
+- scheme: wikidata
+  identifier: Q101196632
+- scheme: wikipedia
+  identifier: Jake Auchincloss
+sources:
+- url: https://auchincloss.house.gov
+- url: https://ballotpedia.org/Jake_Auchincloss
+- url: https://en.wikipedia.org/wiki/Jake_Auchincloss
+- url: https://justfacts.votesmart.org/candidate/biography/173832/jake-auchincloss
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/jake_auchincloss/456825
+- url: https://www.linkedin.com/in/auchincloss

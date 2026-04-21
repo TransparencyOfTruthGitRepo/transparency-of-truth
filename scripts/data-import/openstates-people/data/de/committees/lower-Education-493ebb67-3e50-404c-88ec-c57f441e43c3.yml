@@ -1,0 +1,68 @@
+id: ocd-organization/493ebb67-3e50-404c-88ec-c57f441e43c3
+jurisdiction: ocd-jurisdiction/country:us/state:de/government
+classification: committee
+name: Education
+chamber: lower
+sources:
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=587
+  note: Member list page
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=629
+- url: https://legis.delaware.gov/json/Committees/GetCommitteesByTypeId?ga=
+  note: Committee json data
+links:
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=587
+  note: homepage
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=629
+members:
+- name: Kim Williams
+  role: chair
+  person_id: ocd-person/80dfa709-d199-4950-a067-2dafc40241b9
+- name: Alonna Berry
+  role: member
+  person_id: ocd-person/e9301c44-8042-4031-8ed0-4731c64a5a66
+- name: Bill Bush
+  role: member
+  person_id: ocd-person/fccfb524-6aee-40a9-8469-081e961dd072
+- name: Bryan Shupe
+  role: member
+  person_id: ocd-person/11732933-9dce-46b4-8683-67e8449b315b
+- name: Claire Snyder-Hall
+  role: member
+  person_id: ocd-person/933a1f48-bea2-43f7-9ccb-a793ac4ac71d
+- name: DeShanna Neal
+  role: member
+  person_id: ocd-person/5c5f5bf8-d155-4911-8e06-eb6cc664859e
+- name: Eric Morrison
+  role: member
+  person_id: ocd-person/bfab3b33-30ff-45fc-a45f-ae796d43de68
+- name: Jeff Hilovsky
+  role: member
+  person_id: ocd-person/aa0846e8-7d8d-46ed-b4c9-54c9c2243d16
+- name: Josue Ortega
+  role: member
+  person_id: ocd-person/d020ca16-1926-4279-adc8-c0a6cddeac6e
+- name: Kam Smith
+  role: member
+  person_id: ocd-person/5b43a977-2fe9-49e8-b3de-6873eab0692c
+- name: Kevin Hensley
+  role: member
+  person_id: ocd-person/d1020a85-27a1-4458-9ae2-90b09367be2c
+- name: Melanie Ross Levin
+  role: member
+  person_id: ocd-person/ec594c77-7bbe-45c5-9ffd-0f6a3aad1e36
+- name: Mike Smith
+  role: member
+  person_id: ocd-person/c9f1393e-01c8-4597-a6e5-6d43330264dc
+- name: Nnamdi Chukwuocha
+  role: member
+  person_id: ocd-person/fdf8cd7b-933f-469b-b1b7-119b39ba5e86
+- name: Sean Lynn
+  role: member
+  person_id: ocd-person/6fd6e720-822c-45ee-8fac-933b4eb9ccb5
+- name: Valerie Giltner
+  role: member
+  person_id: ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0
+other_names:
+- name: House Committee on Education
+- name: House Education
+- name: House Education Committee

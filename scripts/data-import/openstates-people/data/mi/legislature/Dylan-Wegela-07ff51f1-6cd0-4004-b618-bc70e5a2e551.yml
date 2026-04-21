@@ -1,0 +1,33 @@
+id: ocd-person/07ff51f1-6cd0-4004-b618-bc70e5a2e551
+name: Dylan Wegela
+given_name: Dylan
+family_name: Wegela
+gender: Male
+email: dylanwegela@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room N-790, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-3818
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/Dylan-Wegela/
+other_names:
+- name: D. Wegela
+- name: Wegela, D.
+sources:
+- url: https://ballotpedia.org/Dylan_Wegela
+- url: https://housedems.com/Dylan-Wegela
+- url: https://housedems.com/Dylan-Wegela/
+  note: Member Details Page
+- url: https://housedems.com/dylan-wegela/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page

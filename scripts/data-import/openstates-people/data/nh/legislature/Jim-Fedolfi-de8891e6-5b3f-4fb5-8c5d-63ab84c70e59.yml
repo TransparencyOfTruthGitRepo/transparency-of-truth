@@ -1,0 +1,57 @@
+id: ocd-person/de8891e6-5b3f-4fb5-8c5d-63ab84c70e59
+name: Jim Fedolfi
+given_name: Jim
+family_name: Fedolfi
+gender: Male
+email: jimfornh@gmail.com
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/60549.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 30
+- start_date: 2016-12-07
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 30
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 1
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=408299
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?member=408299
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8299
+  note: member detail page
+other_names:
+- name: Fedolfi, J.
+- name: J. Fedolfi
+- name: J.L. Fedolfi
+- name: Jim L. Fedolfi
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001450
+sources:
+- url: https://ballotpedia.org/Jim_Fedolfi
+- url: https://en.wikipedia.org/wiki/Jim_Fedolfi
+- url: https://gc.nh.gov/house/members/member.aspx?member=408299
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?member=408299
+- url: https://justfacts.votesmart.org/candidate/biography/172996/jim-fedolfi
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408299
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8299
+extras:
+  county: Hillsborough
+  elected status: Incumbent
+  gender code: M

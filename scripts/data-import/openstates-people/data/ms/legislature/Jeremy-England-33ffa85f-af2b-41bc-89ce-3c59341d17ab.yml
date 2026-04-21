@@ -1,0 +1,46 @@
+id: ocd-person/33ffa85f-af2b-41bc-89ce-3c59341d17ab
+name: Jeremy England
+given_name: Jeremy
+family_name: England
+birth_date: 1982-11-11
+gender: Male
+email: jengland@senate.ms.gov
+image: http://billstatus.ls.state.ms.us/members/senate/england.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '51'
+offices:
+- classification: capitol
+  address: State Capitol Room 409, 400 High St., Jackson, MS 39201
+  voice: 601-359-3237
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+- classification: district-mail
+  address: P.O. Box 6363, Vancleave, MS 39565
+links:
+- url: https://billstatus.ls.state.ms.us/members/senate/england.xml
+  note: homepage
+other_names:
+- name: England, J.
+- name: J. England
+- name: J.T. England
+- name: Jeremy Thomas England
+sources:
+- url: https://ballotpedia.org/Jeremy_England
+- url: https://billstatus.ls.state.ms.us/members/senate/england.xml
+- url: https://billstatus.ls.state.ms.us/members/ss_membs.xml
+- url: https://en.wikipedia.org/wiki/Jeremy_England_(politician)
+- url: https://www.linkedin.com/in/jeremy-england-33704932
+extras:
+  occupation: Senior Attorney
+  education:
+  - Pascagoula High School
+  - Mississippi State University
+  - University of Mississippi School of Law
+  counties represented:
+  - Jackson
+  other phone: (228)219-1180

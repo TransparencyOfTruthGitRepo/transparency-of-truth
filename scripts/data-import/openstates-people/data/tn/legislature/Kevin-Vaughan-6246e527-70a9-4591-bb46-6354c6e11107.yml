@@ -1,0 +1,51 @@
+id: ocd-person/6246e527-70a9-4591-bb46-6354c6e11107
+name: Kevin Vaughan
+given_name: Kevin
+family_name: Vaughan
+birth_date: 1962-04-30
+gender: Male
+email: rep.kevin.vaughan@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h95.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-06-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '95'
+offices:
+- classification: capitol
+  address: Room 622, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-1866
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H95
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H95
+- url: https://www.capitol.tn.gov/house/members/h95.html
+other_names:
+- name: K. Vaughan
+- name: Vaughan, K
+- name: Vaughan, K.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000492
+sources:
+- url: https://ballotpedia.org/Kevin_Vaughan
+- url: https://en.wikipedia.org/wiki/Kevin_Vaughan
+- url: https://justfacts.votesmart.org/candidate/biography/176201/kevin-vaughan
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H95
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H95
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h95.html
+- url: https://www.linkedin.com/in/kevin-vaughan-58119757
+extras:
+  office: 622 CHB
+  personal info:
+  - Born April 30, 1962
+  - Married, two children
+  - Baptist
+  - Engineer and Real Estate Developer
+  - B.S. in Electrical Engineering, Memphis State University, 1984

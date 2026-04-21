@@ -1,0 +1,39 @@
+id: ocd-person/e14b5980-9a38-4420-8903-70738802edf6
+name: Jesse Bjorkman
+given_name: Jesse
+family_name: Bjorkman
+gender: Male
+email: senator.jesse.bjorkman@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/BJK.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-17
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: D
+offices:
+- classification: capitol
+  address: State Capitol Room 427, 120 4th St., Juneau, AK 99801
+  voice: 907-465-2828
+- classification: district
+  address: 145 Main St. Loop, Kenai, AK 99611
+  voice: 907-283-7996
+links:
+- url: https://alaskasenate.org/bjorkman/
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=bjk
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=bjk
+other_names:
+- name: Bjorkman, J.
+- name: J. Bjorkman
+sources:
+- url: https://alaskasenate.org/bjorkman
+- url: https://ballotpedia.org/Jesse_Bjorkman
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=BJK
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=bjk
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=bjk
+- url: https://www.votebjorkman.com/about
+extras:
+  toll_free_phone: 800-964-5733

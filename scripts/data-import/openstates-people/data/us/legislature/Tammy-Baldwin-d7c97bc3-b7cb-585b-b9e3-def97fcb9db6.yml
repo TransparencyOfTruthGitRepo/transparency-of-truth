@@ -1,0 +1,133 @@
+id: ocd-person/d7c97bc3-b7cb-585b-b9e3-def97fcb9db6
+name: Tammy Baldwin
+given_name: Tammy
+family_name: Baldwin
+birth_date: 1962-02-11
+gender: Female
+email: https://www.baldwin.senate.gov/contact/contact-tammy
+image: https://unitedstates.github.io/images/congress/450x550/B001230.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Wisconsin
+- start_date: 2019-01-03
+  end_date: 2025-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Wisconsin
+- start_date: 2013-01-03
+  end_date: 2019-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Wisconsin
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WI-2
+- start_date: 2009-01-06
+  end_date: 2011-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WI-2
+- start_date: 2007-01-04
+  end_date: 2009-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WI-2
+- start_date: 2005-01-04
+  end_date: 2007-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WI-2
+- start_date: 2003-01-07
+  end_date: 2005-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WI-2
+- start_date: 2001-01-03
+  end_date: 2003-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WI-2
+- start_date: 1999-01-06
+  end_date: 2001-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WI-2
+offices:
+- classification: capitol
+  address: 141 Hart Senate Office Building, Washington, DC 20510
+  voice: 202-224-5653
+- classification: district
+  address: 210 7th St. South Suite 203, La Crosse, WI 54601
+  voice: 608-796-0045
+- classification: district
+  address: 30 W. Mifflin St. Suite 700, Madison, WI 53703
+  voice: 608-264-5338
+- classification: district
+  address: 633 W. Wisconsin Ave. Suite 1300, Milwaukee, WI 53203
+  voice: 414-297-4451
+- classification: district-mail
+  address: P.O. Box 10592, Green Bay, WI 54307
+  voice: 920-498-2668
+- classification: district-mail
+  address: P.O. Box 401, Ladysmith, WI 54848
+links:
+- url: https://www.baldwin.senate.gov
+  note: website
+- url: https://www.baldwin.senate.gov/
+- url: https://www.baldwin.senate.gov/feedback
+  note: contact form
+other_names:
+- name: Baldwin, T.
+- name: T. Baldwin
+- name: T.S.G. Baldwin
+ids:
+  twitter: SenatorBaldwin
+  youtube: UC_XjYCRbbI2_TDDjJidwk0Q
+  facebook: senatortammybaldwin
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Tammy Baldwin
+- scheme: bioguide
+  identifier: B001230
+- scheme: cspan
+  identifier: '57884'
+- scheme: fec
+  identifier: H8WI00018
+- scheme: google_entity_id
+  identifier: kg:/m/024v02
+- scheme: govtrack
+  identifier: '400013'
+- scheme: house_history
+  identifier: '10361'
+- scheme: icpsr
+  identifier: '29940'
+- scheme: lis
+  identifier: S354
+- scheme: maplight
+  identifier: '136'
+- scheme: opensecrets
+  identifier: N00004367
+- scheme: pictorial
+  identifier: '13412'
+- scheme: thomas
+  identifier: 01558
+- scheme: votesmart
+  identifier: '3470'
+- scheme: wikidata
+  identifier: Q40628
+sources:
+- url: https://ballotpedia.org/Tammy_Baldwin
+- url: https://en.wikipedia.org/wiki/Tammy_Baldwin
+- url: https://justfacts.votesmart.org/candidate/3470/tammy-baldwin
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.baldwin.senate.gov
+- url: https://www.govtrack.us/congress/members/tammy_baldwin/400013
+- url: https://www.tammybaldwin.com/about

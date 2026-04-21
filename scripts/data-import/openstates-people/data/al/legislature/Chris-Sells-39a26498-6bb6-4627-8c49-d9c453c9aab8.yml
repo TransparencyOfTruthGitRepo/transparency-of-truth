@@ -1,0 +1,51 @@
+id: ocd-person/39a26498-6bb6-4627-8c49-d9c453c9aab8
+name: Chris Sells
+given_name: Chris
+family_name: Sells
+birth_date: 1963-12-06
+gender: Male
+email: csea@centurytel.net
+image: https://www.legislature.state.al.us/pdf/house/members/Sells_90.png
+party:
+- name: Republican
+roles:
+- start_date: 2014-11-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '90'
+offices:
+- classification: capitol
+  address: Room 401-D, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0568
+- classification: district
+  address: 271 N. Mt. Zion Road, Greenville, AL 36037
+  voice: 334-261-0568
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100572&OID_PERSON=7702
+other_names:
+- name: C. Sells
+- name: Sells, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000162
+- scheme: legacy_openstates
+  identifier: ALL000451
+- scheme: legacy_openstates
+  identifier: ALL000193
+- scheme: legacy_openstates
+  identifier: ALL000509
+sources:
+- url: https://ballotpedia.org/Chris_Sells
+- url: https://en.wikipedia.org/wiki/Chris_Sells
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/149986/chris-sells
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Sells&OID_SPONSOR=100572&OID_PERSON=7702&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100572&OID_PERSON=7702
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+- url: https://www.linkedin.com/in/chris-sells-917ba870
+extras:
+  counties: Butler County, Coffee County, Conecuh County, Crenshaw County, Montgomery
+    County

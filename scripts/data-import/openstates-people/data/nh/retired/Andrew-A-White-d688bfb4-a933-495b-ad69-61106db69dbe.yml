@@ -1,0 +1,28 @@
+id: ocd-person/d688bfb4-a933-495b-ad69-61106db69dbe
+name: Andrew A. White
+given_name: Andrew A.
+family_name: White
+image: http://www.gencourt.state.nh.us/house/images/memberpics/376894.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Grafton 13
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000416
+- scheme: legacy_openstates
+  identifier: NHL000794
+- scheme: legacy_openstates
+  identifier: NHL000955
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376894
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+extras:
+  first_name: Andrew
+  last_name: White
+  middle_name: A.

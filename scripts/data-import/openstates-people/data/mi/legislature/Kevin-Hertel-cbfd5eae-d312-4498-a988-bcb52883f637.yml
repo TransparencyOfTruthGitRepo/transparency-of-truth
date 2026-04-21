@@ -1,0 +1,49 @@
+id: ocd-person/cbfd5eae-d312-4498-a988-bcb52883f637
+name: Kevin Hertel
+given_name: Kevin
+family_name: Hertel
+gender: Male
+email: senkhertel@senate.michigan.gov
+image: https://senatedems.com/hertel/wp-content/uploads/sites/16/2022/12/Hertel_Portrait.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '12'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '18'
+offices:
+- classification: capitol
+  address: Room 7600, Binsfeld Building P.O. Box 30036, Lansing, MI 48909
+  voice: 517-373-7315
+links:
+- url: https://housedems.com/hertel
+- url: https://senatedems.com/hertel
+  note: Member Page
+- url: https://senatedems.com/hertel/
+- url: https://senatedems.com/hertel/contact
+  note: Member Contact Page
+other_names:
+- name: Hertel, K.
+- name: K. Hertel
+- name: K.M. Hertel
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000355
+sources:
+- url: https://ballotpedia.org/Kevin_Hertel
+- url: https://en.wikipedia.org/wiki/Kevin_Hertel
+- url: https://housedems.com/hertel
+- url: https://senate.michigan.gov/senators/SenatorData.json
+  note: Members List JSON Data Page
+- url: https://senate.michigan.gov/senators/senatorinfo_list.html
+  note: Members List HTML page
+- url: https://senatedems.com/hertel
+- url: https://senatedems.com/hertel/
+- url: https://www.house.mi.gov/AllRepresentatives
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
+- url: https://www.linkedin.com/in/kevin-hertel-404a7131

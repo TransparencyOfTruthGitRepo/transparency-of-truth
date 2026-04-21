@@ -1,0 +1,56 @@
+id: ocd-person/14f39e67-1604-4eb4-8000-99c699f196a0
+name: Neal Foster
+given_name: Neal
+family_name: Foster
+birth_date: 1972-05-29
+gender: Male
+email: representative.neal.foster@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/FON.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '39'
+offices:
+- classification: capitol
+  address: State Capitol Room 511, 120 4th St., Juneau, AK 99801
+  voice: 907-465-3789
+- classification: district
+  address: 103 E. Front St., Nome, AK 99762
+  voice: 907-443-5036
+links:
+- url: https://akhousemajority.com/rep-foster/
+- url: https://akleg.gov/legislator.php?id=fon
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=fon
+- url: https://www.akleg.gov/basis/Member/Detail/31?code=fon
+- url: https://www.akleg.gov/basis/Member/Detail/32?code=fon
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=fon
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=fon
+other_names:
+- name: Foster, N.
+- name: N. Foster
+- name: N.W. Foster
+- name: Neal W. Foster
+- name: Neal Winston Foster
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AKL000030
+sources:
+- url: https://akhousemajority.com/rep-foster
+- url: https://akleg.gov/legislator.php?id=fon
+- url: https://ballotpedia.org/Neal_Foster
+- url: https://en.wikipedia.org/wiki/Neal_Foster
+- url: https://justfacts.votesmart.org/candidate/116449/neal-foster
+- url: https://w3.akleg.gov
+- url: https://w3.akleg.gov/
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=fon
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=fon
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=FON
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=fon
+- url: https://www.linkedin.com/in/neal-foster-78938b26
+extras:
+  toll_free_phone: 800-478-3789

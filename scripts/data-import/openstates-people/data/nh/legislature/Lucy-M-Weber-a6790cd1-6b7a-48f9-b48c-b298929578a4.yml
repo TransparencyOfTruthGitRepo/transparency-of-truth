@@ -1,0 +1,63 @@
+id: ocd-person/a6790cd1-6b7a-48f9-b48c-b298929578a4
+name: Lucy Weber
+given_name: Lucy
+family_name: Weber
+birth_date: 1952-08-05
+gender: Female
+email: lucy.weber@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/21896.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 5
+- start_date: 2006-12-06
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 5
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 1
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=531
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376668
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=531
+  note: member detail page
+other_names:
+- name: L. Weber
+- name: L.M. Weber
+- name: Lucy M. Weber
+- name: Lucy McVitty Weber
+- name: Weber, L.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000411
+- scheme: legacy_openstates
+  identifier: NHL000791
+- scheme: legacy_openstates
+  identifier: NHL000939
+sources:
+- url: https://ballotpedia.org/Lucy_McVitty_Weber
+- url: https://en.wikipedia.org/wiki/Lucy_Weber
+- url: https://gc.nh.gov/house/members/member.aspx?pid=531
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/65198/lucy-weber
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376668
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=531
+- url: https://www.linkedin.com/in/lucy-weber-a7a7b14b
+extras:
+  county: Cheshire
+  elected status: Incumbent
+  gender code: F

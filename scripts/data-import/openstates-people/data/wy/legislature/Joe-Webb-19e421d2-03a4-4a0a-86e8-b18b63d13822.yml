@@ -1,0 +1,31 @@
+id: ocd-person/19e421d2-03a4-4a0a-86e8-b18b63d13822
+name: Joe Webb
+given_name: Joe
+family_name: Webb
+gender: Male
+email: joe.webb@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-WebbJoe.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '19'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 1224, Lyman, WY 82937
+links:
+- url: https://wyoleg.gov/Legislators/2025/H/2120
+other_names:
+- name: J. Webb
+- name: Webb, J
+- name: Webb, J.
+sources:
+- url: https://ballotpedia.org/Joseph_Webb_(Wyoming)
+- url: https://en.wikipedia.org/wiki/Joe_Webb_(politician)
+- url: https://justfacts.votesmart.org/candidate/218322/joe-webb
+- url: https://www.linkedin.com/in/joewebb82937
+- url: https://wyoleg.gov/Legislators/2025/H/2120

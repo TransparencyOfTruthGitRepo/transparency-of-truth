@@ -1,0 +1,39 @@
+id: ocd-organization/1fc7a994-4005-488e-8b54-1ba2dbf9ded9
+jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+classification: committee
+name: Community and Regional Affairs
+chamber: lower
+sources:
+- url: https://www.akleg.gov/basis/Committee/Details/33?code=HCRA
+- url: https://www.akleg.gov/basis/Committee/Details/34?code=HCRA
+- url: https://www.akleg.gov/basis/Committee/List/33
+links:
+- url: https://www.akleg.gov/basis/Committee/Details/33?code=HCRA
+  note: homepage
+- url: https://www.akleg.gov/basis/Committee/Details/34?code=HCRA
+members:
+- name: Donna Mears
+  role: co-chair
+  person_id: ocd-person/fbe52f5e-1dd2-4d44-9205-b2ebbbe39eee
+- name: Rebecca Himschoot
+  role: co-chair
+  person_id: ocd-person/5637be3f-7a59-48cc-8f8a-ad7a8bac8ee9
+- name: Carolyn Hall
+  role: member
+  person_id: ocd-person/c9bf1b47-3ed8-49e8-9535-2a7094c52d1a
+- name: Garret Nelson
+  role: member
+  person_id: ocd-person/abb33c56-f4ba-4c95-938e-658677368ca4
+- name: Ky Holland
+  role: member
+  person_id: ocd-person/a669e6fd-ba4c-42db-b2e8-079600a60f58
+- name: Mike Prax
+  role: member
+  person_id: ocd-person/3f4670ef-c5b7-4a5b-bd91-9f8605a0affa
+- name: Steve St. Clair
+  role: member
+  person_id: ocd-person/6692f2e6-2ad5-4b9c-a3f5-a0243c087064
+other_names:
+- name: House Committee on Community and Regional Affairs
+- name: House Community and Regional Affairs
+- name: House Community and Regional Affairs Committee

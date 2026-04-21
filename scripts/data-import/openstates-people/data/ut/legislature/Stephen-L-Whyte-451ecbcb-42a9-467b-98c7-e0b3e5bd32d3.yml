@@ -1,0 +1,61 @@
+id: ocd-person/451ecbcb-42a9-467b-98c7-e0b3e5bd32d3
+name: Stephen Whyte
+given_name: Stephen
+family_name: Whyte
+gender: Male
+email: swhyte@le.utah.gov
+image: https://le.utah.gov/images/legislator/WHYTESL.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '63'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '65'
+offices:
+- classification: capitol
+  address: P.O. Box 145030 350 N. State St., Suite 350, Salt Lake City, UT 84114
+  voice: 801-538-1029
+- classification: district
+  address: 913 S. Iris Lane, Mapleton, UT 84664
+  voice: 385-271-8435
+links:
+- url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415754
+  note: finance report
+- url: https://house.utah.gov/rep/WHYTESL/
+  note: homepage
+- url: https://house.utleg.gov/rep/WHYTESL/
+- url: https://le.utah.gov/asp/billsintro/RepResults.asp?Listbox3=WHYTESL
+  note: legislation
+- url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=WHYTESL
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2020/House_Dist65.pdf
+  note: district demographics
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/House_Dist63.pdf
+  note: district demographics
+other_names:
+- name: S. Whyte
+- name: S.L. Whyte
+- name: Stephen L. Whyte
+- name: Whyte, S.
+- name: Whyte, Stephen
+- name: Whyte, Stephen L.
+sources:
+- url: https://ballotpedia.org/Stephen_Whyte
+- url: https://house.utah.gov/rep/WHYTESL
+- url: https://house.utah.gov/rep/WHYTESL/
+- url: https://house.utleg.gov/rep/WHYTESL
+- url: https://house.utleg.gov/rep/WHYTESL/
+- url: https://justfacts.votesmart.org/candidate/137410/stephen-whyte
+- url: https://le.utah.gov/data/legislators.json
+extras:
+  service start: November 9, 2021 Appointed
+  profession: VP, Rocky Mountain University of Health Professions
+  education: B.A., Political Science and M.P.A, Brigham Young University
+  counties represented:
+  - Utah
+  cell phone: 385-271-8435

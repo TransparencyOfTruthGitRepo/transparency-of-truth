@@ -1,0 +1,39 @@
+id: ocd-person/3bf41768-e1b5-4017-8ab5-8d1fb1d6521c
+name: Barbara Ballard
+given_name: Barbara
+family_name: Ballard
+birth_date: 1944-11-14
+gender: Female
+email: barbara.ballard@house.ks.gov
+image: https://ogden_images.s3.amazonaws.com/www.ljworld.com/images/2016/07/20043350/candidate_Barbara_Ballard003-714x1024.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1993-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '44'
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_ballard_barbara_1/
+- url: https://www.kslegislature.org/li/b2019_20/members/rep_ballard_barbara_1/
+- url: https://www.kslegislature.org/li/b2021_22/members/rep_ballard_barbara_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_ballard_barbara_1/
+other_names:
+- name: B. Ballard
+- name: B.W. Ballard
+- name: Ballard, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KSL000042
+sources:
+- url: https://ballotpedia.org/Barbara_Ballard
+- url: https://en.wikipedia.org/wiki/Barbara_Ballard
+- url: https://justfacts.votesmart.org/candidate/biography/6927/barbara-ballard
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_ballard_barbara_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ballard_barbara_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ballard_barbara_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_ballard_barbara_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_ballard_barbara_1/
+- url: https://www.linkedin.com/in/barbara-ballard-0467166a
+extras:
+  occupation: University Administrator

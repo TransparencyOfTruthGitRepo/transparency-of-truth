@@ -1,0 +1,30 @@
+id: ocd-person/f05b1c80-c85c-42f5-8336-84bcd7b0c847
+name: Stephanie Berault
+given_name: Stephanie
+family_name: Berault
+gender: Female
+email: hse076@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics/rep76.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '76'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 1808 Front St. Suite 200, Slidell, LA 70461
+links:
+- url: https://house.louisiana.gov/H_Reps/members?ID=76
+other_names:
+- name: Berault, S.
+- name: S. Berault
+- name: S.H. Berault
+sources:
+- url: https://ballotpedia.org/Stephanie_Berault
+- url: https://house.louisiana.gov/H_Reps/members?ID=76
+- url: https://www.linkedin.com/in/stephanie-berault-01090810

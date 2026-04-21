@@ -1,0 +1,37 @@
+id: ocd-person/7dacbdba-68ea-4b74-8864-d1b19a1ff4c0
+name: Frank Mrvan
+given_name: Frank
+family_name: Mrvan
+email: s1@iga.in.gov
+image: https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_600,h_900/https://www.indianasenatedemocrats.org/wp-content/uploads/2019/03/Senator-Mrvan.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2022-01-11'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '1'
+  end_reason: Retirement
+links:
+- url: http://iga.in.gov/legislative/2021/legislators/legislator_frank_mrvan_536
+- url: https://indianasenatedemocrats.org/s1
+  note: homepage
+ids:
+  twitter: senatormrvan
+  facebook: SenatorMrvan
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: INL000030
+- scheme: legacy_openstates
+  identifier: INL000190
+sources:
+- url: http://iga.in.gov/legislative/2021/legislators/legislator_frank_mrvan_536
+- url: https://api.iga.in.gov/2021/legislators/frank_mrvan_536
+- url: https://www.indianasenatedemocrats.org/senators/
+- url: https://indianasenatedemocrats.org/s1
+extras:
+  city: HAMMOND
+  second phone: 800-382-9467
+  assistant: Nathaniel Massy
+  media contact name: Alexandria Edminster
+  media contact email: "[email\_protected]"

@@ -1,0 +1,42 @@
+id: ocd-person/1b71cbce-bf12-4009-b1cd-79da2f22b9aa
+name: Karen Whitsett
+given_name: Karen
+family_name: Whitsett
+gender: Female
+email: karenwhitsett@house.mi.gov
+image: https://housedems.com/sites/default/files/Images/Representative_Images/D009_Karen_Whitsett/009_Whitsett.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '4'
+- end_date: 2022-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '9'
+offices:
+- classification: capitol
+  address: Room S-588, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-1008
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/karen-whitsett/
+- url: https://housedems.com/whitsett
+other_names:
+- name: K. Whitsett
+- name: K.M. Whitsett
+- name: Whitsett, K.
+sources:
+- url: https://ballotpedia.org/Karen_Whitsett
+- url: https://en.wikipedia.org/wiki/Karen_Whitsett
+- url: https://housedems.com/karen-whitsett
+- url: https://housedems.com/karen-whitsett/
+- url: https://housedems.com/whitsett
+- url: https://justfacts.votesmart.org/candidate/biography/182699/karen-whitsett
+- url: https://www.house.mi.gov/AllRepresentatives
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
+- url: https://www.linkedin.com/in/karen-whitsett-135609219

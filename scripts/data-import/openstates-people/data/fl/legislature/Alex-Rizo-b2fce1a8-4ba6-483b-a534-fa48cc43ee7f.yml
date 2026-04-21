@@ -1,0 +1,42 @@
+id: ocd-person/b2fce1a8-4ba6-483b-a534-fa48cc43ee7f
+name: Alex Rizo
+given_name: Alex
+family_name: Rizo
+gender: Male
+email: alex.rizo@flhouse.gov
+image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4796.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '112'
+- end_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '110'
+offices:
+- classification: capitol
+  address: Room 313, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5112
+- classification: district
+  address: 3798 W. 12th Ave. Suite A, Hialeah, FL 33012
+  voice: 305-364-3114
+links:
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4796&LegislativeTermId=90
+  note: member detail page
+- url: https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4796
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4796
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4796
+other_names:
+- name: A. Rizo
+- name: Rizo, A.
+sources:
+- url: https://ballotpedia.org/Alex_Rizo
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4796&LegislativeTermId=90
+  note: member detail page
+- url: https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4796
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4796
+- url: https://www.linkedin.com/in/alex-rizo-jr-b260b761
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4796

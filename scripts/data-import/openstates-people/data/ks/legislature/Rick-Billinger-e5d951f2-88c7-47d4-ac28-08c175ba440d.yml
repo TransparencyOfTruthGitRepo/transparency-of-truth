@@ -1,0 +1,60 @@
+id: ocd-person/e5d951f2-88c7-47d4-ac28-08c175ba440d
+name: Rick Billinger
+given_name: Rick
+family_name: Billinger
+birth_date: 1951-12-16
+gender: Male
+email: rick.billinger@senate.ks.gov
+image: https://www.kslegislature.gov/li/s/images/pics/sen_billinger_rick_1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '40'
+- start_date: 2011-01-01
+  end_date: 2012-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '121'
+- start_date: 2015-01-01
+  end_date: 2016-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '120'
+offices:
+- classification: capitol
+  address: State Capitol Room 545-S, Kansas  Building 300 SW 10th St., Topeka, KS
+    66612
+  voice: 785-296-7399
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/sen_billinger_rick_1/
+- url: https://www.kslegislature.org/li/b2019_20/members/sen_billinger_rick_1/
+- url: https://www.kslegislature.org/li/b2021_22/members/sen_billinger_rick_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/sen_billinger_rick_1/
+other_names:
+- name: Billinger, R.
+- name: R. Billinger
+- name: R.L. Billinger
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KSL000367
+- scheme: legacy_openstates
+  identifier: KSL000044
+- scheme: legacy_openstates
+  identifier: KSL000305
+- scheme: openstates
+  identifier: ocd-person/0cc0ee30-b797-4e2e-9e2a-7e4a8bff9b3b
+sources:
+- url: https://ballotpedia.org/Rick_Billinger
+- url: https://en.wikipedia.org/wiki/Rick_Billinger
+- url: https://justfacts.votesmart.org/candidate/biography/128532/rick-billinger
+- url: https://www.kslegislature.gov/li/b2025_26/members/sen_billinger_rick_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/sen_billinger_rick_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/sen_billinger_rick_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/sen_billinger_rick_1
+- url: https://www.kslegislature.org/li/b2023_24/members/sen_billinger_rick_1/
+- url: https://www.linkedin.com/in/richard-billinger-55092437
+extras:
+  occupation: Retired Businessman and Farmer

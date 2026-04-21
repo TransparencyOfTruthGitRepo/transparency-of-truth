@@ -1,0 +1,43 @@
+id: ocd-person/63655fb4-af7a-4b96-95f0-5aa1bd93da62
+name: Kent McCarty
+given_name: Kent
+family_name: McCarty
+birth_date: 1993-01-01
+gender: Male
+email: kmccarty@house.ms.gov
+image: http://billstatus.ls.state.ms.us/members/house/mccarty.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-04-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '101'
+offices:
+- classification: capitol
+  address: State Capitol 400 High St., Jackson, MS 39201
+  voice: 601-550-2470
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/mccarty.xml
+  note: homepage
+other_names:
+- name: K. McCarty
+- name: K.M. McCarty
+- name: McCarty, K.
+sources:
+- url: https://ballotpedia.org/Kent_McCarty
+- url: https://billstatus.ls.state.ms.us/members/house/mccarty.xml
+- url: https://billstatus.ls.state.ms.us/members/hr_membs.xml
+- url: https://en.wikipedia.org/wiki/Kent_McCarty
+- url: https://justfacts.votesmart.org/candidate/186059/kent-mccarty
+- url: https://www.linkedin.com/in/kent-mccarty-30449745
+extras:
+  occupation: Small business owner (Java Moe's Coffee Co.)
+  education:
+  - USM-Banking and Finance 2011-2015
+  - OGHS-2007-2011
+  counties represented:
+  - Lamar
+  other phone: (601)550-2470

@@ -1,0 +1,66 @@
+id: ocd-organization/62e12c7e-68a9-4b21-927e-a06cdc4a5880
+jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+classification: committee
+name: Corporations
+chamber: lower
+sources:
+- url: https://webserver.rilegislature.gov/ComMembers/ComMemr.asp?ComChoiceR=HCORP
+- url: https://www.rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HCORP&CommitteeName=Corporations
+- url: https://www.rilegislature.gov/pages/committees.aspx
+links:
+- url: https://webserver.rilegislature.gov/ComMembers/ComMemr.asp?ComChoiceR=HCORP
+- url: https://www.rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HCORP&CommitteeName=Corporations
+members:
+- name: Joseph Solomon
+  role: chair
+  person_id: ocd-person/0b700db6-fe30-4fb4-a988-05ae0d618720
+- name: Bill O'Brien
+  role: first vice chair
+  person_id: ocd-person/4352dbd3-90e5-4cf3-9bf6-accff7592c33
+- name: Justine Caldwell
+  role: second vice chair
+  person_id: ocd-person/38c539f2-0698-4fa2-a761-477608365838
+- name: Alex Finkelman
+  role: member
+  person_id: ocd-person/202a1def-abb3-4f77-8ef1-5c453d2d5423
+- name: Anthony DeSimone
+  role: member
+  person_id: ocd-person/b9359c6a-fbb2-4165-af9b-a6c63290d851
+- name: Bob Phillips
+  role: member
+  person_id: ocd-person/53f07987-a534-4194-ba51-2fcd62f0f63e
+- name: Brandon Potter
+  role: member
+  person_id: ocd-person/6ddaaa6f-48c9-468e-a744-714728251586
+- name: Brandon Voas
+  role: member
+  person_id: ocd-person/f0206346-2c07-4316-a556-cee7fe595e9a
+- name: Brian Kennedy
+  role: member
+  person_id: ocd-person/632b3bf0-a3f8-4c0d-9818-d03c861318dc
+- name: Brian Newberry
+  role: member
+  person_id: ocd-person/397f8729-c37c-4882-af7e-d7235e9f06f2
+- name: Chris Paplauskas
+  role: member
+  person_id: ocd-person/4f6ac85b-f69f-4916-beaf-a30087ba1214
+- name: Enrique Sanchez
+  role: member
+  person_id: ocd-person/e70e3449-7587-4a64-a940-922d543f5a2d
+- name: Pat Serpa
+  role: member
+  person_id: ocd-person/45fd70a7-613e-405d-959f-2900eea0f264
+- name: Stephen Casey
+  role: member
+  person_id: ocd-person/0b20a11e-e90b-4ff2-aa25-5334a8592071
+- name: Tina Spears
+  role: member
+  person_id: ocd-person/2c3d82e7-8bdc-4da9-bbab-e42bb5e223fb
+other_names:
+- name: House Committee on Corporations
+- name: House Corporations
+- name: House Corporations Committee
+extras:
+  Clerk: Lou Mansolillo
+  Phone: 222-2369
+  Email: HouseCorporations@rilegislature.gov

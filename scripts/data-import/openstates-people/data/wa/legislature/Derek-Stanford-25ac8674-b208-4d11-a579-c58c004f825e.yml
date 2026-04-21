@@ -1,0 +1,52 @@
+id: ocd-person/25ac8674-b208-4d11-a579-c58c004f825e
+name: Derek Stanford
+given_name: Derek
+family_name: Stanford
+birth_date: 1970-10-18
+gender: Male
+email: derek.stanford@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/15809.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-07-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '1'
+- start_date: 2011-01-10
+  end_date: 2019-07-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '1'
+offices:
+- classification: capitol
+  address: Room 237, John A. Cherberg Building P.O. Box 40401, Olympia, WA 98504
+  voice: 360-786-7600
+links:
+- url: https://leg.wa.gov/legislators/member/derek-stanford
+- url: https://leg.wa.gov/Senate/Senators/Pages/default.aspx
+- url: https://sdc.wastateleg.org/stanford/
+- url: https://sdc.wastateleg.org/Stanford/
+- url: https://senatedemocrats.wa.gov/stanford/
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+other_names:
+- name: D. Stanford
+- name: D.C. Stanford
+- name: Stanford, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000137
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=Senate
+- url: https://ballotpedia.org/Derek_Stanford
+- url: https://derekstanford.com/bio
+- url: https://en.wikipedia.org/wiki/Derek_Stanford_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/126288/derek-stanford
+- url: https://leg.wa.gov/legislators/member/derek-stanford
+- url: https://leg.wa.gov/Senate/Senators/Pages/default.aspx
+- url: https://senatedemocrats.wa.gov/stanford
+- url: https://senatedemocrats.wa.gov/stanford/
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+- url: https://www.linkedin.com/in/derekstanford
+extras:
+  title: Leadership Liaison to Tribal Nations

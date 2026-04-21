@@ -1,0 +1,40 @@
+id: ocd-person/135d2f43-c892-4a34-9651-a523e85dd6de
+name: Mark Anderson
+given_name: Mark
+family_name: Anderson
+gender: Male
+email: mark.anderson@housegop.ct.gov
+image: https://cga.ct.gov/legpics/062.png?ver=
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '62'
+offices:
+- classification: capitol
+  address: Room 4200, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 800-842-1423
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27062%27&dist_name=Anderson,%20Mark%20W
+- url: https://www.cthousegop.com/Anderson
+- url: https://www.cthousegop.com/Anderson/
+other_names:
+- name: Anderson, M.
+- name: Anderson, Mark W
+- name: M. Anderson
+- name: M.W. Anderson
+- name: Mark W. Anderson
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Mark_Anderson_(Connecticut)
+- url: https://en.wikipedia.org/wiki/Mark_Anderson_(Connecticut_politician)
+- url: https://justfacts.votesmart.org/candidate/193997/mark-anderson
+- url: https://www.cthousegop.com/Anderson
+- url: https://www.cthousegop.com/Anderson/
+extras:
+  gender: Male
+  committees: Commerce; Environment; Veterans' and Military Affairs
+  committee codes: ;CE;ENV;VA;
+  prison: '0'

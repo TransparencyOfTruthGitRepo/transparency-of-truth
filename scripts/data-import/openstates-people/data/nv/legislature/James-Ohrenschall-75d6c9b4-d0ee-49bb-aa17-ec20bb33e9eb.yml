@@ -1,0 +1,56 @@
+id: ocd-person/75d6c9b4-d0ee-49bb-aa17-ec20bb33e9eb
+name: James Ohrenschall
+given_name: James
+family_name: Ohrenschall
+gender: Male
+email: james.ohrenschall@sen.state.nv.us
+image: http://leg.state.nv.us/Session/80th2019/legislators/Senators/Images/Ohrenschall.James.67.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2018-11-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '21'
+- start_date: 2006-11-08
+  end_date: 2018-11-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '21'
+- end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '12'
+offices:
+- classification: capitol
+  address: Room 2125, Nevada Senate 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-6503
+- classification: district
+  address: Room 206, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=67
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/21
+  note: homepage
+other_names:
+- name: J. Ohrenschall
+- name: Ohrenschall, J.
+- name: Ohrenschall, James
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NVL000097
+- scheme: legacy_openstates
+  identifier: NVL000055
+- scheme: legacy_openstates
+  identifier: NVL000194
+- scheme: legacy_openstates
+  identifier: NVL000232
+- scheme: legacy_openstates
+  identifier: NVL000354
+sources:
+- url: https://ballotpedia.org/James_Ohrenschall
+- url: https://en.wikipedia.org/wiki/James_Ohrenschall
+- url: https://justfacts.votesmart.org/candidate/biography/66853/james-ohrenschall
+- url: https://www.jamesohrenschall.com/about
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=67
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/21

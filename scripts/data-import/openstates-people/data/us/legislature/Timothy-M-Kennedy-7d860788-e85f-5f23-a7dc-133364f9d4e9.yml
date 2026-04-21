@@ -1,0 +1,66 @@
+id: ocd-person/7d860788-e85f-5f23-a7dc-133364f9d4e9
+name: Tim Kennedy
+given_name: Tim
+family_name: Kennedy
+birth_date: 1976-10-20
+gender: Male
+email: https://kennedy.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/K000402.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-05-06
+  end_date: 2030-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NY-26
+- start_date: 2024-05-06
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NY-26
+offices:
+- classification: capitol
+  address: 423 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-3306
+- classification: district
+  address: 726 Exchange St. Suite 601, Buffalo, NY 14210
+  voice: 716-852-3501
+- classification: district
+  address: 800 Main St. Suite 3C, Niagara Falls, NY 14301
+  voice: 716-282-1274
+links:
+- url: https://kennedy.house.gov
+  note: website
+other_names:
+- name: Kennedy, T.
+- name: T. Kennedy
+- name: T.M. Kennedy
+- name: Timothy M. Kennedy
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Timothy M. Kennedy
+- scheme: bioguide
+  identifier: K000402
+- scheme: cspan
+  identifier: '134035'
+- scheme: fec
+  identifier: H4NY26078
+- scheme: google_entity_id
+  identifier: kg:/m/0gx0k2c
+- scheme: govtrack
+  identifier: '456957'
+- scheme: votesmart
+  identifier: '91670'
+- scheme: wikidata
+  identifier: Q7807373
+- scheme: wikipedia
+  identifier: Tim Kennedy (politician)
+sources:
+- url: https://ballotpedia.org/Timothy_M._Kennedy
+- url: https://en.wikipedia.org/wiki/Timothy_M._Kennedy_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/91670/timothy-kennedy
+- url: https://kennedy.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.linkedin.com/in/tim-kennedy-3b834448

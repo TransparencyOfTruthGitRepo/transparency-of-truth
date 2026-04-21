@@ -1,0 +1,20 @@
+id: ocd-person/c7aae67b-9e16-452c-af1a-923e56beae8b
+name: Brian Savilla
+given_name: Brian
+family_name: Savilla
+image: http://www.legis.state.wv.us/images/members/2012/house/savilla_brian.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '14'
+links:
+- url: http://www.legis.state.wv.us/House/Members/delmemview1.cfm?input=Delegate+Savilla
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000056
+sources:
+- url: http://www.legis.state.wv.us/House/Members/delmemview1.cfm?input=Delegate+Savilla

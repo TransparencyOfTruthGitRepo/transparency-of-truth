@@ -1,0 +1,22 @@
+id: ocd-person/31167314-c33f-453d-b7c5-e40915672000
+name: Brendan F Boyle
+given_name: Brendan
+family_name: Boyle
+middle_name: F
+image: http://www.house.state.pa.us/members/districts/170/images/1160.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '170'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1160
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000062
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1160

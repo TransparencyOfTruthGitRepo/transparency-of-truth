@@ -1,0 +1,44 @@
+id: ocd-person/55815523-33b5-4d42-9864-28e00b805e68
+name: Danny Burgess
+given_name: Danny
+family_name: Burgess
+birth_date: 1986-06-01
+gender: Male
+email: burgess.danny.web@flsenate.gov
+image: https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s23_5169.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '23'
+- end_date: 2022-11-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Room 411, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-487-5023
+- classification: district
+  address: 38507 5th Ave., Zephyrhills, FL 33542
+  voice: 813-779-7059
+links:
+- url: https://flsenate.gov/Senators/2022-2024/S23
+  note: member detail page
+- url: https://www.flsenate.gov/Senators/S20
+- url: https://www.flsenate.gov/Senators/S23
+other_names:
+- name: Burgess, D.
+- name: D. Burgess
+- name: D.W. Burgess
+sources:
+- url: https://ballotpedia.org/Daniel_Burgess
+- url: https://en.wikipedia.org/wiki/Danny_Burgess
+- url: https://flsenate.gov/Senators/2022-2024/S23
+  note: member detail page
+- url: https://justfacts.votesmart.org/candidate/biography/149394/danny-burgess-jr
+- url: https://www.flsenate.gov/Senators/S20
+- url: https://www.flsenate.gov/Senators/S23
+- url: https://www.linkedin.com/in/danny-burgess-7285976b

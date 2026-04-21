@@ -1,0 +1,34 @@
+id: ocd-person/09cfaba9-f3ee-41d6-8cf7-0c93613109cd
+name: Philip Jones
+given_name: Philip
+family_name: Jones
+gender: Male
+email: philip.jones@gc.nh.gov
+image: https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/assets/v3/editorial/c/45/c457ee2b-e565-5b59-b3ae-0c2e9b900599/6352dd6e9dda8.image.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 3
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10749
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10749
+  note: member detail page
+other_names:
+- name: Jones, P.
+- name: P. Jones
+- name: Philip M Jones
+sources:
+- url: https://ballotpedia.org/Philip_Jones_(New_Hampshire)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10749
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10749
+extras:
+  county: Cheshire
+  elected status: new
+  gender code: M

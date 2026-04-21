@@ -1,0 +1,31 @@
+id: ocd-person/7f424e9d-ce81-4413-9438-c5aeee1ec079
+name: Harriet Holman
+given_name: Harriet
+family_name: Holman
+gender: Female
+email: harrietholman@schouse.gov
+image: https://static.wixstatic.com/media/8accea_e11fd53b395c467b9a13c9643ee9b49f~mv2.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-11-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '102'
+offices:
+- classification: capitol
+  address: Room 323D, Blatt Building P.O. Box 11867, Columbia, SC 29211
+  voice: 803-212-4474
+links:
+- url: https://www.scstatehouse.gov/member.php?code=0867045351
+other_names:
+- name: H. Holman
+- name: H.A. Holman
+- name: Holman, H.
+- name: Holman, Harriet
+- name: Holman, Harriet A.
+sources:
+- url: https://ballotpedia.org/Harriet_Holman
+- url: https://en.wikipedia.org/wiki/Harriet_Holman
+- url: https://justfacts.votesmart.org/candidate/216289/harriet-holman
+- url: https://www.scstatehouse.gov/member.php?code=0867045351

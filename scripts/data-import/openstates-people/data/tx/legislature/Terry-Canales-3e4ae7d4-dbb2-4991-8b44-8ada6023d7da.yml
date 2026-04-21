@@ -1,0 +1,42 @@
+id: ocd-person/3e4ae7d4-dbb2-4991-8b44-8ada6023d7da
+name: Terry Canales
+given_name: Terry
+family_name: Canales
+birth_date: 1979-01-01
+gender: Male
+email: terry.canales@house.texas.gov
+image: https://house.texas.gov/images/members/2340.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '40'
+offices:
+- classification: capitol
+  address: Room 4S.4, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0426
+- classification: district
+  address: 602 W. University Drive Suite B, Edinburg, TX 78539
+  voice: 956-383-0860
+links:
+- url: https://house.texas.gov/members/2340
+- url: https://house.texas.gov/members/member-page/?district=40
+other_names:
+- name: Canales, T.
+- name: Canales, Terry
+- name: Rep. Terry Canales
+- name: T. Canales
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000428
+- scheme: legacy_openstates
+  identifier: TXL000593
+sources:
+- url: https://ballotpedia.org/Terry_Canales
+- url: https://en.wikipedia.org/wiki/Terry_Canales
+- url: https://house.texas.gov/members/2340
+- url: https://house.texas.gov/members/2340/biography
+- url: https://house.texas.gov/members/member-page/?district=40
+- url: https://www.linkedin.com/in/terry-canales-aa064386

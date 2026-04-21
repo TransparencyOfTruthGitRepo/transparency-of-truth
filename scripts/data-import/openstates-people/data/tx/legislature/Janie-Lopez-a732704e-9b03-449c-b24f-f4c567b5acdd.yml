@@ -1,0 +1,37 @@
+id: ocd-person/a732704e-9b03-449c-b24f-f4c567b5acdd
+name: Janie Lopez
+given_name: Janie
+family_name: Lopez
+gender: Female
+email: janie.lopez@house.texas.gov
+image: https://house.texas.gov/images/members/4295.jpg?v=2
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '37'
+offices:
+- classification: capitol
+  address: Room E1.422, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0640
+- classification: district
+  address: 1390 W. Expressway 83, San Benito, TX 78586
+links:
+- url: https://house.texas.gov/members/37
+- url: https://house.texas.gov/members/4295
+- url: https://house.texas.gov/members/member-page/?district=37
+other_names:
+- name: J. Lopez
+- name: Lopez, J.
+- name: Lopez, Janie
+sources:
+- url: https://ballotpedia.org/Janie_Lopez
+- url: https://en.wikipedia.org/wiki/Janie_Lopez
+- url: https://house.texas.gov/members/37
+- url: https://house.texas.gov/members/4295
+- url: https://house.texas.gov/members/4295/biography
+- url: https://house.texas.gov/members/member-page/?district=37
+- url: https://justfacts.votesmart.org/candidate/biography/201280/janie-lopez
+- url: https://www.linkedin.com/in/janie-lopez-83bab475

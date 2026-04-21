@@ -1,0 +1,68 @@
+id: ocd-person/3439fe0c-fb43-4977-ac8c-1dd1f8f10e96
+name: Stacey Guerin
+given_name: Stacey
+family_name: Guerin
+gender: Female
+email: stacey.guerin@legislature.maine.gov
+image: https://legislature.maine.gov/uploads/visual_edit/guerin-headshot-outdoors-rgb.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '4'
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '4'
+- start_date: 2010-12-01
+  end_date: 2018-12-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '4'
+- end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '102'
+- start_date: 2019-01-01
+  end_date: 2022-12-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '10'
+offices:
+- classification: capitol
+  address: 3 State House Station, Augusta, ME 04333
+  voice: 207-287-1505
+links:
+- url: https://legislature.maine.gov/District-10
+- url: https://legislature.maine.gov/District4
+  note: homepage
+- url: https://legislature.maine.gov/district4
+- url: https://mesenategop.com/your-senators/senator-stacey-guerin/
+  note: website
+other_names:
+- name: GUERIN of Penobscot
+- name: Guerin, S.
+- name: S. Guerin
+- name: S.K. Guerin
+- name: Stacey K. Guerin
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000057
+- scheme: legacy_openstates
+  identifier: MEL000430
+sources:
+- url: https://ballotpedia.org/Stacey_Guerin
+- url: https://en.wikipedia.org/wiki/Stacey_Guerin
+- url: https://justfacts.votesmart.org/candidate/biography/120954/stacey-guerin
+- url: https://legislature.maine.gov/District-10
+- url: https://legislature.maine.gov/district4
+- url: https://legislature.maine.gov/District4
+- url: https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+- url: https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+- url: https://mesenategop.com/your-senators/senator-stacey-guerin
+- url: https://www.linkedin.com/in/staceyguerin
+extras:
+  county represented: Penobscot

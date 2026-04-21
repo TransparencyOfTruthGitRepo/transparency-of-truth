@@ -1,0 +1,19 @@
+id: ocd-person/79ee3657-e0a7-4ad4-982a-122a21bd9b15
+name: Dario Anselmo
+given_name: Dario
+family_name: Anselmo
+image: https://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_49A.jpg?v=2018
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-07'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 49A
+links:
+- url: http://www.house.leg.state.mn.us/members/members.asp?id=15454
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000737
+sources:
+- url: http://www.house.leg.state.mn.us/members/hmem.asp

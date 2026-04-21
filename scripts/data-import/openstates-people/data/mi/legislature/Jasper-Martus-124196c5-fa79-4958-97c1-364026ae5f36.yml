@@ -1,0 +1,36 @@
+id: ocd-person/124196c5-fa79-4958-97c1-364026ae5f36
+name: Jaz Martus
+given_name: Jaz
+family_name: Martus
+gender: Male
+email: jaspermartus@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '69'
+offices:
+- classification: capitol
+  address: Room S-1088, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-1786
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/Jasper-Martus/
+other_names:
+- name: J. Martus
+- name: J.R. Martus
+- name: Jasper Martus
+- name: Martus, J.
+sources:
+- url: https://ballotpedia.org/Jasper_Martus
+- url: https://housedems.com/Jasper-Martus
+- url: https://housedems.com/Jasper-Martus/
+  note: Member Details Page
+- url: https://housedems.com/jasper-martus/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/jasperryanmartus00

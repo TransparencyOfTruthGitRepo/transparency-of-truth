@@ -1,0 +1,57 @@
+id: ocd-person/a0936f2f-8170-47f9-8b05-6c6697a95968
+name: Karel Crawford
+given_name: Karel
+family_name: Crawford
+gender: Female
+email: karel.crawford@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/49868.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 3
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 3
+  start_date: 2022-12-07
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 4
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=377087
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377087
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=694
+  note: member detail page
+other_names:
+- name: Crawford, K.
+- name: K. Crawford
+- name: Karel A. Crawford
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000498
+- scheme: legacy_openstates
+  identifier: NHL000830
+sources:
+- url: https://ballotpedia.org/Karel_Crawford
+- url: https://gc.nh.gov/house/members/member.aspx?member=377087
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/141860/karel-crawford
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377087
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=694
+- url: https://www.linkedin.com/in/karel-crawford-21a53436
+extras:
+  county: Carroll
+  elected status: Incumbent
+  gender code: F

@@ -1,0 +1,36 @@
+id: ocd-person/f20b1b61-dfc7-4ea0-b0cf-3705e7c7283e
+name: Ned Raynolds
+given_name: Ned
+family_name: Raynolds
+gender: Male
+email: ned.raynolds@gc.nh.gov
+image: https://www.gannett-cdn.com/authoring/2019/10/15/NPOH/ghows-SO-94f3f1c5-649c-7f85-e053-0100007fcf09-d1bff693.jpeg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 39
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10886
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10886
+  note: member detail page
+other_names:
+- name: N. Raynolds
+- name: Raynolds, N.
+sources:
+- url: https://ballotpedia.org/Ned_Raynolds
+- url: https://en.wikipedia.org/wiki/Ned_Raynolds
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10886
+- url: https://justfacts.votesmart.org/candidate/210284/ned-raynolds
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10886
+- url: https://www.linkedin.com/in/nedraynolds
+extras:
+  county: Rockingham
+  elected status: new
+  gender code: M

@@ -1,0 +1,65 @@
+id: ocd-organization/60a7cd2a-d777-4132-a1a2-388a6a816645
+jurisdiction: ocd-jurisdiction/country:us/state:la/government
+classification: committee
+name: Labor and Industrial Relations
+chamber: lower
+sources:
+- url: https://house.louisiana.gov/H_Cmtes/Labor
+- url: https://house.louisiana.gov/H_Cmtes/Labor.aspx
+  note: Committee Detail Page
+- url: https://www.legis.la.gov/legis/Committees.aspx?c=H
+  note: Committees List Page
+links:
+- url: https://house.louisiana.gov/H_Cmtes/Labor
+- url: https://house.louisiana.gov/H_Cmtes/Labor.aspx
+  note: homepage
+members:
+- name: Raymond Crews
+  role: chair
+  person_id: ocd-person/126879ce-50c0-4741-a7e7-fb23fecb9d29
+- name: Dodie Horton
+  role: vice chair
+  person_id: ocd-person/4661fe94-874c-4884-99a2-c60516c811ff
+- name: Mike Johnson
+  role: ex-officio
+  person_id: ocd-person/0e901294-3718-49df-9922-0ac4503acee2
+- name: Phillip DeVillier
+  role: ex-officio
+  person_id: ocd-person/ee23b4bf-f5f7-498c-9fcc-f3b2d6f8fb1d
+- name: Brian Glorioso
+  role: member
+  person_id: ocd-person/96385d4e-bfae-4929-9845-502fd2ed2cc7
+- name: Chasity Martinez
+  role: member
+  person_id: ocd-person/c58cdaf8-5e0d-4a0c-ac40-7e95c38ac83e
+- name: Dennis Bamburg
+  role: member
+  person_id: ocd-person/a900feca-75c7-434e-8d00-dd67170f2b01
+- name: Ed Larvadain
+  role: member
+  person_id: ocd-person/9a91a848-9d01-46b6-84f1-cc868681e912
+- name: Michael Echols
+  role: member
+  person_id: ocd-person/22590bd7-29fe-454d-b61d-2c54c4562274
+- name: Michael Melerine
+  role: member
+  person_id: ocd-person/b38eb9d5-c27d-443e-995d-f9681e3a992e
+- name: Phil Tarver
+  role: member
+  person_id: ocd-person/04a524b7-1f7a-4d01-8491-c52df47e20cc
+- name: Roger Wilder
+  role: member
+  person_id: ocd-person/c6f00cae-9826-4be6-934e-1a9516b20c4d
+- name: Shaun Mena
+  role: member
+  person_id: ocd-person/6fdcb100-c1e5-450e-a3dd-cf42c06cff1e
+- name: Tammy Phelps
+  role: member
+  person_id: ocd-person/a838e3b6-52ea-4ad0-a308-2337762a492b
+- name: Tehmi Chassion
+  role: member
+  person_id: ocd-person/8d0bbdce-eaab-4b3a-8385-bf8c6a2e0b87
+other_names:
+- name: House Committee on Labor and Industrial Relations
+- name: House Labor and Industrial Relations
+- name: House Labor and Industrial Relations Committee

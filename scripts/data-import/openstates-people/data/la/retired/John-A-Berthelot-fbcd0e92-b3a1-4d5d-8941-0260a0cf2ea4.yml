@@ -1,0 +1,25 @@
+id: ocd-person/fbcd0e92-b3a1-4d5d-8941-0260a0cf2ea4
+name: John A. Berthelot
+given_name: John A.
+family_name: Berthelot
+image: http://house.louisiana.gov/h_reps/RepPics09/rep88.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-01-13'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '88'
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=88
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000446
+- scheme: legacy_openstates
+  identifier: LAL000530
+- scheme: legacy_openstates
+  identifier: LAL000646
+- scheme: legacy_openstates
+  identifier: LAL000876
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=88

@@ -1,0 +1,37 @@
+id: ocd-person/58e6e432-e6a2-44f4-8dda-cc3d8e01ca7e
+name: Tom Kuhn
+given_name: Tom
+family_name: Kuhn
+gender: Male
+email: tomkuhn@house.mi.gov
+image: https://www.house.mi.gov/media/Representatives/Kuhn-057.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '57'
+offices:
+- classification: capitol
+  address: Room N-991, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-1706
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/RepTomKuhn/posts
+other_names:
+- name: Kuhn, T.
+- name: T. Kuhn
+- name: Thomas Kuhn
+sources:
+- url: https://ballotpedia.org/Thomas_Kuhn
+- url: https://gophouse.org/member/RepTomKuhn/about
+- url: https://gophouse.org/member/RepTomKuhn/posts
+- url: https://RepKuhn.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.house.mi.gov/repdetail/repThomasKuhn
+  note: Member Details Page

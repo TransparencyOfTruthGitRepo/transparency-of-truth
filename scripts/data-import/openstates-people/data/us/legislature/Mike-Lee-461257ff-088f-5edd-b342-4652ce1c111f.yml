@@ -1,0 +1,94 @@
+id: ocd-person/461257ff-088f-5edd-b342-4652ce1c111f
+name: Mike Lee
+given_name: Mike
+family_name: Lee
+birth_date: 1971-06-04
+gender: Male
+email: https://www.lee.senate.gov/contact
+image: https://unitedstates.github.io/images/congress/450x550/L000577.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Utah
+- start_date: 2017-01-03
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Utah
+- start_date: 2011-01-05
+  end_date: 2017-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Utah
+offices:
+- classification: capitol
+  address: 363 Russell Senate Office Building, Washington, DC 20510
+  voice: 202-224-5444
+- classification: district
+  address: 111 E. Tabernacle St. Suite 324, St. George, UT 84770
+  voice: 435-628-5514
+- classification: district
+  address: Vernal City Hall 374 E. Main St., Suite 261, Vernal, UT 84078
+  voice: 435-503-9335
+- classification: district
+  address: Wallace F. Bennett Federal Building 125 S. State St., Suite 4225, Salt
+    Lake City, UT 84138
+  voice: 801-524-5933
+  fax: 801-524-5730
+links:
+- url: https://www.lee.senate.gov
+  note: website
+- url: https://www.lee.senate.gov/
+- url: https://www.lee.senate.gov/public/index.cfm/contact
+  note: contact form
+other_names:
+- name: Lee, M.
+- name: M. Lee
+- name: M.S. Lee
+ids:
+  twitter: SenMikeLee
+  youtube: UCplVxs_j_sLAt0fkplXcl4A
+  facebook: senatormikelee
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Mike Lee
+- scheme: bioguide
+  identifier: L000577
+- scheme: cspan
+  identifier: '9267977'
+- scheme: fec
+  identifier: S0UT00165
+- scheme: google_entity_id
+  identifier: kg:/m/09v5q9x
+- scheme: govtrack
+  identifier: '412495'
+- scheme: icpsr
+  identifier: '41110'
+- scheme: lis
+  identifier: S346
+- scheme: maplight
+  identifier: '1500'
+- scheme: opensecrets
+  identifier: N00031696
+- scheme: pictorial
+  identifier: '13353'
+- scheme: thomas
+  identifier: 02080
+- scheme: votesmart
+  identifier: '66395'
+- scheme: wikidata
+  identifier: Q627098
+sources:
+- url: https://ballotpedia.org/Mike_Lee_(Utah)
+- url: https://en.wikipedia.org/wiki/Mike_Lee_(U.S._politician)
+- url: https://justfacts.votesmart.org/candidate/66395/mike-lee
+- url: https://leeforsenate.com/about-mike
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/mike_lee/412495
+- url: https://www.lee.senate.gov
+- url: https://www.lee.senate.gov/about-mike

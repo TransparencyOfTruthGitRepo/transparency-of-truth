@@ -1,0 +1,51 @@
+id: ocd-person/d07683be-bda8-4af9-be0b-9bf3c1e441e7
+name: Debra Moody
+given_name: Debra
+family_name: Moody
+birth_date: 1956-05-28
+gender: Female
+email: rep.debra.moody@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h81.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '81'
+offices:
+- classification: capitol
+  address: Room 680, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-3774
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H81
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h81.html
+other_names:
+- name: D. Moody
+- name: Debra Moody
+- name: Debra O. Moody
+- name: Moody, D
+- name: Moody, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000227
+- scheme: legacy_openstates
+  identifier: TNL000384
+sources:
+- url: https://ballotpedia.org/Debra_Moody
+- url: https://en.wikipedia.org/wiki/Debra_Moody
+- url: https://justfacts.votesmart.org/candidate/biography/138810/debra-moody
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H81
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h81.html
+extras:
+  office: 680 CHB
+  personal info:
+  - Born May 28
+  - Married, four children
+  - Wife/Mother/Homemaker
+  - Christian

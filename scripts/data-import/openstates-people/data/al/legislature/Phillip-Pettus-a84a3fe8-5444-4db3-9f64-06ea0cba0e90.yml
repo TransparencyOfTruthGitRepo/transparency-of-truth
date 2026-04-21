@@ -1,0 +1,47 @@
+id: ocd-person/a84a3fe8-5444-4db3-9f64-06ea0cba0e90
+name: Phillip Pettus
+given_name: Phillip
+family_name: Pettus
+birth_date: 1962-02-26
+gender: Male
+email: phillip.pettus@alhouse.gov
+image: https://www.legislature.state.al.us/pdf/house/members/Pettus_1.png
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '1'
+offices:
+- classification: capitol
+  address: Room 434, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0591
+- classification: district
+  address: 771 County Road 144, Killen, AL 35645
+  voice: 256-757-6679
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100481&OID_PERSON=7700
+other_names:
+- name: P. Pettus
+- name: P.J. Pettus
+- name: Pettus, P.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000178
+- scheme: legacy_openstates
+  identifier: ALL000285
+- scheme: legacy_openstates
+  identifier: ALL000337
+sources:
+- url: https://ballotpedia.org/Phillip_Pettus
+- url: https://en.wikipedia.org/wiki/Phillip_Pettus
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/149977/phillip-pettus
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Pettus&OID_SPONSOR=100481&OID_PERSON=7700&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100481&OID_PERSON=7700
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+extras:
+  counties: Lauderdale County

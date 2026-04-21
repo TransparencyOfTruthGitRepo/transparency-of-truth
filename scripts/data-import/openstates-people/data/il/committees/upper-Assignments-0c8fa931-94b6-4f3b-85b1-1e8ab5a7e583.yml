@@ -1,0 +1,40 @@
+id: ocd-organization/0c8fa931-94b6-4f3b-85b1-1e8ab5a7e583
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: Assignments
+chamber: upper
+sources:
+- url: https://www.ilga.gov/senate/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=2917
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=3086
+- url: https://www.ilga.gov/Senate/Committees/Members/3086
+links:
+- url: https://www.ilga.gov/senate/committees/default.asp
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=2917
+  note: homepage
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=3086
+- url: https://www.ilga.gov/Senate/Committees/Members/3086
+members:
+- name: Kimberly Lightford
+  role: chair
+  person_id: ocd-person/595f7bf4-5bd7-4238-94a3-e14d8b6d4545
+- name: Bill Cunningham
+  role: vice chair
+  person_id: ocd-person/5fe6a4a5-da36-4fa0-8c36-739648b9ce0c
+- name: Sally Turner
+  role: republican spokesperson
+  person_id: ocd-person/cb406eb3-673a-4715-8d87-d5963220ad6b
+- name: Dale Fowler
+  role: member
+  person_id: ocd-person/5a84a944-7d29-454e-aec6-85e6c3238d53
+- name: Laura Murphy
+  role: member
+  person_id: ocd-person/55be467f-1dd9-4cb7-96b8-050c113f5975
+- name: Omar Aquino
+  role: member
+  person_id: ocd-person/436c1e53-1203-4ce3-9931-d22f9e3c406a
+other_names:
+- name: Senate Assignments
+- name: Senate Assignments Committee
+- name: Senate Committee on Assignments

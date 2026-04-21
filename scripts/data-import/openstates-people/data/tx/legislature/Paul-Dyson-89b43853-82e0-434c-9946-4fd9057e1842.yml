@@ -1,0 +1,36 @@
+id: ocd-person/89b43853-82e0-434c-9946-4fd9057e1842
+name: Paul Dyson
+given_name: Paul
+family_name: Dyson
+gender: Male
+email: paul.dyson@house.texas.gov
+image: https://www.house.texas.gov/images/members/4475.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '14'
+offices:
+- classification: capitol
+  address: Room E2.702, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0698
+- classification: district
+  address: 3000 Briarcrest Drive Suite 212, Bryan, TX 77802
+  voice: 979-314-3095
+links:
+- url: https://www.house.texas.gov/members/14
+- url: https://www.house.texas.gov/members/4475
+other_names:
+- name: Dyson, P.
+- name: Dyson, Paul
+- name: P. Dyson
+- name: P.A. Dyson
+sources:
+- url: https://ballotpedia.org/Paul_Dyson
+- url: https://en.wikipedia.org/wiki/Paul_Dyson_(politician)
+- url: https://www.house.texas.gov/members/14
+- url: https://www.house.texas.gov/members/4475
+- url: https://www.house.texas.gov/members/4475/biography
+- url: https://www.linkedin.com/in/pdyson

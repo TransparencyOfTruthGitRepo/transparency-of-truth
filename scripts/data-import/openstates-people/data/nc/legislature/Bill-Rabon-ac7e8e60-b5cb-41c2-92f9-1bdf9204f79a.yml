@@ -1,0 +1,44 @@
+id: ocd-person/ac7e8e60-b5cb-41c2-92f9-1bdf9204f79a
+name: Bill Rabon
+given_name: Bill
+family_name: Rabon
+birth_date: 1951-07-06
+gender: Male
+email: bill.rabon@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/S/303/Low
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room 2010, North Carolina Legislative Building 16 W. Jones St., Raleigh,
+    NC 27601
+  voice: 919-733-5963
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/303
+- url: https://www.ncleg.gov/Members/Committees/S/303
+- url: https://www.ncleg.gov/Members/IntroducedBills/S/303
+- url: https://www.ncleg.gov/Members/Votes/S/303
+other_names:
+- name: B. Rabon
+- name: Rabon, B.
+- name: W.P. Rabon
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000193
+sources:
+- url: https://ballotpedia.org/William_Rabon
+- url: https://en.wikipedia.org/wiki/Bill_Rabon
+- url: https://justfacts.votesmart.org/candidate/campaign-finance/117772/bill-rabon
+- url: https://www.linkedin.com/in/william-rabon-b4ab7827
+- url: https://www.ncleg.gov/Members/Biography/S/303
+- url: https://www.ncleg.gov/Members/MemberTable/S
+extras:
+  terms in senate: 7 (0 in House)
+  represented counties: Brunswick, Columbus, New Hanover
+  legislative assistant: Paula Fields
+  legislative assistant email: Paula.Fields@ncleg.gov

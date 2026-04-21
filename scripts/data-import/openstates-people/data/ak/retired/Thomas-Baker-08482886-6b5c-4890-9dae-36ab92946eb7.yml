@@ -1,0 +1,32 @@
+id: ocd-person/08482886-6b5c-4890-9dae-36ab92946eb7
+name: Thomas Baker
+given_name: Thomas
+family_name: Baker
+gender: Male
+email: representative.thomas.baker@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/BAK.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-11-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '40'
+  end_date: 2025-01-20
+offices: []
+links:
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=bak
+other_names:
+- name: Baker, T.
+- name: T. Baker
+sources:
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=BAK
+- url: https://ballotpedia.org/Thomas_Baker_(Alaska)
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=bak
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=BAK
+- url: https://www.linkedin.com/in/thomas-baker-40222b11a
+extras:
+  title: Oath Taken November 13, 2023
+  toll_free_phone: Session

@@ -1,0 +1,48 @@
+id: ocd-person/e27051a1-60e8-4ad9-b1d2-55360e09ea8c
+name: Bill Herbkersman
+given_name: Bill
+family_name: Herbkersman
+birth_date: 1958-06-30
+gender: Male
+email: billherbkerman@schouse.gov
+image: https://scstatehouse.gov/images/members/0832954446.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2002-11-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '118'
+offices:
+- classification: capitol
+  address: Room 407, Blatt Building P.O. Box 11867, Columbia, SC 29201
+  voice: 803-734-3015
+links:
+- url: https://repbillherbkersman.com/
+- url: https://scstatehouse.gov/member.php?code=0832954446
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=0832954446
+  note: homepage
+other_names:
+- name: B. Herbkersman
+- name: Herbkersman, B.
+- name: Herbkersman, Bill
+- name: Herbkersman, William G.
+- name: W.G. Herbkersman
+- name: William G. "Bill" Herbkersman
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000099
+sources:
+- url: https://ballotpedia.org/Bill_Herbkersman
+- url: https://en.wikipedia.org/wiki/Bill_Herbkersman
+- url: https://justfacts.votesmart.org/candidate/47897/bill-herbkersman
+- url: https://repbillherbkersman.com
+- url: https://repbillherbkersman.com/about-bill
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=0832954446
+- url: https://www.linkedin.com/in/bill-herbkersman-0575507
+- url: https://www.scstatehouse.gov/member.php?chamber=H
+- url: https://www.scstatehouse.gov/member.php?code=0832954446
+extras:
+  counties represented: Beaufort County

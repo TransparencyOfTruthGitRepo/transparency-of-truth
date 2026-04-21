@@ -1,0 +1,42 @@
+id: ocd-person/1bbfdd71-5072-4978-89bb-6aa19558c3f7
+name: R.J. Hawk
+given_name: R.J.
+family_name: Hawk
+gender: Male
+email: rj.hawk@arkansashouse.org
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/625_sm.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '81'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+- classification: district-mail
+  address: P.O. Box 1021, Bryant, AR 72089
+  voice: 501-340-0810
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Hawk
+- url: https://www.arkansashouse.org/district/81
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Hawk&ddBienniumSession=2023%2F2023R
+other_names:
+- name: Hawk, R.
+- name: R. Hawk
+- name: R.J. Hawk
+- name: RJ Hawk
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Hawk
+- url: https://ballotpedia.org/RJ_Hawk
+- url: https://en.wikipedia.org/wiki/R._J._Hawk
+- url: https://justfacts.votesmart.org/candidate/biography/187759/rj-hawk
+- url: https://www.arkansashouse.org/district/81
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Hawk&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+- url: https://www.linkedin.com/in/rj-hawk-5182031a
+extras:
+  seniority: '81'
+  veteran: 'No'

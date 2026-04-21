@@ -1,0 +1,22 @@
+id: ocd-person/8d0262d9-6db0-4741-8b11-9c4fec49822b
+name: Christine M. Erickson
+given_name: Christine
+family_name: Erickson
+middle_name: M.
+image: http://legis.sd.gov/img/Legislators/ericksonC.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '11'
+links:
+- url: http://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=505
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000172
+sources:
+- url: http://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=505
+- url: http://legis.sd.gov/Legislators/Legislators/MemberCommittees.aspx?Member=505

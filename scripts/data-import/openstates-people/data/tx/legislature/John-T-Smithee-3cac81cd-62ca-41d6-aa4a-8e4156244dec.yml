@@ -1,0 +1,45 @@
+id: ocd-person/3cac81cd-62ca-41d6-aa4a-8e4156244dec
+name: John Smithee
+given_name: John
+family_name: Smithee
+birth_date: 1951-09-07
+gender: Male
+email: john.smithee@house.texas.gov
+image: https://house.texas.gov/images/members/4530.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 1985-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '86'
+offices:
+- classification: capitol
+  address: Room 1W.10, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0702
+- classification: district
+  address: 320 S. Polk First Floor, Amarillo, TX 79101
+  voice: 806-372-3327
+links:
+- url: https://house.texas.gov/members/4530
+- url: https://house.texas.gov/members/member-page/?district=86
+other_names:
+- name: J. Smithee
+- name: J.T. Smithee
+- name: John T. Smithee
+- name: Smithee, J.
+- name: Smithee, John
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000344
+- scheme: legacy_openstates
+  identifier: TXL000162
+- scheme: legacy_openstates
+  identifier: TXL000576
+sources:
+- url: https://ballotpedia.org/John_Smithee
+- url: https://en.wikipedia.org/wiki/John_T._Smithee
+- url: https://house.texas.gov/members/4530
+- url: https://house.texas.gov/members/member-page/?district=86
+- url: https://justfacts.votesmart.org/candidate/biography/5581/john-smithee
+- url: https://www.srlawtx.com/john-smithee

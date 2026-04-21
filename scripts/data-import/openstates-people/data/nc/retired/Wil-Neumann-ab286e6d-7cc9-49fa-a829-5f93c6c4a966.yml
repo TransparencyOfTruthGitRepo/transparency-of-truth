@@ -1,0 +1,17 @@
+id: ocd-person/ab286e6d-7cc9-49fa-a829-5f93c6c4a966
+name: Wil Neumann
+given_name: Wil
+family_name: Neumann
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '108'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000144
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/memberList.pl?sChamber=House

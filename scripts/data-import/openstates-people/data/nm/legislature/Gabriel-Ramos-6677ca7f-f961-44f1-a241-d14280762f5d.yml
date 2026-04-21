@@ -1,0 +1,42 @@
+id: ocd-person/6677ca7f-f961-44f1-a241-d14280762f5d
+name: Gabriel Ramos
+given_name: Gabriel
+family_name: Ramos
+gender: Male
+email: gabriel.ramos@nmlegis.gov
+image: http://www.nmlegis.gov/Images/Legislators/Senate/SRAMO.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '28'
+- end_date: 2020-12-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '28'
+offices:
+- classification: capitol
+  address: State Capitol Room 414A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4391
+- classification: district
+  address: NM
+  voice: 575-313-2077
+links:
+- url: https://www.linkedin.com/in/gabriel-ramos-a5aa74109/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SRAMO
+other_names:
+- name: G. Ramos
+- name: G.J. Ramos
+- name: Ramos, G.
+- name: Ramos, Gabriel
+ids:
+  facebook: NMSenRamos
+sources:
+- url: https://ballotpedia.org/Gabriel_Ramos
+- url: https://en.wikipedia.org/wiki/Gabriel_Ramos_(politician)
+- url: https://www.linkedin.com/in/gabriel-ramos-0a767457
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SRAMO

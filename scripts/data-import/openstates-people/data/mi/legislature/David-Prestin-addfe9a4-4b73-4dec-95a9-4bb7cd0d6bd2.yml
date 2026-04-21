@@ -1,0 +1,37 @@
+id: ocd-person/addfe9a4-4b73-4dec-95a9-4bb7cd0d6bd2
+name: Dave Prestin
+given_name: Dave
+family_name: Prestin
+gender: Male
+email: daveprestin@house.mi.gov
+image: https://www.house.mi.gov/media/Representatives/Prestin-108.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '108'
+offices:
+- classification: capitol
+  address: Room S-1487, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0156
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/RepDavePrestin/posts
+other_names:
+- name: D. Prestin
+- name: David Prestin
+- name: Prestin, D.
+sources:
+- url: https://ballotpedia.org/David_Prestin
+- url: https://gophouse.org/member/RepDavePrestin/about
+- url: https://gophouse.org/member/RepDavePrestin/posts
+- url: https://RepPrestin.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.house.mi.gov/repdetail/repDavidPrestin
+  note: Member Details Page

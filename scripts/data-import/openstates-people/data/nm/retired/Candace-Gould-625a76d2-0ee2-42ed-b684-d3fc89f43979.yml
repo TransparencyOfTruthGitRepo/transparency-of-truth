@@ -1,0 +1,22 @@
+id: ocd-person/625a76d2-0ee2-42ed-b684-d3fc89f43979
+name: Candace Gould
+given_name: Candace
+family_name: Gould
+email: candace.gould@nmlegis.gov
+image: http://www.nmlegis.gov/Images/Legislators/Senate/SGOUL.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '10'
+links:
+- url: http://www.nmlegis.gov/Members/Legislator?SponCode=SGOUL
+ids:
+  facebook: CandaceGouldStateSenate
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000429
+sources:
+- url: http://www.nmlegis.gov/Members/Legislator?SponCode=SGOUL

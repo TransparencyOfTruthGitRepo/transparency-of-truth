@@ -1,0 +1,34 @@
+id: ocd-organization/b12f7c27-0ed4-42ad-8f64-e43726655303
+jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+classification: committee
+name: Fiscal Agency Governing
+chamber: lower
+sources:
+- url: https://www.house.mi.gov/Committee/HHFAC
+- url: https://www.house.mi.gov/Committee/HHFAG
+links:
+- url: https://www.house.mi.gov/Committee/HHFAC
+- url: https://www.house.mi.gov/Committee/HHFAG
+  note: homepage
+members:
+- name: Ann Bollin
+  role: chair
+  person_id: ocd-person/3a9d71dc-da5b-4bd3-8062-c8387292dc52
+- name: Matt Hall
+  role: republican vice chair
+  person_id: ocd-person/dc7344e8-b8bf-4f0d-924d-4f4b5ea40554
+- name: Bryan Posthumus
+  role: member
+  person_id: ocd-person/c925c469-552f-448d-a89f-ef456e15da21
+- name: John Fitzgerald
+  role: member
+  person_id: ocd-person/9f4f8b82-e4ee-4e50-a2ea-d46bbf264d34
+- name: Ranjeev Puri
+  role: member
+  person_id: ocd-person/1a16bef8-b655-46da-a5c5-07a8c5569eed
+other_names:
+- name: Committee on Fiscal Agency Governing
+- name: Fiscal Agency Governing Committee
+- name: House Committee on Fiscal Agency Governing
+- name: House Fiscal Agency Governing
+- name: House Fiscal Agency Governing Committee

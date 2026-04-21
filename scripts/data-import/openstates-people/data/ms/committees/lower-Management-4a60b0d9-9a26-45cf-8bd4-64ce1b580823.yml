@@ -1,0 +1,51 @@
+id: ocd-organization/4a60b0d9-9a26-45cf-8bd4-64ce1b580823
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Management
+chamber: lower
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/h_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/h_cmtememb.xml
+  note: homepage
+members:
+- name: Manly Barton
+  role: chair
+  person_id: ocd-person/c3ea3d93-cd2d-48f4-babd-a47bbd951108
+- name: Steve Massengill
+  role: vice chair
+  person_id: ocd-person/abfa015f-301e-4e17-9917-535bb9079768
+- name: Brent Powell
+  role: member
+  person_id: ocd-person/222077fd-0e92-4437-a156-59521d7faffa
+- name: Bubba Carpenter
+  role: member
+  person_id: ocd-person/dcc9906b-9a0a-4503-9128-006317d5ff3f
+- name: Donnie Bell
+  role: member
+  person_id: ocd-person/fd1a4542-8537-4af3-90c8-4052be561c66
+- name: Hank Zuber
+  role: member
+  person_id: ocd-person/4ead62fd-15e5-4662-8f9b-21a8b0fa8ebe
+- name: Jason White
+  role: member
+  person_id: ocd-person/fa29dc4f-e4cb-45dd-a450-a1911d529801
+- name: John Hines
+  role: member
+  person_id: ocd-person/a432eb59-5656-4869-aedc-832b2206b4a5
+- name: Rob Roberson
+  role: member
+  person_id: ocd-person/e36cdae5-3437-48fc-93b4-280b09af661b
+- name: Shane Barnett
+  role: member
+  person_id: ocd-person/9b8df60b-26ba-4cdc-b862-87b15f81fdc1
+- name: Tracey Rosebud
+  role: member
+  person_id: ocd-person/b37913d2-9f6e-4f1c-b6c8-7a19863be463
+other_names:
+- name: Committee on Management
+- name: House Committee on Management
+- name: House Management
+- name: House Management Committee
+- name: Management Committee

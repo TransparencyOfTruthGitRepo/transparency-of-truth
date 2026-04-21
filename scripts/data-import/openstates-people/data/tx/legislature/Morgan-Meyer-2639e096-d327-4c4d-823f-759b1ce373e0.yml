@@ -1,0 +1,44 @@
+id: ocd-person/2639e096-d327-4c4d-823f-759b1ce373e0
+name: Morgan Meyer
+given_name: Morgan
+family_name: Meyer
+birth_date: 1974-08-08
+gender: Male
+email: morgan.meyer@house.texas.gov
+image: https://house.texas.gov/images/members/3075.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '108'
+offices:
+- classification: capitol
+  address: Room GN.8, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0367
+- classification: district
+  address: '3131 McKinney Ave. #500, Dallas, TX 75204'
+  voice: 214-239-1257
+links:
+- url: https://house.texas.gov/members/3075
+- url: https://house.texas.gov/members/member-page/?district=108
+other_names:
+- name: M. Meyer
+- name: M.D. Meyer
+- name: Meyer, M.
+- name: Meyer, Morgan
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000504
+- scheme: legacy_openstates
+  identifier: TXL000619
+sources:
+- url: https://ballotpedia.org/Morgan_Meyer
+- url: https://en.wikipedia.org/wiki/Morgan_Meyer
+- url: https://house.texas.gov/members/3075
+- url: https://house.texas.gov/members/3075/biography
+- url: https://house.texas.gov/members/member-page/?district=108
+- url: https://justfacts.votesmart.org/candidate/biography/147697/morgan-meyer
+- url: https://www.linkedin.com/in/morgan-meyer-95794965
+- url: https://www.wickphillips.com/professionals/meyer-morgan-d

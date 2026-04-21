@@ -1,0 +1,53 @@
+id: ocd-person/53a598e0-3595-4b19-8f65-4a538bdc7a74
+name: Vincent Hughes
+given_name: Vincent
+family_name: Hughes
+birth_date: 1956-10-26
+gender: Male
+email: hughes@pasenate.com
+image: https://www.legis.state.pa.us/images/members/200/152.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 1994-11-21
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '7'
+offices:
+- classification: capitol
+  address: Room 545, Main Capitol Senate Box 203007, Harrisburg, PA 17120
+  voice: 717-787-7112
+- classification: district
+  address: 2401 N. 54th St., Philadelphia, PA 19131
+  voice: 215-879-7777
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=152
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.palegis.us/senate/members/bio/152/sen-hughes
+- url: https://www.senatorhughes.com/
+other_names:
+- name: Hughes, V.
+- name: V. Hughes
+- name: V.J. Hughes
+- name: Vincent J. Hughes
+ids:
+  twitter: SenatorHughes
+  instagram: senhughesoffice
+  facebook: vincent.hughes.7
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000019
+sources:
+- url: https://ballotpedia.org/Vincent_Hughes
+- url: https://en.wikipedia.org/wiki/Vincent_Hughes
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=S&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=152
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.linkedin.com/in/vincent-hughes-6602286
+- url: https://www.palegis.us/senate/members/bio/152/sen-hughes
+- url: https://www.senatorhughes.com
+extras:
+  website: http://www.senatorhughes.com
+  Education:
+  - Temple University

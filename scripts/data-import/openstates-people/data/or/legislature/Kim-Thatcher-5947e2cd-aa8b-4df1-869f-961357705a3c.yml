@@ -1,0 +1,58 @@
+id: ocd-person/5947e2cd-aa8b-4df1-869f-961357705a3c
+name: Kim Thatcher
+given_name: Kim
+family_name: Thatcher
+birth_date: 1964-10-30
+gender: Female
+email: sen.kimthatcher@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/thatcher/PublishingImages/thatcher2023.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '11'
+- start_date: 2015-01-12
+  end_date: 2023-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '11'
+- start_date: 2005-01-10
+  end_date: 2015-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '11'
+- end_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '13'
+offices:
+- classification: capitol
+  address: Room S-307, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1711
+links:
+- url: https://www.oregonlegislature.gov/thatcher
+  note: homepage
+other_names:
+- name: K. Thatcher
+- name: L.K. Thatcher
+- name: Thatcher, K.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000083
+- scheme: legacy_openstates
+  identifier: ORL000202
+- scheme: legacy_openstates
+  identifier: ORL000274
+- scheme: legacy_openstates
+  identifier: ORL000333
+- scheme: openstates
+  identifier: ocd-person/a18c83d2-6d92-4787-9822-0de52e6ac97b
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Kim_Thatcher
+- url: https://en.wikipedia.org/wiki/Kim_Thatcher
+- url: https://justfacts.votesmart.org/candidate/biography/46657/kim-thatcher
+- url: https://www.linkedin.com/in/kimthatcher
+- url: https://www.oregonlegislature.gov/thatcher

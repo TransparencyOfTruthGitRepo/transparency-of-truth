@@ -1,0 +1,37 @@
+id: ocd-person/20547e38-711f-4012-9217-b739f4450b91
+name: Bill Wheat
+given_name: Bill
+family_name: Wheat
+gender: Male
+email: sen37@legis.la.gov
+image: https://senate.la.gov/SenPics/Sen37.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '37'
+- start_date: 2020-01-13
+  end_date: 2024-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '37'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district-mail
+  address: P.O. Box 2473, Ponchatoula, LA 70454
+  voice: 985-543-4998
+links:
+- url: https://senate.la.gov/smembers?ID=37
+other_names:
+- name: B. Wheat
+- name: W. Wheat
+- name: Wheat, B.
+- name: William "Bill" Wheat , Jr.
+sources:
+- url: https://ballotpedia.org/William_Wheat_Jr.
+- url: https://senate.la.gov/smembers?ID=37
+- url: https://www.linkedin.com/in/william-wheat-21506737

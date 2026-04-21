@@ -1,0 +1,53 @@
+id: ocd-organization/abcf2e44-566b-4b2a-8a43-d73c331a2cec
+jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+classification: committee
+name: State Affairs
+chamber: upper
+sources:
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1184
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1220
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/68
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/69
+- url: https://sdlegislature.gov/Session/Committee/1184/Detail
+- url: https://sdlegislature.gov/Session/Committee/1220/Detail
+- url: https://sdlegislature.gov/Session/Committee/1254/Detail
+- url: https://sdlegislature.gov/Session/Committee/1289/Detail
+links:
+- url: https://sdlegislature.gov/Session/Committee/1184/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1220/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1254/Detail
+- url: https://sdlegislature.gov/Session/Committee/1289/Detail
+members:
+- name: Jim Mehlhaff
+  role: chair
+  person_id: ocd-person/c8ca77f5-97e7-4604-aec3-fe4ee5e7dc31
+- name: Carl Perry
+  role: vice chair
+  person_id: ocd-person/5a5c92d7-0b2c-418e-a0ce-8ba0a6e4790a
+- name: Chris Karr
+  role: member
+  person_id: ocd-person/85616a5d-63b7-4794-8eb0-63ab7b121761
+- name: Curt Voight
+  role: member
+  person_id: ocd-person/6dce0110-114c-467d-adb2-50e0309a8079
+- name: Kevin Jensen
+  role: member
+  person_id: ocd-person/1de26fd7-bcde-486b-b290-afdee6756c7c
+- name: Liz Larson
+  role: member
+  person_id: ocd-person/81df3498-7677-4749-9753-c1ae9799e444
+- name: Randy Deibert
+  role: member
+  person_id: ocd-person/73f418c4-6d07-4ef5-924f-1664738d2b46
+- name: Steve Kolbeck
+  role: member
+  person_id: ocd-person/d8b7a70b-2c34-4319-aaaf-54112c5ca471
+- name: Tom Pischke
+  role: member
+  person_id: ocd-person/f6b50a35-18e6-4e0c-bdd9-071f4a99bbed
+other_names:
+- name: Senate Committee on State Affairs
+- name: Senate State Affairs
+- name: Senate State Affairs Committee

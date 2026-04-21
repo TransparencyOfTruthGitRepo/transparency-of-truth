@@ -1,0 +1,66 @@
+id: ocd-person/3056cc98-9ca1-5293-8064-fc12fd9c689f
+name: Rich McCormick
+given_name: Rich
+family_name: McCormick
+birth_date: 1968-10-07
+gender: Male
+email: https://mccormick.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/M001218.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-7
+- start_date: 2023-01-03
+  end_date: 2025-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-6
+offices:
+- classification: capitol
+  address: 1719 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-4272
+- classification: district
+  address: 6230 Shiloh Road Suite 230, Alpharetta, GA 30005
+  voice: 770-232-3005
+links:
+- url: https://mccormick.house.gov
+  note: website
+- url: https://mccormick.house.gov/
+other_names:
+- name: McCormick, R.
+- name: R. McCormick
+- name: R.D. McCormick
+- name: Richard McCormick
+ids:
+  twitter: RepMcCormick
+other_identifiers:
+- scheme: bioguide
+  identifier: M001218
+- scheme: fec
+  identifier: H0GA07273
+- scheme: google_entity_id
+  identifier: kg:/g/11h4hhl04s
+- scheme: govtrack
+  identifier: '456894'
+- scheme: opensecrets
+  identifier: N00044520
+- scheme: pictorial
+  identifier: '13015'
+- scheme: votesmart
+  identifier: '189765'
+- scheme: wikidata
+  identifier: Q115474083
+- scheme: wikipedia
+  identifier: Rich McCormick
+sources:
+- url: https://ballotpedia.org/Rich_McCormick
+- url: https://en.wikipedia.org/wiki/Rich_McCormick
+- url: https://justfacts.votesmart.org/candidate/biography/189765/richard-mccormick
+- url: https://mccormick.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.linkedin.com/in/richard-mccormick-md-mba-bb337991

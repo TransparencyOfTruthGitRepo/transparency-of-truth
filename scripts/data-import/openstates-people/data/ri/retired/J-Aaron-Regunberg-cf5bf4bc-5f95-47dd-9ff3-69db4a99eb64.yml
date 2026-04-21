@@ -1,0 +1,25 @@
+id: ocd-person/cf5bf4bc-5f95-47dd-9ff3-69db4a99eb64
+name: J. Aaron Regunberg
+given_name: J. Aaron
+family_name: Regunberg
+image: http://www.rilin.state.ri.us/representatives/pictures/regunberg1.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '4'
+links:
+- url: http://www.rilin.state.ri.us/representatives/carson/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000143
+sources:
+- url: http://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: http://www.rilin.state.ri.us/representatives/regunberg/
+extras:
+  name_first: ''
+  name_last: ''
+  name_middle: ''
+  town_represented: Providence

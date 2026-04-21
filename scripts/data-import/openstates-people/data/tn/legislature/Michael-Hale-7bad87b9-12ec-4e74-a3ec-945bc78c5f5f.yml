@@ -1,0 +1,43 @@
+id: ocd-person/7bad87b9-12ec-4e74-a3ec-945bc78c5f5f
+name: Michael Hale
+given_name: Michael
+family_name: Hale
+birth_date: 1974-07-17
+gender: Male
+email: rep.michael.hale@capitol.tn.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Michael_Hale_20230524_083209.jpeg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '40'
+offices:
+- classification: capitol
+  address: Room 672, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-2192
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H40
+  note: homepage
+other_names:
+- name: Hale, M
+- name: Hale, M.
+- name: M. Hale
+sources:
+- url: https://ballotpedia.org/Michael_Hale_(Tennessee)
+- url: https://en.wikipedia.org/wiki/Michael_Hale
+- url: https://justfacts.votesmart.org/candidate/biography/206873/michael-hale
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H40
+extras:
+  office: 672 CHB
+  personal info:
+  - Born July 17, 1974
+  - Married, 3 children
+  - Owner of DeKalb Funeral Chapel
+  - Farmer
+  - United Pentecostal
+  - DeKalb County High School
+  - John A. Gupton Mortuary College, Associates Degree

@@ -1,0 +1,43 @@
+id: ocd-person/dc7344e8-b8bf-4f0d-924d-4f4b5ea40554
+name: Matt Hall
+given_name: Matt
+family_name: Hall
+gender: Male
+email: matthall@house.mi.gov
+image: https://dtj5wlj7ond0z.cloudfront.net/uploads/2023/01/Leader-Matt-Hall-headshot-scaled.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '42'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '63'
+offices:
+- classification: capitol
+  address: Room H-164, Capitol Building 100 N Capitol Ave., Lansing, MI 48933
+  voice: 517-373-1784
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/repmatthall/about
+- url: https://gophouse.org/representatives/southwest/hall/
+other_names:
+- name: Hall, M.
+- name: M. Hall
+sources:
+- url: https://ballotpedia.org/Matt_Hall_(Michigan)
+- url: https://en.wikipedia.org/wiki/Matt_Hall_(politician)
+- url: https://gophouse.org/member/repmatthall/about
+- url: https://gophouse.org/representatives/southwest/hall
+- url: https://gophouse.org/representatives/southwest/hall/
+  note: Member Details Page
+- url: https://justfacts.votesmart.org/candidate/biography/182843/matt-hall
+- url: https://RepMattHall.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
+- url: https://www.linkedin.com/in/matt-hall-1651454a

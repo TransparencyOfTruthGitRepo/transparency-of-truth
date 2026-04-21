@@ -1,0 +1,22 @@
+id: ocd-person/b18bb50d-f942-41f6-b109-496a8825b6ba
+name: Justin M. Walsh
+given_name: Justin M.
+family_name: Walsh
+image: https://www.legis.state.pa.us/images/members/200/1747.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-01-05'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '58'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000550
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1747
+extras:
+  facebook: https://facebook.com/repwalsh

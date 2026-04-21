@@ -1,0 +1,58 @@
+id: ocd-person/aa421a2c-4203-45b7-9766-8826c02a659d
+name: Lisa Baker
+given_name: Lisa
+family_name: Baker
+gender: Female
+email: lbaker@pasen.gov
+image: https://www.legis.state.pa.us/images/members/200/1077.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2007-01-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Room 173, Main Capitol Senate Box 203020, Harrisburg, PA 17120
+  voice: 717-787-7428
+- classification: district
+  address: 22 Dallas Shopping Center, Dallas, PA 18612
+  voice: 570-675-3931
+- classification: district
+  address: 2512 Route 6 Suite 3, Hawley, PA 18428
+  voice: 570-226-5960
+- classification: district
+  address: 50 N. Walnut St. Suite 105, Nanticoke, PA 18634
+  voice: 570-740-2432
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1077
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.palegis.us/senate/members/bio/1077/sen-baker
+- url: https://www.senatorbaker.com/
+other_names:
+- name: Baker, L.
+- name: E.J. Baker
+- name: L. Baker
+ids:
+  twitter: SenLisaBaker
+  facebook: senatorlisabaker
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000003
+- scheme: legacy_openstates
+  identifier: PAL000310
+sources:
+- url: https://ballotpedia.org/Lisa_Baker_(Pennsylvania)
+- url: https://en.wikipedia.org/wiki/Lisa_Baker_(Pennsylvania_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/57107/lisa-baker
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=S&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1077
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.palegis.us/senate/members/bio/1077/sen-baker
+- url: https://www.senatorbaker.com
+extras:
+  website: http://www.senatorbaker.com/
+  Education:
+  - Shippensburg University, B.A. Government Administration, 1983

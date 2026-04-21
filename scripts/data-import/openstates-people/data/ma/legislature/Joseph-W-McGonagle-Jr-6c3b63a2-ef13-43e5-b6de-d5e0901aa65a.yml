@@ -1,0 +1,50 @@
+id: ocd-person/6c3b63a2-ef13-43e5-b6de-d5e0901aa65a
+name: Joe McGonagle
+given_name: Joe
+family_name: McGonagle
+gender: Male
+email: joseph.mcgonagle@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/jwm1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 28th Middlesex
+offices:
+- classification: capitol
+  address: Room 171, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2015
+links:
+- url: https://malegislature.gov/Legislators/Profile/jwm1
+- url: https://malegislature.gov/Legislators/Profile/JWM1
+other_names:
+- name: J. McGonagle
+- name: J.W. McGonagle
+- name: Joseph W. McGonagle
+- name: Joseph W. McGonagle, Jr.
+- name: McGonagle, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000497
+- scheme: legacy_openstates
+  identifier: MAL000357
+- scheme: legacy_openstates
+  identifier: MAL000369
+- scheme: openstates
+  identifier: ocd-person/a7136f3d-eb7f-43f5-92d5-1d35feb3e95e
+sources:
+- url: https://ballotpedia.org/Joseph_McGonagle,_Jr.
+- url: https://en.wikipedia.org/wiki/Joe_McGonagle
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/jwm1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/jwm1
+- url: https://malegislature.gov/Legislators/Profile/JWM1
+- url: https://malegislature.gov/Legislators/Profile/jwm1
+- url: https://www.linkedin.com/in/joseph-mcgonagle-038b76106
+extras:
+  member code: jwm1

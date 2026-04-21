@@ -1,0 +1,93 @@
+id: ocd-organization/6c68aa61-5a21-4b95-96ac-ec770b9be075
+jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+classification: committee
+name: Education
+chamber: lower
+sources:
+- url: https://www.wvlegislature.gov/committees/house/HouseCommittee.cfm?Chart=ed
+  note: Committee detail page
+- url: https://www.wvlegislature.gov/committees/house/HouseCommittee.cfm?Chart=edu
+links:
+- url: https://www.wvlegislature.gov/committees/house/HouseCommittee.cfm?Chart=ed
+  note: homepage
+- url: https://www.wvlegislature.gov/committees/house/HouseCommittee.cfm?Chart=edu
+members:
+- name: Joe Statler
+  role: chair
+  person_id: ocd-person/79271821-3d79-4f99-bba3-a147779bb3d0
+- name: Chris Toney
+  role: vice chair
+  person_id: ocd-person/cdd73d73-98d4-43f0-9eec-a030c4ce080f
+- name: Anitra Hamilton
+  role: democratic chair
+  person_id: ocd-person/86a1fdf7-e6af-41b4-8d69-0d0815fc9512
+- name: Rick Garcia
+  role: democratic vice chair
+  person_id: ocd-person/cc1fb64b-859b-4009-88b3-2cb23e7e9d9b
+- name: Adam Vance
+  role: member
+  person_id: ocd-person/c15b4eb1-1dc4-498f-9929-43ff34445317
+- name: Andy Shamblin
+  role: member
+  person_id: ocd-person/e6deff1e-fb70-4bf0-a2b6-9c30567fcd9d
+- name: Bill Bell
+  role: member
+  person_id: ocd-person/4d4f0511-706a-406b-9259-05c4008d8b64
+- name: Bryan Ward
+  role: member
+  person_id: ocd-person/6e588e9a-4d48-444d-92b4-629e00900440
+- name: Buck Jennings
+  role: member
+  person_id: ocd-person/34e1e6dd-469b-4e3d-9cc5-604bffe79730
+- name: Elliott Pritt
+  role: member
+  person_id: ocd-person/d7f119af-3e41-40a1-9541-bfa1a1e7a9b4
+- name: "El\xEDas Coop-Gonz\xE1lez"
+  role: member
+  person_id: ocd-person/0714e7e4-9da4-46bf-a8f5-e48be1af2242
+- name: Geno Chiarelli
+  role: member
+  person_id: ocd-person/409397ae-ceea-4b1b-bce5-b042af057232
+- name: George Miller
+  role: member
+  person_id: ocd-person/5bb7ff93-88f4-42ec-ba11-6921dead66a1
+- name: Jeff Campbell
+  role: member
+  person_id: ocd-person/81cad520-b015-42c8-b533-64a9e4596197
+- name: Jeff Stephens
+  role: member
+  person_id: ocd-person/0092e49c-3dfe-4a2b-b053-e7a0360accf1
+- name: Jimmy Willis
+  role: member
+  person_id: ocd-person/5a2928e1-3371-480d-be6f-1c3133de4609
+- name: Joe Ellington
+  role: member
+  person_id: ocd-person/fe6a6b8e-91f2-427f-9060-2cac2b9eb66c
+- name: Joe Parsons
+  role: member
+  person_id: ocd-person/e2f71bb6-832a-46f3-8247-5e2c16685fe1
+- name: Kathie Hess Crouse
+  role: member
+  person_id: ocd-person/0686b8e2-2d6a-4950-b3c3-0dbfe5a6e719
+- name: Laura Kimble
+  role: member
+  person_id: ocd-person/ce1e7053-19d4-4405-8e31-f5c39af87ae9
+- name: Lisa White
+  role: member
+  person_id: ocd-person/7ae7ca12-88dc-4387-a9ee-49295af32fb7
+- name: Lori Dittman
+  role: member
+  person_id: ocd-person/3f45442d-ffd9-4566-a661-42efa25f8e18
+- name: Mike Hornby
+  role: member
+  person_id: ocd-person/b76899a3-5189-495c-af2f-9ca8a4e8036e
+- name: Mike Pushkin
+  role: member
+  person_id: ocd-person/1a97b137-218f-43cc-a24f-d806c6ac9fd2
+- name: Phil Mallow
+  role: member
+  person_id: ocd-person/ca7ec436-00a0-447d-8592-00fc7d358571
+other_names:
+- name: House Committee on Education
+- name: House Education
+- name: House Education Committee

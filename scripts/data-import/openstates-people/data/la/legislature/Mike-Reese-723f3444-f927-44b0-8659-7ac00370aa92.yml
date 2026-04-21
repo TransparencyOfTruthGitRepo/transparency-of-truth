@@ -1,0 +1,45 @@
+id: ocd-person/723f3444-f927-44b0-8659-7ac00370aa92
+name: Mike Reese
+given_name: Mike
+family_name: Reese
+gender: Male
+email: sen30@legis.la.gov
+image: https://senate.la.gov/SenatorPics/Sen30.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '30'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 1206 S. 5th St., Leesville, LA 71446
+  voice: 337-238-6435
+- classification: district
+  address: 218 W. 4th St., DeQuincy, LA 70633
+- classification: district
+  address: 401 W. 1st St., DeRidder, LA 70634
+links:
+- url: https://senate.la.gov/smembers.aspx?ID=30
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=30
+other_names:
+- name: M. Reese
+- name: Reese, M.
+sources:
+- url: https://ballotpedia.org/Mike_Reese_(Louisiana)
+- url: https://en.wikipedia.org/wiki/Mike_Reese_(Louisiana_politician)
+- url: https://senate.la.gov/Senators_FullInfo
+- url: https://senate.la.gov/smembers.aspx?ID=30
+- url: https://senate.la.gov/smembers?ID=30
+- url: https://www.linkedin.com/in/mike-reese-8406b666
+extras:
+  legislative assistant: Nanette Swisher
+  representing parishes:
+  - Beauregard
+  - Calcasieu
+  - Vernon

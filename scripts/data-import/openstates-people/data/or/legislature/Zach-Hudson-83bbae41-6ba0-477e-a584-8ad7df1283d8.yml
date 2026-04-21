@@ -1,0 +1,31 @@
+id: ocd-person/83bbae41-6ba0-477e-a584-8ad7df1283d8
+name: Zach Hudson
+given_name: Zach
+family_name: Hudson
+gender: Male
+email: rep.zachhudson@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/hudson/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '49'
+offices:
+- classification: capitol
+  address: Room H-284, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1449
+links:
+- url: https://www.oregonlegislature.gov/hudson
+  note: homepage
+other_names:
+- name: Hudson, Z.
+- name: Z. Hudson
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Zach_Hudson
+- url: https://en.wikipedia.org/wiki/Zach_Hudson
+- url: https://www.linkedin.com/in/zach-hudson-94318532
+- url: https://www.oregonlegislature.gov/hudson

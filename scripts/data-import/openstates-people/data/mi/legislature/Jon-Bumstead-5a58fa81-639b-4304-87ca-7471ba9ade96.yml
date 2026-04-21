@@ -1,0 +1,58 @@
+id: ocd-person/5a58fa81-639b-4304-87ca-7471ba9ade96
+name: Jon Bumstead
+given_name: Jon
+family_name: Bumstead
+birth_date: 1957-07-30
+gender: Male
+email: senjbumstead@senate.michigan.gov
+image: https://www.misenategop.com/wp-content/uploads/2023/01/Bumstead-580x770.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '32'
+- start_date: 2011-01-01
+  end_date: 2016-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '100'
+- end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '34'
+offices:
+- classification: capitol
+  address: Room 4600, Binsfeld Building P.O. Box 30036, Lansing, MI 48909
+  voice: 517-373-1635
+links:
+- url: https://www.senatorjonbumstead.com
+  note: Member Page
+- url: https://www.senatorjonbumstead.com/
+- url: https://www.senatorjonbumstead.com/contact
+  note: Member Contact Page
+- url: https://www.senatorjonbumstead.com/contact/
+  note: Contact
+other_names:
+- name: Bumstead, J.
+- name: J. Bumstead
+- name: J.C. Bumstead
+- name: Jon C. Bumstead
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000138
+- scheme: openstates
+  identifier: ocd-person/0ebee0f3-1176-42ee-844d-b61c8cdaca18
+sources:
+- url: https://ballotpedia.org/Jon_Bumstead
+- url: https://en.wikipedia.org/wiki/Jon_Bumstead
+- url: https://justfacts.votesmart.org/candidate/biography/123095/jon-bumstead
+- url: https://senate.michigan.gov/senatorinfo_list.html
+- url: https://senate.michigan.gov/senators/SenatorData.json
+  note: Members List JSON Data Page
+- url: https://senate.michigan.gov/senators/senatorinfo_list.html
+  note: Members List HTML page
+- url: https://www.linkedin.com/in/jon-bumstead-74280118
+- url: https://www.senatorjonbumstead.com
+- url: https://www.senatorjonbumstead.com/

@@ -1,0 +1,50 @@
+id: ocd-person/6a82d675-3496-48af-88cf-23c26355b01f
+name: Mike Rush
+given_name: Mike
+family_name: Rush
+birth_date: 1973-11-30
+gender: Male
+email: mike.rush@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/MFR0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2011-01-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Norfolk and Suffolk
+offices:
+- classification: capitol
+  address: Room 208, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1348
+links:
+- url: https://malegislature.gov/Legislators/Profile/MFR0
+other_names:
+- name: M. Rush
+- name: M.F. Rush
+- name: Michael F. Rush
+- name: Rush, M.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000034
+- scheme: legacy_openstates
+  identifier: MAL000241
+- scheme: legacy_openstates
+  identifier: MAL000269
+- scheme: legacy_openstates
+  identifier: MAL000278
+sources:
+- url: https://ballotpedia.org/Michael_Rush
+- url: https://en.wikipedia.org/wiki/Mike_Rush
+- url: https://justfacts.votesmart.org/candidate/35666/mike-rush
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/MFR0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/MFR0
+- url: https://malegislature.gov/Legislators/Profile/MFR0
+- url: https://www.linkedin.com/in/mike-rush-98742b47
+extras:
+  leadership position: Senate Majority Whip
+  member code: MFR0

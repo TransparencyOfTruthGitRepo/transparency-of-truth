@@ -1,0 +1,51 @@
+id: ocd-person/afd768fd-c4fc-4ee9-a845-2183793ebe0e
+name: Ed Orcutt
+given_name: Ed
+family_name: Orcutt
+birth_date: 1963-05-04
+gender: Male
+email: ed.orcutt@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/7635.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '20'
+- start_date: 2002-01-04
+  end_date: 2013-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Room 408, John L. O'Brien Building P.O. Box 40600, Olympia, WA 98504
+  voice: 360-786-7990
+links:
+- url: https://EdOrcutt.houserepublicans.wa.gov/
+- url: https://edorcutt.houserepublicans.wa.gov/
+- url: https://houserepublicans.wa.gov/Ed-Orcutt/
+- url: https://leg.wa.gov/legislators/member/ed-orcutt
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_names:
+- name: E. Orcutt
+- name: E.T. Orcutt
+- name: Edmund Thomas Orcutt
+- name: Orcutt, E.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000113
+- scheme: legacy_openstates
+  identifier: WAL000161
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=House
+- url: https://ballotpedia.org/Ed_Orcutt
+- url: https://edorcutt.houserepublicans.wa.gov
+- url: https://edorcutt.houserepublicans.wa.gov/
+- url: https://edorcutt.houserepublicans.wa.gov/about
+- url: https://en.wikipedia.org/wiki/Ed_Orcutt
+- url: https://justfacts.votesmart.org/candidate/51452/ed-orcutt
+- url: https://leg.wa.gov/legislators/member/ed-orcutt
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+- url: https://www.linkedin.com/in/orcutted

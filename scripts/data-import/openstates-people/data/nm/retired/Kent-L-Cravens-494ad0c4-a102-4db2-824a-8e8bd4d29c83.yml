@@ -1,0 +1,19 @@
+id: ocd-person/494ad0c4-a102-4db2-824a-8e8bd4d29c83
+name: Kent L. Cravens
+given_name: Kent
+family_name: Cravens
+middle_name: L.
+image: http://www.nmlegis.gov/lcs/graphics/photos/SCRAV.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '21'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000021
+sources:
+- url: http://www.nmlegis.gov/lcs/legdetails.aspx?SPONCODE=SCRAV

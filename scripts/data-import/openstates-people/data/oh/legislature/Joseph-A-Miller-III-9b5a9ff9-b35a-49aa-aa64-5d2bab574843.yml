@@ -1,0 +1,46 @@
+id: ocd-person/9b5a9ff9-b35a-49aa-aa64-5d2bab574843
+name: Joe Miller
+given_name: Joe
+family_name: Miller
+gender: Male
+email: rep53@ohiohouse.gov
+image: https://www.legislature.ohio.gov/assets/people/joseph-a-miller-iii/headshots/thumbnails/medium/joseph-a-miller-iii-january-2021-headshot_medium.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '53'
+- start_date: 2019-01-01
+  end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '56'
+offices:
+- classification: capitol
+  address: 77 S. High St. 10th Floor, Columbus, OH 43215
+  voice: 614-466-5141
+links:
+- url: https://ohiohouse.gov/joseph-a-miller-iii
+- url: https://www.ohiohouse.gov/joseph-a-miller-iii
+- url: https://www.ohiohouse.gov/members/joseph-a-miller-iii
+other_names:
+- name: J. Miller
+- name: J.A. Miller
+- name: Joseph A. Miller III
+- name: Joseph A. Miller, III
+- name: Joseph Miller, J.
+- name: Miller, J.
+sources:
+- url: https://ballotpedia.org/Joe_Miller_(Ohio_House_District_53)
+- url: https://ballotpedia.org/Joe_Miller_(Ohio_House_District_56)
+- url: https://en.wikipedia.org/wiki/Joe_Miller_(Ohio_politician)
+- url: https://ohiohouse.gov/joseph-a-miller-iii
+- url: https://ohiohouse.gov/members/joseph-a-miller-iii
+  note: member details page
+- url: https://www.legislature.ohio.gov/legislators/house-directory
+  note: member list page
+- url: https://www.linkedin.com/in/joe-miller-b7970618
+- url: https://www.ohiohouse.gov/members/joseph-a-miller-iii
+- url: https://www.ohiohouse.gov/members/member-directory

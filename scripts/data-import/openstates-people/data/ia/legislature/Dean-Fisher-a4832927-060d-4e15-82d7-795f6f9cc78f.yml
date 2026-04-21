@@ -1,0 +1,52 @@
+id: ocd-person/a4832927-060d-4e15-82d7-795f6f9cc78f
+name: Dean Fisher
+given_name: Dean
+family_name: Fisher
+birth_date: 1956-09-03
+gender: Male
+email: dean.fisher@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10755
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '53'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '72'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.deanfisher.com
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=10755&ga=89
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=10755&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10755
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=10755
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=10755
+other_names:
+- name: D. Fisher
+- name: D.C. Fisher
+- name: Dean C. Fisher
+- name: Dean Fisher
+- name: Fisher, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IAL000241
+sources:
+- url: https://ballotpedia.org/Dean_Fisher
+- url: https://en.wikipedia.org/wiki/Dean_Fisher
+- url: https://justfacts.votesmart.org/candidate/biography/137989/dean-fisher
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10755
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=10755
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=10755
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=10755
+- url: https://www.linkedin.com/in/dean-fisher-72305529
+extras:
+  home email: dfisher1956@gmail.com
+  occupation: Retired

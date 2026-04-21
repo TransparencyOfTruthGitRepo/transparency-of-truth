@@ -1,0 +1,43 @@
+id: ocd-person/ca9357d4-dffa-456a-a715-d4a7671c1f84
+name: Mike Demicco
+given_name: Mike
+family_name: Demicco
+birth_date: 1958-11-01
+gender: Male
+email: mike.demicco@cga.ct.gov
+image: http://www2.housedems.ct.gov/Demicco/images/Demicco_HS.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '21'
+offices:
+- classification: capitol
+  address: Room 4001, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27021%27&dist_name=Demicco,%20Mike
+- url: https://www.housedems.ct.gov/Demicco
+other_names:
+- name: Demicco, M.
+- name: Demicco, Mike
+- name: M. Demicco
+- name: M.V. Demicco
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000198
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Mike_Demicco
+- url: https://en.wikipedia.org/wiki/Mike_Demicco
+- url: https://justfacts.votesmart.org/candidate/biography/126653/mike-demicco
+- url: https://www.housedems.ct.gov/Demicco
+extras:
+  gender: Male
+  title: Deputy Majority Leader
+  committees: Environment; Energy and Technology; Higher Education and Employment
+    Advancement; Public Health
+  committee codes: ;ENV;ET;HED;PH;
+  prison: '0'

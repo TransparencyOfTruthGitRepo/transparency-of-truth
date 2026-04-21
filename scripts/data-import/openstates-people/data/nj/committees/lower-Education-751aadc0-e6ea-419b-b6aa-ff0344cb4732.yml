@@ -1,0 +1,43 @@
+id: ocd-organization/751aadc0-e6ea-419b-b6aa-ff0344cb4732
+jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+classification: committee
+name: Education
+chamber: lower
+sources:
+- url: https://njleg.state.nj.us/committees/assembly-committees?committee=AED
+- url: https://www.njleg.state.nj.us/api/legislatorData/committeeInfo/assembly-committees
+  note: JSON data page from NJ Legislative API
+- url: https://www.njleg.state.nj.us/committees/assembly-committees
+links:
+- url: https://njleg.state.nj.us/committees/assembly-committees?committee=AED
+- url: https://www.njleg.state.nj.us/committees/assembly-committees
+  note: homepage
+members:
+- name: Verlina Reynolds-Jackson
+  role: chair
+  person_id: ocd-person/b432ec8c-f914-47dc-addd-740dfc95daaf
+- name: Rosy Bagolie
+  role: vice chair
+  person_id: ocd-person/f152f2d6-e4ff-4958-996d-532c310ddef1
+- name: Dawn Fantasia
+  role: member
+  person_id: ocd-person/790ac0bd-71fa-4446-b1fa-b013e4b4f33e
+- name: Erik Simonsen
+  role: member
+  person_id: ocd-person/7f9ebe1c-d4fa-4dd0-8948-7cf6248ffb6d
+- name: Katie Brennan
+  role: member
+  person_id: ocd-person/a04dc132-6a91-4e1b-a336-ede062d06884
+- name: Lisa Swain
+  role: member
+  person_id: ocd-person/28b4c7d2-d1c3-4735-b321-0f348ec27299
+- name: Mike Venezia
+  role: member
+  person_id: ocd-person/96eb992c-0f0c-4db5-b146-76349604f4d3
+other_names:
+- name: Assembly Committee on Education
+- name: Assembly Education
+- name: Assembly Education Committee
+- name: House Committee on Education
+- name: House Education
+- name: House Education Committee

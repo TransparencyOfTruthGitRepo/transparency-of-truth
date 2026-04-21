@@ -1,0 +1,20 @@
+id: ocd-person/2282768f-d8d6-4ba7-bc06-c1d00a7a2ad5
+name: Roberto DaSilva
+given_name: Roberto
+family_name: DaSilva
+image: https://lh5.googleusercontent.com/-xEv9Xxi34aA/TxngEqy9Y0I/AAAAAAAAGnM/Q9NxQEIjckE/s576/DSC_0229.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2012-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '63'
+links:
+- url: http://webserver.rilin.state.ri.us/DaSilva/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000102
+sources:
+- url: http://webserver.rilin.state.ri.us/Documents/Representatives.xls

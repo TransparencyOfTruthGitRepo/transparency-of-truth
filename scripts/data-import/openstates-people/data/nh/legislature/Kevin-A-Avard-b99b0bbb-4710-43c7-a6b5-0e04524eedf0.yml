@@ -1,0 +1,67 @@
+id: ocd-person/b99b0bbb-4710-43c7-a6b5-0e04524eedf0
+name: Kevin Avard
+given_name: Kevin
+family_name: Avard
+birth_date: 1963-01-25
+gender: Male
+email: kevin.avard@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/50507.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-12-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '12'
+- start_date: 2014-12-03
+  end_date: 2018-12-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '12'
+- start_date: 2010-12-01
+  end_date: 2012-12-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '12'
+- start_date: 2014-12-03
+  end_date: 2018-12-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '12'
+offices:
+- classification: capitol
+  address: Room 302, State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3479
+links:
+- url: https://gc.nh.gov/Senate/members/webpages/district12.aspx
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/Senate/members/webpages/district12.aspx
+- url: https://www.gencourt.state.nh.us/Senate/members/webpages/district12.aspx
+  note: homepage
+other_names:
+- name: Avard, K.
+- name: K. Avard
+- name: K.A. Avard
+- name: Kevin A. Avard
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000033
+- scheme: legacy_openstates
+  identifier: NHL001296
+- scheme: legacy_openstates
+  identifier: NHL001139
+- scheme: openstates
+  identifier: ocd-person/50c1665e-0f89-425c-810b-53c2febce701
+sources:
+- url: https://ballotpedia.org/Kevin_Avard
+- url: https://en.wikipedia.org/wiki/Kevin_Avard
+- url: https://gc.nh.gov/Senate/members/webpages/district12.aspx
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/Senate/members/webpages/district12.aspx
+- url: https://justfacts.votesmart.org/candidate/biography/13431/kevin-avard
+- url: https://www.gencourt.state.nh.us/Senate/members/webpages/district12.aspx
+- url: https://www.linkedin.com/in/kevin-avard-94624797
+extras:
+  elected status: Incumbent
+  gender code: M

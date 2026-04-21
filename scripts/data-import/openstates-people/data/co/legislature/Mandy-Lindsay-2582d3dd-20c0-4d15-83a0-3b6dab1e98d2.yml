@@ -1,0 +1,33 @@
+id: ocd-person/2582d3dd-20c0-4d15-83a0-3b6dab1e98d2
+name: Mandy Lindsay
+given_name: Mandy
+family_name: Lindsay
+gender: Female
+email: mandy.lindsay.house@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_lindsay%2Cmandy.jpg?itok=FHjKFjNG
+party:
+- name: Democratic
+roles:
+- start_date: 2022-01-18
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '42'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-3911
+links:
+- url: https://leg.colorado.gov/legislators/mandy-lindsay
+other_names:
+- name: Lindsay M.
+- name: Lindsay, M.
+- name: M. Lindsay
+sources:
+- url: https://ballotpedia.org/Mandy_Lindsay
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/mandy-lindsay
+extras:
+  title: Majority Caucus Co-Chair
+  counties represented:
+  - Arapahoe

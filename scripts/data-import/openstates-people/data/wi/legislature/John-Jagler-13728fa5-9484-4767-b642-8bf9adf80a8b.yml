@@ -1,0 +1,71 @@
+id: ocd-person/13728fa5-9484-4767-b642-8bf9adf80a8b
+name: John Jagler
+given_name: John
+family_name: Jagler
+birth_date: 1969-11-04
+gender: Male
+email: sen.jagler@legis.wisconsin.gov
+image: https://docs.legis.wisconsin.gov/2023/legislators/senate/2420.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-04-23
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '13'
+- end_date: 2021-04-23
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '37'
+offices:
+- classification: capitol
+  address: State Capitol Room 415 South, P.O. Box 7882 , 2 E. Main St., Madison, WI
+    53707
+  voice: 608-266-5660
+links:
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1564
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1831
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/2148
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/2397
+  note: homepage
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/2420
+- url: https://docs.legis.wisconsin.gov/2025/legislators/senate/2814
+- url: https://legis.wisconsin.gov/senate/13/jagler
+other_names:
+- name: J. Jagler
+- name: J.D. Jagler
+- name: JAGLER, J
+- name: Jagler, J
+- name: Jagler, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000514
+sources:
+- url: https://ballotpedia.org/John_Jagler
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1564
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1831
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/2148
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/2397
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/
+  note: members list page
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/2420
+  note: member detail page
+- url: https://docs.legis.wisconsin.gov/2025/legislators/senate/2814
+- url: https://en.wikipedia.org/wiki/John_Jagler
+- url: https://justfacts.votesmart.org/candidate/biography/140561/john-jagler
+- url: https://legis.wisconsin.gov/senate/13/jagler
+- url: https://www.linkedin.com/in/john-jagler-35670a27
+extras:
+  website: https://legis.wisconsin.gov/senate/13/jagler
+  extra phone: ''
+  staff1: Charlie Bellin
+  staff_email1: Charlie.Bellin@legis.wisconsin.gov
+  staff2: David Fladeboe
+  staff_email2: David.Fladeboe@legis.wisconsin.gov
+  staff3: Sarah Gibbs
+  staff_email3: Sarah.Gibbs@legis.wisconsin.gov
+  staff4: Matthew VanRemortel
+  staff_email4: Matthew.VanRemortel@legis.wisconsin.gov

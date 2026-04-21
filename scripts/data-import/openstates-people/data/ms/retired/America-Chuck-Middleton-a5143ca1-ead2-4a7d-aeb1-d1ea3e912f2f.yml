@@ -1,0 +1,21 @@
+id: ocd-person/a5143ca1-ead2-4a7d-aeb1-d1ea3e912f2f
+name: America Chuck Middleton
+given_name: America Chuck
+family_name: Middleton
+image: http://billstatus.ls.state.ms.us/members/house/middleton.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2018-08-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '85'
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/middleton.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000065
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/middleton.xml
+extras:
+  org_info: Representative Middleton is a veteran and Founder of Friends for Progress.

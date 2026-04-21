@@ -1,0 +1,55 @@
+id: ocd-person/cd3ba8e7-7c51-444b-bff3-e0c29de30660
+name: Gayle Harrell
+given_name: Gayle
+family_name: Harrell
+birth_date: 1943-07-21
+gender: Female
+email: harrell.gayle.web@flsenate.gov
+image: https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s31_5348.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '31'
+- end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '83'
+- end_date: 2022-11-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '25'
+offices:
+- classification: capitol
+  address: Room 404, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-487-5031
+- classification: district
+  address: 312 SE Denver Ave., Stuart, FL 34994
+  voice: 772-221-4019
+links:
+- url: https://flsenate.gov/Senators/2022-2024/S31
+  note: member detail page
+- url: https://www.flsenate.gov/Senators/2018-2020/S25
+- url: https://www.flsenate.gov/Senators/s25
+- url: https://www.flsenate.gov/Senators/s31
+other_names:
+- name: G. Harrell
+- name: G.B. Harrell
+- name: Gayle B. Harrell
+- name: Harrell, G.
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/2586f5b5-3109-44f1-8656-bc1a364f8ff4
+sources:
+- url: https://ballotpedia.org/Gayle_Harrell
+- url: https://en.wikipedia.org/wiki/Gayle_Harrell
+- url: https://flsenate.gov/Senators/2022-2024/S31
+  note: member detail page
+- url: https://www.flsenate.gov/Senators
+- url: https://www.flsenate.gov/Senators/
+- url: https://www.flsenate.gov/Senators/2018-2020/S25
+- url: https://www.flsenate.gov/Senators/s25
+- url: https://www.flsenate.gov/Senators/s31
+- url: https://www.linkedin.com/in/gayle-harrell-79992915

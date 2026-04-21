@@ -1,0 +1,55 @@
+id: ocd-person/c48a0179-5770-410d-ba97-bdbc05d20786
+name: Kim Ward
+given_name: Kim
+family_name: Ward
+gender: Female
+email: kward@pasen.gov
+image: https://www.legis.state.pa.us/images/members/200/1188.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2009-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '39'
+offices:
+- classification: capitol
+  address: Room 292, Main Capitol Senate Box 203039, Harrisburg, PA 17120
+  voice: 717-787-6063
+- classification: district
+  address: Westmoreland Crossroads Plaza 1075 S. Main St., Suite 116, Greensburg,
+    PA 15601
+  voice: 724-600-7002
+links:
+- url: https://senatorward.com/
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1188
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.palegis.us/senate/members/bio/1188/sen-k-ward
+other_names:
+- name: K. Ward
+- name: K. WARD
+- name: K.L. Ward
+- name: Kim L. Ward
+- name: Ward, K.
+- name: WARD, K.
+ids:
+  twitter: SenatorKimWard
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000043
+sources:
+- url: https://ballotpedia.org/Kim_Ward
+- url: https://en.wikipedia.org/wiki/Kim_Ward
+- url: https://justfacts.votesmart.org/candidate/biography/108241/kim-ward
+- url: https://senatorward.com
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=S&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1188
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.linkedin.com/in/kim-ward-1a348618
+- url: https://www.palegis.us/senate/members/bio/1188/sen-k-ward
+extras:
+  website: http://senatorward.com
+  Education:
+  - Community College of Allegheny County; University of Pittsburgh; and Middle Tennessee
+    State University

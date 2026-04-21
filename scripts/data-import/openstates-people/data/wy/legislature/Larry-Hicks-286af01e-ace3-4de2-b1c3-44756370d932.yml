@@ -1,0 +1,89 @@
+id: ocd-person/286af01e-ace3-4de2-b1c3-44756370d932
+name: Larry Hicks
+given_name: Larry
+family_name: Hicks
+birth_date: 1958-12-30
+gender: Male
+email: larry.hicks@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-HicksLarry.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '11'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+  voice: 307-777-7881
+- classification: district-mail
+  address: P.O. Box 413, Baggs, WY 82321
+  voice: 307-383-7192
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/S/1963
+- url: https://www.wyoleg.gov/Legislators/2025/S/1963
+- url: https://wyoleg.gov/Legislators/2019/R/1963
+- url: https://wyoleg.gov/Legislators/2021/R/1963
+other_names:
+- name: Hicks, L
+- name: Hicks, L.
+- name: L. Hicks
+- name: L.S. Hicks
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000015
+sources:
+- url: https://ballotpedia.org/Larry_S._Hicks_(Wyoming)
+- url: https://en.wikipedia.org/wiki/Larry_S._Hicks
+- url: https://justfacts.votesmart.org/candidate/52685/larry-hicks
+- url: https://www.wyoleg.gov/Legislators/2023/S/1963
+- url: https://www.wyoleg.gov/Legislators/2025/S/1963
+- url: https://wyoleg.gov/Legislators/2019/R/1963
+- url: https://wyoleg.gov/Legislators/2021/R/1963
+- url: https://wyoleg.gov/LsoService/api/legislator/1963
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+extras:
+  county: Carbon, Sweetwater Counties
+  education:
+  - schoolName: Northwest Community College
+    gradYear: ''
+    degree: ''
+  - schoolName: University of Wyoming
+    gradYear: '1983'
+    degree: BS-Crop Science
+  - schoolName: Montana State University
+    gradYear: '1986'
+    degree: MS-Agronomy
+  - schoolName: University of Wyoming
+    gradYear: ''
+    degree: Course work complete PhD Agronomy
+  title: Majority Floor Leader
+  religion: Christian
+  spouse name: Roxane "ROX" Hicks
+  birth place: Powell, WY
+  occupation: Natural Resources Manager
+  leadership:
+  - startYear: '2023'
+    endYear: '2024'
+    position: 'Senate Majority Floor Leader                      '
+    currentLeader: true
+  - startYear: '2021'
+    endYear: '2022'
+    position: 'Senate Vice President                             '
+    currentLeader: false
+  organizations:
+  - orgname: Family Farm Alliance, Advisory Board
+  - orgname: Savery-Little Snake Water Conservancy Board
+  - orgname: West Side Canal Co
+  - orgname: River of Grace Bible Church
+  - orgname: Wyo Wild Sheep Foundation
+  - orgname: NRA, RMEF, DU, BOW, P&Y
+  - orgname: MFT Horse Breed Assn
+  senate years: 'Senate: 2011-Present'
+  prior service:
+  - chamber: Senate
+    startYear: 2011
+    endYear: Present
+    district: ' District 11, '

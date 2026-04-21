@@ -1,0 +1,20 @@
+id: ocd-person/00fa34b1-e219-432b-b7b6-51e699476353
+name: Greg Childers
+given_name: Greg
+family_name: Childers
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ok/government
+  district: '43'
+links:
+- url: http://www.oksenate.gov/Senators/directory.xls
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OKL000151
+sources:
+- url: http://www.oksenate.gov/Senators/directory.xls
+- url: http://www.oksenate.gov/Senators/biographies/Childers_bio.html

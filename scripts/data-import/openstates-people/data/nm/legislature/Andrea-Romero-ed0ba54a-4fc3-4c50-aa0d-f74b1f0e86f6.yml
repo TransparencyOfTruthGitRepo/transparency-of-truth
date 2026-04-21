@@ -1,0 +1,51 @@
+id: ocd-person/ed0ba54a-4fc3-4c50-aa0d-f74b1f0e86f6
+name: Andrea Romero
+given_name: Andrea
+family_name: Romero
+gender: Female
+email: andrea@andrearomero.com
+image: https://www.nmlegis.gov/Images/Legislators/House/HROAN.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '46'
+offices:
+- classification: capitol
+  address: State Capitol Room 312A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4344
+- classification: district-mail
+  address: P.O. Box 32963, Santa Fe, NM 87594
+  voice: 505-490-6155
+links:
+- url: https://www.linkedin.com/in/andreadromero/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HROAN
+  note: homepage
+other_names:
+- name: A. Romero
+- name: A.D. Romero
+- name: Andrea D. Romero
+- name: Romero, A.
+- name: Romero, Andrea
+- name: Romero, G.A
+- name: Romero, G.A.
+- name: Romero, GA
+ids:
+  twitter: aromero_nm
+  instagram: andrearomero_nm46
+  facebook: andrearomeronm46
+sources:
+- url: https://ballotpedia.org/Andrea_Romero
+- url: https://en.wikipedia.org/wiki/Andrea_Romero
+- url: https://justfacts.votesmart.org/candidate/biography/180803/andrea-romero
+- url: https://www.linkedin.com/in/andreadromero
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HROAN
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Santa Fe
+  service: Representative since 2019
+  occupation: Entrepreneur

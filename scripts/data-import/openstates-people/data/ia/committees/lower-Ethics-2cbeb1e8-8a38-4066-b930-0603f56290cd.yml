@@ -1,0 +1,37 @@
+id: ocd-organization/2cbeb1e8-8a38-4066-b930-0603f56290cd
+jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+classification: committee
+name: Ethics
+chamber: lower
+sources:
+- url: https://www.legis.iowa.gov/committees
+  note: Committee list page
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=308
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=308
+links:
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=308
+  note: homepage
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=308
+members:
+- name: Bill Gustoff
+  role: chair
+  person_id: ocd-person/7ebd4346-a560-458d-b010-3ddd82d1cf38
+- name: Craig Johnson
+  role: vice chair
+  person_id: ocd-person/63ec798f-401b-4512-9f56-b162eb96bfe9
+- name: Ross Wilburn
+  role: ranking member
+  person_id: ocd-person/068a7290-ab67-4ff5-abe5-8e23a7715097
+- name: Eric Gjerde
+  role: member
+  person_id: ocd-person/8e424b53-9531-4b76-bd44-a8008f34b539
+- name: Henry Stone
+  role: member
+  person_id: ocd-person/21405c5b-96dc-4c28-9b69-59c2cf00e9a5
+- name: Monica Kurth
+  role: member
+  person_id: ocd-person/c746f92f-f2d1-4dd9-aa76-f056fe026c32
+other_names:
+- name: House Committee on Ethics
+- name: House Ethics
+- name: House Ethics Committee

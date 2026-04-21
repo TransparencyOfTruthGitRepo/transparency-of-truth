@@ -1,0 +1,33 @@
+id: ocd-person/ac2991dd-302d-430f-8878-0fbd393a5909
+name: Kevin Brown
+given_name: Kevin
+family_name: Brown
+gender: Male
+email: kevin.brown@cga.ct.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '56'
+offices:
+- classification: capitol
+  address: Room 4026, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://www.housedems.ct.gov/BrownK
+other_names:
+- name: Brown, K.
+- name: K. Brown
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Kevin_Brown_(Connecticut)
+- url: https://en.wikipedia.org/wiki/Kevin_Brown_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/208596/kevin-brown
+- url: https://www.housedems.ct.gov/BrownK
+extras:
+  gender: Male
+  committees: Education; Housing; Internship
+  committee codes: ;ED;HSG;ISC;
+  prison: '0'

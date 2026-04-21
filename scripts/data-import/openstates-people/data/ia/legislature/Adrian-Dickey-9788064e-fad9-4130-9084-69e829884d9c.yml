@@ -1,0 +1,44 @@
+id: ocd-person/9788064e-fad9-4130-9084-69e829884d9c
+name: Adrian Dickey
+given_name: Adrian
+family_name: Dickey
+birth_date: 1973-10-23
+gender: Male
+email: adrian.dickey@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=31094
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '44'
+- start_date: 2021-02-01
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '41'
+offices:
+- classification: capitol
+  address: 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3371
+links:
+- url: https://iowasenaterepublicans.com/senators/adrian-dickey/
+- url: https://www.iowasenaterepublicans.com/senators/adrian-dickey/
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=31094
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=31094
+other_names:
+- name: A. Dickey
+- name: A.J. Dickey
+- name: Dickey, A.
+sources:
+- url: https://ballotpedia.org/Adrian_Dickey
+- url: https://en.wikipedia.org/wiki/Adrian_Dickey
+- url: https://iowasenaterepublicans.com/senators/adrian-dickey
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=31094
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=31094
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=31094
+- url: https://www.legis.iowa.gov/legislators/senate
+- url: https://www.linkedin.com/in/adrian-dickey-20030a49
+extras:
+  occupation: President of Dickey Transport, Volunteer Fire Fighter

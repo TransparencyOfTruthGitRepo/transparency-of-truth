@@ -1,0 +1,68 @@
+id: ocd-organization/49233d71-d8ee-4f6d-afd9-c3521cb58cdf
+jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+classification: committee
+name: Education
+chamber: legislature
+sources:
+- url: https://web.wyoleg.gov/LsoService/api/committeeDetail/2023/J04
+  note: Committee JSON from wyoleg.gov site
+- url: https://web.wyoleg.gov/LsoService/api/committeeDetail/2024/J04
+  note: Committee JSON from wyoleg.gov site
+- url: https://www.wyoleg.gov/Committees/2023/J04
+- url: https://www.wyoleg.gov/Committees/2024/J04
+- url: https://www.wyoleg.gov/Committees/2025/J04
+- url: https://www.wyoleg.gov/Committees/2026/J04
+links:
+- url: https://www.wyoleg.gov/Committees/2023/J04
+  note: homepage
+- url: https://www.wyoleg.gov/Committees/2024/J04
+  note: homepage
+- url: https://www.wyoleg.gov/Committees/2025/J04
+- url: https://www.wyoleg.gov/Committees/2026/J04
+members:
+- name: Ocean Andrew
+  role: chair
+  person_id: ocd-person/d811f813-1093-449a-a4dc-5d02c704ee49
+- name: Wendy Schuler
+  role: chair
+  person_id: ocd-person/6dd13000-c423-47d8-9fbb-3cbcf730d7fe
+- name: Charles Scott
+  role: member
+  person_id: ocd-person/a3ddc445-efa1-4c0c-809a-d21fc383fa59
+- name: Chris Rothfuss
+  role: member
+  person_id: ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e
+- name: Daniel Singh
+  role: member
+  person_id: ocd-person/0a177e23-5f49-46dd-bc32-b2403ea7124c
+- name: Evie Brennan
+  role: member
+  person_id: ocd-person/7f287d7d-8f05-4116-8bcf-33174ecf1e9c
+- name: J.D. Williams
+  role: member
+  person_id: ocd-person/fc63a597-e32a-4c94-a2f2-7420f7836aeb
+- name: Jared Olsen
+  role: member
+  person_id: ocd-person/63e25ff3-1832-45c8-a9af-669bb74a3aa4
+- name: Joel Guggenmos
+  role: member
+  person_id: ocd-person/39076643-ca3a-47d2-888e-d944eb4f5de9
+- name: Laurie Bratten
+  role: member
+  person_id: ocd-person/5eabff67-a57e-4fd5-b62c-3072d0374d56
+- name: Martha Lawley
+  role: member
+  person_id: ocd-person/c954b74f-1933-4be4-801d-cc93f7f37ac0
+- name: McKay Erickson
+  role: member
+  person_id: ocd-person/f3fe63a7-b938-41c4-b2f5-b4069949a163
+- name: Tom Kelly
+  role: member
+  person_id: ocd-person/312edf5d-1dad-475a-b3bd-4b58f5f98ad4
+- name: Tomi Strock
+  role: member
+  person_id: ocd-person/d1ac363d-41ed-4c2c-a661-6e400d0b7d57
+other_names:
+- name: Joint Committee on Education
+- name: Joint Education
+- name: Joint Education Committee

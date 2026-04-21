@@ -1,0 +1,58 @@
+id: ocd-person/60bb96c4-f20c-4918-b88b-d7857341e5f4
+name: Bo Hatchett
+given_name: Bo
+family_name: Hatchett
+birth_date: 1989-10-25
+gender: Male
+email: bo.hatchett@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/hatchett-bo-4984.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '50'
+offices:
+- classification: capitol
+  address: State Capitol Room 109, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-7454
+- classification: district-mail
+  address: P.O. Box 2706, Clarkesville, GA 30523
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/4984
+- url: https://www.legis.ga.gov/members/senate/4984?session=1029
+- url: https://www.legis.ga.gov/members/senate/4984?session=1031
+  note: HTML member detail page
+- url: https://www.legis.ga.gov/members/senate/4984?session=1032
+other_names:
+- name: B. Hatchett
+- name: Bo Hatchett
+- name: HATCHETT, 50TH
+- name: Hatchett, B.
+- name: T. Hatchett
+- name: T.L. Hatchett
+- name: Thomas Hatchett
+sources:
+- url: https://ballotpedia.org/Bo_Hatchett
+- url: https://en.wikipedia.org/wiki/Bo_Hatchett
+- url: https://justfacts.votesmart.org/candidate/biography/190329/bo-hatchett
+- url: https://www.legis.ga.gov/api/members/detail/4984?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4984?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/4984
+- url: https://www.legis.ga.gov/members/senate/4984?session=1029
+- url: https://www.legis.ga.gov/members/senate/4984?session=1031
+- url: https://www.linkedin.com/in/thomas-bo-hatchett-66884173
+extras:
+  residence: Cornelia
+  city: Cornelia
+  georgia_id: 4984
+  staff: Brenita Simmons
+  staff email: brenita.simmons@senate.ga.gov
+  title: Governor's Floor Leader

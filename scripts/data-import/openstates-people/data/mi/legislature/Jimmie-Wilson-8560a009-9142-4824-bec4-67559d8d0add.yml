@@ -1,0 +1,36 @@
+id: ocd-person/8560a009-9142-4824-bec4-67559d8d0add
+name: Jimmie Wilson
+given_name: Jimmie
+family_name: Wilson
+birth_date: 1982-10-27
+gender: Male
+email: jimmiewilson@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '32'
+offices:
+- classification: capitol
+  address: Room N-796, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-8931
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/Jimmie-Wilson-Jr/
+other_names:
+- name: J. Wilson
+- name: Jimmie Wilson Jr.
+- name: Wilson, J.
+sources:
+- url: https://ballotpedia.org/Jimmie_Wilson_Jr._(Michigan)
+- url: https://housedems.com/Jimmie-Wilson-Jr
+- url: https://housedems.com/Jimmie-Wilson-Jr/
+  note: Member Details Page
+- url: https://housedems.com/jimmie-wilson-jr/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/jimmie-wilson-jr-988765120

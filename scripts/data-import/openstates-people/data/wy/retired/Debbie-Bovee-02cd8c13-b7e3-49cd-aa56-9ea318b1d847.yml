@@ -1,0 +1,28 @@
+id: ocd-person/02cd8c13-b7e3-49cd-aa56-9ea318b1d847
+name: Debbie Bovee
+given_name: Debbie
+family_name: Bovee
+birth_date: 1954-02-26
+image: http://wyoleg.gov/LegislatorSummary/Photos/BoveeDH36.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2019-01-06'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '36'
+links:
+- url: http://wyoleg.gov/Legislators/2018/D/2041
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000141
+sources:
+- url: http://wyoleg.gov/Legislators/2018/D/2041
+extras:
+  county: Natrona
+  number_children: '2'
+  occupation: null
+  place_of_birth: Laramie, Wyoming
+  religion: Methodist
+  spouse_given_name: null
+  wy_leg_id: 2041

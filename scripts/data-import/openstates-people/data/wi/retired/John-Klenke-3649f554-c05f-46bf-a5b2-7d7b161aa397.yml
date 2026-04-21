@@ -1,0 +1,20 @@
+id: ocd-person/3649f554-c05f-46bf-a5b2-7d7b161aa397
+name: John Klenke
+given_name: John
+family_name: Klenke
+image: http://legis.wisconsin.gov/sitecollectionimages/2013/asm88.jpeg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '88'
+links:
+- url: http://legis.wisconsin.gov/Pages/leg-info.aspx?d=88&h=A
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000463
+sources:
+- url: http://legis.wisconsin.gov/Pages/leg-info.aspx?d=88&h=A

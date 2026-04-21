@@ -1,0 +1,68 @@
+id: ocd-person/1bb8d14b-9d5d-4edd-8c93-37e95991a8e4
+name: Debra Bazemore
+given_name: Debra
+family_name: Bazemore
+birth_date: 1957-12-30
+gender: Female
+email: debra.bazemore@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/bazemore-debra-4890.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '69'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '63'
+offices:
+- classification: capitol
+  address: Room 507-D, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0202
+- classification: district
+  address: 7042 Galloway Pointe, Riverdale, GA 30296
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4890&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4890
+- url: https://www.legis.ga.gov/members/house/4890?session=1029
+- url: https://www.legis.ga.gov/members/house/4890?session=1031
+  note: HTML member detail page
+other_names:
+- name: Bazemore
+- name: BAZEMORE, 69TH
+- name: Bazemore, D.
+- name: D. Bazemore
+- name: Debra Bazemore
+- name: Debra Jones-Bazemore
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000447
+sources:
+- url: https://ballotpedia.org/Debra_Bazemore
+- url: https://en.wikipedia.org/wiki/Debra_Bazemore
+- url: https://justfacts.votesmart.org/candidate/biography/168263/debra-bazemore
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4890&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4890?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4890?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4890
+- url: https://www.legis.ga.gov/members/house/4890?session=1029
+- url: https://www.linkedin.com/in/debra-jones-bazemore-9b05b13b
+extras:
+  residence: South Fulton
+  city: South Fulton
+  georgia_id: 4890
+  birthday: December 30
+  occupation: Retired
+  press: https://house-press.com/representative/Debra-Bazemore
+  staff: a href="
+  staff email: ''

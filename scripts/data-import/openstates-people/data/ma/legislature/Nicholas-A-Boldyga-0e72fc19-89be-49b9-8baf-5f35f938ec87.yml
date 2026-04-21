@@ -1,0 +1,49 @@
+id: ocd-person/0e72fc19-89be-49b9-8baf-5f35f938ec87
+name: Nick Boldyga
+given_name: Nick
+family_name: Boldyga
+gender: Male
+email: nicholas.boldyga@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/NAG1.jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 3rd Hampden
+  start_date: 2011-01-01
+offices:
+- classification: capitol
+  address: Room 167, State House 24 Beacon St., Boston, MA 02133
+  voice: 413-274-8084
+- classification: district-mail
+  address: P.O. Box 1495, Southwick, MA 01077
+  voice: 413-274-8084
+links:
+- url: https://malegislature.gov/Legislators/Profile/NAG1
+other_names:
+- name: Boldyga, N.
+- name: N. Boldyga
+- name: N.A. Boldyga
+- name: Nicholas A. Boldyga
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000463
+- scheme: legacy_openstates
+  identifier: MAL000056
+- scheme: openstates
+  identifier: ocd-person/e9b3f573-75cb-42ef-bcf5-f25304499668
+sources:
+- url: https://ballotpedia.org/Nicholas_Boldyga
+- url: https://en.wikipedia.org/wiki/Nicholas_Boldyga
+- url: https://justfacts.votesmart.org/candidate/biography/110813/nicholas-boldyga
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/NAG1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/NAG1
+- url: https://malegislature.gov/Legislators/Profile/NAG1
+- url: https://www.linkedin.com/in/repnickboldyga
+extras:
+  member code: NAG1

@@ -1,0 +1,49 @@
+id: ocd-person/b560f232-dfa2-49f7-81c8-42000cc9027b
+name: Buck Newton
+given_name: Buck
+family_name: Newton
+birth_date: 1968-07-05
+gender: Male
+email: buck.newton@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/S/443/Low
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '4'
+- start_date: 2011-01-05
+  end_date: 2016-12-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '11'
+offices:
+- classification: capitol
+  address: Room 308, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-733-5878
+links:
+- url: https://www.ncga.state.nc.us/gascripts/members/viewMember.pl?sChamber=Senate&nUserID=362
+- url: https://www.ncleg.gov/Members/Biography/S/443
+- url: https://www.ncleg.gov/Members/Committees/S/443
+- url: https://www.ncleg.gov/Members/IntroducedBills/S/443
+- url: https://www.ncleg.gov/Members/Votes/S/443
+other_names:
+- name: B. Newton
+- name: E. S. Newton
+- name: E.S. Newton
+- name: Newton, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000191
+sources:
+- url: https://ballotpedia.org/Buck_Newton
+- url: https://en.wikipedia.org/wiki/Buck_Newton
+- url: https://www.linkedin.com/in/buck-newton-4042062a
+- url: https://www.ncga.state.nc.us/gascripts/members/viewMember.pl?sChamber=Senate&nUserID=362
+- url: https://www.ncleg.gov/Members/Biography/S/443
+- url: https://www.ncleg.gov/Members/MemberTable/S
+extras:
+  terms in senate: 4 (0 in House)
+  represented counties: Greene, Wayne, Wilson

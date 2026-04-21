@@ -1,0 +1,31 @@
+id: ocd-person/f6826933-02c6-40ff-9df9-b9e82c54febc
+name: Cheryl Pasteur
+given_name: Cheryl
+family_name: Pasteur
+gender: Female
+email: cheryl.pasteur@house.maryland.gov
+image: https://mgaleg.maryland.gov/2025RS/images/pasteur01.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 11A
+offices:
+- classification: capitol
+  address: Room 306, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3448
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/pasteur01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18388.html
+other_names:
+- name: C. Pasteur
+- name: C.E. Pasteur
+- name: Cheryl E. Pasteur
+- name: Pasteur, C.
+sources:
+- url: https://ballotpedia.org/Cheryl_Pasteur
+- url: https://en.wikipedia.org/wiki/Cheryl_Pasteur
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/pasteur01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18388.html

@@ -1,0 +1,46 @@
+id: ocd-person/3b21ad36-c0bc-4341-9f55-c4529affc7f5
+name: Cheryl Kagan
+given_name: Cheryl
+family_name: Kagan
+birth_date: 1961-07-02
+gender: Female
+email: cheryl.kagan@senate.maryland.gov
+image: http://mgaleg.maryland.gov/2016RS/images/kagan01.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '17'
+- start_date: 1995-01-11
+  end_date: 2003-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '17'
+offices:
+- classification: capitol
+  address: Room 2 West, Miller Senate Office Building 11 Bladen St., Annapolis, MD
+    21401
+  voice: 410-841-3134
+  fax: 410-841-3665
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/kagan01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=kagan01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa12251.html
+other_names:
+- name: C. Kagan
+- name: C.C. Kagan
+- name: Cheryl C. Kagan
+- name: Kagan, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000624
+sources:
+- url: https://ballotpedia.org/Cheryl_Kagan
+- url: https://en.wikipedia.org/wiki/Cheryl_Kagan
+- url: https://justfacts.votesmart.org/candidate/biography/6171/cheryl-kagan
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/kagan01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=kagan01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa12251.html
+- url: https://www.linkedin.com/in/cheryl-c-kagan-0564254

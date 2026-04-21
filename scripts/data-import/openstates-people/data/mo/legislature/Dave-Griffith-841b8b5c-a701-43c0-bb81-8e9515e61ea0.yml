@@ -1,0 +1,41 @@
+id: ocd-person/841b8b5c-a701-43c0-bb81-8e9515e61ea0
+name: Dave Griffith
+given_name: Dave
+family_name: Griffith
+gender: Male
+email: dave.griffith@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2052
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '60'
+offices:
+- classification: capitol
+  address: Room 414, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-2412
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=060
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=060
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=060
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=60
+other_names:
+- name: D. Griffith
+- name: D.E. Griffith
+- name: David Griffith
+- name: Griffith, D.
+- name: Griffith, Dave
+sources:
+- url: https://ballotpedia.org/Dave_Griffith
+- url: https://en.wikipedia.org/wiki/Dave_Griffith
+- url: https://house.mo.gov/MemberDetails.aspx?district=060
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=060
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=060
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://justfacts.votesmart.org/candidate/biography/132545/dave-griffith
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=60
+- url: https://www.linkedin.com/in/griffith-david-72b5976b
+extras:
+  hometown: Jefferson City

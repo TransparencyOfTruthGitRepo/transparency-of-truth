@@ -1,0 +1,52 @@
+id: ocd-person/88428a5a-4af6-40b8-a4ff-c2ea283b758f
+name: Dan Veilleux
+given_name: Dan
+family_name: Veilleux
+gender: Male
+email: daniel.veilleux@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/93869.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 34
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 34
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 22
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9905
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9905
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9905
+  note: member detail page
+other_names:
+- name: D. Veilleux
+- name: D.T. Veilleux
+- name: Daniel T. Veilleux
+- name: Veilleux, D.
+sources:
+- url: https://ballotpedia.org/Daniel_Veilleux
+- url: https://en.wikipedia.org/wiki/Daniel_Veilleux
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9905
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9905
+- url: https://justfacts.votesmart.org/candidate/biography/185563/dan-veilleux
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9905
+- url: https://www.linkedin.com/in/daniel-veilleux-mpa-a668b08
+extras:
+  county: Hillsborough
+  elected status: Incumbent
+  gender code: M

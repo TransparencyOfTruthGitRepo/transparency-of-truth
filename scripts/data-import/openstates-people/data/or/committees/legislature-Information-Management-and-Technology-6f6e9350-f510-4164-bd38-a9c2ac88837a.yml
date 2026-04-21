@@ -1,0 +1,45 @@
+id: ocd-organization/6f6e9350-f510-4164-bd38-a9c2ac88837a
+jurisdiction: ocd-jurisdiction/country:us/state:or/government
+classification: committee
+name: Information Management and Technology
+chamber: legislature
+sources:
+- url: https://olis.oregonlegislature.gov/liz/2023R1/Committees/JLCIMT/CommitteeMembers
+  note: Committee details page
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/JLCIMT/CommitteeMembers
+  note: Committee details page
+- url: https://olis.oregonlegislature.gov/liz/2025I1/Committees/JLCIMT/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025R1/Committees/JLCIMT/Overview
+- url: https://olis.oregonlegislature.gov/liz/2026R1/Committees/JLCIMT/Overview
+links:
+- url: https://olis.oregonlegislature.gov/liz/2023R1/Committees/JLCIMT/CommitteeMembers
+  note: homepage
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/JLCIMT/CommitteeMembers
+  note: homepage
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/JLCIMT/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025I1/Committees/JLCIMT/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025R1/Committees/JLCIMT/Overview
+- url: https://olis.oregonlegislature.gov/liz/2026R1/Committees/JLCIMT/Overview
+members:
+- name: Khanh Pham
+  role: co-chair
+  person_id: ocd-person/3b7edee5-fb20-48d2-98db-541721e24e65
+- name: Nancy Nathanson
+  role: co-chair
+  person_id: ocd-person/dd5774a0-d6fe-44cc-86b3-b197225666eb
+- name: Christine Drazan
+  role: member
+  person_id: ocd-person/9c7dcacb-50b9-4338-924b-cf6d333dc43a
+- name: Daniel Nguyen
+  role: member
+  person_id: ocd-person/4b30682c-7833-4375-815b-2412cb9c61c7
+- name: Darcey Edwards
+  role: member
+  person_id: ocd-person/e8deb6b6-9cd0-498d-9422-81d731972da5
+- name: Mark Meek
+  role: member
+  person_id: ocd-person/d6379fd3-d283-4c6e-864b-7dca170b593d
+other_names:
+- name: Joint Committee on Information Management and Technology
+- name: Joint Information Management and Technology
+- name: Joint Information Management and Technology Committee

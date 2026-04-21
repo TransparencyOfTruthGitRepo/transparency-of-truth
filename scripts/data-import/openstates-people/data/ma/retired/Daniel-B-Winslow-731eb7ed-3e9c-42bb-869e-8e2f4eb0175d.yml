@@ -1,0 +1,21 @@
+id: ocd-person/731eb7ed-3e9c-42bb-869e-8e2f4eb0175d
+name: Daniel B. Winslow
+given_name: Daniel
+family_name: Winslow
+middle_name: B.
+image: https://malegislature.gov/Images/MemberProfile/Web/dwinslow.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 9th Norfolk
+links:
+- url: http://www.malegislature.gov/People/Profile/DBW1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000197
+sources:
+- url: http://www.malegislature.gov/People/Profile/DBW1

@@ -1,0 +1,42 @@
+id: ocd-person/74c1210d-fb56-4522-8d3a-0a2bb08c972b
+name: Dontavius Jarrells
+given_name: Dontavius
+family_name: Jarrells
+birth_date: 1988-04-04
+gender: Male
+email: rep01@ohiohouse.gov
+image: https://www.legislature.ohio.gov/assets/people/dontavius-l-jarrells/headshots/thumbnails/medium/dontavius-l-jarrells-january-2021-headshot_medium.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '1'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '25'
+offices:
+- classification: capitol
+  address: 77 S. High St. 14th Floor, Columbus, OH 43215
+  voice: 614-466-5343
+links:
+- url: https://ohiohouse.gov/dontavius-l-jarrells
+- url: https://ohiohouse.gov/members/dontavius-l-jarrells
+other_names:
+- name: D. Jarrells
+- name: D.L. Jarrells
+- name: Dontavius Jarrells
+- name: Dontavius L. Jarrells
+- name: Jarrells, D.
+sources:
+- url: https://ballotpedia.org/Dontavius_Jarrells
+- url: https://en.wikipedia.org/wiki/Dontavius_Jarrells
+- url: https://justfacts.votesmart.org/candidate/166992/dontavius-jarrells
+- url: https://ohiohouse.gov/dontavius-l-jarrells
+- url: https://ohiohouse.gov/members/dontavius-l-jarrells
+  note: member details page
+- url: https://www.legislature.ohio.gov/legislators/house-directory
+  note: member list page
+- url: https://www.linkedin.com/in/iamDontavius

@@ -1,0 +1,53 @@
+id: ocd-person/f7a82cd3-d2c6-4f57-b0d0-d38322d1ad54
+name: Roy Cooper
+given_name: Roy
+family_name: Cooper
+birth_date: 1945-03-05
+gender: Male
+email: roy.cooper@wvhouse.gov
+image: https://www.wvlegislature.gov/images/members/2024/house/cooper_roy.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '40'
+- start_date: 2012-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '40'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '28'
+offices:
+- classification: capitol
+  address: State Capitol Room 203E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3119
+- classification: district
+  address: 31 Pam's Way, Wayside, WV 24985
+  voice: 304-466-5523
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Cooper
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Cooper
+  note: homepage
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Cooper
+other_names:
+- name: Cooper, R
+- name: Cooper, R.
+- name: R. Cooper
+- name: R.G. Cooper
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000172
+sources:
+- url: https://ballotpedia.org/Roy_G._Cooper
+- url: https://en.wikipedia.org/wiki/Roy_Cooper_(West_Virginia_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/117639/roy-cooper
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Cooper
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Cooper
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Cooper
+- url: https://www.wvlegislature.gov/House/roster.cfm

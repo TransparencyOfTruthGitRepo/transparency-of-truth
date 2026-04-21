@@ -1,0 +1,30 @@
+id: ocd-person/0a74c581-eb5c-4935-b5c3-f4a77e6dcd31
+name: Mike Chaisson
+given_name: Mike
+family_name: Chaisson
+gender: Male
+email: michael.chaisson@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/MSC1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 1st Bristol
+offices:
+- classification: capitol
+  address: Room 540, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2090
+links:
+- url: https://malegislature.gov/Legislators/Profile/MSC1
+other_names:
+- name: Chaisson, M.
+- name: M. Chaisson
+- name: Michael S. Chaisson
+sources:
+- url: https://ballotpedia.org/Michael_Chaisson
+- url: https://malegislature.gov/Legislators/Profile/MSC1
+- url: https://www.linkedin.com/in/michael-chaisson-1720611b9
+extras:
+  member code: MSC1

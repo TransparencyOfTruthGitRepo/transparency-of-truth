@@ -1,0 +1,58 @@
+id: ocd-person/be05ace3-ea73-4f3f-85ae-c5ed313d4cbe
+name: Ginny Ehrhart
+given_name: Ginny
+family_name: Ehrhart
+gender: Female
+email: ginny.ehrhart@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/ehrhart-ginny-4937.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '36'
+offices:
+- classification: capitol
+  address: State Capitol Room 415, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-5024
+- classification: district-mail
+  address: P.O. Box 1206, Marietta, GA 30061
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4937&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4937
+- url: https://www.legis.ga.gov/members/house/4937?session=1029
+- url: https://www.legis.ga.gov/members/house/4937?session=1031
+  note: HTML member detail page
+other_names:
+- name: EHRHART, 36TH
+- name: Ehrhart, G.
+- name: G. Ehrhart
+sources:
+- url: https://ballotpedia.org/Ginny_Ehrhart
+- url: https://en.wikipedia.org/wiki/Ginny_Ehrhart
+- url: https://justfacts.votesmart.org/candidate/biography/178740/ginny-ehrhart
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4937&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4937?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4937?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4937
+- url: https://www.legis.ga.gov/members/house/4937?session=1029
+- url: https://www.linkedin.com/in/ginny-ehrhart-a2563427a
+extras:
+  residence: Marietta
+  city: Marietta
+  georgia_id: 4937
+  birthday: December 10
+  occupation: Business Owner, Author, Speaker, Radio Host
+  press: https://house-press.com/representative/Ginny-Ehrhart
+  spouse: Earl
+  staff: Deborah Baselj - Administrative Assistant
+  staff email: deborah.baselj@house.ga.gov
+  title: Majority Caucus Secretary/Treasurer

@@ -1,0 +1,33 @@
+id: ocd-person/f9dbe591-5c2d-4a25-836a-ae05863b40ff
+name: Liz Lee
+given_name: Liz
+family_name: Lee
+gender: Female
+email: rep.liz.lee@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/67A.gif?v=112221
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 67A
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-4277
+links:
+- url: https://www.house.mn.gov/members/profile/15576
+other_names:
+- name: K.E. Lee
+- name: Kaozouapa Elizabeth Lee
+- name: L. Lee
+- name: Lee, K.
+- name: Lee, L.
+sources:
+- url: https://ballotpedia.org/Liz_Lee
+- url: https://en.wikipedia.org/wiki/Liz_Lee_(politician)
+- url: https://justfacts.votesmart.org/candidate/208087/liz-lee
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15576
+- url: https://www.linkedin.com/in/kaozouapalee

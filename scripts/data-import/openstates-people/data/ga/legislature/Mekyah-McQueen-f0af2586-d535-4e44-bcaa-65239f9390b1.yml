@@ -1,0 +1,34 @@
+id: ocd-person/f0af2586-d535-4e44-bcaa-65239f9390b1
+name: Mekyah McQueen
+given_name: Mekyah
+family_name: McQueen
+birth_date: 1979-03-20
+gender: Female
+email: mekyah.mcqueen@house.ga.gov
+image: https://static.wixstatic.com/media/a3388b_311f34c52195445d89b52eadd1384ad8~mv2.png/v1/fill/w_640,h_838,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/a3388b_311f34c52195445d89b52eadd1384ad8~mv2.png
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '61'
+offices:
+- classification: capitol
+  address: Room 404-B, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0109
+- classification: district
+  address: 2451 Cumberland Parkway Suite 3359, Atlanta, GA 30339
+links:
+- url: https://www.legis.ga.gov/members/house/5070
+other_names:
+- name: M. McQueen
+- name: MCQUEEN, 61ST
+- name: McQueen, M.
+sources:
+- url: https://ballotpedia.org/Mekyah_McQueen
+- url: https://en.wikipedia.org/wiki/Mekyah_McQueen
+- url: https://justfacts.votesmart.org/candidate/biography/215237/mekyah-mcqueen
+- url: https://www.legis.ga.gov/members/house/5070
+- url: https://www.linkedin.com/in/mekyahmcqueen

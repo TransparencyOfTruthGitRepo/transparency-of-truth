@@ -1,0 +1,41 @@
+id: ocd-person/0388a9a8-8de3-4620-8c44-e887e0f1cecd
+name: Paul Rosino
+given_name: Paul
+family_name: Rosino
+birth_date: 1962-10-02
+gender: Male
+email: rosino@oksenate.gov
+image: https://oksenate.gov/sites/default/files/Rosino%2C%20Paul%20Flags%202022.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-11-22
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ok/government
+  district: '45'
+offices:
+- classification: capitol
+  address: Room 232, 2300 N. Lincoln Blvd., Oklahoma City, OK 73105
+  voice: 405-521-5618
+links:
+- url: https://oksenate.gov/contact-senator?sid=1902
+  note: Contact Form
+- url: https://oksenate.gov/Senators/biographies/rosino_bio.aspx
+- url: https://oksenate.gov/senators/paul-rosino
+other_names:
+- name: P. Rosino
+- name: P.J. Rosino
+- name: Rosino, P.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OKL000325
+sources:
+- url: https://ballotpedia.org/Paul_Rosino
+- url: https://en.wikipedia.org/wiki/Paul_Rosino
+- url: https://justfacts.votesmart.org/candidate/biography/176478/paul-rosino
+- url: https://oksenate.gov/Senators/biographies/rosino_bio.aspx
+- url: https://oksenate.gov/Senators/biographies/rosino_bio.html
+- url: https://oksenate.gov/senators/paul-rosino
+- url: https://www.linkedin.com/in/paul-rosino-4339846
+extras:
+  email: rosino@oksenate.gov

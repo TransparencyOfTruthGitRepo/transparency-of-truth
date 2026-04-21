@@ -1,0 +1,56 @@
+id: ocd-person/5026d19f-d4ec-47b2-b106-f318a45e8585
+name: William Lamberth
+given_name: William
+family_name: Lamberth
+birth_date: 1977-12-05
+gender: Male
+email: rep.william.lamberth@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h44.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '44'
+offices:
+- classification: capitol
+  address: Room 602, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-1980
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H44
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h44.html
+other_names:
+- name: Lamberth, W
+- name: Lamberth, W.
+- name: W. Lamberth
+- name: W.G. Lamberth
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000213
+- scheme: legacy_openstates
+  identifier: TNL000282
+- scheme: legacy_openstates
+  identifier: TNL000387
+sources:
+- url: https://ballotpedia.org/William_Lamberth
+- url: https://en.wikipedia.org/wiki/William_Lamberth
+- url: https://justfacts.votesmart.org/candidate/138679/william-lamberth
+- url: https://tnhousegop.org/members/leader-william-lamberth
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H44
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h44.html
+extras:
+  office: 602 CHB
+  personal info:
+  - Born December 5, 1977
+  - Married, two children
+  - Attorney
+  - Baptist
+  - Portland High School
+  - B. A., University of TN, Knoxville
+  - J. D., College of William and Mary Law School

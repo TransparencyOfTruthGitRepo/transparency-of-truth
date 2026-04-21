@@ -1,0 +1,36 @@
+id: ocd-person/c2e0fa74-36df-4d34-8203-962c546442fa
+name: Mike Kirkland
+given_name: Mike
+family_name: Kirkland
+gender: Male
+email: kirklandmike75@gmail.com
+image: https://www.legislature.state.al.us/pdf/house/members/Kirkland_23.png
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '23'
+offices:
+- classification: capitol
+  address: Room 524-E, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0551
+- classification: district
+  address: 100 E. Peachtree St., Scottsboro, AL 35768
+  voice: 256-218-3090
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+other_names:
+- name: Kirkland, M.
+- name: M. Kirkland
+sources:
+- url: https://ballotpedia.org/Mike_Kirkland
+- url: https://en.wikipedia.org/wiki/Mike_Kirkland_(politician)
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/201842/mike-kirkland
+- url: https://www.linkedin.com/in/mike-kirkland-mba-44a00a45
+extras:
+  counties: Jackson County

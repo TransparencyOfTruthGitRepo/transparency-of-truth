@@ -1,0 +1,37 @@
+id: ocd-person/eee736fd-ee29-403a-9bbc-713961c734b7
+name: Marie Pinkney
+given_name: Marie
+family_name: Pinkney
+gender: Female
+email: marie.pinkney@delaware.gov
+image: https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2023/03/Senator-Pinkney.png
+party:
+- name: Democratic
+roles:
+- start_date: 2020-11-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:de/government
+  district: '13'
+offices:
+- classification: capitol
+  address: P.O. Box 1401 411 Legislative Ave., Dover, DE 19901
+  voice: 302-744-4167
+links:
+- url: https://legis.delaware.gov/AssemblyMember/151/Pinkney
+- url: https://legis.delaware.gov/LegislatorDetail?personId=24000
+  note: legislator page
+- url: https://senatedems.delaware.gov/members/senate-district-13/
+other_names:
+- name: M. Pinkney
+- name: Pinkney, M.
+sources:
+- url: https://ballotpedia.org/Marie_Pinkney
+- url: https://en.wikipedia.org/wiki/Marie_Pinkney
+- url: https://justfacts.votesmart.org/candidate/195144/marie-pinkney
+- url: https://legis.delaware.gov/AssemblyMember/151/Pinkney
+- url: https://legis.delaware.gov/json/Senate/GetSenators
+- url: https://legis.delaware.gov/LegislatorDetail?personId=24000
+- url: https://legis.delaware.gov/Senate
+  note: legislator list page
+- url: https://senatedems.delaware.gov/members/senate-district-13
+- url: https://www.linkedin.com/in/sen-marie-pinkney-lcsw-8797a41b4

@@ -1,0 +1,39 @@
+id: ocd-person/38e5e1b5-72d2-4968-be98-032e8320d475
+name: Silas Miller
+given_name: Silas
+family_name: Miller
+gender: Male
+email: silas.miller@senate.ks.gov
+image: https://media.sharethetrail.net/prod_d_1/images/silas-miller_5_sq.height-800.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-12-22
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '25'
+- start_date: 2023-01-09
+  end_date: 2025-12-22
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '86'
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_miller_silas_1/
+- url: https://www.kslegislature.gov/li/b2025_26/members/sen_miller_silas_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_miller_silas_1/
+other_names:
+- name: Miller, S.
+- name: Miller,S.
+- name: S. Miller
+sources:
+- url: https://ballotpedia.org/Silas_Miller
+- url: https://en.wikipedia.org/wiki/Silas_Miller
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_miller_silas_1
+- url: https://www.kslegislature.gov/li/b2025_26/members/sen_miller_silas_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_miller_silas_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_miller_silas_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_miller_silas_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_miller_silas_1/
+- url: https://www.linkedin.com/in/silas-miller-a79593219
+extras:
+  occupation: Insurance Broker Family First Life

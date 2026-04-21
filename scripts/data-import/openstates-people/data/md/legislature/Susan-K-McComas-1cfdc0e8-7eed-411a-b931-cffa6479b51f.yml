@@ -1,0 +1,49 @@
+id: ocd-person/1cfdc0e8-7eed-411a-b931-cffa6479b51f
+name: Susan McComas
+given_name: Susan
+family_name: McComas
+birth_date: 1951-04-03
+gender: Female
+email: susan.mccomas@house.maryland.gov
+image: http://mgaleg.maryland.gov/2016RS/images/mccomas.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 34B
+- start_date: 2003-01-08
+  end_date: 2015-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 34B
+offices:
+- classification: capitol
+  address: Room 411, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3272
+  fax: 410-841-3202
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/mccomas
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=mccomas&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa14001.html
+other_names:
+- name: McComas, S.
+- name: S. McComas
+- name: S.K. McComas
+- name: Susan K. McComas
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000323
+- scheme: legacy_openstates
+  identifier: MDL000551
+- scheme: legacy_openstates
+  identifier: MDL000641
+sources:
+- url: https://ballotpedia.org/Susan_McComas
+- url: https://en.wikipedia.org/wiki/Susan_K._McComas
+- url: https://justfacts.votesmart.org/candidate/biography/36351/susan-mccomas
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/mccomas
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=mccomas&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa14001.html
+- url: https://www.linkedin.com/in/susan-mccomas-a2361114

@@ -1,0 +1,47 @@
+id: ocd-person/a564eb5c-5c29-43ef-a40f-241efb70ef8d
+name: "Tara Luj\xE1n"
+given_name: Tara
+family_name: "Luj\xE1n"
+gender: Female
+email: tara.lujan@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HLUTA.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-07-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '48'
+offices:
+- classification: capitol
+  address: State Capitol Room 413E, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4236
+- classification: district-mail
+  address: P.O. Box 176, Santa Fe, NM 87504
+  voice: 505-267-1565
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HLUTA
+  note: homepage
+other_names:
+- name: Lujan
+- name: Lujan, T.
+- name: Lujan, Tara L.
+- name: "Luj\xE1n, T."
+- name: "Luj\xE1n, Tara"
+- name: "Luj\xE1n, Tara L."
+- name: T. Lujan
+- name: "T. Luj\xE1n"
+- name: T.L. Lujan
+- name: "T.L. Luj\xE1n"
+- name: Tara L. Lujan
+- name: "Tara Luj\xE1n"
+sources:
+- url: https://ballotpedia.org/Tara_Lujan
+- url: https://en.wikipedia.org/wiki/Tara_Lujan
+- url: https://www.linkedin.com/in/tara-lujan-142531258
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HLUTA
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Santa Fe
+  service: Representative since 2020

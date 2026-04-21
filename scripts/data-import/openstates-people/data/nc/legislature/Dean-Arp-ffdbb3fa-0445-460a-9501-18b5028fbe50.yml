@@ -1,0 +1,49 @@
+id: ocd-person/ffdbb3fa-0445-460a-9501-18b5028fbe50
+name: Dean Arp
+given_name: Dean
+family_name: Arp
+birth_date: 1966-07-07
+gender: Male
+email: dean.arp@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/640/Low
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '69'
+offices:
+- classification: capitol
+  address: Room 307A, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-715-3007
+- classification: district-mail
+  address: P.O. Box 1511, Monroe, NC 28111
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/640
+- url: https://www.ncleg.gov/Members/Committees/H/640
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/640
+- url: https://www.ncleg.gov/Members/Votes/H/640
+other_names:
+- name: Arp, D.
+- name: D. Arp
+- name: L.D. Arp
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000265
+sources:
+- url: https://ballotpedia.org/Dean_Arp
+- url: https://en.wikipedia.org/wiki/Dean_Arp
+- url: https://justfacts.votesmart.org/candidate/136300/dean-arp-jr
+- url: https://www.linkedin.com/in/dean-arp-p-e-s-e-3a36171a5
+- url: https://www.ncleg.gov/Members/Biography/H/640
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 300 N. Salisbury Street, Rm. 307A; Raleigh, NC 27603-5925
+  main phone: 704-282-0418
+  terms in senate: 6 (0 in Senate)
+  represented counties: Union
+  legislative assistant: Anne Arp
+  legislative assistant email: Anne.Arp@ncleg.gov
+  occupation: Engineer - Arp Engineering, Inc.

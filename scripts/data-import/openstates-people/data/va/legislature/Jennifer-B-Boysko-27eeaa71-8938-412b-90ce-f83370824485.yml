@@ -1,0 +1,63 @@
+id: ocd-person/27eeaa71-8938-412b-90ce-f83370824485
+name: Jennifer Boysko
+given_name: Jennifer
+family_name: Boysko
+birth_date: 1966-11-16
+gender: Female
+email: senatorboysko@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/Boysko38
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '38'
+- end_date: 2019-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '86'
+- start_date: 2019-01-14
+  end_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '33'
+offices:
+- classification: capitol
+  address: Room 613, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7538
+- classification: district-mail
+  address: P.O. Box 247, Herndon, VA 20172
+  voice: 703-437-0086
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S106
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S106
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S106
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S106
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S106
+other_names:
+- name: Boysko, J.
+- name: Boysko, Jennifer B.
+- name: J. Boysko
+- name: J.B. Boysko
+- name: Jennifer B. Boysko
+- name: Jennifer Barton Boysko
+ids:
+  twitter: JenniferBoysko
+  facebook: BoyskoForSenate
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000234
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S106
+- url: https://ballotpedia.org/Jennifer_B._Boysko
+- url: https://en.wikipedia.org/wiki/Jennifer_Boysko
+- url: https://justfacts.votesmart.org/candidate/144515/jennifer-boysko
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S106
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S106
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S106
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S106
+- url: https://www.linkedin.com/in/jennifer-b-boysko-1544bb1
+- url: https://www.linkedin.com/in/jennifer-boysko-1544bb1

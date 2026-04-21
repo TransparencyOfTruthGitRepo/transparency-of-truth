@@ -1,0 +1,31 @@
+id: ocd-organization/6d254e94-2417-4034-84d6-b5bd15a7ccad
+jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+classification: committee
+name: Solid Waste Management Legislative Commission
+chamber: lower
+sources:
+- url: https://assembly.state.ny.us/comm/
+- url: https://assembly.state.ny.us/comm/?id=53
+- url: https://assembly.state.ny.us/comm/?id=53&sec=news
+- url: https://nyassembly.gov/comm/?id=53
+links:
+- url: https://assembly.state.ny.us/comm/?id=53
+  note: homepage
+- url: https://assembly.state.ny.us/comm/?id=53&sec=news
+- url: https://nyassembly.gov/comm/?id=53
+members:
+- name: Emily Gallagher
+  role: chair
+  person_id: ocd-person/81456b86-152f-4764-a489-dade7cc572c6
+- name: Jeff Gallahan
+  role: member
+  person_id: ocd-person/4910460d-6cb9-4f35-8459-19e5a4de579e
+- name: Matt Simpson
+  role: member
+  person_id: ocd-person/22ef60e3-2d31-41a1-b063-03f307e6414e
+other_names:
+- name: Assembly Committee on Solid Waste Management Legislative Commission
+- name: Assembly Solid Waste Management Legislative Commission
+- name: Assembly Solid Waste Management Legislative Commission Committee
+extras:
+  address: LOB 702;  Albany, NY 12248

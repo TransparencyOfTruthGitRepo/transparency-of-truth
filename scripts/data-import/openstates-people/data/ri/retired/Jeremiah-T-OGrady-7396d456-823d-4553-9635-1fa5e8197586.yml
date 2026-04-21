@@ -1,0 +1,25 @@
+id: ocd-person/7396d456-823d-4553-9635-1fa5e8197586
+name: Jeremiah T. O'Grady
+given_name: Jeremiah T.
+family_name: O'Grady
+image: http://www.rilin.state.ri.us/representatives/pictures/o'grady1.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '46'
+links:
+- url: http://www.rilin.state.ri.us/representatives/carson/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000085
+sources:
+- url: http://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: http://www.rilin.state.ri.us/representatives/Ogrady/
+extras:
+  name_first: Jeremiah
+  name_last: O'Grady
+  name_middle: T.
+  town_represented: Lincoln, Pawtucket

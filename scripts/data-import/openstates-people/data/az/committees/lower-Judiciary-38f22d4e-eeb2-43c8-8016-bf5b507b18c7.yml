@@ -1,0 +1,53 @@
+id: ocd-organization/38f22d4e-eeb2-43c8-8016-bf5b507b18c7
+jurisdiction: ocd-jurisdiction/country:us/state:az/government
+classification: committee
+name: Judiciary
+chamber: lower
+sources:
+- url: https://apps.azleg.gov/api/Committee/?sessionId=123&includeMembers=true
+- url: https://apps.azleg.gov/api/Committee/?sessionId=127&includeMembers=true
+- url: https://apps.azleg.gov/api/Committee/?sessionId=128&includeMembers=true
+  note: API with all committee details
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2173&sessionId=129
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView?SessionID=128
+links:
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=1895&sessionId=123
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2173&sessionId=129
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView?SessionID=128
+  note: homepage
+members:
+- name: Quang Nguyen
+  role: chair
+  person_id: ocd-person/a4f969ab-e79a-4364-9a93-ad8c75ccf668
+- name: Khyl Powell
+  role: vice chair
+  person_id: ocd-person/bd3fb0ce-720a-4137-bd45-87fb6bcf8649
+- name: Alex Kolodin
+  role: member
+  person_id: ocd-person/102ffcb1-3028-401f-b74f-6f45db25e05e
+- name: "Alma Hern\xE1ndez"
+  role: member
+  person_id: ocd-person/6dba6afa-b274-4273-b8c6-270d27214eee
+- name: Brian Garcia
+  role: member
+  person_id: ocd-person/c13f449f-0423-4ad5-836b-69913aad6600
+- name: David Marshall
+  role: member
+  person_id: ocd-person/8bc6f450-7fc4-4258-bf5a-86465e85b9fb
+- name: Lupe Contreras
+  role: member
+  person_id: ocd-person/095a6754-d7ca-4f1f-b562-974d92e7eb3c
+- name: Michael Way
+  role: member
+  person_id: ocd-person/555adc5f-cc3a-46b1-a00b-8fb209bc457e
+- name: Selina Bliss
+  role: member
+  person_id: ocd-person/bdcadc0a-7e86-4e6a-8e27-4896dbb094ce
+other_names:
+- name: House Committee on Judiciary
+- name: House Judiciary
+- name: House Judiciary Committee
+extras:
+  Committee ID: 2009
+  Committee Short Name: JUD
+  Committee Type: Standing

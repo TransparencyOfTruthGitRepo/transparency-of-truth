@@ -1,0 +1,51 @@
+id: ocd-person/b4a4657a-e588-4036-9a0f-48847e22a140
+name: Jay Luneau
+given_name: Jay
+family_name: Luneau
+gender: Male
+email: luneauj@legis.la.gov
+image: https://senate.la.gov/SenatorPics/Sen29.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2016-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '29'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 301 Jackson St. Suite 102, Alexandria, LA 71301
+  voice: 318-484-2288
+links:
+- url: https://senate.la.gov/smembers.aspx?ID=29
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=29
+other_names:
+- name: J. Luneau
+- name: Jay Luneau
+- name: Luneau, J.
+- name: W. Jay Luneau
+- name: W.J. Luneau
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000831
+sources:
+- url: https://ballotpedia.org/Jay_Luneau
+- url: https://luneaubecklaw.com/about/senator-w-jay-luneau
+- url: https://luneaulaw.com/profiles/wjayluneau.html
+- url: https://senate.la.gov/Senators_FullInfo
+- url: https://senate.la.gov/smembers.aspx?ID=29
+- url: https://senate.la.gov/smembers?ID=29
+extras:
+  legislative assistant: Vanessa Baptiste-McNeal
+  representing parishes:
+  - Bienville
+  - Grant
+  - Jackson
+  - Lincoln
+  - Natchitoches
+  - Rapides
+  - Winn

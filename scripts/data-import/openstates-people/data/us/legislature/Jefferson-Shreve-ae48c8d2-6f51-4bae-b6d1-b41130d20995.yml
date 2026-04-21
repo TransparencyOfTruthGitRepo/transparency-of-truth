@@ -1,0 +1,40 @@
+id: ocd-person/ae48c8d2-6f51-4bae-b6d1-b41130d20995
+name: Jefferson Shreve
+given_name: Jefferson
+family_name: Shreve
+birth_date: 1965-09-24
+gender: Male
+email: https://shreve.house.gov/address_authentication?form=/contact/email-me
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IN-6
+offices:
+- classification: capitol
+  address: 224 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-3021
+- classification: capitol
+  address: 50 N. 5th St. Second Floor, Richmond, IN 47374
+  voice: 317-399-3333
+- classification: district
+  address: 300 S. Madison Ave. Suite 300, Greenwood, IN 46142
+  voice: 317-399-3333
+links:
+- url: https://shreve.house.gov/
+other_names:
+- name: J. Shreve
+- name: J.S. Shreve
+- name: Shreve, J.
+other_identifiers:
+- scheme: bioguide
+  identifier: S001229
+sources:
+- url: https://ballotpedia.org/Jefferson_Shreve
+- url: https://en.wikipedia.org/wiki/Jefferson_Shreve
+- url: https://shreve.house.gov
+- url: https://www.linkedin.com/in/jeffersonshreve
+- url: https://www.shreveforcongress.com/about

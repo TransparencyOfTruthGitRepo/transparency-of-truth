@@ -1,0 +1,44 @@
+id: ocd-person/92bc68c6-b20b-4eec-a315-b0d5495db8ec
+name: Phillip Lowe
+given_name: Phillip
+family_name: Lowe
+birth_date: 1958-12-16
+gender: Male
+email: philliplowe@schouse.gov
+image: https://scstatehouse.gov/images/members/1125568047.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2006-11-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '60'
+offices:
+- classification: capitol
+  address: Room 327B, Blatt Building P.O. Box 11867, Columbia, SC 29201
+  voice: 803-734-2975
+links:
+- url: https://scstatehouse.gov/member.php?code=1125568047
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=1125568047
+  note: homepage
+other_names:
+- name: Lowe, P.
+- name: Lowe, Phillip
+- name: Lowe, Phillip D.
+- name: P. Lowe
+- name: P.D. Lowe
+- name: Phillip D. Lowe
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000114
+sources:
+- url: https://ballotpedia.org/Phillip_Lowe_(South_Carolina)
+- url: https://en.wikipedia.org/wiki/Phillip_Lowe
+- url: https://justfacts.votesmart.org/candidate/biography/60353/phillip-lowe
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=1125568047
+- url: https://www.scstatehouse.gov/member.php?chamber=H
+- url: https://www.scstatehouse.gov/member.php?code=1125568047
+extras:
+  counties represented: Florence County

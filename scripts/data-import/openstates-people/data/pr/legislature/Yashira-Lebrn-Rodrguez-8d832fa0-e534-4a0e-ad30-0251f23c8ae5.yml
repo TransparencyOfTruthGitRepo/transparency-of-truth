@@ -1,0 +1,50 @@
+id: ocd-person/8d832fa0-e534-4a0e-ad30-0251f23c8ae5
+name: "Yashira Lebr\xF3n"
+given_name: Yashira
+family_name: "Lebr\xF3n"
+birth_date: 1981-07-24
+gender: Female
+email: ylebron@camara.pr.gov
+image: https://www.camara.pr.gov/wp-content/uploads/2021/08/REP.-YASHIRA-LEBRON-DIST.-8-1.jpg
+party:
+- name: Partido Nuevo Progresista
+roles:
+- start_date: 2014-10-23
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: '8'
+offices:
+- classification: capitol
+  address: "El Capitolio, Avenida Constituci\xF3n P.O. Box 9022228, San Juan, PR 00902"
+  voice: 787-722-0801
+links:
+- url: https://camara.registrok12.com/team/yashira-lebron-rodriguez/
+- url: https://rfsp.eticapr.com/Busqueda
+  note: resumen financiero
+- url: https://www.camara.pr.gov/team/yashira-lebron-rodriguez/
+  note: homepage
+- url: https://www.tucamarapr.org/dnncamara/ComposiciondelaCamara/biografia.aspx?rep=185
+other_names:
+- name: "Lebr\xF3n, Y."
+- name: "Y. Lebr\xF3n"
+- name: "Y.M. Lebr\xF3n"
+- name: "Yashira Lebr\xF3n Rodr\xEDguez"
+ids:
+  facebook: RepresentanteYashiraLebron
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PRL000214
+- scheme: legacy_openstates
+  identifier: PRL000222
+sources:
+- url: https://ballotpedia.org/Yashira_Lebr%C3%B3n_Rodr%C3%ADguez
+- url: https://camara.registrok12.com/team/yashira-lebron-rodriguez
+- url: https://en.wikipedia.org/wiki/Yashira_Lebr%C3%B3n_Rodr%C3%ADguez
+- url: https://www.camara.pr.gov/page-team
+- url: https://www.camara.pr.gov/page-team/
+- url: https://www.camara.pr.gov/team/yashira-lebron-rodriguez
+- url: https://www.camara.pr.gov/team/yashira-lebron-rodriguez/
+- url: https://www.tucamarapr.org/dnncamara/ComposiciondelaCamara/Biografia.aspx
+- url: https://www.tucamarapr.org/dnncamara/ComposiciondelaCamara/biografia.aspx?rep=185
+extras:
+  committees: "Comisi\xF3n de Asuntos del Consumidor, Banca y Seguros"

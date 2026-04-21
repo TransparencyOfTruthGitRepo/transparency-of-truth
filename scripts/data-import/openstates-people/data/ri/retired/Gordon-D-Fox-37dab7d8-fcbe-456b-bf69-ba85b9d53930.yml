@@ -1,0 +1,21 @@
+id: ocd-person/37dab7d8-fcbe-456b-bf69-ba85b9d53930
+name: Gordon D. Fox
+given_name: Gordon D.
+family_name: Fox
+image: http://www.rilin.state.ri.us/images/foxPic.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2012-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '4'
+links:
+- url: http://www.rilin.state.ri.us/representatives/Fox/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000042
+sources:
+- url: http://www.rilin.state.ri.us/representatives/default.aspx
+- url: http://www.rilin.state.ri.us/representatives/Fox/

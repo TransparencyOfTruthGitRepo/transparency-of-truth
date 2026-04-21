@@ -1,0 +1,18 @@
+id: ocd-person/5c0aa107-82fb-41ee-a7c1-69180db1f191
+name: John P Doll
+given_name: John
+family_name: Doll
+middle_name: P
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '40'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000013
+sources:
+- url: http://www.senate.leg.state.mn.us/members/member_list.php

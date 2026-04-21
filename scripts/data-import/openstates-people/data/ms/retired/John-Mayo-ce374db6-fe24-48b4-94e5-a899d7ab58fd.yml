@@ -1,0 +1,20 @@
+id: ocd-person/ce374db6-fe24-48b4-94e5-a899d7ab58fd
+name: John Mayo
+given_name: John
+family_name: Mayo
+image: http://billstatus.ls.state.ms.us/members/house/mayo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2011-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '25'
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/mayo.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000169
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/mayo.xml

@@ -1,0 +1,18 @@
+id: ocd-person/a0192c10-8794-40cd-b196-24f458b614d3
+name: Ben Nesselhuf
+given_name: Ben
+family_name: Nesselhuf
+image: http://legis.state.sd.us/sessions/2010/Nesselhufb.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '17'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000027
+sources:
+- url: http://legis.state.sd.us/sessions/2010/MemberDetail.aspx?Member=50

@@ -1,0 +1,79 @@
+id: ocd-organization/5ea6ccb0-86fb-429f-a736-07888e41fd53
+jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+classification: committee
+name: Health Policy
+chamber: lower
+sources:
+- url: https://www.house.mi.gov/Committee/HEAL
+- url: https://www.house.mi.gov/Committee/HHEAL
+- url: https://www.house.mi.gov/MHRPublic/CommitteeInfo.aspx?comcode=HEAL
+- url: https://www.house.mi.gov/PublicCommitteeSchedule
+- url: https://www.legislature.mi.gov/mileg.aspx?page=listserverSignup
+links:
+- url: https://www.house.mi.gov/Committee/HEAL
+  note: homepage
+- url: https://www.house.mi.gov/Committee/HHEAL
+  note: homepage
+- url: https://www.house.mi.gov/MHRPublic/CommitteeInfo.aspx?comcode=HEAL
+  note: homepage
+- url: https://www.house.mi.gov/PublicCommitteeSchedule
+- url: https://www.legislature.mi.gov/mileg.aspx?page=listserverSignup
+members:
+- name: Curt VanderWall
+  role: chair
+  person_id: ocd-person/b0804883-3f8c-4341-bbc1-26a0346b37c4
+- name: Karen Whitsett
+  role: democratic vice chair
+  person_id: ocd-person/1b71cbce-bf12-4009-b1cd-79da2f22b9aa
+- name: Jamie Thompson
+  role: republican vice chair
+  person_id: ocd-person/ea1e2bf8-dd08-4785-a7f7-48e7c9e8a53c
+- name: Alicia St. Germaine
+  role: member
+  person_id: ocd-person/81da0894-0569-4c8d-9c4e-befd39650fee
+- name: Angela Witwer
+  role: member
+  person_id: ocd-person/0db39d07-a543-4e52-82b0-457f406855e8
+- name: Brenda Carter
+  role: member
+  person_id: ocd-person/0019e62f-6671-4085-b2d3-55d3c4a23717
+- name: Cynthia Neeley
+  role: member
+  person_id: ocd-person/7e3c6932-35bd-43f6-b1ca-d8fd6d5c0040
+- name: Dave Prestin
+  role: member
+  person_id: ocd-person/addfe9a4-4b73-4dec-95a9-4bb7cd0d6bd2
+- name: Jason Hoskins
+  role: member
+  person_id: ocd-person/d6da4c9b-26ef-4fa9-a1c6-a79d843abe09
+- name: Karl Bohnak
+  role: member
+  person_id: ocd-person/e3bae1dd-d4b9-48c3-8e40-112987214638
+- name: Kathy Schmaltz
+  role: member
+  person_id: ocd-person/e21ee6f1-0fdc-4ee6-8432-6149de16046d
+- name: Luke Meerman
+  role: member
+  person_id: ocd-person/187a5c10-ccc0-4c94-a4c9-4c208ace4776
+- name: Mark Tisdel
+  role: member
+  person_id: ocd-person/a5bb89cb-ac42-47c0-bcc8-96bf18e4d865
+- name: Matt Bierlein
+  role: member
+  person_id: ocd-person/33fdbffe-7e3d-4146-bd91-bddc098a7bf3
+- name: Morgan Foreman
+  role: member
+  person_id: ocd-person/0cec5462-4aa6-423a-a946-c13d03370565
+- name: Nancy DeBoer
+  role: member
+  person_id: ocd-person/ffae0dee-fb80-4434-bc8c-8e510d3bc495
+- name: Steve Frisbie
+  role: member
+  person_id: ocd-person/c62d1d8e-1e35-48c2-a869-6801ad396875
+other_names:
+- name: House Committee on Health Policy
+- name: House Health Policy
+- name: House Health Policy Committee
+extras:
+  clerk: Melissa Sweet
+  clerk phone number: '5173735176'

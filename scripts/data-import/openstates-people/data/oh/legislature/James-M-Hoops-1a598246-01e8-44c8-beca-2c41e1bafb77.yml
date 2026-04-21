@@ -1,0 +1,42 @@
+id: ocd-person/1a598246-01e8-44c8-beca-2c41e1bafb77
+name: Jim Hoops
+given_name: Jim
+family_name: Hoops
+birth_date: 1959-03-09
+gender: Male
+email: rep81@ohiohouse.gov
+image: https://www.legislature.ohio.gov/assets/people/james-m-hoops/headshots/thumbnails/medium/james-m-hoops-january-2021-headshot_medium.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2018-01-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '81'
+offices:
+- classification: capitol
+  address: 77 S. High St. 13th Floor, Columbus, OH 43215
+  voice: 614-466-3760
+links:
+- url: https://ohiohouse.gov/james-m-hoops
+- url: https://ohiohouse.gov/members/james-m-hoops
+- url: https://www.ohiohouse.gov/james-m-hoops
+other_names:
+- name: Hoops, J.
+- name: J. Hoops
+- name: J.M. Hoops
+- name: James Hoops
+- name: James M. Hoops
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000383
+sources:
+- url: https://ballotpedia.org/James_Hoops
+- url: https://en.wikipedia.org/wiki/Jim_Hoops
+- url: https://justfacts.votesmart.org/candidate/biography/23423/jim-hoops
+- url: https://ohiohouse.gov/james-m-hoops
+- url: https://ohiohouse.gov/members/james-m-hoops
+  note: member details page
+- url: https://www.legislature.ohio.gov/legislators/house-directory
+  note: member list page
+- url: https://www.ohiohouse.gov/members/member-directory

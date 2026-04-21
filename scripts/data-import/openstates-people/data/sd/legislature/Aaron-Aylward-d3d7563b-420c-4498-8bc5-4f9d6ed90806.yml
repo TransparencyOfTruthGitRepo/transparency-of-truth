@@ -1,0 +1,38 @@
+id: ocd-person/d3d7563b-420c-4498-8bc5-4f9d6ed90806
+name: Aaron Aylward
+given_name: Aaron
+family_name: Aylward
+gender: Male
+email: aaron.aylward@sdlegislature.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Aaron-Aylward.PNG
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '6'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3851
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/3786/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4333/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4474/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4581/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4734/Detail
+other_names:
+- name: A. Aylward
+- name: Aylward, A.
+sources:
+- url: https://ballotpedia.org/Aaron_Aylward
+- url: https://en.wikipedia.org/wiki/Aaron_Aylward
+- url: https://justfacts.votesmart.org/candidate/biography/180829/aaron-aylward
+- url: https://sdlegislature.gov/Legislators/Profile/3786/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4333/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4474/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4581/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4734/Detail
+extras:
+  occupation: Recruiter

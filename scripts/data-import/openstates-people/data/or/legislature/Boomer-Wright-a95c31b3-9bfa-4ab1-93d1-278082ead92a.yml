@@ -1,0 +1,35 @@
+id: ocd-person/a95c31b3-9bfa-4ab1-93d1-278082ead92a
+name: Boomer Wright
+given_name: Boomer
+family_name: Wright
+gender: Male
+email: rep.boomerwright@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/wright/PublishingImages/member_photo.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '9'
+offices:
+- classification: capitol
+  address: Room H-372, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1409
+- classification: district-mail
+  address: P.O. Box 39000, Florence, OR 97439
+  voice: 503-986-1409
+links:
+- url: https://www.oregonlegislature.gov/wright
+  note: homepage
+other_names:
+- name: B. Wright
+- name: G. Wright
+- name: Wright, B.
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Boomer_Wright
+- url: https://en.wikipedia.org/wiki/Boomer_Wright
+- url: https://www.linkedin.com/in/boomer-wright-7b164266
+- url: https://www.oregonlegislature.gov/wright

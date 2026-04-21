@@ -1,0 +1,53 @@
+id: ocd-person/7498179f-e3de-47b7-9aee-9abee716522a
+name: Sheila Lyman
+given_name: Sheila
+family_name: Lyman
+gender: Female
+email: sheila.lyman@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/07bd7878-b32c-4a23-b44a-9f56e3353fdf_LymanNEW.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '76'
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '76'
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '74'
+offices:
+- classification: capitol
+  address: Room 332, House Republican Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1424
+  note: homepage
+- url: https://mainehousegop.org/members/lyman-sheila/
+other_names:
+- name: LYMAN of Livermore Falls
+- name: Lyman, S.
+- name: S. Lyman
+- name: S.A. Lyman
+- name: Sheila A. Lyman
+- name: Sheila LYMAN
+sources:
+- url: https://ballotpedia.org/Sheila_Lyman
+- url: https://en.wikipedia.org/wiki/Sheila_Lyman
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1424
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://mainehousegop.org/members/lyman-sheila
+extras:
+  Seat Number: '127'
+  towns represented:
+  - Livermore Falls
+  - Jay
+  - Livermore (Part)
+  occupation: Retired Teacher
+  education: University of Maine Farmington

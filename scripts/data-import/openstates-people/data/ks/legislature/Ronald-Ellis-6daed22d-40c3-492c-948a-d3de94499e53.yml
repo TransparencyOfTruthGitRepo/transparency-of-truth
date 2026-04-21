@@ -1,0 +1,43 @@
+id: ocd-person/6daed22d-40c3-492c-948a-d3de94499e53
+name: Ronald Ellis
+given_name: Ronald
+family_name: Ellis
+birth_date: 1952-07-24
+gender: Male
+email: ronald.ellis@house.ks.gov
+image: https://www.kslegislature.gov/li/s/images/pics/rep_ellis_ronald_1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '47'
+offices:
+- classification: capitol
+  address: State Capitol Room 352-S, Kansas  Building 300 SW 10th St., Topeka, KS
+    66612
+  voice: 785-296-5623
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_ellis_ronald_1/
+- url: https://www.kslegislature.org/li/b2019_20/members/rep_ellis_ronald_1/
+- url: https://www.kslegislature.org/li/b2021_22/members/rep_ellis_ronald_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_ellis_ronald_1/
+other_names:
+- name: Ellis, R.
+- name: R. Ellis
+- name: R.B. Ellis
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KSL000339
+sources:
+- url: https://ballotpedia.org/Ronald_B._Ellis
+- url: https://en.wikipedia.org/wiki/Ronald_Ellis_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/140713/ron-ellis
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_ellis_ronald_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ellis_ronald_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ellis_ronald_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_ellis_ronald_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_ellis_ronald_1/
+extras:
+  occupation: Rancher

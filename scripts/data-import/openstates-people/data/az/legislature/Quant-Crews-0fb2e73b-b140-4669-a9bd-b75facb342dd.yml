@@ -1,0 +1,34 @@
+id: ocd-person/0fb2e73b-b140-4669-a9bd-b75facb342dd
+name: "Quant\xE1 Crews"
+given_name: "Quant\xE1"
+family_name: Crews
+gender: Female
+email: qcrews@azleg.gov
+image: https://static.wixstatic.com/media/adaad5_bffecd22c43440d18ef9083b2464b1fd~mv2.jpg/v1/fill/w_925,h_1156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/adaad5_bffecd22c43440d18ef9083b2464b1fd~mv2.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-06-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room 321, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-3256
+links:
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2272
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2345
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2272
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2272
+other_names:
+- name: Crews, Q.
+- name: Q. Crews
+- name: Quanta Crews
+sources:
+- url: https://ballotpedia.org/Quanta_Crews
+- url: https://en.wikipedia.org/wiki/Quant%C3%A1_Crews
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2272
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2345
+- url: https://www.azleg.gov/memberroster/?body=H
+- url: https://www.linkedin.com/in/quantacrews

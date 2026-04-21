@@ -1,0 +1,44 @@
+id: ocd-person/22afa0b0-e76a-4ac0-af9a-fa158c55daea
+name: Dana McLean
+given_name: Dana
+family_name: McLean
+gender: Female
+email: dmclean@house.ms.gov
+image: http://billstatus.ls.state.ms.us/members/house/mclean.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '39'
+offices:
+- classification: capitol
+  address: State Capitol 400 High St., Jackson, MS 39201
+  voice: 601-359-3770
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/mclean.xml
+  note: homepage
+other_names:
+- name: D. McLean
+- name: D.U. McLean
+- name: Dana Underwood McLean
+- name: McLean, D.
+sources:
+- url: https://ballotpedia.org/Dana_Underwood_McLean
+- url: https://billstatus.ls.state.ms.us/members/house/mclean.xml
+- url: https://billstatus.ls.state.ms.us/members/hr_membs.xml
+- url: https://en.wikipedia.org/wiki/Dana_McLean
+- url: https://justfacts.votesmart.org/candidate/186601/dana-mclean
+- url: https://justfacts.votesmart.org/candidate/biography/186601/dana-mclean
+extras:
+  education:
+  - Stetson University College of Law, JD and LLM
+  - University of Alabama, BA
+  - Stephen D. Lee High school
+  counties represented:
+  - Lowndes
+  - Monroe
+  other phone: (662)328-0607

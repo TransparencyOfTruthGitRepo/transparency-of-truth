@@ -1,0 +1,32 @@
+id: ocd-person/c5e38dee-7f82-4795-a134-b984b6878458
+name: Curtis Trent
+given_name: Curtis
+family_name: Trent
+birth_date: 1983-07-04
+gender: Male
+email: curtis.trent@senate.mo.gov
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Room 323, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-1503
+links:
+- url: https://www.senate.mo.gov/Senators/Member/20
+- url: https://www.senate.mo.gov/Senators/Member?id=275
+other_names:
+- name: C. Trent
+- name: C.D. Trent
+- name: Trent, C.
+sources:
+- url: https://ballotpedia.org/Curtis_Trent
+- url: https://en.wikipedia.org/wiki/Curtis_Trent
+- url: https://justfacts.votesmart.org/candidate/biography/169927/curtis-trent
+- url: https://www.linkedin.com/in/curtis-trent-a75a6629
+- url: https://www.senate.mo.gov/Senators/Member/20
+- url: https://www.senate.mo.gov/Senators/Member?id=275

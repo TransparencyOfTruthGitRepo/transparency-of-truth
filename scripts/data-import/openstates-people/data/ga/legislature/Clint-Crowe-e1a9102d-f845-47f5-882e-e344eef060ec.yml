@@ -1,0 +1,63 @@
+id: ocd-person/e1a9102d-f845-47f5-882e-e344eef060ec
+name: Clint Crowe
+given_name: Clint
+family_name: Crowe
+birth_date: 1973-06-12
+gender: Male
+email: clint.crowe@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/crowe-clint-5002.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '118'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '110'
+offices:
+- classification: capitol
+  address: Room 612-A, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0325
+- classification: district
+  address: 115 Mabry Road, Jackson, GA 30233
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5002
+- url: https://www.legis.ga.gov/members/house/5002?session=1029
+- url: https://www.legis.ga.gov/members/house/5002?session=1031
+  note: HTML member detail page
+other_names:
+- name: C. Crowe
+- name: C.T. Crowe
+- name: Clint Crowe
+- name: Clinton Crowe
+- name: CROWE, 118TH
+- name: Crowe, C.
+sources:
+- url: https://ballotpedia.org/Clint_Crowe
+- url: https://en.wikipedia.org/wiki/Clint_Crowe
+- url: https://justfacts.votesmart.org/candidate/biography/190389/clint-crowe
+- url: https://www.legis.ga.gov/api/members/detail/5002?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/5002?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5002
+- url: https://www.legis.ga.gov/members/house/5002?session=1029
+- url: https://www.linkedin.com/in/clintoncrowe
+extras:
+  residence: Jackson
+  city: Jackson
+  georgia_id: 5002
+  birthday: June 12
+  occupation: Real Estate Broker
+  press: https://house-press.com/representative/Clint-Crowe
+  spouse: Kristie
+  staff: Chelsea Bell - Administrative Assistant
+  staff email: chelsea.bell@house.ga.gov

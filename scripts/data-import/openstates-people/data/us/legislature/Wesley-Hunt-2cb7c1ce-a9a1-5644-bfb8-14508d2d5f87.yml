@@ -1,0 +1,72 @@
+id: ocd-person/2cb7c1ce-a9a1-5644-bfb8-14508d2d5f87
+name: Wesley Hunt
+given_name: Wesley
+family_name: Hunt
+birth_date: 1981-11-13
+gender: Male
+email: https://hunt.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/H001095.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-38
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-38
+offices:
+- classification: capitol
+  address: 1520 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-5646
+- classification: district
+  address: 5599 San Felipe St. Suite 950, Houston, TX 77056
+  voice: 832-357-0555
+- classification: district
+  address: 990 Village Square Drive Suite G-900, Tomball, TX 77375
+  voice: 346-246-7355
+links:
+- url: https://hunt.house.gov
+  note: website
+- url: https://hunt.house.gov/
+other_names:
+- name: Hunt, W.
+- name: W. Hunt
+- name: W.P. Hunt
+ids:
+  twitter: RepWesleyHunt
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Wesley Hunt (Texas Congress)
+- scheme: bioguide
+  identifier: H001095
+- scheme: fec
+  identifier: H0TX07170
+- scheme: google_entity_id
+  identifier: kg:/g/11fs4rfr_9
+- scheme: govtrack
+  identifier: '456946'
+- scheme: opensecrets
+  identifier: N00044362
+- scheme: pictorial
+  identifier: '13295'
+- scheme: votesmart
+  identifier: '188147'
+- scheme: wikidata
+  identifier: Q110434665
+- scheme: wikipedia
+  identifier: Wesley Hunt
+sources:
+- url: https://ballotpedia.org/Wesley_Hunt_(Congressional_candidate,_Texas)
+- url: https://en.wikipedia.org/wiki/Wesley_Hunt
+- url: https://hunt.house.gov
+- url: https://justfacts.votesmart.org/candidate/188147/wesley-hunt
+- url: https://justfacts.votesmart.org/candidate/biography/188147/wesley-hunt
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/wesley_hunt/456946
+- url: https://www.linkedin.com/in/wesley-hunt-33800095

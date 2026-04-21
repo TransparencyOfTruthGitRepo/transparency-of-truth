@@ -1,0 +1,32 @@
+id: ocd-organization/a4a0a052-7860-41ec-a9dc-885c1fa93361
+jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+classification: committee
+name: Legislative Expense Oversight
+chamber: lower
+sources:
+- url: https://le.utah.gov/committee/committee.jsp?year=2024&com=SPEHEO
+- url: https://le.utah.gov/committee/committee.jsp?year=2025&com=SPEHEO
+- url: https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEHEO
+- url: https://le.utah.gov/data/committees.json
+  note: Committee JSON from le.utah.gov site
+links:
+- url: https://le.utah.gov/committee/committee.jsp?year=2024&com=SPEHEO
+  note: homepage
+- url: https://le.utah.gov/committee/committee.jsp?year=2025&com=SPEHEO
+- url: https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEHEO
+members:
+- name: Mike Schultz
+  role: chair
+  person_id: ocd-person/d1046a0c-ddd3-4fed-be41-13da161d6231
+- name: Angela Romero
+  role: member
+  person_id: ocd-person/d987aff4-abcf-4f2a-826d-b5741d065d44
+- name: Casey Snider
+  role: member
+  person_id: ocd-person/5d8ada2a-75c6-4aa6-b359-29720794fb7e
+other_names:
+- name: Committee on Legislative Expense Oversight
+- name: House Committee on Legislative Expense Oversight
+- name: House Legislative Expense Oversight
+- name: House Legislative Expense Oversight Committee
+- name: Legislative Expense Oversight Committee

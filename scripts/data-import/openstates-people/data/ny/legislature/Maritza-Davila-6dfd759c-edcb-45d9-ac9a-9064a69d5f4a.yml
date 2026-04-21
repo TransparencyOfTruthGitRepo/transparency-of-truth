@@ -1,0 +1,44 @@
+id: ocd-person/6dfd759c-edcb-45d9-ac9a-9064a69d5f4a
+name: Maritza Davila
+given_name: Maritza
+family_name: Davila
+birth_date: 1963-11-16
+gender: Female
+email: davilam@nyassembly.gov
+image: https://assembly.state.ny.us/write/upload/member_files/053/headshot/053.jpg?hst=1660073605
+party:
+- name: Democratic
+roles:
+- start_date: 2013-11-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '53'
+offices:
+- classification: capitol
+  address: Room 844, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-5537
+  fax: 518-455-5789
+- classification: district
+  address: 673 Hart St. Unit C2, Brooklyn, NY 11237
+  voice: 718-443-1205
+  fax: 718-443-1424
+links:
+- url: https://assembly.state.ny.us/mem/?sh=email
+- url: https://assembly.state.ny.us/mem/Maritza-Davila
+- url: https://nyassembly.gov/mem/Maritza-Davila
+other_names:
+- name: Davila, M.
+- name: M. Davila
+ids:
+  twitter: DavilaAssembly
+  facebook: MaritzaDavilaAssembly
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000327
+sources:
+- url: https://assembly.state.ny.us/mem/Maritza-Davila
+- url: https://ballotpedia.org/Maritza_Davila_(New_York)
+- url: https://en.wikipedia.org/wiki/Maritza_Davila
+- url: https://justfacts.votesmart.org/candidate/biography/145250/maritza-davila
+- url: https://nyassembly.gov/mem/Maritza-Davila
+- url: https://www.linkedin.com/in/maritza-davila-8a182852

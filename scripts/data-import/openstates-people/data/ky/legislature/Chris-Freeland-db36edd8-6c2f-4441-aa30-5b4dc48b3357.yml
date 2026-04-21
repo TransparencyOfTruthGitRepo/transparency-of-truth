@@ -1,0 +1,38 @@
+id: ocd-person/db36edd8-6c2f-4441-aa30-5b4dc48b3357
+name: Chris Freeland
+given_name: Chris
+family_name: Freeland
+birth_date: 1969-01-07
+gender: Male
+email: chris.freeland@kylegislature.gov
+image: https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house6.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '6'
+offices:
+- classification: capitol-mail
+  address: Room Annex 373C, 702 Capital Ave., Frankfort, KY 40601
+  voice: 502-564-8100
+links:
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=6
+  note: homepage
+other_names:
+- name: C. Freeland
+- name: Freeland, C.
+sources:
+- url: https://ballotpedia.org/Chris_Freeland
+- url: https://en.wikipedia.org/wiki/Chris_Freeland
+- url: https://legislature.ky.gov/Legislators/house-of-representatives
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=6
+- url: https://www.linkedin.com/in/chris-freeland-9b231aa4
+extras:
+  counties represented:
+  - Lyon
+  - Marshall
+  - McCracken
+  mailing address: 702 Capital Ave Annex Room 373C Frankfort, KY 40601
+  home city: Benton

@@ -1,0 +1,58 @@
+id: ocd-person/73918c45-83c1-4d52-a84d-3ad7ad8de40b
+name: Derek Mallow
+given_name: Derek
+family_name: Mallow
+birth_date: 1989-06-12
+gender: Male
+email: derek.mallow@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/mallow-derek-5007.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '2'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '163'
+offices:
+- classification: capitol
+  address: State Capitol Room 121-H, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-7586
+- classification: district-mail
+  address: P.O. Box 14034, Savannah, GA 31416
+links:
+- url: https://www.legis.ga.gov/members/house/5007?session=1029
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/5007
+- url: https://www.legis.ga.gov/members/senate/5007?session=1031
+  note: HTML member detail page
+other_names:
+- name: D. Mallow
+- name: D.J. Mallow
+- name: Derek J. Mallow
+- name: Derek Mallow
+- name: MALLOW, 2ND
+- name: Mallow, D.
+sources:
+- url: https://ballotpedia.org/Derek_Mallow
+- url: https://en.wikipedia.org/wiki/Derek_Mallow
+- url: https://justfacts.votesmart.org/candidate/biography/190302/derek-mallow
+- url: https://www.legis.ga.gov/api/members/detail/5007?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/5007?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5007?session=1029
+- url: https://www.legis.ga.gov/members/senate/5007
+- url: https://www.linkedin.com/in/derek-mallow
+extras:
+  residence: Savannah
+  city: Savannah
+  georgia_id: 5007
+  staff: Ashley Thomas
+  staff email: ashley.thomas@senate.ga.gov

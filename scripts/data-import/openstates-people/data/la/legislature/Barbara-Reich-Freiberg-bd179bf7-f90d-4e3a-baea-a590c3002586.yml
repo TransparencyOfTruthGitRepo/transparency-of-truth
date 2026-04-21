@@ -1,0 +1,43 @@
+id: ocd-person/bd179bf7-f90d-4e3a-baea-a590c3002586
+name: Barbara Freiberg
+given_name: Barbara
+family_name: Freiberg
+gender: Female
+email: hse070@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep70.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '70'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 5800 One Perkins Place Suite 7A, Baton Rouge, LA 70808
+  voice: 225-763-3500
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=70
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=70
+other_names:
+- name: B. Freiberg
+- name: B.R. Freiberg
+- name: Barbara Reich Freiberg
+- name: Freiberg, B.
+sources:
+- url: https://ballotpedia.org/Barbara_Freiberg
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=70
+- url: https://house.louisiana.gov/H_Reps/members?ID=70
+- url: https://justfacts.votesmart.org/candidate/biography/177824/barbara-freiberg
+- url: https://www.linkedin.com/in/barbara-freiberg-62a9b719
+extras:
+  legislative assistant: Brandi Chambless
+  representing parishes:
+  - East Baton Rouge
+  education: Lee High School; Louisiana Tech University, B.A.; University of North
+    Carolina at Chapel Hill, M.A.

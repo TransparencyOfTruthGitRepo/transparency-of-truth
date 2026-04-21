@@ -1,0 +1,49 @@
+id: ocd-person/b57cc6b9-3627-431f-8a01-4c3c7ba973d4
+name: Chris England
+given_name: Chris
+family_name: England
+birth_date: 1976-08-19
+gender: Male
+email: cengland1@hotmail.com
+image: https://www.legislature.state.al.us/pdf/house/members/England_70.png
+party:
+- name: Democratic
+roles:
+- start_date: 2006-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '70'
+offices:
+- classification: capitol
+  address: Room 534-C, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0503
+- classification: district
+  address: 2201 University Blvd., Tuscaloosa, AL 35401
+  voice: 205-248-5140
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100552&OID_PERSON=5543
+other_names:
+- name: C. England
+- name: C.J. England
+- name: England, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000062
+- scheme: legacy_openstates
+  identifier: ALL000211
+- scheme: legacy_openstates
+  identifier: ALL000344
+sources:
+- url: https://ballotpedia.org/Christopher_J._England
+- url: https://en.wikipedia.org/wiki/Christopher_J._England
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/69176/chris-england
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=England&OID_SPONSOR=100552&OID_PERSON=5543&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100552&OID_PERSON=5543
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+- url: https://www.linkedin.com/in/chris-england-2428385
+extras:
+  counties: Tuscaloosa County

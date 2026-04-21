@@ -1,0 +1,56 @@
+id: ocd-person/f6cd7b64-a3f3-44ec-89a1-68c17fa6d4c9
+name: James Kaufman
+given_name: James
+family_name: Kaufman
+gender: Male
+email: senator.james.kaufman@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/KAU.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-17
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: F
+- start_date: 2021-01-11
+  end_date: 2023-01-16
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: F
+- end_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '28'
+offices:
+- classification: capitol
+  address: State Capitol Room 510, 120 4th St., Juneau, AK 99801
+  voice: 907-465-4949
+- classification: district
+  address: 1500 W. Benson Blvd., Anchorage, AK 99503
+  voice: 907-269-0244
+links:
+- url: https://alaskasenate.org/kaufman/
+- url: https://www.akleg.gov/basis/Member/Detail/32?code=kau
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=KAU
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=kau
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=kau
+other_names:
+- name: J. Kaufman
+- name: J.D. Kaufman
+- name: James D. Kaufman
+- name: Kaufman, J.
+sources:
+- url: https://alaskasenate.org/kaufman
+- url: https://ballotpedia.org/James_Kaufman
+- url: https://en.wikipedia.org/wiki/James_D._Kaufman
+- url: https://w3.akleg.gov
+- url: https://w3.akleg.gov/
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=KAU
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=kau
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=kau
+- url: https://www.linkedin.com/in/james-kaufman-299042a
+- url: https://www.senatorkaufman.com
+extras:
+  toll_free_phone: 800-478-4950

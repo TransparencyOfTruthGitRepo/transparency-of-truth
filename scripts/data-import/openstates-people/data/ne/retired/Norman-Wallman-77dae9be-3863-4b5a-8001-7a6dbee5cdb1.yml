@@ -1,0 +1,20 @@
+id: ocd-person/77dae9be-3863-4b5a-8001-7a6dbee5cdb1
+name: Norman Wallman
+given_name: Norman
+family_name: Wallman
+image: http://www.nebraskalegislature.gov/media/images/blogs/dist30.jpg
+party:
+- name: Nonpartisan
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: legislature
+  jurisdiction: ocd-jurisdiction/country:us/state:ne/government
+  district: '30'
+links:
+- url: http://news.legislature.ne.gov/dist30/biography/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NEL000030
+sources:
+- url: http://news.legislature.ne.gov/dist30/biography/

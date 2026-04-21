@@ -1,0 +1,47 @@
+id: ocd-person/dbc5723f-2fad-4c3e-b051-5ea05706340f
+name: Leroy Comrie
+given_name: Leroy
+family_name: Comrie
+birth_date: 1958-08-10
+gender: Male
+email: comrie@nysenate.gov
+image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2801-12-15%29%20Comrie-HS-079.jpg?itok=SFD_SKfv
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '14'
+offices:
+- classification: capitol
+  address: Room 913, Legislative Office Building, Albany, NY 12247
+  voice: 518-455-2701
+  fax: 518-426-6816
+- classification: district
+  address: 113-43 Farmers Blvd., St. Albans, NY 11412
+  voice: 718-765-6359
+  fax: 718-454-0186
+links:
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/leroy-comrie
+- url: https://www.nysenate.gov/senators/leroy-comrie/contact
+other_names:
+- name: Comrie, L.
+- name: L. Comrie
+- name: L.G. Comrie
+- name: Leroy George Comrie
+ids:
+  twitter: LeroyComrie
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000350
+- scheme: legacy_openstates
+  identifier: NYL000401
+sources:
+- url: https://ballotpedia.org/Leroy_Comrie
+- url: https://en.wikipedia.org/wiki/Leroy_Comrie
+- url: https://justfacts.votesmart.org/candidate/biography/44666/leroy-comrie
+- url: https://www.linkedin.com/in/comrieforsenate
+- url: https://www.nysenate.gov/senators/leroy-comrie
+- url: https://www.nysenate.gov/senators/leroy-comrie/contact

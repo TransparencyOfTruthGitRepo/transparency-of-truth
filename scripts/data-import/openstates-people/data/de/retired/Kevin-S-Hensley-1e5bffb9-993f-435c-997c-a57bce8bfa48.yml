@@ -1,0 +1,20 @@
+id: ocd-person/1e5bffb9-993f-435c-997c-a57bce8bfa48
+name: Kevin S. Hensley
+given_name: Kevin S.
+family_name: Hensley
+party:
+- name: Republican
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:de/government
+  district: '9'
+links:
+- url: http://legis.delaware.gov/legislature.nsf/52087754ec8b9261852569c10055df42/b03681a62d1272a9852569d800535df6?OpenDocument&TableRow=1.5.5
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: DEL000128
+sources:
+- url: http://legis.delaware.gov/legislature.nsf/FSMain?OpenFrameset&Frame=right&src=/legislature.nsf/52087754EC8B9261852569C10055DF42/90AF3231F140EBB585257E0E005D8DAE
+- url: http://legis.delaware.gov/Legislature.nsf/Reps?openview

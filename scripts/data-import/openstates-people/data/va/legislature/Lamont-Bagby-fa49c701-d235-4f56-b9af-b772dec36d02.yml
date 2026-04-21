@@ -1,0 +1,53 @@
+id: ocd-person/fa49c701-d235-4f56-b9af-b772dec36d02
+name: Lamont Bagby
+given_name: Lamont
+family_name: Bagby
+birth_date: 1976-12-21
+gender: Male
+email: lbagby@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/Bagby14
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '14'
+- end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '74'
+offices:
+- classification: capitol
+  address: Room 601, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7514
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S114
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H273
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H273
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H273
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S114
+other_names:
+- name: Bagby, L.
+- name: Bagby, Lamont
+- name: L. Bagby
+ids:
+  twitter: delegatebagby
+  facebook: lamont.bagby
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000227
+- scheme: legacy_openstates
+  identifier: VAL000228
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S114
+- url: https://ballotpedia.org/Lamont_Bagby
+- url: https://en.wikipedia.org/wiki/Lamont_Bagby
+- url: https://justfacts.votesmart.org/candidate/biography/156441/lamont-bagby
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H273
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H273
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H273
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S114
+- url: https://www.linkedin.com/in/lamont-bagby-8648b327

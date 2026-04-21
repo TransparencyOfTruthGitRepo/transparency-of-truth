@@ -1,0 +1,120 @@
+id: ocd-person/ec0f62a4-5b85-5df2-888a-200166766b17
+name: Bill Keating
+given_name: Bill
+family_name: Keating
+birth_date: 1952-09-06
+gender: Male
+email: https://keating.house.gov/zip_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/K000375.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-9
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-9
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-9
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-9
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-9
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-9
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-9
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-10
+offices:
+- classification: capitol
+  address: 2372 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-3111
+  fax: 202-225-5658
+- classification: district
+  address: 128 Union St. Suite 103, New Bedford, MA 02740
+  voice: 508-999-6462
+  fax: 508-999-6468
+- classification: district
+  address: 251 Stevens St. Suite E, Hyannis, MA 02601
+  voice: 508-771-6868
+  fax: 508-790-1959
+- classification: district
+  address: 50 Resnik Road Suite 103, Plymouth, MA 02360
+  voice: 508-746-9000
+  fax: 508-732-0072
+links:
+- url: https://keating.house.gov
+  note: website
+- url: https://keating.house.gov/
+other_names:
+- name: B. Keating
+- name: Keating, B.
+- name: W.R. Keating
+- name: William R. Keating
+ids:
+  twitter: USRepKeating
+  youtube: UC7KPV4xdxO2dms9vl6tETmg
+  facebook: Congressman.Keating
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Bill Keating
+- scheme: bioguide
+  identifier: K000375
+- scheme: cspan
+  identifier: '61856'
+- scheme: fec
+  identifier: H0MA10082
+- scheme: google_entity_id
+  identifier: kg:/m/09v6g7c
+- scheme: govtrack
+  identifier: '412435'
+- scheme: house_history
+  identifier: '16570'
+- scheme: icpsr
+  identifier: '21140'
+- scheme: maplight
+  identifier: '1446'
+- scheme: opensecrets
+  identifier: N00031933
+- scheme: pictorial
+  identifier: '13083'
+- scheme: thomas
+  identifier: '02025'
+- scheme: votesmart
+  identifier: '4743'
+- scheme: wikidata
+  identifier: Q775412
+- scheme: wikipedia
+  identifier: Bill Keating (politician)
+sources:
+- url: https://ballotpedia.org/Bill_Keating
+- url: https://en.wikipedia.org/wiki/William_R._Keating
+- url: https://keating.house.gov
+- url: https://keating.house.gov/about/full-biography
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/william_keating/412435

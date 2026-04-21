@@ -1,0 +1,34 @@
+id: ocd-person/436ab2a5-12ca-4a9c-b8ec-73b1bae4ee68
+name: Wes Virdell
+given_name: Wes
+family_name: Virdell
+gender: Male
+email: wes.virdell@house.texas.gov
+image: https://www.house.texas.gov/images/members/4775.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '53'
+offices:
+- classification: capitol
+  address: Room E2.304, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0536
+- classification: district
+  address: 301 Junction Highway Suite 254, Kerrville, TX 78028
+  voice: 830-730-5925
+links:
+- url: https://www.house.texas.gov/members/53
+other_names:
+- name: Virdell, W.
+- name: Virdell, Wes
+- name: W. Virdell
+sources:
+- url: https://ballotpedia.org/Wesley_Virdell
+- url: https://en.wikipedia.org/wiki/Wesley_Virdell
+- url: https://justfacts.votesmart.org/candidate/biography/188187/wes-virdell
+- url: https://www.house.texas.gov/members/4775/biography
+- url: https://www.house.texas.gov/members/53
+- url: https://www.linkedin.com/in/wesley-virdell-a6979420a

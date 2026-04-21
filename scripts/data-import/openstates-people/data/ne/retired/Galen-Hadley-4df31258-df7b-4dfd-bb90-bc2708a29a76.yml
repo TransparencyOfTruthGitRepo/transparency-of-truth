@@ -1,0 +1,20 @@
+id: ocd-person/4df31258-df7b-4dfd-bb90-bc2708a29a76
+name: Galen Hadley
+given_name: Galen
+family_name: Hadley
+image: http://www.nebraskalegislature.gov/media/images/blogs/dist37.jpg
+party:
+- name: Nonpartisan
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: legislature
+  jurisdiction: ocd-jurisdiction/country:us/state:ne/government
+  district: '37'
+links:
+- url: http://news.legislature.ne.gov/dist37
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NEL000037
+sources:
+- url: http://news.legislature.ne.gov/dist37

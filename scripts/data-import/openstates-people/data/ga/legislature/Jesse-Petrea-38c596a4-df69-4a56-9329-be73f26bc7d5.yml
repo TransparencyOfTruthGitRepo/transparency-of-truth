@@ -1,0 +1,63 @@
+id: ocd-person/38c596a4-df69-4a56-9329-be73f26bc7d5
+name: Jesse Petrea
+given_name: Jesse
+family_name: Petrea
+birth_date: 1966-06-24
+gender: Male
+email: jesse.petrea@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/petrea-jesse-862.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '166'
+offices:
+- classification: capitol
+  address: State Capitol Room 226-B, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-5115
+- classification: district
+  address: 108 Loyer Lane, Savannah, GA 31411
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=862&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/862
+- url: https://www.legis.ga.gov/members/house/862?session=1029
+- url: https://www.legis.ga.gov/members/house/862?session=1031
+  note: HTML member detail page
+other_names:
+- name: J. Petrea
+- name: J.L. Petrea
+- name: PETREA, 166TH
+- name: Petrea, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000401
+sources:
+- url: https://ballotpedia.org/Jesse_L._Petrea
+- url: https://en.wikipedia.org/wiki/Jesse_Petrea
+- url: https://justfacts.votesmart.org/candidate/biography/151148/jesse-petrea
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=862&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/862?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/862?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/862
+- url: https://www.legis.ga.gov/members/house/862?session=1029
+- url: https://www.linkedin.com/in/jesse-petrea-15aba719
+extras:
+  residence: Savannah
+  city: Savannah
+  georgia_id: 862
+  birthday: June 24
+  occupation: Business Owner/Healthcare Executive
+  press: https://house-press.com/representative/Jesse-Petrea
+  spouse: Brianna
+  staff: Andrew Smith - Administrative Assistant
+  staff email: andrew.smith@house.ga.gov
+  title: Chairman, Human Relations & Aging

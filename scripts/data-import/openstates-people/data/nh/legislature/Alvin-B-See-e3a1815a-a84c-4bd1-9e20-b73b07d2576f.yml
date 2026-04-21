@@ -1,0 +1,37 @@
+id: ocd-person/e3a1815a-a84c-4bd1-9e20-b73b07d2576f
+name: Alvin See
+given_name: Alvin
+family_name: See
+gender: Male
+email: alvin.see@gc.nh.gov
+image: https://andoverbeacon.com/wp-content/uploads/2022/10/010-Town-News-News-Candidate-State-Rep-Merr-26-Rep-See-Photo-1-e1666301578915-577x1024.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 26
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-798-3427
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10682
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10682
+  note: member detail page
+other_names:
+- name: A. See
+- name: A.B. See
+- name: Alvin B See
+- name: See, A.
+sources:
+- url: https://ballotpedia.org/Alvin_See
+- url: https://en.wikipedia.org/wiki/Alvin_See
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10682
+- url: https://justfacts.votesmart.org/candidate/biography/209188/alvin-see
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10682
+extras:
+  county: Merrimack
+  elected status: new
+  gender code: M

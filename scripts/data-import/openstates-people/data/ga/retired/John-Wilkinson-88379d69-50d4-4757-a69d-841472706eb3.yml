@@ -1,0 +1,23 @@
+id: ocd-person/88379d69-50d4-4757-a69d-841472706eb3
+name: John Wilkinson
+given_name: John
+family_name: Wilkinson
+email: john.wilkinson@senate.ga.gov
+image: http://www.senate.ga.gov/SiteCollectionImages/WilkinsonJohn799.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '50'
+links:
+- url: http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=799&Session=27
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000238
+sources:
+- url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=799&Session=27
+extras:
+  guid: 799

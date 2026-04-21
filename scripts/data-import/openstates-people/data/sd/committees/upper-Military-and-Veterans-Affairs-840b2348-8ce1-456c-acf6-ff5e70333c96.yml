@@ -1,0 +1,41 @@
+id: ocd-organization/840b2348-8ce1-456c-acf6-ff5e70333c96
+jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+classification: committee
+name: Military and Veterans Affairs
+chamber: upper
+sources:
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1180
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1217
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/68
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/69
+- url: https://sdlegislature.gov/Session/Committee/1180/Detail
+- url: https://sdlegislature.gov/Session/Committee/1217/Detail
+- url: https://sdlegislature.gov/Session/Committee/1251/Detail
+- url: https://sdlegislature.gov/Session/Committee/1286/Detail
+links:
+- url: https://sdlegislature.gov/Session/Committee/1180/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1217/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1251/Detail
+- url: https://sdlegislature.gov/Session/Committee/1286/Detail
+members:
+- name: Larry Zikmund
+  role: chair
+  person_id: ocd-person/5e23171d-49a3-471f-a6f8-24b057f2d836
+- name: Sam Marty
+  role: vice chair
+  person_id: ocd-person/3ff2f0b9-b570-4980-941f-9616ea0bbc55
+- name: Greg Blanc
+  role: member
+  person_id: ocd-person/4a052dc7-31aa-4a24-b72d-7e922ce7bf8b
+- name: Joy Hohn
+  role: member
+  person_id: ocd-person/3a454e94-ca27-4e34-b603-c2768c047bc3
+- name: Taffy Howard
+  role: member
+  person_id: ocd-person/f06bd3c9-8cac-4cc6-be62-f949e51f28eb
+other_names:
+- name: Senate Committee on Military and Veterans Affairs
+- name: Senate Military and Veterans Affairs
+- name: Senate Military and Veterans Affairs Committee

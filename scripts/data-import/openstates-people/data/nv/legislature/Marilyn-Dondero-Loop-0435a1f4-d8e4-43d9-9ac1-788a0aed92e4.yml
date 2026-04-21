@@ -1,0 +1,57 @@
+id: ocd-person/0435a1f4-d8e4-43d9-9ac1-788a0aed92e4
+name: Marilyn Dondero Loop
+given_name: Marilyn
+family_name: Dondero Loop
+gender: Female
+email: marilyn.donderoloop@sen.state.nv.us
+image: http://leg.state.nv.us/Session/80th2019/legislators/Senators/Images/DonderoLoop.Marilyn.92.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2018-11-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '8'
+- start_date: 2008-11-04
+  end_date: 2014-11-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '8'
+- start_date: 2009-01-01
+  end_date: 2014-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '5'
+offices:
+- classification: capitol
+  address: Room 2129, Nevada Senate 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-1445
+- classification: district
+  address: Room 330, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=92
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/8
+  note: homepage
+other_names:
+- name: Dondero Loop, M.
+- name: Dondero Loop, Marilyn
+- name: M. Dondero Loop
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NVL000076
+- scheme: legacy_openstates
+  identifier: NVL000034
+- scheme: legacy_openstates
+  identifier: NVL000171
+- scheme: legacy_openstates
+  identifier: NVL000230
+- scheme: openstates
+  identifier: ocd-person/a8534d64-df56-4c14-8ab7-7ba720aea74a
+sources:
+- url: https://ballotpedia.org/Marilyn_Dondero_Loop
+- url: https://en.wikipedia.org/wiki/Marilyn_Dondero_Loop
+- url: https://justfacts.votesmart.org/candidate/biography/106888/marilyn-dondero-loop
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=92
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/8
+- url: https://www.linkedin.com/in/marilyn-dondero-loop-aa496b78

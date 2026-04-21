@@ -1,0 +1,72 @@
+id: ocd-person/edcefea3-7cd4-4128-92ef-b22bc4a7c0b4
+name: Timothy Soucy
+given_name: Timothy
+family_name: Soucy
+gender: Male
+email: timothy.soucy@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/50360.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 21
+- end_date: 2016-06-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 21
+  start_date: 2022-12-07
+- start_date: 2016-12-07
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 21
+- start_date: 2013-01-01
+  end_date: 2016-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 34
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 16
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=376869
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376869
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=599
+  note: member detail page
+other_names:
+- name: Soucy, T.
+- name: T. Soucy
+- name: T.A. Soucy
+- name: Timothy A. Soucy
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001454
+- scheme: legacy_openstates
+  identifier: NHL000740
+- scheme: legacy_openstates
+  identifier: NHL000931
+- scheme: openstates
+  identifier: ocd-person/02e4d365-e1db-42b1-907e-0bc87ca7febb
+sources:
+- url: https://ballotpedia.org/Timothy_Soucy
+- url: https://en.wikipedia.org/wiki/Timothy_Soucy
+- url: https://gc.nh.gov/house/members/member.aspx?member=376869
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/109848/timothy-soucy
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376869
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=599
+extras:
+  county: Merrimack
+  elected status: Incumbent
+  gender code: M

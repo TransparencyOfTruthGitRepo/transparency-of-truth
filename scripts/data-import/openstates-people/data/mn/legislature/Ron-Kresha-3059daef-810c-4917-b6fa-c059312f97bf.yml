@@ -1,0 +1,40 @@
+id: ocd-person/3059daef-810c-4917-b6fa-c059312f97bf
+name: Ron Kresha
+given_name: Ron
+family_name: Kresha
+birth_date: 1969-12-16
+gender: Male
+email: rep.ron.kresha@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/10A.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 10A
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 9B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-4247
+links:
+- url: https://www.house.mn.gov/members/profile/15404
+other_names:
+- name: Kresha, R.
+- name: R. Kresha
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000428
+- scheme: legacy_openstates
+  identifier: MNL000596
+sources:
+- url: https://ballotpedia.org/Ron_Kresha
+- url: https://en.wikipedia.org/wiki/Ron_Kresha
+- url: https://justfacts.votesmart.org/candidate/biography/140955/ron-kresha
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15404
+- url: https://www.linkedin.com/in/ronkresha

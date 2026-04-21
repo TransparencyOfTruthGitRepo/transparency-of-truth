@@ -1,0 +1,31 @@
+id: ocd-person/cc1fb64b-859b-4009-88b3-2cb23e7e9d9b
+name: Rick Garcia
+given_name: Rick
+family_name: Garcia
+gender: Male
+email: rick.garcia@wvhouse.gov
+image: https://www.wvlegislature.gov/images/members/2025/house/garcia_rick.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '76'
+offices:
+- classification: capitol
+  address: State Capitol Room 6R, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3124
+links:
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Garcia
+other_names:
+- name: Garcia, R
+- name: Garcia, R.
+- name: R. Garcia
+sources:
+- url: https://ballotpedia.org/Rick_Garcia_(West_Virginia)
+- url: https://en.wikipedia.org/wiki/Rick_Garcia
+- url: https://justfacts.votesmart.org/candidate/biography/163738/rick-garcia
+- url: https://www.linkedin.com/in/rick-garcia-63b6ba65
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Garcia

@@ -1,0 +1,20 @@
+id: ocd-person/743c969d-3d1f-4c74-bc36-2696f0a374b0
+name: Ben Waide
+given_name: Ben
+family_name: Waide
+image: http://www.lrc.ky.gov/pubinfo/thumbnails/House10.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '10'
+links:
+- url: http://www.lrc.ky.gov/legislator/H010.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000131
+sources:
+- url: http://www.lrc.ky.gov/legislator/H010.htm

@@ -1,0 +1,57 @@
+id: ocd-person/b12abcbf-fbbe-4464-854e-6960b024e62a
+name: Brian Seaworth
+given_name: Brian
+family_name: Seaworth
+gender: Male
+email: brian.seaworth@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/50176.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 12
+- start_date: 2014-12-03
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 12
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 20
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=377023
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377023
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=944
+  note: member detail page
+other_names:
+- name: B. Seaworth
+- name: G. Brian Seaworth
+- name: Seaworth, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001185
+sources:
+- url: https://ballotpedia.org/Brian_Seaworth
+- url: https://en.wikipedia.org/wiki/Brian_Seaworth
+- url: https://gc.nh.gov/house/members/member.aspx?member=377023
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/109936/brian-seaworth
+- url: https://www.brianseaworth.org/bio.html
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377023
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=944
+- url: https://www.linkedin.com/in/brian-seaworth-5761b0
+extras:
+  county: Merrimack
+  elected status: Incumbent
+  gender code: M

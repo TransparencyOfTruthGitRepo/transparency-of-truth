@@ -1,0 +1,29 @@
+id: ocd-person/13a5093c-abc8-4c14-ae71-364041461c03
+name: Ronald J Belanger
+given_name: Ronald
+family_name: Belanger
+middle_name: J.
+party:
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 8
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 4
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000045
+- scheme: legacy_openstates
+  identifier: NHL000447
+- scheme: legacy_openstates
+  identifier: NHL000989
+sources:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt

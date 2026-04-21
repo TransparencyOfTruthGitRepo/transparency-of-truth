@@ -1,0 +1,24 @@
+id: ocd-person/51f06841-fa33-4394-949f-9b6c8b537e45
+name: Yvonne Lewis Holley
+given_name: Yvonne Lewis
+family_name: Holley
+email: Yvonne.Holley@ncleg.net
+image: http://www.ncleg.net/House/pictures/hiRes/650.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '38'
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/650
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000285
+sources:
+- url: https://www.ncleg.gov/Members/Biography/H/650
+extras:
+  counties:
+  - Wake
+  notice: null

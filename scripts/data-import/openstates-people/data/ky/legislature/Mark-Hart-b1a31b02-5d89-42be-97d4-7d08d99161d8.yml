@@ -1,0 +1,44 @@
+id: ocd-person/b1a31b02-5d89-42be-97d4-7d08d99161d8
+name: Mark Hart
+given_name: Mark
+family_name: Hart
+birth_date: 1968-12-09
+gender: Male
+email: mark.hart@kylegislature.gov
+image: https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house78.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '78'
+offices:
+- classification: capitol-mail
+  address: Room Annex 373, 702 Capital Ave., Frankfort, KY 40601
+  voice: 502-564-8100
+- classification: district
+  address: KY
+  voice: 859-654-4278
+links:
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=78
+  note: homepage
+other_names:
+- name: Hart, M.
+- name: M. Hart
+- name: M.A. Hart
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000251
+sources:
+- url: https://ballotpedia.org/Mark_Hart
+- url: https://en.wikipedia.org/wiki/Mark_Hart_(politician)
+- url: https://legislature.ky.gov/Legislators/house-of-representatives
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=78
+extras:
+  counties represented:
+  - Boone (Part)
+  - Campbell (Part)
+  - Kenton
+  mailing address: 202 W 4th St Falmouth, KY 41040
+  home city: Falmouth

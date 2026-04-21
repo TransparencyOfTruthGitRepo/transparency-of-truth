@@ -1,0 +1,55 @@
+id: ocd-person/f5a10a95-3160-4cac-9f4e-ba31e5362e7b
+name: Chris Miller
+given_name: Chris
+family_name: Miller
+birth_date: 1954-06-15
+gender: Male
+email: miller@ilhousegop.org
+image: https://cdn.ilga.gov/assets/img/members/{2A519012-9070-494B-9FFC-C2646374202E}.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '101'
+- end_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '110'
+offices:
+- classification: capitol
+  address: Room 230-N, Stratton Office Building, Springfield, IL 62706
+  voice: 217-558-1040
+- classification: district
+  address: 1113 Lincoln Ave., Charleston, IL 61920
+  voice: 217-508-4108
+links:
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2758
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2959
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3153
+  note: homepage
+- url: https://repcmiller.com/
+- url: https://www.ilga.gov/House/Members/Details/3362
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3153
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3362
+other_names:
+- name: C. Miller
+- name: C.G. Miller
+- name: Miller, C.
+- name: Miller, Chris
+sources:
+- url: https://ballotpedia.org/Chris_Miller_(Illinois_-_State_House)
+- url: https://en.wikipedia.org/wiki/Chris_Miller_(politician)
+- url: https://ilga.gov/house/default.asp?GA=101
+- url: https://ilga.gov/house/default.asp?GA=102
+- url: https://ilga.gov/house/default.asp?GA=103
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2758
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2959
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3153
+- url: https://justfacts.votesmart.org/candidate/biography/177237/chris-miller
+- url: https://repcmiller.com
+- url: https://repcmiller.com/
+- url: https://www.ilga.gov/House/Members/Details/3362
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3153
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3362

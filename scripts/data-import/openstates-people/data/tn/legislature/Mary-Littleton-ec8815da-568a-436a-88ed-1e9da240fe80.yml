@@ -1,0 +1,55 @@
+id: ocd-person/ec8815da-568a-436a-88ed-1e9da240fe80
+name: Mary Littleton
+given_name: Mary
+family_name: Littleton
+birth_date: 1957-09-07
+gender: Female
+email: rep.mary.littleton@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h78.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '78'
+offices:
+- classification: capitol
+  address: Room 632, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-7477
+links:
+- url: https://tnhousegop.org/members/representative-mary-littleton/
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H78
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H78
+- url: https://www.capitol.tn.gov/house/members/h78.html
+other_names:
+- name: Littleton, M
+- name: Littleton, M.
+- name: M. Littleton
+- name: M.J. Littleton
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000214
+- scheme: legacy_openstates
+  identifier: TNL000283
+- scheme: legacy_openstates
+  identifier: TNL000335
+sources:
+- url: https://ballotpedia.org/Mary_Littleton
+- url: https://en.wikipedia.org/wiki/Mary_Littleton
+- url: https://justfacts.votesmart.org/candidate/138796/mary-littleton
+- url: https://tnhousegop.org/members/representative-mary-littleton
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H78
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H78
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h78.html
+extras:
+  office: 632 CHB
+  personal info:
+  - Born September 7, 1957
+  - 4 children, 5 grandchildren
+  - Church of Christ

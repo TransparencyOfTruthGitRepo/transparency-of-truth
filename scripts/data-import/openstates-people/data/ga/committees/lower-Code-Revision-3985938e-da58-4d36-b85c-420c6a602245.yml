@@ -1,0 +1,71 @@
+id: ocd-organization/3985938e-da58-4d36-b85c-420c6a602245
+jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+classification: committee
+name: Code Revision
+chamber: lower
+sources:
+- url: https://www.legis.ga.gov/api/committees/details/127/1029
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/details/127/1031
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1029
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1031
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/committees/house/127
+links:
+- url: https://www.legis.ga.gov/committees/house/127
+  note: homepage
+members:
+- name: Martin Momtahan
+  role: chair
+  person_id: ocd-person/6552dd8d-1020-4bbb-abfc-88975573ebd4
+- name: Jordan Ridley
+  role: vice chair
+  person_id: ocd-person/56f28f8a-9296-4e69-9bd4-d0101a42b359
+- name: Carter Barrett
+  role: secretary
+  person_id: ocd-person/72370a62-92f4-46f1-ab7b-193a643085b8
+- name: Deborah Silcox
+  role: member
+  person_id: ocd-person/b824f8fd-7343-449d-8027-fcd0afaf1949
+- name: Don Parsons
+  role: member
+  person_id: ocd-person/81dde544-49e9-4fb0-9313-32eacaf6194b
+- name: Doreen Carter
+  role: member
+  person_id: ocd-person/818f1afb-2850-448e-99c1-be63a9acfe95
+- name: El-Mahdi Holly
+  role: member
+  person_id: ocd-person/4615e308-db74-408f-89df-02be56b5013b
+- name: Mary Ann Santos
+  role: member
+  person_id: ocd-person/7deae3f1-5548-4afe-9018-e8112945fd8d
+- name: Mekyah McQueen
+  role: member
+  person_id: ocd-person/f0af2586-d535-4e44-bcaa-65239f9390b1
+- name: Mike Cheokas
+  role: member
+  person_id: ocd-person/1831cc73-e694-4cea-83a4-b55c3495f76a
+- name: Mitchell Scoggins
+  role: member
+  person_id: ocd-person/7ac30a66-1649-4a8c-a72f-a4b9a7ab1534
+- name: Sylvia Wayfer
+  role: member
+  person_id: ocd-person/cabc1e6f-ba7c-4063-a778-707579f91ec8
+- name: Tangie Herring
+  role: member
+  person_id: ocd-person/c5766526-3a5a-4d33-b5ff-a0d1d358d7ae
+- name: Tanya Miller
+  role: member
+  person_id: ocd-person/6e5432a3-09ed-4813-b11d-e97222bb7e4d
+- name: Trey Kelley
+  role: member
+  person_id: ocd-person/6ac8933e-8dde-4902-8eec-61cc5a91c844
+other_names:
+- name: House Code Revision
+- name: House Code Revision Committee
+- name: House Committee on Code Revision
+extras:
+  address: 601-H Coverdell Legislative Office Bldg.  Atlanta, GA 30334
+  phone: '4046560254'

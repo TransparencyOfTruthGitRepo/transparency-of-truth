@@ -1,0 +1,38 @@
+id: ocd-person/f602a657-8951-4dcb-9bd8-c04bcce4ba56
+name: Daniel Alders
+given_name: Daniel
+family_name: Alders
+birth_date: 1986-11-14
+gender: Male
+email: daniel.alders@house.texas.gov
+image: https://www.house.texas.gov/images/members/4395.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '6'
+offices:
+- classification: capitol
+  address: Room E2.402, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0584
+- classification: district
+  address: 110 N. College Ave. Suite 217, Tyler, TX 75702
+  voice: 903-350-0610
+links:
+- url: https://www.house.texas.gov/members/4395
+- url: https://www.house.texas.gov/members/6
+other_names:
+- name: Alders, D.
+- name: Alders, Daniel
+- name: B.D. Alders
+- name: D. Alders
+sources:
+- url: https://ballotpedia.org/Daniel_Alders
+- url: https://en.wikipedia.org/wiki/Daniel_Alders
+- url: https://justfacts.votesmart.org/candidate/biography/213312/daniel-alders
+- url: https://www.house.texas.gov/members/4395
+- url: https://www.house.texas.gov/members/4395/biography
+- url: https://www.house.texas.gov/members/6
+- url: https://www.linkedin.com/in/danielalders

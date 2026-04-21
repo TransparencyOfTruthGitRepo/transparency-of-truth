@@ -1,0 +1,41 @@
+id: ocd-person/1300735f-1441-4861-b20f-c1fa3e222c08
+name: Wendy Fink
+given_name: Wendy
+family_name: Fink
+gender: Female
+email: wfink@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1956.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '94'
+offices:
+- classification: capitol
+  address: Room 410, Irvis Office Building P.O. Box 202094, Harrisburg, PA 17120
+  voice: 717-783-6426
+- classification: district
+  address: 100 Redco Ave., Red Lion, PA 17356
+  voice: 717-244-9232
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1956
+  note: homepage
+- url: https://www.palegis.us/house/members/bio/1956/rep-fink
+- url: https://www.repwendyfink.com/
+other_names:
+- name: Fink, W.
+- name: W. Fink
+- name: W.J. Fink
+ids:
+  facebook: RepWendyFink
+sources:
+- url: https://ballotpedia.org/Wendy_Fink
+- url: https://en.wikipedia.org/wiki/Wendy_Fink
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1956
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.palegis.us/house/members/bio/1956/rep-fink
+- url: https://www.repwendyfink.com
+extras:
+  website: http://www.RepWendyFink.com

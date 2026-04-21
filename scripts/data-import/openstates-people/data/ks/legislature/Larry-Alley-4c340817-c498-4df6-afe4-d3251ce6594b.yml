@@ -1,0 +1,43 @@
+id: ocd-person/4c340817-c498-4df6-afe4-d3251ce6594b
+name: Larry Alley
+given_name: Larry
+family_name: Alley
+birth_date: 1948-09-23
+gender: Male
+email: larry.alley@senate.ks.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Larry_Alley.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '32'
+offices:
+- classification: capitol
+  address: State Capitol Room 441-E, Kansas  Building 300 SW 10th St., Topeka, KS
+    66612
+  voice: 785-296-7370
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/sen_alley_larry_1/
+- url: https://www.kslegislature.org/li/b2019_20/members/sen_alley_larry_1/
+- url: https://www.kslegislature.org/li/b2021_22/members/sen_alley_larry_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/sen_alley_larry_1/
+other_names:
+- name: Alley, L.
+- name: L. Alley
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KSL000355
+sources:
+- url: https://ballotpedia.org/Larry_Alley
+- url: https://justfacts.votesmart.org/candidate/biography/128209/larry-alley
+- url: https://www.kslegislature.gov/li/b2025_26/members/sen_alley_larry_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/sen_alley_larry_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/sen_alley_larry_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/sen_alley_larry_1
+- url: https://www.kslegislature.org/li/b2023_24/members/sen_alley_larry_1/
+- url: https://www.linkedin.com/in/larry-alley-201a4a148
+- url: https://www.linkedin.com/in/larry-alley-32831430
+extras:
+  occupation: Retired

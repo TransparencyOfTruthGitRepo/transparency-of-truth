@@ -1,0 +1,50 @@
+id: ocd-person/df116f27-98bd-497d-a5bc-9f1d7ddff506
+name: Justin Pearson
+given_name: Justin
+family_name: Pearson
+birth_date: 1995-01-07
+gender: Male
+email: rep.justin.j.pearson@capitol.tn.gov
+image: https://images.squarespace-cdn.com/content/v1/638e0e4731cb8444ce5a20e8/1d467f44-2f5f-42d0-96e9-8819eee165fb/Justin_21.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-04-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '86'
+- start_date: 2023-02-09
+  end_date: 2023-04-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '86'
+offices:
+- classification: capitol
+  address: Room 572, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-4295
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H86
+  note: homepage
+other_names:
+- name: J. Pearson
+- name: J.J. Pearson
+- name: Justin J. Pearson
+- name: Pearson, J
+- name: Pearson, J.
+sources:
+- url: https://ballotpedia.org/Justin_Pearson_(Tennessee)
+- url: https://en.wikipedia.org/wiki/Justin_J._Pearson
+- url: https://justfacts.votesmart.org/candidate/biography/211334/justin-pearson
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H86
+- url: https://www.linkedin.com/in/justinjpearson
+extras:
+  office: 572 CHB
+  personal info:
+  - Born January 7, 1995
+  - Not Married
+  - Public Servant
+  - Liberation Christianity
+  - Mitchell High School
+  - Bowdoin College

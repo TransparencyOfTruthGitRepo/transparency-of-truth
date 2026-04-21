@@ -1,0 +1,53 @@
+id: ocd-person/a6de4da4-59cb-4214-8753-8b92683f3df4
+name: Conny Varela
+given_name: Conny
+family_name: Varela
+birth_date: 1954-02-13
+gender: Male
+email: jvarela@camara.pr.gov
+image: https://www.camara.pr.gov/wp-content/uploads/2020/07/REP.-JOSE-CONNY-VARELA-DIST.-32-1.jpg
+party:
+- name: "Partido Popular Democr\xE1tico"
+roles:
+- start_date: 1997-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: '32'
+offices:
+- classification: capitol
+  address: "El Capitolio, Avenida Constituci\xF3n P.O. Box 9022228, San Juan, PR 00902"
+  voice: 787-725-3928
+links:
+- url: https://camara.registrok12.com/team/jose-conny-varela/
+- url: https://rfsp.eticapr.com/Busqueda
+  note: resumen financiero
+- url: https://www.camara.pr.gov/team/jose-varela/
+  note: homepage
+- url: https://www.tucamarapr.org/dnncamara/ComposiciondelaCamara/biografia.aspx?rep=35
+other_names:
+- name: C. Varela
+- name: J.M. Varela
+- name: "Jos\xE9 M. Varela Fern\xE1ndez"
+- name: "Jos\xE9 \u201CConny\u201D Varela"
+- name: Varela, C.
+ids:
+  twitter: connyvarelarep
+  instagram: connyvarelarep/
+  facebook: conny.representante
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PRL000063
+sources:
+- url: https://ballotpedia.org/Jos%C3%A9_Varela_Fern%C3%A1ndez
+- url: https://camara.registrok12.com/team/jose-conny-varela
+- url: https://en.wikipedia.org/wiki/Conny_Varela
+- url: https://www.camara.pr.gov/page-team
+- url: https://www.camara.pr.gov/page-team/
+- url: https://www.camara.pr.gov/team/jose-varela
+- url: https://www.camara.pr.gov/team/jose-varela/
+- url: https://www.tucamarapr.org/dnncamara/ComposiciondelaCamara/Biografia.aspx
+- url: https://www.tucamarapr.org/dnncamara/ComposiciondelaCamara/biografia.aspx?rep=35
+extras:
+  role: Vicepresidente
+  committees: "Gobierno- Comisi\xF3n Conjunta Sobre Asuntos de Estatus- COMISION PARA\
+    \ EL ESTUDIO Y EVALUACION DEL DERECHO CONSTITUCIONAL Y ASUNTOS ELECTORALES"

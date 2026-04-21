@@ -1,0 +1,38 @@
+id: ocd-person/e7bb9291-fd90-4db8-b3e6-c90ebc41c997
+name: Trish Ladner
+given_name: Trish
+family_name: Ladner
+gender: Female
+email: trish.ladner@sdlegislature.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Trish_Ladner.png
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '30'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3851
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/3802/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4384/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4522/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4629/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4779/Detail
+other_names:
+- name: Ladner, T.
+- name: T. Ladner
+sources:
+- url: https://ballotpedia.org/Trish_Ladner
+- url: https://en.wikipedia.org/wiki/Trish_Ladner
+- url: https://justfacts.votesmart.org/candidate/biography/191475/trish-ladner
+- url: https://sdlegislature.gov/Legislators/Profile/3802/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4384/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4522/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4629/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4779/Detail
+extras:
+  occupation: Business Owner

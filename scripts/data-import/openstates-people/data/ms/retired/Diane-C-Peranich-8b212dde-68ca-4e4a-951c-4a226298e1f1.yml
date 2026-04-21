@@ -1,0 +1,21 @@
+id: ocd-person/8b212dde-68ca-4e4a-951c-4a226298e1f1
+name: Diane C Peranich
+given_name: Diane
+family_name: Peranich
+middle_name: C
+image: http://billstatus.ls.state.ms.us/members/house/peranich.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2011-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '121'
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/peranich.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000135
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/peranich.xml

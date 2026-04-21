@@ -1,0 +1,34 @@
+id: ocd-person/c08afca2-f312-4cb0-a9c5-58be80d81df1
+name: Todd Morgan
+given_name: Todd
+family_name: Morgan
+birth_date: 1956-01-16
+gender: Male
+email: todd.morgan@house.maryland.gov
+image: https://mgaleg.maryland.gov/2023RS/images/morgan03.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 29C
+offices:
+- classification: capitol
+  address: Room 215, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3319
+- classification: district-mail
+  address: P.O. Box 865, Solomons, MD 20688
+  voice: 410-841-3319
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/morgan03
+other_names:
+- name: Morgan, T.
+- name: T. Morgan
+- name: T.B. Morgan
+- name: Todd B. Morgan
+sources:
+- url: https://ballotpedia.org/Todd_Morgan
+- url: https://en.wikipedia.org/wiki/Todd_Morgan_(politician)
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/morgan03
+- url: https://toddmorganfordelegate.com

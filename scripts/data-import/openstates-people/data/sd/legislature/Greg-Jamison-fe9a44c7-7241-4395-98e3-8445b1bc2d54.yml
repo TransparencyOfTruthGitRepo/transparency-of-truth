@@ -1,0 +1,47 @@
+id: ocd-person/fe9a44c7-7241-4395-98e3-8445b1bc2d54
+name: Greg Jamison
+given_name: Greg
+family_name: Jamison
+gender: Male
+email: greg.jamison@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Jamison_2017.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '12'
+- start_date: 2017-01-10
+  end_date: 2019-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '12'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3851
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1536&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Profile/4373/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4616/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4768/Detail
+other_names:
+- name: G. Jamison
+- name: Greg A. Jamison
+- name: Jamison, G.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000312
+- scheme: openstates
+  identifier: ocd-person/c0ae60ce-48cc-497a-890f-575d643566eb
+sources:
+- url: https://ballotpedia.org/Greg_Jamison
+- url: https://en.wikipedia.org/wiki/Greg_Jamison
+- url: https://justfacts.votesmart.org/candidate/biography/77866/greg-jamison
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1536&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Profile/4373/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4616/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4768/Detail
+extras:
+  occupation: Real Estate Broker Associate

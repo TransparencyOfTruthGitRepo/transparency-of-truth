@@ -1,0 +1,40 @@
+id: ocd-organization/b2a64d16-af25-42ac-849d-4933af95e1d4
+jurisdiction: ocd-jurisdiction/country:us/state:hi/government
+classification: committee
+name: Tourism
+chamber: lower
+sources:
+- url: https://www.capitol.hawaii.gov/comminfolist.aspx
+  note: Committee list page
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=TOU
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=TOU&year=2023
+  note: Committee member list
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=TOU&year=2024
+links:
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=TOU
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=TOU&year=2023
+  note: homepage
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=TOU&year=2024
+members:
+- name: Adrian Tam
+  role: chair
+  person_id: ocd-person/0ce91900-de38-4ab2-a6fe-089b04b20b74
+- name: Shirley Templo
+  role: vice chair
+  person_id: ocd-person/58181d36-e194-462d-a3cb-b3ab7615fbf9
+- name: Greggor Ilagan
+  role: member
+  person_id: ocd-person/d56e9f60-c26e-4437-90d7-4414957e737d
+- name: Ikaika Hussey
+  role: member
+  person_id: ocd-person/2f96974d-decf-46e2-8aed-adf60e072e1e
+- name: Joe Gedeon
+  role: member
+  person_id: ocd-person/06d54403-a57b-40f8-96a6-94b58f4b2a0c
+- name: Kyle Yamashita
+  role: member
+  person_id: ocd-person/51f31e1a-2fe4-4029-b49c-c3affa0b848d
+other_names:
+- name: House Committee on Tourism
+- name: House Tourism
+- name: House Tourism Committee

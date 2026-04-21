@@ -1,0 +1,24 @@
+id: ocd-person/e7e4b677-33e1-41a0-9c12-5618de42819a
+name: Jay Inslee
+given_name: Jay
+family_name: Inslee
+birth_date: 1951-02-09
+image: https://www.governor.wa.gov/sites/default/files/Gov_Headshot_1_8_20_HighContrast.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-16
+  end_date: 2025-01-15
+  type: governor
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+offices:
+- classification: capitol
+  voice: 360-902-4111
+  fax: 360-753-4110
+links:
+- url: https://www.governor.wa.gov/
+ids:
+  twitter: GovInslee
+sources:
+- url: https://www.governor.wa.gov/
+- url: https://en.wikipedia.org/wiki/List_of_governors_of_Washington

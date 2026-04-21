@@ -1,0 +1,39 @@
+id: ocd-organization/af1bd840-9a86-4260-a95c-090628d3c13d
+jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+classification: committee
+name: Local Government
+chamber: upper
+sources:
+- url: https://ohiosenate.gov/committees/local-government
+  note: Committee member listing page
+links:
+- url: https://ohiosenate.gov/committees/local-government
+  note: homepage
+members:
+- name: Sandy O'Brien
+  role: chair
+  person_id: ocd-person/d665e333-f7e3-43e2-b440-17920f62c60b
+- name: Theresa Gavarone
+  role: vice chair
+  person_id: ocd-person/0fe32749-fe89-4f96-87d3-3d831bea2459
+- name: Kent Smith
+  role: ranking member
+  person_id: ocd-person/d9c3dfce-8b7f-402f-9dec-5179e38b528f
+- name: Al Landis
+  role: member
+  person_id: ocd-person/debec71d-fcfb-4422-9c9e-c6a8709cbb3a
+- name: Kyle Koehler
+  role: member
+  person_id: ocd-person/f2e79c7c-7e3a-496d-8f87-d43b62eb54a5
+- name: Paula Hicks-Hudson
+  role: member
+  person_id: ocd-person/3329274c-22b6-4b0a-b12a-e64c5733bef9
+- name: Shane Wilkin
+  role: member
+  person_id: ocd-person/bb1ae016-cdfe-48aa-8bc5-9e3636e430f3
+other_names:
+- name: Committee on Local Government
+- name: Local Government Committee
+- name: Senate Committee on Local Government
+- name: Senate Local Government
+- name: Senate Local Government Committee

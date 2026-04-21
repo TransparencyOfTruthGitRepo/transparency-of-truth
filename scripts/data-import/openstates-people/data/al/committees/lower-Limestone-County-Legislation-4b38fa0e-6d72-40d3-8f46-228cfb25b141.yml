@@ -1,0 +1,43 @@
+id: ocd-organization/4b38fa0e-6d72-40d3-8f46-228cfb25b141
+jurisdiction: ocd-jurisdiction/country:us/state:al/government
+classification: committee
+name: Limestone County Legislation
+chamber: lower
+sources:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: Committee list api call
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/HouseCommittees.aspx
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=3192&COMMITTEE=Limestone%20County%20Legislation
+links:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=3192&COMMITTEE=Limestone%20County%20Legislation
+  note: homepage
+members:
+- name: Danny Crawford
+  role: chair
+  person_id: ocd-person/749e2cb2-e087-4920-aea3-b40d28f56db5
+- name: Parker Moore
+  role: vice chair
+  person_id: ocd-person/95e63d6f-1815-4364-8817-0d26e360013f
+- name: Andy Whitt
+  role: member
+  person_id: ocd-person/c128ed12-dd1b-4b5f-8c64-9d86bf9d6580
+- name: Ben Harrison
+  role: member
+  person_id: ocd-person/a2413268-fe7d-4a14-839c-14e9723da23a
+- name: Phillip Rigsby
+  role: member
+  person_id: ocd-person/78f07b0c-9939-4e03-81f8-f851511a46cb
+other_names:
+- name: Committee on Limestone County Legislation
+- name: House Committee on Limestone County Legislation
+- name: House Limestone County Legislation
+- name: House Limestone County Legislation Committee
+- name: Limestone County Legislation Committee
+extras:
+  Clerk: Adam Rawlins
+  Phone: (334) 261-0493
+  Email: adam.rawlins@alhouse.gov
+  Room: Room 538B

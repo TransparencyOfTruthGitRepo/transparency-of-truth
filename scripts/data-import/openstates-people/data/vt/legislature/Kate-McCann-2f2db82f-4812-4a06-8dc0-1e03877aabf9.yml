@@ -1,0 +1,39 @@
+id: ocd-person/2f2db82f-4812-4a06-8dc0-1e03877aabf9
+name: Kate McCann
+given_name: Kate
+family_name: McCann
+gender: Female
+email: kmccann@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/McCann,Kate.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Washington-4
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+links:
+- url: https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Washington-4.pdf
+  note: district map
+- url: https://legislature.vermont.gov/people/single/2024/37375
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2026/37375
+other_names:
+- name: K. McCann
+- name: McCann, K.
+sources:
+- url: https://ballotpedia.org/Kate_McCann
+- url: https://en.wikipedia.org/wiki/Kate_McCann_(politician)
+- url: https://legislature.vermont.gov/people/loadAll/2024
+- url: https://legislature.vermont.gov/people/single/2024/37375
+- url: https://legislature.vermont.gov/people/single/2026/37375
+- url: https://science.osti.gov/wdts/einstein/Fellows-Central/Alumni-Fellows/Kate-McCann
+- url: https://www.linkedin.com/in/kate-mccann-b15389120
+extras:
+  home address: 82 Trillium HL Montpelier, VT 05602
+  home phone: (802) 318-3739
+  state email: kmccann@leg.state.vt.us

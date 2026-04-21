@@ -1,0 +1,32 @@
+id: ocd-person/f21c6232-b4fe-4d33-a4da-1e714413e4ae
+name: LaVar Christensen
+given_name: LaVar
+family_name: Christensen
+image: https://le.utah.gov/images/legislator/CHRISFL.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '32'
+links:
+- url: http://house.utah.gov/rep/CHRISFL
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: UTL000040
+- scheme: legacy_openstates
+  identifier: UTL000128
+- scheme: legacy_openstates
+  identifier: UTL000232
+sources:
+- url: http://le.utah.gov/data/legislators.json
+extras:
+  links:
+  - https://le.utah.gov/house2/CofI/COFICHRISFL1.pdf
+  - https://le.utah.gov/house2/CofI/COFICHRISFL.pdf
+  - http://le.utah.gov/house2/CofI/lchristensen3.pdf
+  - http://le.utah.gov/house2/CofI/lchristensen2.pdf
+  - http://le.utah.gov/house2/CofI/lchristensen.pdf
+  - http://le.utah.gov/house2/CofI/CHRISFL.pdf
+  - http://www.disclosures.utah.gov/Search/PublicSearch/FolderDetails/1409

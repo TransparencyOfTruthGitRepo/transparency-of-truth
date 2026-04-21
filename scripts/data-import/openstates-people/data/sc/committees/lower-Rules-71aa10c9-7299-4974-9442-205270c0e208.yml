@@ -1,0 +1,65 @@
+id: ocd-organization/71aa10c9-7299-4974-9442-205270c0e208
+jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+classification: committee
+name: Rules
+chamber: lower
+sources:
+- url: https://www.scstatehouse.gov/committee.php?chamber=H
+  note: Committee list page
+- url: https://www.scstatehouse.gov/CommitteeInfo/HouseRules
+- url: https://www.scstatehouse.gov/CommitteeInfo/houserules.php
+  note: Committee details page
+links:
+- url: https://www.scstatehouse.gov/CommitteeInfo/HouseRules
+- url: https://www.scstatehouse.gov/CommitteeInfo/houserules.php
+  note: homepage
+members:
+- name: Micah Caskey
+  role: chair
+  person_id: ocd-person/32c6ccd9-4b56-4075-a99b-1882f4dd176d
+- name: Cal Forrest
+  role: vice chair
+  person_id: ocd-person/bbff9a4c-7b59-4538-b869-64ba0c8431ff
+- name: Bill Clyburn
+  role: member
+  person_id: ocd-person/58d2072a-c96a-49b2-8591-a4e186dc28eb
+- name: Brandon Newton
+  role: member
+  person_id: ocd-person/aa158d61-1373-4c4a-9ad3-ea74bf422cc3
+- name: Case Brittain
+  role: member
+  person_id: ocd-person/30329193-5519-45c5-a7de-f841e62b91ac
+- name: Cody Mitchell
+  role: member
+  person_id: ocd-person/16726551-937d-43ca-a13b-c94c608d1ba3
+- name: Davey Hiott
+  role: member
+  person_id: ocd-person/14b0abeb-70fd-404b-9f55-ff2e75e2c7ef
+- name: Fawn Pedalino
+  role: member
+  person_id: ocd-person/5861846a-d293-416f-b5ab-227f8fd12b94
+- name: Jackie Hayes
+  role: member
+  person_id: ocd-person/0193ab02-383a-4b92-a810-00fd0bf0fb98
+- name: Joe Bustos
+  role: member
+  person_id: ocd-person/35125937-cf55-4408-883f-6f81e45b0063
+- name: Kevin Hardee
+  role: member
+  person_id: ocd-person/ad6c27e9-3571-477c-9d94-92127d0020e7
+- name: Lee Hewitt
+  role: member
+  person_id: ocd-person/eba98c82-1f71-45c1-951f-40076eb34a8b
+- name: Luke Rankin
+  role: member
+  person_id: ocd-person/94b1b04a-1be7-4128-b7ac-0c3b299b7d53
+- name: Phillip Lowe
+  role: member
+  person_id: ocd-person/92bc68c6-b20b-4eec-a315-b0d5495db8ec
+- name: Spencer Wetmore
+  role: member
+  person_id: ocd-person/a0512457-cf73-4c3a-8190-d381a90af2d8
+other_names:
+- name: House Committee on Rules
+- name: House Rules
+- name: House Rules Committee

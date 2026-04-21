@@ -1,0 +1,24 @@
+id: ocd-person/b76d8534-1ed1-43ae-af45-0d039c1bc718
+name: Craig Kennedy
+given_name: Craig
+family_name: Kennedy
+email: Craig.Kennedy@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Kennedy_2017.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '18'
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1524&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1601&Session=2019
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000302
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1524&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1601&Session=2019
+extras:
+  occupation: Attorney

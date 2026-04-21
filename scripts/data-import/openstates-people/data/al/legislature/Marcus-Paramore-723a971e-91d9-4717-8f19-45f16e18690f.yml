@@ -1,0 +1,37 @@
+id: ocd-person/723a971e-91d9-4717-8f19-45f16e18690f
+name: Marcus Paramore
+given_name: Marcus
+family_name: Paramore
+gender: Male
+email: marcusforhouse@gmail.com
+image: https://www.legislature.state.al.us/pdf/house/members/Paramore_89.png
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '89'
+offices:
+- classification: capitol
+  address: Room 433, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0593
+- classification: district-mail
+  address: P.O. Box 211, Troy, AL 36081
+  voice: 334-546-1242
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+other_names:
+- name: M. Paramore
+- name: M.B. Paramore
+- name: Paramore, M.
+sources:
+- url: https://ballotpedia.org/Marcus_Paramore
+- url: https://en.wikipedia.org/wiki/Marcus_Paramore
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/180606/marcus-paramore
+- url: https://www.linkedin.com/in/marcus-paramore-4970ab14
+extras:
+  counties: Dale County, Pike County

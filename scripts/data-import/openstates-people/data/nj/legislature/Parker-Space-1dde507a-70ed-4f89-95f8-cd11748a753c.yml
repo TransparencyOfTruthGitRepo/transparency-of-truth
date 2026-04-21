@@ -1,0 +1,61 @@
+id: ocd-person/1dde507a-70ed-4f89-95f8-cd11748a753c
+name: Parker Space
+given_name: Parker
+family_name: Space
+birth_date: 1968-12-04
+gender: Male
+email: senspace@njleg.org
+image: https://www.njleg.state.nj.us/members/memberphotos/space_parker_2020.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '24'
+- start_date: 2013-03-21
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '24'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 191 Main St. Suite C, Chester, NJ 07930
+  voice: 908-955-7429
+- classification: district
+  address: One Wilson Drive Suite 2B, Sparta, NJ 07871
+  voice: 973-300-0200
+links:
+- url: https://www.njassemblygop.com/space/
+- url: https://www.njleg.state.nj.us/legislative-roster/358/assemblyman-space
+- url: https://www.njleg.state.nj.us/legislative-roster/473/senator-space
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=358
+- url: https://www.senatenj.com/158/202/Parker-Space---District-24
+- url: https://www.senatenj.com/202/Parker-Space---District-24
+other_names:
+- name: P. Space
+- name: Space, P.
+- name: Space, Parker
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000176
+sources:
+- url: https://ballotpedia.org/Parker_Space
+- url: https://en.wikipedia.org/wiki/Parker_Space
+- url: https://justfacts.votesmart.org/candidate/biography/133246/parker-space
+- url: https://www.linkedin.com/in/parker-space-a8757a29
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/358
+- url: https://www.njleg.state.nj.us/downloads.asp
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/358/assemblyman-space
+- url: https://www.njleg.state.nj.us/legislative-roster/473/senator-space
+- url: https://www.njleg.state.nj.us/members/abcroster.asp
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=358
+- url: https://www.njleg.state.nj.us/members/BIO.asp?Leg=358
+- url: https://www.senatenj.com/158/202/Parker-Space---District-24
+- url: https://www.senatenj.com/202/Parker-Space---District-24
+extras:
+  position: Deputy Minority Whip

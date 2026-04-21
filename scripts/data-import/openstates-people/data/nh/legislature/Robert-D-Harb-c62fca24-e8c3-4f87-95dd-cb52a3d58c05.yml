@@ -1,0 +1,55 @@
+id: ocd-person/c62fca24-e8c3-4f87-95dd-cb52a3d58c05
+name: Bob Harb
+given_name: Bob
+family_name: Harb
+gender: Male
+email: robert.harb@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/76012.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 20
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 20
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 14
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9293
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9293
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9293
+  note: member detail page
+other_names:
+- name: B. Harb
+- name: Harb, B.
+- name: R.D. Harb
+- name: Robert D. Harb
+sources:
+- url: https://ballotpedia.org/Robert_Harb
+- url: https://en.wikipedia.org/wiki/Robert_Harb
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9293
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9293
+- url: https://justfacts.votesmart.org/candidate/biography/185513/robert-harb
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408914
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9293
+- url: https://www.linkedin.com/in/bob-harb-b9a8b615
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: M

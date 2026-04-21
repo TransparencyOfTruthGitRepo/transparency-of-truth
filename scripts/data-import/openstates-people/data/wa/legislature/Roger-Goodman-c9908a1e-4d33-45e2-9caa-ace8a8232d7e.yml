@@ -1,0 +1,44 @@
+id: ocd-person/c9908a1e-4d33-45e2-9caa-ace8a8232d7e
+name: Roger Goodman
+given_name: Roger
+family_name: Goodman
+gender: Male
+email: roger.goodman@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/11999.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2007-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '45'
+offices:
+- classification: capitol
+  address: Room 436B, Legislative Building P.O. Box 40600, Olympia, WA 98504
+  voice: 360-786-7878
+- classification: district
+  address: 615 Market St. Suite B, Kirkland, WA 98033
+links:
+- url: https://housedemocrats.wa.gov/Goodman/
+- url: https://housedemocrats.wa.gov/goodman/
+- url: https://housedemocrats.wa.gov/legislators/Roger-Goodman/
+- url: https://leg.wa.gov/legislators/member/roger-goodman
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_names:
+- name: Goodman, R.
+- name: R. Goodman
+- name: R.E. Goodman
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000079
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=House
+- url: https://ballotpedia.org/Roger_Goodman
+- url: https://en.wikipedia.org/wiki/Roger_Goodman
+- url: https://housedemocrats.wa.gov/goodman
+- url: https://housedemocrats.wa.gov/goodman/
+- url: https://housedemocrats.wa.gov/goodman/biography
+- url: https://justfacts.votesmart.org/candidate/68784/roger-goodman
+- url: https://leg.wa.gov/legislators/member/roger-goodman
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+- url: https://www.rogergoodman.org/about-roger

@@ -1,0 +1,36 @@
+id: ocd-person/443a5f1b-63d8-4967-ba55-a51084532a98
+name: Erica D. Smith
+given_name: Erica D.
+family_name: Smith
+email: EricaD.Smith@ncleg.net
+image: http://www.ncleg.net/Senate/pictures/hiRes/391.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '3'
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/391
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000335
+- scheme: legacy_openstates
+  identifier: NCL000396
+sources:
+- url: https://www.ncleg.gov/Members/Biography/S/391
+extras:
+  counties:
+  - Bertie
+  - Chowan
+  - Edgecombe
+  - Hertford
+  - Martin
+  - Northampton
+  - Tyrrell
+  - Washington
+  - Beaufort
+  - Vance
+  - Warren
+  notice: null

@@ -1,0 +1,38 @@
+id: ocd-person/527d59db-a346-4a91-8f98-e1b57947b58c
+name: Angela Rigas
+given_name: Angela
+family_name: Rigas
+birth_date: 1974-10-10
+gender: Female
+email: angelarigas@house.mi.gov
+image: https://www.house.mi.gov/media/Representatives/Rigas-079.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '79'
+offices:
+- classification: capitol
+  address: Room N-1098, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-1403
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/RepAngelaRigas/posts
+other_names:
+- name: A. Rigas
+- name: Rigas, A.
+sources:
+- url: https://ballotpedia.org/Angela_Rigas
+- url: https://gophouse.org/member/RepAngelaRigas/about
+- url: https://gophouse.org/member/RepAngelaRigas/posts
+- url: https://RepRigas.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.house.mi.gov/repdetail/repAngelaRigas
+  note: Member Details Page
+- url: https://www.linkedin.com/in/angela-rigas-044280259

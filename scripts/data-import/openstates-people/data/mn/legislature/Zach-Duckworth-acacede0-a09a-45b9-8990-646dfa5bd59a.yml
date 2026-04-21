@@ -1,0 +1,39 @@
+id: ocd-person/acacede0-a09a-45b9-8990-646dfa5bd59a
+name: Zach Duckworth
+given_name: Zach
+family_name: Duckworth
+birth_date: 1987-07-01
+gender: Male
+email: sen.zach.duckworth@senate.mn
+image: https://www.senate.mn/graphics/58DuckworthZach.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '57'
+- start_date: 2021-01-05
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '58'
+offices:
+- classification: capitol
+  address: Room 2229, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-7633
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1246
+other_names:
+- name: Duckworth, Z.
+- name: Z. Duckworth
+sources:
+- url: https://ballotpedia.org/Zach_Duckworth
+- url: https://en.wikipedia.org/wiki/Zach_Duckworth
+- url: https://justfacts.votesmart.org/candidate/biography/194113/zach-duckworth
+- url: https://www.linkedin.com/in/zachduckworth
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/index.php
+- url: https://www.senate.mn/members/list.csv
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1246

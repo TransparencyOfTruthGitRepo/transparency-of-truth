@@ -1,0 +1,21 @@
+id: ocd-person/eb4f78b9-b74b-498f-b8bd-732eb19d53f1
+name: Sherry Appleton
+given_name: Sherry
+family_name: Appleton
+email: Sherry.Appleton@leg.wa.gov
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/appleton.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '23'
+links:
+- url: http://housedemocrats.wa.gov/legislators/Sherry-Appleton/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000054
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx

@@ -1,0 +1,21 @@
+id: ocd-person/320275f6-9432-413c-b3ec-b26e7229af9e
+name: Barbara J Comstock
+given_name: Barbara
+family_name: Comstock
+middle_name: J
+image: http://virginiageneralassembly.gov/house/members/photos/34.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2010-01-01'
+  end_date: '2015-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '34'
+links:
+- url: http://leg6.state.va.us/cgi-bin/legp604.exe?142+mbr+H214
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000060
+sources:
+- url: http://leg6.state.va.us/cgi-bin/legp604.exe?142+mbr+H214

@@ -1,0 +1,20 @@
+id: ocd-person/3b2f6c5d-5d02-4070-97a8-feb587508099
+name: Betty Overbey
+given_name: Betty
+family_name: Overbey
+image: http://www.arkleg.state.ar.us/assembly/2017/Member%20Pictures/overbey_b.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '69'
+links:
+- url: http://www.arkleg.state.ar.us/assembly/2017/2017R/Pages/MemberProfile.aspx?member=B.+Overbey
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ARL000090
+sources:
+- url: http://www.arkleg.state.ar.us/assembly/2017/2017R/Pages/MemberProfile.aspx?member=B.+Overbey

@@ -1,0 +1,64 @@
+id: ocd-person/852df922-484b-412f-a604-c2d67efee5ec
+name: Greg Hill
+given_name: Greg
+family_name: Hill
+gender: Male
+email: greghillnh@gmail.com
+image: https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/candidate-images/ghillmh3.jpg?itok=5R4Y1pzI
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 2
+- start_date: 2010-12-01
+  end_date: 2012-12-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 2
+- start_date: 2014-12-03
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 2
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 3
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=943
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=943
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=943
+  note: member detail page
+other_names:
+- name: G. Hill
+- name: Gregory G. Hill
+- name: Gregory Hill
+- name: Hill, G.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000168
+- scheme: legacy_openstates
+  identifier: NHL001094
+sources:
+- url: https://ballotpedia.org/Gregory_Hill_(New_Hampshire)
+- url: https://en.wikipedia.org/wiki/Gregory_Hill_(politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=943
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=943
+- url: https://justfacts.votesmart.org/candidate/biography/126565/gregory-hill
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376948
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=943
+extras:
+  county: Merrimack
+  elected status: Incumbent
+  gender code: M

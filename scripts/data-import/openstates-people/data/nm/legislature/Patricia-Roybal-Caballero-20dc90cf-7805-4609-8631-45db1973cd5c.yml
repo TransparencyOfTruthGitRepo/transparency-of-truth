@@ -1,0 +1,55 @@
+id: ocd-person/20dc90cf-7805-4609-8631-45db1973cd5c
+name: Pat Roybal Caballero
+given_name: Pat
+family_name: Roybal Caballero
+gender: Female
+email: pat.roybalcaballero@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HROYB.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '13'
+offices:
+- classification: capitol
+  address: State Capitol Room 314A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4416
+- classification: district-mail
+  address: P.O. Box 72574, Albuquerque, NM 87195
+links:
+- url: https://www.linkedin.com/in/patricia-roybal-caballero-2007b135/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HROYB
+  note: homepage
+other_names:
+- name: P. Roybal Caballero
+- name: P.A. Roybal Caballero
+- name: Pat A. Roybal Caballero
+- name: Patricia Roybal Caballero
+- name: Roybal Caballero, P.
+- name: Roybal Caballero, Pat
+- name: Roybal Caballero, Patricia
+ids:
+  twitter: proybalcaballer
+  instagram: state_rep_district_13
+  facebook: patricia4nm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000148
+- scheme: legacy_openstates
+  identifier: NML000224
+- scheme: legacy_openstates
+  identifier: NML000332
+sources:
+- url: https://ballotpedia.org/Patricia_A._Roybal_Caballero
+- url: https://en.wikipedia.org/wiki/Patricia_Roybal_Caballero
+- url: https://www.linkedin.com/in/patricia-roybal-caballero-2007b135
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HROYB
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Bernalillo
+  service: Representative since 2013
+  occupation: Community Econ. Developer

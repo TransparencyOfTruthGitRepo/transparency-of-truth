@@ -1,0 +1,33 @@
+id: ocd-person/ae8a2d25-fbb2-4254-976a-f9dcf0c92c6f
+name: Tara Peters
+given_name: Tara
+family_name: Peters
+gender: Female
+email: tara.peters@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2394
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '122'
+offices:
+- classification: capitol
+  address: Room 315, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-1446
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=122
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=122
+other_names:
+- name: Peters, T.
+- name: T. Peters
+- name: T.J. Peters
+sources:
+- url: https://ballotpedia.org/Tara_Peters
+- url: https://en.wikipedia.org/wiki/Tara_Peters
+- url: https://house.mo.gov/MemberDetails.aspx?district=122
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=122
+- url: https://justfacts.votesmart.org/candidate/biography/205791/tara-peters
+extras:
+  hometown: Rolla

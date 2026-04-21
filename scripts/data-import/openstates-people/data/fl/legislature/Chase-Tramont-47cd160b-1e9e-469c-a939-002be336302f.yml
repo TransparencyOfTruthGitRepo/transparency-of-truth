@@ -1,0 +1,38 @@
+id: ocd-person/47cd160b-1e9e-469c-a939-002be336302f
+name: Chase Tramont
+given_name: Chase
+family_name: Tramont
+birth_date: 1979-11-09
+gender: Male
+email: chase.tramont@flhouse.gov
+image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4867.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '30'
+offices:
+- classification: capitol
+  address: Room 214, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5030
+- classification: district
+  address: 5889 S. Williamson Blvd. Suite 201D, Port Orange, FL 32128
+  voice: 386-278-1640
+links:
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4867&LegislativeTermId=90
+  note: member detail page
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4867
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4867
+other_names:
+- name: C. Tramont
+- name: Tramont, C.
+sources:
+- url: https://ballotpedia.org/Chase_Tramont
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4867&LegislativeTermId=90
+  note: member detail page
+- url: https://www.chasetramont.com/meet-chase
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4867
+- url: https://www.linkedin.com/in/chase-tramont-3a181a185
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4867

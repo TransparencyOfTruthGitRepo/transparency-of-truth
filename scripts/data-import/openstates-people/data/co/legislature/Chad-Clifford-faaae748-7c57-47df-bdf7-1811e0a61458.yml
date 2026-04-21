@@ -1,0 +1,27 @@
+id: ocd-person/faaae748-7c57-47df-bdf7-1811e0a61458
+name: Chad Clifford
+given_name: Chad
+family_name: Clifford
+gender: Male
+email: chad.clifford.house@coleg.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '37'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-5510
+links:
+- url: https://leg.colorado.gov/legislators/chad-clifford
+other_names:
+- name: C. Clifford
+- name: Clifford C.
+- name: Clifford, C.
+sources:
+- url: https://leg.colorado.gov/legislators/chad-clifford
+- url: https://www.linkedin.com/in/chadclifford

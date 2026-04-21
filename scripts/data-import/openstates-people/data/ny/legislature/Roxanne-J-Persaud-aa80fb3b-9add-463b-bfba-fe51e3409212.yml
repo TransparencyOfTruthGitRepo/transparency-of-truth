@@ -1,0 +1,47 @@
+id: ocd-person/aa80fb3b-9add-463b-bfba-fe51e3409212
+name: Roxanne Persaud
+given_name: Roxanne
+family_name: Persaud
+birth_date: 1966-03-01
+gender: Female
+email: persaud@nysenate.gov
+image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/03-21-17_persaud_hs-018.jpg?itok=ALiZNeZt
+party:
+- name: Democratic
+roles:
+- start_date: 2015-11-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '19'
+offices:
+- classification: capitol
+  address: Room 409, Legislative Office Building, Albany, NY 12247
+  voice: 518-455-2788
+- classification: district
+  address: 1222 E. 96th St., Brooklyn, NY 11236
+  voice: 718-649-7653
+links:
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/roxanne-j-persaud
+- url: https://www.nysenate.gov/senators/roxanne-j-persaud/contact
+other_names:
+- name: Persaud, R.
+- name: R. Persaud
+- name: R.J. Persaud
+- name: Roxanne J Persaud
+- name: Roxanne J. Persaud
+- name: Roxanne Jacqueline Persaud
+ids:
+  twitter: SenatorPersaud
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000352
+- scheme: legacy_openstates
+  identifier: NYL000420
+sources:
+- url: https://ballotpedia.org/Roxanne_Persaud
+- url: https://en.wikipedia.org/wiki/Roxanne_Persaud
+- url: https://justfacts.votesmart.org/candidate/biography/155565/roxanne-persaud
+- url: https://www.linkedin.com/in/roxannepersaud
+- url: https://www.nysenate.gov/senators/roxanne-j-persaud
+- url: https://www.nysenate.gov/senators/roxanne-j-persaud/contact

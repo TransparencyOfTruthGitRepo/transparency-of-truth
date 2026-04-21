@@ -1,0 +1,74 @@
+id: ocd-person/240d9f6e-15f1-41eb-acbb-733861936e5b
+name: John Maddox
+given_name: John
+family_name: Maddox
+gender: Male
+email: john.maddox@arkansashouse.org
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/529_sm.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '86'
+- start_date: 2017-01-09
+  end_date: 2023-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '86'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '20'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+- classification: district
+  address: 520 Church Ave., Mena, AR 71953
+  voice: 479-394-6060
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Maddox
+- url: https://www.arkansashouse.org/district/86
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Maddox
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Maddox&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Maddox&ddBienniumSession=2021%2F2021R
+other_names:
+- name: J. Maddox
+- name: J.D. Maddox
+- name: Maddox
+- name: Maddox, J.
+ids:
+  twitter: johnmaddoxjohn
+  facebook: john.maddox.9275
+other_identifiers:
+- scheme: ballotpedia
+  identifier: John_Maddox
+- scheme: followthemoney
+  identifier: '37971302'
+- scheme: legacy_openstates
+  identifier: ARL000371
+- scheme: votesmart
+  identifier: '166140'
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Maddox
+- url: https://ballotpedia.org/John_Maddox
+- url: https://en.wikipedia.org/wiki/John_Maddox_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/166140/john-maddox
+- url: https://www.arkansashouse.org/district/86
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Maddox
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Maddox&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Maddox&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Maddox&ddBienniumSession=2021%2F2021S1
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Maddox&ddBienniumSession=2021%2F2022F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Maddox&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2021%2F2021S1#SearchResults
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+extras:
+  seniority: '33'
+  occupation: Attorney
+  church affiliation: Christian
+  veteran: 'No'
+  public service: First Term House 2017,  2019

@@ -1,0 +1,63 @@
+id: ocd-person/6da7fe11-4436-4854-8e1b-4c45dc4cdaac
+name: Randy Robertson
+given_name: Randy
+family_name: Robertson
+birth_date: 1962-10-06
+gender: Male
+email: randy.robertson@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/robertson-randy-4926.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '29'
+offices:
+- classification: capitol
+  address: State Capitol Room 421-F, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-0045
+- classification: district-mail
+  address: P.O. Box 62, Cataula, GA 31804
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/4926
+- url: https://www.legis.ga.gov/members/senate/4926?session=1029
+- url: https://www.legis.ga.gov/members/senate/4926?session=1031
+  note: HTML member detail page
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4926&Session=27
+other_names:
+- name: R. Robertson
+- name: Randy Robertson
+- name: ROBERTSON, 29TH
+- name: Robertson, R.
+- name: W.R. Robertson
+- name: Wiley Randall Robertson
+sources:
+- url: https://ballotpedia.org/Randy_Robertson
+- url: https://en.wikipedia.org/wiki/Randy_Robertson_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/178681/randy-robertson
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.legis.ga.gov/api/members/detail/4926?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4926?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/4926
+- url: https://www.legis.ga.gov/members/senate/4926?session=1029
+- url: https://www.linkedin.com/in/w-r-randy-robertson-0a40398
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4926&Session=27
+extras:
+  residence: Cataula
+  city: Cataula
+  georgia_id: 4926
+  birthday: October 6
+  occupation: 'Retired Law Enforcement '
+  press: 'https://senatepress.net/category/senate-press/randy-robertson '
+  religion: Baptist
+  spouse: 'Theresa '
+  staff: Allison Bailey
+  staff email: allison.bailey@senate.ga.gov
+  title: Majority Whip

@@ -1,0 +1,36 @@
+id: ocd-person/132b0654-ebb2-4b6b-81b3-d39b41110d45
+name: Curt Massie
+given_name: Curt
+family_name: Massie
+gender: Male
+email: curt.massie@sdlegislature.gov
+image: https://cloudfront-us-east-1.images.arcpublishing.com/gray/JN4WUIDOKVFC5NL33TGXE5YFOM.JPG
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '33'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3851
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/4451/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4634/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4785/Detail
+other_names:
+- name: C. Massie
+- name: C.L. Massie
+- name: Massie, C.
+sources:
+- url: https://ballotpedia.org/Curt_Massie
+- url: https://en.wikipedia.org/wiki/Curt_Massie
+- url: https://justfacts.votesmart.org/candidate/biography/205167/curt-massie
+- url: https://sdlegislature.gov/Legislators/Profile/4451/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4634/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4785/Detail
+- url: https://www.linkedin.com/in/curtmassie-dbtllc
+extras:
+  occupation: SD State & Local Tax Consultant

@@ -1,0 +1,32 @@
+id: ocd-person/7051aea6-71cf-4c6e-a3f7-5eebe826aa44
+name: Doc Harris
+given_name: Doc
+family_name: Harris
+birth_date: 1947-09-12
+gender: Male
+email: wharris@house.ms.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/harrisdoc.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '28'
+offices:
+- classification: capitol
+  address: State Capitol 400 High St., Jackson, MS 39201
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/harris.xml
+other_names:
+- name: D. Harris
+- name: Harris, D.
+- name: W. Harris
+sources:
+- url: https://ballotpedia.org/Doc_Harris
+- url: https://billstatus.ls.state.ms.us/members/house/harris.xml
+- url: https://en.wikipedia.org/wiki/Doc_Harris
+- url: https://justfacts.votesmart.org/candidate/186599/w-harris-jr
+- url: https://www.linkedin.com/in/doc-harris-03413119

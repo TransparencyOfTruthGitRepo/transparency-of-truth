@@ -1,0 +1,28 @@
+id: ocd-person/868b3e24-7d4f-49e3-a4b7-6c5579f12b21
+name: Frederick ( Eric ) Moore
+given_name: Frederick
+family_name: Moore
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '19'
+links:
+- url: https://leg.mt.gov/legislator-information/roster/individual/4713
+  note: legislator page
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MTL000027
+- scheme: legacy_openstates
+  identifier: MTL000152
+- scheme: legacy_openstates
+  identifier: MTL000165
+- scheme: legacy_openstates
+  identifier: MTL000252
+- scheme: legacy_openstates
+  identifier: MTL000418
+sources:
+- url: https://leg.mt.gov/legislator-information/?session_select=111
+  note: legislator list page

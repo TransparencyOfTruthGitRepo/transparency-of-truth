@@ -1,0 +1,49 @@
+id: ocd-person/e7d41b59-5619-4a67-a1ec-221fdc24e6c3
+name: Melissa Murray
+given_name: Melissa
+family_name: Murray
+birth_date: 1974-10-03
+gender: Female
+email: sen-murray@rilegislature.gov
+image: http://www.rilegislature.gov/Senators/Pictures/murray.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '24'
+offices:
+- classification: capitol
+  address: 82 Smith St., Providence, RI 02903
+  voice: 401-222-3580
+- classification: district
+  address: 377 Vose St., Woonsocket, RI 02895
+  voice: 401-276-5568
+links:
+- url: https://www.rilegislature.gov/senators/algiere/default.aspx
+- url: https://www.rilegislature.gov/senators/Murray/default.aspx
+- url: https://www.rilegislature.gov/senators/murray/Pages/Biography.aspx
+- url: https://www.rilin.state.ri.us/senators/Algiere/
+other_names:
+- name: M. Murray
+- name: M.A. Murray
+- name: Melissa A. Murray
+- name: Murray
+- name: Murray, M.
+sources:
+- url: https://ballotpedia.org/Melissa_Murray
+- url: https://justfacts.votesmart.org/candidate/biography/161146/melissa-murray
+- url: https://webserver.rilegislature.gov/Email/SenEmailListDistrict.asp
+- url: https://webserver.rilin.state.ri.us/Email/SenEmailListDistrict.asp
+- url: https://www.rilegislature.gov/senators/Murray/default.aspx
+- url: https://www.rilegislature.gov/senators/murray/default.aspx
+- url: https://www.rilegislature.gov/senators/murray/Pages/Biography.aspx
+  note: Image Source
+- url: https://www.rilegislature.gov/SiteAssets/MailingLists/Representatives.xls
+- url: https://www.rilegislature.gov/SiteAssets/Representatives.xls
+  note: Detail Excel Source
+- url: https://www.rilin.state.ri.us/senators/Murray
+- url: https://www.rilin.state.ri.us/senators/Murray/
+extras:
+  City/Town Represented: Warwick, East Greenwich

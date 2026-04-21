@@ -1,0 +1,37 @@
+id: ocd-person/892459e1-0b45-48d9-96eb-8473d2e453b2
+name: Henry H.R. "Hank" Coe
+given_name: Henry
+family_name: Coe
+email: Hank.Coe@wyoleg.gov
+birth_date: 1946-04-29
+image: http://wyoleg.gov/LegislatorSummary/Photos/CoeHS18.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '18'
+links:
+- url: http://wyoleg.gov/Legislators/2019/R/967
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000007
+sources:
+- url: http://wyoleg.gov/Legislators/2019/R/967
+extras:
+  civic_organizations:
+  - orgname: Buffalo Bill Historical Center - TTEE
+  - orgname: Cody Medical Foundation - President
+  - orgname: Cody/Yellowstone Air Service - President
+  county: Park
+  education:
+  - degree: ''
+    gradYear: ''
+    schoolName: University of WY
+  number_children: '3'
+  occupation: Investment Executive
+  place_of_birth: Cody
+  religion: Episcopalian
+  spouse_given_name: null
+  wy_leg_id: 967

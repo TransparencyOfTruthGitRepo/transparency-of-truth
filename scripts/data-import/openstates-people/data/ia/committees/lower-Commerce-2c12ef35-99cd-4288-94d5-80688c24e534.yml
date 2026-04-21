@@ -1,0 +1,88 @@
+id: ocd-organization/2c12ef35-99cd-4288-94d5-80688c24e534
+jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+classification: committee
+name: Commerce
+chamber: lower
+sources:
+- url: https://www.legis.iowa.gov/committees
+  note: Committee list page
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=696
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=696
+links:
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=696
+  note: homepage
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=696
+members:
+- name: David Young
+  role: chair
+  person_id: ocd-person/e0df02a4-7910-4538-8c3b-8152fb8f657c
+- name: David Blom
+  role: vice chair
+  person_id: ocd-person/6c2b2d09-de80-47ca-af67-e646f20ba5fa
+- name: Kenan Judge
+  role: ranking member
+  person_id: ocd-person/1b7d56b0-f635-423c-9c09-5617322b1518
+- name: Adam Zabner
+  role: member
+  person_id: ocd-person/c29c02a4-8429-4846-bc19-817f545f3935
+- name: Austin Baeth
+  role: member
+  person_id: ocd-person/9aa42801-ba2e-4f2e-9448-cf5e6114fba7
+- name: Austin Harris
+  role: member
+  person_id: ocd-person/3dea807e-b6b5-4531-a5d6-d51ae8811aca
+- name: Bob Kressig
+  role: member
+  person_id: ocd-person/bdd055a7-677f-4df3-ba42-72c09d75a2ad
+- name: Brett Barker
+  role: member
+  person_id: ocd-person/e34f4bba-5e1f-4e99-8654-d35140a5470b
+- name: Carter Nordman
+  role: member
+  person_id: ocd-person/e7b268b8-c922-4e66-8327-cc4c49854d5e
+- name: Charley Thomson
+  role: member
+  person_id: ocd-person/1a5372b1-e23d-4877-a614-a32f552c58b4
+- name: Elizabeth Wilson
+  role: member
+  person_id: ocd-person/75ee3e5c-bf95-4f36-8366-264872631c3c
+- name: Gary Mohr
+  role: member
+  person_id: ocd-person/98672aab-5ba5-4994-964a-f53d8bcdd108
+- name: Hans Wilz
+  role: member
+  person_id: ocd-person/831144f3-e67d-4706-a018-abec3c492269
+- name: Jacob Bossman
+  role: member
+  person_id: ocd-person/9c6428d6-af30-4a4f-bb9c-666d3d6d84c5
+- name: John Wills
+  role: member
+  person_id: ocd-person/955a4d7c-a378-4bd2-8a74-dac94f74ba52
+- name: Judd Lawler
+  role: member
+  person_id: ocd-person/69441bf5-e98f-4872-8bf0-5bca86e3c258
+- name: Larry McBurney
+  role: member
+  person_id: ocd-person/dcd5b341-0a0b-4f2b-bb34-d7aab8539258
+- name: Megan Srinivas
+  role: member
+  person_id: ocd-person/84f3edbd-f0e1-4220-a670-f7d39d57bda5
+- name: Mike Vondran
+  role: member
+  person_id: ocd-person/4416e207-bc39-4dee-b6fc-7e70e351aa54
+- name: Sean Bagniewski
+  role: member
+  person_id: ocd-person/8ee06272-1977-4810-8c40-5d007fb31ac8
+- name: Shannon Latham
+  role: member
+  person_id: ocd-person/90ea16da-2e10-470e-a004-a5e2688e6331
+- name: Shannon Lundgren
+  role: member
+  person_id: ocd-person/82dcdad5-7974-4b38-a44c-7007e8111a5c
+- name: Tom Determann
+  role: member
+  person_id: ocd-person/264c5cb9-f69f-4d07-ac58-231c98915233
+other_names:
+- name: House Commerce
+- name: House Commerce Committee
+- name: House Committee on Commerce

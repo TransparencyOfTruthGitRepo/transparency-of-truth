@@ -1,0 +1,44 @@
+id: ocd-person/8710f3da-9aea-41a9-acd2-181377cc6ae7
+name: Regina Barrow
+given_name: Regina
+family_name: Barrow
+gender: Female
+email: barrowr@legis.la.gov
+image: https://senate.la.gov/SenatorPics/Sen15.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2016-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '15'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 4811 Harding Blvd., Baton Rouge, LA 70811
+  voice: 225-359-9400
+links:
+- url: https://senate.la.gov/smembers.aspx?ID=15
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=15
+other_names:
+- name: Barrow, R.
+- name: R. Barrow
+- name: R.A. Barrow
+- name: Regina Ashford Barrow
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000827
+sources:
+- url: https://ballotpedia.org/Regina_Barrow
+- url: https://justfacts.votesmart.org/candidate/biography/56506/regina-barrow
+- url: https://senate.la.gov/Senators_FullInfo
+- url: https://senate.la.gov/smembers.aspx?ID=15
+- url: https://senate.la.gov/smembers?ID=15
+extras:
+  second phone: (225) 359-9332
+  legislative assistant: ''
+  representing parishes:
+  - East Baton Rouge

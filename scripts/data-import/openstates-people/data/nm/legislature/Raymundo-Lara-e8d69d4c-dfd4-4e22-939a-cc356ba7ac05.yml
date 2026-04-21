@@ -1,0 +1,40 @@
+id: ocd-person/e8d69d4c-dfd4-4e22-939a-cc356ba7ac05
+name: Ray Lara
+given_name: Ray
+family_name: Lara
+gender: Male
+email: raymundo.lara@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HLARA.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '34'
+offices:
+- classification: capitol
+  address: State Capitol Room 134A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4777
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HLARA
+  note: homepage
+other_names:
+- name: Lara, R.
+- name: Lara, Ray
+- name: Lara, Raymundo
+- name: R. Lara
+- name: Raymundo Lara
+ids:
+  facebook: RayLaraforStateRepresentative
+sources:
+- url: https://ballotpedia.org/Raymundo_Lara
+- url: https://en.wikipedia.org/wiki/Raymundo_Lara
+- url: https://www.linkedin.com/in/raymundo-lara-1217b989
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HLARA
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: "Do\xF1a Ana"
+  service: Representative since 2019
+  occupation: Instructional Coordinator

@@ -1,0 +1,46 @@
+id: ocd-person/6ffe4e57-021a-4424-bc36-b933c8e18477
+name: Mike Burns
+given_name: Mike
+family_name: Burns
+birth_date: 1952-06-09
+gender: Male
+email: mikeburns@schouse.gov
+image: https://scstatehouse.gov/images/members/0257954515.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-03-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '17'
+offices:
+- classification: capitol
+  address: Room 326D, Blatt Building P.O. Box 11867, Columbia, SC 29201
+  voice: 803-212-6891
+links:
+- url: https://scstatehouse.gov/member.php?code=0257954515
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=0257954515
+  note: homepage
+other_names:
+- name: Burns, James Mikell
+- name: Burns, M.
+- name: Burns, Mike
+- name: J.M. Burns
+- name: James Mikell "Mike" Burns
+- name: M. Burns
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000208
+sources:
+- url: https://ballotpedia.org/Mike_Burns
+- url: https://en.wikipedia.org/wiki/Mike_Burns_(politician)
+- url: https://justfacts.votesmart.org/candidate/144188/mike-burns
+- url: https://justfacts.votesmart.org/candidate/biography/144188/mike-burns
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=0257954515
+- url: https://www.scstatehouse.gov/member.php?chamber=H
+- url: https://www.scstatehouse.gov/member.php?code=0257954515
+extras:
+  Columbia Address Cell Phone: (864) 906-6949
+  counties represented: Greenville County

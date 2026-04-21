@@ -1,0 +1,34 @@
+id: ocd-organization/f19039a0-0332-43e3-ac6a-3ebe0f5e83e6
+jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+classification: committee
+name: Capital Budget
+chamber: upper
+sources:
+- url: https://gc.nh.gov/Senate/committees/committee_details.aspx?cc=30
+- url: https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=30
+  note: Committee details page
+- url: https://www.gencourt.state.nh.us/Senate/committees/senate_committees.aspx
+  note: Committees list page
+links:
+- url: https://gc.nh.gov/Senate/committees/committee_details.aspx?cc=30
+- url: https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=30
+members:
+- name: Mark McConkey
+  role: chair
+  person_id: ocd-person/c344ed7a-6fea-4f17-9c48-4e27d67bebc8
+- name: James Gray
+  role: vice chair
+  person_id: ocd-person/e6443187-eb51-42eb-8bd7-349ed0ba9641
+- name: David Watters
+  role: member
+  person_id: ocd-person/cf24defe-6df3-49f3-88ca-c6774b144f19
+- name: Donovan Fenton
+  role: member
+  person_id: ocd-person/8e013e93-3dd2-4530-a42f-d9ba62ea5f04
+- name: Sharon Carson
+  role: member
+  person_id: ocd-person/00964fc0-dd57-44c3-87bf-b6d5bbc34560
+other_names:
+- name: Senate Capital Budget
+- name: Senate Capital Budget Committee
+- name: Senate Committee on Capital Budget

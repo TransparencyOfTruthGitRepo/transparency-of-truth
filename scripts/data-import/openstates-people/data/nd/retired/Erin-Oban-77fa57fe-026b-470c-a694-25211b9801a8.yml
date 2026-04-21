@@ -1,0 +1,34 @@
+id: ocd-person/77fa57fe-026b-470c-a694-25211b9801a8
+name: Erin Oban
+given_name: Erin
+family_name: Oban
+email: eoban@nd.gov
+image: https://www.legis.nd.gov/files/styles/medium/public/person/photo/eoban.jpg?itok=QY_hz6Ve
+party:
+- name: Democratic
+roles:
+- end_date: '2022-03-27'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '35'
+  end_reason: Appointed as USDA's director of rural development for North Dakota
+links:
+- url: http://www.legis.nd.gov/assembly/65-2017/members/senate/senator-erin-oban
+- url: http://www.legis.nd.gov/assembly/66-2019/members/senate/senator-erin-oban
+- url: http://www.legis.nd.gov/assembly/67-2021/members/senate/senator-erin-oban
+- url: https://www.legis.nd.gov/assembly/67-2021/members/senate/senator-erin-oban
+  note: homepage
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NDL000293
+- scheme: legacy_openstates
+  identifier: NDL000356
+sources:
+- url: http://www.legis.nd.gov/assembly/65-2017/members/senate/senator-erin-oban
+- url: http://www.legis.nd.gov/assembly/66-2019/members/senate/senator-erin-oban
+- url: http://www.legis.nd.gov/assembly/67-2021/members/senate/senator-erin-oban
+- url: https://www.legis.nd.gov/assembly/67-2021/members/members-by-district
+- url: https://www.legis.nd.gov/assembly/67-2021/members/senate/senator-erin-oban
+extras:
+  bio info: []
+  Cell phone: 701-527-1642

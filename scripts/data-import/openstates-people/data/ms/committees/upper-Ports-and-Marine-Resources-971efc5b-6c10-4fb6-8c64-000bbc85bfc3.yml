@@ -1,0 +1,51 @@
+id: ocd-organization/971efc5b-6c10-4fb6-8c64-000bbc85bfc3
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Ports and Marine Resources
+chamber: upper
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: homepage
+members:
+- name: Scott DeLano
+  role: chair
+  person_id: ocd-person/8467b994-f651-446b-b77f-0632ff790ff8
+- name: Jeremy England
+  role: vice chair
+  person_id: ocd-person/33ffa85f-af2b-41bc-89ce-3c59341d17ab
+- name: Brice Wiggins
+  role: member
+  person_id: ocd-person/7e27e9e0-fe62-4fc0-b8b0-c2ac9c9ce28d
+- name: Briggs Hopson
+  role: member
+  person_id: ocd-person/f275881b-1096-4a6a-a607-b417eae41f2e
+- name: Daniel Sparks
+  role: member
+  person_id: ocd-person/32153f0b-aa40-4989-9787-e2608c55a87e
+- name: Derrick Simmons
+  role: member
+  person_id: ocd-person/3ea1bab4-64f2-4ff3-b0a9-e04a8caa3e9f
+- name: Gary Brumfield
+  role: member
+  person_id: ocd-person/dcae79b5-ddc5-48e8-86c2-54d5c47f0656
+- name: Joel Carter
+  role: member
+  person_id: ocd-person/cc55837a-0a3e-4bcf-8255-b8786fc2b43f
+- name: Mike Seymour
+  role: member
+  person_id: ocd-person/70b45762-64ee-4a16-b15a-194e4e3c9bf6
+- name: Mike Thompson
+  role: member
+  person_id: ocd-person/eaa39996-c8a7-4568-b01e-d7685667227b
+- name: Philman Ladner
+  role: member
+  person_id: ocd-person/7aef9236-de61-47cf-8243-b5a21fcac9dc
+other_names:
+- name: Committee on Ports and Marine Resources
+- name: Ports and Marine Resources Committee
+- name: Senate Committee on Ports and Marine Resources
+- name: Senate Ports and Marine Resources
+- name: Senate Ports and Marine Resources Committee

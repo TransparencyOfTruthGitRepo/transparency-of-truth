@@ -1,0 +1,37 @@
+id: ocd-person/5aa1870f-0eb7-4a82-9788-7b159d28a287
+name: Barb Kniff McCulla
+given_name: Barb
+family_name: Kniff McCulla
+gender: Female
+email: barb.kniffmcculla@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33977
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '37'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33977&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33977
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33977
+other_names:
+- name: B. Kniff McCulla
+- name: B.J. Kniff McCulla
+- name: Kniff
+- name: Kniff McCulla, B.
+- name: McCulla
+sources:
+- url: https://ballotpedia.org/Barb_Kniff_McCulla
+- url: https://en.wikipedia.org/wiki/Barb_Kniff_McCulla
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33977
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33977
+extras:
+  home email: bkniff@klkconstruction.com
+  occupation: Small Business Owner

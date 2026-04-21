@@ -1,0 +1,54 @@
+id: ocd-person/095a6754-d7ca-4f1f-b562-974d92e7eb3c
+name: Lupe Contreras
+given_name: Lupe
+family_name: Contreras
+birth_date: 1975-07-27
+gender: Male
+email: lcontreras@azleg.gov
+image: https://npr.brightspotcdn.com/dims4/default/ccf2d8e/2147483647/strip/true/crop/189x266+0+0/resize/880x1239!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fknau%2Ffiles%2F202004%2Flupe_contreras.jpeg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '22'
+- end_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '19'
+offices:
+- classification: capitol
+  address: Room 331, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-5284
+links:
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2156
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2301
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2156
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2156
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=54&session=122&legislator=1935
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=123&legislator=1973
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=125&legislator=1973
+other_names:
+- name: Contreras, L.
+- name: G.C. Contreras
+- name: L. Contreras
+- name: L.C. Contreras
+- name: Lupe Chavira Contreras
+ids:
+  twitter: sencontreras
+  facebook: FriendsForLupeContreras
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AZL000345
+sources:
+- url: https://ballotpedia.org/Lupe_Contreras
+- url: https://en.wikipedia.org/wiki/Lupe_Contreras
+- url: https://justfacts.votesmart.org/candidate/biography/141487/lupe-contreras
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2156
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2301
+- url: https://www.azleg.gov/memberroster/?body=H
+- url: https://www.azleg.gov/MemberRoster/?body=S
+- url: https://www.azleg.gov/memberroster/?body=S
+extras:
+  title: Minority Leader

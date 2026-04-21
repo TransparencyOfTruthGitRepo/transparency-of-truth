@@ -1,0 +1,73 @@
+id: ocd-organization/eb732c67-7222-42ba-aa34-b40c0ac67dd6
+jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+classification: committee
+name: Election Law
+chamber: lower
+sources:
+- url: https://gc.nh.gov/house/committees/committeedetails.aspx?id=23
+- url: https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=23
+  note: Committee details page
+- url: https://www.gencourt.state.nh.us/house/committees/standingcommittees.aspx
+  note: Committees list page
+links:
+- url: https://gc.nh.gov/house/committees/committeedetails.aspx?id=23
+- url: https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=23
+members:
+- name: Ross Berry
+  role: chair
+  person_id: ocd-person/1b016eb0-b4c0-4929-b957-ef9de5b46031
+- name: Jim Qualey
+  role: vice chair
+  person_id: ocd-person/8ee6ee68-5ccb-4871-b815-6ed27c68c3ae
+- name: Claudine Burnham
+  role: clerk
+  person_id: ocd-person/bfecb4c6-509b-4c23-9c69-0e21483c44d3
+- name: Alvin See
+  role: member
+  person_id: ocd-person/e3a1815a-a84c-4bd1-9e20-b73b07d2576f
+- name: Clayton Wood
+  role: member
+  person_id: ocd-person/2bf4a05c-14f0-4916-964b-48bdb20f4fdd
+- name: Connie Lane
+  role: member
+  person_id: ocd-person/8171a035-7cc1-4a7f-b086-9bdb800782da
+- name: Cy Aures
+  role: member
+  person_id: ocd-person/e4ac4259-d405-4839-af31-6c409719065c
+- name: Gary Gilmore
+  role: member
+  person_id: ocd-person/26cadaaa-59d2-4c71-b23b-9f103dbd3e81
+- name: Gerry Ward
+  role: member
+  person_id: ocd-person/03774445-16e9-4857-8015-317a3d8705a3
+- name: James Newsom
+  role: member
+  person_id: ocd-person/58bff024-3ec3-431f-bfa7-0d499b0bb780
+- name: Jessica Grill
+  role: member
+  person_id: ocd-person/d607d081-ecb8-4d5d-bc2f-d3ee78a627c7
+- name: Jim Guzofski
+  role: member
+  person_id: ocd-person/ec6cfbd9-53fd-4643-b2c9-b0889f417baa
+- name: Juliet Harvey-Bolia
+  role: member
+  person_id: ocd-person/5d7f39ae-2cc4-4b36-bd76-828a24bc454d
+- name: Katherine Prudhomme-O'Brien
+  role: member
+  person_id: ocd-person/a0a8c9d8-1f27-4d28-a249-8a5856ea5c05
+- name: Luz Bay
+  role: member
+  person_id: ocd-person/b2bd1fe6-401e-41ac-88cc-a96d8a12d737
+- name: Matt Wilhelm
+  role: member
+  person_id: ocd-person/61d2e8f3-f2b9-4357-81af-fe982ee1821f
+- name: Robert Wherry
+  role: member
+  person_id: ocd-person/e7f37a7a-0f05-4fd3-944d-be2c41cc200b
+- name: Russ Muirhead
+  role: member
+  person_id: ocd-person/33c30ffc-2203-48fc-9161-e14946abce23
+other_names:
+- name: House Committee on Election Law
+- name: House Election Law
+- name: House Election Law Committee

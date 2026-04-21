@@ -1,0 +1,45 @@
+id: ocd-person/d9c3dfce-8b7f-402f-9dec-5179e38b528f
+name: Kent Smith
+given_name: Kent
+family_name: Smith
+birth_date: 1966-09-04
+gender: Male
+email: sd21@ohiosenate.gov
+image: https://www.legislature.ohio.gov/assets/people/kent-smith/headshots/thumbnails/medium/kent-smith-may-2023-headshot_medium.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '21'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room 223, Statehouse, 1 Capitol Square Second Floor, Columbus, OH 43215
+  voice: 614-466-4857
+links:
+- url: https://ohiohouse.gov/kent-smith
+- url: https://ohiosenate.gov/members/kent-smith
+- url: https://www.ohiohouse.gov/kent-smith
+other_names:
+- name: K. Smith
+- name: Kent Smith, K.
+- name: Smith, K.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000298
+sources:
+- url: https://ballotpedia.org/Kent_Smith
+- url: https://en.wikipedia.org/wiki/Kent_Smith_(politician)
+- url: https://ohiohouse.gov/kent-smith
+- url: https://ohiosenate.gov/members/kent-smith
+  note: member details page
+- url: https://www.kentsmith.org/about
+- url: https://www.legislature.ohio.gov/legislators/senate-directory
+  note: member list page
+- url: https://www.linkedin.com/in/kentksmith
+- url: https://www.ohiohouse.gov/members/member-directory

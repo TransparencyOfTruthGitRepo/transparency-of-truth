@@ -1,0 +1,55 @@
+id: ocd-person/f68b34d8-19af-449e-a4cc-3d2729bb9e23
+name: Ray Newman
+given_name: Ray
+family_name: Newman
+gender: Male
+email: ray.newman@gc.nh.gov
+image: https://www.citizenscount.org/sites/default/files/styles/candidate_detail_page_-_thumb/public/candidate-images/raynewman.jpg?itok=fz_-ogHQ
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 4
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 4
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 29
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9107
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9107
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9107
+  note: member detail page
+other_names:
+- name: Newman, R.
+- name: R. Newman
+- name: R.E. Newman
+- name: Ray E. Newman
+sources:
+- url: https://ballotpedia.org/Ray_Newman
+- url: https://en.wikipedia.org/wiki/Ray_Newman_(politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9107
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9107
+- url: https://justfacts.votesmart.org/candidate/biography/185367/ray-newman
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408871
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9107
+- url: https://www.linkedin.com/in/ray-newman-81293564
+extras:
+  county: Hillsborough
+  elected status: Incumbent
+  gender code: M

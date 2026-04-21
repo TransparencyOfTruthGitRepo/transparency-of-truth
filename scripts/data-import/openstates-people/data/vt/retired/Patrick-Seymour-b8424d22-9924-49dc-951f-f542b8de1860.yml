@@ -1,0 +1,24 @@
+id: ocd-person/b8424d22-9924-49dc-951f-f542b8de1860
+name: Patrick Seymour
+given_name: Patrick
+family_name: Seymour
+email: pseymour@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/Seymour.Patrick.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2019-01-09'
+  end_date: '2022-02-24'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Caledonia-4
+links:
+- url: http://legislature.vermont.gov/people/single/2020/30947
+- url: http://legislature.vermont.gov/people/single/2022/30947
+other_names:
+- name: Patrick S. Seymour
+sources:
+- url: http://legislature.vermont.gov/people/loadAll/2020
+- url: http://legislature.vermont.gov/people/single/2020/30947
+- url: http://legislature.vermont.gov/people/loadAll/2022
+- url: http://legislature.vermont.gov/people/single/2022/30947

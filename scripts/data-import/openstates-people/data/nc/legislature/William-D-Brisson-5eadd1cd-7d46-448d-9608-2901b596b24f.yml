@@ -1,0 +1,49 @@
+id: ocd-person/5eadd1cd-7d46-448d-9608-2901b596b24f
+name: William Brisson
+given_name: William
+family_name: Brisson
+birth_date: 1946-08-18
+gender: Male
+email: william.brisson@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/558/Low
+party:
+- name: Republican
+roles:
+- start_date: 2007-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '22'
+offices:
+- classification: capitol
+  address: Room 405, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-733-5772
+- classification: district-mail
+  address: P.O. Box 531, Dublin, NC 28332
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/558
+- url: https://www.ncleg.gov/Members/Committees/H/558
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/558
+- url: https://www.ncleg.gov/Members/Votes/H/558
+other_names:
+- name: Brisson, W.
+- name: W. Brisson
+- name: W.D. Brisson
+- name: William D. Brisson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000069
+sources:
+- url: https://ballotpedia.org/William_Brisson
+- url: https://en.wikipedia.org/wiki/William_Brisson
+- url: https://justfacts.votesmart.org/candidate/41187/william-brisson
+- url: https://www.ncleg.gov/Members/Biography/H/558
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 300 N. Salisbury Street, Rm. 405; Raleigh, NC 27603-5925
+  main phone: 910-862-7007
+  terms in senate: 9 (0 in Senate)
+  represented counties: Bladen, Sampson
+  legislative assistant: Caroline Stirling
+  legislative assistant email: Caroline.Stirling@ncleg.gov
+  occupation: Farmer

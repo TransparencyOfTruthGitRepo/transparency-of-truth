@@ -1,0 +1,55 @@
+id: ocd-person/e394293d-abd7-46a9-a60f-6c75e369468e
+name: Joe Bellino
+given_name: Joe
+family_name: Bellino
+birth_date: 1958-06-10
+gender: Male
+email: senjbellino@senate.michigan.gov
+image: https://www.misenategop.com/wp-content/uploads/2023/01/Bellino-580x770.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '16'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '17'
+offices:
+- classification: capitol
+  address: Room 5300, Binsfeld Building P.O. Box 30036, Lansing, MI 48909
+  voice: 517-373-5932
+  fax: 517-373-5944
+links:
+- url: https://gophouse.org/representatives/southeast/bellino/
+- url: https://www.senatorjosephbellino.com/
+  note: Member Page
+- url: https://www.senatorjosephbellino.com/contact
+  note: Member Contact Page
+other_names:
+- name: Bellino, J.
+- name: J. Bellino
+- name: J.N. Bellino
+- name: Joe Bellino
+- name: Joseph Bellino
+- name: Joseph N. Bellino Jr.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000344
+- scheme: openstates
+  identifier: ocd-person/a685452c-e105-44a2-803b-740b0e88ebbf
+sources:
+- url: https://ballotpedia.org/Joseph_Bellino
+- url: https://en.wikipedia.org/wiki/Joe_Bellino_(politician)
+- url: https://gophouse.org/representatives/southeast/bellino
+- url: https://gophouse.org/representatives/southeast/bellino/
+- url: https://justfacts.votesmart.org/candidate/biography/170286/joe-bellino-jr
+- url: https://senate.michigan.gov/senators/SenatorData.json
+  note: Members List JSON Data Page
+- url: https://senate.michigan.gov/senators/senatorinfo_list.html
+  note: Members List HTML page
+- url: https://www.senatorjosephbellino.com
+- url: https://www.senatorjosephbellino.com/
+- url: https://www.senatorjosephbellino.com/meet-your-senator

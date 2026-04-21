@@ -1,0 +1,21 @@
+id: ocd-person/16c69367-92fe-4408-82f7-3b3f508df8a7
+name: Tommy L Woods
+given_name: Tommy
+family_name: Woods
+middle_name: L
+image: http://billstatus.ls.state.ms.us/members/house/woods.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2008-01-01'
+  end_date: '2015-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '52'
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/woods.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000161
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/woods.xml

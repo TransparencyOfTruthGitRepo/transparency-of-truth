@@ -1,0 +1,28 @@
+id: ocd-person/ab56efe0-c83e-4f8e-8496-f882e43b14cb
+name: Bette R Lasky
+given_name: Bette
+family_name: Lasky
+middle_name: R
+image: http://www.gencourt.state.nh.us/Senate/images/senators/13.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2012-12-05'
+  end_date: '2018-12-05'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '13'
+links:
+- url: http://www.gencourt.state.nh.us/Senate/members/webpages/district13.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000809
+- scheme: legacy_openstates
+  identifier: NHL001295
+- scheme: legacy_openstates
+  identifier: NHL001452
+- scheme: openstates
+  identifier: ocd-person/5474e74f-eb08-4b36-bb5d-be095d1d74d4
+sources:
+- url: http://www.gencourt.state.nh.us/Senate/members/webpages/district13.aspx
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt

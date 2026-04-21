@@ -1,0 +1,36 @@
+id: ocd-person/fd51ab83-f1b7-4044-b794-871ba167b504
+name: Joey Andrews
+given_name: Joey
+family_name: Andrews
+birth_date: 1988-02-22
+gender: Male
+email: joeyandrews@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '38'
+offices:
+- classification: capitol
+  address: Room S-887, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0827
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/joey-andrews/
+other_names:
+- name: Andrews, J.
+- name: J. Andrews
+sources:
+- url: https://ballotpedia.org/Joey_Andrews
+- url: https://housedems.com/joey-andrews
+- url: https://housedems.com/Joey-Andrews
+- url: https://housedems.com/joey-andrews/
+- url: https://housedems.com/Joey-Andrews/
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/jbandrewsiv

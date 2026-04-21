@@ -1,0 +1,111 @@
+id: ocd-person/5eae38e3-8420-5c09-831a-db73d9cba978
+name: Paul Gosar
+given_name: Paul
+family_name: Gosar
+birth_date: 1958-11-27
+gender: Male
+email: https://gosar.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/G000565.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AZ-9
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AZ-9
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AZ-4
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AZ-4
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AZ-4
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AZ-4
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AZ-4
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AZ-1
+offices:
+- classification: capitol
+  address: 2057 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-2315
+- classification: district
+  address: 1300 S. Litchfield Road Suite 115-H, Goodyear, AZ 85338
+  voice: 623-707-0530
+links:
+- url: https://gosar.house.gov
+  note: website
+- url: https://gosar.house.gov/
+other_names:
+- name: Gosar, P.
+- name: P. Gosar
+- name: P.A. Gosar
+- name: Paul A. Gosar
+ids:
+  twitter: RepGosar
+  youtube: UC5orqw_9acsKWSRbrqTDXBw
+  facebook: repgosar
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Paul Gosar
+- scheme: bioguide
+  identifier: G000565
+- scheme: cspan
+  identifier: '62470'
+- scheme: fec
+  identifier: H0AZ01259
+- scheme: google_entity_id
+  identifier: kg:/m/0czdqz0
+- scheme: govtrack
+  identifier: '412397'
+- scheme: house_history
+  identifier: '14283'
+- scheme: icpsr
+  identifier: '21103'
+- scheme: maplight
+  identifier: '1411'
+- scheme: opensecrets
+  identifier: N00030771
+- scheme: pictorial
+  identifier: '12914'
+- scheme: thomas
+  identifier: 01992
+- scheme: votesmart
+  identifier: '123491'
+- scheme: wikidata
+  identifier: Q2059832
+sources:
+- url: https://ballotpedia.org/Paul_Gosar
+- url: https://drpaulgosar.com/about
+- url: https://en.wikipedia.org/wiki/Paul_Gosar
+- url: https://gosar.house.gov
+- url: https://justfacts.votesmart.org/candidate/123491/paul-gosar
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/paul_gosar/412397
+- url: https://www.linkedin.com/in/dr-paul-a-gosar-a55920a0
+- url: https://www.linkedin.com/in/paul-gosar-68650716

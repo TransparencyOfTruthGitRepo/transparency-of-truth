@@ -1,0 +1,48 @@
+id: ocd-person/c2fcd2dc-22f8-4ec2-b70a-439bc6d60802
+name: Scott Martin
+given_name: Scott
+family_name: Martin
+gender: Male
+email: smartin@pasen.gov
+image: https://www.legis.state.pa.us/images/members/200/1763.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2016-12-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '13'
+offices:
+- classification: capitol
+  address: Room 281, Main Capitol Senate Box 203013, Harrisburg, PA 17120
+  voice: 717-787-6535
+- classification: district
+  address: 135 E. Main St. Suite 1-A, Strasburg, PA 17579
+  voice: 717-397-1309
+links:
+- url: https://senatorscottmartinpa.com/
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1763
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.palegis.us/senate/members/bio/1763/sen-martin
+other_names:
+- name: Martin, S.
+- name: S. Martin
+ids:
+  twitter: ScottFMartin
+  facebook: SenatorScottMartinPA
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000556
+sources:
+- url: https://ballotpedia.org/Scott_Martin_(Pennsylvania)
+- url: https://en.wikipedia.org/wiki/Scott_Martin_(Pennsylvania_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/107945/scott-martin
+- url: https://senatorscottmartinpa.com
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=S&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1763
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.linkedin.com/in/scott-martin-a1b2755
+- url: https://www.palegis.us/senate/members/bio/1763/sen-martin
+extras:
+  website: http://www.senatorscottmartinpa.com

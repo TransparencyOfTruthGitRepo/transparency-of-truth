@@ -1,0 +1,49 @@
+id: ocd-organization/fcd8bd3d-9799-49d8-a2ed-17582e9f31c3
+jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+classification: committee
+name: Local Government, Elections and Pensions
+chamber: upper
+sources:
+- url: https://senate.mo.gov/Committees/CommitteeDetails/40
+  note: Committee Details Page
+- url: https://senate.mo.gov/Committees/CommitteeGroup/1
+  note: Committees List Page
+- url: https://www.senate.mo.gov/21web/lgov
+- url: https://www.senate.mo.gov/Committees/CommitteeDetails/40
+links:
+- url: https://www.senate.mo.gov/21web/lgov
+  note: homepage
+- url: https://www.senate.mo.gov/Committees/CommitteeDetails/40
+members:
+- name: Mike Henderson
+  role: chair
+  person_id: ocd-person/bfad4ef7-fad2-46e6-8f12-f8ea9feaa0cb
+- name: Jamie Burger
+  role: vice chair
+  person_id: ocd-person/87967de8-0f0d-45d5-9248-2767f9157d7b
+- name: Doug Beck
+  role: member
+  person_id: ocd-person/f6f3c354-c65e-4d9a-a713-5fce1ad2c403
+- name: Joe Nicola
+  role: member
+  person_id: ocd-person/a93088fa-ad80-49de-aa94-d03da0add0bc
+- name: Maggie Nurrenbern
+  role: member
+  person_id: ocd-person/d8594030-4826-48c5-af43-674470f1dd44
+- name: Rick Brattin
+  role: member
+  person_id: ocd-person/e4811e7a-7df7-4275-917d-8bdcc2778fb1
+- name: Rusty Black
+  role: member
+  person_id: ocd-person/bb98b6a0-ba5f-45f8-ad14-b798515fa8a0
+- name: Sandy Crawford
+  role: member
+  person_id: ocd-person/4f194218-3d95-4f08-8963-7e3440fdb671
+other_names:
+- name: Local Government and Elections
+- name: Senate Committee on Local Government and Elections
+- name: Senate Committee on Local Government, Elections and Pensions
+- name: Senate Local Government and Elections
+- name: Senate Local Government and Elections Committee
+- name: Senate Local Government, Elections and Pensions
+- name: Senate Local Government, Elections and Pensions Committee

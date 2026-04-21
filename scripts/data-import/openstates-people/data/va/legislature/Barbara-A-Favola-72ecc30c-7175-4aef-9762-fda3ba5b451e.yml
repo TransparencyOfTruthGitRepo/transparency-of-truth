@@ -1,0 +1,60 @@
+id: ocd-person/72ecc30c-7175-4aef-9762-fda3ba5b451e
+name: Barbara Favola
+given_name: Barbara
+family_name: Favola
+birth_date: 1955-06-21
+gender: Female
+email: senatorfavola@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/Favola40
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '40'
+- start_date: 2011-01-11
+  end_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '31'
+offices:
+- classification: capitol
+  address: Room 509, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7540
+- classification: district-mail
+  address: P.O. Box 687, Arlington, VA 22216
+  voice: 703-721-8582
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S86
+- url: https://barbarafavola.org/
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S86
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S86
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S86
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S86
+other_names:
+- name: B. Favola
+- name: B.A. Favola
+- name: Barbara A. Favola
+- name: Favola, B.
+- name: Favola, Barbara A.
+ids:
+  twitter: BarbaraFavola
+  facebook: BarbaraFavola
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000151
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S86
+- url: https://ballotpedia.org/Barbara_Favola
+- url: https://barbarafavola.org
+- url: https://barbarafavola.org/biography
+- url: https://en.wikipedia.org/wiki/Barbara_Favola
+- url: https://justfacts.votesmart.org/candidate/biography/94043/barbara-favola
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S86
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S86
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S86
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S86
+- url: https://www.linkedin.com/in/barbara-favola-037a6b20

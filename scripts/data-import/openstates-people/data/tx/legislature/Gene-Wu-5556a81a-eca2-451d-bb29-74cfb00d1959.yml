@@ -1,0 +1,42 @@
+id: ocd-person/5556a81a-eca2-451d-bb29-74cfb00d1959
+name: Gene Wu
+given_name: Gene
+family_name: Wu
+birth_date: 1978-03-23
+gender: Male
+email: gene.wu@house.texas.gov
+image: https://house.texas.gov/images/members/2865.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '137'
+offices:
+- classification: capitol
+  address: Room GW.5, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0492
+- classification: district
+  address: 6500 Rookin, Building C, Houston, TX 77074
+  voice: 713-271-3900
+links:
+- url: https://house.texas.gov/members/2865
+- url: https://house.texas.gov/members/member-page/?district=137
+other_names:
+- name: E.Y. Wu
+- name: G. Wu
+- name: Wu, G.
+- name: Wu, Gene
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000472
+- scheme: legacy_openstates
+  identifier: TXL000578
+sources:
+- url: https://ballotpedia.org/Gene_Wu
+- url: https://en.wikipedia.org/wiki/Gene_Wu
+- url: https://house.texas.gov/members/2865
+- url: https://house.texas.gov/members/member-page/?district=137
+- url: https://justfacts.votesmart.org/candidate/biography/137800/gene-wu
+- url: https://www.pdhlaw.com/attorneys/gene-wu

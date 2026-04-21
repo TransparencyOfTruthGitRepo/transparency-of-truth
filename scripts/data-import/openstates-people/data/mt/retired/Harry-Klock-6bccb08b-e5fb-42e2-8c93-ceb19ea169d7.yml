@@ -1,0 +1,20 @@
+id: ocd-person/6bccb08b-e5fb-42e2-8c93-ceb19ea169d7
+name: Harry Klock
+given_name: Harry
+family_name: Klock
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '83'
+links:
+- url: http://leg.mt.gov/css/Sessions/62nd/leg_info.asp?HouseID=0&SessionID=105&LAWSID=3707
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MTL000096
+sources:
+- url: http://leg.mt.gov/css/Sessions/62nd/leg_info.asp?HouseID=0&SessionID=105&LAWSID=3707
+- url: http://leg.mt.gov/content/sessions/62nd/2011HouseMembers.txt

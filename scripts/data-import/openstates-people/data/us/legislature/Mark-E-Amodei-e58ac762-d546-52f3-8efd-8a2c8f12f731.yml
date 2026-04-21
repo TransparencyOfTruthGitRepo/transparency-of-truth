@@ -1,0 +1,110 @@
+id: ocd-person/e58ac762-d546-52f3-8efd-8a2c8f12f731
+name: Mark Amodei
+given_name: Mark
+family_name: Amodei
+birth_date: 1958-06-12
+gender: Male
+email: https://amodei.house.gov/address_authentication?form=/email-me
+image: https://unitedstates.github.io/images/congress/450x550/A000369.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-09-15
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NV-2
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NV-2
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NV-2
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NV-2
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NV-2
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NV-2
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NV-2
+- start_date: 2011-09-13
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NV-2
+offices:
+- classification: capitol
+  address: 104 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-6155
+  fax: 202-225-5679
+- classification: district
+  address: 5310 Kietzke Lane Suite 103, Reno, NV 89511
+  voice: 775-686-5760
+  fax: 775-686-5711
+links:
+- url: https://amodei.house.gov
+  note: website
+- url: https://amodei.house.gov/
+other_names:
+- name: Amodei, M.
+- name: M. Amodei
+- name: M.E. Amodei
+- name: Mark E. Amodei
+ids:
+  twitter: MarkAmodeiNV2
+  youtube: UCjOGx2iqSn1r3BQxaVgYhYw
+  facebook: MarkAmodeiNV2
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Mark Amodei
+- scheme: bioguide
+  identifier: A000369
+- scheme: cspan
+  identifier: '62817'
+- scheme: fec
+  identifier: H2NV02395
+- scheme: google_entity_id
+  identifier: kg:/m/03bzdkn
+- scheme: govtrack
+  identifier: '412500'
+- scheme: house_history
+  identifier: '8772'
+- scheme: icpsr
+  identifier: '21196'
+- scheme: maplight
+  identifier: '1680'
+- scheme: opensecrets
+  identifier: N00031177
+- scheme: pictorial
+  identifier: '13166'
+- scheme: thomas
+  identifier: 02090
+- scheme: votesmart
+  identifier: '12537'
+- scheme: wikidata
+  identifier: Q23944
+sources:
+- url: https://amodei.house.gov
+- url: https://ballotpedia.org/Mark_Amodei
+- url: https://en.wikipedia.org/wiki/Mark_Amodei
+- url: https://justfacts.votesmart.org/candidate/biography/12537/mark-amodei
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/mark_amodei/412500

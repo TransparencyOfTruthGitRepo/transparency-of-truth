@@ -1,0 +1,40 @@
+id: ocd-person/a07dd6a0-012b-41a7-901d-754d1cd194bb
+name: Frank Conaway
+given_name: Frank
+family_name: Conaway
+birth_date: 1963-01-04
+gender: Male
+email: frank.conaway@house.maryland.gov
+image: http://mgaleg.maryland.gov/2016RS/images/conaway.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2007-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '40'
+offices:
+- classification: capitol
+  address: Room 315, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3189
+  fax: 410-841-3079
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/conaway
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=conaway&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa14616.html
+other_names:
+- name: Conaway, F.
+- name: F. Conaway
+- name: F.M. Conaway
+- name: Frank M. Conaway, Jr.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000264
+- scheme: legacy_openstates
+  identifier: MDL000496
+sources:
+- url: https://ballotpedia.org/Frank_Conaway_Jr.
+- url: https://en.wikipedia.org/wiki/Frank_M._Conaway_Jr.
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/conaway
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=conaway&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa14616.html

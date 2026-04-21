@@ -1,0 +1,48 @@
+id: ocd-person/6a28626b-9919-4d77-9b62-44ad1d45215d
+name: Pat Woods
+given_name: Pat
+family_name: Woods
+gender: Male
+email: pat.woods@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SWOOD.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2012-10-25
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '7'
+offices:
+- classification: capitol
+  address: State Capitol Room 109C, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4853
+links:
+- url: https://www.linkedin.com/in/pat-woods-abb44b46/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SWOOD
+  note: homepage
+other_names:
+- name: J.P. Woods
+- name: John Pat Woods
+- name: P. Woods
+- name: Woods, P.
+- name: Woods, Pat
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000130
+- scheme: legacy_openstates
+  identifier: NML000176
+- scheme: legacy_openstates
+  identifier: NML000297
+- scheme: legacy_openstates
+  identifier: NML000414
+sources:
+- url: https://ballotpedia.org/Pat_Woods
+- url: https://en.wikipedia.org/wiki/Pat_Woods_(politician)
+- url: https://www.linkedin.com/in/pat-woods-abb44b46
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SWOOD
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: Curry, Quay & Union
+  service: Senator since 2012

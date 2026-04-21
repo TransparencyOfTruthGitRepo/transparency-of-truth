@@ -1,0 +1,65 @@
+id: ocd-organization/8da7a5ca-ce80-4db3-aed5-97ff8fd08a30
+jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+classification: committee
+name: Agriculture and Natural Resources
+chamber: lower
+sources:
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1153
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1191
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/68
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/69
+- url: https://sdlegislature.gov/Session/Committee/1153/Detail
+- url: https://sdlegislature.gov/Session/Committee/1191/Detail
+- url: https://sdlegislature.gov/Session/Committee/1225/Detail
+- url: https://sdlegislature.gov/Session/Committee/1260/Detail
+links:
+- url: https://sdlegislature.gov/Session/Committee/1153/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1191/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1225/Detail
+- url: https://sdlegislature.gov/Session/Committee/1260/Detail
+members:
+- name: Marty Overweg
+  role: chair
+  person_id: ocd-person/7dc4b8d9-148b-4622-a6de-b27dc27030be
+- name: Spencer Gosch
+  role: vice chair
+  person_id: ocd-person/138b5508-01b0-43ed-b8b6-ce9b9d07806f
+- name: Drew Peterson
+  role: member
+  person_id: ocd-person/ce0a6958-a2d1-4e9e-ab06-943bc84a271a
+- name: Jana Hunt
+  role: member
+  person_id: ocd-person/3900be26-2367-48af-8083-6ec4b4f18cf1
+- name: John Shubeck
+  role: member
+  person_id: ocd-person/de36e5d9-b079-4778-bd29-2d7a161488f6
+- name: Kadyn Wittman
+  role: member
+  person_id: ocd-person/892b6289-0bd8-441d-94bf-30e6f1cfce49
+- name: Kaley Nolz
+  role: member
+  person_id: ocd-person/0baaa53b-6468-4de4-98ce-bf1e218f8d38
+- name: Kathy Rice
+  role: member
+  person_id: ocd-person/f2a2616a-c0d4-45d2-8c52-2c8d7dac5e26
+- name: Kevin Van Diepen
+  role: member
+  person_id: ocd-person/e94f9d65-3b95-40cb-b3c2-74126023b55f
+- name: Liz May
+  role: member
+  person_id: ocd-person/2b581087-9814-4f0d-80e5-b29a6e7aee67
+- name: Tim Goodwin
+  role: member
+  person_id: ocd-person/e12868fa-61b7-4ad5-9f68-bcfca817057d
+- name: Travis Ismay
+  role: member
+  person_id: ocd-person/1e73baba-bddd-4b8c-901d-a1324f3194eb
+- name: Trish Ladner
+  role: member
+  person_id: ocd-person/e7bb9291-fd90-4db8-b3e6-c90ebc41c997
+other_names:
+- name: House Agriculture and Natural Resources
+- name: House Agriculture and Natural Resources Committee
+- name: House Committee on Agriculture and Natural Resources

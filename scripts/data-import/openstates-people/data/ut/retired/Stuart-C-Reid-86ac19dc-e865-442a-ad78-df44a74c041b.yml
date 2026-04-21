@@ -1,0 +1,22 @@
+id: ocd-person/86ac19dc-e865-442a-ad78-df44a74c041b
+name: Stuart C Reid
+given_name: Stuart
+family_name: Reid
+middle_name: C
+image: http://www.utahsenate.org/images/member-photos/REIDSC.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '18'
+links:
+- url: http://www.utahsenate.org/aspx/senmember.aspx?dist=18
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: UTL000019
+sources:
+- url: http://www.utahsenate.org/aspx/roster.aspx
+- url: http://www.utahsenate.org/aspx/senmember.aspx?dist=18

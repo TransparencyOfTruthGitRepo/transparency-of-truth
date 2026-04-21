@@ -1,0 +1,25 @@
+id: ocd-person/519f8c66-0c88-46f7-87a5-79ece75d92d8
+name: Larry Hogan
+given_name: Larry
+family_name: Hogan
+birth_date: 1956-05-25
+image: https://governor.maryland.gov/wp-content/uploads/2021/03/STKW5653.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2015-01-21'
+  end_date: '2023-01-18'
+  type: governor
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+offices:
+- classification: capitol
+  address: 100 State Circle; Annapolis, Maryland; 21401-1925
+  voice: 410-974-3901
+links:
+- url: https://governor.maryland.gov/
+- url: https://governor.maryland.gov/contact-the-governor/
+  note: webform
+ids:
+  twitter: GovLarryHogan
+sources:
+- url: https://governor.maryland.gov/

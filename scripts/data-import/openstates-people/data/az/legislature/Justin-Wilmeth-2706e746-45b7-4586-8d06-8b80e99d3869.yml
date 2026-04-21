@@ -1,0 +1,40 @@
+id: ocd-person/2706e746-45b7-4586-8d06-8b80e99d3869
+name: Justin Wilmeth
+given_name: Justin
+family_name: Wilmeth
+gender: Male
+email: jwilmeth@azleg.gov
+image: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/WILMETH.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '2'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '15'
+offices:
+- classification: capitol
+  address: Room 111, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-5044
+links:
+- url: https://www.azleg.gov/house-member/?legislature=55&legislator=2068
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2342
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2068
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2068
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2205
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2205
+other_names:
+- name: J. Wilmeth
+- name: Wilmeth, J.
+sources:
+- url: https://ballotpedia.org/Justin_Wilmeth
+- url: https://en.wikipedia.org/wiki/Justin_Wilmeth
+- url: https://www.azleg.gov/house-member/?legislature=55&legislator=2068
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2342
+- url: https://www.azleg.gov/MemberRoster/?body=H
+- url: https://www.azleg.gov/memberroster/?body=H
+- url: https://www.linkedin.com/in/jcwilmeth

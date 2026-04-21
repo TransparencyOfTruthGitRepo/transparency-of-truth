@@ -1,0 +1,60 @@
+id: ocd-person/45219a29-080f-4452-9b05-92488e96f2f1
+name: Bob Singer
+given_name: Bob
+family_name: Singer
+birth_date: 1947-10-29
+gender: Male
+email: sensinger@njleg.org
+image: https://www.njleg.state.nj.us/members/memberphotos/singer_color.jpg
+party:
+- name: Republican
+roles:
+- start_date: 1993-10-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '30'
+- start_date: 1992-01-14
+  end_date: 1993-10-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '30'
+- start_date: 1986-01-14
+  end_date: 1990-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '30'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 1771 Madison Ave. Suite 202, Lakewood, NJ 08701
+  voice: 732-987-5669
+links:
+- url: https://singer.senatenj.com/
+- url: https://www.njleg.state.nj.us/legislative-roster/93/senator-singer
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=93
+- url: https://www.senatenj.com/168/Robert-Singer---District-30
+other_names:
+- name: B. Singer
+- name: R.W. Singer
+- name: Robert W. Singer
+- name: Singer, B.
+- name: Singer, Robert W.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000090
+sources:
+- url: https://ballotpedia.org/Robert_Singer
+- url: https://en.wikipedia.org/wiki/Robert_W._Singer
+- url: https://justfacts.votesmart.org/candidate/biography/4471/robert-singer
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/93
+- url: https://www.njleg.state.nj.us/downloads.asp
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/93/senator-singer
+- url: https://www.njleg.state.nj.us/members/abcroster.asp
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=93
+- url: https://www.njleg.state.nj.us/members/BIO.asp?Leg=93
+- url: https://www.senatenj.com/168/Robert-Singer---District-30
+extras:
+  position: Deputy Republican Leader/Ranking Member Health Committee

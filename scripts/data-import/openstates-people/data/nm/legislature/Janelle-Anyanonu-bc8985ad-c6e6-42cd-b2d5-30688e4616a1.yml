@@ -1,0 +1,35 @@
+id: ocd-person/bc8985ad-c6e6-42cd-b2d5-30688e4616a1
+name: Janelle Anyanonu
+given_name: Janelle
+family_name: Anyanonu
+gender: Female
+email: janelle.anyanonu@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HANYA.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '19'
+offices:
+- classification: capitol
+  address: State Capitol Room 413A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4435
+- classification: district-mail
+  address: P.O. Box 93202, Albuquerque, NM 87199
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HANYA
+  note: homepage
+other_names:
+- name: Anyanonu, J.
+- name: Anyanonu, Janelle
+- name: J. Anyanonu
+sources:
+- url: https://ballotpedia.org/Janelle_Anyanonu
+- url: https://en.wikipedia.org/wiki/Janelle_Anyanonu
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HANYA
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Bernalillo

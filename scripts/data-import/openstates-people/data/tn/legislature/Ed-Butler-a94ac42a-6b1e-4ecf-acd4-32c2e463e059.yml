@@ -1,0 +1,41 @@
+id: ocd-person/a94ac42a-6b1e-4ecf-acd4-32c2e463e059
+name: Ed Butler
+given_name: Ed
+family_name: Butler
+birth_date: 1976-09-29
+gender: Male
+email: rep.ed.butler@capitol.tn.gov
+image: http://edbutlerfortn.com/wp-content/uploads/2018/04/Ed-Butler.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '41'
+offices:
+- classification: capitol
+  address: Room 578, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-1260
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H41
+  note: homepage
+other_names:
+- name: Butler, E
+- name: Butler, E.
+- name: E. Butler
+sources:
+- url: https://ballotpedia.org/Ed_Butler_(Tennessee)
+- url: https://en.wikipedia.org/wiki/Ed_Butler_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/170244/ed-butler
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H41
+- url: https://www.linkedin.com/in/ed-butler-1760ba307
+extras:
+  office: 578 CHB
+  personal info:
+  - Born September 29, 1976
+  - Married, 8 children
+  - Fire Sprinkler Contractor
+  - Nondenominational

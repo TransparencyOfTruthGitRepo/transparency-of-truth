@@ -1,0 +1,53 @@
+id: ocd-person/2375b05c-cf9a-4f1b-a4b0-194fac6d86bf
+name: Wendy Thomas
+given_name: Wendy
+family_name: Thomas
+gender: Female
+email: wendy.thomas@gc.nh.gov
+image: https://nhwn.files.wordpress.com/2010/05/wendy-shot.jpg?w=676
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 12
+- start_date: 2018-12-05
+  end_date: 2020-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 12
+- end_date: 2020-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 21
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9093
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9093
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9093
+  note: member detail page
+other_names:
+- name: Thomas, W.
+- name: W. Thomas
+- name: W.E. Thomas
+- name: Wendy E. N Thomas
+- name: Wendy E.N. Thomas
+sources:
+- url: https://ballotpedia.org/Wendy_Thomas
+- url: https://en.wikipedia.org/wiki/Wendy_Thomas_(politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9093
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9093
+- url: https://justfacts.votesmart.org/candidate/66834/wendy-thomas
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408864
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9093
+- url: https://www.linkedin.com/in/wendy-thomas-225a555
+extras:
+  county: Hillsborough
+  elected status: new
+  gender code: F

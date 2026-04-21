@@ -1,0 +1,64 @@
+id: ocd-person/4d01a3aa-64e5-439d-9574-c1b749c1d52a
+name: Leonard Christian
+given_name: Leonard
+family_name: Christian
+birth_date: 1965-09-22
+gender: Male
+email: leonard.christian@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/18458.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '4'
+- start_date: 2014-01-08
+  end_date: 2014-11-25
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '4'
+- start_date: 2023-01-09
+  end_date: 2025-01-12
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '4'
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '4'
+  end_date: 2025-01-06
+- start_date: 2013-01-01
+  end_date: 2014-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '4'
+offices:
+- classification: capitol
+  address: Room 322A, Irv Newhouse Building P.O. Box 40404, Olympia, WA 98504
+  voice: 360-786-7606
+links:
+- url: https://leg.wa.gov/legislators/member/leonard-christian
+- url: https://LeonardChristian.houserepublicans.wa.gov/
+- url: https://leonardchristian.houserepublicans.wa.gov/
+- url: https://src.wastateleg.org/leonard-christian/
+- url: https://www.leg.wa.gov/house/representatives/Pages/christian.aspx
+other_names:
+- name: Christian, L.
+- name: L. Christian
+- name: L.G. Christian
+- name: Leonard Glenn Christian
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000205
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=House
+- url: https://ballotpedia.org/Leonard_Christian
+- url: https://en.wikipedia.org/wiki/Leonard_Christian
+- url: https://justfacts.votesmart.org/candidate/key-votes/150055/leonard-christian
+- url: https://leg.wa.gov/legislators/member/leonard-christian
+- url: https://leonardchristian.houserepublicans.wa.gov
+- url: https://leonardchristian.houserepublicans.wa.gov/
+- url: https://src.wastateleg.org/leonard-christian
+- url: https://www.leg.wa.gov/house/representatives/Pages/christian.aspx
+- url: https://www.linkedin.com/in/leonard-christian-5b605a9

@@ -1,0 +1,66 @@
+id: ocd-person/915a097c-1280-478b-b200-0903e323e9e5
+name: Gerry Griffin
+given_name: Gerry
+family_name: Griffin
+gender: Male
+email: gerald.griffin@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/59179.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 42
+- start_date: 2016-12-07
+  end_date: 2018-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 42
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 42
+- end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 5
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 5
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=8314
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=8314
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8314
+  note: member detail page
+other_names:
+- name: G. Griffin
+- name: Gerald Griffin
+- name: Griffin, G.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001392
+sources:
+- url: https://ballotpedia.org/Gerald_Griffin
+- url: https://en.wikipedia.org/wiki/Gerald_Griffin_(politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=8314
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=8314
+- url: https://justfacts.votesmart.org/candidate/173013/gerald-griffin
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408314
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8314
+- url: https://www.linkedin.com/in/gerry-griffin-nh-plates-85861743
+extras:
+  county: Hillsborough
+  elected status: Former
+  gender code: M

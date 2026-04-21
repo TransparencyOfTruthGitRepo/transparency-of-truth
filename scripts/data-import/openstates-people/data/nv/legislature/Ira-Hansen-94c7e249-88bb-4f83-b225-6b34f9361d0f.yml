@@ -1,0 +1,58 @@
+id: ocd-person/94c7e249-88bb-4f83-b225-6b34f9361d0f
+name: Ira Hansen
+given_name: Ira
+family_name: Hansen
+birth_date: 1960-10-05
+gender: Male
+email: ira.hansen@sen.state.nv.us
+image: http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Hansen.Ira.157.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2018-11-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '14'
+- start_date: 2010-11-03
+  end_date: 2018-11-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '14'
+- end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '32'
+offices:
+- classification: capitol
+  address: Room 2100, Nevada Senate 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-1480
+  fax: 775-322-8889
+- classification: district
+  address: Room 320, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=157
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/14
+  note: homepage
+other_names:
+- name: Hansen, I.
+- name: Hansen, Ira
+- name: I. Hansen
+- name: I.D. Hansen
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NVL000128
+- scheme: legacy_openstates
+  identifier: NVL000180
+- scheme: legacy_openstates
+  identifier: NVL000244
+- scheme: legacy_openstates
+  identifier: NVL000317
+sources:
+- url: https://ballotpedia.org/Ira_Hansen
+- url: https://en.wikipedia.org/wiki/Ira_Hansen
+- url: https://justfacts.votesmart.org/candidate/121908/ira-hansen
+- url: https://www.irahansen.com/about-ira
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=157
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/14
+- url: https://www.linkedin.com/in/ira-hansen-305b0149

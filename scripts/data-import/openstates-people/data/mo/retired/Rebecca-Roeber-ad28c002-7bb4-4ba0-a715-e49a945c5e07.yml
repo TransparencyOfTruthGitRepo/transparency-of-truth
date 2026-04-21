@@ -1,0 +1,22 @@
+id: ocd-person/ad28c002-7bb4-4ba0-a715-e49a945c5e07
+name: Rebecca Roeber
+given_name: Rebecca
+family_name: Roeber
+party:
+- name: Republican
+roles:
+- end_date: '2019-07-30'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '34'
+links:
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=34
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MOL000405
+sources:
+- url: http://house.mo.gov/MemberGridCluster.aspx
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=34
+extras:
+  first_name: Rebecca
+  last_name: Roeber

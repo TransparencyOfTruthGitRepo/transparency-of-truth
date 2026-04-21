@@ -1,0 +1,41 @@
+id: ocd-person/4f0a99bb-9045-471a-88d2-1fea0ad8ccab
+name: Jay Jacobs
+given_name: Jay
+family_name: Jacobs
+birth_date: 1953-01-28
+gender: Male
+email: jay.jacobs@house.maryland.gov
+image: http://mgaleg.maryland.gov/2016RS/images/jacobs%20j.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '36'
+offices:
+- classification: capitol
+  address: Room 309, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3449
+  fax: 410-841-3093
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/jacobs%20j
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=jacobs%20j&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa15458.html
+other_names:
+- name: J. Jacobs
+- name: J.A. Jacobs
+- name: Jacobs, J.
+- name: Jay A. Jacobs
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000399
+- scheme: legacy_openstates
+  identifier: MDL000535
+sources:
+- url: https://ballotpedia.org/Jay_Jacobs
+- url: https://en.wikipedia.org/wiki/Jay_Jacobs_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/66537/jay-jacobs
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/jacobs%20j
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=jacobs%20j&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa15458.html

@@ -1,0 +1,17 @@
+id: ocd-person/a467dedb-a738-44a3-8c4a-53800c420d71
+name: Vernon Malone
+given_name: Vernon
+family_name: Malone
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '14'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000035
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/memberList.pl?sChamber=Senate

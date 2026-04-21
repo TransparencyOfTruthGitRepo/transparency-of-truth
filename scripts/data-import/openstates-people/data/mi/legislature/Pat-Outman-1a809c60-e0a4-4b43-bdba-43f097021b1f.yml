@@ -1,0 +1,40 @@
+id: ocd-person/1a809c60-e0a4-4b43-bdba-43f097021b1f
+name: Pat Outman
+given_name: Pat
+family_name: Outman
+gender: Male
+email: patoutman@house.mi.gov
+image: https://dtj5wlj7ond0z.cloudfront.net/uploads/2021/01/HS_OUTMAN_0221_NSC_7638-scaled.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '91'
+- end_date: 2022-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '70'
+offices:
+- classification: capitol
+  address: Room N-1195, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-3436
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/reppatoutman/about
+- url: https://repoutman.com
+other_names:
+- name: Outman, P.
+- name: P. Outman
+sources:
+- url: https://ballotpedia.org/Pat_Outman
+- url: https://en.wikipedia.org/wiki/Pat_Outman
+- url: https://gophouse.org/member/reppatoutman/about
+- url: https://repoutman.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
+- url: https://www.linkedin.com/in/patrick-outman-93732b167

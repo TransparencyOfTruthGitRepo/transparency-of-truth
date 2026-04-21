@@ -1,0 +1,54 @@
+id: ocd-organization/2d57ebee-deab-4fed-b136-9eec0ed8708c
+jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+classification: committee
+name: Pensions and Retirement
+chamber: lower
+sources:
+- url: https://www.ncleg.gov/committees
+  note: committees list page
+- url: https://www.ncleg.gov/Committees/CommitteeInfo/HouseStanding/169
+  note: committee details page
+links:
+- url: https://www.ncleg.gov/Committees/CommitteeInfo/HouseStanding/169
+  note: homepage
+members:
+- name: Carson Smith
+  role: chair
+  person_id: ocd-person/6f78b8a8-f77c-4aef-bfa4-b3dac3312e33
+- name: Diane Wheatley
+  role: chair
+  person_id: ocd-person/034ed56d-8058-4489-be3e-3d4b9977ac4b
+- name: Aisha Dew
+  role: member
+  person_id: ocd-person/9f9d7fb9-9981-412d-b3e2-45c7f67d189a
+- name: Amos Quick
+  role: member
+  person_id: ocd-person/46275779-8191-48be-8b0b-8373376fa23d
+- name: Donny Lambeth
+  role: member
+  person_id: ocd-person/dd2200c1-2bdb-4afc-a557-ebcbb5f1eee8
+- name: James Roberson
+  role: member
+  person_id: ocd-person/4547831d-14b9-4d9d-9e3c-15b66c389054
+- name: Joe Pike
+  role: member
+  person_id: ocd-person/50435516-ccee-4b72-9075-e27a0bfe0a72
+- name: John Lowery
+  role: member
+  person_id: ocd-person/7d07a14d-a5dc-46a9-8277-85fee42921a1
+- name: Lindsey Prather
+  role: member
+  person_id: ocd-person/16a0c907-4efa-45a7-83d2-1c79cc541535
+- name: Mark Brody
+  role: member
+  person_id: ocd-person/cc238a7c-3222-4ac2-8d4d-3884dd342a5f
+- name: Phil Rubin
+  role: member
+  person_id: ocd-person/efae51b3-e547-46c0-87df-4ac35c0c60de
+- name: Stephen Ross
+  role: member
+  person_id: ocd-person/6b6dc936-a880-4bdb-9fba-11e0a2ff9f01
+other_names:
+- name: House Committee on Pensions and Retirement
+- name: House Pensions and Retirement
+- name: House Pensions and Retirement Committee

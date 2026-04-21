@@ -1,0 +1,49 @@
+id: ocd-person/d95b3a70-9bb4-43b8-a376-9d3151f9c44d
+name: Angie Taylor
+given_name: Angie
+family_name: Taylor
+gender: Female
+email: angela.taylor@sen.state.nv.us
+image: http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Taylor.Angela.424.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-11-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '15'
+- start_date: 2022-11-09
+  end_date: 2024-11-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '15'
+- start_date: 2022-11-09
+  end_date: 2024-11-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '27'
+offices:
+- classification: capitol
+  address: Room 2112, Nevada Senate 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-1419
+- classification: district
+  address: Room 318, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27
+  note: homepage
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/15
+other_names:
+- name: A. Taylor
+- name: A.D. Taylor
+- name: Angela Taylor
+- name: Taylor, A.
+- name: Taylor, Angela
+- name: Taylor, Angie
+sources:
+- url: https://ballotpedia.org/Angie_Taylor
+- url: https://en.wikipedia.org/wiki/Angie_Taylor
+- url: https://justfacts.votesmart.org/candidate/121893/angela-taylor
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current                             "
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/15
+- url: https://www.linkedin.com/in/angie-taylor

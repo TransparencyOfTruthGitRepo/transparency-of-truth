@@ -1,0 +1,51 @@
+id: ocd-person/ad9925ab-ab4a-46e9-a316-4d3a964736a3
+name: Teresa Reilly
+given_name: Teresa
+family_name: Reilly
+birth_date: 1958-06-28
+gender: Female
+email: teresa.reilly@house.maryland.gov
+image: https://mgaleg.maryland.gov/2023RS/images/reilly01.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 35A
+- start_date: 2015-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 35B
+  end_date: 2023-01-11
+- start_date: 2015-01-14
+  end_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 35B
+offices:
+- classification: capitol
+  address: Room 325, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3278
+  fax: 410-841-3190
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/reilly01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=reilly01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa17075.html
+other_names:
+- name: Reilly, T.
+- name: T. Reilly
+- name: T.E. Reilly
+- name: Teresa E. Reilly
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000650
+- scheme: legacy_openstates
+  identifier: MDL000714
+sources:
+- url: https://ballotpedia.org/Teresa_Reilly
+- url: https://en.wikipedia.org/wiki/Teresa_E._Reilly
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/reilly01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=reilly01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa17075.html
+- url: https://www.linkedin.com/in/teresa-reilly-6aa91880

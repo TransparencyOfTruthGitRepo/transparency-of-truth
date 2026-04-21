@@ -1,0 +1,54 @@
+id: ocd-person/a0b2ce58-2c2d-4b71-a9e2-7b8ae153d53f
+name: Sue Glick
+given_name: Sue
+family_name: Glick
+gender: Female
+email: s13@iga.in.gov
+image: https://cdn.zephyrcms.com/9104a840-3113-47f6-b8fc-112521fe5577/-/progressive/yes/-/format/jpeg/-/scale_crop/200x300/center/-/stretch/off/glick-website.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2010-12-16
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '13'
+offices:
+- classification: capitol
+  address: 200 W. Washington St., Indianapolis, IN 46204
+  voice: 317-232-9400
+links:
+- url: https://iga.in.gov/legislative/2021/legislators/legislator_susan_glick_1048
+- url: https://iga.in.gov/legislative/2022/legislators/legislator_susan_glick_1048/
+- url: https://www.indianasenaterepublicans.com/glick
+  note: homepage
+other_names:
+- name: C.S. Glick
+- name: Glick, S.
+- name: S. Glick
+- name: S.C. Glick
+- name: Susan Glick
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: INL000014
+- scheme: legacy_openstates
+  identifier: INL000206
+sources:
+- url: https://api.iga.in.gov/2021/legislators/susan_glick_1048
+- url: https://ballotpedia.org/Susan_Glick
+- url: https://en.wikipedia.org/wiki/Sue_Glick
+- url: https://iga.in.gov/legislative/2021/legislators/legislator_susan_glick_1048
+- url: https://iga.in.gov/legislative/2022/legislators/legislator_susan_glick_1048
+- url: https://iga.in.gov/legislative/2022/legislators/legislator_susan_glick_1048/
+- url: https://justfacts.votesmart.org/candidate/biography/128689/susan-glick
+- url: https://www.indianasenaterepublicans.com/glick
+- url: https://www.indianasenaterepublicans.com/senators
+- url: https://www.linkedin.com/in/sue-glick-08872473
+extras:
+  title: Assistant President Pro Tempore
+  second phone: 317-232-9400
+  legislative assistant name: Jacob Landes
+  legislative assistant phone: 317-232-9493
+  legislative assistant email: Jacob.Landes@iga.in.gov
+  media contact name: Paige Gehlhausen
+  media contact phone: 317-232-9425
+  media contact email: Paige.Gehlhausen@iga.in.gov

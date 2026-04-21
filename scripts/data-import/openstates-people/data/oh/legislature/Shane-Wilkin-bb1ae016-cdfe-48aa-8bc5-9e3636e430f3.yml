@@ -1,0 +1,41 @@
+id: ocd-person/bb1ae016-cdfe-48aa-8bc5-9e3636e430f3
+name: Shane Wilkin
+given_name: Shane
+family_name: Wilkin
+gender: Male
+email: sd17@ohiosenate.gov
+image: https://www.legislature.ohio.gov/assets/people/shane-wilkin/headshots/thumbnails/medium/shane-wilkin-may-2023-headshot_medium.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '17'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '91'
+offices:
+- classification: capitol
+  address: Room 221, Statehouse, 1 Capitol Square Second Floor, Columbus, OH 43215
+  voice: 614-466-8156
+links:
+- url: https://ohiohouse.gov/shane-wilkin
+- url: https://ohiosenate.gov/members/shane-wilkin
+- url: https://www.ohiohouse.gov/shane-wilkin
+other_names:
+- name: S. Wilkin
+- name: Wilkin, S.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000384
+sources:
+- url: https://ballotpedia.org/Shane_Wilkin
+- url: https://ohiohouse.gov/shane-wilkin
+- url: https://ohiosenate.gov/members/shane-wilkin
+  note: member details page
+- url: https://www.legislature.ohio.gov/legislators/senate-directory
+  note: member list page
+- url: https://www.linkedin.com/in/shane-wilkin-32947920
+- url: https://www.ohiohouse.gov/members/member-directory

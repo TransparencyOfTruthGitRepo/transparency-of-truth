@@ -1,0 +1,113 @@
+id: ocd-organization/6cce6743-c74b-4a1a-99a3-792fcf1689fb
+jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+classification: committee
+name: Appropriations
+chamber: lower
+sources:
+- url: https://capitol.texas.gov/Committees/CommitteesMbrs.aspx?Chamber=H
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C030
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C030
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C030
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C030
+- url: https://house.texas.gov/committees/committee/030
+- url: https://house.texas.gov/committees/committee/?committee=C030
+links:
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C030
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C030
+  note: homepage
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C030
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C030
+- url: https://house.texas.gov/committees/committee/030
+- url: https://house.texas.gov/committees/committee/?committee=C030
+members:
+- name: Greg Bonnen
+  role: chair
+  person_id: ocd-person/d0fbfb15-2f0c-4167-b8b4-d6135bbb6616
+- name: "Mary Gonz\xE1lez"
+  role: vice chair
+  person_id: ocd-person/93379bbe-5fb3-400f-853a-d0b3553e7772
+- name: Angelia Orr
+  role: member
+  person_id: ocd-person/aa0d12c3-c318-4c97-a0d4-c63795ec50d9
+- name: Armando Walle
+  role: member
+  person_id: ocd-person/3caafbc8-6561-4bf8-8247-aaf398573ba8
+- name: Barbara Gervin-Hawkins
+  role: member
+  person_id: ocd-person/9c37e80d-af10-4433-a78a-408b2b798fb6
+- name: Brian Harrison
+  role: member
+  person_id: ocd-person/b1bf46ac-e99e-49f6-8f40-cf07aca12187
+- name: Carl Tepper
+  role: member
+  person_id: ocd-person/8f7f161e-6ef4-4c12-8eea-de88a313b36c
+- name: Caroline Fairly
+  role: member
+  person_id: ocd-person/5c40c2b0-07c1-4c73-b15b-14d0ef6df40e
+- name: Cas Garcia Hernandez
+  role: member
+  person_id: ocd-person/f331962f-370b-4b74-876e-aa6a8e2e58e2
+- name: Christian Manuel
+  role: member
+  person_id: ocd-person/26090510-8782-4d64-b981-3d1cde573090
+- name: Denise Villalobos
+  role: member
+  person_id: ocd-person/42c40e86-b355-4724-8582-995125377240
+- name: Donna Howard
+  role: member
+  person_id: ocd-person/349071fd-3c36-43c6-aaca-6d7f9d04322d
+- name: Gene Wu
+  role: member
+  person_id: ocd-person/5556a81a-eca2-451d-bb29-74cfb00d1959
+- name: J.M. Lozano
+  role: member
+  person_id: ocd-person/a43f2db5-4b24-4dfa-af7f-a2c7cbc5ea21
+- name: Janie Lopez
+  role: member
+  person_id: ocd-person/a732704e-9b03-449c-b24f-f4c567b5acdd
+- name: Jeff Barry
+  role: member
+  person_id: ocd-person/988efb07-ace2-4419-ac40-ccec69ebe875
+- name: John Lujan
+  role: member
+  person_id: ocd-person/fbd66d9f-2a93-4cbf-b75d-b51cb01e955e
+- name: Lauren Simmons
+  role: member
+  person_id: ocd-person/9dc31ea5-fd89-4909-a9bf-d732ea02282a
+- name: Mando Martinez
+  role: member
+  person_id: ocd-person/e2d786e9-5e46-4807-be42-546203016996
+- name: Mano DeAyala
+  role: member
+  person_id: ocd-person/a61b0fd1-9fdf-4b4c-abe6-b790cc856023
+- name: Nicole Collier
+  role: member
+  person_id: ocd-person/ea169f77-0bd8-4ca0-ac59-f894c9a09e71
+- name: Shelby Slawson
+  role: member
+  person_id: ocd-person/ddebb940-33f9-4b5c-a8fa-e22c63a594e9
+- name: Stan Kitzman
+  role: member
+  person_id: ocd-person/2662f888-95e0-4de3-be5b-3d023623c447
+- name: Tom Oliverson
+  role: member
+  person_id: ocd-person/79ffab1c-4d79-4cfa-89b4-5f7ee95ca1bf
+- name: Toni Rose
+  role: member
+  person_id: ocd-person/0acfbb85-b501-45ce-9a9b-90537090a455
+- name: Venton Jones
+  role: member
+  person_id: ocd-person/6b2d7f89-d7e0-44d1-b861-3167915f6925
+- name: Vikki Goodwin
+  role: member
+  person_id: ocd-person/25157308-7474-4600-8b83-173d79e16a21
+other_names:
+- name: House Appropriations
+- name: House Appropriations Committee
+- name: House Committee on Appropriations
+extras:
+  clerk: Cameron Cocke
+  legislature: 88(R) - 2023
+  phone: (512) 463-1091
+  appointment date: 2/8/2023
+  room: EXT E1.032

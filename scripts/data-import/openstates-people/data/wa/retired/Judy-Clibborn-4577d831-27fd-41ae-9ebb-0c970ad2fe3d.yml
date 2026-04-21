@@ -1,0 +1,20 @@
+id: ocd-person/4577d831-27fd-41ae-9ebb-0c970ad2fe3d
+name: Judy Clibborn
+given_name: Judy
+family_name: Clibborn
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/clibborn.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2019-01-13'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '41'
+links:
+- url: http://housedemocrats.wa.gov/legislators/Judy-Clibborn/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000064
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx

@@ -1,0 +1,71 @@
+id: ocd-organization/78e47661-e708-44dd-b3b5-91e0a83cee8f
+jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+classification: committee
+name: Education
+chamber: lower
+sources:
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1156
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1194
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/68
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/69
+- url: https://sdlegislature.gov/Session/Committee/1156/Detail
+- url: https://sdlegislature.gov/Session/Committee/1194/Detail
+- url: https://sdlegislature.gov/Session/Committee/1228/Detail
+- url: https://sdlegislature.gov/Session/Committee/1263/Detail
+links:
+- url: https://sdlegislature.gov/Session/Committee/1156/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1194/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1228/Detail
+- url: https://sdlegislature.gov/Session/Committee/1263/Detail
+members:
+- name: Lana Greenfield
+  role: chair
+  person_id: ocd-person/7eefd193-a618-4a9b-b416-cd495239ead6
+- name: Mike Stevens
+  role: vice chair
+  person_id: ocd-person/0121d607-e75c-4427-bd76-a6e01434afca
+- name: Amber Arlint
+  role: member
+  person_id: ocd-person/f9dd87da-ac23-450d-9574-1efa95ef0d81
+- name: Dylan Jordan
+  role: member
+  person_id: ocd-person/d458ae29-45a8-4406-a5c0-c256ec743172
+- name: Heather Baxter
+  role: member
+  person_id: ocd-person/229c5337-951c-41d2-9e76-dc74878bcf89
+- name: Jim Halverson
+  role: member
+  person_id: ocd-person/98281de1-c8bc-4c3a-9a5b-6a45c96c6087
+- name: Josephine Garcia
+  role: member
+  person_id: ocd-person/6ca3c0b7-e0d2-4d68-8b33-725c378ff130
+- name: Kaley Nolz
+  role: member
+  person_id: ocd-person/0baaa53b-6468-4de4-98ce-bf1e218f8d38
+- name: Kathy Rice
+  role: member
+  person_id: ocd-person/f2a2616a-c0d4-45d2-8c52-2c8d7dac5e26
+- name: Logan Manhart
+  role: member
+  person_id: ocd-person/533da64d-d703-4d56-9d65-8bf3b730d552
+- name: Mellissa Heermann
+  role: member
+  person_id: ocd-person/82afbbac-f85b-47ec-aad9-c7218f35d44c
+- name: Nicole Uhre-Balk
+  role: member
+  person_id: ocd-person/00ed522e-529c-4ec7-bec2-90e124a2b3df
+- name: Roger DeGroot
+  role: member
+  person_id: ocd-person/69b0ca35-e513-4250-90fd-3a8c44dbeae8
+- name: Tesa Schwans
+  role: member
+  person_id: ocd-person/052b96bd-7f02-4518-ba11-b1a55084149e
+- name: Travis Ismay
+  role: member
+  person_id: ocd-person/1e73baba-bddd-4b8c-901d-a1324f3194eb
+other_names:
+- name: House Committee on Education
+- name: House Education
+- name: House Education Committee

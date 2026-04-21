@@ -1,0 +1,47 @@
+id: ocd-person/20def39d-ba5c-45d7-ba6c-5cf43590d4b0
+name: Denise Marcelle
+given_name: Denise
+family_name: Marcelle
+gender: Female
+email: marcelled@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics/rep61.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2016-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '61'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 1824 N. Acadian Thruway West, Baton Rouge, LA 70802
+  voice: 225-359-9362
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=61
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=61
+other_names:
+- name: C. Denise Marcelle
+- name: C.D. Marcelle
+- name: D. Marcelle
+- name: Marcelle, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000841
+- scheme: legacy_openstates
+  identifier: LAL000895
+sources:
+- url: https://ballotpedia.org/C._Denise_Marcelle
+- url: https://en.wikipedia.org/wiki/C._Denise_Marcelle
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=61
+- url: https://house.louisiana.gov/H_Reps/members?ID=61
+- url: https://www.linkedin.com/in/c-denise-marcelle-7bb85a32
+extras:
+  legislative assistant: Zeniqual Gilliam
+  representing parishes:
+  - East Baton Rouge
+  education: Capital Senior High School; Southern University, B.A., Criminal Justice

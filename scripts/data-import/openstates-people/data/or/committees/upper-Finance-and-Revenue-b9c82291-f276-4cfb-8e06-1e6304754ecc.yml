@@ -1,0 +1,42 @@
+id: ocd-organization/b9c82291-f276-4cfb-8e06-1e6304754ecc
+jurisdiction: ocd-jurisdiction/country:us/state:or/government
+classification: committee
+name: Finance and Revenue
+chamber: upper
+sources:
+- url: https://olis.oregonlegislature.gov/liz/2023R1/Committees/SFR/CommitteeMembers
+  note: Committee details page
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/SFR/CommitteeMembers
+  note: Committee details page
+- url: https://olis.oregonlegislature.gov/liz/2025I1/Committees/SFR/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025R1/Committees/SFR/Overview
+- url: https://olis.oregonlegislature.gov/liz/2026R1/Committees/SFR/Overview
+links:
+- url: https://olis.oregonlegislature.gov/liz/2023R1/Committees/SFR/CommitteeMembers
+  note: homepage
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/SFR/CommitteeMembers
+  note: homepage
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/SFR/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025I1/Committees/SFR/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025R1/Committees/SFR/Overview
+- url: https://olis.oregonlegislature.gov/liz/2026R1/Committees/SFR/Overview
+members:
+- name: Anthony Broadman
+  role: chair
+  person_id: ocd-person/305e1426-2193-4e49-accf-6b26d224e92b
+- name: Mike McLane
+  role: vice chair
+  person_id: ocd-person/f0091fb4-4207-4663-be23-7c9e77994048
+- name: Deb Patterson
+  role: member
+  person_id: ocd-person/6c867cbf-9d0b-4dd8-9537-55e834a42dc4
+- name: Dick Anderson
+  role: member
+  person_id: ocd-person/5e28a30c-5ca9-4221-a331-9321267fbae6
+- name: Kathleen Taylor
+  role: member
+  person_id: ocd-person/97c2b8fd-9e87-43b7-b202-6541af36bab7
+other_names:
+- name: Senate Committee on Finance and Revenue
+- name: Senate Finance and Revenue
+- name: Senate Finance and Revenue Committee

@@ -1,0 +1,39 @@
+id: ocd-person/52046189-0464-4140-9cdf-b6c66312d49d
+name: Matt Simpson
+given_name: Matt
+family_name: Simpson
+gender: Male
+email: matt.simpson@alhouse.gov
+image: https://www.legislature.state.al.us/pdf/house/members/Simpson_96.png
+party:
+- name: Republican
+roles:
+- start_date: 2018-11-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '96'
+offices:
+- classification: capitol
+  address: Room 417-A, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0424
+- classification: district
+  address: 109 Tomrick Circle, Daphne, AL 36526
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100578&OID_PERSON=8514
+other_names:
+- name: M. Simpson
+- name: M.P. Simpson
+- name: Simpson, M.
+sources:
+- url: https://ballotpedia.org/Matt_Simpson
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/180610/matt-simpson
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Simpson&OID_SPONSOR=100578&OID_PERSON=8514&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100578&OID_PERSON=8514
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+- url: https://www.linkedin.com/in/matt-simpson-92b4132a
+extras:
+  counties: Baldwin County

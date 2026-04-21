@@ -1,0 +1,23 @@
+id: ocd-person/5ddfad4f-25c7-4054-8cb0-0e9ecb4414ef
+name: Jeffery Justus
+given_name: Jeffery
+family_name: Justus
+email: Jeffery.Justus@house.mo.gov
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '156'
+links:
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=156
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MOL000281
+sources:
+- url: http://house.mo.gov/MemberGridCluster.aspx
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=156
+extras:
+  first_name: Jeffery
+  last_name: Justus

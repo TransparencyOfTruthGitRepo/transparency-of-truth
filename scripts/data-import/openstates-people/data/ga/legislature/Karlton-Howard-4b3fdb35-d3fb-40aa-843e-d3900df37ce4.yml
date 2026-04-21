@@ -1,0 +1,49 @@
+id: ocd-person/4b3fdb35-d3fb-40aa-843e-d3900df37ce4
+name: Karlton Howard
+given_name: Karlton
+family_name: Howard
+gender: Male
+email: karlton.howard@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/howard-karlton-5056.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '129'
+offices:
+- classification: capitol
+  address: Room 511-G, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-6372
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5056
+- url: https://www.legis.ga.gov/members/house/5056?session=1031
+  note: HTML member detail page
+other_names:
+- name: HOWARD, 129TH
+- name: Howard, K.
+- name: K. Howard
+- name: K.L. Howard
+sources:
+- url: https://ballotpedia.org/Karlton_Howard
+- url: https://en.wikipedia.org/wiki/Karlton_Howard
+- url: https://justfacts.votesmart.org/candidate/biography/211149/karlton-howard
+- url: https://www.legis.ga.gov/api/members/detail/5056?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5056
+- url: https://www.linkedin.com/in/karlton-howard-59635288
+extras:
+  residence: Augusta
+  city: Augusta
+  georgia_id: 5056
+  birthday: January 26
+  press: https://house-press.com/representative/Karlton-Howard
+  spouse: Dianne
+  staff: Carmen Champion - Administrative Assistant
+  staff email: carmen.champion@house.ga.gov

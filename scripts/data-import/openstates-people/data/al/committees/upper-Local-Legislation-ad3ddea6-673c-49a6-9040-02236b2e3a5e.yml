@@ -1,0 +1,35 @@
+id: ocd-organization/ad3ddea6-673c-49a6-9040-02236b2e3a5e
+jurisdiction: ocd-jurisdiction/country:us/state:al/government
+classification: committee
+name: Local Legislation
+chamber: upper
+sources:
+- url: https://alison.legislature.state.al.us/committees-senate-standing-current-year
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: Committee list api call
+- url: https://www.legislature.state.al.us/aliswww/ISD/senate/SenateCommittees.aspx
+- url: https://www.legislature.state.al.us/aliswww/ISD/SenCommittee.aspx?OID_ORGANIZATION=3271&COMMITTEE=Local%20Legislation
+links:
+- url: https://alison.legislature.state.al.us/committees-senate-standing-current-year
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/SenCommittee.aspx?OID_ORGANIZATION=3271&COMMITTEE=Local%20Legislation
+  note: homepage
+members:
+- name: Clyde Chambliss
+  role: chair
+  person_id: ocd-person/d1307771-6d50-4d56-9995-b5d799917d7b
+- name: Steve Livingston
+  role: vice chair
+  person_id: ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce
+- name: Garlan Gudger
+  role: member
+  person_id: ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e
+other_names:
+- name: Senate Committee on Local Legislation
+- name: Senate Local Legislation
+- name: Senate Local Legislation Committee
+extras:
+  Clerk: Sabrina Gaston
+  Phone: 334 261-0881
+  Email: sabrina.gaston@alsenate.gov
+  Suite: 702A

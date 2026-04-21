@@ -1,0 +1,91 @@
+id: ocd-organization/1bd40036-3474-4f4f-a873-85f719a54e84
+jurisdiction: ocd-jurisdiction/country:us/state:va/government
+classification: committee
+name: Public Safety
+chamber: lower
+sources:
+- url: https://house.vga.virginia.gov/committees/H15
+- url: https://lis.virginia.gov/241/com/COM.HTM
+  note: homepage
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+com+H15
+- url: https://lis.virginia.gov/session-details/20261/committee-information/H15/committee-details
+- url: https://virginiageneralassembly.gov/house/members/members.php?committee=H15
+links:
+- url: https://house.vga.virginia.gov/committees/H15
+- url: https://lis.virginia.gov/241/com/COM.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+com+H15
+- url: https://lis.virginia.gov/session-details/20261/committee-information/H15/committee-details
+- url: https://virginiageneralassembly.gov/house/members/members.php?committee=H15
+members:
+- name: Marcus Simon
+  role: chair
+  person_id: ocd-person/ca122856-dfc5-4ba1-84bb-48fdcf7a36f5
+- name: Adele McClure
+  role: vice chair
+  person_id: ocd-person/d0de7acb-ce8d-4bb2-b6e5-99cefe5e76a6
+- name: Alfonso Lopez
+  role: member
+  person_id: ocd-person/ed935430-db59-4962-91f7-c0eeca2ef8e2
+- name: Dan Helmer
+  role: member
+  person_id: ocd-person/5e5e025d-7e50-4c2f-ba81-720f19aa0d81
+- name: Debra Gardner
+  role: member
+  person_id: ocd-person/28a2a753-16db-4236-baf0-398c0cafa259
+- name: Delores Oates
+  role: member
+  person_id: ocd-person/aabaa796-77f3-4b39-a626-ae05944ec484
+- name: Eric Phillips
+  role: member
+  person_id: ocd-person/704cecad-ef53-44e4-ad55-6c7a7e385e5c
+- name: Eric Zehr
+  role: member
+  person_id: ocd-person/0bd1b9d6-e02e-4cb4-91c8-c87466ebf1db
+- name: Holly Seibold
+  role: member
+  person_id: ocd-person/745d2197-96c4-4e10-be1d-19f70c35f541
+- name: Jessica Anderson
+  role: member
+  person_id: ocd-person/f2a47eb9-0839-48e8-baf2-c2d638bf380b
+- name: Josh Thomas
+  role: member
+  person_id: ocd-person/b6db5cc9-d9d3-4cbd-9532-6126a47c2ab3
+- name: Kacey Carnegie
+  role: member
+  person_id: ocd-person/aeba499e-3396-4787-bd81-e9b16a8898f7
+- name: Karen Hamilton
+  role: member
+  person_id: ocd-person/b209f24e-0f1f-4f80-b2d9-1c05ee94ba4e
+- name: Kirk McPike
+  role: member
+  person_id: ocd-person/b0a785c3-d317-455f-9d0e-ab08a727e44f
+- name: Michael Feggans
+  role: member
+  person_id: ocd-person/cbf3268e-ced2-4aad-8ed1-18e4f37534ec
+- name: Mike Webert
+  role: member
+  person_id: ocd-person/bf425b62-d078-45bd-957c-baceb4bfad1b
+- name: Mitchell Cornett
+  role: member
+  person_id: ocd-person/e766f1e0-8651-4cc2-a394-904fa6f3aea0
+- name: Nadarius Clark
+  role: member
+  person_id: ocd-person/a7fd18db-f30c-45c6-aa90-bdb6f2ce412b
+- name: Patrick Hope
+  role: member
+  person_id: ocd-person/c10414ad-5251-4fba-8ad9-a541311f2b9f
+- name: Rae Cousins
+  role: member
+  person_id: ocd-person/359eaeba-903c-42b4-b9e3-5c5b4e9d721d
+- name: Sam Rasoul
+  role: member
+  person_id: ocd-person/6ab67007-e48a-4048-bb7b-20a608a88f77
+- name: Tony Wilt
+  role: member
+  person_id: ocd-person/94fa59c7-00b0-4e15-9887-8af534217476
+other_names:
+- name: Committee on Public Safety
+- name: House Committee on Public Safety
+- name: House Public Safety
+- name: House Public Safety Committee
+- name: Public Safety Committee

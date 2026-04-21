@@ -1,0 +1,65 @@
+id: ocd-person/594aa971-500b-42a4-9d7a-1ceb4c029220
+name: Jason Ridley
+given_name: Jason
+family_name: Ridley
+birth_date: 1977-07-19
+gender: Male
+email: jason.ridley@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/ridley-jason-4883.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '6'
+offices:
+- classification: capitol
+  address: Room 614-B, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-3947
+- classification: district-mail
+  address: P.O. Box 2010, Chatsworth, GA 30705
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4883&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4883
+- url: https://www.legis.ga.gov/members/house/4883?session=1029
+- url: https://www.legis.ga.gov/members/house/4883?session=1031
+  note: HTML member detail page
+other_names:
+- name: J. Ridley
+- name: J.T. Ridley
+- name: Jason Ridley
+- name: Jason Thomas Ridley
+- name: RIDLEY, 6TH
+- name: Ridley, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000467
+sources:
+- url: https://ballotpedia.org/Jason_Ridley
+- url: https://en.wikipedia.org/wiki/Jason_Ridley
+- url: https://justfacts.votesmart.org/candidate/biography/168189/jason-ridley
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4883&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4883?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4883?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4883
+- url: https://www.legis.ga.gov/members/house/4883?session=1029
+- url: https://www.linkedin.com/in/jason-ridley-9919315b
+extras:
+  residence: Chatsworth
+  city: Chatsworth
+  georgia_id: 4883
+  birthday: July 19
+  occupation: Financial Representative/Farmer
+  press: https://house-press.com/representative/Jason-Ridley
+  spouse: Andrea
+  staff: ''
+  staff email: delane.roberts@house.ga.gov

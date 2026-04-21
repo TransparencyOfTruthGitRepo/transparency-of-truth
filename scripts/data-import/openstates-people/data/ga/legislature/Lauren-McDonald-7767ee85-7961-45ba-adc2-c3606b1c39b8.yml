@@ -1,0 +1,61 @@
+id: ocd-person/7767ee85-7961-45ba-adc2-c3606b1c39b8
+name: Lauren McDonald
+given_name: Lauren
+family_name: McDonald
+birth_date: 1968-08-10
+gender: Male
+email: lauren.mcdonald@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/mcdonald-lauren-4992.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '26'
+offices:
+- classification: capitol
+  address: State Capitol Room 401-B, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-7855
+- classification: district
+  address: 4180 Creekwood Drive, Cumming, GA 30041
+  voice: 770-886-9899
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4992
+- url: https://www.legis.ga.gov/members/house/4992?session=1029
+- url: https://www.legis.ga.gov/members/house/4992?session=1031
+  note: HTML member detail page
+other_names:
+- name: L. McDonald
+- name: L.W. McDonald
+- name: Lauren McDonald
+- name: Lauren McDonald III
+- name: Lauren Wylie McDonald
+- name: MCDONALD III
+- name: MCDONALD, 26TH
+- name: McDonald, L.
+sources:
+- url: https://ballotpedia.org/Lauren_W._McDonald_III
+- url: https://en.wikipedia.org/wiki/Lauren_McDonald
+- url: https://justfacts.votesmart.org/candidate/biography/151410/lauren-mcdonald-iii
+- url: https://www.legis.ga.gov/api/members/detail/4992?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4992?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4992
+- url: https://www.legis.ga.gov/members/house/4992?session=1029
+extras:
+  residence: Cumming
+  city: Cumming
+  georgia_id: 4992
+  birthday: August 10
+  occupation: Funeral Home Owner
+  press: https://house-press.com/representative/Lauren-McDonald
+  spouse: Claire
+  staff: Madison Spangler-McDonald - Administrative Assistant
+  staff email: madison.spangler-mcdonald@house.ga.gov
+  title: Governor's Floor Leader

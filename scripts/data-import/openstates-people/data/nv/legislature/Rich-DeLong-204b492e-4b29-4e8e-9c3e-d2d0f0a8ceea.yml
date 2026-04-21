@@ -1,0 +1,37 @@
+id: ocd-person/204b492e-4b29-4e8e-9c3e-d2d0f0a8ceea
+name: Rich DeLong
+given_name: Rich
+family_name: DeLong
+gender: Male
+email: rich.delong@asm.state.nv.us
+image: http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/DeLong.Rich.399.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room 4107, Nevada Assembly 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-8848
+- classification: district
+  address: Room 342, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/26
+  note: homepage
+other_names:
+- name: DeLong, R.
+- name: DeLong, Rich
+- name: DeLong, Richard
+- name: R. DeLong
+- name: Richard DeLong
+sources:
+- url: https://ballotpedia.org/Rich_DeLong
+- url: https://en.wikipedia.org/wiki/Rich_DeLong
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/26
+- url: https://www.linkedin.com/in/richard-delong-b5771319
+extras:
+  title: Minority Whip

@@ -1,0 +1,48 @@
+id: ocd-person/37b1879c-5435-4c28-bb62-fa71fbabbbdb
+name: Mark Costello
+given_name: Mark
+family_name: Costello
+birth_date: 1961-10-24
+gender: Male
+email: mark.costello@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10749
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '8'
+- end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '12'
+offices:
+- classification: capitol
+  address: 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3371
+links:
+- url: https://www.iowasenaterepublicans.com/senators/mark-costello/
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10749
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=10749
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=10749
+other_names:
+- name: Costello, M.
+- name: M. Costello
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IAL000234
+- scheme: legacy_openstates
+  identifier: IAL000514
+sources:
+- url: https://ballotpedia.org/Mark_Costello_(Iowa)
+- url: https://en.wikipedia.org/wiki/Mark_Costello_(Iowa_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/137943/mark-costello
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10749
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=10749
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=10749
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=10749
+- url: https://www.legis.iowa.gov/legislators/senate
+- url: https://www.linkedin.com/in/mark-costello-182a879b
+extras:
+  occupation: Farmer

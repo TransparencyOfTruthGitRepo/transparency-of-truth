@@ -1,0 +1,42 @@
+id: ocd-person/67047d73-acc1-4d6f-b580-fbeee33cc1f8
+name: Jaime Williams
+given_name: Jaime
+family_name: Williams
+birth_date: 1979-08-24
+gender: Female
+email: williamsja@nyassembly.gov
+image: https://assembly.state.ny.us/write/upload/member_files/059/headshot/059.jpg?hst=1660073711
+party:
+- name: Democratic
+roles:
+- start_date: 2016-05-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '59'
+offices:
+- classification: capitol
+  address: Room 641, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-5211
+- classification: district
+  address: 5318 N Ave. 1st Floor Store, Brooklyn, NY 11234
+  voice: 718-252-2124
+links:
+- url: https://assembly.state.ny.us/mem/?sh=email
+- url: https://assembly.state.ny.us/mem/Jaime-R-Williams
+- url: https://nyassembly.gov/mem/Jaime-R-Williams
+other_names:
+- name: J. Williams
+- name: J.R. Williams
+- name: Jaime R. Williams
+- name: Jaime Williams
+- name: Williams, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000426
+sources:
+- url: https://assembly.state.ny.us/mem/Jaime-R-Williams
+- url: https://ballotpedia.org/Jaime_Williams
+- url: https://en.wikipedia.org/wiki/Jaime_Williams_%28legislator%29
+- url: https://justfacts.votesmart.org/candidate/biography/170040/jaime-williams
+- url: https://nyassembly.gov/mem/Jaime-R-Williams
+- url: https://www.linkedin.com/in/jaime-williams-4b38bb45

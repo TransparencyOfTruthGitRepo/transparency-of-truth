@@ -1,0 +1,65 @@
+id: ocd-person/f33d979c-554c-433e-ad0f-837eef1da589
+name: Eddie Lumsden
+given_name: Eddie
+family_name: Lumsden
+birth_date: 1952-08-25
+gender: Male
+email: eddie.lumsden@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/lumsden-eddie-826.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '12'
+offices:
+- classification: capitol
+  address: State Capitol Room 220-A, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-7850
+- classification: district-mail
+  address: P.O. Box 122, Armuchee, GA 30105
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=826&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/826
+- url: https://www.legis.ga.gov/members/house/826?session=1029
+- url: https://www.legis.ga.gov/members/house/826?session=1031
+  note: HTML member detail page
+other_names:
+- name: E. Lumsden
+- name: Eddie Lumsden
+- name: J.E. Lumsden
+- name: James Edward Lumsden
+- name: LUMSDEN, 12TH
+- name: Lumsden, E.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000325
+sources:
+- url: https://ballotpedia.org/Eddie_Lumsden
+- url: https://en.wikipedia.org/wiki/Eddie_Lumsden_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/31603/eddie-lumsden
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=826&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/826?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/826?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/826
+- url: https://www.legis.ga.gov/members/house/826?session=1029
+- url: https://www.linkedin.com/in/eddie-lumsden-32645b4b
+extras:
+  residence: Armuchee
+  city: Armuchee
+  georgia_id: 826
+  birthday: August 25
+  occupation: Retired State Trooper
+  press: https://house-press.com/representative/Eddie-Lumsden
+  spouse: Teresa
+  staff: a href="
+  staff email: ''
+  title: Chairman, Insurance

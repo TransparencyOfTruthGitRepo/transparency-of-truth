@@ -1,0 +1,17 @@
+id: ocd-person/bb556715-adc4-4fe4-b7fa-7c1c81b7bf29
+name: Caridad Rodriguez
+given_name: Caridad
+family_name: Rodriguez
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2011-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '33'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000102
+sources:
+- url: ftp://www.njleg.state.nj.us/ag/2008data/ROSTER.DBF

@@ -1,0 +1,42 @@
+id: ocd-person/2b581087-9814-4f0d-80e5-b29a6e7aee67
+name: Liz May
+given_name: Liz
+family_name: May
+gender: Female
+email: liz.may@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/MAY_2017.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '27'
+- start_date: 2013-01-11
+  end_date: 2019-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '27'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3851
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/3806/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4388/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4635/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4786/Detail
+other_names:
+- name: E.M. May
+- name: L. May
+- name: May, L.
+sources:
+- url: https://ballotpedia.org/Elizabeth_May
+- url: https://en.wikipedia.org/wiki/Liz_Marty_May
+- url: https://justfacts.votesmart.org/candidate/biography/66336/liz-may
+- url: https://sdlegislature.gov/Legislators/Profile/3806/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4388/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4635/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4786/Detail
+extras:
+  occupation: Rancher/Small Business Owner

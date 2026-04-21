@@ -1,0 +1,38 @@
+id: ocd-person/d4a1125a-69d2-4de1-a4b4-af2aae20de09
+name: Natha Anderson
+given_name: Natha
+family_name: Anderson
+gender: Female
+email: natha.anderson@asm.state.nv.us
+image: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Anderson.Natha.375.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-11-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '30'
+offices:
+- classification: capitol
+  address: Room 3158, Nevada Assembly 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-8841
+- classification: district
+  address: Room 341, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=375
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/30
+  note: homepage
+other_names:
+- name: Anderson, N.
+- name: Anderson, Natha
+- name: N. Anderson
+- name: N.C. Anderson
+- name: Natha Anderson
+- name: Natha C. Anderson
+sources:
+- url: https://ballotpedia.org/Natha_Anderson
+- url: https://en.wikipedia.org/wiki/Natha_Anderson
+- url: https://justfacts.votesmart.org/candidate/biography/191357/natha-anderson
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=375
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/30

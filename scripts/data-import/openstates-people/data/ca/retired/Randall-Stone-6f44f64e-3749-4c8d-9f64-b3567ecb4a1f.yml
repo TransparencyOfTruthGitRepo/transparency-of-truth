@@ -1,0 +1,17 @@
+id: ocd-person/6f44f64e-3749-4c8d-9f64-b3567ecb4a1f
+name: Randall Stone
+given_name: Randall
+family_name: Stone
+email: randall.stone@chicoca.gov
+roles:
+- end_date: '2021-01-01'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/place:chico/government
+offices:
+- classification: primary
+  address: 411 Main Street Chico;Chico, CA 95928
+  voice: 530-895-4811
+links:
+- url: http://www.chico.ca.us/contact/
+sources:
+- url: http://www.chico.ca.us/contact/

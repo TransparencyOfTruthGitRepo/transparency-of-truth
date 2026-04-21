@@ -1,0 +1,49 @@
+id: ocd-organization/5864dcc8-262d-41ca-bd8a-9451f2864d26
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: Consumer Protection
+chamber: lower
+sources:
+- url: https://www.ilga.gov/house/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2884&GA=103
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3054&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3054
+links:
+- url: https://www.ilga.gov/house/committees/default.asp
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2884&GA=103
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3054&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3054
+members:
+- name: Debbie Meyers-Martin
+  role: chair
+  person_id: ocd-person/e1d4b5b4-34b8-4d91-ab9f-08c8a361e12a
+- name: Lisa Hernandez
+  role: vice chair
+  person_id: ocd-person/b6ebf45f-ac97-423b-b5c3-eba0a5766a8d
+- name: Tom Weber
+  role: republican spokesperson
+  person_id: ocd-person/ba3dd226-a1c6-47af-917a-e12696d5aae5
+- name: Curtis Tarver
+  role: member
+  person_id: ocd-person/7a4c9172-6836-453c-94a8-1254b76fa08f
+- name: Kam Buckner
+  role: member
+  person_id: ocd-person/8b7174cd-4081-4717-8ba9-184518f7b31e
+- name: Norine Hammond
+  role: member
+  person_id: ocd-person/cce820c8-7ce2-4b30-8ebd-4734eab16a94
+- name: Rita Mayfield
+  role: member
+  person_id: ocd-person/cb9d1283-1029-46cf-8507-1e7ed6937606
+- name: Theresa Mah
+  role: member
+  person_id: ocd-person/c1ebba3c-4fc2-4b66-9ecc-e20aa4f793a9
+- name: Travis Weaver
+  role: member
+  person_id: ocd-person/63883963-04b0-454c-8d18-81dcca230b55
+other_names:
+- name: House Committee on Consumer Protection
+- name: House Consumer Protection
+- name: House Consumer Protection Committee

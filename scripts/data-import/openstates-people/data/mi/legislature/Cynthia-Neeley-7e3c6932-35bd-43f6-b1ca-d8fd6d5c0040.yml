@@ -1,0 +1,40 @@
+id: ocd-person/7e3c6932-35bd-43f6-b1ca-d8fd6d5c0040
+name: Cynthia Neeley
+given_name: Cynthia
+family_name: Neeley
+gender: Female
+email: cynthianeeley@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '70'
+- end_date: 2022-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '34'
+offices:
+- classification: capitol
+  address: Room S-1089, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0834
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/cynthia-neeley/
+other_names:
+- name: C. Neeley
+- name: C.R. Neeley
+- name: Neeley, C.
+sources:
+- url: https://ballotpedia.org/Cynthia_Neeley
+- url: https://en.wikipedia.org/wiki/Cynthia_Neeley
+- url: https://housedems.com/cynthia-neeley
+- url: https://housedems.com/cynthia-neeley/
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
+- url: https://www.linkedin.com/in/cynthia-neeley-400616199
+- url: https://www.linkedin.com/in/cynthia-neeley-ab6b16116

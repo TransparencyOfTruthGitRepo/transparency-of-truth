@@ -1,0 +1,37 @@
+id: ocd-person/078e02d7-0d26-49f2-9176-8044701e540f
+name: Bob Henderson
+given_name: Bob
+family_name: Henderson
+gender: Male
+email: robert.henderson@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33964
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '2'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33964&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33964
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33964
+other_names:
+- name: B. Henderson
+- name: Henderson, B.
+- name: R.J. Henderson
+- name: Robert Henderson
+sources:
+- url: https://ballotpedia.org/Robert_Henderson_(Iowa)
+- url: https://en.wikipedia.org/wiki/Robert_Henderson_(American_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/168717/robert-henderson
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33964
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33964
+extras:
+  home email: pianocoach@juno.com
+  occupation: Retired/Part-Time Teacher

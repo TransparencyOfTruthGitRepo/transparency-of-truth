@@ -1,0 +1,51 @@
+id: ocd-person/4f14e499-9199-43c4-a4c0-9d7320b9d769
+name: June Robinson
+given_name: June
+family_name: Robinson
+birth_date: 1959-06-27
+gender: Female
+email: june.robinson@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/18265.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-05-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '38'
+- start_date: 2013-12-16
+  end_date: 2020-05-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '38'
+offices:
+- classification: capitol
+  address: Room 303, John A. Cherberg Building P.O. Box 40438, Olympia, WA 98504
+  voice: 360-786-7674
+links:
+- url: https://housedemocrats.wa.gov/legislators/June-Robinson/
+- url: https://leg.wa.gov/legislators/member/june-robinson
+- url: https://sdc.wastateleg.org/Robinson/
+- url: https://senatedemocrats.wa.gov/robinson/
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+other_names:
+- name: J. Robinson
+- name: J.G. Robinson
+- name: Robinson, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000199
+- scheme: openstates
+  identifier: ocd-person/23476779-ad47-4aca-9bb2-82932a3e04aa
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=Senate
+- url: https://ballotpedia.org/June_Robinson
+- url: https://en.wikipedia.org/wiki/June_Robinson
+- url: https://justfacts.votesmart.org/candidate/biography/150066/june-robinson
+- url: https://leg.wa.gov/legislators/member/june-robinson
+- url: https://senatedemocrats.wa.gov/robinson
+- url: https://senatedemocrats.wa.gov/robinson/
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+- url: https://www.linkedin.com/in/june-robinson-0536295

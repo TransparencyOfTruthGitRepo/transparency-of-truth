@@ -1,0 +1,40 @@
+id: ocd-person/15b13c83-9ee7-43b6-a32a-f26d76573d54
+name: Steve Arentz
+given_name: Steve
+family_name: Arentz
+birth_date: 1951-04-17
+gender: Male
+email: steven.arentz@house.maryland.gov
+image: http://mgaleg.maryland.gov/2016RS/images/arentz01.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-11-19
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '36'
+offices:
+- classification: capitol
+  address: Room 308, House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3543
+  fax: 410-841-3098
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/arentz01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=arentz01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa15407.html
+other_names:
+- name: Arentz, S.
+- name: S. Arentz
+- name: S.J. Arentz
+- name: Steven J. Arentz
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000618
+sources:
+- url: https://ballotpedia.org/Steve_Arentz
+- url: https://en.wikipedia.org/wiki/Steven_J._Arentz
+- url: https://justfacts.votesmart.org/candidate/biography/132033/steven-arentz
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/arentz01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=arentz01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa15407.html
+- url: https://www.linkedin.com/in/steve-arentz-03042810

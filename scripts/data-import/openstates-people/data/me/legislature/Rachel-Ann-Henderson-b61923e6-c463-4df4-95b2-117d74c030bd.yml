@@ -1,0 +1,44 @@
+id: ocd-person/b61923e6-c463-4df4-95b2-117d74c030bd
+name: Rachel Henderson
+given_name: Rachel
+family_name: Henderson
+gender: Female
+email: rachel.henderson@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/7c8fd3af-5878-4aea-91fe-0faa167ad005_HENDERSON.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '78'
+offices:
+- classification: capitol
+  address: Room 332, House Republican Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1484
+  note: homepage
+- url: https://mainehousegop.org/members/henderson-rachel/
+other_names:
+- name: HENDERSON of Rumford
+- name: Henderson, R.
+- name: R. Henderson
+- name: R.A. Henderson
+- name: Rachel A. Henderson
+- name: Rachel Ann Henderson
+sources:
+- url: https://ballotpedia.org/Rachel_Ann_Henderson
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1484
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://mainehousegop.org/members/henderson-rachel
+extras:
+  Seat Number: '63'
+  towns represented:
+  - Bethel
+  - Byron
+  - Hanover
+  - Milton Township
+  - Roxbury
+  - Rumford
+  occupation: Sales Management

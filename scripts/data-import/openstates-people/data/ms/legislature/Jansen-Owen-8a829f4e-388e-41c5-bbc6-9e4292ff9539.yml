@@ -1,0 +1,47 @@
+id: ocd-person/8a829f4e-388e-41c5-bbc6-9e4292ff9539
+name: Jansen Owen
+given_name: Jansen
+family_name: Owen
+birth_date: 1993-07-02
+gender: Male
+email: jowen@house.ms.gov
+image: http://billstatus.ls.state.ms.us/members/house/owen.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '106'
+offices:
+- classification: capitol
+  address: State Capitol 400 High St., Jackson, MS 39201
+  voice: 601-359-3770
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/owen.xml
+  note: homepage
+other_names:
+- name: J. Owen
+- name: J.T. Owen
+- name: Jansen T. Owen
+- name: Owen, J.
+sources:
+- url: https://ballotpedia.org/Jansen_Owen
+- url: https://billstatus.ls.state.ms.us/members/house/owen.xml
+- url: https://billstatus.ls.state.ms.us/members/hr_membs.xml
+- url: https://en.wikipedia.org/wiki/Jansen_Owen
+- url: https://justfacts.votesmart.org/candidate/186621/jansen-owen
+- url: https://www.linkedin.com/in/jansenowen
+extras:
+  occupation: Attorney; Business Owner
+  education:
+  - Tulane Law School J.D.
+  - University of Southern Mississippi B.A.
+  - Pearl River Community College A.A.
+  counties represented:
+  - Lamar
+  - Pearl River
+  other phone1: (601)522-3337
+  other phone2: (601)746-5201

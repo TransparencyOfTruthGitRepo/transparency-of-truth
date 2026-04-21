@@ -1,0 +1,71 @@
+id: ocd-organization/c0f13d48-aef6-413b-a148-300e099c779c
+jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+classification: committee
+name: Reapportionment and Redistricting
+chamber: upper
+sources:
+- url: https://www.legis.ga.gov/api/committees/details/140/1029
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/details/140/1031
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1029
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1031
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/committees/senate/140
+links:
+- url: https://www.legis.ga.gov/committees/senate/140
+  note: homepage
+members:
+- name: Mike Hodges
+  role: chair
+  person_id: ocd-person/011995be-4dd0-43b2-ae75-57ae45f53576
+- name: Bo Hatchett
+  role: vice chair
+  person_id: ocd-person/60bb96c4-f20c-4918-b88b-d7857341e5f4
+- name: Greg Dolezal
+  role: ex officio
+  person_id: ocd-person/1f7d013a-8861-4e08-b6bf-7c8d36f8107c
+- name: Larry Walker
+  role: ex officio
+  person_id: ocd-person/44a51125-9e82-41f6-8d4f-a646895b5994
+- name: Bill Cowsert
+  role: secretary
+  person_id: ocd-person/4dc87191-fa52-4c2f-bc9c-8823a8b4c882
+- name: Blake Tillery
+  role: member
+  person_id: ocd-person/e9c5a2fc-3354-49e1-ac29-783502155fe7
+- name: Doc Rhett
+  role: member
+  person_id: ocd-person/efb9168c-b45a-4f43-bba5-d6f05e7d9cbe
+- name: Ed Harbison
+  role: member
+  person_id: ocd-person/4cf7c975-678b-4e21-9877-6d22d7b37916
+- name: Harold Jones
+  role: member
+  person_id: ocd-person/d7bfd125-d343-4acd-a4dc-480daf241af3
+- name: Jason Anavitarte
+  role: member
+  person_id: ocd-person/cb7d8c1d-3c26-4f35-8d37-d1cf8a7ce207
+- name: Kim Jackson
+  role: member
+  person_id: ocd-person/2f8621bc-0548-457c-8b0d-9148e14b77fe
+- name: Randy Robertson
+  role: member
+  person_id: ocd-person/6da7fe11-4436-4854-8e1b-4c45dc4cdaac
+- name: Shawn Still
+  role: member
+  person_id: ocd-person/314d7845-ba55-4bd4-809a-c7c7aea26690
+- name: Steve Gooch
+  role: member
+  person_id: ocd-person/e2c141e9-9e04-4e2b-8e5b-57db594c7abc
+- name: Tonya Anderson
+  role: member
+  person_id: ocd-person/d9f1ea57-7b90-484a-9664-927a36c87e0c
+other_names:
+- name: Senate Committee on Reapportionment and Redistricting
+- name: Senate Reapportionment and Redistricting
+- name: Senate Reapportionment and Redistricting Committee
+extras:
+  address: 305-A CLOB  Atlanta, GA 30334
+  phone: '4044633931'

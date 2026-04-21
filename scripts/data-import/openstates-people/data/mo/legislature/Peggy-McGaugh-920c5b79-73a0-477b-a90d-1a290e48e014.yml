@@ -1,0 +1,45 @@
+id: ocd-person/920c5b79-73a0-477b-a90d-1a290e48e014
+name: Peggy McGaugh
+given_name: Peggy
+family_name: McGaugh
+gender: Female
+email: peggy.mcgaugh@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2019
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '7'
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '39'
+offices:
+- classification: capitol
+  address: Room 402, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-1468
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=007
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=039
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=007
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=39
+other_names:
+- name: McGaugh, P.
+- name: McGaugh, Peggy
+- name: P. McGaugh
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MOL000479
+sources:
+- url: https://ballotpedia.org/Peggy_McGaugh
+- url: https://house.mo.gov/MemberDetails.aspx?district=007
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=039
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=007
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://justfacts.votesmart.org/candidate/biography/177250/peggy-mcgaugh
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=39
+- url: https://www.linkedin.com/in/peggy-mcgaugh-32702650
+extras:
+  hometown: Carrollton

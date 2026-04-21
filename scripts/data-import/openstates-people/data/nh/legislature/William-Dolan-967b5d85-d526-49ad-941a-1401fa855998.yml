@@ -1,0 +1,38 @@
+id: ocd-person/967b5d85-d526-49ad-941a-1401fa855998
+name: Bill Dolan
+given_name: Bill
+family_name: Dolan
+gender: Male
+email: william.dolan@gc.nh.gov
+image: http://dolanforrep.com/wp-content/uploads/2022/10/Professional-Photo-SMALL.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 9
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10784
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10784
+  note: member detail page
+other_names:
+- name: B. Dolan
+- name: Dolan, B.
+- name: W. Dolan
+- name: William Dolan
+sources:
+- url: https://ballotpedia.org/William_Dolan
+- url: https://en.wikipedia.org/wiki/William_Dolan
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10784
+- url: https://justfacts.votesmart.org/candidate/208811/william-dolan
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10784
+- url: https://www.linkedin.com/in/williamdolan978
+extras:
+  county: Hillsborough
+  elected status: new
+  gender code: M

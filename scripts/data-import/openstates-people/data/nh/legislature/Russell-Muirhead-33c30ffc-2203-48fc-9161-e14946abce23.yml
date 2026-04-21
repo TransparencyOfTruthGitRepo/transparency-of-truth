@@ -1,0 +1,44 @@
+id: ocd-person/33c30ffc-2203-48fc-9161-e14946abce23
+name: Russ Muirhead
+given_name: Russ
+family_name: Muirhead
+gender: Male
+email: russell.muirhead@gc.nh.gov
+image: https://snworksceo.imgix.net/drt/1ca40038-9f0d-422c-b469-afddf7607f69.sized-1000x1000.jpg?dpr=2
+party:
+- name: Democratic
+roles:
+- start_date: 2020-12-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Grafton 12
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9890
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9890
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9890
+  note: member detail page
+other_names:
+- name: J.R. Muirhead
+- name: James Russell Muirhead
+- name: Muirhead, R.
+- name: R. Muirhead
+- name: Russell Muirhead
+sources:
+- url: https://ballotpedia.org/Russell_Muirhead
+- url: https://en.wikipedia.org/wiki/Russell_Muirhead
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9890
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9890
+- url: https://justfacts.votesmart.org/candidate/biography/194877/russell-muirhead
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9890
+- url: https://www.linkedin.com/in/russell-muirhead-292b491a
+extras:
+  county: Grafton
+  elected status: Incumbent
+  gender code: M

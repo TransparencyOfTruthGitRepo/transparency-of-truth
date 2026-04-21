@@ -1,0 +1,42 @@
+id: ocd-person/4a329580-86d3-4db3-915e-9f1af71e0a5a
+name: Aaron Rouse
+given_name: Aaron
+family_name: Rouse
+birth_date: 1984-01-08
+gender: Male
+email: district07@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/Rouse22
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '22'
+- start_date: 2023-01-18
+  end_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '7'
+offices:
+- classification: capitol
+  address: Room 519, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7522
+- classification: district-mail
+  address: P.O. Box 2864, Virginia Beach, VA 23450
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S113
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S113
+other_names:
+- name: A. Rouse
+- name: A.R. Rouse
+- name: Aaron R. Rouse
+- name: Rouse, A.
+- name: Rouse, Aaron R.
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S113
+- url: https://ballotpedia.org/Aaron_Rouse
+- url: https://en.wikipedia.org/wiki/Aaron_Rouse
+- url: https://justfacts.votesmart.org/candidate/biography/186682/aaron-rouse
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S113
+- url: https://www.linkedin.com/in/senator-aaron-rouse-222386147

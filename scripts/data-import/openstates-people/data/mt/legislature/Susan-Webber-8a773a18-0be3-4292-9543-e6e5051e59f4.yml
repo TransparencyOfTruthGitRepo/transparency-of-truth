@@ -1,0 +1,55 @@
+id: ocd-person/8a773a18-0be3-4292-9543-e6e5051e59f4
+name: Susan Webber
+given_name: Susan
+family_name: Webber
+gender: Female
+email: susan.webber@legmt.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '8'
+- start_date: 2015-01-05
+  end_date: 2019-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '8'
+- end_date: 2018-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '16'
+offices:
+- classification: capitol
+  address: Capitol Building, 1301 E. 6th Ave. P.O. Box 200500, Helena, MT 59620
+  voice: 406-444-4800
+- classification: district-mail
+  address: P.O. Box 1011, Browning, MT 59417
+  voice: 406-450-1894
+links:
+- url: https://leg.mt.gov/legislator-information/roster/individual/5037
+- url: https://leg.mt.gov/legislator-information/roster/individual/6793
+- url: https://leg.mt.gov/legislator-information/roster/individual/7609
+- url: https://legislators.legmt.gov/#/legislator/92
+- url: https://www.legmt.gov/legislators/1252/
+other_names:
+- name: S. Webber
+- name: S.A. Webber
+- name: Webber, S.
+- name: Webber, Susan
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MTL000316
+- scheme: openstates
+  identifier: ocd-person/90e85427-a0fa-4a40-adca-c4a5a32dd016
+sources:
+- url: https://ballotpedia.org/Susan_Webber
+- url: https://en.wikipedia.org/wiki/Susan_Webber_(politician)
+- url: https://leg.mt.gov/legislator-information/?session_select=113
+- url: https://leg.mt.gov/legislator-information/roster/individual/5037
+- url: https://leg.mt.gov/legislator-information/roster/individual/6793
+- url: https://leg.mt.gov/legislator-information/roster/individual/7609
+- url: https://legislators.legmt.gov/#/legislator/92
+- url: https://www.legmt.gov/legislators/1252
+- url: https://www.linkedin.com/in/susan-webber-24427630

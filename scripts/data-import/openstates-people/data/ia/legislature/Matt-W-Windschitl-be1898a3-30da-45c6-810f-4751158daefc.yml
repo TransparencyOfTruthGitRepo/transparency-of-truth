@@ -1,0 +1,47 @@
+id: ocd-person/be1898a3-30da-45c6-810f-4751158daefc
+name: Matt Windschitl
+given_name: Matt
+family_name: Windschitl
+birth_date: 1983-12-30
+gender: Male
+email: matt.windschitl@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=6282
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '15'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://iowahouserepublicans.nationbuilder.com/admin/sites/2/pages/30/preview?browser_id=default&logged_in=0&theme_id=5cf7e407c294800185b6c2c2
+- url: https://iowahouserepublicans.nationbuilder.com/reps
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=6282
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=6282
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=6282
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=6282
+other_names:
+- name: M. Windschitl
+- name: M.W. Windschitl
+- name: Matt W. Windschitl
+- name: Windschitl, M.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IAL000147
+- scheme: legacy_openstates
+  identifier: IAL000316
+sources:
+- url: https://ballotpedia.org/Matt_Windschitl
+- url: https://en.wikipedia.org/wiki/Matt_Windschitl
+- url: https://justfacts.votesmart.org/candidate/biography/57046/matt-windschitl
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=6282
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=6282
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=6282
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=6282
+extras:
+  occupation: Doll Distributing

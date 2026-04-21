@@ -1,0 +1,57 @@
+id: ocd-person/a45d8fe7-d052-4d18-bc5f-b5911948d42c
+name: Shelly Short
+given_name: Shelly
+family_name: Short
+birth_date: 1962-04-03
+gender: Female
+email: shelly.short@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/11952.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-02-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '7'
+- start_date: 2009-01-01
+  end_date: 2017-02-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '7'
+- start_date: 2011-01-01
+  end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '7'
+offices:
+- classification: capitol
+  address: Room 240A, Irv Newhouse Building P.O. Box 40407, Olympia, WA 98504
+  voice: 360-786-7612
+links:
+- url: https://leg.wa.gov/legislators/member/shelly-short
+- url: https://ShellyShort.src.wastateleg.org/
+- url: https://shellyshort.src.wastateleg.org/
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+other_names:
+- name: S. Short
+- name: S.A. Short
+- name: Shelly Anne Short
+- name: Short, S.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000272
+- scheme: legacy_openstates
+  identifier: WAL000134
+- scheme: openstates
+  identifier: ocd-person/bca66fde-c372-4788-9ccd-069a2f01e670
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=Senate
+- url: https://ballotpedia.org/Shelly_Short
+- url: https://en.wikipedia.org/wiki/Shelly_Short
+- url: https://justfacts.votesmart.org/candidate/108332/shelly-short
+- url: https://leg.wa.gov/legislators/member/shelly-short
+- url: https://shellyshort.src.wastateleg.org
+- url: https://shellyshort.src.wastateleg.org/
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+extras:
+  title: Republican Floor Leader

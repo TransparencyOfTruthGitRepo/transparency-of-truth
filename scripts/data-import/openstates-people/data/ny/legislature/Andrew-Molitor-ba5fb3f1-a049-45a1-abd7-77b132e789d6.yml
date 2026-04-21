@@ -1,0 +1,32 @@
+id: ocd-person/ba5fb3f1-a049-45a1-abd7-77b132e789d6
+name: Andrew Molitor
+given_name: Andrew
+family_name: Molitor
+gender: Male
+email: molitora@nyassembly.gov
+image: https://ogden_images.s3.amazonaws.com/www.observertoday.com/images/2024/11/05231034/MOLITOR-copy-675x840.jpg
+party:
+- name: Republican/Conservative
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '150'
+offices:
+- classification: capitol
+  address: Room 721, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-4511
+- classification: district
+  address: Fenton Building 2 E. 2nd St., Suite 320, Jamestown, NY 14701
+  voice: 716-664-7773
+links:
+- url: https://nyassembly.gov/mem/Andrew-M-Molitor
+other_names:
+- name: A. Molitor
+- name: A.M. Molitor
+- name: Molitor, A.
+sources:
+- url: https://ballotpedia.org/Andrew_Molitor
+- url: https://en.wikipedia.org/wiki/Andrew_Molitor
+- url: https://justfacts.votesmart.org/candidate/216741/andrew-molitor
+- url: https://nyassembly.gov/mem/Andrew-M-Molitor

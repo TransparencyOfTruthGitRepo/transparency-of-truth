@@ -1,0 +1,34 @@
+id: ocd-person/e1d87954-4ee4-4668-9075-c6240dbe8c9b
+name: Kimberly Edwards
+given_name: Kimberly
+family_name: Edwards
+gender: Female
+email: kimberlyedwards@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '12'
+offices:
+- classification: capitol
+  address: Room N-691, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0852
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/Kimberly-Edwards/
+other_names:
+- name: Edwards, K.
+- name: K. Edwards
+- name: K.L. Edwards
+sources:
+- url: https://ballotpedia.org/Kimberly_Edwards
+- url: https://housedems.com/Kimberly-Edwards
+- url: https://housedems.com/Kimberly-Edwards/
+  note: Member Details Page
+- url: https://housedems.com/kimberly-edwards/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page

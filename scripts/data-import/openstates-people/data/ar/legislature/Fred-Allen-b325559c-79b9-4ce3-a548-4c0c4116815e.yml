@@ -1,0 +1,83 @@
+id: ocd-person/b325559c-79b9-4ce3-a548-4c0c4116815e
+name: Fred Allen
+given_name: Fred
+family_name: Allen
+birth_date: 1953-06-14
+gender: Male
+email: allenfred@me.com
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/519_sm.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '77'
+- start_date: 2017-01-09
+  end_date: 2023-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '77'
+- start_date: 2011-01-01
+  end_date: 2012-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '33'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '30'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+- classification: district
+  address: AR
+  voice: 501-804-7844
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=F.+Allen
+- url: https://www.arkansashouse.org/district/77
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=F.+Allen
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=F.+Allen&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=F.+Allen&ddBienniumSession=2021%2F2021R
+other_names:
+- name: Allen, F.
+- name: F. Allen
+ids:
+  facebook: fredallendist30
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Fred_Allen
+- scheme: followthemoney
+  identifier: '6475720'
+- scheme: legacy_openstates
+  identifier: ARL000360
+- scheme: legacy_openstates
+  identifier: ARL000001
+- scheme: openstates
+  identifier: ocd-person/791db008-194a-45c1-b9ff-5cdef426b120
+- scheme: votesmart
+  identifier: '27782'
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=F.+Allen
+- url: https://ballotpedia.org/Fred_Allen
+- url: https://en.wikipedia.org/wiki/Fred_Allen_(Arkansas_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/27782/fred-allen
+- url: https://www.arkansashouse.org/district/77
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=F.+Allen
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=F.+Allen&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=F.+Allen&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=F.+Allen&ddBienniumSession=2021%2F2021S1
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=F.+Allen&ddBienniumSession=2021%2F2022F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=F.+Allen&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2021%2F2021S1#SearchResults
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+- url: https://www.linkedin.com/in/fred-allen-7a816919
+extras:
+  seniority: '30'
+  occupation: Contractor/Photographer
+  church affiliation: Baptist
+  veteran: 'No'
+  public service: House 2007,  2009,  2011,   2017,  Assistant Speaker Pro Tempore
+    2019

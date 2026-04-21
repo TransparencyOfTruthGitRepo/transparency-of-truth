@@ -1,0 +1,60 @@
+id: ocd-person/0258144f-e8e8-4710-a80c-362f2077f57b
+name: David Reid
+given_name: David
+family_name: Reid
+birth_date: 1962-01-14
+gender: Male
+email: deldreid@house.virginia.gov
+image: https://memdata.virginiageneralassembly.gov/images/display_image/H0301
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '28'
+- start_date: 2018-01-10
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '32'
+offices:
+- classification: capitol
+  address: Room 1110, General Assembly Building 201 N. 9th St., Richmond, VA 23219
+  voice: 804-698-1028
+- classification: district-mail
+  address: P.O. Box 4132, Ashburn, VA 20148
+  voice: 703-662-1395
+links:
+- url: https://house.vga.virginia.gov/members/H0301
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H301
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H301
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H301
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H301
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0301
+other_names:
+- name: D. Reid
+- name: D.A. Reid
+- name: David A. Reid
+- name: David Alan Reid
+- name: Reid, D.
+- name: Reid, David A.
+ids:
+  twitter: davidreidva
+  facebook: delegatedavid
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000266
+sources:
+- url: https://ballotpedia.org/David_Reid_(Virginia)
+- url: https://en.wikipedia.org/wiki/David_A._Reid
+- url: https://house.vga.virginia.gov/members/H0301
+- url: https://justfacts.votesmart.org/candidate/176556/david-reid
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H301
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H301
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H301
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H301
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0301
+- url: https://www.linkedin.com/in/davidreidva

@@ -1,0 +1,27 @@
+id: ocd-person/afd120b7-359a-4185-9942-b184b8595f5e
+name: David Baria
+given_name: David
+family_name: Baria
+image: http://billstatus.ls.state.ms.us/members/house/baria.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-01-07'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '122'
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/baria.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000005
+- scheme: legacy_openstates
+  identifier: MSL000205
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/baria.xml
+extras:
+  org_info: |
+    Representative Baria is the Chairman of the NCSL Gulf and Atlantic States
+    Task Force.  He is also a member of the National Conference of Environmental Legislators,
+    Bay St. Louis Rotary Club, Kiwanis Club, Leadership Hancock County, Mississippi
+    Bar and a Fellow of the Mississippi Bar Foundation.

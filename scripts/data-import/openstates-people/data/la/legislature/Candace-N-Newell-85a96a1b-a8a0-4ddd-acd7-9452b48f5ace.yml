@@ -1,0 +1,42 @@
+id: ocd-person/85a96a1b-a8a0-4ddd-acd7-9452b48f5ace
+name: Candace Newell
+given_name: Candace
+family_name: Newell
+gender: Female
+email: hse099@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep99.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '99'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: New Orleans Lake Front Airport Terminal Building 6001 Stars and Stripes,
+    Suite 149, New Orleans, LA 70126
+  voice: 504-240-3435
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=99
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=99
+other_names:
+- name: C. Newell
+- name: C.N. Newell
+- name: Candace N. Newell
+- name: Newell, C.
+sources:
+- url: https://ballotpedia.org/Candace_Newell
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=99
+- url: https://house.louisiana.gov/H_Reps/members?ID=99
+- url: https://www.linkedin.com/in/candace-n-newell-8456a517
+extras:
+  legislative assistant: Jonetta Bennett
+  representing parishes:
+  - Orleans
+  education: B.A. Psychology; M.S., Criminal Justice; J.D.

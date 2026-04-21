@@ -1,0 +1,68 @@
+id: ocd-person/405fa851-873f-4895-acd5-d394fbb06be3
+name: Gary Howell
+given_name: Gary
+family_name: Howell
+birth_date: 1966-11-01
+gender: Male
+email: gary.howell@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/howell_gary.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '87'
+- start_date: 2012-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '87'
+- start_date: 2010-12-01
+  end_date: 2012-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '87'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '56'
+offices:
+- classification: capitol
+  address: State Capitol Room 151R, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3191
+- classification: district-mail
+  address: P.O. Box 39, Keyser, WV 26726
+  voice: 304-790-9022
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Howell
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Howell
+  note: homepage
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Howell,%20G.
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Howell
+other_names:
+- name: G. Howell
+- name: G.G. Howell
+- name: Gary G. Howell
+- name: Howell, G
+- name: Howell, G.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000125
+- scheme: legacy_openstates
+  identifier: WVL000217
+- scheme: legacy_openstates
+  identifier: WVL000265
+sources:
+- url: https://ballotpedia.org/Gary_Howell_(West_Virginia)
+- url: https://en.wikipedia.org/wiki/Gary_Howell_(West_Virginia_politician)
+- url: https://justfacts.votesmart.org/candidate/102188/gary-howell
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Howell
+- url: https://www.linkedin.com/in/gary-howell-42425610
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Howell
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Howell,%20G.
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Howell
+- url: https://www.wvlegislature.gov/House/roster.cfm
+extras:
+  title: Speaker Pro Tempore

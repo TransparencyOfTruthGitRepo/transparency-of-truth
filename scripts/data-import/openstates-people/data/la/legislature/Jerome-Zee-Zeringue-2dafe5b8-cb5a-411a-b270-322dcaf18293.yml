@@ -1,0 +1,49 @@
+id: ocd-person/2dafe5b8-cb5a-411a-b270-322dcaf18293
+name: Jerome Zeringue
+given_name: Jerome
+family_name: Zeringue
+gender: Male
+email: zeringuej@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep52.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '52'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 423 Goode St., Houma, LA 70360
+  voice: 985-876-8823
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=52
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=52
+other_names:
+- name: J. Zeringue
+- name: J.P. Zeringue
+- name: Jerome "Zee" Zeringue
+- name: Jerome Zeringue
+- name: Zeringue, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000814
+- scheme: legacy_openstates
+  identifier: LAL000934
+sources:
+- url: https://ballotpedia.org/Jerome_Zeringue
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=52
+- url: https://house.louisiana.gov/H_Reps/members?ID=52
+- url: https://justfacts.votesmart.org/candidate/biography/165548/jerome-zeringue
+- url: https://www.linkedin.com/in/jerome-zeringue-3790b917
+extras:
+  legislative assistant: Tina Evans
+  representing parishes:
+  - Lafourche and Terrebonne
+  education: Louisiana State University, B.S., Zoology; Louisiana State University,
+    M.S., Fisheries Science; Tulane University, postgraduate studies

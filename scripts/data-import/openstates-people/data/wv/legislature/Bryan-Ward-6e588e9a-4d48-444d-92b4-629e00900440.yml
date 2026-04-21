@@ -1,0 +1,48 @@
+id: ocd-person/6e588e9a-4d48-444d-92b4-629e00900440
+name: Bryan Ward
+given_name: Bryan
+family_name: Ward
+birth_date: 1965-09-15
+gender: Male
+email: bryan.ward@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/ward_bryan.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '86'
+- start_date: 2020-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '86'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '55'
+offices:
+- classification: capitol
+  address: State Capitol Room 201E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3154
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Ward%2C+B.
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ward
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ward,%20B.
+  note: homepage
+other_names:
+- name: B. Ward
+- name: B.C. Ward
+- name: Ward, B
+- name: Ward, B.
+sources:
+- url: https://ballotpedia.org/Bryan_Ward
+- url: https://en.wikipedia.org/wiki/Bryan_Ward_(politician)
+- url: https://justfacts.votesmart.org/candidate/190632/bryan-ward
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Ward%2C+B.
+- url: https://www.linkedin.com/in/bryan-ward-790b28b3
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ward
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ward,%20B.
+- url: https://www.wvlegislature.gov/House/roster.cfm

@@ -1,0 +1,27 @@
+id: ocd-person/5840b549-f7cc-4fd7-a3bf-ede54a199892
+name: William J. Conley, Jr.
+given_name: William J.
+family_name: Conley
+gender: Male
+email: sen-conley@rilegislature.gov
+image: http://www.rilin.state.ri.us/Senators/Pictures/conley.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '18'
+links:
+- url: http://www.rilin.state.ri.us/senators/Algiere/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000116
+sources:
+- url: http://webserver.rilin.state.ri.us/Email/SenEmailListDistrict.asp
+- url: http://www.rilin.state.ri.us/senators/conley/
+extras:
+  name_first: ''
+  name_last: ''
+  name_middle: ''
+  town_represented: East Providence, Pawtucket

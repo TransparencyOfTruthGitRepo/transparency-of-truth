@@ -1,0 +1,64 @@
+id: ocd-organization/0153a0a6-0885-4cd9-89df-802a703b4fc5
+jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+classification: committee
+name: Reapportionment and Redistricting
+chamber: lower
+sources:
+- url: https://www.legis.ga.gov/api/committees/details/199/1031
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1031
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/committees/house/199
+links:
+- url: https://www.legis.ga.gov/committees/house/199
+  note: homepage
+members:
+- name: Rob Leverett
+  role: chair
+  person_id: ocd-person/29210f3f-ec97-47c8-9492-b81154275109
+- name: Soo Hong
+  role: vice chair
+  person_id: ocd-person/64721c9b-451c-4bc9-9040-4ca232ffd746
+- name: Matt Reeves
+  role: secretary
+  person_id: ocd-person/0f4f3c5a-1192-4ec1-9698-4aef005b4875
+- name: Brian Prince
+  role: member
+  person_id: ocd-person/a53e6bbd-a5b8-436b-94ae-bebf957c5b61
+- name: Buddy DeLoach
+  role: member
+  person_id: ocd-person/d40576ac-fbc0-4b42-98ee-f6362063784d
+- name: Carl Gilliard
+  role: member
+  person_id: ocd-person/562e162f-2a60-441c-956b-11db12eef266
+- name: Chuck Efstration
+  role: member
+  person_id: ocd-person/3ff894cb-f2e4-47d0-9f67-b125245a10c3
+- name: Darlene Taylor
+  role: member
+  person_id: ocd-person/d00eb950-0fb6-41ab-ae22-8e9ce84d7cf0
+- name: Jan Jones
+  role: member
+  person_id: ocd-person/85740034-23b0-4001-9190-8948bd9f3b37
+- name: Kimberly Alexander
+  role: member
+  person_id: ocd-person/275b772e-6407-4aaa-8bd6-ceddad1da7fa
+- name: Lynn Smith
+  role: member
+  person_id: ocd-person/945875f7-f3c5-4c75-acd6-a195a0f76b12
+- name: Mack Jackson
+  role: member
+  person_id: ocd-person/8e209d95-2333-4aa2-a628-1bdcec0674f5
+- name: Mitchell Scoggins
+  role: member
+  person_id: ocd-person/7ac30a66-1649-4a8c-a72f-a4b9a7ab1534
+- name: Sandra Scott
+  role: member
+  person_id: ocd-person/21c6cae1-bcd2-4403-ad39-af04b64ce55c
+other_names:
+- name: House Committee on Reapportionment and Redistricting
+- name: House Reapportionment and Redistricting
+- name: House Reapportionment and Redistricting Committee
+extras:
+  address: 508-A Coverdell Legislative Office Bldg.  Atlanta, GA 30334
+  phone: '4046560213'

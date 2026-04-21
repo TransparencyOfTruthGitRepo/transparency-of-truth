@@ -1,0 +1,32 @@
+id: ocd-person/99f4f903-1c4f-49f0-835f-c0b9b1aa0317
+name: Selena La Rue Hatch
+given_name: Selena
+family_name: La Rue Hatch
+gender: Female
+email: selena.la.rue.hatch@asm.state.nv.us
+image: http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/LaRueHatch.Selena.398.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '25'
+offices:
+- classification: capitol
+  address: Room 3159, Nevada Assembly 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-8837
+- classification: district
+  address: Room 344, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/25
+  note: homepage
+other_names:
+- name: La Rue Hatch, S.
+- name: La Rue Hatch, Selena
+- name: S. La Rue Hatch
+sources:
+- url: https://ballotpedia.org/Selena_La_Rue_Hatch
+- url: https://en.wikipedia.org/wiki/Selena_La_Rue_Hatch
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/25

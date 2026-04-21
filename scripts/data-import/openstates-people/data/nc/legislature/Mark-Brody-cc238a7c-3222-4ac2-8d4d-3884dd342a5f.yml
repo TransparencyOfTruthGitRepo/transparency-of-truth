@@ -1,0 +1,49 @@
+id: ocd-person/cc238a7c-3222-4ac2-8d4d-3884dd342a5f
+name: Mark Brody
+given_name: Mark
+family_name: Brody
+birth_date: 1951-12-06
+gender: Male
+email: mark.brody@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/663/Low
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '55'
+offices:
+- classification: capitol
+  address: Room 419A, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-715-3029
+- classification: district-mail
+  address: 5315 Rocky River Road, Monroe, NC 28112
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/663
+- url: https://www.ncleg.gov/Members/Committees/H/663
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/663
+- url: https://www.ncleg.gov/Members/Votes/H/663
+other_names:
+- name: Brody, M.
+- name: M. Brody
+- name: M.A. Brody
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000269
+sources:
+- url: https://ballotpedia.org/Mark_Brody
+- url: https://en.wikipedia.org/wiki/Mark_Brody
+- url: https://justfacts.votesmart.org/candidate/biography/108503/mark-brody
+- url: https://www.ncleg.gov/Members/Biography/H/663
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 300 N. Salisbury Street, Rm. 416B; Raleigh, NC 27603-5925
+  main phone: 704-965-6585
+  terms in senate: 6 (0 in Senate)
+  represented counties: Anson, Union
+  legislative assistant: Neva Helms
+  legislative assistant email: Neva.Helms@ncleg.gov
+  occupation: Contractor
+  military experience: US Navy Reserve

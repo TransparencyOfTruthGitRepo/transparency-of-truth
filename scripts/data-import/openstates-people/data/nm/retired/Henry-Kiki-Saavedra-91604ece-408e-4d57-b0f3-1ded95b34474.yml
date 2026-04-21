@@ -1,0 +1,23 @@
+id: ocd-person/91604ece-408e-4d57-b0f3-1ded95b34474
+name: Henry Kiki Saavedra
+given_name: Henry
+family_name: Saavedra
+middle_name: Kiki
+image: http://www.nmlegis.gov/lcs/graphics/photos/HSAAV.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '10'
+links:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HSAAV
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000052
+- scheme: legacy_openstates
+  identifier: NML000221
+sources:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HSAAV

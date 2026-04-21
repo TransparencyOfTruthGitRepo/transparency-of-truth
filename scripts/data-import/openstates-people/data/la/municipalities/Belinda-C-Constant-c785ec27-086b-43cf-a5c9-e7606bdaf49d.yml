@@ -1,0 +1,17 @@
+id: ocd-person/c785ec27-086b-43cf-a5c9-e7606bdaf49d
+name: Belinda C. Constant
+given_name: Belinda C.
+family_name: Constant
+email: bconstant@gretnala.com
+roles:
+- end_date: 2025-06-30
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:la/place:gretna/government
+sources:
+- url: https://www.gretnala.com/government/mayor/
+- url: https://www.nola.com/news/article_f6419a94-5d08-11eb-9369-5384b0d53ea9.html
+- url: https://www.wdsu.com/article/gretna-mayor-elect-belinda-constant-ready-to-take-office/3362107
+offices:
+- address: 740 2nd Street;Gretna, LA 70053
+  voice: 504-363-1505
+  classification: primary

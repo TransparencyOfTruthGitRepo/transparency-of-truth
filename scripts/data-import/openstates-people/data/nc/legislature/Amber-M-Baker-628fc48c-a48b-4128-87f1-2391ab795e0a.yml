@@ -1,0 +1,41 @@
+id: ocd-person/628fc48c-a48b-4128-87f1-2391ab795e0a
+name: Amber Baker
+given_name: Amber
+family_name: Baker
+gender: Female
+email: amber.baker@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/782/Low
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '72'
+offices:
+- classification: capitol
+  address: Room 1006, North Carolina Legislative Building 16 W. Jones St., Raleigh,
+    NC 27601
+  voice: 919-733-5829
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/782
+- url: https://www.ncleg.gov/Members/Committees/H/782
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/782
+- url: https://www.ncleg.gov/Members/Votes/H/782
+other_names:
+- name: A. Baker
+- name: A.M. Baker
+- name: Amber M. Baker
+- name: Baker, A.
+sources:
+- url: https://ballotpedia.org/Amber_Baker_(North_Carolina)
+- url: https://www.linkedin.com/in/amber-baker-phd-406b9727
+- url: https://www.ncleg.gov/Members/Biography/H/782
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 16 West Jones Street, Rm. 1006; Raleigh, NC 27601-1096
+  terms in senate: 2 (0 in Senate)
+  represented counties: Forsyth
+  legislative assistant: Elijah Bowers
+  legislative assistant email: Elijah.Bowers@ncleg.gov
+  occupation: Educator

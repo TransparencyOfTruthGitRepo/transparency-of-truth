@@ -1,0 +1,23 @@
+id: ocd-person/e50e3f0d-4388-44c7-9d40-a726b43130d1
+name: Vernon Jones
+given_name: Vernon
+family_name: Jones
+email: vernon.jones@house.ga.gov
+image: http://www.house.ga.gov/SiteCollectionImages/JonesVernon4898.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '91'
+links:
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4898&Session=27
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000464
+sources:
+- url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4898&Session=27
+extras:
+  guid: 4898

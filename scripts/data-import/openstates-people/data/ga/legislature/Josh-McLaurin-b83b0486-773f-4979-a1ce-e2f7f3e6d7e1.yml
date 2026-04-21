@@ -1,0 +1,66 @@
+id: ocd-person/b83b0486-773f-4979-a1ce-e2f7f3e6d7e1
+name: Josh McLaurin
+given_name: Josh
+family_name: McLaurin
+birth_date: 1988-01-17
+gender: Male
+email: josh.mclaurin@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/mclaurin-josh-4942.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '14'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '51'
+offices:
+- classification: capitol
+  address: Room 323-A, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-463-4228
+- classification: district-mail
+  address: P.O. Box 567297, Atlanta, GA 31156
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4942&Session=27
+- url: https://www.legis.ga.gov/members/house/4942?session=1029
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/4942
+- url: https://www.legis.ga.gov/members/senate/4942?session=1031
+  note: HTML member detail page
+other_names:
+- name: J. McLaurin
+- name: J.I. McLaurin
+- name: Josh McLaurin
+- name: Joshua Ivan McLaurin
+- name: MCLAURIN, 14TH
+- name: McLaurin, J.
+sources:
+- url: https://ballotpedia.org/Josh_McLaurin
+- url: https://en.wikipedia.org/wiki/Josh_McLaurin
+- url: https://justfacts.votesmart.org/candidate/biography/178766/josh-mclaurin
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4942&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4942?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4942?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4942?session=1029
+- url: https://www.legis.ga.gov/members/senate/4942
+- url: https://www.legis.ga.gov/members/senate/4942?session=1031
+- url: https://www.linkedin.com/in/josh-mclaurin-72a13821
+extras:
+  residence: Sandy Springs
+  city: Sandy Springs
+  georgia_id: 4942
+  birthday: January 17
+  occupation: Attorney
+  press: https://house-press.com/representative/Josh-McLaurin
+  staff: Tina Coria
+  staff email: tina.coria@senate.ga.gov

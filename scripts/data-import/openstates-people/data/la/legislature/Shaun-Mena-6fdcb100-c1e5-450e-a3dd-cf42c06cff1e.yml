@@ -1,0 +1,30 @@
+id: ocd-person/6fdcb100-c1e5-450e-a3dd-cf42c06cff1e
+name: Shaun Mena
+given_name: Shaun
+family_name: Mena
+gender: Male
+email: hse023@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics/rep23.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '23'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 4603 S. Carrolton Ave. Suite E, New Orleans, LA 70119
+links:
+- url: https://house.louisiana.gov/H_Reps/members?ID=23
+other_names:
+- name: Mena, S.
+- name: S. Mena
+- name: S.R. Mena
+sources:
+- url: https://ballotpedia.org/Shaun_Mena
+- url: https://house.louisiana.gov/H_Reps/members?ID=23
+- url: https://www.linkedin.com/in/shaun-mena-2269a126a

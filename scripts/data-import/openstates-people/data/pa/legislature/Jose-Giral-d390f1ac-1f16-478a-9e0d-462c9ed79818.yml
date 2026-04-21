@@ -1,0 +1,44 @@
+id: ocd-person/d390f1ac-1f16-478a-9e0d-462c9ed79818
+name: "Jos\xE9 Giral"
+given_name: "Jos\xE9"
+family_name: Giral
+gender: Male
+email: repgiral@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/1980.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '180'
+offices:
+- classification: capitol
+  address: Room 224, Irvis Office Building P.O. Box 202180, Harrisburg, PA 17120
+  voice: 717-787-1407
+- classification: district
+  address: 3503 B St. Unit 7, Philadelphia, PA 19134
+  voice: 215-291-5643
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1980
+  note: homepage
+- url: https://www.pahouse.com/Giral/
+- url: https://www.palegis.us/house/members/bio/1980/rep-giral
+other_names:
+- name: Giral, J.
+- name: J. Giral
+- name: J.A. Giral
+- name: Jose Giral
+ids:
+  twitter: repgiral
+  facebook: RepGiral
+sources:
+- url: https://ballotpedia.org/Jose_Giral
+- url: https://en.wikipedia.org/wiki/Jose_Giral_(Pennsylvania_politician)
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1980
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.pahouse.com/Giral
+- url: https://www.palegis.us/house/members/bio/1980/rep-giral
+extras:
+  Education:
+  - W.H. Maxwell Career and Technical High School, 1989

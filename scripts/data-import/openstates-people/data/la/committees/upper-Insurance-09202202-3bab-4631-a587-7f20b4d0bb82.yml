@@ -1,0 +1,51 @@
+id: ocd-organization/09202202-3bab-4631-a587-7f20b4d0bb82
+jurisdiction: ocd-jurisdiction/country:us/state:la/government
+classification: committee
+name: Insurance
+chamber: upper
+sources:
+- url: https://senate.la.gov/Sen_Committees/Insurance
+  note: Committee Detail Page
+- url: https://www.legis.la.gov/legis/Committees.aspx?c=S
+  note: Committees List Page
+links:
+- url: https://senate.la.gov/Sen_Committees/Insurance
+  note: homepage
+members:
+- name: Kirk Talbot
+  role: chair
+  person_id: ocd-person/f6f401f7-7fb4-40df-84a0-b5a3f0fe9ec2
+- name: Adam Bass
+  role: vice chair
+  person_id: ocd-person/0d1a7b74-9ed8-4d8c-a1fc-f2caafc3d364
+- name: Beth Mizell
+  role: ex-officio
+  person_id: ocd-person/b6e8a5cf-ec5c-494b-b9ff-efa0fb92e1c1
+- name: Alan Seabaugh
+  role: member
+  person_id: ocd-person/5032448a-7275-4a02-8dc1-d251cdde8ad9
+- name: Bill Wheat
+  role: member
+  person_id: ocd-person/20547e38-711f-4012-9217-b739f4450b91
+- name: Brach Myers
+  role: member
+  person_id: ocd-person/92439b80-4646-445b-939f-5414e309f183
+- name: Franklin Foil
+  role: member
+  person_id: ocd-person/a8344aaa-aff7-42b3-b1a2-59539191fbb2
+- name: Regina Barrow
+  role: member
+  person_id: ocd-person/8710f3da-9aea-41a9-acd2-181377cc6ae7
+- name: Rick Edmonds
+  role: member
+  person_id: ocd-person/e49647e3-b5c3-4329-9472-27048115441c
+- name: Robert Allain
+  role: member
+  person_id: ocd-person/655ddc35-ecd0-4db2-a3fe-cd86f1cb7d61
+- name: Royce Duplessis
+  role: member
+  person_id: ocd-person/7d852e7a-ae99-4f89-b4c0-4d7cb7e816db
+other_names:
+- name: Senate Committee on Insurance
+- name: Senate Insurance
+- name: Senate Insurance Committee

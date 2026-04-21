@@ -1,0 +1,55 @@
+id: ocd-organization/ef07b748-1800-41f7-b0dc-d2bb2b046de9
+jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+classification: committee
+name: Administrative Rules
+chamber: legislature
+sources:
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=2954&year=2024&code=R
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=3087&year=2025&code=R
+- url: https://senate.mo.gov/Committees/CommitteeDetails/19
+  note: Committee Details Page
+- url: https://senate.mo.gov/Committees/CommitteeGroup/2
+  note: Committees List Page
+- url: https://www.senate.mo.gov/21web/jc-admin-rules
+- url: https://www.senate.mo.gov/21web/jc-admin-rules/
+links:
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=2954&year=2024&code=R
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=3087&year=2025&code=R
+- url: https://www.senate.mo.gov/21web/jc-admin-rules
+- url: https://www.senate.mo.gov/21web/jc-admin-rules/
+  note: homepage
+members:
+- name: Nick Schroer
+  role: chair
+  person_id: ocd-person/ecbee637-2b07-4028-acb3-b82df2edb42a
+- name: Ben Keathley
+  role: vice chair
+  person_id: ocd-person/1f082953-c9f5-4a72-a281-cdb9fe4bda5e
+- name: Barbara Washington
+  role: member
+  person_id: ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a
+- name: Curtis Trent
+  role: member
+  person_id: ocd-person/c5e38dee-7f82-4795-a134-b984b6878458
+- name: David Dolan
+  role: member
+  person_id: ocd-person/3055e426-4c34-404c-b286-820e978cb05c
+- name: Doug Clemens
+  role: member
+  person_id: ocd-person/c2ccbec5-9ad2-4210-9029-3c9968b72d2f
+- name: Jo Doll
+  role: member
+  person_id: ocd-person/0f113187-3958-449e-9c4e-3e81390c1dd4
+- name: Mary Elizabeth Coleman
+  role: member
+  person_id: ocd-person/f1d83642-4aa6-4fea-80f1-4c3f422c63ed
+- name: Matthew Overcast
+  role: member
+  person_id: ocd-person/c22f94cc-641f-4a45-a2a6-610f829e7c43
+- name: Stephen Webber
+  role: member
+  person_id: ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9
+other_names:
+- name: Joint Administrative Rules
+- name: Joint Administrative Rules Committee
+- name: Joint Committee on Administrative Rules

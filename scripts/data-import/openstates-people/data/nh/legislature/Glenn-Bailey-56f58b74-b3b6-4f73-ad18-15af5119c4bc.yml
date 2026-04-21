@@ -1,0 +1,49 @@
+id: ocd-person/56f58b74-b3b6-4f73-ad18-15af5119c4bc
+name: Glenn Bailey
+given_name: Glenn
+family_name: Bailey
+gender: Male
+email: grbailey@metrocast.net
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Glenn-Bailey.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 2
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 2
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 1
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9946
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9946
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9946
+  note: member detail page
+other_names:
+- name: Bailey, G.
+- name: G. Bailey
+sources:
+- url: https://ballotpedia.org/Glenn_Bailey_(New_Hampshire)
+- url: https://en.wikipedia.org/wiki/Glenn_Bailey
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9946
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9946
+- url: https://justfacts.votesmart.org/candidate/194983/glenn-bailey
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9946
+extras:
+  county: Strafford
+  elected status: Incumbent
+  gender code: M

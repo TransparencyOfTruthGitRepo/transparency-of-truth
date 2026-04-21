@@ -1,0 +1,22 @@
+id: ocd-person/167bcfc3-4fe6-4f81-b90f-9187c7a40c90
+name: Robert W. Godshall
+given_name: Robert
+family_name: Godshall
+image: http://www.legis.state.pa.us/images/members/200/111.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '53'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000118
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=111
+extras:
+  youtube: https://youtube.com/RepGodshall

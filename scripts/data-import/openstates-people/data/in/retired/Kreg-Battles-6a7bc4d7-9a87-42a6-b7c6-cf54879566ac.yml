@@ -1,0 +1,28 @@
+id: ocd-person/6a7bc4d7-9a87-42a6-b7c6-cf54879566ac
+name: Kreg Battles
+given_name: Kreg
+family_name: Battles
+image: http://iga.in.gov/legislative/2014/portraits/legislator_kreg_battles_877/
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '45'
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '64'
+links:
+- url: http://www.in.gov/h45
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: INL000056
+- scheme: legacy_openstates
+  identifier: INL000157
+sources:
+- url: http://iga.in.gov/legislative/2014/legislators
+- url: http://iga.in.gov/legislative/2014/legislators/legislator_kreg_battles_877/

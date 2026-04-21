@@ -1,0 +1,73 @@
+id: ocd-organization/c6be923e-df4d-4756-b5a1-21d29000fe58
+jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+classification: committee
+name: Aging and Independence
+chamber: legislature
+sources:
+- url: https://malegislature.gov/Committees/Detail/J44
+  note: Committee Details Page
+- url: https://malegislature.gov/Committees/Detail/J46
+links:
+- url: https://malegislature.gov/Committees/Detail/J44
+  note: homepage
+- url: https://malegislature.gov/Committees/Detail/J46
+members:
+- name: Pat Jehlen
+  role: chair
+  person_id: ocd-person/6de50ed2-4fe8-4b98-894d-0bc391c876b5
+- name: Tom Stanley
+  role: chair
+  person_id: ocd-person/2becbe4e-5b5e-4b42-be87-b4abf57550c7
+- name: John Velis
+  role: vice chair
+  person_id: ocd-person/a37a3f66-83a2-4a7e-90e3-8de41be7262d
+- name: "Sam Monta\xF1o"
+  role: vice chair
+  person_id: ocd-person/668db267-f9e1-4839-918d-c092741f96f9
+- name: Nick Boldyga
+  role: ranking republican member
+  person_id: ocd-person/0e72fc19-89be-49b9-8baf-5f35f938ec87
+- name: Peter Durant
+  role: ranking republican member
+  person_id: ocd-person/c674060b-4568-43fa-b72d-0921f4876713
+- name: Carmine Gentile
+  role: member
+  person_id: ocd-person/b9a91cec-bad7-43a7-8fd2-60cd704bd7ab
+- name: Cindy Friedman
+  role: member
+  person_id: ocd-person/456b0061-febd-4ff7-8547-42be0685526f
+- name: David Biele
+  role: member
+  person_id: ocd-person/5fde161f-7456-4006-bffd-eaf6fedc5aa3
+- name: David DeCoste
+  role: member
+  person_id: ocd-person/cf295962-4f8d-427a-84e9-c7615ff94c8c
+- name: Erika Uyterhoeven
+  role: member
+  person_id: ocd-person/a3f4c05a-b51a-4b8f-bc5d-d4cb82d74164
+- name: Joan Lovely
+  role: member
+  person_id: ocd-person/d0956cb2-93df-4096-82ce-d39fbf0b9e36
+- name: Lisa Field
+  role: member
+  person_id: ocd-person/0a14e19e-3761-4aa2-887f-8b335d6e3eed
+- name: Margaret Scarsdale
+  role: member
+  person_id: ocd-person/a25fd374-e502-43bb-91fe-99c4b6c493a5
+- name: Michelle Ciccolo
+  role: member
+  person_id: ocd-person/ea385faa-049c-4743-ad41-3bbe58ee40e2
+- name: Mike Rush
+  role: member
+  person_id: ocd-person/6a82d675-3496-48af-88cf-23c26355b01f
+- name: Susannah Whipps
+  role: member
+  person_id: ocd-person/76b07f35-1876-4259-9c0a-bdf595541c39
+other_names:
+- name: Elder Affairs
+- name: Joint Aging and Independence
+- name: Joint Aging and Independence Committee
+- name: Joint Committee on Aging and Independence
+- name: Joint Committee on Elder Affairs
+- name: Joint Elder Affairs
+- name: Joint Elder Affairs Committee

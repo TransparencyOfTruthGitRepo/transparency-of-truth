@@ -1,0 +1,49 @@
+id: ocd-organization/5e47d695-cf2a-4396-8848-e50216e99450
+jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+classification: committee
+name: Children and Families
+chamber: upper
+sources:
+- url: https://www.legis.ga.gov/api/committees/details/195/1031
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1031
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/committees/senate/195
+links:
+- url: https://www.legis.ga.gov/committees/senate/195
+  note: homepage
+members:
+- name: Kay Kirkpatrick
+  role: chair
+  person_id: ocd-person/fc31ab02-026c-4173-86db-570c0b297c64
+- name: Bo Hatchett
+  role: vice chair
+  person_id: ocd-person/60bb96c4-f20c-4918-b88b-d7857341e5f4
+- name: Brian Strickland
+  role: ex officio
+  person_id: ocd-person/3a5721a0-d848-40d0-a48a-66b797e7d7d9
+- name: Chuck Payne
+  role: ex officio
+  person_id: ocd-person/1ac93f89-f367-4de3-82ba-79fa78d4d134
+- name: Matt Brass
+  role: secretary
+  person_id: ocd-person/81b84318-8c9f-467f-a7c1-776d9c415f51
+- name: Derek Mallow
+  role: member
+  person_id: ocd-person/73918c45-83c1-4d52-a84d-3ad7ad8de40b
+- name: Kim Jackson
+  role: member
+  person_id: ocd-person/2f8621bc-0548-457c-8b0d-9148e14b77fe
+- name: Max Burns
+  role: member
+  person_id: ocd-person/918888ac-edc7-4178-9133-d058f0f21010
+- name: Sally Harrell
+  role: member
+  person_id: ocd-person/218a4fc4-a568-4b78-b350-0d60c6b12d4c
+other_names:
+- name: Senate Children and Families
+- name: Senate Children and Families Committee
+- name: Senate Committee on Children and Families
+extras:
+  address: 324-A CLOB  Atlanta, GA 30334
+  phone: '4046563932'

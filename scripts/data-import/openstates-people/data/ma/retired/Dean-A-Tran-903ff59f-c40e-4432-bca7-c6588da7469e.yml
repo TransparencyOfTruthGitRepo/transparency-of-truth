@@ -1,0 +1,21 @@
+id: ocd-person/903ff59f-c40e-4432-bca7-c6588da7469e
+name: Dean A. Tran
+given_name: Dean
+family_name: Tran
+gender: Male
+email: dean.tran@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/DAT0.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Worcester and Middlesex
+links:
+- url: https://malegislature.gov/Legislators/Profile/DAT0
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000583
+sources:
+- url: https://malegislature.gov/Legislators/Profile/DAT0

@@ -1,0 +1,23 @@
+id: ocd-person/cb40fb3e-53c2-428e-a525-6e993a1ea537
+name: Kevin Cooke
+given_name: Kevin
+family_name: Cooke
+email: kevin.cooke@house.ga.gov
+image: http://www.house.ga.gov/SiteCollectionImages/CookeKevin757.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '18'
+links:
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=757&Session=27
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000088
+sources:
+- url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=757&Session=27
+extras:
+  guid: 757

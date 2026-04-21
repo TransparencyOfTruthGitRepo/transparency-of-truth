@@ -1,0 +1,56 @@
+id: ocd-person/fc1f0752-9166-4d7f-987a-ec15b8bf4048
+name: Mike Schlossberg
+given_name: Mike
+family_name: Schlossberg
+birth_date: 1983-05-15
+gender: Male
+email: repschlossberg@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/1649.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '132'
+offices:
+- classification: capitol
+  address: Room 121, Main Capitol Building P.O. Box 202132, Harrisburg, PA 17120
+  voice: 717-705-1869
+- classification: district
+  address: 5100 Tilghman St. Suite 200, Allentown, PA 18104
+  voice: 610-821-5577
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1649
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.pahouse.com/Schlossberg/
+- url: https://www.palegis.us/house/members/bio/1649/rep-schlossberg
+other_names:
+- name: M. Schlossberg
+- name: M.H. Schlossberg
+- name: Michael H. Schlossberg
+- name: Michael Schlossberg
+- name: Schlossberg, M.
+ids:
+  twitter: RepSchlossberg
+  youtube: playlist?list=PLjtqNtfs0bgUKhrdudwl7UauY7EO1330Z
+  facebook: RepSchlossberg
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000467
+sources:
+- url: https://ballotpedia.org/Michael_Schlossberg
+- url: https://en.wikipedia.org/wiki/Michael_Schlossberg
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1649
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/mikeschlossberg
+- url: https://www.pahouse.com/Schlossberg
+- url: https://www.pahouse.com/Schlossberg/About/Biography
+- url: https://www.palegis.us/house/members/bio/1649/rep-schlossberg
+extras:
+  Education:
+  - Livingston High School, 2001
+  - Muhlenberg College, B.A. Political Science & Psychology, 2005
+  - Lehigh University, MA Political Science, 2006

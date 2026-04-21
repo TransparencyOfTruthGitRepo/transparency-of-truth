@@ -1,0 +1,69 @@
+id: ocd-person/3d465b8f-2f67-5283-8cab-da3990ec8c49
+name: Marie Gluesenkamp Perez
+given_name: Marie
+family_name: Gluesenkamp Perez
+birth_date: 1988-06-04
+gender: Female
+email: https://gluesenkampperez.house.gov/contact
+image: https://unitedstates.github.io/images/congress/450x550/G000600.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WA-3
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WA-3
+offices:
+- classification: capitol
+  address: 1431 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-3536
+- classification: district
+  address: 1053 Officers Row, Vancouver, WA 98661
+  voice: 360-695-6292
+links:
+- url: https://gluesenkampperez.house.gov
+  note: website
+- url: https://gluesenkampperez.house.gov/
+other_names:
+- name: Gluesenkamp Perez, M.
+- name: "Gluesenkamp P\xE9rez, M."
+- name: K.M. Gluesenkamp Perez
+- name: "K.M. Gluesenkamp P\xE9rez"
+- name: M. Gluesenkamp Perez
+- name: "M. Gluesenkamp P\xE9rez"
+- name: Marie Gluesenkamp Perez
+- name: "Marie Gluesenkamp P\xE9rez"
+ids:
+  twitter: RepMGP
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Marie Gluesenkamp Perez
+- scheme: bioguide
+  identifier: G000600
+- scheme: fec
+  identifier: H2WA03217
+- scheme: google_entity_id
+  identifier: kg:/g/11rts0yhzk
+- scheme: govtrack
+  identifier: '456949'
+- scheme: opensecrets
+  identifier: N00050490
+- scheme: pictorial
+  identifier: '13314'
+- scheme: votesmart
+  identifier: '207307'
+- scheme: wikidata
+  identifier: Q113686944
+sources:
+- url: https://ballotpedia.org/Marie_Gluesenkamp_Perez
+- url: https://en.wikipedia.org/wiki/Marie_Gluesenkamp_Perez
+- url: https://gluesenkampperez.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/marie_gluesenkamp_perez/456949

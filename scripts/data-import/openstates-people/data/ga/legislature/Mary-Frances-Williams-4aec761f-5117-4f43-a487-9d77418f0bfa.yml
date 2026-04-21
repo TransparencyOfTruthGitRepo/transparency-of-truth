@@ -1,0 +1,60 @@
+id: ocd-person/4aec761f-5117-4f43-a487-9d77418f0bfa
+name: Mary Frances Williams
+given_name: Mary Frances
+family_name: Williams
+birth_date: 1955-06-26
+gender: Female
+email: maryfrances.williams@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/williams-mary-frances-4938.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '37'
+offices:
+- classification: capitol
+  address: Room 607-C, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0287
+- classification: district-mail
+  address: '1000 Whitlock Ave. Suite 320, PMB #249, Marietta, GA 30064'
+  voice: 770-424-9084
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4938&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4938
+- url: https://www.legis.ga.gov/members/house/4938?session=1029
+- url: https://www.legis.ga.gov/members/house/4938?session=1031
+  note: HTML member detail page
+other_names:
+- name: M. Williams
+- name: M.F. Williams
+- name: WILLIAMS, 37TH
+- name: Williams, M.
+sources:
+- url: https://ballotpedia.org/Mary_Frances_Williams
+- url: https://en.wikipedia.org/wiki/Mary_Frances_Williams
+- url: https://justfacts.votesmart.org/candidate/biography/178744/mary-williams
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4938&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4938?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4938?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4938
+- url: https://www.legis.ga.gov/members/house/4938?session=1029
+- url: https://www.linkedin.com/in/maryfranceswilliams
+extras:
+  residence: Marietta
+  city: Marietta
+  georgia_id: 4938
+  birthday: June 26
+  occupation: Public Policy Consultant
+  press: https://house-press.com/representative/Mary Frances-Williams
+  staff: Jennifer Clark - Administrative Assistant
+  staff email: jennifer.clark@house.ga.gov

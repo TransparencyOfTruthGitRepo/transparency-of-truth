@@ -1,0 +1,29 @@
+id: ocd-person/e6242790-9cdf-48ec-a5d3-aae3e5439733
+name: Kevin Campbell
+given_name: Kevin
+family_name: Campbell
+gender: Male
+email: kevin.campbell@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-CampbellKevin.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '62'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 83, Glenrock, WY 82637
+links:
+- url: https://wyoleg.gov/Legislators/2025/H/2136
+other_names:
+- name: Campbell, K
+- name: Campbell, K.
+- name: K. Campbell
+sources:
+- url: https://ballotpedia.org/Kevin_Campbell_(Wyoming)
+- url: https://justfacts.votesmart.org/candidate/218364/kevin-campbell
+- url: https://wyoleg.gov/Legislators/2025/H/2136

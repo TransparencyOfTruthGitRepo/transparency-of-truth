@@ -1,0 +1,21 @@
+id: ocd-person/1763625c-3fb6-420b-8094-db510e11515e
+name: Bill Jenkin
+given_name: Bill
+family_name: Jenkin
+email: Bill.Jenkin@leg.wa.gov
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/jenkin.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '16'
+links:
+- url: http://houserepublicans.wa.gov/Bill-Jenkin/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000260
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx

@@ -1,0 +1,44 @@
+id: ocd-person/2c62c9ae-8d1d-4dc3-a86a-fcc5dd7ba286
+name: Ashley Gantt
+given_name: Ashley
+family_name: Gantt
+birth_date: 1985-04-14
+gender: Female
+email: ashley.gantt@flhouse.gov
+image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4897.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '109'
+offices:
+- classification: capitol
+  address: Room 1101, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5109
+- classification: district
+  address: 5400 NW 22nd Ave. Suite 101, Building C, Miami, FL 33142
+  voice: 786-435-9410
+links:
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4897&LegislativeTermId=90
+  note: member detail page
+- url: https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4897
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4897
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4897&LegislativeTermId=90
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4897&LegislativeTermId=91
+other_names:
+- name: A. Gantt
+- name: A.V. Gantt
+- name: Ashley Viola Gantt
+- name: Gantt, A.
+sources:
+- url: https://ballotpedia.org/Ashley_Gantt
+- url: https://en.wikipedia.org/wiki/Ashley_Gantt
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4897&LegislativeTermId=90
+  note: member detail page
+- url: https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4897
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4897
+- url: https://www.linkedin.com/in/ashley-v-gantt-esq
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4897&LegislativeTermId=90
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4897&LegislativeTermId=91

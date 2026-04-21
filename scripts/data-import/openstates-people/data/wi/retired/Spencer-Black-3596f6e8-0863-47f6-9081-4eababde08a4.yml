@@ -1,0 +1,17 @@
+id: ocd-person/3596f6e8-0863-47f6-9081-4eababde08a4
+name: Spencer Black
+given_name: Spencer
+family_name: Black
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '77'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000355
+sources:
+- url: http://legis.wi.gov/w3asp/contact/legislatorpages.aspx?house=Assembly&district=77

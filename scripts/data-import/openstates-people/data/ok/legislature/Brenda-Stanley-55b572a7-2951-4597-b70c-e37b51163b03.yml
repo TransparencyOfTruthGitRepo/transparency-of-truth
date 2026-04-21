@@ -1,0 +1,34 @@
+id: ocd-person/55b572a7-2951-4597-b70c-e37b51163b03
+name: Brenda Stanley
+given_name: Brenda
+family_name: Stanley
+birth_date: 1952-02-10
+gender: Female
+email: brenda.stanley@oksenate.gov
+image: https://oksenate.gov/sites/default/files/Brenda-Stanley_1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2018-11-16
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ok/government
+  district: '42'
+offices:
+- classification: capitol
+  address: Room 420, 2300 N. Lincoln Blvd., Oklahoma City, OK 73105
+  voice: 405-521-5584
+links:
+- url: https://oksenate.gov/contact-senator?sid=1900
+  note: Contact Form
+- url: https://oksenate.gov/Senators/biographies/stanley_bio.aspx
+- url: https://oksenate.gov/senators/brenda-stanley
+other_names:
+- name: B. Stanley
+- name: Stanley, B.
+sources:
+- url: https://ballotpedia.org/Brenda_Stanley
+- url: https://en.wikipedia.org/wiki/Brenda_Stanley
+- url: https://justfacts.votesmart.org/candidate/biography/181848/brenda-stanley
+- url: https://oksenate.gov/Senators/biographies/stanley_bio.aspx
+- url: https://oksenate.gov/Senators/biographies/stanley_bio.html
+- url: https://oksenate.gov/senators/brenda-stanley

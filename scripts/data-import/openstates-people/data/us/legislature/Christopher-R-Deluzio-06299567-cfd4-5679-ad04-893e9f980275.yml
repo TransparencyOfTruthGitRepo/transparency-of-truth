@@ -1,0 +1,68 @@
+id: ocd-person/06299567-cfd4-5679-ad04-893e9f980275
+name: Chris Deluzio
+given_name: Chris
+family_name: Deluzio
+birth_date: 1984-07-13
+gender: Male
+email: https://deluzio.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/D000530.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: PA-17
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: PA-17
+offices:
+- classification: capitol
+  address: 1222 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-2301
+- classification: district
+  address: 3468 Brodhead Road Suite 1, Monaca, PA 15061
+  voice: 724-206-4860
+- classification: district
+  address: 600 N. Bell Ave. Building 1, Suite 102, Carnegie, PA 15106
+  voice: 412-344-5583
+links:
+- url: https://deluzio.house.gov
+  note: website
+- url: https://deluzio.house.gov/
+other_names:
+- name: C. Deluzio
+- name: C.R. Deluzio
+- name: Christopher R. Deluzio
+- name: Deluzio, C.
+ids:
+  twitter: RepDeluzio
+other_identifiers:
+- scheme: bioguide
+  identifier: D000530
+- scheme: fec
+  identifier: H2PA17103
+- scheme: google_entity_id
+  identifier: kg:/g/11qgyjrb66
+- scheme: govtrack
+  identifier: '456936'
+- scheme: opensecrets
+  identifier: N00049160
+- scheme: pictorial
+  identifier: '13237'
+- scheme: votesmart
+  identifier: '202954'
+- scheme: wikidata
+  identifier: Q115181700
+- scheme: wikipedia
+  identifier: Chris Deluzio
+sources:
+- url: https://deluzio.house.gov
+- url: https://en.wikipedia.org/wiki/Chris_Deluzio
+- url: https://justfacts.votesmart.org/candidate/biography/202954/chris-deluzio
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/chris_deluzio/456936

@@ -1,0 +1,32 @@
+id: ocd-person/c17427d2-58a7-45f5-aa6c-a70ca914f8de
+name: Ed Rodriguez
+given_name: Ed
+family_name: Rodriguez
+gender: Male
+email: asmrodriguez@njleg.org
+party:
+- name: Democratic
+roles:
+- start_date: 2026-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '20'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 129 E. 1st Ave., Roselle, NJ 07203
+  voice: 908-445-7145
+  fax: 908-445-7157
+links:
+- url: https://njleg.state.nj.us/legislative-roster/503/assemblyman-rodriguez
+- url: https://www.assemblydems.com/399/Ed-Rodriguez---District-20
+other_names:
+- name: E. Rodriguez
+- name: Rodriguez, E.
+sources:
+- url: https://ballotpedia.org/Ed_Rodriguez_(New_Jersey)
+- url: https://njleg.state.nj.us/legislative-roster/503/assemblyman-rodriguez
+- url: https://www.assemblydems.com/399/Ed-Rodriguez---District-20
+- url: https://www.linkedin.com/in/eduardo-rodriguez-69885a3

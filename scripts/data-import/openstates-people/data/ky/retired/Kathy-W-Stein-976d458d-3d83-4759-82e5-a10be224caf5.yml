@@ -1,0 +1,21 @@
+id: ocd-person/976d458d-3d83-4759-82e5-a10be224caf5
+name: Kathy W. Stein
+given_name: Kathy
+family_name: Stein
+middle_name: W.
+image: http://www.lrc.ky.gov/pubinfo/thumbnails/Senate13.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '13'
+links:
+- url: http://www.lrc.ky.gov/legislator/S013.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000029
+sources:
+- url: http://www.lrc.ky.gov/legislator/S013.htm

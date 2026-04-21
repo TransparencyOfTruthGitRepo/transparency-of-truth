@@ -1,0 +1,66 @@
+id: ocd-person/9dfc8ec3-0935-4d1d-877d-e05cf7a5dca5
+name: Trey Rhodes
+given_name: Trey
+family_name: Rhodes
+birth_date: 1975-02-09
+gender: Male
+email: trey.rhodes@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/rhodes-trey-876.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '124'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '120'
+offices:
+- classification: capitol
+  address: State Capitol Room 228-A, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-5099
+- classification: district
+  address: 1051 Ben Hammond Drive, Greensboro, GA 30642
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=876&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/876
+- url: https://www.legis.ga.gov/members/house/876?session=1029
+- url: https://www.legis.ga.gov/members/house/876?session=1031
+  note: HTML member detail page
+other_names:
+- name: R.L. Rhodes
+- name: RHODES, 124TH
+- name: Rhodes, T.
+- name: T. Rhodes
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000425
+sources:
+- url: https://ballotpedia.org/Trey_Rhodes
+- url: https://en.wikipedia.org/wiki/Trey_Rhodes
+- url: https://justfacts.votesmart.org/candidate/biography/155991/trey-rhodes
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=876&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/876?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/876?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/876
+- url: https://www.legis.ga.gov/members/house/876?session=1029
+extras:
+  residence: Greensboro
+  city: Greensboro
+  georgia_id: 876
+  birthday: February 9
+  occupation: Financial Advisor
+  press: https://house-press.com/representative/Trey-Rhodes
+  spouse: Summer
+  staff: Nicole Chappelle - Administrative Assistant
+  staff email: nicole.chappelle@house.ga.gov
+  title: Chairman, Game, Fish & Parks

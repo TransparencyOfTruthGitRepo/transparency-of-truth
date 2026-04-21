@@ -1,0 +1,22 @@
+id: ocd-person/0a7d0ed9-8530-459b-9a4d-1c0d29c99f11
+name: Deborah A. Long
+given_name: Deborah
+family_name: Long
+middle_name: A.
+image: http://www.scstatehouse.gov/images/members/1112499867.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '45'
+links:
+- url: http://www.scstatehouse.gov/member.php?code=1112499867
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000113
+sources:
+- url: http://www.scstatehouse.gov/member.php?code=1112499867
+- url: http://www.scstatehouse.gov/member.php?chamber=H

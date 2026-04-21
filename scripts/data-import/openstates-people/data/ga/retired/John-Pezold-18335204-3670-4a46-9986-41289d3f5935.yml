@@ -1,0 +1,24 @@
+id: ocd-person/18335204-3670-4a46-9986-41289d3f5935
+name: John Pezold
+given_name: John
+family_name: Pezold
+image: http://www.house.ga.gov/SiteCollectionImages/PezoldJohn828.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '133'
+links:
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=828&Session=25
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000341
+- scheme: legacy_openstates
+  identifier: GAL000427
+sources:
+- url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=828&Session=25
+extras:
+  guid: 828

@@ -1,0 +1,24 @@
+id: ocd-person/7c52fd26-bb8f-4bc9-bc23-325396b7cbcf
+name: Johnnie Turner
+given_name: Johnnie
+family_name: Turner
+image: http://www.capitol.tn.gov/house/members/images/h85.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2018-11-05'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '85'
+links:
+- url: http://www.capitol.tn.gov/house/members/h85.html
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000123
+- scheme: legacy_openstates
+  identifier: TNL000253
+- scheme: legacy_openstates
+  identifier: TNL000429
+sources:
+- url: http://www.capitol.tn.gov/house/members/
+- url: http://www.capitol.tn.gov/house/members/h85.html

@@ -1,0 +1,37 @@
+id: ocd-person/9d4e09cb-8d9f-4c8c-a8df-481af146436d
+name: Trey Steimel
+given_name: Trey
+family_name: Steimel
+gender: Male
+email: trey.steimel@arkansashouse.org
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/602_sm.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '2'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Steimel
+- url: https://www.arkansashouse.org/district/2
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Steimel&ddBienniumSession=2023%2F2023R
+other_names:
+- name: Steimel, T.
+- name: T. Steimel
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Steimel
+- url: https://ballotpedia.org/Trey_Steimel
+- url: https://en.wikipedia.org/wiki/Trey_Steimel
+- url: https://justfacts.votesmart.org/candidate/biography/202343/trey-steimel
+- url: https://www.arkansashouse.org/district/2
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Steimel&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+- url: https://www.linkedin.com/in/trey-steimel-54245a106
+extras:
+  seniority: '98'
+  veteran: 'No'

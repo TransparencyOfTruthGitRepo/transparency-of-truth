@@ -1,0 +1,22 @@
+id: ocd-person/9147f5a3-1470-4e45-9af2-413fda0339d3
+name: Charles R. Fink
+given_name: Charles
+family_name: Fink
+middle_name: R.
+party:
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Belknap 6
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377097
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000525
+- scheme: legacy_openstates
+  identifier: NHL001041
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members.txt

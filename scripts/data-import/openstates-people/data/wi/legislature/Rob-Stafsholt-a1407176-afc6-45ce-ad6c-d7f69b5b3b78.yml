@@ -1,0 +1,72 @@
+id: ocd-person/a1407176-afc6-45ce-ad6c-d7f69b5b3b78
+name: Rob Stafsholt
+given_name: Rob
+family_name: Stafsholt
+birth_date: 1975-11-13
+gender: Male
+email: sen.stafsholt@legis.wisconsin.gov
+image: https://docs.legis.wisconsin.gov/2023/legislators/senate/2434.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '10'
+- end_date: 2020-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '29'
+offices:
+- classification: capitol
+  address: State Capitol Room 15 South, P.O. Box 7882 , 2 E. Main St., Madison, WI
+    53707
+  voice: 608-266-7745
+links:
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1635
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1823
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/2248
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/2434
+- url: https://docs.legis.wisconsin.gov/2025/legislators/senate/2828
+- url: https://legis.wisconsin.gov/senate/10/stafsholt/
+other_names:
+- name: R. Stafsholt
+- name: R.R. Stafsholt
+- name: Robert R. Stafsholt
+- name: STAFSHOLT, R
+- name: Stafsholt, R
+- name: Stafsholt, R.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000629
+- scheme: legacy_openstates
+  identifier: WIL000647
+- scheme: openstates
+  identifier: ocd-person/7c7f4965-fdab-4a07-9507-cf14c0b02efb
+sources:
+- url: https://ballotpedia.org/Rob_Stafsholt
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1635
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1823
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/2248
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/
+  note: members list page
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/2434
+  note: member detail page
+- url: https://docs.legis.wisconsin.gov/2025/legislators/senate/2828
+- url: https://en.wikipedia.org/wiki/Rob_Stafsholt
+- url: https://justfacts.votesmart.org/candidate/biography/68658/rob-stafsholt
+- url: https://legis.wisconsin.gov/senate/10/stafsholt
+extras:
+  website: https://legis.wisconsin.gov/senate/10/stafsholt
+  extra phone: ''
+  staff1: Abrahm Anderson
+  staff_email1: Abrahm.Anderson@legis.wisconsin.gov
+  staff2: Sharlene Konkel
+  staff_email2: Sharlene.Konkel@legis.wisconsin.gov
+  staff3: Michael Neuwohner
+  staff_email3: Michael.Neuwohner@legis.wisconsin.gov
+  staff4: Dustin Truax
+  staff_email4: Dustin.Truax@legis.wisconsin.gov

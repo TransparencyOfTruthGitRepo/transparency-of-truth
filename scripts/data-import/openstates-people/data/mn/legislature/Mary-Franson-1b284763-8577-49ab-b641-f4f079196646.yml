@@ -1,0 +1,44 @@
+id: ocd-person/1b284763-8577-49ab-b641-f4f079196646
+name: Mary Franson
+given_name: Mary
+family_name: Franson
+birth_date: 1977-03-01
+gender: Female
+email: rep.mary.franson@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/12B.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 12B
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 8B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-3201
+links:
+- url: https://www.house.mn.gov/members/profile/15347
+other_names:
+- name: Franson, M.
+- name: M. Franson
+- name: M.D. Franson
+- name: Mary Bensoni Franson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000260
+- scheme: legacy_openstates
+  identifier: MNL000404
+- scheme: legacy_openstates
+  identifier: MNL000650
+sources:
+- url: https://ballotpedia.org/Mary_Franson
+- url: https://en.wikipedia.org/wiki/Mary_Franson
+- url: https://justfacts.votesmart.org/candidate/biography/123109/mary-franson
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15347
+- url: https://www.linkedin.com/in/mary-franson-4868981

@@ -1,0 +1,62 @@
+id: ocd-person/28d59199-5bae-46fe-99f3-ec78e330cdeb
+name: Charles McMahon
+given_name: Charles
+family_name: McMahon
+birth_date: 1954-09-21
+gender: Male
+email: cmcmahon55@gmail.com
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/54159.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 17
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 17
+  start_date: 2022-12-07
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 7
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=376498
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376498
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=489
+  note: member detail page
+other_names:
+- name: C. McMahon
+- name: C.E. McMahon
+- name: Charles E. McMahon
+- name: McMahon, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000243
+- scheme: legacy_openstates
+  identifier: NHL000647
+- scheme: legacy_openstates
+  identifier: NHL000980
+sources:
+- url: https://ballotpedia.org/Charles_McMahon
+- url: https://en.wikipedia.org/wiki/Charles_McMahon_(politician)
+- url: https://gc.nh.gov/house/members/member.aspx?member=376498
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/42541/charles-mcmahon
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376498
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=489
+- url: https://www.linkedin.com/in/charles-mcmahon-07773311
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: M

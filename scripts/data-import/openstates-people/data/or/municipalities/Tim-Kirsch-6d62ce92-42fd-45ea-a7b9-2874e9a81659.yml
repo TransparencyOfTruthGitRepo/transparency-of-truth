@@ -1,0 +1,15 @@
+id: ocd-person/6d62ce92-42fd-45ea-a7b9-2874e9a81659
+name: Tim Kirsch
+given_name: Tim
+family_name: Kirsch
+email: tkirsch@ci.mill-city.or.us
+roles:
+- end_date: 2026-12-31
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:or/place:mill_city/government
+offices:
+- classification: primary
+  address: 444 S 1st Avenue;Mill City, OR 97360
+  voice: 503-897-2302
+sources:
+- url: http://www.ci.mill-city.or.us/departments/office-of-the-mayor

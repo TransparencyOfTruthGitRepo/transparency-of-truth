@@ -1,0 +1,18 @@
+id: ocd-person/decfd013-ebcf-48dc-b626-0f98d5dced4e
+name: Barry Bruce
+given_name: Barry
+family_name: Bruce
+email: barry.bruce@wvhouse.gov
+image: http://www.legis.state.wv.us/images/members/2021/house/bruce_barry.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2021-12-03'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '42'
+  end_reason: Resigned for health reasons
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Bruce
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Bruce

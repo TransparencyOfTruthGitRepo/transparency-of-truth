@@ -1,0 +1,103 @@
+id: ocd-organization/f741c717-f0d2-422e-9ae2-10eb9038e407
+jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+classification: committee
+name: Judiciary
+chamber: lower
+sources:
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=24&CteeBody=H&SessYear=2021
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=60&CteeBody=H&SessYear=2023
+  note: Committee homepage
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/StandingCommittees.cfm?CteeBody=H
+  note: Committee list page
+- url: https://www.palegis.us/house/committees/60/judiciary
+links:
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=24&CteeBody=H&SessYear=2021
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=60&CteeBody=H&SessYear=2023
+  note: homepage
+- url: https://www.palegis.us/house/committees/60/judiciary
+members:
+- name: Tim Briggs
+  role: chair
+  person_id: ocd-person/5c752a95-ba5d-4f1f-81aa-6cb1c7875581
+- name: Rob Kauffman
+  role: republican chair
+  person_id: ocd-person/17e1e676-8e83-4883-8cf5-4c8ddcce076e
+- name: Joe Hamm
+  role: republican secretary
+  person_id: ocd-person/acc00fca-50e5-46f7-8676-d502ecfc94ac
+- name: Chris Pielli
+  role: secretary
+  person_id: ocd-person/d83a0679-02c9-469b-89ed-11f9b46166c5
+- name: Aerion Abney
+  role: member
+  person_id: ocd-person/1b5abb1e-0028-49a3-ae86-cfb90296c796
+- name: Andre Carroll
+  role: member
+  person_id: ocd-person/628312bf-7920-44b7-b226-90c92f92a123
+- name: Andrew Kuzma
+  role: member
+  person_id: ocd-person/0d86d77b-ff68-4182-be53-09ff196b8174
+- name: Ben Sanchez
+  role: member
+  person_id: ocd-person/b64463e2-41f6-4d58-a725-03db71798c1c
+- name: Brenda Pugh
+  role: member
+  person_id: ocd-person/e12dc574-f19b-4c9c-9a30-42b68371ea4a
+- name: Charity Krupa
+  role: member
+  person_id: ocd-person/d5bd036c-03f5-4111-b770-15cb2dbe3278
+- name: Chris Rabb
+  role: member
+  person_id: ocd-person/e6a8e555-0d65-4a1f-9673-56ad1e3c7855
+- name: Emily Kinkead
+  role: member
+  person_id: ocd-person/875b1add-2803-4cc3-964b-0e351ed6ca1c
+- name: Jim Rigby
+  role: member
+  person_id: ocd-person/343e541b-fbd3-4622-bf42-7843494b1714
+- name: Joe Hohenstein
+  role: member
+  person_id: ocd-person/99728978-f905-406c-8b52-f2912f374602
+- name: Joe Kerwin
+  role: member
+  person_id: ocd-person/8a7494a6-3d82-432b-a5c2-6dc46d192611
+- name: Josh Kail
+  role: member
+  person_id: ocd-person/fbb14b8a-8940-4679-9ed8-3ec48096a3a2
+- name: Kate Klunk
+  role: member
+  person_id: ocd-person/08283fbe-18bc-4daf-972c-617d1e35d746
+- name: Kristine Howard
+  role: member
+  person_id: ocd-person/f451e90b-e93a-4768-a294-67d1ff000396
+- name: Kyle Donahue
+  role: member
+  person_id: ocd-person/009be4f2-d613-4353-8126-6b5642d868bc
+- name: La'Tasha Mayes
+  role: member
+  person_id: ocd-person/526967db-cef3-4f64-a380-1377f5c6f1fe
+- name: Liz Hanbidge
+  role: member
+  person_id: ocd-person/0aa9e1d6-4552-4ad4-b660-e2f3cc17b7dd
+- name: Malcolm Kenyatta
+  role: member
+  person_id: ocd-person/96711736-a47d-4bd6-bcc3-92297ec01516
+- name: Melissa Shusterman
+  role: member
+  person_id: ocd-person/2cb7688e-e8ea-431e-9f56-34ee9a9a3ecc
+- name: Robert Leadbeter
+  role: member
+  person_id: ocd-person/1d775faf-9231-420a-b62e-979bb6a1fc78
+- name: Stephanie Borowicz
+  role: member
+  person_id: ocd-person/bccfe530-42ce-47b0-aadf-ae863b37cf9a
+- name: Tim Bonner
+  role: member
+  person_id: ocd-person/105c6361-0cb6-46f4-9222-ff0ffb727d29
+other_names:
+- name: Committee on Judiciary
+- name: House Committee on Judiciary
+- name: House Judiciary
+- name: House Judiciary Committee
+- name: Judiciary Committee

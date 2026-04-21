@@ -1,0 +1,67 @@
+id: ocd-organization/e134808a-841a-4743-8bb1-c21e112ab38c
+jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+classification: committee
+name: Families and Veterans
+chamber: lower
+sources:
+- url: https://www.house.mi.gov/Committee/FAMI
+- url: https://www.house.mi.gov/Committee/HFAMI
+- url: https://www.house.mi.gov/MHRPublic/CommitteeInfo.aspx?comcode=FAMI
+- url: https://www.house.mi.gov/PublicCommitteeSchedule
+- url: https://www.legislature.mi.gov/mileg.aspx?page=listserverSignup
+links:
+- url: https://www.house.mi.gov/Committee/FAMI
+  note: homepage
+- url: https://www.house.mi.gov/Committee/HFAMI
+  note: homepage
+- url: https://www.house.mi.gov/MHRPublic/CommitteeInfo.aspx?comcode=FAMI
+  note: homepage
+- url: https://www.house.mi.gov/PublicCommitteeSchedule
+- url: https://www.legislature.mi.gov/mileg.aspx?page=listserverSignup
+members:
+- name: Kathy Schmaltz
+  role: chair
+  person_id: ocd-person/e21ee6f1-0fdc-4ee6-8432-6149de16046d
+- name: Stephanie Young
+  role: democratic vice chair
+  person_id: ocd-person/ea254169-e403-4e29-ab06-8f40fb869ac2
+- name: Doug Wozniak
+  role: republican vice chair
+  person_id: ocd-person/2e512bae-42f3-4ce8-b565-df48469da08a
+- name: Carrie Rheingans
+  role: member
+  person_id: ocd-person/2f75473d-b2e6-49fd-914e-1e552ebc38a6
+- name: Erin Byrnes
+  role: member
+  person_id: ocd-person/3d6727ea-1a91-414d-aac4-ba312cbfaabc
+- name: Gina Johnsen
+  role: member
+  person_id: ocd-person/37cbe31c-4d9d-4f77-847f-ce463e1bec58
+- name: Jamie Thompson
+  role: member
+  person_id: ocd-person/ea1e2bf8-dd08-4785-a7f7-48e7c9e8a53c
+- name: Jason Woolford
+  role: member
+  person_id: ocd-person/4831928f-e1e5-4905-928b-633128aefa77
+- name: Joe Pavlov
+  role: member
+  person_id: ocd-person/65bb5257-9a90-4b14-a7bd-aee9efd0ab55
+- name: Joseph Fox
+  role: member
+  person_id: ocd-person/ba49b4ef-08fb-48a0-b8a9-495a3605ef0a
+- name: Mai Xiong
+  role: member
+  person_id: ocd-person/cd44a574-079b-4fd8-82cd-0daea8d7ff96
+other_names:
+- name: Committee on Families, Children and Seniors
+- name: Families, Children and Seniors
+- name: Families, Children and Seniors Committee
+- name: House Committee on Families and Veterans
+- name: House Committee on Families, Children and Seniors
+- name: House Families and Veterans
+- name: House Families and Veterans Committee
+- name: House Families, Children and Seniors
+- name: House Families, Children and Seniors Committee
+extras:
+  clerk: Joy Brewer
+  clerk phone number: '5173738474'

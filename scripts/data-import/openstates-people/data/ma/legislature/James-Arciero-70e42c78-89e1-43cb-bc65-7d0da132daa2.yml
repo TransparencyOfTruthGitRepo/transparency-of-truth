@@ -1,0 +1,48 @@
+id: ocd-person/70e42c78-89e1-43cb-bc65-7d0da132daa2
+name: Jim Arciero
+given_name: Jim
+family_name: Arciero
+birth_date: 1974-08-27
+gender: Male
+email: james.arciero@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/J_A1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2009-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 2nd Middlesex
+offices:
+- classification: capitol
+  address: Room 134, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2400
+links:
+- url: https://malegislature.gov/Legislators/Profile/J_A1
+- url: https://repjamesarciero.com/
+other_names:
+- name: Arciero, J.
+- name: J. Arciero
+- name: James Arciero
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000509
+- scheme: legacy_openstates
+  identifier: MAL000044
+- scheme: openstates
+  identifier: ocd-person/21f0c6ab-de54-44b3-8cfd-8aed860f3137
+sources:
+- url: https://ballotpedia.org/James_Arciero
+- url: https://en.wikipedia.org/wiki/James_Arciero
+- url: https://justfacts.votesmart.org/candidate/biography/109539/jim-arciero
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/J_A1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/J_A1
+- url: https://malegislature.gov/Legislators/Profile/J_A1
+- url: https://repjamesarciero.com
+- url: https://www.linkedin.com/in/jim-arciero-0298456
+extras:
+  member code: J_A1

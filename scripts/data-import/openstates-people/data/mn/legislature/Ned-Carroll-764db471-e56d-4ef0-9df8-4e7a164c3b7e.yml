@@ -1,0 +1,31 @@
+id: ocd-person/764db471-e56d-4ef0-9df8-4e7a164c3b7e
+name: Ned Carroll
+given_name: Ned
+family_name: Carroll
+gender: Male
+email: rep.ned.carroll@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls93/42A.gif?v=112221
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 42A
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-5510
+links:
+- url: https://www.house.mn.gov/members/profile/15617
+other_names:
+- name: Carroll, N.
+- name: N. Carroll
+- name: N.J. Carroll
+sources:
+- url: https://ballotpedia.org/Ned_Carroll
+- url: https://en.wikipedia.org/wiki/Ned_Carroll
+- url: https://justfacts.votesmart.org/candidate/biography/160306/ned-carroll
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15617
+- url: https://www.linkedin.com/in/ned-carroll-18101821

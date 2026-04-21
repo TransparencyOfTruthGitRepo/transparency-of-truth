@@ -1,0 +1,53 @@
+id: ocd-person/cf5cefd3-8283-411d-806d-b5076ade039d
+name: David Eastman
+given_name: David
+family_name: Eastman
+birth_date: 1981-06-01
+gender: Male
+email: representative.david.eastman@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/EAS.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '27'
+  end_date: 2025-01-20
+- end_date: 2023-01-16
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '10'
+offices: []
+links:
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=eas
+- url: https://www.akleg.gov/basis/Member/Detail/31?code=eas
+- url: https://www.akleg.gov/basis/Member/Detail/32?code=eas
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=eas
+other_names:
+- name: D. Eastman
+- name: D.C. Eastman
+- name: David C. Eastman
+- name: David Clark Eastman
+- name: Eastman, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AKL000179
+sources:
+- url: https://w3.akleg.gov/
+- url: https://w3.akleg.gov/
+- url: https://w3.akleg.gov
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=eas
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=EAS
+- url: https://ballotpedia.org/David_Eastman
+- url: https://en.wikipedia.org/wiki/David_Eastman_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/140392/david-eastman-jr
+- url: https://w3.akleg.gov
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=eas
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=eas
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=EAS
+- url: https://www.linkedin.com/in/davidceastman
+extras:
+  toll_free_phone: 800-468-2186

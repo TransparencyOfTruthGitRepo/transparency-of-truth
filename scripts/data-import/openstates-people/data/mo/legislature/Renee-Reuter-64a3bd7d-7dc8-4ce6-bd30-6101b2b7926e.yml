@@ -1,0 +1,35 @@
+id: ocd-person/64a3bd7d-7dc8-4ce6-bd30-6101b2b7926e
+name: Renee Reuter
+given_name: Renee
+family_name: Reuter
+gender: Female
+email: renee.reuter@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2396
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '112'
+offices:
+- classification: capitol
+  address: Room 235-BB, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-3607
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=112
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=112
+other_names:
+- name: R. Reuter
+- name: R.M. Reuter
+- name: Reuter, R.
+sources:
+- url: https://ballotpedia.org/Renee_Reuter
+- url: https://en.wikipedia.org/wiki/Renee_Reuter
+- url: https://house.mo.gov/MemberDetails.aspx?district=112
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=112
+- url: https://justfacts.votesmart.org/candidate/biography/132669/renee-reuter
+- url: https://www.linkedin.com/in/reneemreuter
+- url: https://www.reneereuter.info
+extras:
+  hometown: Imperial

@@ -1,0 +1,80 @@
+id: ocd-person/587874e4-f0c9-4679-aa08-a2442b7d33b1
+name: Mike Gierau
+given_name: Mike
+family_name: Gierau
+birth_date: 1959-03-18
+gender: Male
+email: mike.gierau@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-GierauMike.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '17'
+- start_date: 2017-01-02
+  end_date: 2019-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '17'
+- end_date: 2019-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '16'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 2975, Jackson, WY 83001
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/S/2027
+- url: https://www.wyoleg.gov/Legislators/2025/S/2027
+- url: https://wyoleg.gov/Legislators/2019/D/2027
+- url: https://wyoleg.gov/Legislators/2021/D/2027
+other_names:
+- name: Gierau, M
+- name: Gierau, M.
+- name: M. Gierau
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000143
+sources:
+- url: https://ballotpedia.org/Mike_Gierau
+- url: https://en.wikipedia.org/wiki/Mike_Gierau
+- url: https://justfacts.votesmart.org/candidate/biography/52778/mike-gierau
+- url: https://www.linkedin.com/in/mike-gierau-0851ba2a
+- url: https://www.wyoleg.gov/Legislators/2023/S/2027
+- url: https://www.wyoleg.gov/Legislators/2025/S/2027
+- url: https://wyoleg.gov/Legislators/2019/D/2027
+- url: https://wyoleg.gov/Legislators/2021/D/2027
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2027
+extras:
+  county: Teton County
+  title: Minority Whip
+  leadership:
+  - startYear: '2023'
+    endYear: '2024'
+    position: 'Senate Minority Whip                              '
+    currentLeader: true
+  - startYear: '2021'
+    endYear: '2022'
+    position: 'Senate Minority Whip                              '
+    currentLeader: false
+  - startYear: '2019'
+    endYear: '2020'
+    position: Senate Minority Caucus Chairman
+    currentLeader: false
+  house years: 'House:  2017-2018'
+  senate years: 'Senate: 2019-Present'
+  prior service:
+  - chamber: House
+    startYear: 2017
+    endYear: '2018'
+    district: ' District 16, '
+  - chamber: Senate
+    startYear: 2019
+    endYear: Present
+    district: ' District 17, '

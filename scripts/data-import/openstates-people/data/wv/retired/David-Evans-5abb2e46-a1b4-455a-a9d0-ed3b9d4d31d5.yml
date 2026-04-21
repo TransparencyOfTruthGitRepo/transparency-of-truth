@@ -1,0 +1,20 @@
+id: ocd-person/5abb2e46-a1b4-455a-a9d0-ed3b9d4d31d5
+name: David Evans
+given_name: David
+family_name: Evans
+image: http://www.legis.state.wv.us/../images/members/2016/house/evans_david.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '4'
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Evans%2C+D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000149
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Evans%2C+D.

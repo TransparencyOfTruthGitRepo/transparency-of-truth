@@ -1,0 +1,50 @@
+id: ocd-person/5278711f-55ec-4a67-acc9-edd1db1c4e8c
+name: Lydia Edwards
+given_name: Lydia
+family_name: Edwards
+birth_date: 1981-12-13
+gender: Female
+email: lydia.edwards@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/LME0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Third Suffolk
+- start_date: 2022-01-20
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Third Suffolk
+- start_date: 2022-01-20
+  end_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: First Suffolk and Middlesex
+offices:
+- classification: capitol
+  address: Room 413-A, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1634
+links:
+- url: https://malegislature.gov/Legislators/Profile/LME0
+other_names:
+- name: Edwards, L.
+- name: L. Edwards
+- name: L.M. Edwards
+- name: Lydia Mariee Edwards
+sources:
+- url: https://ballotpedia.org/Lydia_Edwards
+- url: https://en.wikipedia.org/wiki/Lydia_Edwards
+- url: https://justfacts.votesmart.org/candidate/biography/186210/lydia-edwards
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/LME0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/LME0
+- url: https://malegislature.gov/Legislators/Profile/LME0
+- url: https://www.linkedin.com/in/lydia-edwards-b750024
+extras:
+  member code: LME0

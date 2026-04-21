@@ -1,0 +1,21 @@
+id: ocd-person/5e5272fe-cd2f-45c4-8c13-ed87e541dd82
+name: Jerry A. Kearns
+given_name: Jerry
+family_name: Kearns
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=2017-2018&pid=6579
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '83'
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=87&personID=6579
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IAL000091
+- scheme: legacy_openstates
+  identifier: IAL000266
+sources:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=87&personID=6579

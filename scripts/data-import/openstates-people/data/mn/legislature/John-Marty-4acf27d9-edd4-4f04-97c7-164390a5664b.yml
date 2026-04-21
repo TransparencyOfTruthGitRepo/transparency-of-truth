@@ -1,0 +1,48 @@
+id: ocd-person/4acf27d9-edd4-4f04-97c7-164390a5664b
+name: John Marty
+given_name: John
+family_name: Marty
+birth_date: 1956-11-01
+gender: Male
+email: sen.john.mcguire@senate.mn
+image: https://www.senate.mn/graphics/40Marty.jpg
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '40'
+- end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '66'
+offices:
+- classification: capitol
+  address: Room 3235, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-5645
+links:
+- url: https://www.johnmarty.org/
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1035
+other_names:
+- name: J. Marty
+- name: J.J. Marty
+- name: John J. Marty
+- name: Marty, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000035
+- scheme: legacy_openstates
+  identifier: MNL000527
+sources:
+- url: https://ballotpedia.org/John_Marty
+- url: https://en.wikipedia.org/wiki/John_Marty
+- url: https://justfacts.votesmart.org/candidate/biography/3909/john-marty
+- url: https://www.johnmarty.org
+- url: https://www.johnmarty.org/meet-john
+- url: https://www.linkedin.com/in/senatormarty
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/index.php
+- url: https://www.senate.mn/members/list.csv
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1035

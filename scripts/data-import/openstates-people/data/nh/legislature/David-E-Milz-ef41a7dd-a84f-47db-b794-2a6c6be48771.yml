@@ -1,0 +1,58 @@
+id: ocd-person/ef41a7dd-a84f-47db-b794-2a6c6be48771
+name: David Milz
+given_name: David
+family_name: Milz
+gender: Male
+email: david.milz@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/49721.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 13
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 13
+  start_date: 2022-12-07
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 6
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=377147
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377147
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=752
+  note: member detail page
+other_names:
+- name: D. Milz
+- name: David E. Milz
+- name: Milz, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000653
+- scheme: legacy_openstates
+  identifier: NHL000975
+sources:
+- url: https://ballotpedia.org/David_Milz
+- url: https://en.wikipedia.org/wiki/David_Milz
+- url: https://gc.nh.gov/house/members/member.aspx?member=377147
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/132813/david-milz
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377147
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=752
+- url: https://www.linkedin.com/in/david-milz-24890517
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: M

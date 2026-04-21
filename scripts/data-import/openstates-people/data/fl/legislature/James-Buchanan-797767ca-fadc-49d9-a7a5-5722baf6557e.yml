@@ -1,0 +1,42 @@
+id: ocd-person/797767ca-fadc-49d9-a7a5-5722baf6557e
+name: James Buchanan
+given_name: James
+family_name: Buchanan
+birth_date: 1982-01-10
+gender: Male
+email: james.buchanan@flhouse.gov
+image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4731.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2018-11-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '74'
+offices:
+- classification: capitol
+  address: Room 418, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5074
+- classification: district
+  address: 5900 Pan American Blvd. Building A, Unit 102, North Port, FL 34287
+  voice: 941-732-0430
+links:
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4731&LegislativeTermId=90
+  note: member detail page
+- url: https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4731
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4731
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4731&LegislativeTermId=88
+other_names:
+- name: Buchanan, J.
+- name: J. Buchanan
+- name: J.V. Buchanan
+sources:
+- url: https://ballotpedia.org/James_Buchanan_(Florida)
+- url: https://en.wikipedia.org/wiki/James_Buchanan_(Florida_politician)
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4731&LegislativeTermId=90
+  note: member detail page
+- url: https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4731
+- url: https://www.myfloridahouse.gov/Representatives
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4731
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4731&LegislativeTermId=88
+- url: https://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx

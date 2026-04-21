@@ -1,0 +1,58 @@
+id: ocd-person/0b9e2838-eeb0-4d10-8292-64a9e9f54dc1
+name: Seth Lewis
+given_name: Seth
+family_name: Lewis
+gender: Male
+email: lewis@ilsenategop.org
+image: https://cdn.ilga.gov/assets/img/members/{E714499E-C9C6-4A01-AE84-6CB703AFB9B7}.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '24'
+- end_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '45'
+offices:
+- classification: capitol
+  address: Stratton Office Building Section A, Office Q, Springfield, IL 62706
+  voice: 217-782-9463
+- classification: district
+  address: 416 E. Roosevelt Road Suite 111, Wheaton, IL 60187
+- classification: district
+  address: 994 W. Army Trail Road, Carol Stream, IL 60188
+  voice: 630-349-0645
+- classification: district-mail
+  address: P.O. Box 8547, Bartlett, IL 60103
+links:
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2994
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3183
+  note: homepage
+- url: https://ilga.gov/senate/Senator.asp?GA=103&MemberID=3210
+  note: homepage
+- url: https://senatorlewis.com/
+- url: https://www.ilga.gov/Senate/Members/Details/3406
+- url: https://www.ilga.gov/senate/Senator.asp?GA=103&MemberID=3210
+- url: https://www.ilga.gov/senate/Senator.asp?GA=104&MemberID=3406
+other_names:
+- name: Lewis, S.
+- name: Lewis, Seth
+- name: S. Lewis
+- name: S.P. Lewis
+sources:
+- url: https://ballotpedia.org/Seth_Lewis
+- url: https://en.wikipedia.org/wiki/Seth_Lewis
+- url: https://ilga.gov/house/default.asp?GA=102
+- url: https://ilga.gov/house/default.asp?GA=103
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2994
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3183
+- url: https://ilga.gov/senate/default.asp?GA=103
+- url: https://ilga.gov/senate/Senator.asp?GA=103&MemberID=3210
+- url: https://senatorlewis.com
+- url: https://www.ilga.gov/Senate/Members/Details/3406
+- url: https://www.ilga.gov/senate/Senator.asp?GA=103&MemberID=3210
+- url: https://www.ilga.gov/senate/Senator.asp?GA=104&MemberID=3406
+- url: https://www.linkedin.com/in/seth-lewis-1b36a461

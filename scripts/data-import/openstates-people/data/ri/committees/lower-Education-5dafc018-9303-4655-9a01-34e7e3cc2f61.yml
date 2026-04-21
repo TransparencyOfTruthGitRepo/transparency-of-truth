@@ -1,0 +1,66 @@
+id: ocd-organization/5dafc018-9303-4655-9a01-34e7e3cc2f61
+jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+classification: committee
+name: Education
+chamber: lower
+sources:
+- url: https://webserver.rilegislature.gov/ComMembers/ComMemr.asp?ComChoiceR=HEDC
+- url: https://www.rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HEDC&CommitteeName=Education
+- url: https://www.rilegislature.gov/pages/committees.aspx
+links:
+- url: https://webserver.rilegislature.gov/ComMembers/ComMemr.asp?ComChoiceR=HEDC
+- url: https://www.rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HEDC&CommitteeName=Education
+members:
+- name: Joseph McNamara
+  role: chair
+  person_id: ocd-person/ce92c860-ad04-4cc5-91eb-52add74c98e5
+- name: Tom Noret
+  role: first vice chair
+  person_id: ocd-person/1f8f3c9b-ba19-45de-af45-b0501d0607f0
+- name: Rebecca Kislak
+  role: second vice chair
+  person_id: ocd-person/dd5636ac-e9a1-4d98-8f21-6376b8977706
+- name: Bob Phillips
+  role: member
+  person_id: ocd-person/53f07987-a534-4194-ba51-2fcd62f0f63e
+- name: Brandon Voas
+  role: member
+  person_id: ocd-person/f0206346-2c07-4316-a556-cee7fe595e9a
+- name: Dick Fascia
+  role: member
+  person_id: ocd-person/0065fe7b-08cf-4d17-b358-c0c04ab45616
+- name: Earl Read
+  role: member
+  person_id: ocd-person/6e9979b1-f131-4d71-8146-71f10bd06e57
+- name: Joshua Giraldo
+  role: member
+  person_id: ocd-person/b6a9a38c-0f39-4150-b041-fd6c75f9c8ad
+- name: Julie Casimiro
+  role: member
+  person_id: ocd-person/6e1cd170-ab5c-4095-9fb2-8e92138f6db3
+- name: Mary Ann Shallcross-Smith
+  role: member
+  person_id: ocd-person/20543a6c-f763-4297-a19b-c670fbe8a68b
+- name: Megan Cotter
+  role: member
+  person_id: ocd-person/4ad02cf0-3ead-4bc4-84e3-d1c08c3aa11a
+- name: Nathan Biah
+  role: member
+  person_id: ocd-person/39bdc05c-bda5-4ea9-b4ad-4cc7172adf56
+- name: Ramon Perez
+  role: member
+  person_id: ocd-person/181465b6-b392-4222-acec-456182d23aa5
+- name: Sherry Roberts
+  role: member
+  person_id: ocd-person/6c7285bd-fdd3-4629-be6f-4a01d19e9c25
+- name: Susan Donovan
+  role: member
+  person_id: ocd-person/160de7ca-e70f-4cd4-b218-e9600c24a5aa
+other_names:
+- name: House Committee on Education
+- name: House Education
+- name: House Education Committee
+extras:
+  Clerk: Lisa Cataldi
+  Phone: 222-2296
+  Email: HouseEducation@rilegislature.gov

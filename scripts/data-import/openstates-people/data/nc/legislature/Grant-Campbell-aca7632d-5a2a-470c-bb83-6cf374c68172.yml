@@ -1,0 +1,31 @@
+id: ocd-person/aca7632d-5a2a-470c-bb83-6cf374c68172
+name: Grant Campbell
+given_name: Grant
+family_name: Campbell
+birth_date: 1971-09-14
+gender: Male
+email: grant.campbell@ncleg.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/campbellgrant.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '83'
+offices:
+- classification: capitol
+  address: Room 306C, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-715-2009
+- classification: district-mail
+  address: Room 306C, 300 N. Salisbury St., Raleigh, NC 27603
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/830
+other_names:
+- name: Campbell, G.
+- name: G. Campbell
+sources:
+- url: https://ballotpedia.org/Grant_Campbell
+- url: https://www.linkedin.com/in/grant-campbell-b4221b9b
+- url: https://www.ncleg.gov/Members/Biography/H/830

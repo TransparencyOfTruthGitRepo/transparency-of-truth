@@ -1,0 +1,51 @@
+id: ocd-person/6563f869-64f5-42fb-9707-263fee6f59dc
+name: Doreen Gallegos
+given_name: Doreen
+family_name: Gallegos
+gender: Female
+email: doreen.gallegos@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HGADO.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '52'
+offices:
+- classification: capitol
+  address: State Capitol Room 306A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4329
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HGADO
+  note: homepage
+other_names:
+- name: D. Gallegos
+- name: D.Y. Gallegos
+- name: Doreen Y. Gallegos
+- name: Doreen Ybarra Gallegos
+- name: Gallegos, D.
+- name: Gallegos, Doreen
+- name: Gallegos, Doreen Y.
+ids:
+  twitter: doreen4staterep
+  facebook: doreen.gallegos.9
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000160
+- scheme: legacy_openstates
+  identifier: NML000263
+- scheme: legacy_openstates
+  identifier: NML000304
+sources:
+- url: https://ballotpedia.org/Doreen_Y._Gallegos
+- url: https://en.wikipedia.org/wiki/Doreen_Gallegos
+- url: https://justfacts.votesmart.org/candidate/biography/139044/doreen-gallegos
+- url: https://www.linkedin.com/in/doreen-gallegos-a3423b43
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HGADO
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: "Do\xF1a Ana"
+  service: Representative since 2013
+  occupation: Executive Director

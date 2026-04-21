@@ -1,0 +1,66 @@
+id: ocd-person/ad18dba4-9247-4542-95b1-2ccef815dbc7
+name: David Clark
+given_name: David
+family_name: Clark
+birth_date: 1986-07-15
+gender: Male
+email: david.clark@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/clark-david-867.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '100'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '98'
+offices:
+- classification: capitol
+  address: Room 504-E, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0188
+- classification: district
+  address: 420 S. Hill St., Buford, GA 30518
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=867&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/867
+- url: https://www.legis.ga.gov/members/house/867?session=1029
+- url: https://www.legis.ga.gov/members/house/867?session=1031
+  note: HTML member detail page
+other_names:
+- name: CLARK, 100TH
+- name: Clark, D.
+- name: D. Clark
+- name: D.T. Clark
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000393
+sources:
+- url: https://ballotpedia.org/David_Clark_(Georgia)
+- url: https://en.wikipedia.org/wiki/David_Clark_(Georgia_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/155931/david-clark
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=867&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/867?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/867?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/867
+- url: https://www.legis.ga.gov/members/house/867?session=1029
+- url: https://www.linkedin.com/in/david-clark-11935066
+extras:
+  residence: Buford
+  city: Buford
+  georgia_id: 867
+  birthday: July 15
+  occupation: Small Business Owner
+  press: https://house-press.com/representative/David-Clark
+  staff: LaTricia Howard - Administrative Assistant
+  staff email: latricia.howard@house.ga.gov

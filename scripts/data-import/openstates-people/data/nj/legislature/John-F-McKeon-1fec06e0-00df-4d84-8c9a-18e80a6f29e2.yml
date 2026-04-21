@@ -1,0 +1,59 @@
+id: ocd-person/1fec06e0-00df-4d84-8c9a-18e80a6f29e2
+name: John McKeon
+given_name: John
+family_name: McKeon
+birth_date: 1958-06-03
+gender: Male
+email: senmckeon@njleg.org
+image: https://www.njleg.state.nj.us/members/memberphotos/mckeon_color.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '27'
+- start_date: 2002-01-08
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '27'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 555 Northfield Ave. Suite C, West Orange, NJ 07052
+  voice: 862-930-7071
+links:
+- url: https://www.assemblydems.com/john-mckeon/
+- url: https://www.njleg.state.nj.us/legislative-roster/207/assemblyman-mckeon
+- url: https://www.njleg.state.nj.us/legislative-roster/478/senator-mckeon
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=207
+- url: https://www.njsendems.org/203/John-F-McKeon
+other_names:
+- name: J. McKeon
+- name: J.F. McKeon
+- name: John F. McKeon
+- name: McKeon, J.
+- name: McKeon, John F.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000082
+sources:
+- url: https://ballotpedia.org/John_McKeon
+- url: https://ballotpedia.org/John_McKeon_(New_Jersey)
+- url: https://en.wikipedia.org/wiki/John_F._McKeon
+- url: https://justfacts.votesmart.org/candidate/biography/55071/john-mckeon
+- url: https://www.linkedin.com/in/john-mckeon-7bb671168
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/207
+- url: https://www.njleg.state.nj.us/downloads.asp
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/207/assemblyman-mckeon
+- url: https://www.njleg.state.nj.us/legislative-roster/478/senator-mckeon
+- url: https://www.njleg.state.nj.us/members/abcroster.asp
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=207
+- url: https://www.njleg.state.nj.us/members/BIO.asp?Leg=207
+- url: https://www.njsendems.org/203/John-F-McKeon
+extras:
+  position: Parliamentarian

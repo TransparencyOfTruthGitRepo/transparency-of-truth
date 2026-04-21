@@ -1,0 +1,28 @@
+id: ocd-organization/9c4978fe-e1a3-4137-b629-3b4ce3bd44ba
+jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+classification: committee
+name: Committee on Committees
+chamber: lower
+sources:
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=50&CteeBody=H
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=50&CteeBody=H&SessYear=2023
+  note: Committee homepage
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/StandingCommittees.cfm?CteeBody=H
+  note: Committee list page
+- url: https://www.palegis.us/house/committees/50/committee-on-committees
+links:
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=50&CteeBody=H
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=50&CteeBody=H&SessYear=2023
+  note: homepage
+- url: https://www.palegis.us/house/committees/50/committee-on-committees
+members:
+- name: Tina Pickett
+  role: republican chair
+  person_id: ocd-person/8e174923-d514-4240-b6cd-cbb7927410ba
+- name: Mary Jo Daley
+  role: member
+  person_id: ocd-person/2b9c199b-dd4e-477a-a5d0-849180c956a0
+other_names:
+- name: House Committee on Committee on Committees
+- name: House Committee on Committees
+- name: House Committee on Committees Committee

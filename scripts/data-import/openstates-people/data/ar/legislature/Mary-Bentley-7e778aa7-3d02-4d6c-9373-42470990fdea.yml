@@ -1,0 +1,81 @@
+id: ocd-person/7e778aa7-3d02-4d6c-9373-42470990fdea
+name: Mary Bentley
+given_name: Mary
+family_name: Bentley
+birth_date: 1961-12-26
+gender: Female
+email: mary.bentley@arkansashouse.org
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/469_sm.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '54'
+- start_date: 2015-01-12
+  end_date: 2023-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '54'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '73'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+- classification: district
+  address: 142 Shady Lane, Perryville, AR 72126
+  voice: 501-889-3556
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Bentley
+- url: https://www.arkansashouse.org/district/54
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Bentley
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Bentley&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Bentley&ddBienniumSession=2021%2F2021R
+- url: https://www.marybentleyar.com
+  note: Campaign Website
+other_names:
+- name: Bentley
+- name: Bentley, M.
+- name: M. Bentley
+- name: M.E. Bentley
+ids:
+  twitter: MaryBentleyAR
+  youtube: UCeLj0zTgt3jyDIYL3IAzLpQ
+  facebook: mary.bentley.39
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Mary_Bentley
+- scheme: followthemoney
+  identifier: '10885420'
+- scheme: legacy_openstates
+  identifier: ARL000265
+- scheme: legacy_openstates
+  identifier: ARL000295
+- scheme: votesmart
+  identifier: '136704'
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Bentley
+- url: https://ballotpedia.org/Mary_Bentley
+- url: https://en.wikipedia.org/wiki/Mary_Bentley_(Arkansas_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/136704/mary-bentley
+- url: https://www.arkansashouse.org/district/54
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Bentley
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Bentley&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Bentley&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Bentley&ddBienniumSession=2021%2F2021S1
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Bentley&ddBienniumSession=2021%2F2022F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Bentley&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2021%2F2021S1#SearchResults
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+- url: https://www.linkedin.com/in/mary-bentley-40718715
+extras:
+  seniority: '18'
+  occupation: Owner, Bentley Plastics
+  church affiliation: Assembly of God
+  veteran: 'No'
+  public service: First Term House 2015,  2017

@@ -1,0 +1,25 @@
+id: ocd-person/cbe9100f-c41c-4117-a948-4fe81575461a
+name: Edwin R. Murray
+given_name: Edwin
+family_name: Murray
+middle_name: R
+image: http://senate.la.gov/Murray/images/murray2005.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2012-01-01'
+  end_date: '2015-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '4'
+links:
+- url: http://senate.la.gov/Murray/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000164
+- scheme: legacy_openstates
+  identifier: LAL000309
+- scheme: legacy_openstates
+  identifier: LAL000509
+sources:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=4

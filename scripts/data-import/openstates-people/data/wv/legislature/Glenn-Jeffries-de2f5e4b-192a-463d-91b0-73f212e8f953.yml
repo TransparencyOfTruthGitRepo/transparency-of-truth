@@ -1,0 +1,46 @@
+id: ocd-person/de2f5e4b-192a-463d-91b0-73f212e8f953
+name: Glenn Jeffries
+given_name: Glenn
+family_name: Jeffries
+birth_date: 1961-07-15
+gender: Male
+email: glenn.jeffries@wvsenate.gov
+image: http://www.wvlegislature.gov/images/members/2023/senate/jeffries_glenn.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '8'
+- start_date: 2016-12-01
+  end_date: 2022-12-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '8'
+offices:
+- classification: capitol
+  address: State Capitol Room 214W, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-357-7866
+links:
+- url: https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Jeffries
+- url: https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Jeffries
+other_names:
+- name: G. Jeffries
+- name: G.D. Jeffries
+- name: Jeffries
+- name: Jeffries, G
+- name: Jeffries, G.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000347
+sources:
+- url: https://ballotpedia.org/Glenn_Jeffries
+- url: https://en.wikipedia.org/wiki/Glenn_Jeffries
+- url: https://justfacts.votesmart.org/candidate/167265/glenn-jeffries
+- url: https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Jeffries
+- url: https://www.linkedin.com/in/glenn-jeffries-281bb4338
+- url: https://www.linkedin.com/in/glenn-jeffries-574086aa
+- url: https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Jeffries
+- url: https://www.wvlegislature.gov/Senate1/roster.cfm

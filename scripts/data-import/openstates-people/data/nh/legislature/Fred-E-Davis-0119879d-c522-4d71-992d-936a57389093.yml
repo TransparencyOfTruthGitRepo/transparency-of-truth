@@ -1,0 +1,50 @@
+id: ocd-person/0119879d-c522-4d71-992d-936a57389093
+name: Fred Davis
+given_name: Fred
+family_name: Davis
+birth_date: 1962-07-22
+gender: Male
+email: fred.davis@gc.nh.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Fred_Davis.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 3
+- start_date: 2018-12-05
+  end_date: 2020-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 3
+- end_date: 2020-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 31
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9109
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9109
+  note: member detail page
+other_names:
+- name: Davis, F.
+- name: F. Davis
+- name: F.E. Davis
+- name: Fred E. Davis
+sources:
+- url: https://ballotpedia.org/Fred_Davis_Jr.
+- url: https://en.wikipedia.org/wiki/Fred_Davis_Jr.
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9109
+- url: https://justfacts.votesmart.org/candidate/biography/185582/fred-davis
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408873
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9109
+extras:
+  county: Hillsborough
+  elected status: new
+  gender code: M

@@ -1,0 +1,29 @@
+id: ocd-person/4002361d-3211-4f02-b627-95d6e6a3f76c
+name: Justin Thurber
+given_name: Justin
+family_name: Thurber
+gender: Male
+email: justin.thurber@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/J_T2.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 5th Bristol
+offices:
+- classification: capitol
+  address: Room 443, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2460
+links:
+- url: https://malegislature.gov/Legislators/Profile/J_T2
+other_names:
+- name: J. Thurber
+- name: Thurber, J.
+sources:
+- url: https://ballotpedia.org/Justin_Thurber
+- url: https://justfacts.votesmart.org/candidate/biography/218957/justin-thurber
+- url: https://malegislature.gov/Legislators/Profile/J_T2
+extras:
+  member code: J_T2

@@ -1,0 +1,89 @@
+id: ocd-person/1ad151d2-5d26-5421-9b6f-a87d4a05396f
+name: Carol Miller
+given_name: Carol
+family_name: Miller
+birth_date: 1950-11-04
+gender: Female
+email: https://millerforms.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/M001205.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WV-1
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WV-1
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WV-3
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WV-3
+offices:
+- classification: capitol
+  address: 465 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-3452
+- classification: district
+  address: 2699 Park Ave. Suite 220, Huntington, WV 25704
+  voice: 304-522-2201
+  fax: 771-200-5704
+- classification: district
+  address: 3 Tennessee Ave., Charleston, WV 25302
+  voice: 681-945-6556
+  fax: 771-200-5704
+- classification: district
+  address: 3049 Robert C. Byrd Drive Suite 240, Beckley, WV 25801
+  voice: 304-250-6177
+  fax: 771-200-5704
+links:
+- url: https://miller.house.gov
+  note: website
+- url: https://miller.house.gov/
+other_names:
+- name: C. Miller
+- name: C.D. Miller
+- name: Carol D. Miller
+- name: Miller, C.
+ids:
+  twitter: RepCarolMiller
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Carol Miller (West Virginia)
+- scheme: bioguide
+  identifier: M001205
+- scheme: fec
+  identifier: H8WV03097
+- scheme: google_entity_id
+  identifier: kg:/m/0102fnyn
+- scheme: govtrack
+  identifier: '412837'
+- scheme: icpsr
+  identifier: '21946'
+- scheme: opensecrets
+  identifier: N00041542
+- scheme: pictorial
+  identifier: '13330'
+- scheme: votesmart
+  identifier: '52123'
+- scheme: wikidata
+  identifier: Q16145531
+- scheme: wikipedia
+  identifier: Carol Miller (politician)
+sources:
+- url: https://ballotpedia.org/Carol_Miller_(West_Virginia)
+- url: https://en.wikipedia.org/wiki/Carol_Miller_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/52123/carol-miller
+- url: https://miller.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/carol_miller/412837

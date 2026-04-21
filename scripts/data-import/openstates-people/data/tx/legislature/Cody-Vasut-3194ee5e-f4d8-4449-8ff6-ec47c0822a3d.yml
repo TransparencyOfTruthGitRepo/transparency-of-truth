@@ -1,0 +1,38 @@
+id: ocd-person/3194ee5e-f4d8-4449-8ff6-ec47c0822a3d
+name: Cody Vasut
+given_name: Cody
+family_name: Vasut
+birth_date: 1987-08-13
+gender: Male
+email: cody.vasut@house.texas.gov
+image: https://house.texas.gov/images/members/4065.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '25'
+offices:
+- classification: capitol
+  address: Room E1.314, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0564
+- classification: district
+  address: 222 N. Velasco St. Suite 25, Angleton, TX 77515
+  voice: 979-848-1770
+links:
+- url: https://house.texas.gov/members/4065
+- url: https://house.texas.gov/members/member-page/?district=25
+other_names:
+- name: C. Vasut
+- name: C.T. Vasut
+- name: Vasut, C.
+- name: Vasut, Cody
+sources:
+- url: https://ballotpedia.org/Cody_Vasut
+- url: https://en.wikipedia.org/wiki/Cody_Vasut
+- url: https://house.texas.gov/members/4065
+- url: https://house.texas.gov/members/4065/biography
+- url: https://house.texas.gov/members/member-page/?district=25
+- url: https://justfacts.votesmart.org/candidate/biography/188376/cody-vasut
+- url: https://www.linkedin.com/in/cvasut

@@ -1,0 +1,49 @@
+id: ocd-organization/8c0c6da5-98bc-4d4d-be9d-c68054d81817
+jurisdiction: ocd-jurisdiction/country:us/state:az/government
+classification: committee
+name: Rules
+chamber: lower
+sources:
+- url: https://apps.azleg.gov/api/Committee/?sessionId=123&includeMembers=true
+- url: https://apps.azleg.gov/api/Committee/?sessionId=127&includeMembers=true
+- url: https://apps.azleg.gov/api/Committee/?sessionId=128&includeMembers=true
+  note: API with all committee details
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverview?CommId=2179&Sessionid=129
+links:
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=1890&sessionId=123
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverview?CommId=2179&Sessionid=129
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView?SessionID=128
+  note: homepage
+members:
+- name: Laurin Hendrix
+  role: chair
+  person_id: ocd-person/45d0b998-57ed-4c6f-ae22-bdbc4262f3e3
+- name: Neal Carter
+  role: vice chair
+  person_id: ocd-person/17f344ec-ffe3-46fe-ba7a-8efdc5fbf2fd
+- name: Chris Mathis
+  role: member
+  person_id: ocd-person/b2ed48a3-b9ae-42be-a2c8-22a47477acfd
+- name: Julie Willoughby
+  role: member
+  person_id: ocd-person/d19ab410-5bc3-4160-b279-765e25d959ab
+- name: Lupe Contreras
+  role: member
+  person_id: ocd-person/095a6754-d7ca-4f1f-b562-974d92e7eb3c
+- name: Michael Carbone
+  role: member
+  person_id: ocd-person/8db06598-a7e1-4b25-9e76-6a2be0d9eae3
+- name: Oscar De Los Santos
+  role: member
+  person_id: ocd-person/a4fabea6-f50e-4fe9-8696-8b4505a481e8
+- name: Steve Montenegro
+  role: member
+  person_id: ocd-person/37f8815d-1672-42dd-9e9b-305449d7bb8b
+other_names:
+- name: House Committee on Rules
+- name: House Rules
+- name: House Rules Committee
+extras:
+  Committee ID: 2015
+  Committee Short Name: RULES
+  Committee Type: Standing

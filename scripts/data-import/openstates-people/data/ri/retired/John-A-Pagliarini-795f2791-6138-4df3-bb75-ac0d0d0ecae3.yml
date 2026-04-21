@@ -1,0 +1,21 @@
+id: ocd-person/795f2791-6138-4df3-bb75-ac0d0d0ecae3
+name: John A Pagliarini
+given_name: John A
+family_name: Pagliarini
+party:
+- name: Republican
+roles:
+- start_date: '2016-01-01'
+  end_date: '2017-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '11'
+links:
+- url: http://www.rilin.state.ri.us/senators/pagliarini
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000162
+sources:
+- url: http://www.rilin.state.ri.us/senators/default.aspx
+- url: http://webserver.rilin.state.ri.us/Email/SenEmailListDistrict.asp
+- url: http://www.rilin.state.ri.us/senators/pagliarini

@@ -1,0 +1,21 @@
+id: ocd-person/1075da8f-2978-4d8c-8530-0e13548636f2
+name: Daniel P. Reilly
+given_name: Daniel P.
+family_name: Reilly
+party:
+- name: Republican
+roles:
+- start_date: '2015-01-01'
+  end_date: '2017-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '72'
+links:
+- url: http://www.rilin.state.ri.us/representatives/reilly
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000144
+sources:
+- url: http://www.rilin.state.ri.us/representatives/default.aspx
+- url: http://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: http://www.rilin.state.ri.us/representatives/reilly

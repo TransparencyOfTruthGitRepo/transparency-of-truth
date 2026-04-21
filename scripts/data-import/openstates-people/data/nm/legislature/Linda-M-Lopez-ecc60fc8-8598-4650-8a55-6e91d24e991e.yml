@@ -1,0 +1,55 @@
+id: ocd-person/ecc60fc8-8598-4650-8a55-6e91d24e991e
+name: "Linda L\xF3pez"
+given_name: Linda
+family_name: "L\xF3pez"
+birth_date: 1964-03-13
+gender: Female
+email: linda.lopez@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SLOPE.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1997-01-21
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '11'
+offices:
+- classification: capitol
+  address: State Capitol Room 300A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4482
+links:
+- url: https://www.linkedin.com/in/linda-lopez-018b9111/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SLOPE
+  note: homepage
+other_names:
+- name: "L. L\xF3pez"
+- name: "L.M. L\xF3pez"
+- name: Linda M. Lopez
+- name: "Linda M. L\xF3pez"
+- name: Lopez, Linda M.
+- name: "L\xF3pez, L."
+- name: "L\xF3pez, Linda"
+- name: "L\xF3pez, Linda M."
+ids:
+  twitter: lopez4gov
+  facebook: linda.m.lopez.39
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000011
+- scheme: legacy_openstates
+  identifier: NML000180
+- scheme: legacy_openstates
+  identifier: NML000369
+sources:
+- url: https://ballotpedia.org/Linda_Lopez,_New_Mexico_Senator
+- url: https://en.wikipedia.org/wiki/Linda_M._Lopez
+- url: https://justfacts.votesmart.org/candidate/biography/10302/linda-lopez
+- url: https://www.linkedin.com/in/linda-lopez-018b9111
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SLOPE
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: Bernalillo
+  service: Senator since 1997
+  occupation: Consultant

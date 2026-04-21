@@ -1,0 +1,49 @@
+id: ocd-person/64873656-b474-406d-a93a-e46fa281bc19
+name: Ben Carpenter
+given_name: Ben
+family_name: Carpenter
+gender: Male
+email: representative.ben.carpenter@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/CAE.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-17
+  end_date: 2025-01-20
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '8'
+- end_date: 2023-01-16
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '29'
+offices: []
+links:
+- url: https://www.akleg.gov/basis/Member/Detail/31?code=cae
+- url: https://www.akleg.gov/basis/Member/Detail/32?code=cae
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=CAE
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=cae
+- url: https://akhousemajority.com/rep-carpenter/
+other_names:
+- name: B. Carpenter
+- name: B.E. Carpenter
+- name: Ben E. Carpenter
+- name: Benjamin Carpenter
+- name: Carpenter, B.
+sources:
+- url: https://w3.akleg.gov/
+- url: https://w3.akleg.gov/
+- url: https://w3.akleg.gov
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=CAE
+- url: https://akhousemajority.com/rep-carpenter
+- url: https://ballotpedia.org/Ben_Carpenter
+- url: https://en.wikipedia.org/wiki/Ben_Carpenter
+- url: https://justfacts.votesmart.org/candidate/biography/184195/benjamin-carpenter
+- url: https://w3.akleg.gov
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=cae
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=CAE
+- url: https://www.linkedin.com/in/alaskanleaders
+extras:
+  toll_free_phone: 800-469-3779

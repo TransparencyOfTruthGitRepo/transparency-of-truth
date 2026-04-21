@@ -1,0 +1,24 @@
+id: ocd-person/61356b03-fa89-409d-81d3-d976dce0303a
+name: Tom Nelson
+given_name: Tom
+family_name: Nelson
+middle_name: R
+image: http://legis.state.sd.us/sessions/2010/Nelson.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '31'
+links:
+- url: http://legis.state.sd.us/sessions/2011/MemberDetail.aspx?Member=112
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000026
+- scheme: legacy_openstates
+  identifier: SDL000151
+sources:
+- url: http://legis.state.sd.us/sessions/2011/MemberDetail.aspx?Member=112
+- url: http://legis.state.sd.us/sessions/2011/MemberCommittees.aspx?Member=112

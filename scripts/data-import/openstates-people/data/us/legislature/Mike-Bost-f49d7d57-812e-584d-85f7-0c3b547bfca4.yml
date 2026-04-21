@@ -1,0 +1,106 @@
+id: ocd-person/f49d7d57-812e-584d-85f7-0c3b547bfca4
+name: Mike Bost
+given_name: Mike
+family_name: Bost
+birth_date: 1960-12-30
+gender: Male
+email: https://bost.house.gov/email
+image: https://unitedstates.github.io/images/congress/450x550/B001295.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-06
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-12
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-12
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-12
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-12
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-12
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-12
+offices:
+- classification: capitol
+  address: 352 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-5661
+  fax: 618-448-4233
+- classification: district
+  address: 101 N. 4th St. Suite 302, Effingham, IL 62401
+  voice: 217-240-3170
+  fax: 618-448-4233
+- classification: district
+  address: 1109 Chestnut St. Suite 4, Murphysboro, IL 62966
+  voice: 618-457-5787
+  fax: 618-448-4233
+- classification: district
+  address: 205 E. Harnett St., Mascoutah, IL 62258
+  voice: 618-622-0766
+  fax: 618-448-4233
+links:
+- url: https://bost.house.gov
+  note: website
+- url: https://bost.house.gov/
+other_names:
+- name: Bost, M.
+- name: M. Bost
+- name: M.J. Bost
+ids:
+  twitter: RepBost
+  youtube: UCYA1psY06vSf3QadHuCrmjQ
+  facebook: RepBost
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Mike Bost
+- scheme: bioguide
+  identifier: B001295
+- scheme: cspan
+  identifier: '76176'
+- scheme: fec
+  identifier: H4IL12060
+- scheme: google_entity_id
+  identifier: kg:/m/0kry42
+- scheme: govtrack
+  identifier: '412629'
+- scheme: icpsr
+  identifier: '21519'
+- scheme: maplight
+  identifier: '2085'
+- scheme: opensecrets
+  identifier: N00035420
+- scheme: pictorial
+  identifier: '13044'
+- scheme: thomas
+  identifier: '02243'
+- scheme: votesmart
+  identifier: '6302'
+- scheme: wikidata
+  identifier: Q6846090
+sources:
+- url: https://ballotpedia.org/Mike_Bost
+- url: https://bost.house.gov
+- url: https://bostforcongress.com/?page_id=77
+- url: https://en.wikipedia.org/wiki/Mike_Bost
+- url: https://justfacts.votesmart.org/candidate/biography/6302/mike-bost
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/mike_bost/412629

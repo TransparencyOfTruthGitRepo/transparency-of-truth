@@ -1,0 +1,43 @@
+id: ocd-person/b23dd64e-a05c-4fe1-8562-c29436ca79bb
+name: Bud Williams
+given_name: Bud
+family_name: Williams
+gender: Male
+email: bud.williams@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/BLW1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 11th Hampden
+offices:
+- classification: capitol
+  address: Room 236, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2430
+- classification: district
+  address: MA
+  voice: 413-316-4743
+links:
+- url: https://malegislature.gov/Legislators/Profile/BLW1
+other_names:
+- name: B. Williams
+- name: B.L. Williams
+- name: Bud L. Williams
+- name: Williams, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000461
+sources:
+- url: https://ballotpedia.org/Bud_L._Williams
+- url: https://en.wikipedia.org/wiki/Bud_Williams
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/BLW1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/BLW1
+- url: https://malegislature.gov/Legislators/Profile/BLW1
+extras:
+  member code: BLW1

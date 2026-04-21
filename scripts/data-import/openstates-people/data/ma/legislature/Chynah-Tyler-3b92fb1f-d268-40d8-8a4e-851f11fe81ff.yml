@@ -1,0 +1,40 @@
+id: ocd-person/3b92fb1f-d268-40d8-8a4e-851f11fe81ff
+name: Chynah Tyler
+given_name: Chynah
+family_name: Tyler
+gender: Female
+email: chynah.tyler@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/C_T1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 7th Suffolk
+offices:
+- classification: capitol
+  address: Room 33, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2060
+links:
+- url: https://malegislature.gov/Legislators/Profile/C_T1
+other_names:
+- name: C. Tyler
+- name: Tyler, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000544
+sources:
+- url: https://ballotpedia.org/Chynah_Tyler
+- url: https://en.wikipedia.org/wiki/Chynah_Tyler
+- url: https://justfacts.votesmart.org/candidate/biography/172224/chynah-tyler
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/C_T1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/C_T1
+- url: https://malegislature.gov/Legislators/Profile/C_T1
+- url: https://www.linkedin.com/in/chynah-tyler-6104ab4b
+extras:
+  member code: C_T1

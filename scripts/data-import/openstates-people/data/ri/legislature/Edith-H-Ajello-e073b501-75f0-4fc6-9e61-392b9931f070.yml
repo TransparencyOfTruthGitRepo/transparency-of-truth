@@ -1,0 +1,59 @@
+id: ocd-person/e073b501-75f0-4fc6-9e61-392b9931f070
+name: Edith Ajello
+given_name: Edith
+family_name: Ajello
+birth_date: 1944-04-26
+gender: Female
+email: rep-ajello@rilegislature.gov
+image: http://www.rilegislature.gov/representatives/Pictures/ajello.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '1'
+- start_date: 1993-01-05
+  end_date: 2012-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '1'
+offices:
+- classification: capitol
+  address: 82 Smith St., Providence, RI 02903
+  voice: 401-222-3580
+- classification: district
+  address: 29 Benefit St., Providence, RI 02904
+  voice: 401-222-2296
+links:
+- url: https://www.rilegislature.gov/representatives/ajello/default.aspx
+- url: https://www.rilegislature.gov/representatives/ajello/Pages/Biography.aspx
+- url: https://www.rilegislature.gov/representatives/carson/default.aspx
+- url: https://www.rilin.state.ri.us/representatives/carson/
+other_names:
+- name: Ajello, E.
+- name: E. Ajello
+- name: E.H. Ajello
+- name: Edith Ajello
+- name: Edith H. Ajello
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000041
+- scheme: legacy_openstates
+  identifier: RIL000122
+sources:
+- url: https://ballotpedia.org/Edith_Ajello
+- url: https://edithajello.com/biography
+- url: https://en.wikipedia.org/wiki/Edith_Ajello
+- url: https://justfacts.votesmart.org/candidate/biography/7330/edith-ajello
+- url: https://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: https://www.rilegislature.gov/representatives/ajello/default.aspx
+- url: https://www.rilegislature.gov/representatives/Ajello/Pages/Biography.aspx
+- url: https://www.rilegislature.gov/representatives/ajello/Pages/Biography.aspx
+  note: Image Source
+- url: https://www.rilegislature.gov/SiteAssets/MailingLists/Representatives.xls
+- url: https://www.rilegislature.gov/SiteAssets/Representatives.xls
+  note: Detail Excel Source
+- url: https://www.rilin.state.ri.us/representatives/ajello
+extras:
+  City/Town Represented: Providence

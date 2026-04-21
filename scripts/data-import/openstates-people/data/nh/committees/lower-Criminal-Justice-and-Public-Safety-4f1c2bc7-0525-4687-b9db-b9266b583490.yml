@@ -1,0 +1,61 @@
+id: ocd-organization/4f1c2bc7-0525-4687-b9db-b9266b583490
+jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+classification: committee
+name: Criminal Justice and Public Safety
+chamber: lower
+sources:
+- url: https://gc.nh.gov/house/committees/committeedetails.aspx?id=17
+- url: https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=17
+  note: Committee details page
+- url: https://www.gencourt.state.nh.us/house/committees/standingcommittees.aspx
+  note: Committees list page
+links:
+- url: https://gc.nh.gov/house/committees/committeedetails.aspx?id=17
+- url: https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=17
+members:
+- name: Terry Roy
+  role: chair
+  person_id: ocd-person/6d43b165-fda9-4918-a2b7-ad66940062a0
+- name: Jennifer Rhodes
+  role: vice chair
+  person_id: ocd-person/50eaea14-c7e4-4aac-890e-bda69eb86978
+- name: Alissandra Murray
+  role: clerk
+  person_id: ocd-person/f809a410-5a03-4ebc-a0ab-32507705c479
+- name: Buzz Scherr
+  role: member
+  person_id: ocd-person/214295d3-da3e-45cb-89bc-80de2be1a071
+- name: David Meuse
+  role: member
+  person_id: ocd-person/4b449f0f-2024-4e18-bbbd-7f0bbcfa8cac
+- name: Kathi Paquette
+  role: member
+  person_id: ocd-person/dca02694-20ad-476e-8b56-2ff59d3d8ba6
+- name: Linda Harriott-Gathright
+  role: member
+  person_id: ocd-person/1e2b57f6-dbb9-4069-a71b-d40828c80cfa
+- name: Mark Proulx
+  role: member
+  person_id: ocd-person/b50abef6-0b19-4d5c-97c9-f757f3b571ad
+- name: "Matt Sabourin dit Choini\xE8re"
+  role: member
+  person_id: ocd-person/5709592a-7c88-41e3-8295-7c05146327e2
+- name: Nancy Murphy
+  role: member
+  person_id: ocd-person/0ac05fa7-143f-4ae9-8ac8-99de42d21779
+- name: Pete Morency
+  role: member
+  person_id: ocd-person/622ea33c-23b7-4074-9ed6-75d2086677e8
+- name: Ray Newman
+  role: member
+  person_id: ocd-person/f68b34d8-19af-449e-a4cc-3d2729bb9e23
+- name: Rich Lascelles
+  role: member
+  person_id: ocd-person/c11f9fad-128e-455e-896e-2e880b6cc29e
+- name: Rick Devoid
+  role: member
+  person_id: ocd-person/3ce1bede-22ef-4c98-b958-1bca45624608
+other_names:
+- name: House Committee on Criminal Justice and Public Safety
+- name: House Criminal Justice and Public Safety
+- name: House Criminal Justice and Public Safety Committee

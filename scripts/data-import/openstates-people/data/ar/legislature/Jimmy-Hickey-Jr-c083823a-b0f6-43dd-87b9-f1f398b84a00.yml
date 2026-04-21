@@ -1,0 +1,58 @@
+id: ocd-person/c083823a-b0f6-43dd-87b9-f1f398b84a00
+name: Jimmy Hickey
+given_name: Jimmy
+family_name: Hickey
+birth_date: 1966-11-05
+gender: Male
+email: jimmy.hickey@senate.ar.gov
+image: https://www.arkleg.state.ar.us/Content/photos/2023/Senate/409_sm.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '4'
+- start_date: 2013-01-14
+  end_date: 2023-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '4'
+offices:
+- classification: capitol
+  address: State Capitol Building 500 Woodlane St., Suite 320, Little Rock, AR 72201
+  voice: 501-682-2902
+- classification: district
+  address: 8228 Dooley Ferry Road, Texarkana, AR 71854
+  voice: 903-824-8861
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Hickey
+- url: https://senate.arkansas.gov/senators/409
+- url: https://senate.arkansas.gov/senators/jimmy-hickey-jr/
+- url: https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FAssembly%2F2023%2FMember%20Profiles%2FSenator+Hickey+-+Senator+Bio.pdf
+  note: Biography
+- url: https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FAssembly%2F2023%2FMember%20Profiles%2FSenator+Hickey+-+Senator+Bio.pdf
+  note: Biography
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Hickey
+other_names:
+- name: Hickey
+- name: Hickey, J.
+- name: J. Hickey
+- name: Jimmy Hickey, Jr
+- name: M.J. Hickey
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Hickey
+- url: https://ballotpedia.org/Jimmy_Hickey
+- url: https://en.wikipedia.org/wiki/Jimmy_Hickey_Jr.
+- url: https://senate.arkansas.gov/senators/409
+- url: https://senate.arkansas.gov/senators/jimmy-hickey-jr
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Hickey
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Hickey&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+extras:
+  seniority: '8'
+  occupation: Construction and Rental; Oak Creek Investment Properties, Inc. and GBU
+    Operations, Inc.
+  church affiliation: Baptist
+  veteran: 'No'
+  public service: Texarkana School Board,  Senate 2013,  2015,  2017,  2019,  2021

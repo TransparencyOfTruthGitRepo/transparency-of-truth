@@ -1,0 +1,43 @@
+id: ocd-person/66e7c819-cd52-4034-bace-bfec476c106d
+name: Brian Murray
+given_name: Brian
+family_name: Murray
+gender: Male
+email: brian.murray@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/BWM1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 10th Worcester
+offices:
+- classification: capitol
+  address: Room 238, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2380
+- classification: district
+  address: MA
+  voice: 508-473-1740
+links:
+- url: https://malegislature.gov/Legislators/Profile/BWM1
+other_names:
+- name: B. Murray
+- name: B.W. Murray
+- name: Brian W. Murray
+- name: Murray, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000545
+sources:
+- url: https://ballotpedia.org/Brian_W._Murray
+- url: https://en.wikipedia.org/wiki/Brian_Murray_(politician)
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/BWM1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/BWM1
+- url: https://malegislature.gov/Legislators/Profile/BWM1
+extras:
+  member code: BWM1

@@ -1,0 +1,51 @@
+id: ocd-person/a24e242f-3fd9-479c-8423-cf0c6e2c6273
+name: Robby Carter
+given_name: Robby
+family_name: Carter
+birth_date: 1960-10-20
+gender: Male
+email: carterr@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep72.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2016-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '72'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 23 S. Main St. Suite A, Greensburg, LA 70441
+  voice: 225-222-4194
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=72
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=72
+other_names:
+- name: Carter, R.
+- name: R. Carter
+- name: R.J. Carter
+- name: Robert Carter
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000823
+- scheme: legacy_openstates
+  identifier: LAL000942
+sources:
+- url: https://ballotpedia.org/Robby_Carter
+- url: https://en.wikipedia.org/wiki/Robby_Carter
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=72
+- url: https://house.louisiana.gov/H_Reps/members?ID=72
+- url: https://justfacts.votesmart.org/candidate/biography/15195/robby-carter
+extras:
+  legislative assistant: Lakitha McGhee and Joey Guzzardo
+  representing parishes:
+  - East Feliciana
+  - St. Helena
+  - and Tangipahoa
+  education: Southeastern Louisiana University, B.A.; Louisiana State University,
+    J.D.

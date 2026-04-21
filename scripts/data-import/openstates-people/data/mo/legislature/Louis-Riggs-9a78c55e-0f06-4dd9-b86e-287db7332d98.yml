@@ -1,0 +1,42 @@
+id: ocd-person/9a78c55e-0f06-4dd9-b86e-287db7332d98
+name: Louis Riggs
+given_name: Louis
+family_name: Riggs
+gender: Male
+email: louis.riggs@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2094
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '5'
+offices:
+- classification: capitol
+  address: Room 313-2, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-3613
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=005
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=005
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=005
+- url: https://house.mo.gov/MemberDetails.aspx?year=2024&code=R&district=005
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=5
+other_names:
+- name: L. Riggs
+- name: L.W. Riggs
+- name: Riggs, L.
+- name: Riggs, Louis
+sources:
+- url: https://ballotpedia.org/Louis_Riggs
+- url: https://house.mo.gov/MemberDetails.aspx?district=005
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=005
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=005
+- url: https://house.mo.gov/MemberDetails.aspx?year=2024&code=R&district=005
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://justfacts.votesmart.org/candidate/biography/39898/louis-riggs
+- url: https://louisriggs.com
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=5
+- url: https://www.linkedin.com/in/louis-riggs-9840686
+extras:
+  hometown: Hannibal

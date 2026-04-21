@@ -1,0 +1,34 @@
+id: ocd-person/d8da71a7-c99b-4510-8abc-2d8e78db3fff
+name: Fue Lee
+given_name: Fue
+family_name: Lee
+birth_date: 1991-08-26
+gender: Male
+email: rep.fue.lee@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/59A.gif?v=112221
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 59A
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-4262
+links:
+- url: https://www.house.mn.gov/members/profile/15468
+other_names:
+- name: F. Lee
+- name: Lee, F.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000754
+sources:
+- url: https://ballotpedia.org/Fue_Lee
+- url: https://en.wikipedia.org/wiki/Fue_Lee
+- url: https://justfacts.votesmart.org/candidate/biography/171626/fue-lee
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15468
+- url: https://www.linkedin.com/in/fue-lee-69982853

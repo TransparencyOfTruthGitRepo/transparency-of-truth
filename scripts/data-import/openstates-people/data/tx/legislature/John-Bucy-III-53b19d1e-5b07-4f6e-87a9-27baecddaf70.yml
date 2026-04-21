@@ -1,0 +1,35 @@
+id: ocd-person/53b19d1e-5b07-4f6e-87a9-27baecddaf70
+name: John Bucy
+given_name: John
+family_name: Bucy
+birth_date: 1984-06-26
+gender: Male
+email: john.bucy@house.texas.gov
+image: https://house.texas.gov/images/members/3595.jpg?v=5
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '136'
+offices:
+- classification: capitol
+  address: Room GN.9, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0696
+links:
+- url: https://house.texas.gov/members/136
+- url: https://house.texas.gov/members/member-page/?district=136
+other_names:
+- name: Bucy, J.
+- name: Bucy, John
+- name: J. Bucy
+- name: J.H. Bucy
+- name: John Bucy III
+- name: John H. Bucy III
+sources:
+- url: https://ballotpedia.org/John_Bucy_III
+- url: https://en.wikipedia.org/wiki/John_Bucy_III
+- url: https://house.texas.gov/members/136
+- url: https://house.texas.gov/members/member-page/?district=136
+- url: https://justfacts.votesmart.org/candidate/biography/147243/john-bucy-iii

@@ -1,0 +1,44 @@
+id: ocd-person/1ea6937d-a39e-41e2-92fb-47c2966cd52e
+name: John Lawn
+given_name: John
+family_name: Lawn
+gender: Male
+email: john.lawn@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/JJL2.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2011-05-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 10th Middlesex
+offices:
+- classification: capitol
+  address: Room 236, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2430
+  fax: 617-626-0150
+links:
+- url: https://malegislature.gov/Legislators/Profile/JJL2
+other_names:
+- name: J. Lawn
+- name: J.J. Lawn
+- name: John J. Lawn
+- name: John J. Lawn, Jr.
+- name: Lawn, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000403
+sources:
+- url: https://ballotpedia.org/John_Lawn
+- url: https://en.wikipedia.org/wiki/John_J._Lawn
+- url: https://justfacts.votesmart.org/candidate/biography/78646/john-lawn-jr
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/JJL2
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/JJL2
+- url: https://malegislature.gov/Legislators/Profile/JJL2
+- url: https://www.linkedin.com/in/john-lawn-7951869
+extras:
+  member code: JJL2

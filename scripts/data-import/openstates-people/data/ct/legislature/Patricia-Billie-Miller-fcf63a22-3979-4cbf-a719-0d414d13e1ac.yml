@@ -1,0 +1,55 @@
+id: ocd-person/fcf63a22-3979-4cbf-a719-0d414d13e1ac
+name: Pat Miller
+given_name: Pat
+family_name: Miller
+gender: Female
+email: patricia.miller@cga.ct.gov
+image: http://www.senatedems.ct.gov/templates/miller/images/miller-hi.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-03-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '27'
+- end_date: 2021-03-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '27'
+  start_date: 2021-03-08
+- end_date: 2021-03-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '145'
+offices:
+- classification: capitol
+  address: Room 2402, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-0589
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S27%27&dist_name=Miller,%20Patricia%20Billie
+- url: https://www.senatedems.ct.gov/miller
+- url: https://www.senatedems.ct.gov/Miller
+- url: https://www.senatedems.ct.gov/senator/patricia-billie-miller
+other_names:
+- name: Miller, P.
+- name: Miller, Patricia Billie
+- name: P. Miller
+- name: P.B. Miller
+- name: Patricia Billie Miller
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000181
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Patricia_Miller_(Connecticut)
+- url: https://en.wikipedia.org/wiki/Patricia_Billie_Miller
+- url: https://www.senatedems.ct.gov/Miller
+- url: https://www.senatedems.ct.gov/senator/patricia-billie-miller
+- url: https://www.senatedems.ct.gov/senator/patricia-billie-miller/bio
+extras:
+  gender: Female
+  title: Deputy President Pro Tempore
+  committees: Banking (Chair); Aging (Vice Chair); Finance, Revenue and Bonding (Vice
+    Chair); Commerce; Education; Judiciary
+  committee codes: ;AGE;BA;CE;ED;FIN;JUD;
+  prison: '0'

@@ -1,0 +1,47 @@
+id: ocd-person/1a75f967-8f35-40aa-8b0a-990a135e70cb
+name: Jay Adams
+given_name: Jay
+family_name: Adams
+gender: Male
+email: jay.adams@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/697/Low
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '96'
+offices:
+- classification: capitol
+  address: Room 2207, North Carolina Legislative Building 16 W. Jones St., Raleigh,
+    NC 27601
+  voice: 919-733-5988
+- classification: district-mail
+  address: P.O. Box 217, Hickory, NC 28603
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/697
+- url: https://www.ncleg.gov/Members/Committees/H/697
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/697
+- url: https://www.ncleg.gov/Members/Votes/H/697
+other_names:
+- name: Adams, J.
+- name: J. Adams
+- name: J.C. Adams
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000338
+sources:
+- url: https://ballotpedia.org/Jay_Adams
+- url: https://en.wikipedia.org/wiki/Jay_Adams_(politician)
+- url: https://justfacts.votesmart.org/candidate/150322/jay-adams-jr
+- url: https://www.linkedin.com/in/jay-adams-541b6718
+- url: https://www.ncleg.gov/Members/Biography/H/697
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 16 West Jones Street, Rm. 2207; Raleigh, NC 27601-1096
+  terms in senate: 5 (0 in Senate)
+  represented counties: Catawba
+  legislative assistant: Susan Phillips
+  legislative assistant email: Susan.Phillips@ncleg.gov
+  occupation: Commercial Real Estate Broker

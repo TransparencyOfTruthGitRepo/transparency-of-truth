@@ -1,0 +1,36 @@
+id: ocd-person/4eb57c5a-70c0-4b16-a247-53cf291bc38a
+name: Carl Jackson
+given_name: Carl
+family_name: Jackson
+birth_date: 1984-10-27
+gender: Male
+email: carl.jackson@senate.maryland.gov
+image: https://mgaleg.maryland.gov/2025RS/images/jackson04.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-02-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room 102, James Senate Office Building 11 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3620
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/jackson02
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/jackson04
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa18235.html
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18235.html
+other_names:
+- name: C. Jackson
+- name: C.W. Jackson
+- name: Jackson, C.
+sources:
+- url: https://ballotpedia.org/Carl_Jackson_(Maryland)
+- url: https://en.wikipedia.org/wiki/Carl_W._Jackson
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/jackson02
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/jackson04
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa18235.html
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18235.html
+- url: https://www.linkedin.com/in/carl-jackson-6a4a0b163

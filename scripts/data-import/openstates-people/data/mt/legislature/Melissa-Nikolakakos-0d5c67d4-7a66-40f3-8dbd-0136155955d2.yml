@@ -1,0 +1,34 @@
+id: ocd-person/0d5c67d4-7a66-40f3-8dbd-0136155955d2
+name: Melissa Nikolakakos
+given_name: Melissa
+family_name: Nikolakakos
+gender: Female
+email: melissa.nikolakakos@legmt.gov
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Capitol Building, 1301 E. 6th Ave. P.O. Box 200400, Helena, MT 59620
+  voice: 406-444-4800
+- classification: district
+  address: '5112 4th Ave. North, #9, Great Falls, MT 59405'
+  voice: 406-223-2380
+links:
+- url: https://legislators.legmt.gov/#/legislator/180
+- url: https://www.legmt.gov/legislators/1413/
+other_names:
+- name: M. Nikolakakos
+- name: M.L. Nikolakakos
+- name: Nikolakakos, M.
+- name: Nikolakakos, Melissa
+sources:
+- url: https://ballotpedia.org/Melissa_Nikolakakos
+- url: https://en.wikipedia.org/wiki/Melissa_Nikolakakos
+- url: https://justfacts.votesmart.org/candidate/biography/215664/melissa-nikolakakos
+- url: https://legislators.legmt.gov/#/legislator/180
+- url: https://www.legmt.gov/legislators/1413

@@ -1,0 +1,77 @@
+id: ocd-organization/3df7c7ff-0440-4941-9c3f-5b90d149508c
+jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+classification: committee
+name: State Affairs
+chamber: lower
+sources:
+- url: https://capitol.texas.gov/Committees/CommitteesMbrs.aspx?Chamber=H
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C450
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C450
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C450
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C450
+- url: https://house.texas.gov/committees/committee/450
+- url: https://house.texas.gov/committees/committee/?committee=C450
+links:
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C450
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C450
+  note: homepage
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C450
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C450
+- url: https://house.texas.gov/committees/committee/450
+- url: https://house.texas.gov/committees/committee/?committee=C450
+members:
+- name: Ken King
+  role: chair
+  person_id: ocd-person/d9f32e07-7835-4edf-b986-7a2cf16d608b
+- name: Ana Hernandez
+  role: vice chair
+  person_id: ocd-person/4f98520b-d88b-4053-acc5-3cb2fff14660
+- name: Charlie Geren
+  role: member
+  person_id: ocd-person/65a42043-6243-4f79-b1e0-69b3b8b4af29
+- name: Chris Turner
+  role: member
+  person_id: ocd-person/a5e2021c-8221-41ba-b45c-cc89d13b2af2
+- name: Dade Phelan
+  role: member
+  person_id: ocd-person/7952d7d7-0fe5-4712-9967-6cb9bcedff05
+- name: Drew Darby
+  role: member
+  person_id: ocd-person/40f0e868-e021-4453-8675-a9d2357e41e1
+- name: John McQueeney
+  role: member
+  person_id: ocd-person/f926d7a8-7ec7-4020-9e18-5a475565fd41
+- name: John Smithee
+  role: member
+  person_id: ocd-person/3cac81cd-62ca-41d6-aa4a-8e4156244dec
+- name: Lacey Hull
+  role: member
+  person_id: ocd-person/2609ba13-abf1-40b5-9f4c-a4c1135e56e2
+- name: "Rafael Anch\xEDa"
+  role: member
+  person_id: ocd-person/f72eb41b-2ff9-434f-96cf-75b9724289ab
+- name: Richard Raymond
+  role: member
+  person_id: ocd-person/d4a94a68-02a7-44c0-901f-9cd57350229a
+- name: Ryan Guillen
+  role: member
+  person_id: ocd-person/f0ede995-2253-4f7b-a922-6da34e4de194
+- name: Senfronia Thompson
+  role: member
+  person_id: ocd-person/ace50d18-fc98-4460-9d90-928c0e88c79a
+- name: Will Metcalf
+  role: member
+  person_id: ocd-person/e7a379ec-9de2-48a2-918b-5ba58e1fd3f3
+- name: Yvonne Davis
+  role: member
+  person_id: ocd-person/3f38bf62-86ba-4833-9737-2e084ae6255d
+other_names:
+- name: House Committee on State Affairs
+- name: House State Affairs
+- name: House State Affairs Committee
+extras:
+  clerk: Ginny Holloway
+  legislature: 88(R) - 2023
+  phone: (512) 463-0814
+  appointment date: 2/8/2023
+  room: EXT E2.108

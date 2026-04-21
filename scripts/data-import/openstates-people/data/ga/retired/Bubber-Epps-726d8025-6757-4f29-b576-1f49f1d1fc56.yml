@@ -1,0 +1,24 @@
+id: ocd-person/726d8025-6757-4f29-b576-1f49f1d1fc56
+name: Bubber Epps
+given_name: Bubber
+family_name: Epps
+image: http://www.house.ga.gov/SiteCollectionImages/EppsJames733.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '144'
+links:
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=733&Session=25
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000106
+- scheme: legacy_openstates
+  identifier: GAL000279
+sources:
+- url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=733&Session=25
+extras:
+  guid: 733

@@ -1,0 +1,35 @@
+id: ocd-person/52af68c5-c141-4e35-912b-11d71b83af33
+name: Shelly Davis
+given_name: Shelly
+family_name: Davis
+birth_date: 1980-01-08
+gender: Female
+email: rep.shellyboshartdavis@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/boshartdavis/PublishingImages/member_photo.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '15'
+offices:
+- classification: capitol
+  address: Room H-389, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1415
+links:
+- url: https://www.oregonlegislature.gov/boshartdavis
+  note: homepage
+other_names:
+- name: Davis, S.
+- name: S. Davis
+- name: S.B. Davis
+- name: Shelly Boshart Davis
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Shelly_Boshart_Davis
+- url: https://en.wikipedia.org/wiki/Shelly_Boshart_Davis
+- url: https://justfacts.votesmart.org/candidate/biography/179882/shelly-boshart-davis
+- url: https://www.linkedin.com/in/shelly-boshart-davis-769b2294
+- url: https://www.oregonlegislature.gov/boshartdavis

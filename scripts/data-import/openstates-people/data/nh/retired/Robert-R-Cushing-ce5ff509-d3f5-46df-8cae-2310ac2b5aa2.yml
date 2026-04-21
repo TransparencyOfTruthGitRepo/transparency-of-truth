@@ -1,0 +1,23 @@
+id: ocd-person/ce5ff509-d3f5-46df-8cae-2310ac2b5aa2
+name: Robert R. Cushing
+given_name: Robert
+family_name: Cushing
+middle_name: R.
+image: http://www.livefreeordiealliance.org/Portals/0/images_candidates/RCushingRH21.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 21
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376111
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000500
+- scheme: legacy_openstates
+  identifier: NHL001024
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376111

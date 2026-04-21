@@ -1,0 +1,105 @@
+id: ocd-person/76bfaf2b-8259-5f56-bce9-d1c8cd6c780d
+name: Alma Adams
+given_name: Alma
+family_name: Adams
+birth_date: 1946-05-27
+gender: Female
+email: https://adamsforms.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/A000370.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2014-11-12
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NC-12
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NC-12
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NC-12
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NC-12
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NC-12
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NC-12
+- start_date: 2014-11-12
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NC-12
+offices:
+- classification: capitol
+  address: 2436 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-1510
+  fax: 202-225-1512
+- classification: district
+  address: 10735 David Taylor Drive Suite 100, Charlotte, NC 28262
+  voice: 704-344-9950
+  fax: 704-344-9971
+links:
+- url: https://adams.house.gov
+  note: website
+- url: https://adams.house.gov/
+other_names:
+- name: A. Adams
+- name: A.S. Adams
+- name: Adams, A.
+- name: Alma S. Adams
+ids:
+  twitter: RepAdams
+  youtube: UCPI9ao1Cr1nxEUD2r-usRjQ
+  facebook: CongresswomanAdams
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Alma Adams
+- scheme: bioguide
+  identifier: A000370
+- scheme: cspan
+  identifier: '76386'
+- scheme: fec
+  identifier: H4NC12100
+- scheme: google_entity_id
+  identifier: kg:/m/02b45d
+- scheme: govtrack
+  identifier: '412607'
+- scheme: house_history
+  identifier: '15032409256'
+- scheme: icpsr
+  identifier: '21545'
+- scheme: maplight
+  identifier: '2063'
+- scheme: opensecrets
+  identifier: N00035451
+- scheme: pictorial
+  identifier: '13141'
+- scheme: thomas
+  identifier: '02201'
+- scheme: votesmart
+  identifier: '5935'
+- scheme: wikidata
+  identifier: Q4733597
+sources:
+- url: https://adams.house.gov
+- url: https://ballotpedia.org/Alma_Adams
+- url: https://en.wikipedia.org/wiki/Alma_Adams
+- url: https://justfacts.votesmart.org/candidate/biography/5935/alma-adams
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/alma_adams/412607

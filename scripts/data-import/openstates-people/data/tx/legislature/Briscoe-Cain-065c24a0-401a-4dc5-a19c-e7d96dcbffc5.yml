@@ -1,0 +1,40 @@
+id: ocd-person/065c24a0-401a-4dc5-a19c-e7d96dcbffc5
+name: Briscoe Cain
+given_name: Briscoe
+family_name: Cain
+birth_date: 1984-12-09
+gender: Male
+email: briscoe.cain@house.texas.gov
+image: https://house.texas.gov/images/members/3265.jpg?v=2
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '128'
+offices:
+- classification: capitol
+  address: Room E1.320, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0733
+- classification: district
+  address: None
+  voice: 346-499-7036
+links:
+- url: https://house.texas.gov/members/3265
+- url: https://house.texas.gov/members/member-page/?district=128
+other_names:
+- name: B. Cain
+- name: B.R. Cain
+- name: Cain, B.
+- name: Cain, Briscoe
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000696
+sources:
+- url: https://ballotpedia.org/Briscoe_Cain
+- url: https://en.wikipedia.org/wiki/Briscoe_Cain
+- url: https://house.texas.gov/members/3265
+- url: https://house.texas.gov/members/member-page/?district=128
+- url: https://justfacts.votesmart.org/candidate/biography/147702/briscoe-cain
+- url: https://www.linkedin.com/in/briscoecain

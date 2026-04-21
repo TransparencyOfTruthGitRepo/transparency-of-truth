@@ -1,0 +1,39 @@
+id: ocd-person/87b1ae9f-d7ad-4fc2-b96c-a03c1926c4b1
+name: Jonah Wheeler
+given_name: Jonah
+family_name: Wheeler
+birth_date: 2003-03-01
+gender: Male
+email: jonah.wheeler@gc.nh.gov
+image: https://static.wixstatic.com/media/4655f1_d2a8a2149cf54e91832ddb103872eee0~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/i-BFnhF57-X4_edited.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 33
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10813
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10813
+  note: member detail page
+other_names:
+- name: J. Wheeler
+- name: J.O. Wheeler
+- name: Jonah O Wheeler
+- name: Wheeler, J.
+sources:
+- url: https://ballotpedia.org/Jonah_Wheeler
+- url: https://en.wikipedia.org/wiki/Jonah_Wheeler
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10813
+- url: https://justfacts.votesmart.org/candidate/208837/jonah-wheeler
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10813
+- url: https://www.linkedin.com/in/jonah-orion-wheeler-7b137a2b2
+extras:
+  county: Hillsborough
+  elected status: new
+  gender code: M

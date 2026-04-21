@@ -1,0 +1,21 @@
+id: ocd-person/c967b26c-123b-4ee1-8cb8-156435cfcc46
+name: Lawrence G. Miller
+given_name: Lawrence
+family_name: Miller
+middle_name: G.
+image: http://cthousegop.com/wp-content/uploads/2012/01/miller_thumb.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '122'
+links:
+- url: http://replarrymiller.com/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000158
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

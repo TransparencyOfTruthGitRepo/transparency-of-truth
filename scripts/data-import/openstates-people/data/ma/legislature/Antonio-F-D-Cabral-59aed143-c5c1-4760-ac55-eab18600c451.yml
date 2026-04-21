@@ -1,0 +1,44 @@
+id: ocd-person/59aed143-c5c1-4760-ac55-eab18600c451
+name: Tony Cabral
+given_name: Tony
+family_name: Cabral
+birth_date: 1955-01-26
+gender: Male
+email: antonio.cabral@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/AFC1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1991-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 13th Bristol
+offices:
+- classification: capitol
+  address: Room 466, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2017
+  fax: 617-722-2813
+links:
+- url: https://malegislature.gov/Legislators/Profile/AFC1
+other_names:
+- name: A.F. Cabral
+- name: Antonio F. D. Cabral
+- name: Antonio F.D. Cabral
+- name: Cabral, T.
+- name: T. Cabral
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000442
+sources:
+- url: https://ballotpedia.org/Antonio_Cabral
+- url: https://en.wikipedia.org/wiki/Antonio_Cabral
+- url: https://justfacts.votesmart.org/candidate/biography/4772/antonio-cabral
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/AFC1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/AFC1
+- url: https://malegislature.gov/Legislators/Profile/AFC1
+extras:
+  member code: AFC1

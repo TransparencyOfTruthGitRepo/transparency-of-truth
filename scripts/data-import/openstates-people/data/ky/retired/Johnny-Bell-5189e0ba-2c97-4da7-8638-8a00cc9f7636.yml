@@ -1,0 +1,20 @@
+id: ocd-person/5189e0ba-2c97-4da7-8638-8a00cc9f7636
+name: Johnny Bell
+given_name: Johnny
+family_name: Bell
+image: http://www.lrc.ky.gov/pubinfo/thumbnails/House23.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '23'
+links:
+- url: http://www.lrc.ky.gov/legislator/H023.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000044
+sources:
+- url: http://www.lrc.ky.gov/legislator/H023.htm

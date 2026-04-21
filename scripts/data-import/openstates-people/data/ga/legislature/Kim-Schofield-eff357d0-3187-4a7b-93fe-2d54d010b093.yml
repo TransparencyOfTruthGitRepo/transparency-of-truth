@@ -1,0 +1,66 @@
+id: ocd-person/eff357d0-3187-4a7b-93fe-2d54d010b093
+name: Kim Schofield
+given_name: Kim
+family_name: Schofield
+birth_date: 1962-04-16
+gender: Female
+email: kim.schoefield@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/schofield-kim-4916.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '63'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '60'
+offices:
+- classification: capitol
+  address: Room 608-C, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0298
+- classification: district
+  address: Atlanta, GA
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4916&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4916
+- url: https://www.legis.ga.gov/members/house/4916?session=1029
+- url: https://www.legis.ga.gov/members/house/4916?session=1031
+  note: HTML member detail page
+other_names:
+- name: K. Schofield
+- name: K.J. Schofield
+- name: SCHOFIELD, 63RD
+- name: Schofield, K.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000483
+sources:
+- url: https://ballotpedia.org/Kim_Schofield
+- url: https://en.wikipedia.org/wiki/Kim_Schofield
+- url: https://justfacts.votesmart.org/candidate/biography/176796/kim-schofield
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4916&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4916?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4916?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4916
+- url: https://www.legis.ga.gov/members/house/4916?session=1029
+- url: https://www.linkedin.com/in/kimschofield
+extras:
+  residence: Atlanta
+  city: Atlanta
+  georgia_id: 4916
+  birthday: April 16
+  occupation: Lupus Patient Centered Researcher
+  press: https://house-press.com/representative/Kim-Schofield
+  staff: Marjorie Woods - Administrative Assistant
+  staff email: marjorie.woods@house.ga.gov

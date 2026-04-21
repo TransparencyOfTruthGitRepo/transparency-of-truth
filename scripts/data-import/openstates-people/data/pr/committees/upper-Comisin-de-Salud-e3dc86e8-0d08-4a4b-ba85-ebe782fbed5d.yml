@@ -1,0 +1,61 @@
+id: ocd-organization/e3dc86e8-0d08-4a4b-ba85-ebe782fbed5d
+jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+classification: committee
+name: Salud
+chamber: upper
+sources:
+- url: https://senado.pr.gov/comision-de-salud
+- url: https://senado.pr.gov/comisiones/comisi%C3%B3n-de-salud
+- url: "https://senado.pr.gov/comisiones/comisi\xF3n-de-salud"
+  note: Committee Detail Page
+- url: https://senado.pr.gov/index.cfm?module=comisiones
+  note: Committee List Page
+links:
+- url: https://senado.pr.gov/comision-de-salud
+- url: https://senado.pr.gov/comisiones/comisi%C3%B3n-de-salud
+- url: "https://senado.pr.gov/comisiones/comisi\xF3n-de-salud"
+  note: homepage
+members:
+- name: Juan Oscar Morales
+  role: chair
+  person_id: ocd-person/99800ecf-b7d7-43f5-ace4-53a770ee77eb
+- name: "Marissa Jim\xE9nez"
+  role: vice chair
+  person_id: ocd-person/9a9ebf96-43e3-41b9-976c-ffed31f5c0ec
+- name: Migdalia Padilla Alvelo
+  role: secretary
+  person_id: ocd-person/b451e173-36b4-4664-ada7-ac5057ef8c9f
+- name: "Brenda P\xE9rez Soto"
+  role: member
+  person_id: ocd-person/eae57c88-a659-4dab-86bb-874c4d5ec8b7
+- name: Eliezer Molina
+  role: member
+  person_id: ocd-person/e747a8b3-a7e3-4f4e-afea-2dccd3ab0bdf
+- name: "Gregorio Mat\xEDas"
+  role: member
+  person_id: ocd-person/beb1660c-fd16-4f3b-851f-1b6f40bdd62d
+- name: Jeison Rosa
+  role: member
+  person_id: ocd-person/ca136080-4ad6-482c-b2dd-c2ad8c2d2824
+- name: "Joanne Rodr\xEDguez Veve"
+  role: member
+  person_id: ocd-person/a67879ee-0450-4270-a99f-d186bed3f783
+- name: "Jos\xE9 Dalmau Santiago"
+  role: member
+  person_id: ocd-person/6f8348ec-b184-4c8d-b0dc-d82ef8dcb566
+- name: "Karen Rom\xE1n"
+  role: member
+  person_id: ocd-person/f90e073c-bfbb-4695-8a4c-527aa46c54c5
+- name: "Mar\xEDa de Lourdes Santiago Negr\xF3n"
+  role: member
+  person_id: ocd-person/f583f4dd-fabe-4211-a565-657f7e690f2c
+- name: Thomas Rivera Schatz
+  role: member
+  person_id: ocd-person/3caf98b9-5210-45ab-bbde-794edfc41451
+- name: "Wilmer Reyes Berr\xEDos"
+  role: member
+  person_id: ocd-person/eeb0f90f-4d9f-439a-840f-9340a4c9edae
+other_names:
+- name: Senate Committee on Salud
+- name: Senate Salud
+- name: Senate Salud Committee

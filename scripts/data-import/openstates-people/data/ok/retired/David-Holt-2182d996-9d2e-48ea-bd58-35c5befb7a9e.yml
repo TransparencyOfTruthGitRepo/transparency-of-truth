@@ -1,0 +1,22 @@
+id: ocd-person/2182d996-9d2e-48ea-bd58-35c5befb7a9e
+name: David Holt
+given_name: David
+family_name: Holt
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ok/government
+  district: '30'
+links:
+- url: http://oksenate.gov/Senators/biographies/holt_bio.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OKL000023
+- scheme: legacy_openstates
+  identifier: OKL000232
+sources:
+- url: http://oksenate.gov/Senators/biographies/holt_bio.aspx
+- url: http://oksenate.gov/Senators/biographies/holt_bio.html

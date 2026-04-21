@@ -1,0 +1,67 @@
+id: ocd-organization/e71889eb-56a4-4388-bf98-eb5e22eca729
+jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+classification: committee
+name: Urban Affairs
+chamber: lower
+sources:
+- url: https://www.legis.ga.gov/api/committees/details/198/1031
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1031
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/committees/house/198
+links:
+- url: https://www.legis.ga.gov/committees/house/198
+  note: homepage
+members:
+- name: Brian Prince
+  role: chair
+  person_id: ocd-person/a53e6bbd-a5b8-436b-94ae-bebf957c5b61
+- name: Edna Jackson
+  role: vice chair
+  person_id: ocd-person/18427775-e3e7-4730-bb6f-722616e6aebe
+- name: Kim Schofield
+  role: secretary
+  person_id: ocd-person/eff357d0-3187-4a7b-93fe-2d54d010b093
+- name: Akbar Ali
+  role: member
+  person_id: ocd-person/938f2479-c51f-446a-87f0-76d4f07c61e5
+- name: Billy Mitchell
+  role: member
+  person_id: ocd-person/96307d79-07d4-4f59-9dd3-b7f994d566d5
+- name: Carolyn Hugley
+  role: member
+  person_id: ocd-person/0f5a9273-2fc6-458f-af59-b75070a1dc76
+- name: Deborah Silcox
+  role: member
+  person_id: ocd-person/b824f8fd-7343-449d-8027-fcd0afaf1949
+- name: Karla Drenner
+  role: member
+  person_id: ocd-person/27365f19-a138-4a9e-9f6e-11352932e5d5
+- name: Mark Newton
+  role: member
+  person_id: ocd-person/5e12fb82-1f69-46df-9ac5-a09ce51dd95b
+- name: Miriam Paris
+  role: member
+  person_id: ocd-person/bad14891-c7bc-4ac4-b23a-fb5ae3878d67
+- name: Park Cannon
+  role: member
+  person_id: ocd-person/5c5ab5cb-54f6-4218-8d1d-a99d36bca436
+- name: Ron Stephens
+  role: member
+  person_id: ocd-person/aeaeb854-ff9c-47cb-8069-395b60ba05b2
+- name: Saira Draper
+  role: member
+  person_id: ocd-person/2a66b922-b812-4c45-9786-478187cd5e33
+- name: Tangie Herring
+  role: member
+  person_id: ocd-person/c5766526-3a5a-4d33-b5ff-a0d1d358d7ae
+- name: Viola Davis
+  role: member
+  person_id: ocd-person/e3b1be9c-b244-4466-9192-adc365a31cfb
+other_names:
+- name: House Committee on Urban Affairs
+- name: House Urban Affairs
+- name: House Urban Affairs Committee
+extras:
+  address: 608-D Coverdell Legislative Office Bldg.  Atlanta, GA 30334
+  phone: '4046560298'

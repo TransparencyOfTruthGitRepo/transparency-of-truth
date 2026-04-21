@@ -1,0 +1,56 @@
+id: ocd-organization/ab8e7739-6fcc-4621-a2bc-6dac0b753a49
+jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+classification: committee
+name: Legislative Budget and Audit
+chamber: legislature
+sources:
+- url: https://www.akleg.gov/basis/Committee/Details/33?code=HBUD
+- url: https://www.akleg.gov/basis/Committee/Details/34?code=HBUD
+- url: https://www.akleg.gov/basis/Committee/List/33
+links:
+- url: https://www.akleg.gov/basis/Committee/Details/33?code=HBUD
+  note: homepage
+- url: https://www.akleg.gov/basis/Committee/Details/34?code=HBUD
+members:
+- name: Elvi Gray-Jackson
+  role: chair
+  person_id: ocd-person/2ba2d14f-a08a-4f05-a9d4-5ca63d09561e
+- name: Zack Fields
+  role: vice chair
+  person_id: ocd-person/c1d170a4-d099-43cb-b7e5-5a9db63ae716
+- name: Bryce Edgmon
+  role: alternate
+  person_id: ocd-person/b097e069-345d-42da-b821-0c2c9747ccfc
+- name: Scott Kawasaki
+  role: alternate
+  person_id: ocd-person/53f7b86b-ce31-4199-86ef-f566ae9aa02c
+- name: Andy Josephson
+  role: member
+  person_id: ocd-person/e1989648-fdd3-4e88-a0f0-9e27e75c0f03
+- name: Bert Stedman
+  role: member
+  person_id: ocd-person/bfdc2ee2-7760-4119-9d68-4962f1e1a285
+- name: Bill Wielechowski
+  role: member
+  person_id: ocd-person/57554431-caac-4074-a8d8-40a4e6289ec1
+- name: Cathy Giessel
+  role: member
+  person_id: ocd-person/4ac9a4bf-e2d9-4257-a360-9e91dc234deb
+- name: Chuck Kopp
+  role: member
+  person_id: ocd-person/7474d172-6c90-47f9-aae1-9f66c9518be2
+- name: Julie Coulombe
+  role: member
+  person_id: ocd-person/a66f1539-56d3-458c-8ac0-3aff6907a69d
+- name: Lyman Hoffman
+  role: member
+  person_id: ocd-person/e187d603-9202-4f64-80b0-6366702aec11
+- name: Neal Foster
+  role: member
+  person_id: ocd-person/14f39e67-1604-4eb4-8000-99c699f196a0
+other_names:
+- name: Committee on Legislative Budget and Audit
+- name: Joint Committee on Legislative Budget and Audit
+- name: Joint Legislative Budget and Audit
+- name: Joint Legislative Budget and Audit Committee
+- name: Legislative Budget and Audit Committee

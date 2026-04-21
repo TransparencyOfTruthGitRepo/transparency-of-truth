@@ -1,0 +1,29 @@
+id: ocd-organization/7dc8902f-c163-455b-9e59-705dec5912f6
+jurisdiction: ocd-jurisdiction/country:us/government
+classification: subcommittee
+name: Permanent Select Committee on Intelligence Oversight and Investigations
+chamber: lower
+sources:
+- url: https://intelligence.house.gov/subcommittees/oversight-investigations.htm
+parent: ocd-organization/113271fd-136d-5783-88ed-1f32a955b3ec
+links:
+- url: https://intelligence.house.gov/subcommittees/oversight-investigations.htm
+members:
+- name: Ronny Jackson
+  role: chair
+  person_id: ocd-person/417128fd-ee37-5676-988d-263b908aa027
+- name: Jim Himes
+  role: ex officio
+  person_id: ocd-person/e1a8d4da-7cbd-571e-817d-774ff06bb342
+- name: Rick Crawford
+  role: ex officio
+  person_id: ocd-person/9a89c225-65e9-5680-a780-9802c17cb7c4
+- name: Joaquin Castro
+  role: ranking member
+  person_id: ocd-person/d0fe7bc7-b883-5485-814f-f7cee999e409
+other_names:
+- name: House Permanent Select Committee on Intelligence Oversight and Investigations
+- name: House Permanent Select Committee on Intelligence Oversight and Investigations
+    Subcommittee
+- name: House Subcommittee on Permanent Select Committee on Intelligence Oversight
+    and Investigations

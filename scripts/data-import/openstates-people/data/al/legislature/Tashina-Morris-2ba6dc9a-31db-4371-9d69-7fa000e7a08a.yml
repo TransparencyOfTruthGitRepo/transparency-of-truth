@@ -1,0 +1,42 @@
+id: ocd-person/2ba6dc9a-31db-4371-9d69-7fa000e7a08a
+name: TaShina Morris
+given_name: TaShina
+family_name: Morris
+gender: Female
+email: tashina.morris@alhouse.gov
+image: https://www.legislature.state.al.us/pdf/house/members/Morris_77.png
+party:
+- name: Democratic
+roles:
+- start_date: 2018-11-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '77'
+offices:
+- classification: capitol
+  address: Room 537-E, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0597
+- classification: district
+  address: 1320 Jordan St., Montgomery, AL 36108
+  voice: 256-328-1653
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100559&OID_PERSON=8506
+other_names:
+- name: Morris, T.
+- name: T. Morris
+- name: T.M. Morris
+- name: Tashina Morris
+sources:
+- url: https://ballotpedia.org/TaShina_Morris
+- url: https://en.wikipedia.org/wiki/Tashina_Morris
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/180538/tashina-morris
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Morris&OID_SPONSOR=100559&OID_PERSON=8506&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100559&OID_PERSON=8506
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+- url: https://www.linkedin.com/in/tashina-morris-03522890
+extras:
+  counties: Montgomery County

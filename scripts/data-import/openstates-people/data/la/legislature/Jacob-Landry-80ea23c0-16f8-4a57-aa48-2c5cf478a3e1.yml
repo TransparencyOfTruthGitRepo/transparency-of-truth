@@ -1,0 +1,31 @@
+id: ocd-person/80ea23c0-16f8-4a57-aa48-2c5cf478a3e1
+name: Jacob Landry
+given_name: Jacob
+family_name: Landry
+gender: Male
+email: hse049@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics/rep49.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '49'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 106 E. Edwards St., Erath, LA 70533
+links:
+- url: https://house.louisiana.gov/H_Reps/members?ID=49
+other_names:
+- name: J. Landry
+- name: J.J.G. Landry
+- name: Landry, J.
+sources:
+- url: https://ballotpedia.org/Jacob_Landry
+- url: https://en.wikipedia.org/wiki/Jacob_Jules_Gabriel_Landry
+- url: https://house.louisiana.gov/H_Reps/members?ID=49
+- url: https://www.jacoblandryforlouisiana.com/about

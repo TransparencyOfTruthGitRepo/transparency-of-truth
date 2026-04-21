@@ -1,0 +1,24 @@
+id: ocd-person/2fc06e23-e0c2-46e3-9f4e-9a1a961f262f
+name: Jay Houghton
+given_name: Jay
+family_name: Houghton
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '43'
+links:
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=43
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MOL000096
+- scheme: legacy_openstates
+  identifier: MOL000274
+sources:
+- url: http://house.mo.gov/MemberGridCluster.aspx
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=43
+extras:
+  first_name: Jay
+  last_name: Houghton

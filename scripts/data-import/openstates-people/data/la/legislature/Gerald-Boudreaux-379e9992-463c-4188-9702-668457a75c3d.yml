@@ -1,0 +1,46 @@
+id: ocd-person/379e9992-463c-4188-9702-668457a75c3d
+name: Gerald Boudreaux
+given_name: Gerald
+family_name: Boudreaux
+birth_date: 1960-09-16
+gender: Male
+email: boudreauxg@legis.la.gov
+image: https://senate.la.gov/SenatorPics/Sen24.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2016-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '24'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district-mail
+  address: P.O. Box 91245, Lafayette, LA 70509
+  voice: 337-267-7520
+links:
+- url: https://senate.la.gov/smembers.aspx?ID=24
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=24
+other_names:
+- name: Boudreaux, G.
+- name: G. Boudreaux
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000830
+sources:
+- url: https://ballotpedia.org/Gerald_Boudreaux
+- url: https://en.wikipedia.org/wiki/Gerald_Boudreaux
+- url: https://senate.la.gov/Senators_FullInfo
+- url: https://senate.la.gov/smembers.aspx?ID=24
+- url: https://senate.la.gov/smembers?ID=24
+extras:
+  second phone: (844)885-6578
+  legislative assistant: Phyllis Roy
+  representing parishes:
+  - Lafayette
+  - St. Landry
+  - St. Martin
+  education: "Northside High School\r\nUniversity of Louisiana Lafayette, B.S. Education"

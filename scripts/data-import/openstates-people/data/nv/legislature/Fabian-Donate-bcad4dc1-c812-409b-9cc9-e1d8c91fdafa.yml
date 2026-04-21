@@ -1,0 +1,36 @@
+id: ocd-person/bcad4dc1-c812-409b-9cc9-e1d8c91fdafa
+name: "Fabian Do\xF1ate"
+given_name: Fabian
+family_name: "Do\xF1ate"
+gender: Male
+email: fabian.donate@sen.state.nv.us
+image: http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/Doate.Fabian.350.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-02-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '10'
+offices:
+- classification: capitol
+  address: Room 2124, Nevada Senate 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-1427
+- classification: district
+  address: Room 215, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/10
+  note: homepage
+other_names:
+- name: "Do\xF1ate, F."
+- name: "Do\xF1ate, Fabian"
+- name: "F. Do\xF1ate"
+- name: Fabian Donate
+sources:
+- url: https://ballotpedia.org/Fabian_Donate
+- url: https://en.wikipedia.org/wiki/Fabian_Do%C3%B1ate
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/10
+- url: https://www.linkedin.com/in/fabiandonate
+extras:
+  title: Co-Majority Whip

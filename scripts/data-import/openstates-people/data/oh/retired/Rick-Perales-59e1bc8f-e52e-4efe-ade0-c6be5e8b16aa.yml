@@ -1,0 +1,24 @@
+id: ocd-person/59e1bc8f-e52e-4efe-ade0-c6be5e8b16aa
+name: Rick Perales
+given_name: Rick
+family_name: Perales
+email: rep73@ohiohouse.gov
+biography: |
+  State Representative Rick Perales is serving his fourth term in the Ohio
+  House. He serves the 73rd House District, which includes the western portion of
+  Greene County, including Wright Patterson Air Force Base.
+image: http://www.ohiohouse.gov/Assets/Headshots/Small/73.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '73'
+links:
+- url: http://www.ohiohouse.gov/rick-perales
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000242
+sources:
+- url: http://www.ohiohouse.gov/members/member-directory

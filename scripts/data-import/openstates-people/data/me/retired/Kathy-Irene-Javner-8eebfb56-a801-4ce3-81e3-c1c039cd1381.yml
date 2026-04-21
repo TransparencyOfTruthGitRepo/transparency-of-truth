@@ -1,0 +1,58 @@
+id: ocd-person/8eebfb56-a801-4ce3-81e3-c1c039cd1381
+name: Kathy Javner
+given_name: Kathy
+family_name: Javner
+gender: Female
+email: kathy.javner@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/2aa9f321-d6bb-4ed8-9baa-56c3094d0b53_Javner.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '29'
+  end_date: 2026-01-28
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '29'
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '141'
+offices: []
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1380
+  note: homepage
+- url: https://mainehousegop.org/members/javner-kathy/
+other_names:
+- name: JAVNER of Chester
+- name: Javner, K.
+- name: K. Javner
+- name: K.I. Javner
+- name: Kathy Irene Javner
+- name: Kathy JAVNER
+sources:
+- url: https://ballotpedia.org/Kathy_Javner
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1380
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://mainehousegop.org/members/javner-kathy
+extras:
+  Seat Number: '103'
+  towns represented:
+  - Herseytown Township
+  - Chester
+  - East Millinocket
+  - Long A Township
+  - Medway
+  - Millinocket
+  - Mount Chase
+  - North Penobscot
+  - Patten
+  - Woodville
+  - Grindstone Township
+  - Soldiertown Township
+  occupation: Mom
+  education: Bethany University

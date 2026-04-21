@@ -1,0 +1,51 @@
+id: ocd-organization/e9316dc9-22ac-4459-b749-cb43911f98d9
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Ports, Harbors and Airports
+chamber: lower
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/h_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/h_cmtememb.xml
+  note: homepage
+members:
+- name: Jeff Guice
+  role: chair
+  person_id: ocd-person/c5ec6885-a7dc-48f4-a2e4-7aa85397f337
+- name: Willie Bailey
+  role: vice chair
+  person_id: ocd-person/bec0f8f6-7f4c-442b-be25-14e2a2c1f5cb
+- name: Brad Mattox
+  role: member
+  person_id: ocd-person/487214e9-b0e2-4741-8bd4-a043a1dd19a5
+- name: Bubba Carpenter
+  role: member
+  person_id: ocd-person/dcc9906b-9a0a-4503-9128-006317d5ff3f
+- name: Greg Haney
+  role: member
+  person_id: ocd-person/c38f3e52-9594-4580-a280-bdaa11a33b66
+- name: Gregory Elliott
+  role: member
+  person_id: ocd-person/9b5e1a7c-98cd-448e-9f75-d59a5591f1a4
+- name: Jeffrey Hulum
+  role: member
+  person_id: ocd-person/249c4603-1fce-4c28-84be-5fa6fc5420b4
+- name: Jimmy Fondren
+  role: member
+  person_id: ocd-person/af90acc6-0f51-4638-9b7a-51afc5acb0a3
+- name: Oscar Denton
+  role: member
+  person_id: ocd-person/5fb7e1d6-24ab-41e1-b0b2-d1445bf6abd3
+- name: Steve Lott
+  role: member
+  person_id: ocd-person/df77d55d-10c7-4ecb-9ed9-b8f989da339e
+- name: Tracy Arnold
+  role: member
+  person_id: ocd-person/2601640f-867f-480f-83a1-c59c332c0b82
+other_names:
+- name: Committee on Ports, Harbors and Airports
+- name: House Committee on Ports, Harbors and Airports
+- name: House Ports, Harbors and Airports
+- name: House Ports, Harbors and Airports Committee
+- name: Ports, Harbors and Airports Committee

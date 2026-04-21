@@ -1,0 +1,55 @@
+id: ocd-person/23704722-a50c-4148-8f14-98c7d78324b9
+name: Jamie Eldridge
+given_name: Jamie
+family_name: Eldridge
+birth_date: 1973-08-11
+gender: Male
+email: james.eldridge@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/JBE0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2009-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Middlesex and Worcester
+- start_date: 2003-01-01
+  end_date: 2008-12-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Middlesex and Worcester
+offices:
+- classification: capitol
+  address: Room 511-C, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1120
+links:
+- url: https://malegislature.gov/Legislators/Profile/JBE0
+- url: https://www.senatoreldridge.com/
+other_names:
+- name: Eldridge, J.
+- name: J. Eldridge
+- name: J.B. Eldridge
+- name: James B. Eldridge
+- name: James Bradley Eldridge
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000013
+- scheme: legacy_openstates
+  identifier: MAL000252
+sources:
+- url: https://ballotpedia.org/James_Eldridge
+- url: https://en.wikipedia.org/wiki/Jamie_Eldridge
+- url: https://justfacts.votesmart.org/candidate/biography/36072/jamie-eldridge
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/JBE0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/JBE0
+- url: https://malegislature.gov/Legislators/Profile/JBE0
+- url: https://www.linkedin.com/in/jamie-eldridge-573a092
+- url: https://www.senatoreldridge.com
+- url: https://www.senatoreldridge.com/meetjamie
+- url: https://www.senatoreldridge.com/the-senator
+extras:
+  member code: JBE0

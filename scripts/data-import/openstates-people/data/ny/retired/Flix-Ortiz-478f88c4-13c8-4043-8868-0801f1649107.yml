@@ -1,0 +1,20 @@
+id: ocd-person/478f88c4-13c8-4043-8868-0801f1649107
+name: "F\xE9lix Ortiz"
+given_name: "F\xE9lix"
+family_name: Ortiz
+email: OrtizF@nyassembly.gov
+image: http://assembly.state.ny.us/mem/pic/051.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '51'
+links:
+- url: http://assembly.state.ny.us/mem/?sh=email
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000167
+sources:
+- url: http://assembly.state.ny.us/mem/Felix-W-Ortiz

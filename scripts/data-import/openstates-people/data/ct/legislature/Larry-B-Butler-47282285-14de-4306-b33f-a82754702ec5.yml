@@ -1,0 +1,43 @@
+id: ocd-person/47282285-14de-4306-b33f-a82754702ec5
+name: Larry Butler
+given_name: Larry
+family_name: Butler
+gender: Male
+email: larry.butler@cga.ct.gov
+image: http://www2.housedems.ct.gov/Butler/images/Butler_HS.jpg?ver=
+party:
+- name: Democratic
+roles:
+- start_date: 2007-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '72'
+offices:
+- classification: capitol
+  address: Room 5001, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27072%27&dist_name=072%20-%Butler,%Larry%20B.
+- url: https://www.housedems.ct.gov/Butler
+other_names:
+- name: Butler, L.
+- name: Butler, Larry B.
+- name: L. Butler
+- name: L.B. Butler
+- name: Larry B. Butler
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000108
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Larry_Butler_(Connecticut)
+- url: https://justfacts.votesmart.org/candidate/biography/68422/larry-butler
+- url: https://www.housedems.ct.gov/Butler
+- url: https://www.linkedin.com/in/larry-b-butler-75548a31
+extras:
+  gender: Male
+  title: Deputy Speaker of the House
+  committees: Finance, Revenue and Bonding; Human Services; Housing; Legislative Management
+  committee codes: ;FIN;HS;HSG;LM;
+  business phone: 860-240-8500
+  prison: '0'

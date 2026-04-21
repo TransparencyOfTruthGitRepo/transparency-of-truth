@@ -1,0 +1,65 @@
+id: ocd-organization/0bfb3571-e587-4386-a815-4cc978fe2cc8
+jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+classification: committee
+name: Judiciary
+chamber: lower
+sources:
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1160
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1198
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/68
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/69
+- url: https://sdlegislature.gov/Session/Committee/1160/Detail
+- url: https://sdlegislature.gov/Session/Committee/1198/Detail
+- url: https://sdlegislature.gov/Session/Committee/1232/Detail
+- url: https://sdlegislature.gov/Session/Committee/1267/Detail
+links:
+- url: https://sdlegislature.gov/Session/Committee/1160/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1198/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1232/Detail
+- url: https://sdlegislature.gov/Session/Committee/1267/Detail
+members:
+- name: Mike Stevens
+  role: chair
+  person_id: ocd-person/0121d607-e75c-4427-bd76-a6e01434afca
+- name: John Hughes
+  role: vice chair
+  person_id: ocd-person/123a6b73-d0a1-4263-96fd-a65373159918
+- name: Curt Massie
+  role: member
+  person_id: ocd-person/132b0654-ebb2-4b6b-81b3-d39b41110d45
+- name: David Kull
+  role: member
+  person_id: ocd-person/4d2f522f-336a-4794-8b89-48d65d250f6e
+- name: Jana Hunt
+  role: member
+  person_id: ocd-person/3900be26-2367-48af-8083-6ec4b4f18cf1
+- name: Kadyn Wittman
+  role: member
+  person_id: ocd-person/892b6289-0bd8-441d-94bf-30e6f1cfce49
+- name: Mary Fitzgerald
+  role: member
+  person_id: ocd-person/e03644b8-7ddd-4ae0-a734-6f6e76e735ba
+- name: Matt Roby
+  role: member
+  person_id: ocd-person/8ea8be55-3862-4034-b0c9-8aa418dfc915
+- name: Peri Pourier
+  role: member
+  person_id: ocd-person/8dc5a857-0514-4a81-8215-a2f21a069075
+- name: Rebecca Reimer
+  role: member
+  person_id: ocd-person/6ce3a563-339c-4bf4-8a70-0f5de85e5693
+- name: Tim Reisch
+  role: member
+  person_id: ocd-person/3c82e6e9-348f-40cd-818e-76d4901d9ec5
+- name: Tim Walburg
+  role: member
+  person_id: ocd-person/cc78d0ae-544c-4b45-8073-4aed3ee1a513
+- name: Will Mortenson
+  role: member
+  person_id: ocd-person/46a0838c-0bb9-446a-8828-21a3f2124d1b
+other_names:
+- name: House Committee on Judiciary
+- name: House Judiciary
+- name: House Judiciary Committee

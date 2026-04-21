@@ -1,0 +1,49 @@
+id: ocd-person/dad6bcf1-d56a-4a10-a969-2980dd3582d8
+name: Ruth Ann Gaines
+given_name: Ruth Ann
+family_name: Gaines
+gender: Female
+email: ruth.ann.gaines@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=9413
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '33'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '32'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://eepurl.com/gXMYEr
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=9413
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=9413
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=9413
+other_names:
+- name: Gaines, R.
+- name: R. Gaines
+- name: R.A. Gaines
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IAL000069
+- scheme: legacy_openstates
+  identifier: IAL000245
+sources:
+- url: https://ballotpedia.org/Ruth_Ann_Gaines
+- url: https://en.wikipedia.org/wiki/Ruth_Ann_Gaines
+- url: https://justfacts.votesmart.org/candidate/biography/122043/ruth-ann-gaines
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=9413
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=9413
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=9413
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=9413
+- url: https://www.linkedin.com/in/ruth-ann-gaines-58163889
+extras:
+  home email: ragaines@dmacc.edu
+  occupation: Community College Professor

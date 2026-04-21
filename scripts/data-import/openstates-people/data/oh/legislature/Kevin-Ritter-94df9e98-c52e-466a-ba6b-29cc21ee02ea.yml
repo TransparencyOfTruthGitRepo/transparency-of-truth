@@ -1,0 +1,28 @@
+id: ocd-person/94df9e98-c52e-466a-ba6b-29cc21ee02ea
+name: Kevin Ritter
+given_name: Kevin
+family_name: Ritter
+birth_date: 1967-08-05
+gender: Male
+email: rep94@ohiohouse.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kevin_KevinRitter_20240808_092548.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '94'
+offices:
+- classification: capitol
+  address: 77 S. High St. 11th Floor, Columbus, OH 43215
+  voice: 614-466-2158
+links:
+- url: https://ohiohouse.gov/members/kevin-ritter
+other_names:
+- name: K. Ritter
+- name: Ritter, K.
+sources:
+- url: https://ballotpedia.org/Kevin_Ritter
+- url: https://ohiohouse.gov/members/kevin-ritter
+- url: https://ohiohouse.gov/members/kevin-ritter/biography

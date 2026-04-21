@@ -1,0 +1,34 @@
+id: ocd-person/07951419-b5d5-430b-a3e6-678e1d4aec21
+name: Matt Morgan
+given_name: Matt
+family_name: Morgan
+birth_date: 1979-03-19
+gender: Male
+email: matt.morgan@house.texas.gov
+image: https://www.house.texas.gov/images/members/4675.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room E2.802, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0710
+- classification: district
+  address: 22333 Grand Corner Drive, Katy, TX 77494
+links:
+- url: https://www.house.texas.gov/members/26
+other_names:
+- name: M. Morgan
+- name: M.R. Morgan
+- name: Morgan, M.
+- name: Morgan, Matt
+sources:
+- url: https://ballotpedia.org/Matt_Morgan_(Texas)
+- url: https://en.wikipedia.org/wiki/Matt_Morgan_(Texas_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/188379/matt-morgan
+- url: https://www.house.texas.gov/members/26
+- url: https://www.linkedin.com/in/matt-morgan-25690229a

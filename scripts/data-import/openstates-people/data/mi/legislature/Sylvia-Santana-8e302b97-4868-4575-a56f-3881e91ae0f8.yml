@@ -1,0 +1,54 @@
+id: ocd-person/8e302b97-4868-4575-a56f-3881e91ae0f8
+name: Sylvia Santana
+given_name: Sylvia
+family_name: Santana
+birth_date: 1979-11-23
+gender: Female
+email: senssantana@senate.michigan.gov
+image: https://senatedems.com/santana/wp-content/uploads/sites/8/2022/12/Santana-Official-Portrait.jpeg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '2'
+- end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '9'
+- end_date: 2022-12-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '3'
+offices:
+- classification: capitol
+  address: Room 5600, Binsfeld Building P.O. Box 30036, Lansing, MI 48909
+  voice: 517-373-0990
+  fax: 517-373-5338
+links:
+- url: https://senatedems.com/santana
+  note: Member Page
+- url: https://senatedems.com/santana/
+- url: https://senatedems.com/santana/contact
+  note: Contact
+other_names:
+- name: S. Santana
+- name: S.A. Santana
+- name: Santana, S.
+- name: Sylvia A. Santana
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000356
+sources:
+- url: https://ballotpedia.org/Sylvia_Santana
+- url: https://en.wikipedia.org/wiki/Sylvia_Santana
+- url: https://justfacts.votesmart.org/candidate/biography/170218/sylvia-santana
+- url: https://senate.michigan.gov/senatorinfo_list.html
+- url: https://senate.michigan.gov/senators/SenatorData.json
+  note: Members List JSON Data Page
+- url: https://senate.michigan.gov/senators/senatorinfo_list.html
+  note: Members List HTML page
+- url: https://senatedems.com/santana
+- url: https://senatedems.com/santana/
+- url: https://www.linkedin.com/in/sylvia-santana-88968973

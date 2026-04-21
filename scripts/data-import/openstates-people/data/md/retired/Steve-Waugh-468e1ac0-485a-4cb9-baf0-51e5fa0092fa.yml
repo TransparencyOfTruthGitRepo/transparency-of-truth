@@ -1,0 +1,19 @@
+id: ocd-person/468e1ac0-485a-4cb9-baf0-51e5fa0092fa
+name: Steve Waugh
+given_name: Steve
+family_name: Waugh
+image: http://mgaleg.maryland.gov/2018RS/images/waugh01.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-08'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '29'
+links:
+- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=waugh01&stab=01
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000682
+sources:
+- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=waugh01&stab=01

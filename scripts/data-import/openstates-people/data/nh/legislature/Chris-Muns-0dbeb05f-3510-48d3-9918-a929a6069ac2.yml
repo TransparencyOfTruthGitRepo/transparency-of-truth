@@ -1,0 +1,49 @@
+id: ocd-person/0dbeb05f-3510-48d3-9918-a929a6069ac2
+name: Chris Muns
+given_name: Chris
+family_name: Muns
+gender: Male
+email: chris.muns@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123361.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 29
+- start_date: 2013-01-01
+  end_date: 2014-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 21
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=755
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=755
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377150
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=755
+  note: member detail page
+other_names:
+- name: C. Muns
+- name: Muns, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000659
+sources:
+- url: https://ballotpedia.org/Chris_Muns
+- url: https://en.wikipedia.org/wiki/Chris_Muns
+- url: https://gc.nh.gov/house/members/member.aspx?pid=755
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=755
+- url: https://justfacts.votesmart.org/candidate/126922/chris-muns
+- url: https://www.chrismuns.net/meetchris
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=755
+- url: https://www.linkedin.com/in/chrismuns
+extras:
+  county: Rockingham
+  elected status: Former
+  gender code: M

@@ -1,0 +1,54 @@
+id: ocd-person/57b51b23-1a38-47dd-bd4f-49954df01971
+name: Doc Kumar
+given_name: Doc
+family_name: Kumar
+birth_date: 1947-07-14
+gender: Male
+email: rep.sabi.kumar@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h66.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2014-11-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '66'
+offices:
+- classification: capitol
+  address: Room 654, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-2860
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H66
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h66.html
+other_names:
+- name: D. Kumar
+- name: Kumar, D
+- name: Kumar, D.
+- name: S. Kumar
+- name: Sabi 'Doc' Kumar
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000463
+sources:
+- url: https://ballotpedia.org/Sabi_Kumar
+- url: https://en.wikipedia.org/wiki/Sabi_%22Doc%22_Kumar
+- url: https://justfacts.votesmart.org/candidate/biography/153308/sabi-kumar
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H66
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h66.html
+- url: https://www.linkedin.com/in/sabi-%E2%80%98doc%E2%80%99-kumar-md-547220188
+extras:
+  office: 654 CHB
+  personal info:
+  - Born July 14, 1947
+  - Married, wife Linda Kumar, daughter Nina Kumar
+  - Surgeon (Retired)
+  - Methodist
+  - Fellowship in Transplantation, University of Miami School of Medicine, 1977
+  - Surgical Residency, Mount Sinai Medical Center, Miami, Florida, 1971-1976
+  - 'Business Owner: Nashville Surgical Instruments'
+  - Author

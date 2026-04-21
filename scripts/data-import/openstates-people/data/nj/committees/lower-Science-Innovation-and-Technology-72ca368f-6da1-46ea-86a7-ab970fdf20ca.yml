@@ -1,0 +1,45 @@
+id: ocd-organization/72ca368f-6da1-46ea-86a7-ab970fdf20ca
+jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+classification: committee
+name: Science, Innovation and Technology
+chamber: lower
+sources:
+- url: https://njleg.state.nj.us/committees/assembly-committees?committee=AST
+- url: https://www.njleg.state.nj.us/api/legislatorData/committeeInfo/assembly-committees
+  note: JSON data page from NJ Legislative API
+- url: https://www.njleg.state.nj.us/committees/assembly-committees
+links:
+- url: https://njleg.state.nj.us/committees/assembly-committees?committee=AST
+- url: https://www.njleg.state.nj.us/committees/assembly-committees
+  note: homepage
+members:
+- name: Chris Tully
+  role: chair
+  person_id: ocd-person/934c3022-709b-4768-b2df-635d25579128
+- name: Balvir Singh
+  role: vice chair
+  person_id: ocd-person/a189187b-df3f-4f10-8e5c-744ad7071787
+- name: Andrew Macurdy
+  role: member
+  person_id: ocd-person/bd2c37cd-6c84-406e-9e38-95bd83f20f0f
+- name: Carmen Morales
+  role: member
+  person_id: ocd-person/38f2061a-a83f-45bc-92a2-817f44d6b377
+- name: Chris DePhillips
+  role: member
+  person_id: ocd-person/33050562-f29d-4c4f-9e21-022822792a5c
+- name: Ed Rodriguez
+  role: member
+  person_id: ocd-person/c17427d2-58a7-45f5-aa6c-a70ca914f8de
+- name: Greg McGuckin
+  role: member
+  person_id: ocd-person/2ac520a3-ae36-4936-a9c3-6842401b6c83
+other_names:
+- name: Assembly Committee on Science, Innovation and Technology
+- name: Assembly Science, Innovation and Technology
+- name: Assembly Science, Innovation and Technology Committee
+- name: Committee on Science, Innovation and Technology
+- name: House Committee on Science, Innovation and Technology
+- name: House Science, Innovation and Technology
+- name: House Science, Innovation and Technology Committee
+- name: Science, Innovation and Technology Committee

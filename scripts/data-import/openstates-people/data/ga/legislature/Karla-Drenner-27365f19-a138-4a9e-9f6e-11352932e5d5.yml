@@ -1,0 +1,66 @@
+id: ocd-person/27365f19-a138-4a9e-9f6e-11352932e5d5
+name: Karla Drenner
+given_name: Karla
+family_name: Drenner
+birth_date: 1961-09-10
+gender: Female
+email: karla.drenner@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/drenner-karla-95.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2001-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '85'
+offices:
+- classification: capitol
+  address: Room 507-H, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0202
+- classification: district-mail
+  address: P.O. Box 348, Avondale Estates, GA 30002
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=95&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/95
+- url: https://www.legis.ga.gov/members/house/95?session=1029
+- url: https://www.legis.ga.gov/members/house/95?session=1031
+  note: HTML member detail page
+other_names:
+- name: DRENNER, 85TH
+- name: Drenner, K.
+- name: K. Drenner
+- name: K.L. Drenner
+- name: Karla Drenner
+- name: Karla Lea Drenner
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000100
+- scheme: legacy_openstates
+  identifier: GAL000272
+sources:
+- url: https://ballotpedia.org/Karla_Drenner
+- url: https://en.wikipedia.org/wiki/Karla_Drenner
+- url: https://justfacts.votesmart.org/candidate/biography/31687/karla-drenner
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=95&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/95?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/95?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/95
+- url: https://www.legis.ga.gov/members/house/95?session=1029
+- url: https://www.linkedin.com/in/karla-drenner-phd
+extras:
+  residence: Avondale Estates
+  city: Avondale Estates
+  georgia_id: 95
+  birthday: September 10
+  occupation: Environmental Consultant
+  press: https://house-press.com/representative/Karla-Drenner
+  staff: a href="
+  staff email: ''

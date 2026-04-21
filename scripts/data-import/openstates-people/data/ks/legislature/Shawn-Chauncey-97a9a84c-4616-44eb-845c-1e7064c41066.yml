@@ -1,0 +1,29 @@
+id: ocd-person/97a9a84c-4616-44eb-845c-1e7064c41066
+name: Shawn Chauncey
+given_name: Shawn
+family_name: Chauncey
+gender: Male
+email: shawn.chauncey@house.ks.gov
+image: https://www.kslegislature.gov/li/s/images/pics/rep_chauncey_shawn_1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '65'
+offices:
+- classification: capitol
+  address: State Capitol Room 512-N, Kansas  Building 300 SW 10th St., Topeka, KS
+    66612
+  voice: 785-296-7483
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_chauncey_shawn_1/
+other_names:
+- name: Chauncey, S.
+- name: S. Chauncey
+- name: S.L. Chauncey
+sources:
+- url: https://ballotpedia.org/Shawn_Chauncey
+- url: https://justfacts.votesmart.org/candidate/biography/218249/shawn-chauncey
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_chauncey_shawn_1

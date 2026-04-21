@@ -1,0 +1,47 @@
+id: ocd-person/3d51aca8-81d1-4f3e-8cef-47c999626a9a
+name: Toby Stavisky
+given_name: Toby
+family_name: Stavisky
+birth_date: 1939-06-26
+gender: Female
+email: stavisky@nysenate.gov
+image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2802-09-09%29%20Stavisky-HS-034-ret.jpg?itok=7GY17zRh
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '11'
+- end_date: 2022-12-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '16'
+offices:
+- classification: capitol
+  address: Room 430, Capitol Building 172 State St., Albany, NY 12247
+  voice: 518-455-3461
+- classification: district
+  address: 134-01 20th Avenue 2nd Floor, College Point, NY 11356
+  voice: 718-445-0004
+links:
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/toby-ann-stavisky
+- url: https://www.nysenate.gov/senators/toby-ann-stavisky/contact
+other_names:
+- name: Stavisky, T.
+- name: T. Stavisky
+- name: T.A. Stavisky
+- name: Toby Ann Stavisky
+ids:
+  twitter: tobystavisky
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000058
+- scheme: legacy_openstates
+  identifier: NYL000365
+sources:
+- url: https://ballotpedia.org/Toby_Ann_Stavisky
+- url: https://en.wikipedia.org/wiki/Toby_Ann_Stavisky
+- url: https://www.nysenate.gov/senators/toby-ann-stavisky
+- url: https://www.nysenate.gov/senators/toby-ann-stavisky/contact

@@ -1,0 +1,56 @@
+id: ocd-person/1e20aaf3-ffbb-4666-82c2-374b232b41ac
+name: Chris Gildon
+given_name: Chris
+family_name: Gildon
+gender: Male
+email: chris.gildon@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/29101.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '25'
+- start_date: 2019-01-14
+  end_date: 2021-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '25'
+- start_date: 2019-01-14
+  end_date: 2021-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '25'
+offices:
+- classification: capitol
+  address: Room 311A, Irv Newhouse Building P.O. Box 40425, Olympia, WA 98504
+  voice: 360-786-7648
+links:
+- url: https://ChrisGildon.src.wastateleg.org/
+- url: https://chrisgildon.src.wastateleg.org/
+- url: https://houserepublicans.wa.gov/Chris-Gildon/
+- url: https://leg.wa.gov/legislators/member/chris-gildon
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+other_names:
+- name: C. Gildon
+- name: C.D. Gildon
+- name: Christopher Don Gildon
+- name: Gildon, C.
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/102cce10-13ca-4064-a3ab-4f6dcaaad1c9
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=Senate
+- url: https://ballotpedia.org/Chris_Gildon
+- url: https://chrisgildon.src.wastateleg.org
+- url: https://chrisgildon.src.wastateleg.org/
+- url: https://en.wikipedia.org/wiki/Chris_Gildon
+- url: https://justfacts.votesmart.org/candidate/183034/chris-gildon
+- url: https://leg.wa.gov/legislators/member/chris-gildon
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+- url: https://www.linkedin.com/in/chris-gildon-63abb79b
+extras:
+  title: Republican Deputy Leader

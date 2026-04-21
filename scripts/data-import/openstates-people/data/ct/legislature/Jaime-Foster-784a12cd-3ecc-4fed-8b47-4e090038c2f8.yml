@@ -1,0 +1,41 @@
+id: ocd-person/784a12cd-3ecc-4fed-8b47-4e090038c2f8
+name: Jaime Foster
+given_name: Jaime
+family_name: Foster
+gender: Female
+email: jaime.foster@cga.ct.gov
+image: http://www2.housedems.ct.gov/Foster/images/Foster_HS.jpg
+party:
+- name: Democratic/Independence/Working Families
+roles:
+- start_date: 2021-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '57'
+offices:
+- classification: capitol
+  address: Room 4009, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 800-842-8267
+links:
+- url: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27057%27&dist_name=057%20-%Foster,%Jaime
+- url: https://www.housedems.ct.gov/Foster
+other_names:
+- name: Foster, J.
+- name: Foster, Jaime S.
+- name: J. Foster
+- name: J.S. Foster
+- name: Jaime Foster
+- name: Jaime S. Foster
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Jaime_Foster
+- url: https://en.wikipedia.org/wiki/Jaime_Foster
+- url: https://justfacts.votesmart.org/candidate/biography/195250/jaime-foster
+- url: https://www.housedems.ct.gov/Foster
+- url: https://www.linkedin.com/in/jaime-s-foster-phd-rd-1971a437
+extras:
+  gender: Female
+  title: Assistant Majority Leader
+  committees: Energy and Technology (Vice Chair); Banking; Public Health
+  committee codes: ;BA;ET;PH;
+  prison: '0'

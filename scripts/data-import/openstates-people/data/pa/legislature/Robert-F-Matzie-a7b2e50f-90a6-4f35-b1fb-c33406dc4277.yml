@@ -1,0 +1,61 @@
+id: ocd-person/a7b2e50f-90a6-4f35-b1fb-c33406dc4277
+name: Rob Matzie
+given_name: Rob
+family_name: Matzie
+birth_date: 1968-09-22
+gender: Male
+email: rmatzie@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/1173.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2009-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '16'
+offices:
+- classification: capitol
+  address: Room 146, Main Capitol Building P.O. Box 202016, Harrisburg, PA 17120
+  voice: 717-787-4444
+  fax: 717-780-4772
+- classification: district
+  address: 1240 Merchant St., Ambridge, PA 15003
+  voice: 724-266-7774
+- classification: district
+  address: Center Township Office, Lucci Plaza 3589 Brodhead Road, Suite 5, Monaca,
+    PA 15061
+  voice: 724-987-4341
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1173
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.pahouse.com/Matzie
+- url: https://www.palegis.us/house/members/bio/1173/rep-matzie
+other_names:
+- name: Matzie, R.
+- name: R. Matzie
+- name: R.F. Matzie
+- name: Robert F. Matzie
+- name: Robert Matzie
+ids:
+  twitter: RobMatzie
+  youtube: playlist?list=PLFCB4F49FABFC43BF
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000162
+- scheme: legacy_openstates
+  identifier: PAL000305
+- scheme: legacy_openstates
+  identifier: PAL000435
+sources:
+- url: https://ballotpedia.org/Robert_Matzie
+- url: https://en.wikipedia.org/wiki/Robert_Matzie
+- url: https://justfacts.votesmart.org/candidate/biography/102491/robert-matzie
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1173
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/rob-matzie-5b315aa5
+- url: https://www.pahouse.com/Matzie
+- url: https://www.palegis.us/house/members/bio/1173/rep-matzie
+extras:
+  website: http://www.pahouse.com/Matzie

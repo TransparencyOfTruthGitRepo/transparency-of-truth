@@ -1,0 +1,41 @@
+id: ocd-person/f827b8b8-7aa1-4b7b-b40e-d7af0f40d5eb
+name: Mike Reilly
+given_name: Mike
+family_name: Reilly
+birth_date: 1973-01-30
+gender: Male
+email: reillym@nyassembly.gov
+image: https://assembly.state.ny.us/write/upload/member_files/062/headshot/062.jpg?hst=1660073788
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '62'
+offices:
+- classification: capitol
+  address: Room 437, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-4495
+- classification: district
+  address: 7001 Amboy Road Suite 202 E, Staten Island, NY 10307
+  voice: 718-967-5194
+links:
+- url: https://assembly.state.ny.us/mem/?sh=email
+- url: https://assembly.state.ny.us/mem/Michael-Reilly
+- url: https://nyassembly.gov/mem/Michael-Reilly
+other_names:
+- name: M. Reilly
+- name: M.W. Reilly
+- name: Michael Reilly
+- name: Michael W. Reilly
+- name: Reilly, M.
+ids:
+  twitter: TeamReillyNY
+sources:
+- url: https://assembly.state.ny.us/mem/Michael-Reilly
+- url: https://ballotpedia.org/Michael_Reilly_(New_York)
+- url: https://en.wikipedia.org/wiki/Michael_Reilly_(New_York_politician)
+- url: https://justfacts.votesmart.org/candidate/185197/michael-reilly
+- url: https://nyassembly.gov/mem/Michael-Reilly
+- url: https://www.linkedin.com/in/mikewreilly

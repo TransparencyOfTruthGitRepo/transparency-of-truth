@@ -1,0 +1,21 @@
+id: ocd-person/d4da45d4-fc8e-485b-9b09-ed80b8f5d5a9
+name: Gregory D. Habeeb
+given_name: Gregory D.
+family_name: Habeeb
+image: http://memdata.virginiageneralassembly.gov/images/display_image/H0232
+party:
+- name: Republican
+roles:
+- start_date: '2010-01-01'
+  end_date: '2017-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '8'
+links:
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H232
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000144
+sources:
+- url: http://lis.virginia.gov/191/mbr/MBR.HTM
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H232

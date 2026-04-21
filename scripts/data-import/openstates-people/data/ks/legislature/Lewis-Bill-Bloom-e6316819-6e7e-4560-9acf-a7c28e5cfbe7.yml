@@ -1,0 +1,38 @@
+id: ocd-person/e6316819-6e7e-4560-9acf-a7c28e5cfbe7
+name: Bill Bloom
+given_name: Bill
+family_name: Bloom
+gender: Male
+email: lewis.bloom@house.ks.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Lewis_Bloom.png
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '64'
+offices:
+- classification: capitol
+  address: State Capitol Room 512-N, Kansas  Building 300 SW 10th St., Topeka, KS
+    66612
+  voice: 785-296-7654
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_bloom_lewis_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_bloom_lewis_1/
+other_names:
+- name: B. Bloom
+- name: Bloom, B.
+- name: L. Bloom
+- name: Lewis "Bill" Bloom
+sources:
+- url: https://ballotpedia.org/Lewis_Bloom
+- url: https://en.wikipedia.org/wiki/Lewis_Bloom
+- url: https://justfacts.votesmart.org/candidate/208099/lewis-bloom
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_bloom_lewis_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_bloom_lewis_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_bloom_lewis_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_bloom_lewis_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_bloom_lewis_1/
+extras:
+  occupation: Farmer

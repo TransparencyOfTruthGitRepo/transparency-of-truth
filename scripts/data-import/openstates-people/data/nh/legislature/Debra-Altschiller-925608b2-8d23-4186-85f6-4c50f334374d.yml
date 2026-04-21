@@ -1,0 +1,59 @@
+id: ocd-person/925608b2-8d23-4186-85f6-4c50f334374d
+name: Debra Altschiller
+given_name: Debra
+family_name: Altschiller
+birth_date: 1968-06-01
+gender: Female
+email: debra.altschiller@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/59250.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '24'
+- start_date: 2016-12-07
+  end_date: 2022-12-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '24'
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 19
+offices:
+- classification: capitol
+  address: Room 5, Legislative Office Building 33 N. State St., Concord, NH 03301
+  voice: 603-271-7875
+links:
+- url: https://gc.nh.gov/senate/members/webpages/district24.aspx
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/senate/members/webpages/district24.aspx
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/Senate/members/webpages/district24.aspx
+  note: member detail page
+other_names:
+- name: Altschiller, D.
+- name: D. Altschiller
+- name: D.O. Altschiller
+- name: Debra O'Connell Altschiller
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001391
+sources:
+- url: https://ballotpedia.org/Debra_Altschiller
+- url: https://en.wikipedia.org/wiki/Debra_Altschiller
+- url: https://gc.nh.gov/senate/members/webpages/district24.aspx
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/senate/members/webpages/district24.aspx
+- url: https://justfacts.votesmart.org/candidate/biography/173138/debra-altschiller
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408616
+- url: https://www.gencourt.state.nh.us/Senate/members/webpages/district24.aspx
+- url: https://www.linkedin.com/in/debra-altschiller-ba809676
+extras:
+  county: Rockingham
+  elected status: new
+  gender code: F

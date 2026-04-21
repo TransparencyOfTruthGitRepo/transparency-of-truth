@@ -1,0 +1,42 @@
+id: ocd-person/664246f6-8749-4d3e-8b03-524dd4273b0a
+name: William Colton
+given_name: William
+family_name: Colton
+birth_date: 1946-03-06
+gender: Male
+email: coltonw@nyassembly.gov
+image: https://assembly.state.ny.us/write/upload/member_files/047/headshot/047.jpg?hst=1660073520
+party:
+- name: Democratic
+roles:
+- start_date: 1997-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '47'
+offices:
+- classification: capitol
+  address: Room 733, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-5828
+- classification: district
+  address: 155 Kings Highway, Brooklyn, NY 11223
+  voice: 718-236-1598
+links:
+- url: https://assembly.state.ny.us/mem/?sh=email
+- url: https://assembly.state.ny.us/mem/William-Colton
+- url: https://nyassembly.gov/mem/william-colton
+other_names:
+- name: Colton, W.
+- name: W. Colton
+- name: W.A. Colton
+ids:
+  twitter: AMWilliamColton
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000089
+sources:
+- url: https://assembly.state.ny.us/mem/William-Colton
+- url: https://ballotpedia.org/William_Colton
+- url: https://en.wikipedia.org/wiki/William_Colton
+- url: https://justfacts.votesmart.org/candidate/15171/william-colton
+- url: https://nyassembly.gov/mem/william-colton
+- url: https://www.linkedin.com/in/william-colton-6bb261a7

@@ -1,0 +1,62 @@
+id: ocd-person/5d3e2203-b11c-4471-8f35-5106c30263ec
+name: Scott Hutchinson
+given_name: Scott
+family_name: Hutchinson
+birth_date: 1961-08-19
+gender: Male
+email: shutchinson@pasen.gov
+image: https://www.legis.state.pa.us/images/members/200/1629.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '21'
+offices:
+- classification: capitol
+  address: Room 337, Main Capitol Senate Box 203021, Harrisburg, PA 17120
+  voice: 717-787-9684
+- classification: district
+  address: 110 E. Diamond St., Butler, PA 16001
+  voice: 724-282-1234
+- classification: district
+  address: 22045 Route 6, Warren, PA 16365
+  voice: 814-728-2100
+- classification: district
+  address: 229 Elm St., Oil City, PA 16301
+  voice: 814-677-6345
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1629
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.palegis.us/senate/members/bio/1629/sen-hutchinson
+- url: https://www.senatorscotthutchinson.com/
+other_names:
+- name: Hutchinson, S.
+- name: S. Hutchinson
+- name: S.E. Hutchinson
+- name: Scott E. Hutchinson
+ids:
+  twitter: SenHutchinson
+  facebook: SenatorScottEHutchinson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000137
+- scheme: legacy_openstates
+  identifier: PAL000437
+- scheme: legacy_openstates
+  identifier: PAL000470
+sources:
+- url: https://ballotpedia.org/Scott_Hutchinson
+- url: https://en.wikipedia.org/wiki/Scott_Hutchinson
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=S&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1629
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.palegis.us/senate/members/bio/1629/sen-hutchinson
+- url: https://www.senatorscotthutchinson.com
+extras:
+  website: http://www.senatorscotthutchinson.com/
+  Education:
+  - University of Pennsylvania Wharton School of Finance, Bachelor of Science in Economics,
+    1983; University of Pittsburgh at Titusville; Thiel College

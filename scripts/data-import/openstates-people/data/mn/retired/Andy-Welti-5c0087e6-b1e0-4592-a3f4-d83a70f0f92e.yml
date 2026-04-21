@@ -1,0 +1,17 @@
+id: ocd-person/5c0087e6-b1e0-4592-a3f4-d83a70f0f92e
+name: Andy Welti
+given_name: Andy
+family_name: Welti
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 30B
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000127
+sources:
+- url: http://www.house.leg.state.mn.us/members/meminfo.xls

@@ -1,0 +1,53 @@
+id: ocd-person/fd5d0580-766c-482c-a12f-e4689e0bcf30
+name: Bryan Cutler
+given_name: Bryan
+family_name: Cutler
+birth_date: 1975-04-02
+gender: Male
+email: bcutler@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1105.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2007-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '100'
+offices:
+- classification: capitol
+  address: Room 45, East Wing P.O. Box 202100, Harrisburg, PA 17120
+  voice: 717-783-6424
+- classification: district
+  address: 33E Friendly Drive, Quarryville, PA 17566
+  voice: 717-284-1965
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1105
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1105/rep-cutler
+- url: https://www.repcutler.com/
+other_names:
+- name: B. Cutler
+- name: B.D. Cutler
+- name: Cutler, B.
+ids:
+  twitter: repbryancutler
+  youtube: RepCutler
+  facebook: RepBryanCutler
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000084
+- scheme: legacy_openstates
+  identifier: PAL000341
+sources:
+- url: https://ballotpedia.org/Bryan_Cutler
+- url: https://en.wikipedia.org/wiki/Bryan_Cutler
+- url: https://justfacts.votesmart.org/candidate/biography/59785/bryan-cutler
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1105
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/bryan-cutler-0a59723
+- url: https://www.palegis.us/house/members/bio/1105/rep-cutler
+- url: https://www.repcutler.com
+extras:
+  website: http://www.repcutler.com

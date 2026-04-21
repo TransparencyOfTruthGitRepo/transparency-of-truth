@@ -1,0 +1,38 @@
+id: ocd-person/e1a53185-3c84-4f82-87f0-09bd607cf2e7
+name: Sean Pouche
+given_name: Sean
+family_name: Pouche
+gender: Male
+email: sean.pouche@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2209
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '13'
+offices:
+- classification: capitol
+  address: Room 233-B, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-6593
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=013
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=013
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=013
+other_names:
+- name: Pouche, S.
+- name: Pouche, Sean
+- name: S. Pouche
+- name: S.S. Pouche
+- name: Sean Scobee Pouche
+sources:
+- url: https://ballotpedia.org/Sean_Pouche
+- url: https://en.wikipedia.org/wiki/Sean_Pouche
+- url: https://house.mo.gov/MemberDetails.aspx?district=013
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=013
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=013
+- url: https://justfacts.votesmart.org/candidate/biography/169729/sean-pouche
+- url: https://www.linkedin.com/in/sean-scobee-pouche-93a251b7
+extras:
+  hometown: Kansas City

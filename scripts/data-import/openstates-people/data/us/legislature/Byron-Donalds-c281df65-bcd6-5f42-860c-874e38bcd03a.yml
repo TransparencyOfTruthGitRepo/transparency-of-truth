@@ -1,0 +1,73 @@
+id: ocd-person/c281df65-bcd6-5f42-860c-874e38bcd03a
+name: Byron Donalds
+given_name: Byron
+family_name: Donalds
+birth_date: 1978-10-28
+gender: Male
+email: https://donalds.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/D000032.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: FL-19
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: FL-19
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: FL-19
+offices:
+- classification: capitol
+  address: 1710 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-2536
+- classification: district
+  address: 1039 SE 9th Ave. Suite 308, Cape Coral, FL 33990
+  voice: 239-599-6033
+- classification: district
+  address: 3299 Tamiami Trail East Suite 105, Naples, FL 34112
+  voice: 239-252-6225
+links:
+- url: https://donalds.house.gov
+  note: website
+- url: https://donalds.house.gov/
+other_names:
+- name: B. Donalds
+- name: B.L. Donalds
+- name: Donalds, B.
+ids:
+  twitter: RepDonaldsPress
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Byron Donalds
+- scheme: bioguide
+  identifier: D000032
+- scheme: fec
+  identifier: H2FL14186
+- scheme: google_entity_id
+  identifier: kg:/g/11c1xk7pbn
+- scheme: govtrack
+  identifier: '456808'
+- scheme: opensecrets
+  identifier: N00034016
+- scheme: pictorial
+  identifier: '13000'
+- scheme: votesmart
+  identifier: '137655'
+- scheme: wikidata
+  identifier: Q59726216
+sources:
+- url: https://ballotpedia.org/Byron_Donalds
+- url: https://donalds.house.gov
+- url: https://en.wikipedia.org/wiki/Byron_Donalds
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/byron_donalds/456808
+- url: https://www.linkedin.com/in/byron-donalds-35163733

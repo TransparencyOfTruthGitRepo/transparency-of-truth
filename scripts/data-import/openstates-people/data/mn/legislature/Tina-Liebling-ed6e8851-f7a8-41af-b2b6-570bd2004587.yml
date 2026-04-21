@@ -1,0 +1,43 @@
+id: ocd-person/ed6e8851-f7a8-41af-b2b6-570bd2004587
+name: Tina Liebling
+given_name: Tina
+family_name: Liebling
+gender: Female
+email: rep.tina.liebling@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/24B.gif?v=112221
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 24B
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 26A
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-0573
+links:
+- url: https://www.house.mn.gov/members/profile/12268
+other_names:
+- name: Liebling, T.
+- name: T. Liebling
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000126
+- scheme: legacy_openstates
+  identifier: MNL000300
+- scheme: legacy_openstates
+  identifier: MNL000433
+- scheme: legacy_openstates
+  identifier: MNL000581
+sources:
+- url: https://ballotpedia.org/Tina_Liebling
+- url: https://en.wikipedia.org/wiki/Tina_Liebling
+- url: https://justfacts.votesmart.org/candidate/biography/38468/tina-liebling
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/12268
+- url: https://www.linkedin.com/in/tina-liebling-786427151

@@ -1,0 +1,47 @@
+id: ocd-person/c8a26be8-8de1-434b-864a-21697f8f15d4
+name: Bob Freeman
+given_name: Bob
+family_name: Freeman
+birth_date: 1975-07-03
+gender: Male
+email: rep.bob.freeman@capitol.tn.gov
+image: https://www.capitol.tn.gov/house/members/images/H56.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2018-11-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '56'
+offices:
+- classification: capitol
+  address: Room 592, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-0709
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H56
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h56.html
+other_names:
+- name: B. Freeman
+- name: Freeman, B
+- name: Freeman, B.
+sources:
+- url: https://ballotpedia.org/Bob_Freeman_(Tennessee)
+- url: https://en.wikipedia.org/wiki/Bob_Freeman_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/182470/bob-freeman
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H56
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h56.html
+- url: https://www.linkedin.com/in/bob-freeman-b6b58839
+extras:
+  office: 592 CHB
+  personal info:
+  - Born July 3, 1975
+  - Married, three children
+  - Real Estate
+  - Presbyterian
+  - B.S. Middle Tennessee State University
+  - M.S. Lipscomb University

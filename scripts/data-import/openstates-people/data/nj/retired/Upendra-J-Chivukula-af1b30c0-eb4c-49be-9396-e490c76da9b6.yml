@@ -1,0 +1,22 @@
+id: ocd-person/af1b30c0-eb4c-49be-9396-e490c76da9b6
+name: Upendra J Chivukula
+given_name: Upendra
+family_name: Chivukula
+middle_name: J
+image: http://www.njleg.state.nj.us/members/memberphotos/chivukula_color.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2015-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '17'
+links:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=202
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000053
+sources:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=202
+- url: http://www.njleg.state.nj.us/downloads.asp

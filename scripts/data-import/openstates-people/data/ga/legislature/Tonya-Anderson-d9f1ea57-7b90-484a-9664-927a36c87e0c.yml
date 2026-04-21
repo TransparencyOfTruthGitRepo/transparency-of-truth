@@ -1,0 +1,73 @@
+id: ocd-person/d9f1ea57-7b90-484a-9664-927a36c87e0c
+name: Tonya Anderson
+given_name: Tonya
+family_name: Anderson
+birth_date: 1969-07-16
+gender: Female
+email: tonya.anderson@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/anderson-tonya-807.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '43'
+- start_date: 2013-01-01
+  end_date: 2016-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '92'
+offices:
+- classification: capitol
+  address: State Capitol Room 110-A, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-463-2598
+- classification: district-mail
+  address: P.O. Box 1026, Lithonia, GA 30058
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/807
+- url: https://www.legis.ga.gov/members/senate/807?session=1029
+- url: https://www.legis.ga.gov/members/senate/807?session=1031
+  note: HTML member detail page
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=807&Session=27
+other_names:
+- name: ANDERSON, 43RD
+- name: Anderson, T.
+- name: T. Anderson
+- name: T.P. Anderson
+- name: Tonya Anderson
+- name: Tonya P. Anderson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000458
+- scheme: legacy_openstates
+  identifier: GAL000241
+- scheme: openstates
+  identifier: ocd-person/936dece6-443d-4164-97f4-3f9737f7807d
+sources:
+- url: https://ballotpedia.org/Tonya_Anderson
+- url: https://en.wikipedia.org/wiki/Tonya_Anderson
+- url: https://justfacts.votesmart.org/candidate/biography/142015/tonya-anderson
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.legis.ga.gov/api/members/detail/807?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/807?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/807
+- url: https://www.legis.ga.gov/members/senate/807?session=1029
+- url: https://www.legis.ga.gov/members/senate/807?session=1031
+- url: https://www.linkedin.com/in/tonyapanderson
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=807&Session=27
+extras:
+  residence: Lithonia
+  city: Lithonia
+  georgia_id: 807
+  birthday: July 16
+  occupation: Minister; Consultant
+  press: https://senatepress.net/category/senate-press/tonya-anderson
+  religion: Christian
+  spouse: Houston

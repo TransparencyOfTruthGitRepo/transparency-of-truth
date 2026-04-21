@@ -1,0 +1,55 @@
+id: ocd-person/e657ef2c-bfc3-4a08-99fe-4456be3bfe2a
+name: Patricia Cornell
+given_name: Patricia
+family_name: Cornell
+gender: Female
+email: patricia.cornell@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/49439.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 22
+- start_date: 2014-12-03
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 22
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 18
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=377289
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377289
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=841
+  note: member detail page
+other_names:
+- name: Cornell, P.
+- name: P. Cornell
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001212
+sources:
+- url: https://ballotpedia.org/Patricia_Cornell
+- url: https://en.wikipedia.org/wiki/Patricia_Cornell
+- url: https://gc.nh.gov/house/members/member.aspx?member=377289
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/154281/patricia-cornell
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377289
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=841
+- url: https://www.linkedin.com/in/patricia-cornell-77a2a416
+extras:
+  county: Hillsborough
+  elected status: Incumbent
+  gender code: F

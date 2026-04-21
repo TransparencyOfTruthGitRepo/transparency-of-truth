@@ -1,0 +1,66 @@
+id: ocd-person/4dc87191-fa52-4c2f-bc9c-8823a8b4c882
+name: Bill Cowsert
+given_name: Bill
+family_name: Cowsert
+birth_date: 1958-09-01
+gender: Male
+email: bill.cowsert@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/cowsert-bill-9.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2007-01-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '46'
+offices:
+- classification: capitol
+  address: State Capitol Room 432, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-463-1366
+- classification: district-mail
+  address: P.O. Box 512, Athens, GA 30603
+  voice: 706-543-7700
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/9?
+- url: https://www.legis.ga.gov/members/senate/9?session=1029
+- url: https://www.legis.ga.gov/members/senate/9?session=1031
+  note: HTML member detail page
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=9&Session=27
+other_names:
+- name: B. Cowsert
+- name: Bill Cowsert
+- name: COWSERT, 46TH
+- name: Cowsert, B.
+- name: W.S. Cowsert
+- name: William Stone Cowsert
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000009
+sources:
+- url: https://ballotpedia.org/Bill_Cowsert
+- url: https://en.wikipedia.org/wiki/Bill_Cowsert
+- url: https://justfacts.votesmart.org/candidate/biography/31562/bill-cowsert
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.legis.ga.gov/api/members/detail/9?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/9?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/9?
+- url: https://www.legis.ga.gov/members/senate/9?session=1029
+- url: https://www.legis.ga.gov/members/senate/9?session=1031
+- url: https://www.linkedin.com/in/bill-cowsert-0abb578
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=9&Session=27
+extras:
+  residence: Athens
+  city: Athens
+  georgia_id: 9
+  birthday: September 1
+  occupation: Attorney
+  press: https://senatepress.net/category/senate-press/bill-cowsert
+  spouse: Amy
+  staff: Cyndi West
+  staff email: cyndi.west@senate.ga.gov

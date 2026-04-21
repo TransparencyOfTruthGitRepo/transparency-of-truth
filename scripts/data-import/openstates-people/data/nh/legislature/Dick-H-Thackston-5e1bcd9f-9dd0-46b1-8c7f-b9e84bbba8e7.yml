@@ -1,0 +1,35 @@
+id: ocd-person/5e1bcd9f-9dd0-46b1-8c7f-b9e84bbba8e7
+name: Dick Thackston
+given_name: Dick
+family_name: Thackston
+gender: Male
+email: thackston3@aol.com
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123438.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 12
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=6938
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=6938
+  note: member detail page
+other_names:
+- name: D. Thackston
+- name: Dick H Thackston
+- name: Thackston, D.
+sources:
+- url: https://ballotpedia.org/Dick_Thackston
+- url: https://gc.nh.gov/house/members/member.aspx?pid=6938
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=6938
+- url: https://www.linkedin.com/in/dick-thackston-crb-abrm-49061610
+- url: https://www.thackston4nh.com/about
+extras:
+  county: Cheshire
+  gender code: M

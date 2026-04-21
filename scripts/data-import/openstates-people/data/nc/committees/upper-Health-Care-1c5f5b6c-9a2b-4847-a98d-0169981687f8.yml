@@ -1,0 +1,78 @@
+id: ocd-organization/1c5f5b6c-9a2b-4847-a98d-0169981687f8
+jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+classification: committee
+name: Health Care
+chamber: upper
+sources:
+- url: https://www.ncleg.gov/committees
+  note: committees list page
+- url: https://www.ncleg.gov/Committees/CommitteeInfo/SenateStanding/139
+  note: committee details page
+links:
+- url: https://www.ncleg.gov/Committees/CommitteeInfo/SenateStanding/139
+  note: homepage
+members:
+- name: Amy Galey
+  role: chair
+  person_id: ocd-person/8be9deca-bbd6-404f-8726-0aecaeb19ca7
+- name: Benton Sawrey
+  role: chair
+  person_id: ocd-person/0c960acb-381f-4ce9-b9d3-313fd882b6e1
+- name: Jim Burgin
+  role: chair
+  person_id: ocd-person/9793e1e4-641c-4a5c-b1bc-7f6d0a65a655
+- name: Danny Britt
+  role: member
+  person_id: ocd-person/91f238a6-29fd-4b65-bc48-1464da11786b
+- name: Eddie Settle
+  role: member
+  person_id: ocd-person/b4b6f0a7-baca-4062-947a-989cb9f98356
+- name: Gale Adcock
+  role: member
+  person_id: ocd-person/1ba9c7a6-3a28-47ec-9704-6f3437463845
+- name: Gladys Robinson
+  role: member
+  person_id: ocd-person/af3f63da-d39a-4542-b0f2-41f118d96f55
+- name: Joyce Waddell
+  role: member
+  person_id: ocd-person/3e8067e6-6232-4ebb-979c-d077ab968446
+- name: Julie Mayfield
+  role: member
+  person_id: ocd-person/c8ac71ee-e3dc-450f-83f7-efeb363e88bc
+- name: Kevin Corbin
+  role: member
+  person_id: ocd-person/410836ee-4f48-4934-8f95-fca6b2d2f051
+- name: Lisa Barnes
+  role: member
+  person_id: ocd-person/21577fbd-e06f-4bc3-8717-e050ff165a74
+- name: Mark Hollo
+  role: member
+  person_id: ocd-person/1afc84ab-30e5-413a-8975-2a552e050aee
+- name: Michael Garrett
+  role: member
+  person_id: ocd-person/f40a7222-92eb-4d8e-ad4d-7008b859aae7
+- name: Michael Lee
+  role: member
+  person_id: ocd-person/082079ab-53d2-43e5-be5f-cb7c6054edd3
+- name: Mujtaba Mohammed
+  role: member
+  person_id: ocd-person/c733e47e-af6a-4f31-a350-010043b5164b
+- name: Natalie Murdock
+  role: member
+  person_id: ocd-person/121cec2b-d03f-45bc-a835-1ae5f4eb18d3
+- name: Ralph Hise
+  role: member
+  person_id: ocd-person/25828c07-8295-45af-bd01-b044b59d530a
+- name: Tim Moffitt
+  role: member
+  person_id: ocd-person/20f45197-ec0c-4031-a889-2825bffb008a
+- name: Todd Johnson
+  role: member
+  person_id: ocd-person/37e615d5-0c02-488c-83e2-e6e6df5b8184
+- name: Val Applewhite
+  role: member
+  person_id: ocd-person/1ba98521-ee10-414a-9cf0-8b389ad02ffe
+other_names:
+- name: Senate Committee on Health Care
+- name: Senate Health Care
+- name: Senate Health Care Committee

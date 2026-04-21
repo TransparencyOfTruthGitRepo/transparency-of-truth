@@ -1,0 +1,48 @@
+id: ocd-person/816e7215-dcff-46c3-b1a5-f3c3387b14be
+name: Mike Steele
+given_name: Mike
+family_name: Steele
+gender: Male
+email: mike.steele@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/10546.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '12'
+offices:
+- classification: capitol
+  address: Room 425A, Legislative Building P.O. Box 40600, Olympia, WA 98504
+  voice: 360-786-7832
+links:
+- url: https://houserepublicans.wa.gov/Mike-Steele/
+- url: https://leg.wa.gov/legislators/member/mike-steele
+- url: https://MikeSteele.houserepublicans.wa.gov/
+- url: https://mikesteele.houserepublicans.wa.gov/
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_names:
+- name: M. Steele
+- name: M.A. Steele
+- name: Steele, M.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000265
+- scheme: legacy_openstates
+  identifier: WAL000271
+- scheme: legacy_openstates
+  identifier: WAL000274
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=House
+- url: https://ballotpedia.org/Mike_Steele
+- url: https://en.wikipedia.org/wiki/Mike_Steele_(Washington_politician)
+- url: https://justfacts.votesmart.org/candidate/170954/mike-steele
+- url: https://leg.wa.gov/legislators/member/mike-steele
+- url: https://mikesteele.houserepublicans.wa.gov
+- url: https://mikesteele.houserepublicans.wa.gov/
+- url: https://mikesteele.houserepublicans.wa.gov/about
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+- url: https://www.linkedin.com/in/mike-steele-b6942384
+extras:
+  title: Deputy Minority Leader

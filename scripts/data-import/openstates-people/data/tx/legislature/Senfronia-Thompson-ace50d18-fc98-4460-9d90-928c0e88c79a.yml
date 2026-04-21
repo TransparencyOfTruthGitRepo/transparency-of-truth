@@ -1,0 +1,49 @@
+id: ocd-person/ace50d18-fc98-4460-9d90-928c0e88c79a
+name: Senfronia Thompson
+given_name: Senfronia
+family_name: Thompson
+birth_date: 1939-01-01
+gender: Female
+email: senfronia.thompson@house.texas.gov
+image: https://house.texas.gov/images/members/4630.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 1983-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '141'
+- start_date: 1973-01-09
+  end_date: 1983-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '141'
+offices:
+- classification: capitol
+  address: Room 3S.6, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0720
+- classification: district
+  address: 350 N. Sam Houston Parkway Suite B202, Houston, TX 77060
+  voice: 713-633-3390
+links:
+- url: https://house.texas.gov/members/4630
+- url: https://house.texas.gov/members/member-page/?district=141
+other_names:
+- name: S. Thompson
+- name: S.C. Thompson
+- name: Thompson, S.
+- name: Thompson, Senfronia
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000352
+- scheme: legacy_openstates
+  identifier: TXL000170
+- scheme: legacy_openstates
+  identifier: TXL000531
+sources:
+- url: https://ballotpedia.org/Senfronia_Thompson
+- url: https://en.wikipedia.org/wiki/Senfronia_Thompson
+- url: https://house.texas.gov/members/4630
+- url: https://house.texas.gov/members/member-page/?district=141
+- url: https://justfacts.votesmart.org/candidate/biography/8012/senfronia-thompson
+- url: https://www.linkedin.com/in/senfronia-thompson-85a4737b

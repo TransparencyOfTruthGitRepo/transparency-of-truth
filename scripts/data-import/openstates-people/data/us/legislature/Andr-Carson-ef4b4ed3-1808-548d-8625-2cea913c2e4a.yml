@@ -1,0 +1,123 @@
+id: ocd-person/ef4b4ed3-1808-548d-8625-2cea913c2e4a
+name: "Andr\xE9 Carson"
+given_name: "Andr\xE9"
+family_name: Carson
+birth_date: 1974-10-16
+gender: Male
+email: https://carson.house.gov/address_authentication?form=/contact/email-me
+image: https://unitedstates.github.io/images/congress/450x550/C001072.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2008-03-11
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IN-7
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IN-7
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IN-7
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IN-7
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IN-7
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IN-7
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IN-7
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IN-7
+- start_date: 2009-01-06
+  end_date: 2011-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IN-7
+- start_date: 2008-03-13
+  end_date: 2009-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IN-7
+offices:
+- classification: capitol
+  address: 2135 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-4011
+  fax: 202-225-5633
+- classification: district
+  address: Julia Carson Government Center 300 E. Fall Creek Parkway North Drive, Suite
+    300, Indianapolis, IN 46205
+  voice: 317-283-6516
+  fax: 317-283-6567
+links:
+- url: https://carson.house.gov
+  note: website
+- url: https://carson.house.gov/
+other_names:
+- name: A. Carson
+- name: A.D. Carson
+- name: Carson, A.
+ids:
+  twitter: RepAndreCarson
+  youtube: UCprUnnEgM2VUGmAKSaZXCSw
+  facebook: CongressmanAndreCarson
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Andre Carson
+- scheme: bioguide
+  identifier: C001072
+- scheme: cspan
+  identifier: '1027364'
+- scheme: fec
+  identifier: H8IN07184
+- scheme: google_entity_id
+  identifier: kg:/m/03qcvz1
+- scheme: govtrack
+  identifier: '412258'
+- scheme: house_history
+  identifier: '11806'
+- scheme: icpsr
+  identifier: '20757'
+- scheme: maplight
+  identifier: '739'
+- scheme: opensecrets
+  identifier: N00029513
+- scheme: pictorial
+  identifier: '13056'
+- scheme: thomas
+  identifier: 01889
+- scheme: votesmart
+  identifier: '84917'
+- scheme: wikidata
+  identifier: Q517649
+- scheme: wikipedia
+  identifier: "Andr\xE9 Carson"
+sources:
+- url: https://ballotpedia.org/Andr%C3%A9_Carson
+- url: https://carson.house.gov
+- url: https://en.wikipedia.org/wiki/Andr%C3%A9_Carson
+- url: https://justfacts.votesmart.org/candidate/84917/andre-carson
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/andre_carson/412258
+- url: https://www.linkedin.com/in/rep-andre-carson-16a100161

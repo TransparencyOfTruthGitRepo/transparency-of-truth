@@ -1,0 +1,43 @@
+id: ocd-person/8302648f-4ed2-454e-ad1e-d7389e25b8dc
+name: Angelo Puppolo
+given_name: Angelo
+family_name: Puppolo
+gender: Male
+email: angelo.puppolo@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/AJP1.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 12th Hampden
+offices:
+- classification: capitol
+  address: Room 122, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2006
+- classification: district
+  address: 2341 Boston Road Suite 204, Wilbraham, MA 01095
+  voice: 413-596-4333
+links:
+- url: https://malegislature.gov/Legislators/Profile/AJP1
+other_names:
+- name: A. Puppolo
+- name: A.J. Puppolo
+- name: Angelo J. Puppolo
+- name: Angelo J. Puppolo, Jr.
+- name: Puppolo, A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000489
+sources:
+- url: https://ballotpedia.org/Angelo_Puppolo,_Jr.
+- url: https://en.wikipedia.org/wiki/Angelo_Puppolo
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/AJP1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/AJP1
+- url: https://malegislature.gov/Legislators/Profile/AJP1
+extras:
+  member code: AJP1

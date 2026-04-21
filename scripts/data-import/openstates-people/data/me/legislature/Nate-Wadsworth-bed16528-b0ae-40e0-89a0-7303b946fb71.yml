@@ -1,0 +1,36 @@
+id: ocd-person/bed16528-b0ae-40e0-89a0-7303b946fb71
+name: Nate Wadsworth
+given_name: Nate
+family_name: Wadsworth
+gender: Male
+email: nathan.wadsworth@legislature.maine.gov
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '82'
+- start_date: 2014-12-03
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '82'
+offices:
+- classification: capitol
+  address: Room 332, House Republican Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/46
+- url: https://mainehousegop.org/members/wadsworth-nathan/
+other_names:
+- name: N. Wadsworth
+- name: N.J. Wadsworth
+- name: Nathan WADSWORTH
+- name: Wadsworth, N.
+sources:
+- url: https://ballotpedia.org/Nathan_Wadsworth
+- url: https://justfacts.votesmart.org/candidate/biography/151518/nathan-wadsworth
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/46
+- url: https://mainehousegop.org/members/wadsworth-nathan
+- url: https://www.linkedin.com/in/nate-wadsworth-088ab112

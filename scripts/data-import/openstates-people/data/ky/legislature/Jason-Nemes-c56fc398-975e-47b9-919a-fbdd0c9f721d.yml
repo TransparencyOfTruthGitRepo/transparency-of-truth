@@ -1,0 +1,48 @@
+id: ocd-person/c56fc398-975e-47b9-919a-fbdd0c9f721d
+name: Jason Nemes
+given_name: Jason
+family_name: Nemes
+birth_date: 1978-03-27
+gender: Male
+email: jason.nemes@kylegislature.gov
+image: https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house33.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '33'
+offices:
+- classification: capitol-mail
+  address: Room Annex 372, 702 Capital Ave., Frankfort, KY 40601
+  voice: 502-564-8100
+- classification: capitol-mail
+  address: Room Capitol 316A, 700 Capital Ave., Frankfort, KY 40601
+links:
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=33
+  note: homepage
+other_names:
+- name: J. Nemes
+- name: J.M. Nemes
+- name: Jason M. Nemes
+- name: Nemes, J.
+ids:
+  twitter: jmnemes
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000262
+sources:
+- url: https://ballotpedia.org/Jason_Michael_Nemes
+- url: https://en.wikipedia.org/wiki/Jason_Nemes
+- url: https://legislature.ky.gov/Legislators/house-of-representatives
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=33
+- url: https://www.linkedin.com/in/jasonnemes
+extras:
+  title: Majority Whip
+  counties represented:
+  - Jefferson (Part)
+  - Oldham (Part)
+  - Shelby
+  mailing address: 702 Capital Ave Annex Room 372 Frankfort, KY 40601
+  home city: Middletown

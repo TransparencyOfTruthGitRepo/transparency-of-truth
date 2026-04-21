@@ -1,0 +1,51 @@
+id: ocd-person/1951ae06-881a-4c43-9635-224878c3ecb5
+name: Joanna McClinton
+given_name: Joanna
+family_name: McClinton
+birth_date: 1982-08-19
+gender: Female
+email: repjoanna191@gmail.com
+image: https://www.legis.state.pa.us/images/members/200/1734.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2015-08-25
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '191'
+offices:
+- classification: capitol
+  address: Room 139, Main Capitol Building P.O. Box 202191, Harrisburg, PA 17120
+  voice: 717-772-9850
+- classification: district
+  address: 149 S. 60th St., Philadelphia, PA 19139
+  voice: 215-748-6712
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1734
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.pahouse.com/McClinton/
+- url: https://www.palegis.us/house/members/bio/1734/rep-mcclinton
+other_names:
+- name: J. McClinton
+- name: J.E. McClinton
+- name: Joanna E. McClinton
+- name: McClinton, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000526
+sources:
+- url: https://ballotpedia.org/Joanna_McClinton
+- url: https://en.wikipedia.org/wiki/Joanna_E._McClinton
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1734
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/jmcclintonesq
+- url: https://www.pahouse.com/McClinton
+- url: https://www.palegis.us/house/members/bio/1734/rep-mcclinton
+extras:
+  Education:
+  - Grace Temple Christian Academy, 1999-HS Diploma
+  - LaSalle University, 2003 BA Political Science, concentration Leadership & Global
+    Understanding
+  - Villanova University School of Law, 2006-Juris Doctorate

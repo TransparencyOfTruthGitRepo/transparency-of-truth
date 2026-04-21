@@ -1,0 +1,40 @@
+id: ocd-person/9637b27c-9ddb-4828-8bf3-c21b64ebb4fe
+name: Mark Harris
+given_name: Mark
+family_name: Harris
+birth_date: 1966-04-24
+gender: Male
+email: https://markharris.house.gov/address_authentication?form=/contact/email-me
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NC-8
+offices:
+- classification: capitol
+  address: 126 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-1976
+- classification: district
+  address: 300 N. Main St., Monroe, NC 28112
+  voice: 704-218-5300
+- classification: district
+  address: Laurinburg City Hall 303 W. Church St., Laurinburg, NC 28352
+  voice: 910-887-6424
+links:
+- url: https://markharris.house.gov/
+other_names:
+- name: Harris, M.
+- name: M. Harris
+- name: M.E. Harris
+other_identifiers:
+- scheme: bioguide
+  identifier: H001102
+sources:
+- url: https://ballotpedia.org/Mark_Harris_(North_Carolina)
+- url: https://en.wikipedia.org/wiki/Mark_Harris_(North_Carolina_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/146230/mark-harris
+- url: https://markharris.house.gov
+- url: https://markharrisforcongress.org/about1

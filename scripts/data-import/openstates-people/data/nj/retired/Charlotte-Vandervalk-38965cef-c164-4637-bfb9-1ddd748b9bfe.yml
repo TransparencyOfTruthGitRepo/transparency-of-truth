@@ -1,0 +1,17 @@
+id: ocd-person/38965cef-c164-4637-bfb9-1ddd748b9bfe
+name: Charlotte Vandervalk
+given_name: Charlotte
+family_name: Vandervalk
+party:
+- name: Republican
+roles:
+- start_date: '2008-01-01'
+  end_date: '2011-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '39'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000119
+sources:
+- url: ftp://www.njleg.state.nj.us/ag/2008data/ROSTER.DBF

@@ -1,0 +1,23 @@
+id: ocd-person/bbc0df25-6bb4-49e9-ae5c-a3d4675e60ff
+name: George N. Peterson Jr
+given_name: George
+family_name: Peterson
+middle_name: N.
+image: https://malegislature.gov/Images/MemberProfile/Web/gpeterson.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 9th Worcester
+links:
+- url: http://www.malegislature.gov/People/Profile/GNP1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000156
+- scheme: legacy_openstates
+  identifier: MAL000298
+sources:
+- url: http://www.malegislature.gov/People/Profile/GNP1

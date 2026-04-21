@@ -1,0 +1,55 @@
+id: ocd-person/8e49fca4-e0d8-4273-adab-265632163d86
+name: Paul Bailey
+given_name: Paul
+family_name: Bailey
+birth_date: 1968-03-04
+gender: Male
+email: sen.paul.bailey@capitol.tn.gov
+image: http://www.capitol.tn.gov/senate/members/images/s15.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2014-11-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '15'
+offices:
+- classification: capitol
+  address: Room 736, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-3978
+links:
+- url: https://paulbaileyfortn.com/
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S15
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S15&ga=114
+- url: https://www.capitol.tn.gov/senate/members/s15.html
+other_names:
+- name: Bailey, P
+- name: Bailey, P.
+- name: P. Bailey
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000316
+- scheme: legacy_openstates
+  identifier: TNL000365
+- scheme: legacy_openstates
+  identifier: TNL000454
+sources:
+- url: https://ballotpedia.org/Paul_Bailey_(Tennessee)
+- url: https://en.wikipedia.org/wiki/Paul_Bailey_(politician)
+- url: https://paulbaileyfortn.com
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S15
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S15&ga=114
+- url: https://www.capitol.tn.gov/senate/members
+- url: https://www.capitol.tn.gov/senate/members/
+- url: https://www.capitol.tn.gov/senate/members/s15.html
+extras:
+  office: 736 CHB
+  personal info:
+  - Born on March 4, 1968
+  - Married, wife Amy, three children
+  - Christian
+  - Trucking, Small Farmer
+  - Tennessee Tech University

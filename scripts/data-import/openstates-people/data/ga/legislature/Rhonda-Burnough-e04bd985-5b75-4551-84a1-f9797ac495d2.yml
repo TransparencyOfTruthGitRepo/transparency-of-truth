@@ -1,0 +1,63 @@
+id: ocd-person/e04bd985-5b75-4551-84a1-f9797ac495d2
+name: Rhonda Burnough
+given_name: Rhonda
+family_name: Burnough
+birth_date: 1954-11-02
+gender: Female
+email: rhonda.burnough@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/burnough-rhonda-4895.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '77'
+offices:
+- classification: capitol
+  address: Room 409-C, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0116
+- classification: district
+  address: 7843 Clearview Circle, Riverdale, GA 30296
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4895&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4895
+- url: https://www.legis.ga.gov/members/house/4895?session=1029
+- url: https://www.legis.ga.gov/members/house/4895?session=1031
+  note: HTML member detail page
+other_names:
+- name: BURNOUGH, 77TH
+- name: Burnough, R.
+- name: R. Burnough
+- name: R.M. Burnough
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000451
+sources:
+- url: https://ballotpedia.org/Rhonda_Burnough
+- url: https://en.wikipedia.org/wiki/Rhonda_Burnough
+- url: https://justfacts.votesmart.org/candidate/biography/168337/rhonda-burnough
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4895&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4895?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4895?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4895
+- url: https://www.legis.ga.gov/members/house/4895?session=1029
+- url: https://www.linkedin.com/in/rhonda-burnough-2166174a
+extras:
+  residence: Riverdale
+  city: Riverdale
+  georgia_id: 4895
+  birthday: November 2
+  occupation: Educator
+  press: https://house-press.com/representative/Rhonda-Burnough
+  spouse: Clarence Orie
+  staff: a href="
+  staff email: ''

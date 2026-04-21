@@ -1,0 +1,25 @@
+id: ocd-person/7c54f126-a624-4ac2-939b-87a09f59585d
+name: Jeff Jones
+given_name: Jeff
+family_name: Jones
+email: jeff.jones@house.ga.gov
+image: http://www.house.ga.gov/SiteCollectionImages/JonesJeff861.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '167'
+links:
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=861&Session=27
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000413
+- scheme: legacy_openstates
+  identifier: GAL000419
+sources:
+- url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=861&Session=27
+extras:
+  guid: 861

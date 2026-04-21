@@ -1,0 +1,59 @@
+id: ocd-person/28caa8bd-605b-4755-85a0-52434a9be02f
+name: Dave Armstrong
+given_name: Dave
+family_name: Armstrong
+birth_date: 1961-10-03
+gender: Male
+email: rep.armstrong@legis.wisconsin.gov
+image: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2444.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '67'
+- start_date: 2021-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '75'
+  end_date: 2025-01-06
+links:
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/2268
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2444
+- url: https://docs.legis.wisconsin.gov/2025/legislators/assembly/2866
+- url: https://legis.wisconsin.gov/assembly/67/armstrong
+- url: https://legis.wisconsin.gov/assembly/67/armstrong/about/
+- url: https://legis.wisconsin.gov/assembly/75/armstrong
+other_names:
+- name: ARMSTRONG, D
+- name: Armstrong, D
+- name: Armstrong, D.
+- name: D. Armstrong
+- name: D.B. Armstrong
+- name: David Armstrong
+- name: David B. Armstrong
+sources:
+- url: https://ballotpedia.org/David_Armstrong_(Wisconsin)
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/2268
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/
+  note: members list page
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2444
+  note: member detail page
+- url: https://docs.legis.wisconsin.gov/2025/legislators/assembly/2866
+- url: https://en.wikipedia.org/wiki/David_Armstrong_(Wisconsin_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/193949/david-armstrong
+- url: https://legis.wisconsin.gov/assembly/67/armstrong
+- url: https://legis.wisconsin.gov/assembly/67/armstrong/about
+- url: https://legis.wisconsin.gov/assembly/75/armstrong
+- url: https://www.linkedin.com/in/david-armstrong-a698b721
+extras:
+  website: https://legis.wisconsin.gov/assembly/75/armstrong
+  extra phone: (888) 534-0075
+  staff1: Matt Pulda
+  staff_email1: Matt.Pulda@legis.wisconsin.gov
+  staff2: Tanner Schafer
+  staff_email2: Tanner.Schafer@legis.wisconsin.gov

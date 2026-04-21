@@ -1,0 +1,35 @@
+id: ocd-person/fb743246-9c86-45f5-95eb-34bc1e11bef1
+name: Eric Buckson
+given_name: Eric
+family_name: Buckson
+gender: Male
+email: eric.buckson@delaware.gov
+image: https://senategop.delaware.gov/wp-content/blogs.dir/216/files/sites/216/2022/11/Buckson.Headshot.2023.Downsized-710x710.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:de/government
+  district: '16'
+offices:
+- classification: capitol
+  address: P.O. Box 1401 411 Legislative Ave., Dover, DE 19901
+  voice: 302-744-4169
+links:
+- url: https://legis.delaware.gov/AssemblyMember/152/Buckson
+- url: https://legis.delaware.gov/LegislatorDetail?personId=24305
+  note: homepage
+- url: https://senategop.delaware.gov/members/senate-district-16/
+other_names:
+- name: Buckson, E.
+- name: E. Buckson
+- name: E.L. Buckson
+sources:
+- url: https://ballotpedia.org/Eric_Buckson
+- url: https://en.wikipedia.org/wiki/Eric_Buckson
+- url: https://legis.delaware.gov/AssemblyMember/152/Buckson
+- url: https://legis.delaware.gov/json/Senate/GetSenators
+- url: https://legis.delaware.gov/LegislatorDetail?personId=24305
+- url: https://senategop.delaware.gov/members/senate-district-16
+- url: https://www.linkedin.com/in/eric-buckson-782a1519

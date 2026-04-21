@@ -1,0 +1,15 @@
+id: ocd-person/373f5136-b0ed-4f7e-a04d-02eb355672a2
+name: Thaddeus Jones
+given_name: Thaddeus
+family_name: Jones
+email: mayorsoffice@calumetcity.org
+roles:
+- end_date: '2025-04-01'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:il/place:calumet_city/government
+offices:
+- classification: primary
+  address: 204 Pulaski Road;Calumet City, IL 60409
+  voice: 708-891-8106
+sources:
+- url: https://calumetcity.org/office-of-the-mayor/

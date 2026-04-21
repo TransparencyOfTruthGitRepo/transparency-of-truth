@@ -1,0 +1,24 @@
+id: ocd-person/411c93f3-0ec0-4282-a87c-eeb32bcea9e8
+name: Jack R Draxler
+given_name: Jack
+family_name: Draxler
+middle_name: R
+image: http://le.utah.gov/images/legislator/DRAXLJR.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '3'
+links:
+- url: http://le.utah.gov/house2/detail.jsp?i=DRAXLJR
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: UTL000047
+- scheme: legacy_openstates
+  identifier: UTL000265
+sources:
+- url: http://le.utah.gov/house2/detail.jsp?i=DRAXLJR
+- url: http://le.utah.gov/data/legislators.json

@@ -1,0 +1,31 @@
+id: ocd-person/8d581a25-a2ea-46ee-be26-3c6698559b78
+name: Ryan Spiegel
+given_name: Ryan
+family_name: Spiegel
+birth_date: 1978-07-06
+gender: Male
+email: ryan.spiegel@house.maryland.gov
+image: https://mgaleg.maryland.gov/2023RS/images/spiegel01.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-07-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '17'
+offices:
+- classification: capitol
+  address: Room 223, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3792
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/spiegel01
+other_names:
+- name: R. Spiegel
+- name: R.S. Spiegel
+- name: Spiegel, R.
+sources:
+- url: https://ballotpedia.org/Ryan_Spiegel
+- url: https://en.wikipedia.org/wiki/Ryan_Spiegel
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/spiegel01
+- url: https://www.linkedin.com/in/ryanspiegel
+- url: https://www.ryanspiegel.com/ryan

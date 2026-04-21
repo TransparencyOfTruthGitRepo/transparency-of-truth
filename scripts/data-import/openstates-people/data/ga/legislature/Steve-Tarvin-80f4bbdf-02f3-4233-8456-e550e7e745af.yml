@@ -1,0 +1,65 @@
+id: ocd-person/80f4bbdf-02f3-4233-8456-e550e7e745af
+name: Steve Tarvin
+given_name: Steve
+family_name: Tarvin
+birth_date: 1951-06-02
+gender: Male
+email: steve.tarvin@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/tarvin-steve-849.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2014-02-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '2'
+offices:
+- classification: capitol
+  address: Room 613-C, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-463-3793
+- classification: district-mail
+  address: P.O. Box 750, Chickamauga, GA 30707
+  voice: 423-605-7328
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=849&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/849
+- url: https://www.legis.ga.gov/members/house/849?session=1029
+- url: https://www.legis.ga.gov/members/house/849?session=1031
+  note: HTML member detail page
+other_names:
+- name: S. Tarvin
+- name: T.S. Tarvin
+- name: TARVIN, 2ND
+- name: Tarvin, S.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000392
+sources:
+- url: https://ballotpedia.org/Steve_Tarvin
+- url: https://en.wikipedia.org/wiki/Steve_Tarvin
+- url: https://justfacts.votesmart.org/candidate/biography/120443/steve-tarvin
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=849&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/849?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/849?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/849
+- url: https://www.legis.ga.gov/members/house/849?session=1029
+- url: https://www.linkedin.com/in/steve-tarvin-b36a7429
+extras:
+  residence: Chickamauga
+  city: Chickamauga
+  georgia_id: 849
+  birthday: June 2
+  occupation: Insurance Agent
+  press: https://house-press.com/representative/Steve-Tarvin
+  spouse: Jennifer
+  staff: Jan Brown - Administrative Assistant
+  staff email: jan.brown@house.ga.gov
+  title: Chairman, Information & Audits

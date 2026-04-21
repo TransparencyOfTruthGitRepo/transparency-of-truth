@@ -1,0 +1,77 @@
+id: ocd-organization/e04489aa-cefe-4b13-adf1-309e6063da58
+jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+classification: committee
+name: 'Judiciary: Non-Civil'
+chamber: lower
+sources:
+- url: https://www.legis.ga.gov/api/committees/details/146/1029
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/details/146/1031
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1029
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1031
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/committees/house/146
+links:
+- url: https://www.legis.ga.gov/committees/house/146
+  note: homepage
+members:
+- name: Tyler Smith
+  role: chair
+  person_id: ocd-person/4b162447-89a7-4ffc-acbf-617e1ad87e2a
+- name: Deborah Silcox
+  role: vice chair
+  person_id: ocd-person/b824f8fd-7343-449d-8027-fcd0afaf1949
+- name: Stan Gunter
+  role: ex officio
+  person_id: ocd-person/432ef767-d4c8-4736-b2ac-96397205fb3d
+- name: Soo Hong
+  role: secretary
+  person_id: ocd-person/64721c9b-451c-4bc9-9040-4ca232ffd746
+- name: Bill Fincher
+  role: member
+  person_id: ocd-person/f2444048-8c14-45b2-b700-37f7899fa5bb
+- name: Charlice Byrd
+  role: member
+  person_id: ocd-person/0d75f0d9-0242-4f72-b4f3-1cd085eb26b6
+- name: Chuck Efstration
+  role: member
+  person_id: ocd-person/3ff894cb-f2e4-47d0-9f67-b125245a10c3
+- name: Clint Crowe
+  role: member
+  person_id: ocd-person/e1a9102d-f845-47f5-882e-e344eef060ec
+- name: Dar'shun Kendrick
+  role: member
+  person_id: ocd-person/1f94316e-fb58-401f-bbfc-5ada0a717b6b
+- name: El-Mahdi Holly
+  role: member
+  person_id: ocd-person/4615e308-db74-408f-89df-02be56b5013b
+- name: Esther Panitch
+  role: member
+  person_id: ocd-person/bdc621be-7296-4383-8c45-b4533d1c106c
+- name: James Burchett
+  role: member
+  person_id: ocd-person/dbce462d-74e3-42d3-bd6c-3b9f8eeb69fe
+- name: Joseph Gullett
+  role: member
+  person_id: ocd-person/f36d2507-b19a-4ee5-b4f9-5c06df761edf
+- name: Rob Leverett
+  role: member
+  person_id: ocd-person/29210f3f-ec97-47c8-9492-b81154275109
+- name: Sharon Cooper
+  role: member
+  person_id: ocd-person/15db25fc-273b-467f-b8f9-897337f40b65
+- name: Shea Roberts
+  role: member
+  person_id: ocd-person/9007dcd9-3246-4cf3-9185-7478b3a9ad7a
+- name: Yasmin Neal
+  role: member
+  person_id: ocd-person/6f986b42-14f6-4147-9466-c49294331db9
+other_names:
+- name: 'House Committee on Judiciary: Non-Civil'
+- name: 'House Judiciary: Non-Civil'
+- name: 'House Judiciary: Non-Civil Committee'
+extras:
+  address: 401-K State Capitol  Atlanta, GA 30334
+  phone: '4044637853'

@@ -1,0 +1,48 @@
+id: ocd-person/d1572354-a456-47fa-aa21-58be9884a3bb
+name: Dean Kirby
+given_name: Dean
+family_name: Kirby
+birth_date: 1946-11-21
+gender: Male
+email: dkirby@senate.ms.gov
+image: http://billstatus.ls.state.ms.us/members/senate/kirby.jpg
+party:
+- name: Republican
+roles:
+- start_date: 1992-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '30'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, 400 High St., Jackson, MS 39201
+  voice: 601-359-4089
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+- classification: district-mail
+  address: P.O. Box 54099, Pearl, MS 39288
+links:
+- url: https://billstatus.ls.state.ms.us/members/senate/Kirby.xml
+  note: homepage
+- url: https://billstatus.ls.state.ms.us/members/senate/kirby.xml
+  note: homepage
+other_names:
+- name: D. Kirby
+- name: Kirby, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000031
+sources:
+- url: https://ballotpedia.org/Dean_Kirby
+- url: https://billstatus.ls.state.ms.us/members/senate/kirby.xml
+- url: https://billstatus.ls.state.ms.us/members/senate/Kirby.xml
+- url: https://billstatus.ls.state.ms.us/members/ss_membs.xml
+- url: https://en.wikipedia.org/wiki/Dean_Kirby
+- url: https://www.linkedin.com/in/dean-kirby-16433832
+extras:
+  title: President Pro Tempore
+  occupation: Insurance
+  education:
+  - Mississippi College
+  counties represented:
+  - Rankin

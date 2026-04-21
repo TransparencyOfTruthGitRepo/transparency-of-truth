@@ -1,0 +1,45 @@
+id: ocd-person/c7436be4-472a-4d5e-82f5-f46359395d3a
+name: Bobby Joe Champion
+given_name: Bobby Joe
+family_name: Champion
+birth_date: 1963-12-17
+gender: Male
+email: sen.bobby.champion@senate.mn
+image: https://www.senate.mn/graphics/59Champion.jpg
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2013-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '59'
+offices:
+- classification: capitol
+  address: Room 3401, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-9246
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1212
+- url: https://www.thechampion4change.com/
+other_names:
+- name: B. Champion
+- name: B.J. Champion
+- name: Champion, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000183
+- scheme: legacy_openstates
+  identifier: MNL000242
+- scheme: legacy_openstates
+  identifier: MNL000499
+sources:
+- url: https://ballotpedia.org/Bobby_Joe_Champion
+- url: https://champion4change.org
+- url: https://en.wikipedia.org/wiki/Bobby_Joe_Champion
+- url: https://justfacts.votesmart.org/candidate/biography/109081/bobby-joe-champion
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/index.php
+- url: https://www.senate.mn/members/list.csv
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1212
+- url: https://www.thechampion4change.com
+- url: https://www.thechampion4change.com/about

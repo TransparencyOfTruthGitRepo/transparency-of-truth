@@ -1,0 +1,108 @@
+id: ocd-person/e77e9595-b0fb-5923-a051-9f3221d8d6a9
+name: Roger Williams
+given_name: Roger
+family_name: Williams
+birth_date: 1949-09-13
+gender: Male
+email: https://williams.house.gov/address_authentication?form=/contact/email-me
+image: https://unitedstates.github.io/images/congress/450x550/W000816.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-25
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-25
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-25
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-25
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-25
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-25
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-25
+offices:
+- classification: capitol
+  address: 2336 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-9896
+  fax: 771-200-5067
+- classification: district
+  address: 1000 Ballpark Way Suite 310, Arlington, TX 76011
+  voice: 682-218-5965
+  fax: 771-200-5668
+- classification: district
+  address: 115 S. Main St. Suite 206, Cleburne, TX 76033
+  voice: 682-218-5965
+  fax: 771-200-5668
+links:
+- url: https://williams.house.gov
+  note: website
+- url: https://williams.house.gov/
+other_names:
+- name: J.R. Williams
+- name: R. Williams
+- name: Williams, R.
+ids:
+  twitter: RepRWilliams
+  youtube: UCBtfmMMQarjtLB9U_pWMOhw
+  facebook: RepRogerWilliams
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Roger Williams
+- scheme: bioguide
+  identifier: W000816
+- scheme: cspan
+  identifier: '623742'
+- scheme: fec
+  identifier: H2TX33040
+- scheme: google_entity_id
+  identifier: kg:/m/08rszb
+- scheme: govtrack
+  identifier: '412578'
+- scheme: icpsr
+  identifier: '21364'
+- scheme: maplight
+  identifier: '1802'
+- scheme: opensecrets
+  identifier: N00030602
+- scheme: pictorial
+  identifier: '13282'
+- scheme: thomas
+  identifier: '02165'
+- scheme: votesmart
+  identifier: '50112'
+- scheme: wikidata
+  identifier: Q4014560
+- scheme: wikipedia
+  identifier: Roger Williams (Texas politician)
+sources:
+- url: https://ballotpedia.org/Roger_Williams_(Texas)
+- url: https://en.wikipedia.org/wiki/Roger_Williams_(American_politician)
+- url: https://en.wikipedia.org/wiki/Roger_Williams_(Texas_politician)
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://williams.house.gov
+- url: https://www.govtrack.us/congress/members/roger_williams/412578

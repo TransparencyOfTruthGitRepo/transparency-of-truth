@@ -1,0 +1,53 @@
+id: ocd-person/500ffee4-de06-4a0b-b4df-f8e6f52c4e96
+name: Blaine Wilhour
+given_name: Blaine
+family_name: Wilhour
+birth_date: 1982-03-10
+gender: Male
+email: wilhour@ilhousegop.org
+image: https://cdn.ilga.gov/assets/img/members/{66C5580C-A414-41BB-B3AC-638925AC34CD}.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '110'
+- end_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '107'
+offices:
+- classification: capitol
+  address: Room 213-N, Stratton Office Building, Springfield, IL 62706
+  voice: 217-782-0066
+- classification: district-mail
+  address: P.O. Box I 152 S. Church St., Louisville, IL 62858
+  voice: 618-665-4109
+links:
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2761
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2962
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3156
+  note: homepage
+- url: https://repwilhour.com/
+- url: https://www.ilga.gov/House/Members/Details/3365
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3156
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3365
+other_names:
+- name: B. Wilhour
+- name: Wilhour, B.
+- name: Wilhour, Blaine
+sources:
+- url: https://ballotpedia.org/Blaine_Wilhour
+- url: https://en.wikipedia.org/wiki/Blaine_Wilhour
+- url: https://ilga.gov/house/default.asp?GA=101
+- url: https://ilga.gov/house/default.asp?GA=102
+- url: https://ilga.gov/house/default.asp?GA=103
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2761
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2962
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3156
+- url: https://justfacts.votesmart.org/candidate/biography/89502/blaine-wilhour
+- url: https://repwilhour.com
+- url: https://www.ilga.gov/House/Members/Details/3365
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3156
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3365

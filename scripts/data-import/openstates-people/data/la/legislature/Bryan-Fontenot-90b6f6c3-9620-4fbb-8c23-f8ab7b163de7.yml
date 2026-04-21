@@ -1,0 +1,42 @@
+id: ocd-person/90b6f6c3-9620-4fbb-8c23-f8ab7b163de7
+name: Bryan Fontenot
+given_name: Bryan
+family_name: Fontenot
+gender: Male
+email: hse055@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep55.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '55'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 406 W. 3rd St. Suite 107, Thibodaux, LA 70301
+  voice: 985-447-0999
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=55
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=55
+other_names:
+- name: B. Fontenot
+- name: B.P. Fontenot
+- name: Fontenot, B.
+sources:
+- url: https://ballotpedia.org/Bryan_Fontenot
+- url: https://en.wikipedia.org/wiki/Bryan_Fontenot
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=55
+- url: https://house.louisiana.gov/H_Reps/members?ID=55
+- url: https://justfacts.votesmart.org/candidate/biography/186988/bryan-fontenot
+extras:
+  legislative assistant: Heather Babin
+  representing parishes:
+  - Lafourche
+  education: 'Thibodaux High School, 1996; Present: Fletcher Technical Community College,
+    Criminal Justice'

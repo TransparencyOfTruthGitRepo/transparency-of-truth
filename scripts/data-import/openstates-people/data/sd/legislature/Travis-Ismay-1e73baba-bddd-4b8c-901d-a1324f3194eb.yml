@@ -1,0 +1,26 @@
+id: ocd-person/1e73baba-bddd-4b8c-901d-a1324f3194eb
+name: Travis Ismay
+given_name: Travis
+family_name: Ismay
+gender: Male
+email: travis.ismay@sdlegislature.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Travis_Ismay_2025.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: 28B
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/4725/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4767/Detail
+other_names:
+- name: Ismay, T.
+- name: T. Ismay
+sources:
+- url: https://ballotpedia.org/Travis_Ismay
+- url: https://en.wikipedia.org/wiki/Travis_Ismay
+- url: https://justfacts.votesmart.org/candidate/biography/216117/travis-ismay
+- url: https://sdlegislature.gov/Legislators/Profile/4725/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4767/Detail

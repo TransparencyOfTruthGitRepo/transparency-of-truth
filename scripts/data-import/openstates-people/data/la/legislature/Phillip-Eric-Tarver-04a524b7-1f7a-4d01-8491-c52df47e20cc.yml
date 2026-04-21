@@ -1,0 +1,43 @@
+id: ocd-person/04a524b7-1f7a-4d01-8491-c52df47e20cc
+name: Phil Tarver
+given_name: Phil
+family_name: Tarver
+gender: Male
+email: hse036@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep36.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '36'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 132 Jamestown, Lake Charles, LA 70605
+  voice: 337-475-8186
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=36
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=36
+other_names:
+- name: P. Tarver
+- name: P.E. Tarver
+- name: Phillip Eric Tarver
+- name: Phillip Tarver
+- name: Tarver, P.
+sources:
+- url: https://ballotpedia.org/Phillip_Tarver
+- url: https://en.wikipedia.org/wiki/Phillip_Tarver
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=36
+- url: https://house.louisiana.gov/H_Reps/members?ID=36
+- url: https://justfacts.votesmart.org/candidate/biography/186966/phillip-tarver
+extras:
+  legislative assistant: Regina "Gina" Camalo
+  representing parishes:
+  - Calcasieu
+  education: McNeese State University, B.S., Accounting;

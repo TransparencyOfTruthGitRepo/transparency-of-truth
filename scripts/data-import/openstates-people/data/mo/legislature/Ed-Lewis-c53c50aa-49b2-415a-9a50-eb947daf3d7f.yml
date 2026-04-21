@@ -1,0 +1,38 @@
+id: ocd-person/c53c50aa-49b2-415a-9a50-eb947daf3d7f
+name: Ed Lewis
+given_name: Ed
+family_name: Lewis
+gender: Male
+email: ed.lewis@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2244
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '6'
+offices:
+- classification: capitol
+  address: Room 312, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-6566
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=006
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=006
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=006
+other_names:
+- name: E. Lewis
+- name: E.G. Lewis
+- name: Edwin Lewis
+- name: Lewis, E.
+- name: Lewis, Ed
+sources:
+- url: https://ballotpedia.org/Ed_Lewis
+- url: https://en.wikipedia.org/wiki/Ed_Lewis_(Missouri_politician)
+- url: https://house.mo.gov/MemberDetails.aspx?district=006
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=006
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=006
+- url: https://justfacts.votesmart.org/candidate/biography/193261/ed-lewis
+- url: https://www.linkedin.com/in/ed-lewis-b5377411a
+extras:
+  hometown: Moberly

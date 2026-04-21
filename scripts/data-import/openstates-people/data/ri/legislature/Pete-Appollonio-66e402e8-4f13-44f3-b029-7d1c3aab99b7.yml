@@ -1,0 +1,31 @@
+id: ocd-person/66e402e8-4f13-44f3-b029-7d1c3aab99b7
+name: Pete Appollonio
+given_name: Pete
+family_name: Appollonio
+gender: Male
+email: sen-appollonio@rilegislature.gov
+image: https://www.rilegislature.gov/LegislationPictures/peter_appollonio.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '29'
+offices:
+- classification: capitol
+  address: 82 Smith St., Providence, RI 02903
+  voice: 401-222-3580
+- classification: district
+  address: 11 Foster St., Warwick, RI 02889
+  voice: 401-276-5568
+links:
+- url: https://www.rilegislature.gov/senators/Appollonio/Pages/Biography.aspx
+other_names:
+- name: Appollonio, P.
+- name: P. Appollonio
+- name: P.A. Appollonio
+sources:
+- url: https://ballotpedia.org/Peter_Appollonio_Jr.
+- url: https://justfacts.votesmart.org/candidate/biography/219299/peter-appollonio-jr
+- url: https://www.rilegislature.gov/senators/Appollonio/Pages/Biography.aspx

@@ -1,0 +1,32 @@
+id: ocd-person/e6ccd3a9-8f52-46d4-af8d-d0301a8e3a05
+name: Charlene Ward Johnson
+given_name: Charlene
+family_name: Ward Johnson
+birth_date: 1967-10-07
+gender: Female
+email: charlene.wardjohnson@house.texas.gov
+image: https://www.house.texas.gov/images/members/4785.jpg?v=3
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '139'
+offices:
+- classification: capitol
+  address: Room E2.320, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0554
+- classification: district
+  address: 630 W. Little York Road, Houston, TX 77091
+links:
+- url: https://www.house.texas.gov/members/139
+other_names:
+- name: C. Ward Johnson
+- name: Ward Johnson, C.
+- name: Ward Johnson, Charlene
+sources:
+- url: https://ballotpedia.org/Charlene_Ward_Johnson
+- url: https://en.wikipedia.org/wiki/Charlene_Ward_Johnson
+- url: https://justfacts.votesmart.org/candidate/biography/213505/charlene-johnson
+- url: https://www.house.texas.gov/members/139

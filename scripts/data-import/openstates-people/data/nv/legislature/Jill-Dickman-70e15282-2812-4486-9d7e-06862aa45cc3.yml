@@ -1,0 +1,54 @@
+id: ocd-person/70e15282-2812-4486-9d7e-06862aa45cc3
+name: Jill Dickman
+given_name: Jill
+family_name: Dickman
+gender: Female
+email: jill.dickman@asm.state.nv.us
+image: http://www.leg.state.nv.us/Session/36th2025Special/legislators/Assembly/Images/Dickman.Jill.277.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-11-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '31'
+- start_date: 2014-11-05
+  end_date: 2016-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '31'
+- start_date: 2015-01-01
+  end_date: 2016-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '31'
+offices:
+- classification: capitol
+  address: Room 3124, Nevada Assembly 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-8563
+- classification: district
+  address: Room 243, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=277
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/31
+  note: homepage
+other_names:
+- name: Dickman, J.
+- name: Dickman, Jill
+- name: J. Dickman
+- name: J.S. Dickman
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NVL000272
+- scheme: legacy_openstates
+  identifier: NVL000351
+sources:
+- url: https://ballotpedia.org/Jill_Dickman
+- url: https://en.wikipedia.org/wiki/Jill_Dickman
+- url: https://justfacts.votesmart.org/candidate/key-votes/152682/jill-dickman
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=277
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/31
+- url: https://www.linkedin.com/in/jill-dickman-59aa3985
+extras:
+  title: Co-Deputy Minority Floor Leader North

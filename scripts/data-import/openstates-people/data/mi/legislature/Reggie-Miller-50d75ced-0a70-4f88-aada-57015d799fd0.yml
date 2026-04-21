@@ -1,0 +1,34 @@
+id: ocd-person/50d75ced-0a70-4f88-aada-57015d799fd0
+name: Reggie Miller
+given_name: Reggie
+family_name: Miller
+gender: Female
+email: reggiemiller@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '31'
+offices:
+- classification: capitol
+  address: Room N-795, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0159
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/Reggie-Miller/
+other_names:
+- name: Miller, R.
+- name: R. Miller
+sources:
+- url: https://ballotpedia.org/Reggie_Miller
+- url: https://housedems.com/Reggie-Miller
+- url: https://housedems.com/Reggie-Miller/
+  note: Member Details Page
+- url: https://housedems.com/reggie-miller/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/reggie-miller-87a0745b

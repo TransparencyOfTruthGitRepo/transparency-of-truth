@@ -1,0 +1,45 @@
+id: ocd-person/e823b0bf-1132-4ed8-b860-e0febf9a275a
+name: Andre Baker
+given_name: Andre
+family_name: Baker
+gender: Male
+email: andre.baker@cga.ct.gov
+image: http://www2.housedems.ct.gov/Baker/images/Baker_HS.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '124'
+offices:
+- classification: capitol
+  address: Room 5005, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27124%27&dist_name=Baker,%20Andre%20F.
+- url: https://www.housedems.ct.gov/Baker
+other_names:
+- name: A. Baker
+- name: A.F. Baker
+- name: Andre F. Baker
+- name: Andre F. Baker Jr.
+- name: Baker, A.
+- name: Baker, Andre F.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000267
+- scheme: legacy_openstates
+  identifier: CTL000304
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Andre_Baker
+- url: https://en.wikipedia.org/wiki/Andre_Baker
+- url: https://justfacts.votesmart.org/candidate/biography/81211/andre-baker-jr
+- url: https://www.housedems.ct.gov/Baker
+extras:
+  gender: Male
+  title: Deputy Majority Whip-at-Large
+  committees: Appropriations; Banking; Planning and Development
+  committee codes: ;APP;BA;PD;
+  prison: '0'

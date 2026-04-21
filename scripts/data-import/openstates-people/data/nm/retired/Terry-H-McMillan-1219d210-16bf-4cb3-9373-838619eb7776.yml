@@ -1,0 +1,25 @@
+id: ocd-person/1219d210-16bf-4cb3-9373-838619eb7776
+name: Terry H. McMillan
+given_name: Terry
+family_name: McMillan
+middle_name: H.
+image: http://www.nmlegis.gov/lcs/graphics/photos/HMCMI.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '37'
+links:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HMCMI
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000079
+- scheme: legacy_openstates
+  identifier: NML000248
+- scheme: legacy_openstates
+  identifier: NML000296
+sources:
+- url: http://www.nmlegis.gov/Members/Legislator?SponCode=HMCMI

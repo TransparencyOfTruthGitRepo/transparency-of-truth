@@ -1,0 +1,45 @@
+id: ocd-person/3aaaa058-953f-4fd2-b905-af6bc8d3fca3
+name: Rob Ortt
+given_name: Rob
+family_name: Ortt
+birth_date: 1979-05-23
+gender: Male
+email: ortt@nysenate.gov
+image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/62-2019-bio.jpg?itok=-buQ_zqu
+party:
+- name: Republican/Conservative/Independence
+roles:
+- start_date: 2015-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '62'
+offices:
+- classification: capitol
+  address: Room 315, Capitol Building, Albany, NY 12247
+  voice: 518-455-2024
+- classification: district
+  address: 175 Walnut St. Suite 6, Lockport, NY 14094
+  voice: 716-434-0680
+links:
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/robert-g-ortt
+- url: https://www.nysenate.gov/senators/robert-g-ortt/contact
+other_names:
+- name: Ortt, R.
+- name: R. Ortt
+- name: R.G. Ortt
+- name: Robert G. Ortt
+- name: Robert Gary Ortt
+- name: Robert Ortt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000333
+- scheme: legacy_openstates
+  identifier: NYL000372
+sources:
+- url: https://ballotpedia.org/Robert_Ortt
+- url: https://en.wikipedia.org/wiki/Robert_Ortt
+- url: https://justfacts.votesmart.org/candidate/biography/155558/robert-ortt
+- url: https://www.linkedin.com/in/robertortt
+- url: https://www.nysenate.gov/senators/robert-g-ortt
+- url: https://www.nysenate.gov/senators/robert-g-ortt/contact

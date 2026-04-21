@@ -1,0 +1,55 @@
+id: ocd-person/365e015d-5011-4126-8b07-0b0f90a949c7
+name: Craig Brandt
+given_name: Craig
+family_name: Brandt
+birth_date: 1968-08-28
+gender: Male
+email: craig.brandt@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SBRAN.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-15
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '40'
+offices:
+- classification: capitol
+  address: State Capitol Room 414D, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4703
+links:
+- url: https://www.linkedin.com/in/craigbrandtnm/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SBRAN
+  note: homepage
+other_names:
+- name: Brandt, C.
+- name: Brandt, Craig
+- name: Brandt, Craig W.
+- name: C. Brandt
+- name: C.W. Brandt
+- name: Craig W. Brandt
+ids:
+  twitter: Craig4NM
+  facebook: craig.brandt.31
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000145
+- scheme: legacy_openstates
+  identifier: NML000169
+- scheme: legacy_openstates
+  identifier: NML000209
+- scheme: legacy_openstates
+  identifier: NML000368
+sources:
+- url: https://ballotpedia.org/Craig_Brandt
+- url: https://en.wikipedia.org/wiki/Craig_Brandt
+- url: https://justfacts.votesmart.org/candidate/biography/139123/craig-brandt
+- url: https://www.linkedin.com/in/craigbrandtnm
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SBRAN
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: Sandoval
+  service: Senator since 2013
+  occupation: Clergy

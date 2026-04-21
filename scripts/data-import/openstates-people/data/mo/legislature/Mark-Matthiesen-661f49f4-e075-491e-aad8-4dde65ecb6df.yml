@@ -1,0 +1,33 @@
+id: ocd-person/661f49f4-e075-491e-aad8-4dde65ecb6df
+name: Mark Matthiesen
+given_name: Mark
+family_name: Matthiesen
+birth_date: 1976-03-25
+gender: Male
+email: mark.matthiesen@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=1937
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '107'
+offices:
+- classification: capitol
+  address: Room 207-B, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-1470
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=107
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=107
+other_names:
+- name: M. Matthiesen
+- name: Matthiesen, M.
+sources:
+- url: https://ballotpedia.org/Mark_Matthiesen
+- url: https://en.wikipedia.org/wiki/Mark_Matthiesen
+- url: https://house.mo.gov/MemberDetails.aspx?district=107
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=107
+- url: https://justfacts.votesmart.org/candidate/biography/169778/mark-matthiesen
+extras:
+  hometown: O'Fallon

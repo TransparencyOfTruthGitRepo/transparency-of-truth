@@ -1,0 +1,20 @@
+id: ocd-person/f662b15b-1839-43ae-952f-6ffdbce791ba
+name: Clara Burnett
+given_name: Clara
+family_name: Burnett
+image: http://billstatus.ls.state.ms.us/members/house/burnett.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2015-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '9'
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/burnett.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000142
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/burnett.xml

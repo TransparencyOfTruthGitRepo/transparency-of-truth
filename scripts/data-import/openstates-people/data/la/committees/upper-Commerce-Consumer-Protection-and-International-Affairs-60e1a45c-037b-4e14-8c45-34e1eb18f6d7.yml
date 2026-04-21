@@ -1,0 +1,48 @@
+id: ocd-organization/60e1a45c-037b-4e14-8c45-34e1eb18f6d7
+jurisdiction: ocd-jurisdiction/country:us/state:la/government
+classification: committee
+name: Commerce, Consumer Protection and International Affairs
+chamber: upper
+sources:
+- url: https://senate.la.gov/Sen_Committees/Commerce
+  note: Committee Detail Page
+- url: https://www.legis.la.gov/legis/Committees.aspx?c=S
+  note: Committees List Page
+links:
+- url: https://senate.la.gov/Sen_Committees/Commerce
+  note: homepage
+members:
+- name: Beth Mizell
+  role: chair
+  person_id: ocd-person/b6e8a5cf-ec5c-494b-b9ff-efa0fb92e1c1
+- name: Robert Allain
+  role: vice chair
+  person_id: ocd-person/655ddc35-ecd0-4db2-a3fe-cd86f1cb7d61
+- name: Kirk Talbot
+  role: ex-officio
+  person_id: ocd-person/f6f401f7-7fb4-40df-84a0-b5a3f0fe9ec2
+- name: Ed Price
+  role: member
+  person_id: ocd-person/1899dc2e-bac6-4951-b3fc-87ea5e2d4969
+- name: Jay Morris
+  role: member
+  person_id: ocd-person/9d6aa1d9-76b2-41ad-a3e0-4fa86da08645
+- name: Jimmy Harris
+  role: member
+  person_id: ocd-person/ce11601e-9a67-48a1-9408-b80943312303
+- name: Mark Abraham
+  role: member
+  person_id: ocd-person/addae848-cfaf-4637-a23e-595e45c6e14f
+- name: Patrick Connick
+  role: member
+  person_id: ocd-person/a5240587-95aa-4135-befc-de2ea2aa1d51
+- name: Sidney Barthelemy
+  role: member
+  person_id: ocd-person/7b4128f7-b147-4cdd-b6ee-0d7d3f2edb6f
+- name: Stewart Cathey
+  role: member
+  person_id: ocd-person/dd47283c-c202-461f-b56a-8cc2c0b14f15
+other_names:
+- name: Senate Commerce, Consumer Protection and International Affairs
+- name: Senate Commerce, Consumer Protection and International Affairs Committee
+- name: Senate Committee on Commerce, Consumer Protection and International Affairs

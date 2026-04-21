@@ -1,0 +1,23 @@
+id: ocd-person/5fd04803-80d7-46be-996e-736c40850487
+name: Tom Azinger
+given_name: Tom
+family_name: Azinger
+email: tom.azinger@wvhouse.gov
+image: http://www.legis.state.wv.us/images/members/2019/house/azinger_tom.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2018-10-31'
+  end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '10'
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Azinger
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000048
+- scheme: openstates
+  identifier: ocd-person/82648120-acd6-41fd-9392-2f44c8eeafbf
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Azinger

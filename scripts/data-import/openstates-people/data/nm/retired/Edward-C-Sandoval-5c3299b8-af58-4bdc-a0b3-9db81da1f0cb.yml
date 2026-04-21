@@ -1,0 +1,23 @@
+id: ocd-person/5c3299b8-af58-4bdc-a0b3-9db81da1f0cb
+name: Edward C. Sandoval
+given_name: Edward
+family_name: Sandoval
+middle_name: C.
+image: http://www.nmlegis.gov/lcs/graphics/photos/HSDOV.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '17'
+links:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HSDOV
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000059
+- scheme: legacy_openstates
+  identifier: NML000228
+sources:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HSDOV

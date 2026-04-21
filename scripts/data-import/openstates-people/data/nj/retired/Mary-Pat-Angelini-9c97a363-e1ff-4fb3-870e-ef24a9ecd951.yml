@@ -1,0 +1,22 @@
+id: ocd-person/9c97a363-e1ff-4fb3-870e-ef24a9ecd951
+name: Mary Pat Angelini
+given_name: Mary
+family_name: Angelini
+middle_name: Pat
+image: http://www.njleg.state.nj.us/members/memberphotos/angelini_color.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2008-01-01'
+  end_date: '2015-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '11'
+links:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=276
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000034
+sources:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=276
+- url: http://www.njleg.state.nj.us/downloads.asp

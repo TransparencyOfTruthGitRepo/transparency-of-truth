@@ -1,0 +1,39 @@
+id: ocd-organization/8b6f04cd-8b4c-40fd-afce-d432f4756adc
+jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+classification: committee
+name: Resources
+chamber: upper
+sources:
+- url: https://www.akleg.gov/basis/Committee/Details/33?code=SRES
+- url: https://www.akleg.gov/basis/Committee/Details/34?code=SRES
+- url: https://www.akleg.gov/basis/Committee/List/33
+links:
+- url: https://www.akleg.gov/basis/Committee/Details/33?code=SRES
+  note: homepage
+- url: https://www.akleg.gov/basis/Committee/Details/34?code=SRES
+members:
+- name: Cathy Giessel
+  role: chair
+  person_id: ocd-person/4ac9a4bf-e2d9-4257-a360-9e91dc234deb
+- name: Bill Wielechowski
+  role: vice chair
+  person_id: ocd-person/57554431-caac-4074-a8d8-40a4e6289ec1
+- name: Forrest Dunbar
+  role: member
+  person_id: ocd-person/4511370e-1ac8-4135-a622-d5b533faeb43
+- name: George Rauscher
+  role: member
+  person_id: ocd-person/627922d3-e631-4c32-841f-148f061b0c75
+- name: Matt Claman
+  role: member
+  person_id: ocd-person/0b2d5ec3-c1b2-4b09-8444-144c92125cc4
+- name: Robert Myers
+  role: member
+  person_id: ocd-person/697cb834-6aa1-44f1-9c6e-9cf57ad30774
+- name: Scott Kawasaki
+  role: member
+  person_id: ocd-person/53f7b86b-ce31-4199-86ef-f566ae9aa02c
+other_names:
+- name: Senate Committee on Resources
+- name: Senate Resources
+- name: Senate Resources Committee

@@ -1,0 +1,50 @@
+id: ocd-person/8488ba3a-e608-4f0d-9d7b-7e6e13244917
+name: Paul Terry
+given_name: Paul
+family_name: Terry
+gender: Male
+email: paul.terry@gc.nh.gov
+image: https://paulterryfornh.com/wp-content/uploads/2020/06/Paul8.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Belknap 7
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Belknap 7
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Belknap 5
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9866
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9866
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9866
+other_names:
+- name: P. Terry
+- name: Paul A Terry
+- name: Paul A. Terry
+- name: Terry, P.
+sources:
+- url: https://ballotpedia.org/Paul_Terry
+- url: https://en.wikipedia.org/wiki/Paul_Terry_(politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9866
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9866
+- url: https://justfacts.votesmart.org/candidate/biography/194687/paul-terry
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9866
+extras:
+  county: Belknap
+  elected status: Incumbent
+  gender code: M

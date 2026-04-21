@@ -1,0 +1,48 @@
+id: ocd-person/8106e2d8-e1e3-42a8-b550-fbd2627fa474
+name: Johnny Chastain
+given_name: Johnny
+family_name: Chastain
+gender: Male
+email: johnny.chastain@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/chastain-johnny-5057.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-02-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '7'
+offices:
+- classification: capitol
+  address: Room 612-E, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0325
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5057
+- url: https://www.legis.ga.gov/members/house/5057?session=1031
+  note: HTML member detail page
+other_names:
+- name: CHASTAIN, 7TH
+- name: Chastain, J.
+- name: J. Chastain
+- name: J.W. Chastain
+- name: John W. Chastain
+- name: Johnny Chastain
+sources:
+- url: https://ballotpedia.org/Johnny_Chastain
+- url: https://en.wikipedia.org/wiki/Johnny_Chastain
+- url: https://justfacts.votesmart.org/candidate/biography/211311/johnny-chastain
+- url: https://www.legis.ga.gov/api/members/detail/5057?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5057
+extras:
+  residence: null
+  city: ''
+  georgia_id: 5057
+  press: https://house-press.com/representative/Johnny-Chastain
+  staff: Chelsea Bell - Administrative Assistant
+  staff email: chelsea.bell@house.ga.gov

@@ -1,0 +1,46 @@
+id: ocd-person/be7ad489-073e-476e-82a0-992ca0569b99
+name: Gary Pretlow
+given_name: Gary
+family_name: Pretlow
+birth_date: 1949-08-27
+gender: Male
+email: pretloj@nyassembly.gov
+image: https://assembly.state.ny.us/write/upload/member_files/089/headshot/089.jpg?hst=1660074183
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '89'
+offices:
+- classification: capitol
+  address: Room 923, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-5291
+- classification: district
+  address: 6 Gramatan Ave. Suite 201, Mt. Vernon, NY 10550
+  voice: 914-667-0127
+links:
+- url: https://assembly.state.ny.us/mem/?sh=email
+- url: https://assembly.state.ny.us/mem/J-Gary-Pretlow
+- url: https://nyassembly.gov/mem/j-gary-pretlow
+other_names:
+- name: G. Pretlow
+- name: J. Gary Pretlow
+- name: J.G. Pretlow
+- name: James Gary Pretlow
+- name: Pretlow, G.
+ids:
+  twitter: JGPretlow
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000173
+- scheme: legacy_openstates
+  identifier: NYL000295
+sources:
+- url: https://assembly.state.ny.us/mem/J-Gary-Pretlow
+- url: https://ballotpedia.org/J._Gary_Pretlow
+- url: https://en.wikipedia.org/wiki/J._Gary_Pretlow
+- url: https://justfacts.votesmart.org/candidate/biography/4381/gary-pretlow-sr
+- url: https://nyassembly.gov/mem/j-gary-pretlow
+- url: https://www.linkedin.com/in/jgarypretlow

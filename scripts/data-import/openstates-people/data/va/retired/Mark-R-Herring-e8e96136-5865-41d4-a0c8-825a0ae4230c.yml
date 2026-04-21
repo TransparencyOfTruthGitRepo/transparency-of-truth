@@ -1,0 +1,21 @@
+id: ocd-person/e8e96136-5865-41d4-a0c8-825a0ae4230c
+name: Mark R Herring
+given_name: Mark
+family_name: Herring
+middle_name: R
+image: http://sov.state.va.us/images/Herring33.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2010-01-01'
+  end_date: '2013-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '33'
+links:
+- url: http://leg6.state.va.us/cgi-bin/legp604.exe?141+mbr+S70
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000007
+sources:
+- url: http://leg6.state.va.us/cgi-bin/legp604.exe?141+mbr+S70

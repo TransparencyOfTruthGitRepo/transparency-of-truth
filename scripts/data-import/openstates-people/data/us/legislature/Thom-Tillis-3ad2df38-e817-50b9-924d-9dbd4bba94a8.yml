@@ -1,0 +1,98 @@
+id: ocd-person/3ad2df38-e817-50b9-924d-9dbd4bba94a8
+name: Thom Tillis
+given_name: Thom
+family_name: Tillis
+birth_date: 1960-08-30
+gender: Male
+email: https://www.tillis.senate.gov/email-me
+image: https://unitedstates.github.io/images/congress/450x550/T000476.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-06
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: North Carolina
+- start_date: 2015-01-06
+  end_date: 2021-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: North Carolina
+offices:
+- classification: capitol
+  address: 113 Dirksen Senate Office Building, Washington, DC 20510
+  voice: 202-224-6342
+  fax: 202-228-2563
+- classification: district
+  address: 10150 Mallard Creek Road Suite 508, Charlotte, NC 28262
+  voice: 704-509-9087
+  fax: 704-509-9162
+- classification: district
+  address: 1694 E. Arlington Blvd. Suite B, Greenville, NC 27858
+  voice: 252-329-0371
+  fax: 252-329-0290
+- classification: district
+  address: 310 New Bern Ave. Suite 122, Raleigh, NC 27601
+  voice: 919-856-4630
+  fax: 919-856-4053
+- classification: district
+  address: 3200 Northline Ave. Suite 150, Greensboro, NC 27408
+  voice: 336-885-0685
+  fax: 336-885-0692
+links:
+- url: https://www.tillis.senate.gov
+  note: website
+- url: https://www.tillis.senate.gov/
+- url: https://www.tillis.senate.gov/public/index.cfm/email-me
+  note: contact form
+other_names:
+- name: T. Tillis
+- name: T.R. Tillis
+- name: Thomas Roland Tillis
+- name: Tillis, T.
+ids:
+  twitter: SenThomTillis
+  youtube: UCUD9VGV4SSGWjGdbn37Ea2w
+  facebook: SenatorThomTillis
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Thom Tillis (North Carolina)
+- scheme: bioguide
+  identifier: T000476
+- scheme: cspan
+  identifier: '77055'
+- scheme: fec
+  identifier: S4NC00162
+- scheme: google_entity_id
+  identifier: kg:/m/0fq0395
+- scheme: govtrack
+  identifier: '412668'
+- scheme: icpsr
+  identifier: '41504'
+- scheme: lis
+  identifier: S384
+- scheme: maplight
+  identifier: '2124'
+- scheme: opensecrets
+  identifier: N00035492
+- scheme: pictorial
+  identifier: '13369'
+- scheme: thomas
+  identifier: 02291
+- scheme: votesmart
+  identifier: '57717'
+- scheme: wikidata
+  identifier: Q7786750
+- scheme: wikipedia
+  identifier: Thom Tillis
+sources:
+- url: https://ballotpedia.org/Thom_Tillis
+- url: https://en.wikipedia.org/wiki/Thom_Tillis
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/thom_tillis/412668
+- url: https://www.linkedin.com/in/thomtillis
+- url: https://www.thomtillis.com/thoms-record
+- url: https://www.tillis.senate.gov
+- url: https://www.tillis.senate.gov/about-thom

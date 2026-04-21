@@ -1,0 +1,59 @@
+id: ocd-person/2e512bae-42f3-4ce8-b565-df48469da08a
+name: Doug Wozniak
+given_name: Doug
+family_name: Wozniak
+birth_date: 1947-01-17
+gender: Male
+email: douglaswozniak@house.mi.gov
+image: https://senate.michigan.gov/_images/8th.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '59'
+- end_date: 2021-11-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '36'
+  end_reason: Elected to Michigan Senate
+- start_date: 2021-11-10
+  end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room N-993, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0832
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/repdougwozniak/posts
+- url: https://www.senatordougwozniak.com/
+- url: https://www.senatordougwozniak.com/contact
+  note: Contact
+other_names:
+- name: D. Wozniak
+- name: D.C. Wozniak
+- name: Douglas C. Wozniak
+- name: Douglas Wozniak
+- name: Wozniak, D.
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/11b5059b-5d4e-4f59-b7d9-49ad35e25599
+sources:
+- url: https://ballotpedia.org/Douglas_Wozniak
+- url: https://en.wikipedia.org/wiki/Doug_Wozniak
+- url: https://gophouse.org/member/repdougwozniak/about
+- url: https://gophouse.org/member/repdougwozniak/posts
+- url: https://justfacts.votesmart.org/candidate/111696/douglas-wozniak
+- url: https://macombcountyrealestateattorney.com/attorneys
+- url: https://RepWozniak.com
+  note: Member Details Page
+- url: https://senate.michigan.gov/senatorinfo_list.html
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/douglas-wozniak-8317947

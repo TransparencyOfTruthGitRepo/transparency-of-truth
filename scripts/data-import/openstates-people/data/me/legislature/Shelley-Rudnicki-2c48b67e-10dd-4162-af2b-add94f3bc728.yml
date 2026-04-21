@@ -1,0 +1,47 @@
+id: ocd-person/2c48b67e-10dd-4162-af2b-add94f3bc728
+name: Shelley Rudnicki
+given_name: Shelley
+family_name: Rudnicki
+gender: Female
+email: shelley.rudnicki@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/f5ef18ca-04bc-4226-a57d-0857e0087153_rudnicki.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '67'
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '67'
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '108'
+offices:
+- classification: capitol
+  address: Room 332, House Republican Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1371
+  note: homepage
+- url: https://mainehousegop.org/members/rudnicki-shelley/
+other_names:
+- name: RUDNICKI of Fairfield
+- name: Rudnicki, S.
+- name: S. Rudnicki
+sources:
+- url: https://ballotpedia.org/Shelley_Rudnicki
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1371
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://mainehousegop.org/members/rudnicki-shelley
+- url: https://www.linkedin.com/in/shelley-rudnicki-4948541a
+extras:
+  Seat Number: '79'
+  towns represented:
+  - Benton
+  - Fairfield
+  occupation: Business Owner

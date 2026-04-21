@@ -1,0 +1,38 @@
+id: ocd-person/6c955ba2-9448-43ae-8d7f-c3d76329ad60
+name: Rachelle Smit
+given_name: Rachelle
+family_name: Smit
+birth_date: 1980-09-16
+gender: Female
+email: rachellesmit@house.mi.gov
+image: https://www.house.mi.gov/media/Representatives/Smit-043.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '43'
+offices:
+- classification: capitol
+  address: Room H-251, Capitol Building 100 N. Capitol Ave., Lansing, MI 48909
+  voice: 517-373-0615
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/RepRachelleSmit/posts
+other_names:
+- name: R. Smit
+- name: R.M. Smit
+- name: Smit, R.
+sources:
+- url: https://ballotpedia.org/Rachelle_Smit
+- url: https://gophouse.org/member/RepRachelleSmit/about
+- url: https://gophouse.org/member/RepRachelleSmit/posts
+- url: https://RepSmit.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.house.mi.gov/repdetail/repRachelleSmit
+  note: Member Details Page
+- url: https://www.linkedin.com/in/rachel-smit-247b47116

@@ -1,0 +1,20 @@
+id: ocd-person/67e41ce3-292d-457a-a407-fdc82f289588
+name: Jon Knokey
+given_name: Jon
+family_name: Knokey
+party:
+- name: Republican
+roles:
+- end_date: '2018-01-01'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '65'
+links:
+- url: https://leg.mt.gov/legislator-information/roster/individual/4807
+  note: legislator page
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MTL000393
+sources:
+- url: https://leg.mt.gov/legislator-information/?session_select=111
+  note: legislator list page

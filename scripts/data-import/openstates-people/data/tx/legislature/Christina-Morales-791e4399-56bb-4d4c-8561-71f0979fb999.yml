@@ -1,0 +1,37 @@
+id: ocd-person/791e4399-56bb-4d4c-8561-71f0979fb999
+name: Christina Morales
+given_name: Christina
+family_name: Morales
+birth_date: 1968-04-13
+gender: Female
+email: christina.morales@house.texas.gov
+image: https://house.texas.gov/images/members/3910.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2019-03-18
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '145'
+offices:
+- classification: capitol
+  address: Room GN.10, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0732
+- classification: district
+  address: 6960 Rustic St., Suite 107 Parking Garage, Building C, Houston, TX 77087
+  voice: 713-718-5915
+- classification: district-mail
+  address: 6815 Rustic St., Houston, TX 77087
+links:
+- url: https://house.texas.gov/members/3910
+- url: https://house.texas.gov/members/member-page/?district=145
+other_names:
+- name: C. Morales
+- name: Morales, C.
+- name: Morales, Christina
+sources:
+- url: https://ballotpedia.org/Christina_Morales
+- url: https://en.wikipedia.org/wiki/Christina_Morales
+- url: https://house.texas.gov/members/3910
+- url: https://house.texas.gov/members/member-page/?district=145
+- url: https://justfacts.votesmart.org/candidate/biography/185968/christina-morales

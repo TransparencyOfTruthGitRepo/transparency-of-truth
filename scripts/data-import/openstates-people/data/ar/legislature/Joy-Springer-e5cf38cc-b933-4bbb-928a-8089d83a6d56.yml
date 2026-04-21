@@ -1,0 +1,71 @@
+id: ocd-person/e5cf38cc-b933-4bbb-928a-8089d83a6d56
+name: Joy Springer
+given_name: Joy
+family_name: Springer
+gender: Female
+email: joy.springer@arkansashouse.org
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/579_sm.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '76'
+- start_date: 2020-03-17
+  end_date: 2023-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '76'
+- start_date: 2020-03-17
+  end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '34'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+- classification: district
+  address: 2208 Rice St., Little Rock, AR 72202
+  voice: 501-831-8488
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Springer
+- url: https://joyspringer.com/
+  note: Campaign Website
+- url: https://www.arkansashouse.org/district/76
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Springer
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Springer&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Springer&ddBienniumSession=2021%2F2021R
+other_names:
+- name: J. Springer
+- name: J.C. Springer
+- name: Springer
+- name: Springer, J.
+ids:
+  facebook: electjoycspringer
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Joy_C._Springer
+- scheme: followthemoney
+  identifier: '9646064'
+- scheme: votesmart
+  identifier: '187766'
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Springer
+- url: https://ballotpedia.org/Joy_C._Springer
+- url: https://en.wikipedia.org/wiki/Joy_Springer
+- url: https://justfacts.votesmart.org/candidate/biography/187766/joy-springer
+- url: https://www.arkansashouse.org/district/76
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Springer
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Springer&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Springer&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Springer&ddBienniumSession=2021%2F2021S1
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Springer&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2021%2F2021S1#SearchResults
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+extras:
+  seniority: '60'
+  occupation: Office manager and paralegal
+  church affiliation: African Methodist Episcopal Church
+  veteran: 'No'

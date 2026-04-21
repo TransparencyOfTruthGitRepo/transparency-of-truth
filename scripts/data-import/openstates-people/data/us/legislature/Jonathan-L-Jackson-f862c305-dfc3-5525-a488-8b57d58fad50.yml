@@ -1,0 +1,67 @@
+id: ocd-person/f862c305-dfc3-5525-a488-8b57d58fad50
+name: Jonathan Jackson
+given_name: Jonathan
+family_name: Jackson
+birth_date: 1966-01-07
+gender: Male
+email: https://jonathanjackson.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/J000309.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-1
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-1
+offices:
+- classification: capitol
+  address: 1632 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-4372
+  fax: 202-226-0333
+- classification: district
+  address: 6356 S. Cottage Grove Ave., Chicago, IL 60637
+  voice: 773-779-2400
+  fax: 773-779-2401
+links:
+- url: https://jonathanjackson.house.gov
+  note: website
+- url: https://jonathanjackson.house.gov/
+other_names:
+- name: J. Jackson
+- name: J.L. Jackson
+- name: Jackson, J.
+- name: Jonathan L. Jackson
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Jonathan Jackson (Illinois)
+- scheme: bioguide
+  identifier: J000309
+- scheme: fec
+  identifier: H2IL01349
+- scheme: govtrack
+  identifier: '456899'
+- scheme: opensecrets
+  identifier: N00050105
+- scheme: pictorial
+  identifier: '13033'
+- scheme: votesmart
+  identifier: '204284'
+- scheme: wikidata
+  identifier: Q6273473
+- scheme: wikipedia
+  identifier: Jonathan Jackson (Illinois politician)
+sources:
+- url: https://ballotpedia.org/Jonathan_Jackson_(Illinois)
+- url: https://en.wikipedia.org/wiki/Jonathan_Jackson_(Illinois_politician)
+- url: https://jonathanjackson.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/jonathan_jackson/456899
+- url: https://www.linkedin.com/in/jonathan-jackson-89895456
+- url: https://www.linkedin.com/in/jonathan-l-jackson-83537a236

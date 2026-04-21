@@ -1,0 +1,19 @@
+id: ocd-person/8d113751-6123-4181-a3a7-eb5c3c9e70e5
+name: Marilyn Moore
+given_name: Marilyn
+family_name: Moore
+party:
+- name: Democratic
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '22'
+links:
+- url: http://www.senatedems.ct.gov/Moore.php
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000299
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

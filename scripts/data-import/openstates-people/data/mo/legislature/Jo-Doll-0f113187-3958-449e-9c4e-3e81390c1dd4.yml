@@ -1,0 +1,39 @@
+id: ocd-person/0f113187-3958-449e-9c4e-3e81390c1dd4
+name: Jo Doll
+given_name: Jo
+family_name: Doll
+gender: Female
+email: jo.doll@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2224
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '91'
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '83'
+offices:
+- classification: capitol
+  address: Room 101-C, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-1285
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=091
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=083
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=091
+other_names:
+- name: Doll, J.
+- name: Doll, Jo
+- name: J. Doll
+sources:
+- url: https://ballotpedia.org/Jo_Doll
+- url: https://house.mo.gov/MemberDetails.aspx?district=091
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=083
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=091
+- url: https://justfacts.votesmart.org/candidate/biography/193352/jo-doll
+- url: https://www.linkedin.com/in/jo-doll-65408516
+extras:
+  hometown: St. Louis

@@ -1,0 +1,56 @@
+id: ocd-person/c1ebba3c-4fc2-4b66-9ecc-e20aa4f793a9
+name: Theresa Mah
+given_name: Theresa
+family_name: Mah
+gender: Female
+email: office@reptheresamah.com
+image: https://cdn.ilga.gov/assets/img/members/{808BAA30-BB82-437A-9A76-386F9A65A073}.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '24'
+- end_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '2'
+offices:
+- classification: capitol
+  address: Room 109, Capitol Building, Springfield, IL 62706
+  voice: 217-782-2855
+- classification: district
+  address: 2108 W. 35th St., Chicago, IL 60609
+  voice: 872-281-5775
+links:
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2687
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2904
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3107
+  note: homepage
+- url: https://www.ilga.gov/House/Members/Details/3321
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3107
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3321
+- url: https://www.reptheresamah.com/
+other_names:
+- name: Mah, T.
+- name: Mah, Theresa
+- name: T. Mah
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ILL001058
+sources:
+- url: https://ballotpedia.org/Theresa_Mah
+- url: https://en.wikipedia.org/wiki/Theresa_Mah
+- url: https://ilga.gov/house/default.asp?GA=101
+- url: https://ilga.gov/house/default.asp?GA=102
+- url: https://ilga.gov/house/default.asp?GA=103
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2687
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2904
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3107
+- url: https://justfacts.votesmart.org/candidate/biography/166371/theresa-mah
+- url: https://www.ilga.gov/House/Members/Details/3321
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3107
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3321
+- url: https://www.linkedin.com/in/theresa-mah-ph-d-53a89614
+- url: https://www.reptheresamah.com

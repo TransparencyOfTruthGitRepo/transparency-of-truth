@@ -1,0 +1,49 @@
+id: ocd-person/75f165af-66d1-464e-99b0-4176b8636501
+name: Caleb Kleinpeter
+given_name: Caleb
+family_name: Kleinpeter
+gender: Male
+email: sen17@legis.la.gov
+image: https://senate.la.gov/SenatorPics/Sen17.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '17'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 3741 Highway 1, Port Allen, LA 70767
+  voice: 225-246-8838
+links:
+- url: https://senate.la.gov/smembers.aspx?ID=17
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=17
+other_names:
+- name: C. Kleinpeter
+- name: C.S. Kleinpeter
+- name: Kleinpeter, C.
+sources:
+- url: https://ballotpedia.org/Caleb_Kleinpeter
+- url: https://en.wikipedia.org/wiki/Caleb_Kleinpeter
+- url: https://senate.la.gov/Senators_FullInfo
+- url: https://senate.la.gov/smembers.aspx?ID=17
+- url: https://senate.la.gov/smembers?ID=17
+- url: https://www.linkedin.com/in/caleb-kleinpeter-1484a3177
+extras:
+  legislative assistant: Kim Daigle
+  representing parishes:
+  - Assumption
+  - East Baton Rouge
+  - East Feliciana
+  - Iberville
+  - Pointe Coupee
+  - St. Helena
+  - St. Martin
+  - West Baton Rouge
+  - West Feliciana
+  education: "Brusly High School graduate\r\nBachelor of Science in Business"

@@ -1,0 +1,17 @@
+id: ocd-person/fa84c96e-1e6a-4fb3-98a8-57f7adc6c153
+name: Gerry Nardello
+given_name: Gerry
+family_name: Nardello
+party:
+- name: Republican
+roles:
+- start_date: '2010-01-01'
+  end_date: '2011-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '8'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000130
+sources:
+- url: ftp://www.njleg.state.nj.us/ag/2010data/ROSTER.DBF

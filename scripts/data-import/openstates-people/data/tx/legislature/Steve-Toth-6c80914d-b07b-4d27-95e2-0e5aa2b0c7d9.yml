@@ -1,0 +1,42 @@
+id: ocd-person/6c80914d-b07b-4d27-95e2-0e5aa2b0c7d9
+name: Steve Toth
+given_name: Steve
+family_name: Toth
+birth_date: 1960-11-29
+gender: Male
+email: steve.toth@house.texas.gov
+image: https://house.texas.gov/images/members/2825.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '15'
+offices:
+- classification: capitol
+  address: Room E1.404, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0797
+- classification: district
+  address: 25700 Interstate Highway 45 Suite 180, Spring, TX 77386
+links:
+- url: https://house.texas.gov/members/2825
+- url: https://house.texas.gov/members/member-page/?district=15
+other_names:
+- name: S. Toth
+- name: S.H. Toth
+- name: Toth, S.
+- name: Toth, Steve
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000467
+- scheme: openstates
+  identifier: ocd-person/a3f30715-ff61-45cf-9194-3620f3558480
+sources:
+- url: https://ballotpedia.org/Steve_Toth
+- url: https://en.wikipedia.org/wiki/Steve_Toth
+- url: https://house.texas.gov/members/2825
+- url: https://house.texas.gov/members/2825/biography
+- url: https://house.texas.gov/members/member-page/?district=15
+- url: https://justfacts.votesmart.org/candidate/biography/138323/steve-toth
+- url: https://www.linkedin.com/in/steve-toth-34544a5

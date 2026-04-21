@@ -1,0 +1,32 @@
+id: ocd-person/d54c2ad2-bd9d-499f-9046-b6d1eaebbef1
+name: Faye Thompson
+given_name: Faye
+family_name: Thompson
+gender: Female
+email: fthompson@house.idaho.gov
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Thompson9420.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: 8B
+offices:
+- classification: capitol
+  address: P.O. Box 83720 700 W. Jefferson St., Boise, ID 83720
+  voice: 208-332-1054
+- classification: district
+  address: McCall, ID 83638
+  voice: 208-634-6569
+links:
+- url: https://legislature.idaho.gov/legislators/membership/2025/id9420/
+- url: https://legislature.idaho.gov/legislators/membership/2026/id9420/
+other_names:
+- name: F. Thompson
+- name: Thompson, F.
+sources:
+- url: https://ballotpedia.org/Faye_Thompson
+- url: https://en.wikipedia.org/wiki/Faye_Thompson
+- url: https://legislature.idaho.gov/legislators/membership/2025/id9420
+- url: https://legislature.idaho.gov/legislators/membership/2026/id9420

@@ -1,0 +1,30 @@
+id: ocd-person/f65881be-58b6-45b2-b513-f2ccdb8831b4
+name: Emilio Carlo
+given_name: Emilio
+family_name: Carlo
+gender: Male
+email: ecarlo@camara.pr.gov
+party:
+- name: Partido Nuevo Progresista
+roles:
+- start_date: 2025-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: '20'
+offices:
+- classification: capitol
+  address: "El Capitolio, Avenida Constituci\xF3n P.O. Box 9022228, San Juan, PR 00902"
+  voice: 787-724-0313
+links:
+- url: https://camara.registrok12.com/team/emilio-carlo-acosta/
+- url: https://www.camara.pr.gov/team/emilio-carlo/
+other_names:
+- name: Carlo Acosta, E.
+- name: Carlo, E.
+- name: E. Carlo
+- name: E. Carlo Acosta
+- name: Emilio Carlo Acosta
+sources:
+- url: https://ballotpedia.org/Emilio_Carlo
+- url: https://camara.registrok12.com/team/emilio-carlo-acosta
+- url: https://www.camara.pr.gov/team/emilio-carlo

@@ -1,0 +1,34 @@
+id: ocd-person/c8eeda58-6c95-4ac9-988f-1c9363b2e17c
+name: Jeff Cooling
+given_name: Jeff
+family_name: Cooling
+gender: Male
+email: jeff.cooling@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33987
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '77'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://eepurl.com/ihfkv5
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33987
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33987
+other_names:
+- name: Cooling, J.
+- name: J. Cooling
+sources:
+- url: https://ballotpedia.org/Jeff_Cooling
+- url: https://en.wikipedia.org/wiki/Jeff_Cooling
+- url: https://justfacts.votesmart.org/candidate/biography/203999/jeff-cooling
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33987
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33987
+extras:
+  occupation: Union Electrician

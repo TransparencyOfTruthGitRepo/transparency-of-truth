@@ -1,0 +1,43 @@
+id: ocd-person/3caafbc8-6561-4bf8-8247-aaf398573ba8
+name: Armando Walle
+given_name: Armando
+family_name: Walle
+birth_date: 1978-03-07
+gender: Male
+email: armando.walle@house.texas.gov
+image: https://house.texas.gov/images/members/4930.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2009-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '140'
+offices:
+- classification: capitol
+  address: Room GW.16, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0924
+- classification: district
+  address: 2909 E. Aldine Amphitheatre Drive Suite 307, Houston, TX 77039
+  voice: 281-442-2206
+links:
+- url: https://house.texas.gov/members/4930
+- url: https://house.texas.gov/members/member-page/?district=140
+other_names:
+- name: A. Walle
+- name: A.L. Walle
+- name: Walle, A.
+- name: Walle, Armando
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000360
+- scheme: legacy_openstates
+  identifier: TXL000178
+- scheme: legacy_openstates
+  identifier: TXL000563
+sources:
+- url: https://ballotpedia.org/Armando_Walle
+- url: https://en.wikipedia.org/wiki/Armando_Walle
+- url: https://house.texas.gov/members/4930
+- url: https://house.texas.gov/members/member-page/?district=140
+- url: https://justfacts.votesmart.org/candidate/biography/102289/armando-walle

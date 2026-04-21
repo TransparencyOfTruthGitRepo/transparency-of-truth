@@ -1,0 +1,21 @@
+id: ocd-person/1c2c2d1e-0be2-4b43-9938-56b10501e6c3
+name: Kenneth Horn
+given_name: Kenneth B.
+family_name: Horn
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '94'
+links:
+- url: http://www.gophouse.com/welcome.asp?District=094
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000132
+- scheme: legacy_openstates
+  identifier: MIL000180
+sources:
+- url: http://www.house.mi.gov/mhrpublic/frmRepList.aspx

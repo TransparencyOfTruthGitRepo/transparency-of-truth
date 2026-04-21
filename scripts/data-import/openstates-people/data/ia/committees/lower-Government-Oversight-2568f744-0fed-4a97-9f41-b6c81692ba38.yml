@@ -1,0 +1,52 @@
+id: ocd-organization/2568f744-0fed-4a97-9f41-b6c81692ba38
+jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+classification: committee
+name: Government Oversight
+chamber: lower
+sources:
+- url: https://www.legis.iowa.gov/committees
+  note: Committee list page
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=589
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=589
+links:
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=589
+  note: homepage
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=589
+members:
+- name: Charley Thomson
+  role: chair
+  person_id: ocd-person/1a5372b1-e23d-4877-a614-a32f552c58b4
+- name: Jeff Shipley
+  role: vice chair
+  person_id: ocd-person/11ceb3de-a680-4dc0-b140-edd37f04e75b
+- name: Larry McBurney
+  role: ranking member
+  person_id: ocd-person/dcd5b341-0a0b-4f2b-bb34-d7aab8539258
+- name: Angel Ramirez
+  role: member
+  person_id: ocd-person/17e291e9-2484-4e94-a99f-0c12d6269349
+- name: Brooke Boden
+  role: member
+  person_id: ocd-person/942429d9-5b4a-4ad7-8da7-d43eb7828dff
+- name: Dave Jacoby
+  role: member
+  person_id: ocd-person/55c46119-e6fa-4b22-ade6-18990aeacf0c
+- name: Eric Gjerde
+  role: member
+  person_id: ocd-person/8e424b53-9531-4b76-bd44-a8008f34b539
+- name: Judd Lawler
+  role: member
+  person_id: ocd-person/69441bf5-e98f-4872-8bf0-5bca86e3c258
+- name: Samantha Fett
+  role: member
+  person_id: ocd-person/a629e45d-fc34-4751-9ca3-d70d2b8f332d
+- name: Steven Holt
+  role: member
+  person_id: ocd-person/427b416b-eca9-4863-a8c2-c54ad2769bc1
+- name: Taylor Collins
+  role: member
+  person_id: ocd-person/fb3a8905-a9a9-4016-97b3-94ce90308240
+other_names:
+- name: House Committee on Government Oversight
+- name: House Government Oversight
+- name: House Government Oversight Committee

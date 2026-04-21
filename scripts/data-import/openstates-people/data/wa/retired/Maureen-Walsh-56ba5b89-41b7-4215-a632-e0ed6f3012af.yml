@@ -1,0 +1,30 @@
+id: ocd-person/56ba5b89-41b7-4215-a632-e0ed6f3012af
+name: Maureen Walsh
+given_name: Maureen
+family_name: Walsh
+email: Maureen.Walsh@leg.wa.gov
+image: http://www.leg.wa.gov/Senate/Senators/PublishingImages/walsh.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-01
+  end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '16'
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '16'
+links:
+- url: http://MaureenWalsh.src.wastateleg.org/
+- url: http://www.leg.wa.gov/senate/senators/Pages/default.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000270
+- scheme: legacy_openstates
+  identifier: WAL000144
+- scheme: openstates
+  identifier: ocd-person/5cb1b55b-fae6-4691-9d58-23d9fe34262b
+sources:
+- url: http://www.leg.wa.gov/senate/senators/Pages/default.aspx

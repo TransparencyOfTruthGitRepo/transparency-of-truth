@@ -1,0 +1,131 @@
+id: ocd-person/2ad84a53-f957-5a9c-861b-413aac608201
+name: Al Green
+given_name: Al
+family_name: Green
+birth_date: 1947-09-01
+gender: Male
+email: https://algreen.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/G000553.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2005-01-03
+  end_date: 2030-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-9
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-9
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-9
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-9
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-9
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-9
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-9
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-9
+- start_date: 2009-01-06
+  end_date: 2011-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-9
+- start_date: 2007-01-04
+  end_date: 2009-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-9
+- start_date: 2005-01-04
+  end_date: 2007-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-9
+offices:
+- classification: capitol
+  address: 2347 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-7508
+  fax: 202-225-2947
+- classification: district
+  address: 2440 Texas Parkway Suite 115, Missouri City, TX 77489
+  voice: 713-383-9234
+  fax: 713-383-9202
+- classification: district
+  address: 3003 S. Loop West Suite 460, Houston, TX 77054
+  voice: 713-383-9234
+  fax: 713-383-9202
+links:
+- url: https://algreen.house.gov
+  note: website
+- url: https://algreen.house.gov/
+other_names:
+- name: A. Green
+- name: A.N. Green
+- name: Green, A.
+ids:
+  twitter: RepAlGreen
+  youtube: UCFtgMZm1YUXaZ8OtOj-GDjA
+  facebook: repalgreen
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Al Green
+- scheme: bioguide
+  identifier: G000553
+- scheme: cspan
+  identifier: '1012969'
+- scheme: fec
+  identifier: H4TX09095
+- scheme: google_entity_id
+  identifier: kg:/m/02kn0_
+- scheme: govtrack
+  identifier: '400653'
+- scheme: house_history
+  identifier: '14265'
+- scheme: icpsr
+  identifier: '20529'
+- scheme: maplight
+  identifier: '658'
+- scheme: opensecrets
+  identifier: N00026686
+- scheme: pictorial
+  identifier: '13266'
+- scheme: thomas
+  identifier: 01803
+- scheme: votesmart
+  identifier: '49680'
+- scheme: wikidata
+  identifier: Q749039
+- scheme: wikipedia
+  identifier: Al Green (politician)
+sources:
+- url: https://algreen.house.gov
+- url: https://algreen.house.gov/about#bio
+- url: https://ballotpedia.org/Al_Green_(Texas)
+- url: https://en.wikipedia.org/wiki/Al_Green_%28Texas%29
+- url: https://justfacts.votesmart.org/candidate/49680/al-green
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/al_green/400653

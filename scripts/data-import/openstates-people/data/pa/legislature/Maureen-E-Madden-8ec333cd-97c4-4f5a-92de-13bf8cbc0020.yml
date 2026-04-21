@@ -1,0 +1,54 @@
+id: ocd-person/8ec333cd-97c4-4f5a-92de-13bf8cbc0020
+name: Maureen Madden
+given_name: Maureen
+family_name: Madden
+birth_date: 1959-12-13
+gender: Female
+email: repmadden@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/1753.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2016-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '115'
+offices:
+- classification: capitol
+  address: Room 326, Main Capitol Building P.O. Box 202115, Harrisburg, PA 17120
+  voice: 717-787-5811
+- classification: district
+  address: Room 4, The Mountain Center 354 Memorial Blvd., Tobyhanna, PA 18466
+  voice: 570-894-7905
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1753
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.pahouse.com/Madden/
+- url: https://www.palegis.us/house/members/bio/1753/rep-madden
+other_names:
+- name: M. Madden
+- name: M.E. Madden
+- name: Madden, M.
+- name: Maureen E. Madden
+ids:
+  twitter: RepMadden
+  youtube: playlist?list=jtqNtfs0bgXkOlXTyNgvXM3Q1eW28gRD
+  facebook: RepMaureenMadden
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000564
+- scheme: legacy_openstates
+  identifier: PAL000568
+sources:
+- url: https://ballotpedia.org/Maureen_Madden
+- url: https://en.wikipedia.org/wiki/Maureen_Madden
+- url: https://justfacts.votesmart.org/candidate/biography/136505/maureen-madden
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1753
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/maureen-madden-0b61986
+- url: https://www.pahouse.com/Madden
+- url: https://www.palegis.us/house/members/bio/1753/rep-madden
+extras:
+  website: http://www.pahouse.com/115

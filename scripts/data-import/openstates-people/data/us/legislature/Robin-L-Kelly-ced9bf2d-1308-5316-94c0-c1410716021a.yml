@@ -1,0 +1,114 @@
+id: ocd-person/ced9bf2d-1308-5316-94c0-c1410716021a
+name: Robin Kelly
+given_name: Robin
+family_name: Kelly
+birth_date: 1956-04-30
+gender: Female
+email: https://robinkelly.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/K000385.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-04-11
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-2
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-2
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-2
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-2
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-2
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-2
+- start_date: 2013-04-09
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-2
+offices:
+- classification: capitol
+  address: 2329 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-0773
+  fax: 202-225-4583
+- classification: district
+  address: 1642 E. 56th St. Suite 110, Chicago, IL 60637
+  voice: 773-321-2001
+- classification: district
+  address: 425 N. Gilbert St. Suite 5, Danville, IL 61832
+  voice: 217-516-4556
+- classification: district
+  address: 600 Town Center Road Suite 505, Matteson, IL 60443
+  voice: 708-679-0078
+  fax: 708-679-0216
+links:
+- url: https://robinkelly.house.gov
+  note: website
+- url: https://robinkelly.house.gov/
+other_names:
+- name: Kelly, R.
+- name: R. Kelly
+- name: R.L. Kelly
+- name: Robin L. Kelly
+ids:
+  twitter: RepRobinKelly
+  youtube: UCLhcNPX2nNQLNzwKW0nEykg
+  facebook: reprobinkelly
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Robin Kelly
+- scheme: bioguide
+  identifier: K000385
+- scheme: cspan
+  identifier: '70399'
+- scheme: fec
+  identifier: H2IL02172
+- scheme: google_entity_id
+  identifier: kg:/m/0g8l32
+- scheme: govtrack
+  identifier: '412595'
+- scheme: house_history
+  identifier: '15032393262'
+- scheme: icpsr
+  identifier: '21371'
+- scheme: maplight
+  identifier: '2045'
+- scheme: opensecrets
+  identifier: N00035215
+- scheme: pictorial
+  identifier: '13034'
+- scheme: thomas
+  identifier: 02190
+- scheme: votesmart
+  identifier: '33384'
+- scheme: wikidata
+  identifier: Q3437091
+sources:
+- url: https://ballotpedia.org/Robin_Kelly
+- url: https://en.wikipedia.org/wiki/Robin_Kelly
+- url: https://justfacts.votesmart.org/candidate/33384/robin-kelly
+- url: https://robinkelly.house.gov
+- url: https://robinkelly.house.gov/about
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/robin_kelly/412595
+- url: https://www.linkedin.com/in/robin-kelly-b94904a
+- url: https://www.robinkellyforcongress.org/about-robin

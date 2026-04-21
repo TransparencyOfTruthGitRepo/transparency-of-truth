@@ -1,0 +1,45 @@
+id: ocd-person/cf295962-4f8d-427a-84e9-c7615ff94c8c
+name: David DeCoste
+given_name: David
+family_name: DeCoste
+gender: Male
+email: david.decoste@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/DFD1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 5th Plymouth
+offices:
+- classification: capitol
+  address: Room 542, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2489
+links:
+- url: https://malegislature.gov/Legislators/Profile/DFD1
+other_names:
+- name: D. DeCoste
+- name: D.F. DeCoste
+- name: David F. DeCoste
+- name: DeCoste, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000470
+- scheme: legacy_openstates
+  identifier: MAL000353
+- scheme: openstates
+  identifier: ocd-person/c5f4cdbe-0488-4867-8e58-d721028416fe
+sources:
+- url: https://ballotpedia.org/David_DeCoste
+- url: https://en.wikipedia.org/wiki/David_DeCoste
+- url: https://justfacts.votesmart.org/candidate/biography/154081/david-decoste
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/DFD1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/DFD1
+- url: https://malegislature.gov/Legislators/Profile/DFD1
+extras:
+  member code: DFD1

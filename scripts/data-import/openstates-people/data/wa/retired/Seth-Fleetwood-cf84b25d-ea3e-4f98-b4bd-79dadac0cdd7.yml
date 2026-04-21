@@ -1,0 +1,14 @@
+id: ocd-person/cf84b25d-ea3e-4f98-b4bd-79dadac0cdd7
+name: Seth Fleetwood
+given_name: Seth
+family_name: Fleetwood
+email: mayorsoffice@cob.org
+roles:
+- end_date: 2023-12-31
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/place:bellingham/government
+offices:
+- classification: primary
+  address: 210 Lottie St;Bellingham, WA 98225
+  voice: 360-778-8100
+  fax: 360-778-8001

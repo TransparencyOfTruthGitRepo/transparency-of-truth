@@ -1,0 +1,124 @@
+id: ocd-person/f747c3f1-7247-5c91-9870-901ec617e884
+name: Terri Sewell
+given_name: Terri
+family_name: Sewell
+birth_date: 1965-01-01
+gender: Female
+email: https://sewell.house.gov/contact-me
+image: https://unitedstates.github.io/images/congress/450x550/S001185.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2011-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-7
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-7
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-7
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-7
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-7
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-7
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-7
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-7
+offices:
+- classification: capitol
+  address: 1035 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-2665
+  fax: 202-226-9567
+- classification: district
+  address: 101 S. Lawrence St. Courthouse Annex 3, Montgomery, AL 36104
+  voice: 334-262-1919
+  fax: 334-262-1921
+- classification: district
+  address: 2 20th St. North Suite 1130, Birmingham, AL 35203
+  voice: 205-254-1960
+  fax: 205-254-1974
+- classification: district
+  address: 2122 Gary Fitts St., Tuscaloosa, AL 35401
+  voice: 205-752-5380
+  fax: 205-752-5899
+- classification: district
+  address: Federal Building 908 Alabama Ave., Suite 112, Selma, AL 36701
+  voice: 334-877-4414
+  fax: 334-877-4489
+links:
+- url: https://sewell.house.gov
+  note: website
+- url: https://sewell.house.gov/
+other_names:
+- name: Sewell, T.
+- name: T. Sewell
+- name: T.A. Sewell
+- name: Terri A. Sewell
+ids:
+  twitter: RepTerriSewell
+  youtube: UCHkEHtfrfUWOFtbUFQTQH7Q
+  facebook: RepSewell
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Terri Sewell
+- scheme: bioguide
+  identifier: S001185
+- scheme: cspan
+  identifier: '623257'
+- scheme: fec
+  identifier: H0AL07086
+- scheme: google_entity_id
+  identifier: kg:/m/05pbszt
+- scheme: govtrack
+  identifier: '412396'
+- scheme: house_history
+  identifier: '22624'
+- scheme: icpsr
+  identifier: '21102'
+- scheme: maplight
+  identifier: '1410'
+- scheme: opensecrets
+  identifier: N00030622
+- scheme: pictorial
+  identifier: '12900'
+- scheme: thomas
+  identifier: 01988
+- scheme: votesmart
+  identifier: '121621'
+- scheme: wikidata
+  identifier: Q461621
+sources:
+- url: https://ballotpedia.org/Terri_Sewell
+- url: https://en.wikipedia.org/wiki/Terri_Sewell
+- url: https://justfacts.votesmart.org/candidate/biography/121621/terri-sewell
+- url: https://sewell.house.gov
+- url: https://sewellforcongress.com/about-terri
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/terri_sewell/412396
+- url: https://www.linkedin.com/in/terrisewell

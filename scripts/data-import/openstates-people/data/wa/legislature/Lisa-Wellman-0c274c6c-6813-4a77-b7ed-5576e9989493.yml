@@ -1,0 +1,39 @@
+id: ocd-person/0c274c6c-6813-4a77-b7ed-5576e9989493
+name: Lisa Wellman
+given_name: Lisa
+family_name: Wellman
+gender: Female
+email: lisa.wellman@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/27211.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '41'
+offices:
+- classification: capitol
+  address: Room 224, John A. Cherberg Building P.O. Box 40441, Olympia, WA 98504
+  voice: 360-786-7641
+links:
+- url: https://leg.wa.gov/legislators/member/lisa-wellman
+- url: https://sdc.wastateleg.org/Wellman/
+- url: https://senatedemocrats.wa.gov/wellman/
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+other_names:
+- name: L. Wellman
+- name: Wellman, L.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000247
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=Senate
+- url: https://ballotpedia.org/Lisa_Wellman
+- url: https://en.wikipedia.org/wiki/Lisa_Wellman
+- url: https://justfacts.votesmart.org/candidate/biography/171027/lisa-wellman
+- url: https://leg.wa.gov/legislators/member/lisa-wellman
+- url: https://senatedemocrats.wa.gov/wellman
+- url: https://senatedemocrats.wa.gov/wellman/
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+- url: https://www.linkedin.com/in/lisawellman

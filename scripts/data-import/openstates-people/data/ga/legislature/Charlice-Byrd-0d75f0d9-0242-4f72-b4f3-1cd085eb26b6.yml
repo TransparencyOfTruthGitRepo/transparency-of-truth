@@ -1,0 +1,71 @@
+id: ocd-person/0d75f0d9-0242-4f72-b4f3-1cd085eb26b6
+name: Charlice Byrd
+given_name: Charlice
+family_name: Byrd
+birth_date: 1952-09-14
+gender: Female
+email: charlice.byrd@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/byrd-charlice-75.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '20'
+- start_date: 2005-01-10
+  end_date: 2013-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Room 508-B, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0213
+- classification: district
+  address: 1025 Rose Creek Drive Suite 620-165, Woodstock, GA 30189
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/75
+- url: https://www.legis.ga.gov/members/house/75?session=1029
+- url: https://www.legis.ga.gov/members/house/75?session=1031
+  note: HTML member detail page
+- url: https://www1.legis.ga.gov/legis/2011_12/house/bios/byrdCharlice.htm
+other_names:
+- name: BYRD, 20TH
+- name: Byrd, C.
+- name: C. Byrd
+- name: C.H. Byrd
+- name: Charlice Byrd
+- name: Charlice H. Byrd
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000079
+- scheme: openstates
+  identifier: ocd-person/5c300729-146e-4e89-bd10-b7a184dbf31d
+sources:
+- url: https://ballotpedia.org/Charlice_Byrd
+- url: https://en.wikipedia.org/wiki/Charlice_Byrd
+- url: https://justfacts.votesmart.org/candidate/biography/32017/charlice-byrd
+- url: https://www.legis.ga.gov/api/members/detail/75?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/75?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/75
+- url: https://www.legis.ga.gov/members/house/75?session=1029
+- url: https://www.linkedin.com/in/charlice-byrd-5a9b766
+- url: https://www1.legis.ga.gov/legis/2011_12/house/bios/byrdCharlice.htm
+extras:
+  residence: Woodstock
+  city: Woodstock
+  georgia_id: 75
+  birthday: September 14
+  occupation: Retired
+  press: https://house-press.com/representative/Charlice-Byrd
+  spouse: Michael
+  staff: Sarah Lutterbie - Administrative Assistant
+  staff email: sarah.lutterbie@house.ga.gov

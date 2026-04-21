@@ -1,0 +1,70 @@
+id: ocd-person/44a51125-9e82-41f6-8d4f-a646895b5994
+name: Larry Walker
+given_name: Larry
+family_name: Walker
+birth_date: 1965-06-17
+gender: Male
+email: larry.walker@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/walker--iii-larry-4878.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-12-18
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '20'
+offices:
+- classification: capitol
+  address: State Capitol Room 421-A, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-0095
+- classification: district
+  address: 1110 Washington St., Perry, GA 31069
+  voice: 404-656-0095
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/4878
+- url: https://www.legis.ga.gov/members/senate/4878?session=1029
+- url: https://www.legis.ga.gov/members/senate/4878?session=1031
+  note: HTML member detail page
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4878&Session=27
+other_names:
+- name: L. Walker
+- name: L.C. Walker
+- name: Larry Walker
+- name: Larry Walker III
+- name: Larry Walker, III
+- name: Lawrence Cohen Walker
+- name: WALKER, 20TH
+- name: WALKER, III
+- name: Walker, L.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000438
+sources:
+- url: https://ballotpedia.org/Larry_Walker_(Georgia)
+- url: https://en.wikipedia.org/wiki/Larry_Walker_III
+- url: https://justfacts.votesmart.org/candidate/biography/157220/larry-walker-iii
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.legis.ga.gov/api/members/detail/4878?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4878?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/4878
+- url: https://www.legis.ga.gov/members/senate/4878?session=1029
+- url: https://www.linkedin.com/in/larry-walker-iii-97858994
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4878&Session=27
+extras:
+  residence: Perry
+  city: Perry
+  georgia_id: 4878
+  birthday: June 17
+  occupation: Insurance Agent
+  press: 'https://senatepress.net/category/senate-press/larry-walker '
+  religion: Methodist
+  spouse: Adrienne
+  staff: McKenzie Rhoades
+  staff email: mckenzie.rhoades@senate.ga.gov
+  title: Majority Caucus Secretary

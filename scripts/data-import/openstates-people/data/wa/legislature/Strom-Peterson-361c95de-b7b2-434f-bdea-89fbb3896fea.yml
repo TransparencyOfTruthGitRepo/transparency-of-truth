@@ -1,0 +1,41 @@
+id: ocd-person/361c95de-b7b2-434f-bdea-89fbb3896fea
+name: Strom Peterson
+given_name: Strom
+family_name: Peterson
+gender: Male
+email: strom.peterson@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/20755.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '21'
+offices:
+- classification: capitol
+  address: Room 324, John L. O'Brien Building P.O. Box 40600, Olympia, WA 98504
+  voice: 360-786-7950
+links:
+- url: https://housedemocrats.wa.gov/legislators/Strom-Peterson/
+- url: https://housedemocrats.wa.gov/Peterson/
+- url: https://housedemocrats.wa.gov/peterson/
+- url: https://leg.wa.gov/legislators/member/strom-peterson
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_names:
+- name: Peterson, S.
+- name: S. Peterson
+- name: S.H. Peterson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000217
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=House
+- url: https://ballotpedia.org/Strom_Peterson
+- url: https://en.wikipedia.org/wiki/Strom_Peterson
+- url: https://housedemocrats.wa.gov/peterson
+- url: https://housedemocrats.wa.gov/peterson/
+- url: https://housedemocrats.wa.gov/peterson/biography
+- url: https://justfacts.votesmart.org/candidate/biography/114465/strom-peterson
+- url: https://leg.wa.gov/legislators/member/strom-peterson
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx

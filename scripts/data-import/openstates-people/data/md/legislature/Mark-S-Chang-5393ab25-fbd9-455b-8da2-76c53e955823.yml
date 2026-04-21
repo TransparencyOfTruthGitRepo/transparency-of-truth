@@ -1,0 +1,39 @@
+id: ocd-person/5393ab25-fbd9-455b-8da2-76c53e955823
+name: Mark Chang
+given_name: Mark
+family_name: Chang
+birth_date: 1976-07-09
+gender: Male
+email: mark.chang@house.maryland.gov
+image: http://mgaleg.maryland.gov/2016RS/images/chang01.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '32'
+offices:
+- classification: capitol
+  address: Room 160, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3511
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/chang01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=chang01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa17071.html
+other_names:
+- name: Chang, M.
+- name: M. Chang
+- name: M.S. Chang
+- name: Mark S. Chang
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000634
+sources:
+- url: https://ballotpedia.org/Mark_Chang
+- url: https://en.wikipedia.org/wiki/Mark_S._Chang
+- url: https://justfacts.votesmart.org/candidate/biography/66409/mark-chang
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/chang01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=chang01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa17071.html
+- url: https://www.linkedin.com/in/mark-chang-7b645a10

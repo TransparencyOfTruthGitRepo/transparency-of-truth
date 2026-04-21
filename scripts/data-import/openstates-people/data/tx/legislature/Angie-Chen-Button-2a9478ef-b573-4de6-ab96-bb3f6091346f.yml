@@ -1,0 +1,48 @@
+id: ocd-person/2a9478ef-b573-4de6-ab96-bb3f6091346f
+name: Angie Button
+given_name: Angie
+family_name: Button
+birth_date: 1954-02-09
+gender: Female
+email: angie.button@house.texas.gov
+image: https://house.texas.gov/images/members/2510.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2009-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '112'
+offices:
+- classification: capitol
+  address: Room GW.7, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0486
+- classification: district
+  address: 1201 International Parkway Suite 130, Richardson, TX 75081
+  voice: 972-234-8980
+links:
+- url: https://house.texas.gov/members/2510
+- url: https://house.texas.gov/members/member-page/?district=112
+other_names:
+- name: A. Button
+- name: A.C. Button
+- name: Angie Chen Button
+- name: Button, A.
+- name: Button, Angie
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000228
+- scheme: legacy_openstates
+  identifier: TXL000046
+- scheme: legacy_openstates
+  identifier: TXL000374
+- scheme: legacy_openstates
+  identifier: TXL000594
+sources:
+- url: https://ballotpedia.org/Angie_Chen_Button
+- url: https://en.wikipedia.org/wiki/Angie_Chen_Button
+- url: https://house.texas.gov/members/2510
+- url: https://house.texas.gov/members/2510/biography
+- url: https://house.texas.gov/members/member-page/?district=112
+- url: https://justfacts.votesmart.org/candidate/biography/102062/angie-chen-button
+- url: https://www.linkedin.com/in/angie-chen-button-b6101037

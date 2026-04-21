@@ -1,0 +1,42 @@
+id: ocd-person/04d4dc4f-a38a-4d50-8962-ea961550b2ff
+name: Dan Troy
+given_name: Dan
+family_name: Troy
+birth_date: 1948-06-06
+gender: Male
+email: rep23@ohiohouse.gov
+image: https://www.legislature.ohio.gov/assets/people/daniel-p-troy/headshots/thumbnails/medium/daniel-p-troy-january-2021-headshot_medium.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '23'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '60'
+offices:
+- classification: capitol
+  address: 77 S. High St. 10th Floor, Columbus, OH 43215
+  voice: 614-466-7251
+links:
+- url: https://ohiohouse.gov/daniel-p-troy
+- url: https://ohiohouse.gov/members/daniel-p-troy
+other_names:
+- name: D. Troy
+- name: D.P. Troy
+- name: Daniel P. Troy
+- name: Daniel Troy
+- name: Troy, D.
+sources:
+- url: https://ballotpedia.org/Dan_Troy
+- url: https://en.wikipedia.org/wiki/Dan_Troy
+- url: https://justfacts.votesmart.org/candidate/biography/8405/daniel-troy
+- url: https://ohiohouse.gov/daniel-p-troy
+- url: https://ohiohouse.gov/members/daniel-p-troy
+  note: member details page
+- url: https://www.legislature.ohio.gov/legislators/house-directory
+  note: member list page
+- url: "https://www.linkedin.com/in/\uFEFFtroy\uFEFF\uFEFF-dan\uFEFF\uFEFFiel-25044a13"

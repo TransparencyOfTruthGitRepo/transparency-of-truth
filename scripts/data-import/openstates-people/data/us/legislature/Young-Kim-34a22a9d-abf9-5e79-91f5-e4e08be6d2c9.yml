@@ -1,0 +1,76 @@
+id: ocd-person/34a22a9d-abf9-5e79-91f5-e4e08be6d2c9
+name: Young Kim
+given_name: Young
+family_name: Kim
+birth_date: 1962-10-18
+gender: Female
+email: https://youngkim.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/K000397.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CA-40
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CA-40
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CA-39
+offices:
+- classification: capitol
+  address: 2439 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-4111
+- classification: district
+  address: 180 N. Riverview Drive Suite 150, Anaheim, CA 92808
+  voice: 714-984-2440
+- classification: district
+  address: Mission Viejo City Hall 200 Civic Center, Mission Viejo, CA 92691
+  voice: 949-268-6706
+links:
+- url: https://youngkim.house.gov
+  note: website
+- url: https://youngkim.house.gov/
+other_names:
+- name: Kim, Y.
+- name: Y. Kim
+- name: Y.O. Kim
+ids:
+  twitter: RepYoungKim
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Young Kim (California)
+- scheme: bioguide
+  identifier: K000397
+- scheme: fec
+  identifier: H8CA39240
+- scheme: google_entity_id
+  identifier: kg:/m/012c98r4
+- scheme: govtrack
+  identifier: '456802'
+- scheme: opensecrets
+  identifier: N00042386
+- scheme: pictorial
+  identifier: '12954'
+- scheme: votesmart
+  identifier: '151787'
+- scheme: wikidata
+  identifier: Q19662859
+- scheme: wikipedia
+  identifier: Young Kim
+sources:
+- url: https://ballotpedia.org/Young_Kim_(California)
+- url: https://en.wikipedia.org/wiki/Young_Kim
+- url: https://justfacts.votesmart.org/candidate/151787/young-kim
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/young_kim/456802
+- url: https://www.linkedin.com/in/young-kim-77126a6
+- url: https://youngkim.house.gov

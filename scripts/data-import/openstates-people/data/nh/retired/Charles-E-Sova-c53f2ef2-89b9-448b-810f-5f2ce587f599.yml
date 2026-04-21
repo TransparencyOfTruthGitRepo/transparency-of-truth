@@ -1,0 +1,20 @@
+id: ocd-person/c53f2ef2-89b9-448b-810f-5f2ce587f599
+name: Charles E Sova
+given_name: Charles
+family_name: Sova
+middle_name: E
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Grafton 10
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376396
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000364
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members(Asterisk%20Delimited).txt

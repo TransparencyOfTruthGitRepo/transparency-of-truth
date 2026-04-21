@@ -1,0 +1,71 @@
+id: ocd-person/42e0cedc-8165-45c0-988a-d3a414a521c6
+name: Kendon Underwood
+given_name: Kendon
+family_name: Underwood
+gender: Male
+email: kendon.underwood@arkansashouse.org
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/592_sm.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '16'
+- start_date: 2021-01-11
+  end_date: 2023-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '16'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '90'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+- classification: district
+  address: AR
+  voice: 479-644-8461
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Underwood
+- url: https://www.arkansashouse.org/district/16
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Underwood
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Underwood&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Underwood&ddBienniumSession=2023%2F2023R
+- url: https://www.underwood4arkansas.com
+  note: Campaign Website
+other_names:
+- name: K. Underwood
+- name: K.R. Underwood
+- name: Underwood
+- name: Underwood, K.
+ids:
+  twitter: KendonReese
+  instagram: underwoodforarkansas
+  facebook: UnderwoodforArkansas
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Kendon_Underwood
+- scheme: followthemoney
+  identifier: '44492161'
+- scheme: votesmart
+  identifier: '178588'
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Underwood
+- url: https://ballotpedia.org/Kendon_Underwood
+- url: https://en.wikipedia.org/wiki/Kendon_Underwood
+- url: https://justfacts.votesmart.org/candidate/178588/kendon-underwood
+- url: https://www.arkansashouse.org/district/16
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Underwood
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Underwood&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Underwood&ddBienniumSession=2021%2F2021S1
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Underwood&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2021%2F2021S1#SearchResults
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+- url: https://www.linkedin.com/in/kendon-underwood-a44371b2
+extras:
+  seniority: '71'
+  occupation: Attorney
+  veteran: 'No'

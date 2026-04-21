@@ -1,0 +1,45 @@
+id: ocd-person/fe412f7a-cff0-4153-bfea-a0578f2e1aaa
+name: Kevin Hornberger
+given_name: Kevin
+family_name: Hornberger
+birth_date: 1981-06-26
+gender: Male
+email: kevin.hornberger@house.maryland.gov
+image: https://mgaleg.maryland.gov/2025RS/images/hornberger01.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 35B
+- start_date: 2015-01-14
+  end_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 35B
+offices:
+- classification: capitol
+  address: Room 325, House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3284
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/hornberger01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=hornberger01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa17073.html
+other_names:
+- name: Hornberger, K.
+- name: K. Hornberger
+- name: K.B. Hornberger
+- name: Kevin B. Hornberger
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000692
+- scheme: legacy_openstates
+  identifier: MDL000717
+sources:
+- url: https://ballotpedia.org/Kevin_Hornberger
+- url: https://en.wikipedia.org/wiki/Kevin_Hornberger
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/hornberger01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=hornberger01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa17073.html
+- url: https://www.linkedin.com/in/kevin-hornberger-fmp-28663616a

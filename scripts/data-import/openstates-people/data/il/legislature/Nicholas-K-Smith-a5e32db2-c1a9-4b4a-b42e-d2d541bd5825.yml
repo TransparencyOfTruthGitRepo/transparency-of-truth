@@ -1,0 +1,55 @@
+id: ocd-person/a5e32db2-c1a9-4b4a-b42e-d2d541bd5825
+name: Nick Smith
+given_name: Nick
+family_name: Smith
+gender: Male
+email: repsmith34@gmail.com
+image: https://cdn.ilga.gov/assets/img/members/{4D7D283C-73C8-40F8-A3F0-7FA9301456F5}.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2018-01-26
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '34'
+offices:
+- classification: capitol
+  address: Room 632, Capitol Building, Springfield, IL 62706
+  voice: 217-782-6476
+- classification: district
+  address: 113 E. 95th St. Suite A, Chicago, IL 60619
+  voice: 773-783-8800
+links:
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2704
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2919
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3118
+  note: homepage
+- url: https://www.ilga.gov/House/Members/Details/3332
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3118
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3332
+- url: https://www.repsmith34.com/
+other_names:
+- name: N. Smith
+- name: N.K. Smith
+- name: Nicholas "Nick" K. Smith
+- name: Nicholas K. Smith
+- name: Smith, N.
+- name: Smith, Nicholas K
+- name: Smith, Nick
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ILL001091
+sources:
+- url: https://ballotpedia.org/Nicholas_Smith_(Illinois)
+- url: https://en.wikipedia.org/wiki/Nicholas_Smith_(Illinois_politician)
+- url: https://ilga.gov/house/default.asp?GA=101
+- url: https://ilga.gov/house/default.asp?GA=102
+- url: https://ilga.gov/house/default.asp?GA=103
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2704
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2919
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3118
+- url: https://www.ilga.gov/House/Members/Details/3332
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3118
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3332
+- url: https://www.linkedin.com/in/niksmith
+- url: https://www.repsmith34.com

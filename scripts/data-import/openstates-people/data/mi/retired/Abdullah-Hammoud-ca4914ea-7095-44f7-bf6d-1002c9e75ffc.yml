@@ -1,0 +1,23 @@
+id: ocd-person/ca4914ea-7095-44f7-bf6d-1002c9e75ffc
+name: Abdullah Hammoud
+given_name: Abdullah
+family_name: Hammoud
+email: AbdullahHammoud@house.mi.gov
+image: https://housedems.com/sites/default/files/Images/Representative_Images/D015_Abdullah_Hammoud/Hammoud_Headshot.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2021-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '15'
+  end_reason: Elected mayor of Dearborn
+links:
+- url: https://housedems.com/hammoud
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000337
+sources:
+- url: https://housedems.com/hammoud
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
+- url: https://www.house.mi.gov/AllRepresentatives

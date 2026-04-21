@@ -1,0 +1,37 @@
+id: ocd-person/e2fb607f-9af9-4d80-b473-8ed33e3d942d
+name: Yolanda Young
+given_name: Yolanda
+family_name: Young
+gender: Female
+email: yolanda.young@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2168
+party:
+- name: Democratic
+roles:
+- start_date: 2020-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '22'
+offices:
+- classification: capitol
+  address: Room 105-A, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-3129
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=022
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=022
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=022
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=22
+other_names:
+- name: Y. Young
+- name: Young, Y.
+- name: Young, Yolanda
+sources:
+- url: https://ballotpedia.org/Yolanda_Young
+- url: https://house.mo.gov/MemberDetails.aspx?district=022
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=022
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=022
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=22
+- url: https://www.linkedin.com/in/yolanda-young-mo22rep
+extras:
+  hometown: Kansas City

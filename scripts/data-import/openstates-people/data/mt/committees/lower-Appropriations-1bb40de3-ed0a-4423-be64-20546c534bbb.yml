@@ -1,0 +1,86 @@
+id: ocd-organization/1bb40de3-ed0a-4423-be64-20546c534bbb
+jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+classification: committee
+name: Appropriations
+chamber: lower
+sources:
+- url: https://committees.legmt.gov/#/standingCommittees/4
+- url: https://laws.leg.mt.gov/legprd/LAW0240W$CMTE.ActionQuery?P_SESS=20231&P_COM_NM=%28H%29+Appropriations&P_ACTN_DTM=&U_ACTN_DTM=&Z_ACTION2=Find
+  note: Committee membership page
+- url: https://laws.leg.mt.gov/legprd/law0240w$cmte.startup
+  note: Committee list page
+links:
+- url: https://committees.legmt.gov/#/standingCommittees/4
+- url: https://laws.leg.mt.gov/legprd/LAW0240W$CMTE.ActionQuery?P_SESS=20231&P_COM_NM=%28H%29+Appropriations&P_ACTN_DTM=&U_ACTN_DTM=&Z_ACTION2=Find
+- url: https://leg.mt.gov/committees/session-committees
+members:
+- name: Llew Jones
+  role: chair
+  person_id: ocd-person/ed3e498d-5160-4f6a-8580-ee2a4d877b5d
+- name: Dave Bedey
+  role: vice chair
+  person_id: ocd-person/8583c5f0-fc55-4f5b-9664-19d44f7f25b3
+- name: Mary Caferro
+  role: vice chair
+  person_id: ocd-person/c2eda1fb-6dc5-4326-a4b5-a295f26ee399
+- name: Anthony Nicastro
+  role: member
+  person_id: ocd-person/06fef2c8-9695-47b2-9015-999a5dd3bded
+- name: Brad Barker
+  role: member
+  person_id: ocd-person/e46e64b0-2c6e-4581-b281-bc4c0993fa5b
+- name: Connie Keogh
+  role: member
+  person_id: ocd-person/d640b7b9-98c0-48f4-820d-24440c180667
+- name: Debo Powers
+  role: member
+  person_id: ocd-person/cf8ab221-3027-4ab8-81bc-66bc28e342fb
+- name: Donavon Hawk
+  role: member
+  person_id: ocd-person/228fbd51-8789-433e-a790-52e395da0dd0
+- name: Eric Albus
+  role: member
+  person_id: ocd-person/3d8ef86d-689a-40ed-a09d-2f612a7ecf6a
+- name: Eric Matthews
+  role: member
+  person_id: ocd-person/1cc82ae1-087a-497e-9f01-6a96201815e3
+- name: Fiona Nave
+  role: member
+  person_id: ocd-person/e47950ef-92f1-41d1-8f1c-5b579fb80e57
+- name: Jane Gillette
+  role: member
+  person_id: ocd-person/60009e1c-4fef-4511-b59b-02b39b406a1d
+- name: Jerry Schillinger
+  role: member
+  person_id: ocd-person/d6bca004-d3ef-4015-9c88-b4d536110436
+- name: John Fitzpatrick
+  role: member
+  person_id: ocd-person/bcfec03b-c046-4af3-9653-a8e5e4fa97b6
+- name: Ken Walsh
+  role: member
+  person_id: ocd-person/89cfc24f-851d-46c8-ad39-9cc888a437a5
+- name: Luke Muszkiewicz
+  role: member
+  person_id: ocd-person/b86dc3b3-7ea1-4fee-a11c-151130205f55
+- name: Mike Fox
+  role: member
+  person_id: ocd-person/ef77e3ee-eec4-4274-ae22-7b1074227740
+- name: Mike Vinton
+  role: member
+  person_id: ocd-person/f04a0d34-6c7b-4d78-8215-d430eeff5fee
+- name: Paul Tuss
+  role: member
+  person_id: ocd-person/4d9cab5d-56c1-4262-9063-052b13b7d0c2
+- name: Scott Rosenzweig
+  role: member
+  person_id: ocd-person/0ddba0a3-ab07-4d9a-ab04-5883d59a42f1
+- name: Terry Falk
+  role: member
+  person_id: ocd-person/be2c0041-9ca1-48d1-8244-023a31458b5e
+- name: Thedis Crowe
+  role: member
+  person_id: ocd-person/6b9930b6-a74b-420a-af6d-22675ad569dd
+other_names:
+- name: House Appropriations
+- name: House Appropriations Committee
+- name: House Committee on Appropriations

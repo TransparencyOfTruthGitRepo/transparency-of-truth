@@ -1,0 +1,54 @@
+id: ocd-person/9aa18702-15a2-4281-926b-4e980f2e8aa0
+name: Roger Kirby
+given_name: Roger
+family_name: Kirby
+birth_date: 1960-04-20
+gender: Male
+email: rogerkirby@schouse.gov
+image: https://scstatehouse.gov/images/members/1006818061.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-11-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '101'
+- start_date: 2014-11-10
+  end_date: 2022-11-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '101'
+- end_date: 2022-11-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '61'
+offices:
+- classification: capitol
+  address: Room 314B, Blatt Building P.O. Box 11867, Columbia, SC 29201
+  voice: 803-212-6947
+links:
+- url: https://scstatehouse.gov/member.php?code=1006818061
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=1006818061
+  note: homepage
+other_names:
+- name: Kirby, R.
+- name: Kirby, Roger
+- name: Kirby, Roger K.
+- name: R. Kirby
+- name: R.K. Kirby
+- name: Roger K. Kirby
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000221
+sources:
+- url: https://ballotpedia.org/Roger_Kirby
+- url: https://en.wikipedia.org/wiki/Roger_K._Kirby
+- url: https://justfacts.votesmart.org/candidate/biography/139590/roger-kirby
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=1006818061
+- url: https://www.linkedin.com/in/roger-kirby-3622ab21
+- url: https://www.scstatehouse.gov/member.php?chamber=H
+- url: https://www.scstatehouse.gov/member.php?code=1006818061
+extras:
+  counties represented: Berkeley, Florence & Williamsburg Counties

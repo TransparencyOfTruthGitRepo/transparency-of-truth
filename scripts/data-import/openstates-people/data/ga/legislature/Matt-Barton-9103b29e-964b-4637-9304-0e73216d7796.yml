@@ -1,0 +1,60 @@
+id: ocd-person/9103b29e-964b-4637-9304-0e73216d7796
+name: Matt Barton
+given_name: Matt
+family_name: Barton
+birth_date: 1972-04-28
+gender: Male
+email: matt.barton@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/barton-matt-4966.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-02-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '5'
+offices:
+- classification: capitol
+  address: Room 614-A, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-3947
+- classification: district-mail
+  address: P.O. Box 572, Calhoun, GA 30703
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4966&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4966
+- url: https://www.legis.ga.gov/members/house/4966?session=1029
+- url: https://www.legis.ga.gov/members/house/4966?session=1031
+  note: HTML member detail page
+other_names:
+- name: BARTON, 5TH
+- name: Barton, M.
+- name: M. Barton
+- name: M.F. Barton
+- name: Madison Fain Barton
+- name: Matt Barton
+sources:
+- url: https://ballotpedia.org/Matt_Barton
+- url: https://en.wikipedia.org/wiki/Matt_Barton_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/185940/matt-barton
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4966&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4966?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4966?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4966
+- url: https://www.legis.ga.gov/members/house/4966?session=1029
+extras:
+  residence: Calhoun
+  city: Calhoun
+  georgia_id: 4966
+  birthday: April 28
+  press: https://house-press.com/representative/Matt-Barton
+  spouse: Lynne
+  staff: Delane Roberts - Administrative Assistant
+  staff email: delane.roberts@house.ga.gov

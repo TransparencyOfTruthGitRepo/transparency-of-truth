@@ -1,0 +1,33 @@
+id: ocd-organization/a61ced3e-7c8c-4867-a241-e63fe059a298
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Interstate and Federal Cooperation
+chamber: upper
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: homepage
+members:
+- name: Hillman Frazier
+  role: chair
+  person_id: ocd-person/92659a52-eda2-41a1-9300-40ca7fc3a46b
+- name: Dean Kirby
+  role: vice chair
+  person_id: ocd-person/d1572354-a456-47fa-aa21-58be9884a3bb
+- name: Dennis DeBar
+  role: member
+  person_id: ocd-person/8c139a04-43ed-48c5-98cc-e2d308efa65b
+- name: Neil Whaley
+  role: member
+  person_id: ocd-person/60cdec6e-abad-4d5c-97ca-83da67ed7a67
+- name: Walter Michel
+  role: member
+  person_id: ocd-person/61c65e25-07c9-445c-8cef-1e6d53cbbfb3
+other_names:
+- name: Committee on Interstate and Federal Cooperation
+- name: Interstate and Federal Cooperation Committee
+- name: Senate Committee on Interstate and Federal Cooperation
+- name: Senate Interstate and Federal Cooperation
+- name: Senate Interstate and Federal Cooperation Committee

@@ -1,0 +1,31 @@
+id: ocd-person/d52d1bb4-8a2b-43e9-a3ab-4c01e07b46dd
+name: David Miller
+given_name: David
+family_name: Miller
+email: David.Miller@wyoleg.gov
+birth_date: 1953-01-29
+image: http://wyoleg.gov/LegislatorSummary/Photos/MillerDH55.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '55'
+links:
+- url: http://wyoleg.gov/Legislators/2019/R/541
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000071
+sources:
+- url: http://wyoleg.gov/Legislators/2019/R/541
+extras:
+  civic_organizations:
+  - orgname: Rotary
+  county: Fremont
+  number_children: ''
+  occupation: Geologist/Mineral Exploration
+  place_of_birth: ''
+  religion: ''
+  spouse_given_name: null
+  wy_leg_id: 541

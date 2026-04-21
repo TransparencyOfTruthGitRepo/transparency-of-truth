@@ -1,0 +1,21 @@
+id: ocd-person/5c5c160a-c1ce-4617-a42e-2ceddef93ea1
+name: Linda Koop
+given_name: Linda
+family_name: Koop
+image: https://house.texas.gov/photos/members/3070.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-07'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '102'
+links:
+- url: https://house.texas.gov/members/member-page/?district=102
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000491
+- scheme: legacy_openstates
+  identifier: TXL000571
+sources:
+- url: https://house.texas.gov/members/member-page/?district=102

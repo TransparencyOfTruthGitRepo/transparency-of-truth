@@ -1,0 +1,42 @@
+id: ocd-person/f83f11f2-bfdb-4f84-925a-ae04c97b990e
+name: Mary Beth Walsh
+given_name: Mary Beth
+family_name: Walsh
+gender: Female
+email: walshm@nyassembly.gov
+image: https://assembly.state.ny.us/write/upload/member_files/112/headshot/112.jpg?hst=1660074618
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '112'
+offices:
+- classification: capitol
+  address: Room 446, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-5772
+- classification: district
+  address: 199 Milton Ave. Suite 2, Ballston Spa, NY 12020
+  voice: 518-884-8010
+links:
+- url: https://assembly.state.ny.us/mem/?sh=email
+- url: https://assembly.state.ny.us/mem/Mary-Beth-Walsh
+- url: https://nyassembly.gov/mem/Mary-Beth-Walsh
+other_names:
+- name: M. Walsh
+- name: M.B. Walsh
+- name: Walsh, M.
+ids:
+  twitter: MBWalsh112
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000447
+sources:
+- url: https://assembly.state.ny.us/mem/Mary-Beth-Walsh
+- url: https://ballotpedia.org/Mary_Beth_Walsh
+- url: https://en.wikipedia.org/wiki/Mary_Beth_Walsh
+- url: https://justfacts.votesmart.org/candidate/174245/mary-walsh
+- url: https://marybeth4ny.com/meet-mary-beth
+- url: https://nyassembly.gov/mem/Mary-Beth-Walsh
+- url: https://www.linkedin.com/in/mahynes

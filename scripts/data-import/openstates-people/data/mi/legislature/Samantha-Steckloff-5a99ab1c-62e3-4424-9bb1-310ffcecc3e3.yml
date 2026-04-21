@@ -1,0 +1,40 @@
+id: ocd-person/5a99ab1c-62e3-4424-9bb1-310ffcecc3e3
+name: Samantha Steckloff
+given_name: Samantha
+family_name: Steckloff
+gender: Female
+email: samanthasteckloff@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '19'
+- end_date: 2022-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '37'
+offices:
+- classification: capitol
+  address: Room CB-373, Capitol Building 100 N. Capitol Ave., Lansing, MI 48933
+  voice: 517-373-3920
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/samantha-steckloff/
+other_names:
+- name: S. Steckloff
+- name: S.R. Steckloff
+- name: Steckloff, S.
+sources:
+- url: https://ballotpedia.org/Samantha_Steckloff
+- url: https://en.wikipedia.org/wiki/Samantha_Steckloff
+- url: https://housedems.com/samantha-steckloff
+- url: https://housedems.com/samantha-steckloff/
+  note: Member Details Page
+- url: https://justfacts.votesmart.org/candidate/biography/146811/samantha-steckloff
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
+- url: https://www.linkedin.com/in/samantha-steckloff-78a51158

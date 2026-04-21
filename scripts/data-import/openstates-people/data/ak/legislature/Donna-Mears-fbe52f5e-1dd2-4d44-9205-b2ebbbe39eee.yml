@@ -1,0 +1,41 @@
+id: ocd-person/fbe52f5e-1dd2-4d44-9205-b2ebbbe39eee
+name: Donna Mears
+given_name: Donna
+family_name: Mears
+gender: Female
+email: representative.donna.mears@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/MEA.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '21'
+offices:
+- classification: capitol
+  address: State Capitol Room 102, 120 4th St., Juneau, AK 99801
+  voice: 907-465-3438
+- classification: district
+  address: 1500 W. Benson Blvd., Anchorage, AK 99503
+  voice: 907-269-0100
+links:
+- url: https://akhouse.org/rep-mears/
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=mea
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=mea
+other_names:
+- name: D. Mears
+- name: D.C. Mears
+- name: Donna C. Mears
+- name: Mears, D.
+sources:
+- url: https://akhouse.org/rep-mears
+- url: https://ballotpedia.org/Donna_Mears
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=MEA
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=mea
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=mea
+- url: https://www.linkedin.com/in/donna-c-mears-p-e-0a30b0a
+extras:
+  toll_free_phone: 888-478-3438

@@ -1,0 +1,38 @@
+id: ocd-organization/c795be5a-afeb-4bba-bf65-fc0855612bab
+jurisdiction: ocd-jurisdiction/country:us/state:co/government
+classification: committee
+name: State, Veterans and Military Affairs
+chamber: upper
+sources:
+- url: https://leg.colorado.gov/committees/2026A/senate/StateVeteransMilitaryAffairs
+- url: https://leg.colorado.gov/committees/state-veterans-military-affairs/2021-regular-session
+- url: https://leg.colorado.gov/committees/state-veterans-military-affairs/2023-regular-session
+- url: https://leg.colorado.gov/committees/state-veterans-military-affairs/2025-regular-session
+links:
+- url: https://leg.colorado.gov/committees/2026A/senate/StateVeteransMilitaryAffairs
+- url: https://leg.colorado.gov/committees/state-veterans-military-affairs/2021-regular-session
+  note: homepage
+- url: https://leg.colorado.gov/committees/state-veterans-military-affairs/2023-regular-session
+  note: homepage
+- url: https://leg.colorado.gov/committees/state-veterans-military-affairs/2024-regular-session
+- url: https://leg.colorado.gov/committees/state-veterans-military-affairs/2025-regular-session
+members:
+- name: Katie Wallace
+  role: chair
+  person_id: ocd-person/f0fa561d-39cf-48f3-ae8c-84b4d30d2662
+- name: Tom Sullivan
+  role: vice chair
+  person_id: ocd-person/dc9056b8-fb9c-4a66-99b8-210acce64bff
+- name: Lynda Zamora Wilson
+  role: member
+  person_id: ocd-person/e5055578-02cb-435c-9fe0-b877318e3b1b
+- name: Rod Pelton
+  role: member
+  person_id: ocd-person/45cd06eb-9967-4468-9e4e-677549e7638d
+- name: William Lindstedt
+  role: member
+  person_id: ocd-person/dbe86f29-2ecb-449e-aaf6-3fc91baf2e0e
+other_names:
+- name: Senate Committee on State, Veterans and Military Affairs
+- name: Senate State, Veterans and Military Affairs
+- name: Senate State, Veterans and Military Affairs Committee

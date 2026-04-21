@@ -1,0 +1,79 @@
+id: ocd-person/ab80da0d-902f-5d28-b765-1885853182bd
+name: Ayanna Pressley
+given_name: Ayanna
+family_name: Pressley
+birth_date: 1974-02-03
+gender: Female
+email: https://pressley.house.gov/contact-us/
+image: https://unitedstates.github.io/images/congress/450x550/P000617.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+offices:
+- classification: capitol
+  address: 402 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-5111
+  fax: 202-225-9322
+- classification: capitol
+  address: 50 Redfield St. Suite 302, Boston, MA 02122
+  voice: 617-850-0040
+  fax: 202-225-9322
+links:
+- url: https://pressley.house.gov
+  note: website
+- url: https://pressley.house.gov/
+other_names:
+- name: A. Pressley
+- name: A.S. Pressley
+- name: Pressley, A.
+ids:
+  twitter: RepPressley
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Ayanna Pressley
+- scheme: bioguide
+  identifier: P000617
+- scheme: fec
+  identifier: H8MA07032
+- scheme: google_entity_id
+  identifier: kg:/m/0bmh9vc
+- scheme: govtrack
+  identifier: '412782'
+- scheme: icpsr
+  identifier: '21955'
+- scheme: opensecrets
+  identifier: N00042581
+- scheme: pictorial
+  identifier: '13081'
+- scheme: votesmart
+  identifier: '122700'
+- scheme: wikidata
+  identifier: Q13562359
+sources:
+- url: https://ballotpedia.org/Ayanna_Pressley
+- url: https://en.wikipedia.org/wiki/Ayanna_Pressley
+- url: https://pressley.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/ayanna_pressley/412782
+- url: https://www.linkedin.com/in/ayannapressley

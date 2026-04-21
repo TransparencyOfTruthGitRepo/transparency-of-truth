@@ -1,0 +1,42 @@
+id: ocd-person/4fca7c3e-1f7c-455e-b555-a293ff578e60
+name: Marci Francisco
+given_name: Marci
+family_name: Francisco
+birth_date: 1950-04-22
+gender: Female
+email: marci.francisco@senate.ks.gov
+image: https://www.kslegislature.gov/li/s/images/pics/sen_francisco_marci_1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2005-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '2'
+offices:
+- classification: capitol
+  address: State Capitol Room 134-E, Kansas  Building 300 SW 10th St., Topeka, KS
+    66612
+  voice: 785-296-7364
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/sen_francisco_marci_1/
+- url: https://www.kslegislature.org/li/b2019_20/members/sen_francisco_marci_1/
+- url: https://www.kslegislature.org/li/b2021_22/members/sen_francisco_marci_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/sen_francisco_marci_1/
+other_names:
+- name: Francisco, M.
+- name: M. Francisco
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KSL000007
+sources:
+- url: https://ballotpedia.org/Marci_Francisco
+- url: https://en.wikipedia.org/wiki/Marci_Francisco
+- url: https://www.kslegislature.gov/li/b2025_26/members/sen_francisco_marci_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/sen_francisco_marci_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/sen_francisco_marci_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/sen_francisco_marci_1
+- url: https://www.kslegislature.org/li/b2023_24/members/sen_francisco_marci_1/
+- url: https://www.linkedin.com/in/marci-francisco-81b2b4b
+extras:
+  occupation: Space (Facilities) Mgmt

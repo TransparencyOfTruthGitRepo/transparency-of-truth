@@ -1,0 +1,64 @@
+id: ocd-person/b6be97c1-d574-443d-b493-224dcb6e2a7f
+name: Vaneta Becker
+given_name: Vaneta
+family_name: Becker
+birth_date: 1949-10-09
+gender: Female
+email: s50@iga.in.gov
+image: https://cdn.zephyrcms.com/e904380d-6101-41f4-8699-7849dfa918dc/-/progressive/yes/-/format/jpeg/-/scale_crop/200x300/center/-/stretch/off/becker-website.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2005-09-26
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '50'
+- start_date: 1992-11-04
+  end_date: 2005-09-26
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '50'
+- start_date: 1982-11-03
+  end_date: 1992-11-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '50'
+- start_date: 1981-09-22
+  end_date: 1982-11-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '50'
+offices:
+- classification: capitol
+  address: 200 W. Washington St., Indianapolis, IN 46204
+  voice: 317-232-9400
+links:
+- url: https://iga.in.gov/legislative/2021/legislators/legislator_vaneta_becker_228
+- url: https://iga.in.gov/legislative/2022/legislators/legislator_vaneta_becker_228/
+- url: https://www.indianasenaterepublicans.com/becker
+  note: homepage
+other_names:
+- name: Becker, V.
+- name: V. Becker
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: INL000004
+sources:
+- url: https://api.iga.in.gov/2021/legislators/vaneta_becker_228
+- url: https://ballotpedia.org/Vaneta_Becker
+- url: https://en.wikipedia.org/wiki/Vaneta_Becker
+- url: https://iga.in.gov/legislative/2021/legislators/legislator_vaneta_becker_228
+- url: https://iga.in.gov/legislative/2022/legislators/legislator_vaneta_becker_228
+- url: https://iga.in.gov/legislative/2022/legislators/legislator_vaneta_becker_228/
+- url: https://justfacts.votesmart.org/candidate/biography/4625/vaneta-becker
+- url: https://www.fctuckeremge.com/vaneta.becker
+- url: https://www.indianasenaterepublicans.com/becker
+- url: https://www.indianasenaterepublicans.com/senators
+extras:
+  second phone: 317-232-9400
+  legislative assistant name: Evan Brumbaugh
+  legislative assistant phone: 317-232-9494
+  legislative assistant email: Evan.Brumbaugh@iga.in.gov
+  media contact name: Samantha Deese
+  media contact phone: 317-234-9133
+  media contact email: Samantha.Deese@iga.in.gov

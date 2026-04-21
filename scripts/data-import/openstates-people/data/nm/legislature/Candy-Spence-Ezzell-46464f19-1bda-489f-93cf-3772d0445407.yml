@@ -1,0 +1,60 @@
+id: ocd-person/46464f19-1bda-489f-93cf-3772d0445407
+name: Candy Ezzell
+given_name: Candy
+family_name: Ezzell
+birth_date: 1953-11-26
+gender: Female
+email: csecows@aol.com
+image: https://www.nmlegis.gov/Images/Legislators/House/HEZZE.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '32'
+- start_date: 2005-01-18
+  end_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '58'
+offices:
+- classification: capitol
+  address: State Capitol Room 415H, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4381
+- classification: district-mail
+  address: P.O. Box 2125, Roswell, NM 88202
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HEZZE
+  note: homepage
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SEZZE
+other_names:
+- name: C. Ezzell
+- name: C.S. Ezzell
+- name: Candy S. Ezzell
+- name: Candy Spence Ezzell
+- name: Ezzell, C.
+- name: Ezzell, Candy
+- name: Ezzell, Candy Spence
+ids:
+  twitter: candyezzell
+  facebook: candy.ezzell
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000100
+- scheme: legacy_openstates
+  identifier: NML000268
+- scheme: legacy_openstates
+  identifier: NML000287
+sources:
+- url: https://ballotpedia.org/Candy_Spence_Ezzell
+- url: https://en.wikipedia.org/wiki/Candy_Ezzell
+- url: https://justfacts.votesmart.org/candidate/biography/43577/candy-ezzell
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HEZZE
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SEZZE
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Chaves
+  service: Representative since 2005
+  occupation: Rancher

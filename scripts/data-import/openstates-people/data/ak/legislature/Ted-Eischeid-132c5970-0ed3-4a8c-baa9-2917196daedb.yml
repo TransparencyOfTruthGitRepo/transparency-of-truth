@@ -1,0 +1,34 @@
+id: ocd-person/132c5970-0ed3-4a8c-baa9-2917196daedb
+name: Ted Eischeid
+given_name: Ted
+family_name: Eischeid
+birth_date: 1960-12-08
+gender: Male
+email: representative.ted.eischeid@akleg.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ted_Eischeid2024.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-21
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '22'
+offices:
+- classification: capitol
+  address: State Capitol Room 412, 120 4th St., Juneau, AK 99801
+  voice: 907-465-2095
+- classification: district
+  address: 1500 W. Benson Blvd., Anchorage, AK 99503
+  voice: 907-269-0240
+links:
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=eis
+other_names:
+- name: Eischeid, T.
+- name: T. Eischeid
+- name: T.J. Eischeid
+sources:
+- url: https://ballotpedia.org/Ted_Eischeid
+- url: https://en.wikipedia.org/wiki/Ted_Eischeid
+- url: https://justfacts.votesmart.org/candidate/biography/164969/ted-eischeid
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=eis
+- url: https://www.linkedin.com/in/tedeischeid

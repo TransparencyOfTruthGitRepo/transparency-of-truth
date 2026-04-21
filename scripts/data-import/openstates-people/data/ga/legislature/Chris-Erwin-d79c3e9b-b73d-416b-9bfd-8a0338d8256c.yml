@@ -1,0 +1,63 @@
+id: ocd-person/d79c3e9b-b73d-416b-9bfd-8a0338d8256c
+name: Chris Erwin
+given_name: Chris
+family_name: Erwin
+birth_date: 1962-04-26
+gender: Male
+email: chris.erwin@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/erwin-chris-4965.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '32'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '28'
+offices:
+- classification: capitol
+  address: State Capitol Room 220-B, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-7850
+- classification: district-mail
+  address: P.O. Box 501029, Atlanta, GA 31150
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4965&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4965
+- url: https://www.legis.ga.gov/members/house/4965?session=1029
+- url: https://www.legis.ga.gov/members/house/4965?session=1031
+  note: HTML member detail page
+other_names:
+- name: C. Erwin
+- name: ERWIN, 32ND
+- name: Erwin, C.
+sources:
+- url: https://ballotpedia.org/Chris_Erwin
+- url: https://en.wikipedia.org/wiki/Chris_Erwin
+- url: https://justfacts.votesmart.org/candidate/biography/178732/chris-erwin
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4965&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4965?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4965?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4965
+- url: https://www.legis.ga.gov/members/house/4965?session=1029
+- url: https://www.linkedin.com/in/christopher-erwin-7b8a8481
+extras:
+  residence: Homer
+  city: Homer
+  georgia_id: 4965
+  birthday: April 26
+  occupation: Business Development - Construction
+  press: https://house-press.com/representative/Chris-Erwin
+  spouse: Laurie
+  staff: LaTricia Howard - Administrative Assistant
+  staff email: latricia.howard@house.ga.gov
+  title: Chairman, Education

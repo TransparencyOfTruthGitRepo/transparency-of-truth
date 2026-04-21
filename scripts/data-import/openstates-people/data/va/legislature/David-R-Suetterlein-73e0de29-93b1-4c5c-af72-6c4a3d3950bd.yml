@@ -1,0 +1,58 @@
+id: ocd-person/73e0de29-93b1-4c5c-af72-6c4a3d3950bd
+name: David Suetterlein
+given_name: David
+family_name: Suetterlein
+birth_date: 1985-01-04
+gender: Male
+email: senatorsuetterlein@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/Suetterlein4
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '4'
+- start_date: 2016-01-13
+  end_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '19'
+offices:
+- classification: capitol
+  address: Room 606, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7504
+- classification: district-mail
+  address: P.O. Box 20237, Roanoke, VA 24018
+  voice: 540-302-8486
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S101
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S101
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S101
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S101
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S101
+other_names:
+- name: D. Suetterlein
+- name: D.R. Suetterlein
+- name: David R. Suetterlein
+- name: David Robert Suetterlein
+- name: Suetterlein, D.
+- name: Suetterlein, David R.
+ids:
+  twitter: DRSuetterlein
+  facebook: suetterlein
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000251
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S101
+- url: https://ballotpedia.org/David_Suetterlein
+- url: https://en.wikipedia.org/wiki/David_Suetterlein
+- url: https://justfacts.votesmart.org/candidate/156664/david-suetterlein
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S101
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S101
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S101
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S101
+- url: https://www.linkedin.com/in/david-suetterlein-715bb2252

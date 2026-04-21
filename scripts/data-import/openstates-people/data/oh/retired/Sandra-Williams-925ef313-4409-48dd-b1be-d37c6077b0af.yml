@@ -1,0 +1,26 @@
+id: ocd-person/925ef313-4409-48dd-b1be-d37c6077b0af
+name: Sandra R. Williams
+given_name: Sandra
+family_name: Williams
+email: sd21@ohiosenate.gov
+image: http://www.ohiosenate.gov/Assets/Members/Headshots/Medium/2830.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-01
+  end_date: '2022-06-06'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '21'
+  end_reason: Accepted job in private sector
+links:
+- url: http://www.ohiosenate.gov/senators/williams
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000343
+- scheme: legacy_openstates
+  identifier: OHL000282
+- scheme: openstates
+  identifier: ocd-person/9dfcd179-e87c-4e20-8cf7-fe6f468dc9b8
+sources:
+- url: http://www.ohiosenate.gov/senators

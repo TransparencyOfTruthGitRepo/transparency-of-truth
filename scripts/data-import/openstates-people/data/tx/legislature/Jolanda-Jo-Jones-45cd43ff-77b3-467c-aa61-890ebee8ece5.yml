@@ -1,0 +1,38 @@
+id: ocd-person/45cd43ff-77b3-467c-aa61-890ebee8ece5
+name: Jo Jones
+given_name: Jo
+family_name: Jones
+birth_date: 1965-11-06
+gender: Female
+email: jolanda.jones@house.texas.gov
+image: https://house.texas.gov/images/members/4105.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2022-05-18
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '147'
+offices:
+- classification: capitol
+  address: Room E2.908, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0524
+- classification: district
+  address: 5445 Almeda Road Suite 501, Houston, TX 77004
+  voice: 713-522-0555
+links:
+- url: https://house.texas.gov/members/4105
+- url: https://house.texas.gov/members/member-page/?district=147
+other_names:
+- name: J. Jones
+- name: J.F. Jones
+- name: Jolanda 'Jo' Jones
+- name: Jones, J.
+- name: Jones, Jo
+- name: Jones, Jolanda
+sources:
+- url: https://ballotpedia.org/Jolanda_Jones
+- url: https://en.wikipedia.org/wiki/Jolanda_Jones
+- url: https://house.texas.gov/members/4105
+- url: https://house.texas.gov/members/member-page/?district=147
+- url: https://www.linkedin.com/in/jolanda-jones-2529902a

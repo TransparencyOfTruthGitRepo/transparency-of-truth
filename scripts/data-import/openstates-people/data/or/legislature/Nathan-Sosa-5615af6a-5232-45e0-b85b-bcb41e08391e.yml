@@ -1,0 +1,30 @@
+id: ocd-person/5615af6a-5232-45e0-b85b-bcb41e08391e
+name: Nathan Sosa
+given_name: Nathan
+family_name: Sosa
+gender: Male
+email: rep.nathansosa@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/sosa/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-02-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '30'
+offices:
+- classification: capitol
+  address: Room H-280, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1430
+links:
+- url: https://www.oregonlegislature.gov/sosa
+  note: homepage
+other_names:
+- name: N. Sosa
+- name: Sosa, N.
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Nathan_Sosa_(Oregon)
+- url: https://www.linkedin.com/in/nathan-sosa-2104221a8
+- url: https://www.oregonlegislature.gov/sosa

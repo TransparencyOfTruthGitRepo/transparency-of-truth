@@ -1,0 +1,19 @@
+id: ocd-person/d338d7d4-b720-41e5-90d5-42c32b7b4164
+name: Cara Christine Pavalock
+given_name: Cara Christine
+family_name: Pavalock
+party:
+- name: Republican
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '77'
+links:
+- url: http://reppavalock.com
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000288
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

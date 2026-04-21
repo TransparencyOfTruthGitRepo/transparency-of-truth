@@ -1,0 +1,40 @@
+id: ocd-person/7d16a086-5877-48e9-9e76-13c5159f89ce
+name: David Orentlicher
+given_name: David
+family_name: Orentlicher
+gender: Male
+email: david.orentlicher@asm.state.nv.us
+image: http://www.leg.state.nv.us/Session/36th2025Special/legislators/Assembly/Images/Orentlicher.David.377.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-11-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '20'
+- start_date: 2002-11-06
+  end_date: 2008-11-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Room 3156, Nevada Assembly 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-8577
+- classification: district
+  address: Room 246, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=377
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/20
+  note: homepage
+other_names:
+- name: D. Orentlicher
+- name: Orentlicher, D.
+- name: Orentlicher, David
+sources:
+- url: https://ballotpedia.org/David_Orentlicher
+- url: https://en.wikipedia.org/wiki/David_Orentlicher
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=377
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/20
+- url: https://www.linkedin.com/in/davidorentlicher

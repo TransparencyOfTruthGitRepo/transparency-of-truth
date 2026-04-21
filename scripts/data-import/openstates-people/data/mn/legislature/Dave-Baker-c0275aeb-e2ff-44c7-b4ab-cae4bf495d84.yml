@@ -1,0 +1,38 @@
+id: ocd-person/c0275aeb-e2ff-44c7-b4ab-cae4bf495d84
+name: Dave Baker
+given_name: Dave
+family_name: Baker
+birth_date: 1962-03-27
+gender: Male
+email: rep.dave.baker@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/16B.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 16B
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 17B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-6206
+links:
+- url: https://www.house.mn.gov/members/profile/15429
+other_names:
+- name: Baker, D.
+- name: D. Baker
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000683
+sources:
+- url: https://ballotpedia.org/Dave_Baker_(Minnesota)
+- url: https://en.wikipedia.org/wiki/Dave_Baker_(Minnesota_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/152840/dave-baker
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15429
+- url: https://www.linkedin.com/in/dave-baker-61189217

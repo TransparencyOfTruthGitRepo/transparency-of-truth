@@ -1,0 +1,49 @@
+id: ocd-person/23f1da0b-34b2-4347-adb4-f5fc26e0475d
+name: Brent Jackson
+given_name: Brent
+family_name: Jackson
+birth_date: 1957-11-08
+gender: Male
+email: brent.jackson@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/S/281/Low
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '9'
+- start_date: 2011-01-01
+  end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '10'
+offices:
+- classification: capitol
+  address: Room 2022, North Carolina Legislative Building 16 W. Jones St., Raleigh,
+    NC 27601
+  voice: 919-733-5705
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/281
+- url: https://www.ncleg.gov/Members/Committees/S/281
+- url: https://www.ncleg.gov/Members/IntroducedBills/S/281
+- url: https://www.ncleg.gov/Members/Votes/S/281
+other_names:
+- name: B. Jackson
+- name: Jackson, B.
+- name: W.B. Jackson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000188
+sources:
+- url: https://ballotpedia.org/Brent_Jackson_(North_Carolina_State_Senator)
+- url: https://en.wikipedia.org/wiki/W._Brent_Jackson
+- url: https://justfacts.votesmart.org/candidate/biography/117775/brent-jackson
+- url: https://www.linkedin.com/in/brent-jackson-a393b684
+- url: https://www.ncleg.gov/Members/Biography/S/281
+- url: https://www.ncleg.gov/Members/MemberTable/S
+extras:
+  terms in senate: 7 (0 in House)
+  represented counties: Bladen, Duplin, Jones, Pender, Sampson
+  legislative assistant: Harrison Johnson
+  legislative assistant email: Harrison.Johnson@ncleg.gov

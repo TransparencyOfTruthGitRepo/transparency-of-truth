@@ -1,0 +1,26 @@
+id: ocd-person/241eb403-f600-49d6-b076-78c50c03bad5
+name: Chuck Riley
+given_name: Chuck
+family_name: Riley
+email: Sen.ChuckRiley@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/riley/PublishingImages/riley.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2022-01-01'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '15'
+  end_reason: Resigned
+links:
+- url: https://www.oregonlegislature.gov/riley
+- url: https://www.oregonlegislature.gov/riley
+  note: homepage
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000270
+- scheme: legacy_openstates
+  identifier: ORL000297
+sources:
+- url: https://www.oregonlegislature.gov/riley
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2021R1')/Legislators

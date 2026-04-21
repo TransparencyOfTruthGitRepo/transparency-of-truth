@@ -1,0 +1,36 @@
+id: ocd-person/7ad5da9a-c2b3-4f9b-b62c-6cd7f0564f43
+name: Chris Anders
+given_name: Chris
+family_name: Anders
+birth_date: 1971-08-22
+gender: Male
+email: chris.anders@wvhouse.gov
+image: https://www.wvlegislature.gov/images/members/2025/house/anders_chris.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '97'
+offices:
+- classification: capitol
+  address: State Capitol Room 476M, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3350
+- classification: district
+  address: WV
+  voice: 304-620-4506
+links:
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Anders
+other_names:
+- name: Anders, C
+- name: Anders, C.
+- name: C. Anders
+- name: S.C. Anders
+sources:
+- url: https://ballotpedia.org/S._Chris_Anders
+- url: https://en.wikipedia.org/wiki/S._Chris_Anders
+- url: https://justfacts.votesmart.org/candidate/biography/214534/s-anders
+- url: https://www.linkedin.com/in/s-chris-anders-597b2554
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Anders

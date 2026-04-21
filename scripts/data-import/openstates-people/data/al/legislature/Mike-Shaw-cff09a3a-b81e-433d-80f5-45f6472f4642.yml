@@ -1,0 +1,36 @@
+id: ocd-person/cff09a3a-b81e-433d-80f5-45f6472f4642
+name: Mike Shaw
+given_name: Mike
+family_name: Shaw
+gender: Male
+email: mike.shaw@alabama47.com
+image: https://www.legislature.state.al.us/pdf/house/members/Shaw_47.png
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '47'
+offices:
+- classification: capitol
+  address: Room 524-B, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0439
+- classification: district-mail
+  address: P.O. Box 660082, Vestavia Hills, AL 35266
+  voice: 205-541-6542
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+other_names:
+- name: M. Shaw
+- name: Shaw, M.
+sources:
+- url: https://ballotpedia.org/Mike_Shaw_(Alabama)
+- url: https://en.wikipedia.org/wiki/Mike_Shaw_(Alabama_politician)
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/197169/mike-shaw
+- url: https://www.linkedin.com/in/shawnuff
+extras:
+  counties: Jefferson County

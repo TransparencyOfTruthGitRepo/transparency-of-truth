@@ -1,0 +1,62 @@
+id: ocd-person/bcbe03de-3df0-4c07-8973-0304dafa2cb8
+name: Jason Barrett
+given_name: Jason
+family_name: Barrett
+birth_date: 1982-07-16
+gender: Male
+email: jason.barrett@wvsenate.gov
+image: http://www.wvlegislature.gov/images/members/2023/senate/barrett_jason.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '16'
+- start_date: 2020-12-11
+  end_date: 2022-11-30
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '16'
+- start_date: 2016-12-01
+  end_date: 2020-12-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '16'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '61'
+offices:
+- classification: capitol
+  address: State Capitol Room 461M, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-357-7933
+- classification: district
+  address: WV
+  voice: 304-886-9907
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Barrett
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Barrett
+  note: homepage
+- url: https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Barrett
+other_names:
+- name: Barrett, J
+- name: Barrett, J.
+- name: J. Barrett
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000352
+- scheme: legacy_openstates
+  identifier: WVL000222
+- scheme: openstates
+  identifier: ocd-person/f7b54755-f78c-4184-b167-570673e07710
+sources:
+- url: https://ballotpedia.org/Jason_Barrett_(West_Virginia)
+- url: https://en.wikipedia.org/wiki/Jason_Barrett_(West_Virginia_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/117383/jason-barrett
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Barrett
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Barrett
+- url: https://www.wvlegislature.gov/House/roster.cfm
+- url: https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Barrett
+- url: https://www.wvlegislature.gov/Senate1/roster.cfm

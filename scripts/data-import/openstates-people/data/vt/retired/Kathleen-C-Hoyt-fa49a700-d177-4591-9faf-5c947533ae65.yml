@@ -1,0 +1,20 @@
+id: ocd-person/fa49a700-d177-4591-9faf-5c947533ae65
+name: Kathleen C. Hoyt
+given_name: Kathleen
+family_name: Hoyt
+middle_name: C
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Windsor-Orange-2
+links:
+- url: http://www.leg.state.vt.us/legdir/LegDirMain.cfm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000334
+sources:
+- url: http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W

@@ -1,0 +1,34 @@
+id: ocd-person/642baa61-66d3-44c1-997f-58b2c5740b4f
+name: Kristian Grant
+given_name: Kristian
+family_name: Grant
+gender: Female
+email: kristiangrant@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '82'
+offices:
+- classification: capitol
+  address: Room S-1186, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-1800
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/Kristian-Grant/
+other_names:
+- name: Grant, K.
+- name: K. Grant
+sources:
+- url: https://ballotpedia.org/Kristian_Grant
+- url: https://housedems.com/Kristian-Grant
+- url: https://housedems.com/Kristian-Grant/
+  note: Member Details Page
+- url: https://housedems.com/kristian-grant/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/kristiangrant

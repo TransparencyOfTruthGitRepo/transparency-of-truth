@@ -1,0 +1,58 @@
+id: ocd-person/a0a8c9d8-1f27-4d28-a249-8a5856ea5c05
+name: Katherine Prudhomme-O'Brien
+given_name: Katherine
+family_name: Prudhomme-O'Brien
+gender: Female
+email: kpo@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/45619.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 13
+- end_date: 2016-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 13
+  start_date: 2022-12-07
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 13
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 6
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-425-6605
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=377258
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377258
+other_names:
+- name: K. Prudhomme-O'Brien
+- name: Katherine J. Prudhomme-O'Brien
+- name: Katherine T. Prudhomme-O'Brien
+- name: Prudhomme-O'Brien, K.
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/96098adb-d1e5-481f-910c-157adb0ef37b
+sources:
+- url: https://ballotpedia.org/Katherine_O%27Brien
+- url: https://ballotpedia.org/Katherine_Prudhomme-O%27Brien
+- url: https://en.wikipedia.org/wiki/Katherine_Prudhomme_O%27Brien
+- url: https://gc.nh.gov/house/members/member.aspx?member=377258
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/185307/katherine-prudhomme-obrien
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377258
+extras:
+  first_name: Katherine
+  last_name: Prudhomme-O'Brien
+  middle_name: J.

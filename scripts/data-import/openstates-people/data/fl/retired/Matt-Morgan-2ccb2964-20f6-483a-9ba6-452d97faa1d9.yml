@@ -1,0 +1,13 @@
+id: ocd-person/2ccb2964-20f6-483a-9ba6-452d97faa1d9
+name: Matt Morgan
+given_name: Matt
+family_name: Morgan
+email: mmorgan@longwoodfl.org
+roles:
+- end_date: '2021-01-01'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/place:longwood/government
+offices:
+- address: Longwood City Hall;175 West Warren Avenue;Longwood, FL 32750
+  voice: 407-461-0415
+  classification: primary

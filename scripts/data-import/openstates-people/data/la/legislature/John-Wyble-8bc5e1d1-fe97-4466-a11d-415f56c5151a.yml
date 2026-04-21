@@ -1,0 +1,33 @@
+id: ocd-person/8bc5e1d1-fe97-4466-a11d-415f56c5151a
+name: John Wyble
+given_name: John
+family_name: Wyble
+gender: Male
+email: hse075@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics/rep75.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '75'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 748 Avenue F, Bogalusa, LA 70427
+- classification: district
+  address: 943 Washington St., Franklinton, LA 70438
+links:
+- url: https://house.louisiana.gov/H_Reps/members?ID=75
+other_names:
+- name: J. Wyble
+- name: J.E. Wyble
+- name: Wyble, J.
+sources:
+- url: https://ballotpedia.org/John_Wyble_(Louisiana)
+- url: https://drwyble.com
+- url: https://house.louisiana.gov/H_Reps/members?ID=75
+- url: https://www.linkedin.com/in/drjwyble

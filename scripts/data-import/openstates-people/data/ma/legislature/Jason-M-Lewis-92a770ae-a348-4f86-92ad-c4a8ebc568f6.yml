@@ -1,0 +1,57 @@
+id: ocd-person/92a770ae-a348-4f86-92ad-c4a8ebc568f6
+name: Jason Lewis
+given_name: Jason
+family_name: Lewis
+birth_date: 1968-04-19
+gender: Male
+email: jason.lewis@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/jml0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2014-04-16
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Fifth Middlesex
+- start_date: 2009-01-07
+  end_date: 2014-04-16
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Fifth Middlesex
+offices:
+- classification: capitol
+  address: Room 511-B, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1206
+links:
+- url: https://malegislature.gov/Legislators/Profile/jml0
+- url: https://malegislature.gov/Legislators/Profile/JML0
+- url: https://senatorjasonlewis.com/
+other_names:
+- name: J. Lewis
+- name: J.M. Lewis
+- name: Jason M. Lewis
+- name: Lewis, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000129
+- scheme: legacy_openstates
+  identifier: MAL000324
+- scheme: legacy_openstates
+  identifier: MAL000328
+- scheme: legacy_openstates
+  identifier: MAL000334
+sources:
+- url: https://ballotpedia.org/Jason_Lewis_(Massachusetts)
+- url: https://en.wikipedia.org/wiki/Jason_Lewis_(Massachusetts_politician)
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/jml0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/jml0
+- url: https://malegislature.gov/Legislators/Profile/JML0
+- url: https://malegislature.gov/Legislators/Profile/jml0
+- url: https://senatorjasonlewis.com
+- url: https://www.linkedin.com/in/jason-lewis-683a1a
+extras:
+  member code: jml0

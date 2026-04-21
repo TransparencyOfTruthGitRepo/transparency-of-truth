@@ -1,0 +1,50 @@
+id: ocd-person/d32dffc7-d1f4-41fe-80a5-f1581d34d090
+name: "\xC1ngel Pe\xF1a Ram\xEDrez"
+given_name: "\xC1ngel"
+family_name: "Pe\xF1a Ram\xEDrez"
+birth_date: 1978-04-13
+gender: Male
+email: anpena@camara.pr.gov
+image: https://www.camara.pr.gov/wp-content/uploads/2020/07/REP._ANGEL_PENA_DIST._33.jpg
+party:
+- name: Partido Nuevo Progresista
+roles:
+- start_date: 2009-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: '33'
+offices:
+- classification: capitol
+  address: "El Capitolio, Avenida Constituci\xF3n P.O. Box 9022228, San Juan, PR 00902"
+  voice: 787-622-4961
+links:
+- url: https://camara.registrok12.com/team/angel-r-pena-ramirez/
+- url: https://rfsp.eticapr.com/Busqueda
+  note: resumen financiero
+- url: https://www.camara.pr.gov/team/angel-r-pena-ramirez/
+  note: homepage
+- url: https://www.tucamarapr.org/dnncamara/ComposiciondelaCamara/biografia.aspx?rep=27
+other_names:
+- name: "A.R. Pe\xF1a Ram\xEDrez"
+- name: "Pe\xF1a Ram\xEDrez, \xC1."
+- name: "\xC1. Pe\xF1a Ram\xEDrez"
+- name: "\xC1ngel R. Pe\xF1a Ram\xEDrez"
+ids:
+  facebook: angelpenajr
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PRL000262
+sources:
+- url: https://ballotpedia.org/%C3%81ngel_Pe%C3%B1a_Ram%C3%ADrez
+- url: https://camara.registrok12.com/team/angel-r-pena-ramirez
+- url: https://en.wikipedia.org/wiki/Angel_Pe%C3%B1a_Ram%C3%ADrez
+- url: https://www.camara.pr.gov/page-team
+- url: https://www.camara.pr.gov/page-team/
+- url: https://www.camara.pr.gov/team/angel-r-pena-ramirez
+- url: https://www.camara.pr.gov/team/angel-r-pena-ramirez/
+- url: https://www.tucamarapr.org/dnncamara/ComposiciondelaCamara/Biografia.aspx
+- url: https://www.tucamarapr.org/dnncamara/ComposiciondelaCamara/biografia.aspx?rep=27
+extras:
+  committees: "Comisi\xF3n de Desarrollo Integrado de la Regi\xF3n Este- Comisi\xF3\
+    n de Asuntos Laborales-Comisi\xF3n para el Desarrollo y la Fiscalizaci\xF3n de\
+    \ la Regi\xF3n Este"

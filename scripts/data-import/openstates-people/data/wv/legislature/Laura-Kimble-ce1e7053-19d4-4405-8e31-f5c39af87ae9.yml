@@ -1,0 +1,43 @@
+id: ocd-person/ce1e7053-19d4-4405-8e31-f5c39af87ae9
+name: Laura Kimble
+given_name: Laura
+family_name: Kimble
+birth_date: 1967-07-11
+gender: Female
+email: laura.kimble@wvhouse.gov
+image: https://www.wvlegislature.gov/images/members/2025/house/kimble_laura.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '71'
+- start_date: 2020-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '71'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '48'
+offices:
+- classification: capitol
+  address: State Capitol Room 227E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3102
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Kimble
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Kimble
+other_names:
+- name: Kimble, L
+- name: Kimble, L.
+- name: L. Kimble
+sources:
+- url: https://ballotpedia.org/Laura_Kimble
+- url: https://en.wikipedia.org/wiki/Laura_Kimble
+- url: https://justfacts.votesmart.org/candidate/190588/laura-kimble
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Kimble
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Kimble
+- url: https://www.wvlegislature.gov/House/roster.cfm

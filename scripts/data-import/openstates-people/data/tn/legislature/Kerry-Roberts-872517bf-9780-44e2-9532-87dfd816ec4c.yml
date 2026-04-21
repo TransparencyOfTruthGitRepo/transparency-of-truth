@@ -1,0 +1,68 @@
+id: ocd-person/872517bf-9780-44e2-9532-87dfd816ec4c
+name: Kerry Roberts
+given_name: Kerry
+family_name: Roberts
+birth_date: 1961-09-24
+gender: Male
+email: sen.kerry.roberts@capitol.tn.gov
+image: https://fluxconsole.com/files/image/131100
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '23'
+- start_date: 2011-03-08
+  end_date: 2013-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '23'
+- start_date: 2015-01-13
+  end_date: 2022-11-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '23'
+- end_date: 2022-11-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '25'
+offices:
+- classification: capitol
+  address: Room 746, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-4499
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S23
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S23
+- url: https://www.capitol.tn.gov/senate/members/s25.html
+other_names:
+- name: K. Roberts
+- name: Roberts, K
+- name: Roberts, K.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000026
+- scheme: legacy_openstates
+  identifier: TNL000452
+sources:
+- url: https://ballotpedia.org/Kerry_Roberts
+- url: https://en.wikipedia.org/wiki/Kerry_Roberts
+- url: https://justfacts.votesmart.org/candidate/biography/124647/kerry-roberts
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S23
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S23
+- url: https://www.capitol.tn.gov/senate/members
+- url: https://www.capitol.tn.gov/senate/members/
+- url: https://www.capitol.tn.gov/senate/members/s25.html
+- url: https://www.linkedin.com/in/kerryeroberts
+extras:
+  office: 730 CHB
+  personal info:
+  - Born on September 24
+  - Married, wife Dianne, three children
+  - Christian
+  - B.S. Lipscomb University 1983
+  - Certified Public Accountant
+  - Small Business Owner

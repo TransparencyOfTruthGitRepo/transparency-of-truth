@@ -1,0 +1,37 @@
+id: ocd-person/a7ecda71-d1ad-4e61-bc68-16e929cfc11d
+name: Leonora Dodge
+given_name: Leonora
+family_name: Dodge
+gender: Female
+email: ldodge@leg.state.vt.us
+image: https://bloximages.newyork1.vip.townnews.com/essexreporter.com/content/tncms/assets/v3/editorial/f/79/f79ba144-d2d4-11ec-8a87-a3771555e157/627e7f522747b.image.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Chittenden-23
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+links:
+- url: https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-23.pdf
+  note: district map
+- url: https://legislature.vermont.gov/people/single/2024/37390
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2026/37390
+other_names:
+- name: Dodge, L.
+- name: L. Dodge
+sources:
+- url: https://ballotpedia.org/Leonora_Dodge
+- url: https://en.wikipedia.org/wiki/Leonora_Dodge
+- url: https://legislature.vermont.gov/people/loadAll/2024
+- url: https://legislature.vermont.gov/people/single/2024/37390
+- url: https://legislature.vermont.gov/people/single/2026/37390
+extras:
+  home address: PO Box 8150 Essex, VT 05451
+  home phone: (802) 871-5449
+  state email: ldodge@leg.state.vt.us

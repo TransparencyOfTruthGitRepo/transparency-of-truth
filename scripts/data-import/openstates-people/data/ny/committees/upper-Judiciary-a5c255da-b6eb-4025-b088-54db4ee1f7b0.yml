@@ -1,0 +1,73 @@
+id: ocd-organization/a5c255da-b6eb-4025-b088-54db4ee1f7b0
+jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+classification: committee
+name: Judiciary
+chamber: upper
+sources:
+- url: https://www.nysenate.gov/committees/judiciary
+- url: https://www.nysenate.gov/senators-committees
+links:
+- url: https://www.nysenate.gov/committees/judiciary
+  note: homepage
+members:
+- name: "Luis Sep\xFAlveda"
+  role: chair
+  person_id: ocd-person/1e5af6bc-1643-4cfd-b4c1-8b2e86b02c2d
+- name: Tony Palumbo
+  role: ranking member
+  person_id: ocd-person/f13bda4e-bfb4-49fc-a986-ba8d2b3e7e43
+- name: Andrew Gounardes
+  role: member
+  person_id: ocd-person/ae1f415b-958c-4a4c-805b-626e6eca5fe3
+- name: Andrew Lanza
+  role: member
+  person_id: ocd-person/8dd98240-93c9-486a-b6c6-3a794b232090
+- name: Erik Bottcher
+  role: member
+  person_id: ocd-person/d55adf3d-ba23-47c8-a844-ee28227983c0
+- name: Jack Martins
+  role: member
+  person_id: ocd-person/7f031836-0a9e-46d2-bcab-7cc6a14848df
+- name: Jamaal Bailey
+  role: member
+  person_id: ocd-person/6872ad9e-fcba-426f-a9ef-b4495dba17f5
+- name: James Skoufis
+  role: member
+  person_id: ocd-person/c1f048f2-6e1d-4e1b-b161-d97e2f16c1f8
+- name: Jeremy Cooney
+  role: member
+  person_id: ocd-person/6d73b968-c1db-434e-9876-de2fdff30d89
+- name: Jeremy Zellner
+  role: member
+  person_id: ocd-person/6409bcf6-2def-4150-bf11-292ec93b72f6
+- name: Jessica Ramos
+  role: member
+  person_id: ocd-person/a0b3e01c-d323-4624-a0da-6a1e2b0dfb31
+- name: John Liu
+  role: member
+  person_id: ocd-person/eee14916-d196-4857-a64a-b6e952db7a53
+- name: Kevin Parker
+  role: member
+  person_id: ocd-person/dbf73f29-d4ce-4192-b8fe-42b3ac538dda
+- name: Patricia Canzoneri-Fitzpatrick
+  role: member
+  person_id: ocd-person/d04bd8aa-6178-419b-8738-a5f92141753a
+- name: Shelley Mayer
+  role: member
+  person_id: ocd-person/a9b13089-77fc-4e9d-a9e4-35933ea903a0
+- name: Steve Rhoads
+  role: member
+  person_id: ocd-person/f7d38428-2656-4fb3-ac28-2455d5533a0b
+- name: Toby Stavisky
+  role: member
+  person_id: ocd-person/3d51aca8-81d1-4f3e-8cef-47c999626a9a
+- name: Tom O'Mara
+  role: member
+  person_id: ocd-person/c7aec173-278b-4fe6-9237-7c8b751cda1e
+- name: Zellnor Myrie
+  role: member
+  person_id: ocd-person/52c0e400-2385-4c12-8bf4-6b9205c18eb2
+other_names:
+- name: Senate Committee on Judiciary
+- name: Senate Judiciary
+- name: Senate Judiciary Committee

@@ -1,0 +1,22 @@
+id: ocd-person/27449c02-3525-442d-a52c-f569d4d6a83b
+name: Kathy Swanson
+given_name: Kathy
+family_name: Swanson
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '77'
+links:
+- url: https://leg.mt.gov/legislator-information/roster/individual/4819
+  note: legislator page
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MTL000141
+- scheme: legacy_openstates
+  identifier: MTL000253
+sources:
+- url: https://leg.mt.gov/legislator-information/?session_select=111
+  note: legislator list page

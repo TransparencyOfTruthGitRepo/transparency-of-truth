@@ -1,0 +1,35 @@
+id: ocd-person/55023d46-1fcc-4df9-9b29-6b9f2e9e7a4d
+name: Randyn Gregg
+given_name: Randyn
+family_name: Gregg
+gender: Male
+email: randyn.gregg@legmt.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rgregg.jpeg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '78'
+offices:
+- classification: capitol
+  address: Capitol Building, 1301 E. 6th Ave. P.O. Box 200400, Helena, MT 59620
+  voice: 406-444-4800
+- classification: district-mail
+  address: P.O. Box 583, White Sulphur Springs, MT 59645
+  voice: 406-290-4407
+links:
+- url: https://legislators.legmt.gov/#/legislator/227
+- url: https://www.legmt.gov/legislators/1355/
+other_names:
+- name: Gregg, R.
+- name: Gregg, Randyn
+- name: R. Gregg
+sources:
+- url: https://ballotpedia.org/Randyn_Gregg
+- url: https://en.wikipedia.org/wiki/Randyn_Gregg
+- url: https://justfacts.votesmart.org/candidate/biography/203605/randyn-gregg
+- url: https://legislators.legmt.gov/#/legislator/227
+- url: https://www.legmt.gov/legislators/1355
+- url: https://www.linkedin.com/in/randyn-g-996220179

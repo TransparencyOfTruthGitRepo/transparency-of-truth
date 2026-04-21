@@ -1,0 +1,37 @@
+id: ocd-person/bdecc388-4028-48e2-b211-75c59c1c5ec2
+name: Terry Meza
+given_name: Terry
+family_name: Meza
+birth_date: 1949-08-01
+gender: Female
+email: terry.meza@house.texas.gov
+image: https://house.texas.gov/images/members/3455.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '105'
+offices:
+- classification: capitol
+  address: Room E1.204, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0641
+- classification: district
+  address: 613 N. O'Connor Road Suite 21B, Irving, TX 75061
+links:
+- url: https://house.texas.gov/members/3455
+- url: https://house.texas.gov/members/member-page/?district=105
+other_names:
+- name: Meza, T.
+- name: Meza, Terry
+- name: T. Meza
+- name: T.A.T. Meza
+- name: Thresa "Terry" Meza
+sources:
+- url: https://ballotpedia.org/Terry_Meza
+- url: https://en.wikipedia.org/wiki/Terry_Meza
+- url: https://house.texas.gov/members/3455
+- url: https://house.texas.gov/members/3455/biography
+- url: https://house.texas.gov/members/member-page/?district=105
+- url: https://justfacts.votesmart.org/candidate/biography/147178/terry-meza

@@ -1,0 +1,30 @@
+id: ocd-person/6284ca19-56a3-47d4-a9b0-f65e4a3a501d
+name: Anne C Grassie
+given_name: Anne
+family_name: Grassie
+middle_name: C.
+image: http://www.livefreeordiealliance.org/Portals/0/images_candidates/agrassiesth11.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 11
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 1
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376000
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000151
+- scheme: legacy_openstates
+  identifier: NHL000553
+- scheme: legacy_openstates
+  identifier: NHL001010
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members.txt

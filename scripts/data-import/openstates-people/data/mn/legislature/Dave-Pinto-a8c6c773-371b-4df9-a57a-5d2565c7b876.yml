@@ -1,0 +1,35 @@
+id: ocd-person/a8c6c773-371b-4df9-a57a-5d2565c7b876
+name: Dave Pinto
+given_name: Dave
+family_name: Pinto
+birth_date: 1972-04-12
+gender: Male
+email: rep.dave.pinto@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/64B.gif?v=112221
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2015-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 64B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-4199
+links:
+- url: https://www.house.mn.gov/members/profile/15444
+other_names:
+- name: D. Pinto
+- name: D.P. Pinto
+- name: Pinto, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000668
+sources:
+- url: https://ballotpedia.org/Dave_Pinto
+- url: https://en.wikipedia.org/wiki/Dave_Pinto
+- url: https://justfacts.votesmart.org/candidate/biography/152837/dave-pinto
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15444
+- url: https://www.linkedin.com/in/davepinto

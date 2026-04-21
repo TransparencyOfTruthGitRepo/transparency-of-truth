@@ -1,0 +1,61 @@
+id: ocd-person/4cf7c975-678b-4e21-9877-6d22d7b37916
+name: Ed Harbison
+given_name: Ed
+family_name: Harbison
+birth_date: 1941-08-25
+gender: Male
+email: ed.harbison@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/harbison-ed-17.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1993-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '15'
+offices:
+- classification: capitol
+  address: State Capitol Room 420-C, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-0074
+- classification: district-mail
+  address: P.O. Box 1292, Columbus, GA 31902
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/17
+- url: https://www.legis.ga.gov/members/senate/17?session=1029
+- url: https://www.legis.ga.gov/members/senate/17?session=1031
+  note: HTML member detail page
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=17&Session=27
+other_names:
+- name: E. Harbison
+- name: HARBISON, 15TH
+- name: Harbison, E.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000020
+sources:
+- url: https://ballotpedia.org/Ed_Harbison
+- url: https://en.wikipedia.org/wiki/Ed_Harbison
+- url: https://justfacts.votesmart.org/candidate/biography/7804/ed-harbison
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.legis.ga.gov/api/members/detail/17?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/17?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/17
+- url: https://www.legis.ga.gov/members/senate/17?session=1029
+- url: https://www.linkedin.com/in/ed-harbison-2467216b
+- url: https://www.linkedin.com/in/senator-ed-harbison-533b4784
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=17&Session=27
+extras:
+  residence: Columbus
+  city: Columbus
+  georgia_id: 17
+  birthday: August 25
+  occupation: Businessman
+  press: https://senatepress.net/category/senate-press/ed-harbison
+  staff: Cyndi West
+  staff email: cyndi.williams@senate.ga.gov

@@ -1,0 +1,86 @@
+id: ocd-person/e72a31cf-cefd-42c1-9620-967af32a2f48
+name: Ogden Driskill
+given_name: Ogden
+family_name: Driskill
+birth_date: 1959-07-24
+gender: Male
+email: ogden.driskill@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-DriskillOgden.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '1'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 155, Devils Tower, WY 82714
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/S/1972
+- url: https://www.wyoleg.gov/Legislators/2025/S/1972
+- url: https://wyoleg.gov/Legislators/2019/R/1972
+- url: https://wyoleg.gov/Legislators/2021/R/1972
+other_names:
+- name: Driskill, O
+- name: Driskill, O.
+- name: O. Driskill
+- name: O.O. Driskill
+- name: W.O. Driskill
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000010
+sources:
+- url: https://ballotpedia.org/Ogden_Driskill
+- url: https://en.wikipedia.org/wiki/Ogden_Driskill
+- url: https://justfacts.votesmart.org/candidate/biography/52627/ogden-driskill
+- url: https://www.linkedin.com/in/ogden-driskill-b43bb610
+- url: https://www.wyoleg.gov/Legislators/2023/S/1972
+- url: https://www.wyoleg.gov/Legislators/2025/S/1972
+- url: https://wyoleg.gov/Legislators/2019/R/1972
+- url: https://wyoleg.gov/Legislators/2021/R/1972
+- url: https://wyoleg.gov/LsoService/api/legislator/1972
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+extras:
+  county: Campbell, Crook,  Weston Counties
+  education:
+  - schoolName: Hulett High School
+    gradYear: '1977'
+    degree: Diploma
+  - schoolName: Casper College
+    gradYear: '1980'
+    degree: AA
+  - schoolName: University of Wyoming
+    gradYear: ''
+    degree: ''
+  title: President of the Senate
+  spouse name: Rosanne
+  number of children: '3'
+  number of grandchildren: '3'
+  occupation: 'Rancher and Tourism '
+  leadership:
+  - startYear: '2023'
+    endYear: '2024'
+    position: 'President of the Senate                           '
+    currentLeader: true
+  - startYear: '2021'
+    endYear: '2022'
+    position: 'Senate Majority Floor Leader                      '
+    currentLeader: false
+  - startYear: '2019'
+    endYear: '2020'
+    position: Senate Vice President
+    currentLeader: false
+  organizations:
+  - orgname: Wyoming Stockgrowers Assn
+  - orgname: Partnership of Rangeland Trusts
+  - orgname: Land Trust Alliance
+  senate years: 'Senate: 2011-Present'
+  prior service:
+  - chamber: Senate
+    startYear: 2011
+    endYear: Present
+    district: ' District 01, '

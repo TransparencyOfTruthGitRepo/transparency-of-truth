@@ -1,0 +1,61 @@
+id: ocd-person/fe6a6b8e-91f2-427f-9060-2cac2b9eb66c
+name: Joe Ellington
+given_name: Joe
+family_name: Ellington
+birth_date: 1959-05-12
+gender: Male
+email: joe.ellington@wvhouse.gov
+image: https://www.wvlegislature.gov/images/members/2023/house/ellington_joe.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '38'
+- start_date: 2012-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '38'
+- start_date: 2010-12-01
+  end_date: 2012-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '38'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '27'
+offices:
+- classification: capitol
+  address: State Capitol Room 246M, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3265
+- classification: district
+  address: 613 Pigeon Roost Trail, Princeton, WV 24740
+  voice: 304-487-6526
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Ellington
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ellington
+  note: homepage
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Ellington
+other_names:
+- name: Ellington, J
+- name: Ellington, J.
+- name: J. Ellington
+- name: J.C. Ellington
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000076
+- scheme: legacy_openstates
+  identifier: WVL000169
+sources:
+- url: https://ballotpedia.org/Joe_Ellington
+- url: https://en.wikipedia.org/wiki/Joe_Ellington
+- url: https://justfacts.votesmart.org/candidate/biography/58022/joe-ellington-jr
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Ellington
+- url: https://www.linkedin.com/in/joe-ellington-29a61131
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ellington
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Ellington
+- url: https://www.wvlegislature.gov/House/roster.cfm

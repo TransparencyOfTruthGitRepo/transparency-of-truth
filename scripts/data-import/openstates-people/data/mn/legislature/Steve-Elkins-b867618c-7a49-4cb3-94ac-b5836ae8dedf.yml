@@ -1,0 +1,36 @@
+id: ocd-person/b867618c-7a49-4cb3-94ac-b5836ae8dedf
+name: Steve Elkins
+given_name: Steve
+family_name: Elkins
+birth_date: 1952-04-17
+gender: Male
+email: rep.steve.elkins@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/50B.gif?v=112221
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 50B
+- start_date: 2019-01-08
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 49B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-7803
+links:
+- url: https://www.house.mn.gov/members/profile/15517
+other_names:
+- name: Elkins, S.
+- name: S. Elkins
+sources:
+- url: https://ballotpedia.org/Steve_Elkins
+- url: https://en.wikipedia.org/wiki/Steve_Elkins_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/77012/steve-elkins
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15517
+- url: https://www.linkedin.com/in/stelkins

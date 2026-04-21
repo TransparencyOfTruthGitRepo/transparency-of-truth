@@ -1,0 +1,51 @@
+id: ocd-person/0df4327b-df46-4886-ab09-0c8a55639548
+name: Clarence Styvar
+given_name: Clarence
+family_name: Styvar
+gender: Male
+email: clarence.styvar@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-StyvarClarence.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2018-09-22
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '12'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district
+  address: 580 Willson Court, Cheyenne, WY 82007
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/H/2051
+- url: https://www.wyoleg.gov/Legislators/2025/H/2051
+- url: https://wyoleg.gov/Legislators/2019/R/2051
+- url: https://wyoleg.gov/Legislators/2021/R/2051
+other_names:
+- name: C. Styvar
+- name: Styvar, C
+- name: Styvar, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000172
+sources:
+- url: https://ballotpedia.org/Clarence_Styvar
+- url: https://en.wikipedia.org/wiki/Clarence_Styvar
+- url: https://justfacts.votesmart.org/candidate/biography/171210/clarence-styvar
+- url: https://www.wyoleg.gov/Legislators/2023/H/2051
+- url: https://www.wyoleg.gov/Legislators/2025/H/2051
+- url: https://wyoleg.gov/Legislators/2019/R/2051
+- url: https://wyoleg.gov/Legislators/2021/R/2051
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2051
+extras:
+  county: Laramie County
+  number of children: '4'
+  house years: 'House:  2018-Present'
+  prior service:
+  - chamber: House
+    startYear: 2018
+    endYear: Present
+    district: ' District 12, '

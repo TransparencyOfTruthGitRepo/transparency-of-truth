@@ -1,0 +1,28 @@
+id: ocd-organization/b40476b1-5f4d-4b38-9da0-64f9147b5d54
+jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+classification: committee
+name: Administrative Regulations Review Legislative Commission
+chamber: lower
+sources:
+- url: https://assembly.state.ny.us/comm/
+- url: https://assembly.state.ny.us/comm/?id=44
+- url: https://assembly.state.ny.us/comm/?id=44&sec=news
+- url: https://nyassembly.gov/comm/?id=44
+links:
+- url: https://assembly.state.ny.us/comm/?id=44
+  note: homepage
+- url: https://assembly.state.ny.us/comm/?id=44&sec=news
+- url: https://nyassembly.gov/comm/?id=44
+members:
+- name: Jon Rivera
+  role: chair
+  person_id: ocd-person/869acf23-9c50-48da-897c-515c5a7adcfe
+- name: Mary Beth Walsh
+  role: member
+  person_id: ocd-person/f83f11f2-bfdb-4f84-925a-ae04c97b990e
+other_names:
+- name: Assembly Administrative Regulations Review Legislative Commission
+- name: Assembly Administrative Regulations Review Legislative Commission Committee
+- name: Assembly Committee on Administrative Regulations Review Legislative Commission
+extras:
+  address: LOB 919;  Albany, NY 12248

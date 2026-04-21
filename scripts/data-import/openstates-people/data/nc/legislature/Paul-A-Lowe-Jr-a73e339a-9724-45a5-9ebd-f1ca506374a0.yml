@@ -1,0 +1,46 @@
+id: ocd-person/a73e339a-9724-45a5-9ebd-f1ca506374a0
+name: Paul Lowe
+given_name: Paul
+family_name: Lowe
+birth_date: 1959-05-19
+gender: Male
+email: paul.lowe@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/S/394/Low
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-30
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '32'
+offices:
+- classification: capitol
+  address: Room 1127, North Carolina Legislative Building 16 W. Jones St., Raleigh,
+    NC 27601
+  voice: 919-733-5620
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/394
+- url: https://www.ncleg.gov/Members/Committees/S/394
+- url: https://www.ncleg.gov/Members/IntroducedBills/S/394
+- url: https://www.ncleg.gov/Members/Votes/S/394
+other_names:
+- name: Lowe, P.
+- name: P. Lowe
+- name: P.A. Lowe
+- name: Paul A. Lowe Jr.
+- name: Paul A. Lowe, Jr.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000349
+- scheme: legacy_openstates
+  identifier: NCL000350
+sources:
+- url: https://ballotpedia.org/Paul_Lowe
+- url: https://en.wikipedia.org/wiki/Paul_A._Lowe_Jr.
+- url: https://justfacts.votesmart.org/candidate/156190/paul-lowe-jr
+- url: https://www.linkedin.com/in/paul-lowe-3a76a330
+- url: https://www.ncleg.gov/Members/Biography/S/394
+- url: https://www.ncleg.gov/Members/MemberTable/S
+extras:
+  terms in senate: 4+ (0 in House)
+  represented counties: Forsyth

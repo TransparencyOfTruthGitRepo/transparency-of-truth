@@ -1,0 +1,31 @@
+id: ocd-person/f73d5af2-f2b6-47d0-a55a-84ac528343ff
+name: Mark Owens
+given_name: Mark
+family_name: Owens
+gender: Male
+email: rep.markowens@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/owens/PublishingImages/member_photo.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '60'
+offices:
+- classification: capitol
+  address: Room H-475, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1460
+links:
+- url: https://www.oregonlegislature.gov/owens
+  note: homepage
+other_names:
+- name: M. Owens
+- name: Owens, M.
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Mark_Owens_(Oregon)
+- url: https://en.wikipedia.org/wiki/Mark_Owens_(Oregon_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/189513/mark-owens
+- url: https://www.oregonlegislature.gov/owens

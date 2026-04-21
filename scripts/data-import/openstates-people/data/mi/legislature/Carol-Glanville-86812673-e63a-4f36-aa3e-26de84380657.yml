@@ -1,0 +1,38 @@
+id: ocd-person/86812673-e63a-4f36-aa3e-26de84380657
+name: Carol Glanville
+given_name: Carol
+family_name: Glanville
+gender: Female
+email: caglanville@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '84'
+- start_date: 2022-05-09
+  end_date: 2022-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '74'
+offices:
+- classification: capitol
+  address: Room S-1188, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0476
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/carol-glanville/
+other_names:
+- name: C. Glanville
+- name: Glanville, C.
+sources:
+- url: https://ballotpedia.org/Carol_Glanville
+- url: https://en.wikipedia.org/wiki/Carol_Glanville
+- url: https://housedems.com/carol-glanville
+- url: https://housedems.com/carol-glanville/
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+- url: https://www.linkedin.com/in/caglanville

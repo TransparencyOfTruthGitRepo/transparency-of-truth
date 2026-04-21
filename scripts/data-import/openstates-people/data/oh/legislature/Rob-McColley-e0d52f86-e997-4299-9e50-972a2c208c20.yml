@@ -1,0 +1,44 @@
+id: ocd-person/e0d52f86-e997-4299-9e50-972a2c208c20
+name: Rob McColley
+given_name: Rob
+family_name: McColley
+birth_date: 1984-10-14
+gender: Male
+email: sd01@ohiosenate.gov
+image: https://www.legislature.ohio.gov/assets/people/rob-mccolley/headshots/thumbnails/medium/rob-mccolley-may-2023-headshot_medium.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-12-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '1'
+offices:
+- classification: capitol
+  address: Room 201, Statehouse, 1 Capitol Square Second Floor, Columbus, OH 43215
+  voice: 614-466-8150
+links:
+- url: https://www.ohiosenate.gov/members/rob-mccolley
+- url: https://www.ohiosenate.gov/senators/mccolley
+other_names:
+- name: McColley, R.
+- name: R. McColley
+- name: Robert McColley
+ids:
+  twitter: rob_mccolley
+  facebook: mccolley4ohio
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000278
+- scheme: legacy_openstates
+  identifier: OHL000381
+sources:
+- url: https://ballotpedia.org/Robert_McColley
+- url: https://en.wikipedia.org/wiki/Rob_McColley
+- url: https://ohiosenate.gov/members/rob-mccolley
+  note: member details page
+- url: https://www.legislature.ohio.gov/legislators/senate-directory
+  note: member list page
+- url: https://www.linkedin.com/in/rob-mccolley-294b963
+- url: https://www.ohiosenate.gov/members/rob-mccolley
+- url: https://www.ohiosenate.gov/senators

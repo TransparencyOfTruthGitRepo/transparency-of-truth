@@ -1,0 +1,70 @@
+id: ocd-person/2ba0916f-40b1-4255-9496-94b12ccabd1e
+name: Sam Park
+given_name: Sam
+family_name: Park
+birth_date: 1985-10-01
+gender: Male
+email: samuel.park@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/park-sam-4901.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '107'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '101'
+offices:
+- classification: capitol
+  address: Room 609, Coverdell Legislative Office Building 18 Capitol Square SW, Atlanta,
+    GA 30334
+  voice: 404-656-5059
+- classification: district
+  address: 4850 Sugarloaf Parkway Suite 209-188, Lawrenceville, GA 30044
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4901&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4901
+- url: https://www.legis.ga.gov/members/house/4901?session=1029
+- url: https://www.legis.ga.gov/members/house/4901?session=1031
+  note: HTML member detail page
+other_names:
+- name: PARK, 107TH
+- name: Park, S.
+- name: S. Park
+- name: S.L. Park
+- name: Sam Park
+- name: Samuel Lauderdale Park
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000462
+- scheme: legacy_openstates
+  identifier: GAL000476
+sources:
+- url: https://ballotpedia.org/Samuel_Park
+- url: https://en.wikipedia.org/wiki/Sam_Park
+- url: https://justfacts.votesmart.org/candidate/biography/168354/samuel-park
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4901&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4901?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4901?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4901
+- url: https://www.legis.ga.gov/members/house/4901?session=1029
+extras:
+  residence: Lawrenceville
+  city: Lawrenceville
+  georgia_id: 4901
+  birthday: October 1
+  occupation: Attorney
+  press: https://house-press.com/representative/Sam-Park
+  staff: Wyletha Thompson - Administrative Assistant
+  staff email: wyletha.thompson@house.ga.gov
+  title: Minority Caucus Whip

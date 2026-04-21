@@ -1,0 +1,34 @@
+id: ocd-person/102ffcb1-3028-401f-b74f-6f45db25e05e
+name: Alex Kolodin
+given_name: Alex
+family_name: Kolodin
+gender: Male
+email: akolodin@azleg.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Alexander_Kolodin.jpeg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '3'
+offices:
+- classification: capitol
+  address: Room 323, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-3560
+links:
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2174
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2318
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2174
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2174
+other_names:
+- name: A. Kolodin
+- name: Alexander Kolodin
+- name: Kolodin, A.
+sources:
+- url: https://ballotpedia.org/Alexander_Kolodin
+- url: https://justfacts.votesmart.org/candidate/biography/192510/alexander-kolodin
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2174
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2318
+- url: https://www.azleg.gov/memberroster/?body=H
+- url: https://www.linkedin.com/in/alexander-kolodin-16535222

@@ -1,0 +1,41 @@
+id: ocd-person/0d86d77b-ff68-4182-be53-09ff196b8174
+name: Andrew Kuzma
+given_name: Andrew
+family_name: Kuzma
+gender: Male
+email: akuzma@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1946.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '39'
+offices:
+- classification: capitol
+  address: Room 159B, East Wing P.O. Box 202039, Harrisburg, PA 17120
+  voice: 717-260-6122
+- classification: district
+  address: 491 E. Bruceton Road Suite 102, Pleasant Hills, PA 15236
+  voice: 412-382-2009
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1946
+  note: homepage
+- url: https://www.palegis.us/house/members/bio/1946/rep-kuzma
+- url: https://www.repkuzma.com/
+other_names:
+- name: A. Kuzma
+- name: A.M. Kuzma
+- name: Kuzma, A.
+ids:
+  facebook: RepKuzma
+sources:
+- url: https://ballotpedia.org/Andrew_Kuzma
+- url: https://en.wikipedia.org/wiki/Andrew_Kuzma
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1946
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.palegis.us/house/members/bio/1946/rep-kuzma
+- url: https://www.repkuzma.com
+extras:
+  website: http://www.RepKuzma.com

@@ -1,0 +1,20 @@
+id: ocd-person/afe196c4-eb1a-4004-9e0e-3c1739145f31
+name: Steve Lavin
+given_name: Steve
+family_name: Lavin
+party:
+- name: Republican
+roles:
+- end_date: '2018-01-01'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '8'
+links:
+- url: https://leg.mt.gov/legislator-information/roster/individual/4751
+  note: legislator page
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MTL000099
+sources:
+- url: https://leg.mt.gov/legislator-information/?session_select=111
+  note: legislator list page

@@ -1,0 +1,57 @@
+id: ocd-organization/1a0aac15-3cb1-4c7c-94c5-1a2e4c42b409
+jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+classification: committee
+name: Aging
+chamber: legislature
+sources:
+- url: https://www.cga.ct.gov/age
+  note: Committee details page
+links:
+- url: https://www.cga.ct.gov/age
+members:
+- name: Mary Fortier
+  role: vice chair
+  person_id: ocd-person/dba46a90-f765-4508-a9e1-9bfdeb4a03dd
+- name: Pat Miller
+  role: vice chair
+  person_id: ocd-person/fcf63a22-3979-4cbf-a719-0d414d13e1ac
+- name: Jan Hochadel
+  role: co-chair
+  person_id: ocd-person/e823b348-fd0f-410b-b3c1-62fe7a2982f6
+- name: Jane Garibay
+  role: co-chair
+  person_id: ocd-person/fee3a7d8-7e51-4c5a-af29-190694152ccc
+- name: Mitch Bolinsky
+  role: ranking republican member
+  person_id: ocd-person/5af50689-4e90-49b1-8544-7a00048dad99
+- name: Tony Hwang
+  role: ranking republican member
+  person_id: ocd-person/b1ab473b-e7ff-4c53-96af-ee796c89f4dd
+- name: Anne Hughes
+  role: member
+  person_id: ocd-person/ce2070f7-9487-4856-976b-9bbd6a2f1617
+- name: Anthony Nolan
+  role: member
+  person_id: ocd-person/c7160abf-d376-484d-b87e-600a398ab503
+- name: Bill Pizzuto
+  role: member
+  person_id: ocd-person/f7127b57-a72f-4b84-abf6-77b021cddf3f
+- name: James Maroney
+  role: member
+  person_id: ocd-person/f37ce303-e106-4972-b453-4287b7915762
+- name: Jay Case
+  role: member
+  person_id: ocd-person/fc3cb4e1-f784-46ac-9d54-1dd44cb817b0
+- name: Martha Marx
+  role: member
+  person_id: ocd-person/e171a437-11bc-4200-ae58-f6f8c4971f39
+- name: Michael DiGiovancarlo
+  role: member
+  person_id: ocd-person/1e5a518e-ddf5-4976-b239-9a5324339a47
+- name: Ron Napoli
+  role: member
+  person_id: ocd-person/71fb3504-679f-419d-86bf-d1ae7d573244
+other_names:
+- name: Joint Aging
+- name: Joint Aging Committee
+- name: Joint Committee on Aging

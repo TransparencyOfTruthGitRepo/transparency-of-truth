@@ -1,0 +1,69 @@
+id: ocd-organization/d1446c0f-fe52-48e8-a0fa-6a69a9c511f2
+jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+classification: committee
+name: Education
+chamber: lower
+sources:
+- url: https://le.utah.gov/committee/committee.jsp?year=2023&com=HSTEDU
+- url: https://le.utah.gov/committee/committee.jsp?year=2024&com=HSTEDU
+- url: https://le.utah.gov/committee/committee.jsp?year=2025&com=HSTEDU
+- url: https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTEDU
+- url: https://le.utah.gov/data/committees.json
+  note: Committee JSON from le.utah.gov site
+links:
+- url: https://le.utah.gov/committee/committee.jsp?year=2023&com=HSTEDU
+  note: homepage
+- url: https://le.utah.gov/committee/committee.jsp?year=2024&com=HSTEDU
+  note: homepage
+- url: https://le.utah.gov/committee/committee.jsp?year=2025&com=HSTEDU
+- url: https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTEDU
+members:
+- name: Neil Walter
+  role: chair
+  person_id: ocd-person/5b90793c-f90a-4b0e-b9e6-78943bfaab1c
+- name: Ariel Defay
+  role: vice chair
+  person_id: ocd-person/6d3d4043-1ec3-454c-a517-4036722c50ee
+- name: Candice Pierucci
+  role: member
+  person_id: ocd-person/b4977f98-8a0d-4e4b-a43f-b8ee80adba2b
+- name: Carol Moss
+  role: member
+  person_id: ocd-person/8d06fd93-cc42-47e3-a00c-2229718b7226
+- name: Doug Welton
+  role: member
+  person_id: ocd-person/725abf07-1cca-47a5-a5a7-223d763f5da0
+- name: Jason Thompson
+  role: member
+  person_id: ocd-person/d7b06a16-ad92-4d55-af46-93a1f13253e7
+- name: Joseph Elison
+  role: member
+  person_id: ocd-person/0d22b3d0-94f2-4f88-95e9-b830480f4be8
+- name: Karen Peterson
+  role: member
+  person_id: ocd-person/3c2d4efe-dd4e-48cf-a83b-2a15791706a3
+- name: Karianne Lisonbee
+  role: member
+  person_id: ocd-person/59eb30b5-da7b-4161-85b3-8b48c01f4c2b
+- name: Matt MacPherson
+  role: member
+  person_id: ocd-person/ad88a882-c27b-4ceb-8476-b7a3d2a9dd19
+- name: Nicholeen Peck
+  role: member
+  person_id: ocd-person/08c69398-e218-46a2-a843-9f1bfe088caa
+- name: Sahara Hayes
+  role: member
+  person_id: ocd-person/b0a5ca40-5e04-495c-80e0-2c5d3608273d
+- name: Tiara Auxier
+  role: member
+  person_id: ocd-person/85745a94-5b45-4ac2-a258-1a1f48dc33db
+- name: Tracy Miller
+  role: member
+  person_id: ocd-person/1460f74d-e7af-44a6-8e24-5c3fe8013251
+- name: Val Peterson
+  role: member
+  person_id: ocd-person/8662eb2d-1ff1-4bd2-9a3b-41fa8770cc18
+other_names:
+- name: House Committee on Education
+- name: House Education
+- name: House Education Committee

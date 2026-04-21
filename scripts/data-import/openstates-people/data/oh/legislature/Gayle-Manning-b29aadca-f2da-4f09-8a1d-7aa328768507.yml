@@ -1,0 +1,50 @@
+id: ocd-person/b29aadca-f2da-4f09-8a1d-7aa328768507
+name: Gayle Manning
+given_name: Gayle
+family_name: Manning
+birth_date: 1950-03-02
+gender: Female
+email: rep52@ohiohouse.gov
+image: https://www.legislature.ohio.gov/assets/people/gayle-manning/headshots/thumbnails/medium/gayle-manning-january-2019-headshot_medium.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '52'
+- end_date: 2018-12-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '13'
+- start_date: 2019-01-01
+  end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '55'
+offices:
+- classification: capitol
+  address: 77 S. High St. 14th Floor, Columbus, OH 43215
+  voice: 614-644-5076
+links:
+- url: https://ohiohouse.gov/gayle-manning
+- url: https://www.ohiohouse.gov/gayle-manning
+- url: https://www.ohiohouse.gov/members/gayle-manning
+other_names:
+- name: G. Manning
+- name: G.G. Manning
+- name: Manning, G.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000013
+sources:
+- url: https://ballotpedia.org/Gayle_L._Manning
+- url: https://en.wikipedia.org/wiki/Gayle_Manning
+- url: https://ohiohouse.gov/gayle-manning
+- url: https://ohiohouse.gov/members/gayle-manning
+  note: member details page
+- url: https://www.legislature.ohio.gov/legislators/house-directory
+  note: member list page
+- url: https://www.linkedin.com/in/gayle-manning80-42669a43
+- url: https://www.ohiohouse.gov/members/gayle-manning
+- url: https://www.ohiohouse.gov/members/member-directory

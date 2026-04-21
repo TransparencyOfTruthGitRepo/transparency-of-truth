@@ -1,0 +1,37 @@
+id: ocd-person/6c410f28-9316-45db-935d-52764c90b4ae
+name: Julia Salazar
+given_name: Julia
+family_name: Salazar
+birth_date: 1990-12-30
+gender: Female
+email: salazar@nysenate.gov
+image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/screenshotjs.png?itok=WxwPAzfP
+party:
+- name: Democratic/Working Families
+roles:
+- start_date: 2020-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '18'
+offices:
+- classification: capitol
+  address: State Capitol Room 514, Building 172 State Street, Albany, NY 12247
+  voice: 518-455-2177
+- classification: district
+  address: 212 Evergreen Ave., Brooklyn, NY 11221
+  voice: 718-573-1726
+links:
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/julia-salazar
+- url: https://www.nysenate.gov/senators/julia-salazar/contact
+other_names:
+- name: J. Salazar
+- name: Salazar, J.
+ids:
+  twitter: JuliaCarmel__
+sources:
+- url: https://ballotpedia.org/Julia_Salazar
+- url: https://en.wikipedia.org/wiki/Julia_Salazar
+- url: https://justfacts.votesmart.org/candidate/biography/185085/julia-salazar
+- url: https://www.nysenate.gov/senators/julia-salazar
+- url: https://www.nysenate.gov/senators/julia-salazar/contact

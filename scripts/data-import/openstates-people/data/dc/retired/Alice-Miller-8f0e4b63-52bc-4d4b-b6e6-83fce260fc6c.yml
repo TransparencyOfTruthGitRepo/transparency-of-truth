@@ -1,0 +1,22 @@
+id: ocd-person/8f0e4b63-52bc-4d4b-b6e6-83fce260fc6c
+name: Alice Miller
+given_name: Alice
+family_name: Miller
+email: apmiller@dcboe.org
+party:
+- name: Independent
+roles:
+- end_date: '2021-12-31'
+  type: chief election officer
+  jurisdiction: ocd-jurisdiction/country:us/district:dc/government
+offices:
+- classification: capitol
+  address: 1015 Half Street, SE; Suite 750; Washington, DC 20003-
+  voice: 202-727-6511
+  fax: 202-347-2648
+links:
+- url: https://www.dcboe.org/Contact
+- url: https://www.dcboe.org/Contact
+  note: webform
+sources:
+- url: https://www.dcboe.org/Contact

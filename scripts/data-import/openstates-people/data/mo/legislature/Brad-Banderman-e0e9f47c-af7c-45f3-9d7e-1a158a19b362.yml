@@ -1,0 +1,33 @@
+id: ocd-person/e0e9f47c-af7c-45f3-9d7e-1a158a19b362
+name: Brad Banderman
+given_name: Brad
+family_name: Banderman
+gender: Male
+email: brad.banderman@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2379
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '119'
+offices:
+- classification: capitol
+  address: Room 235, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-0549
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=119
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=119
+other_names:
+- name: B. Banderman
+- name: B.S. Banderman
+- name: Banderman, B.
+sources:
+- url: https://ballotpedia.org/Brad_Banderman
+- url: https://en.wikipedia.org/wiki/Brad_Banderman
+- url: https://house.mo.gov/MemberDetails.aspx?district=119
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=119
+- url: https://justfacts.votesmart.org/candidate/biography/205788/brad-banderman
+extras:
+  hometown: St. Clair

@@ -1,0 +1,40 @@
+id: ocd-person/e7e8e973-411b-45fd-8fd7-7e4ea7d9f1be
+name: Harlan Vincent
+given_name: Harlan
+family_name: Vincent
+gender: Male
+email: harlan.vincent@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HVINC.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '56'
+offices:
+- classification: capitol
+  address: Room 203GN, New Mexico Capitol Annex 325 Don Gaspar Ave., Santa Fe, NM
+    87501
+  voice: 505-986-4450
+- classification: district-mail
+  address: P.O. Box 323, Ruidoso Downs, NM 88346
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HVINC
+  note: homepage
+other_names:
+- name: H. Vincent
+- name: H.H. Vincent
+- name: Harlan H. Vincent
+- name: Vincent, H.
+- name: Vincent, Harlan
+sources:
+- url: https://ballotpedia.org/Harlan_Vincent
+- url: https://en.wikipedia.org/wiki/Harlan_Vincent
+- url: https://harlanvincentfornm.com/about.php
+- url: https://www.linkedin.com/in/harlan-vincent-01357ba7
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HVINC
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Lincoln & Otero
+  occupation: Contractor

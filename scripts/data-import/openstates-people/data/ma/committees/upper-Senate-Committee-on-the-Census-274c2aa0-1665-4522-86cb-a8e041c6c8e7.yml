@@ -1,0 +1,34 @@
+id: ocd-organization/274c2aa0-1665-4522-86cb-a8e041c6c8e7
+jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+classification: committee
+name: Census
+chamber: upper
+sources:
+- url: https://malegislature.gov/Committees/Detail/S65
+  note: Committee Details Page
+links:
+- url: https://malegislature.gov/Committees/Detail/S65
+  note: homepage
+members:
+- name: Will Brownsberger
+  role: chair
+  person_id: ocd-person/94929da6-2219-4a44-99c3-d6561eead9f5
+- name: Becca Rausch
+  role: vice chair
+  person_id: ocd-person/fb97b139-c0dd-41b5-ae52-159528f47b11
+- name: Barry Finegold
+  role: member
+  person_id: ocd-person/49397268-3fc9-4c83-a385-f55be18597f4
+- name: Liz Miranda
+  role: member
+  person_id: ocd-person/703d6d4e-3a1d-4a2e-82e3-3c9693b75953
+- name: Mark Montigny
+  role: member
+  person_id: ocd-person/31600b44-797b-4baf-80aa-0762b4f0aff5
+- name: Paul Mark
+  role: member
+  person_id: ocd-person/fd5aaac8-48f5-42c2-82a8-abaf6c5de650
+other_names:
+- name: Senate Census
+- name: Senate Census Committee
+- name: Senate Committee on Census

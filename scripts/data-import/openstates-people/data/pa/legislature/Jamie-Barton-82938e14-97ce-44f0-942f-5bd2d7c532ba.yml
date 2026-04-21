@@ -1,0 +1,44 @@
+id: ocd-person/82938e14-97ce-44f0-942f-5bd2d7c532ba
+name: Jamie Barton
+given_name: Jamie
+family_name: Barton
+gender: Male
+email: jbarton@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1968.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '124'
+offices:
+- classification: capitol
+  address: Room 160B, East Wing P.O. Box 202124, Harrisburg, PA 17120
+  voice: 717-787-9029
+- classification: district
+  address: 202 E. Broad St., Tamaqua, PA 18252
+  voice: 570-668-1240
+- classification: district
+  address: 61 N. 3rd St., Hamburg, PA 19526
+  voice: 484-660-3721
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1968
+  note: homepage
+- url: https://www.palegis.us/house/members/bio/1968/rep-barton
+- url: https://www.repbarton.com/
+other_names:
+- name: Barton, J.
+- name: J. Barton
+ids:
+  facebook: RepBarton
+sources:
+- url: https://ballotpedia.org/James_Barton
+- url: https://en.wikipedia.org/wiki/Jamie_Barton_(politician)
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1968
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.linkedin.com/in/jamesbartonseniorexecutive
+- url: https://www.palegis.us/house/members/bio/1968/rep-barton
+- url: https://www.repbarton.com
+extras:
+  website: http://www.RepBarton.com

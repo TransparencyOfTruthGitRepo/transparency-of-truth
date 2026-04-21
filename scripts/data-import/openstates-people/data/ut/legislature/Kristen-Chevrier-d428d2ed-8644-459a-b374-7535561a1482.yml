@@ -1,0 +1,32 @@
+id: ocd-person/d428d2ed-8644-459a-b374-7535561a1482
+name: Kristen Chevrier
+given_name: Kristen
+family_name: Chevrier
+gender: Female
+email: kchevrier@le.utah.gov
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '54'
+offices:
+- classification: capitol
+  address: P.O. Box 145030 350 N. State St., Suite 350, Salt Lake City, UT 84114
+  voice: 801-538-1029
+- classification: district
+  address: UT
+  voice: 801-520-6773
+links:
+- url: https://house.utleg.gov/rep/CHEVRK/
+other_names:
+- name: Chevrier, K.
+- name: Chevrier, Kristen
+- name: K. Chevrier
+sources:
+- url: https://ballotpedia.org/Kristen_Chevrier
+- url: https://en.wikipedia.org/wiki/Kristen_Chevrier
+- url: https://house.utleg.gov/rep/CHEVRK
+- url: https://justfacts.votesmart.org/candidate/biography/220762/kristen-chevrier
+- url: https://www.linkedin.com/in/kristen-chevrier-35a32a16

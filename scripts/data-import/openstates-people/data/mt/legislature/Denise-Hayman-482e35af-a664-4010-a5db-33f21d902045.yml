@@ -1,0 +1,69 @@
+id: ocd-person/482e35af-a664-4010-a5db-33f21d902045
+name: Denise Hayman
+given_name: Denise
+family_name: Hayman
+birth_date: 1951-01-01
+gender: Female
+email: denise.hayman@legmt.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '32'
+- start_date: 2023-01-02
+  end_date: 2025-01-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '32'
+- start_date: 2015-01-05
+  end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '32'
+- start_date: 2023-01-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '33'
+  end_date: 2025-01-06
+- end_date: 2022-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '66'
+offices:
+- classification: capitol
+  address: Capitol Building, 1301 E. 6th Ave. P.O. Box 200500, Helena, MT 59620
+  voice: 406-444-4800
+- classification: district-mail
+  address: P.O. Box 6115, Bozeman, MT 59771
+  voice: 406-579-1986
+links:
+- url: https://leg.mt.gov/legislator-information/roster/individual/4808
+  note: legislator page
+- url: https://leg.mt.gov/legislator-information/roster/individual/5125
+- url: https://leg.mt.gov/legislator-information/roster/individual/6831
+- url: https://leg.mt.gov/legislator-information/roster/individual/7526
+- url: https://legislators.legmt.gov/#/legislator/26
+- url: https://www.legmt.gov/legislators/1266/
+other_names:
+- name: D. Hayman
+- name: D.A. Hayman
+- name: Hayman, D.
+- name: Hayman, Denise
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MTL000230
+sources:
+- url: https://ballotpedia.org/Denise_Hayman
+- url: https://en.wikipedia.org/wiki/Denise_Hayman
+- url: https://justfacts.votesmart.org/candidate/biography/149252/denise-hayman
+- url: https://leg.mt.gov/legislator-information/?session_select=111
+  note: legislator list page
+- url: https://leg.mt.gov/legislator-information/?session_select=113
+- url: https://leg.mt.gov/legislator-information/roster/individual/5125
+- url: https://leg.mt.gov/legislator-information/roster/individual/6831
+- url: https://leg.mt.gov/legislator-information/roster/individual/7526
+- url: https://legislators.legmt.gov/#/legislator/26
+- url: https://www.legmt.gov/legislators/1266
+- url: https://www.linkedin.com/in/denise-hayman-247a13b8

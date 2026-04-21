@@ -1,0 +1,24 @@
+id: ocd-person/c068bf4d-d4c3-4ea3-a8fd-a5e4c2baddce
+name: Bobby B. DuBose
+given_name: Bobby
+family_name: DuBose
+image: https://www.myfloridahouse.gov//FileStores/Web/Imaging/Member/4612.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2022-01-11'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '94'
+  end_reason: Resigned to run in special election for the 20th Congressional District
+links:
+- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4612&LegislativeTermId=88
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4612&LegislativeTermId=88
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: FLL000631
+sources:
+- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4612&LegislativeTermId=88
+- url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: https://www.myfloridahouse.gov/Representatives
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4612&LegislativeTermId=88

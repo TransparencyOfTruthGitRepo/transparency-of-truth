@@ -1,0 +1,92 @@
+id: ocd-person/5395223c-9b56-410d-b18f-978d9e2a07a9
+name: Dan Dockstader
+given_name: Dan
+family_name: Dockstader
+birth_date: 1958-02-13
+gender: Male
+email: dan.dockstader@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-DockstaderDan.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2009-01-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '16'
+- start_date: 2007-01-03
+  end_date: 2009-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '16'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+  voice: 307-777-7881
+- classification: district-mail
+  address: P.O. Box 129, Afton, WY 83110
+  voice: 307-885-9705
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/S/1048
+- url: https://www.wyoleg.gov/Legislators/2025/S/1048
+- url: https://www.wyoleg.gov/Legislators/2026/S/1048
+- url: https://wyoleg.gov/Legislators/2019/R/1048
+- url: https://wyoleg.gov/Legislators/2021/R/1048
+other_names:
+- name: D. Dockstader
+- name: D.K. Dockstader
+- name: Dockstader, D
+- name: Dockstader, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000009
+sources:
+- url: https://ballotpedia.org/Dan_Dockstader
+- url: https://en.wikipedia.org/wiki/Dan_Dockstader
+- url: https://justfacts.votesmart.org/candidate/66202/dan-dockstader
+- url: https://www.wyoleg.gov/Legislators/2023/S/1048
+- url: https://www.wyoleg.gov/Legislators/2025/S/1048
+- url: https://www.wyoleg.gov/Legislators/2026/S/1048
+- url: https://wyoleg.gov/Legislators/2019/R/1048
+- url: https://wyoleg.gov/Legislators/2021/R/1048
+- url: https://wyoleg.gov/LsoService/api/legislator/1048
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+extras:
+  county: Lincoln, Teton Counties
+  education:
+  - schoolName: BYU
+    gradYear: ''
+    degree: BA
+  religion: LDS
+  spouse name: Kim
+  number of children: '4'
+  number of grandchildren: '12'
+  birth place: Idaho Falls ID
+  occupation: Publisher/Radio Host
+  leadership:
+  - startYear: '2021'
+    endYear: '2022'
+    position: 'President of the Senate                           '
+    currentLeader: false
+  - startYear: '2019'
+    endYear: '2020'
+    position: Senate Majority Floor Leader
+    currentLeader: false
+  organizations:
+  - orgname: Chamber of Commerce
+  - orgname: Arts Council
+  - orgname: Rotary Club
+  - orgname: Historical Society
+  - orgname: Afton Town Council
+  - orgname: Lincoln County Fair Board
+  house years: 'House:  2007-2008'
+  senate years: 'Senate: 2009-Present'
+  prior service:
+  - chamber: House
+    startYear: 2007
+    endYear: '2008'
+    district: ' District 16, '
+  - chamber: Senate
+    startYear: 2009
+    endYear: Present
+    district: ' District 16, '

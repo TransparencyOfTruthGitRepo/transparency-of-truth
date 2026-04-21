@@ -1,0 +1,45 @@
+id: ocd-organization/3bc07f6b-a13a-44c1-a451-230d27d70141
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Labor
+chamber: upper
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: homepage
+members:
+- name: Michael McLendon
+  role: chair
+  person_id: ocd-person/017dec88-1105-454d-b55b-eeb3a3c85b55
+- name: Sarita Simmons
+  role: vice chair
+  person_id: ocd-person/f1012c43-9559-4f7a-8b70-8dd9cf88bab1
+- name: Bradford Blackmon
+  role: member
+  person_id: ocd-person/3b2b3cb2-3ef8-400d-b395-6b0895ea7631
+- name: Brice Wiggins
+  role: member
+  person_id: ocd-person/7e27e9e0-fe62-4fc0-b8b0-c2ac9c9ce28d
+- name: Don Hartness
+  role: member
+  person_id: ocd-person/035cf383-3d6b-401c-955e-2dcc3a95e4a5
+- name: Johnny DuPree
+  role: member
+  person_id: ocd-person/b05ddbc1-7d61-4f78-bbd3-e0f9ea4de84a
+- name: Kamesha Mumford
+  role: member
+  person_id: ocd-person/d0269daa-032c-482b-9faf-1d569a4645a9
+- name: Kathy Chism
+  role: member
+  person_id: ocd-person/cc7b9351-ea3c-4436-8cc7-9ec0f34b3e0a
+- name: Lane Taylor
+  role: member
+  person_id: ocd-person/b273517c-b673-4bf0-a084-b960bc943953
+other_names:
+- name: Committee on Labor
+- name: Labor Committee
+- name: Senate Committee on Labor
+- name: Senate Labor
+- name: Senate Labor Committee

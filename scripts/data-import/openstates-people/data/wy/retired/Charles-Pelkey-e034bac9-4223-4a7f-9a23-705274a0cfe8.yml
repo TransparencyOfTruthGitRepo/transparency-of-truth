@@ -1,0 +1,33 @@
+id: ocd-person/e034bac9-4223-4a7f-9a23-705274a0cfe8
+name: Charles Pelkey
+given_name: Charles
+family_name: Pelkey
+email: Charles.Pelkey@wyoleg.gov
+birth_date: 1958-05-30
+image: http://wyoleg.gov/LegislatorSummary/Photos/pelkeycH45.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '45'
+links:
+- url: http://wyoleg.gov/Legislators/2019/D/2004
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000132
+sources:
+- url: http://wyoleg.gov/Legislators/2019/D/2004
+extras:
+  county: Albany
+  education:
+  - degree: JD
+    gradYear: '2009'
+    schoolName: University of Wyoming, College of Law
+  number_children: '2'
+  occupation: Founding Partner, Neubauer, Pelkey and Goldfinger, LLP
+  place_of_birth: Goppingen, Federal Republic of Germany
+  religion: ''
+  spouse_given_name: Diana H. Denison
+  wy_leg_id: 2004

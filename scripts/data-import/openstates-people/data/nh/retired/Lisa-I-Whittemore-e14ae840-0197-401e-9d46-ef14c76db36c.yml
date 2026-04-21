@@ -1,0 +1,20 @@
+id: ocd-person/e14ae840-0197-401e-9d46-ef14c76db36c
+name: Lisa I Whittemore
+given_name: Lisa
+family_name: Whittemore
+middle_name: I
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 5
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377191
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000796
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members.txt

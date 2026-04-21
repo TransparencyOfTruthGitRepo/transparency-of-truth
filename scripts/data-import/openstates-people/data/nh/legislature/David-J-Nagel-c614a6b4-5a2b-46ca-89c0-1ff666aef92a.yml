@@ -1,0 +1,39 @@
+id: ocd-person/c614a6b4-5a2b-46ca-89c0-1ff666aef92a
+name: Dave Nagel
+given_name: Dave
+family_name: Nagel
+gender: Male
+email: davidnagelmd@gmail.com
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/DavidNagel.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Belknap 6
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10574
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=10574
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10574
+  note: member detail page
+other_names:
+- name: D. Nagel
+- name: David J Nagel
+- name: David Nagel
+- name: Nagel, D.
+sources:
+- url: https://ballotpedia.org/David_Nagel
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10574
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=10574
+- url: https://www.drnagelfornh.com/about-dave.html
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10574
+- url: https://www.linkedin.com/in/david-nagel-12712a74
+extras:
+  county: Belknap
+  elected status: new
+  gender code: M

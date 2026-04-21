@@ -1,0 +1,28 @@
+id: ocd-person/5240870a-832d-4b5f-b817-56941446cf35
+name: Brian A. Joyce
+given_name: Brian
+family_name: Joyce
+middle_name: A.
+image: https://malegislature.gov/Images/MemberProfile/Web/bjoyce.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Norfolk, Bristol and Plymouth
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Norfolk, Bristol and Plymouth
+links:
+- url: http://www.malegislature.gov/People/Profile/BAJ0
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000020
+- scheme: legacy_openstates
+  identifier: MAL000256
+sources:
+- url: http://www.malegislature.gov/People/Profile/BAJ0

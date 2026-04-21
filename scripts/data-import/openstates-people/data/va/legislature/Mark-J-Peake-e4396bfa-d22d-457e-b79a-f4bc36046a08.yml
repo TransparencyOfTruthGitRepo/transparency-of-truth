@@ -1,0 +1,56 @@
+id: ocd-person/e4396bfa-d22d-457e-b79a-f4bc36046a08
+name: Mark Peake
+given_name: Mark
+family_name: Peake
+birth_date: 1963-01-19
+gender: Male
+email: senatorpeake@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/Peake8
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '8'
+- start_date: 2017-01-13
+  end_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '22'
+offices:
+- classification: capitol
+  address: Room 605, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7508
+- classification: district
+  address: 4925 Boonsboro Road Box 172, Lynchburg, VA 24503
+  voice: 434-455-3392
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S105
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S105
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S105
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S105
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S105
+other_names:
+- name: M. Peake
+- name: M.J. Peake
+- name: Mark J. Peake
+- name: Mark Joseph Peake
+- name: Peake, M.
+- name: Peake, Mark J.
+ids:
+  facebook: peakeforsenate
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000260
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S105
+- url: https://ballotpedia.org/Mark_Peake
+- url: https://en.wikipedia.org/wiki/Mark_Peake
+- url: https://justfacts.votesmart.org/candidate/biography/134491/mark-peake
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S105
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S105
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S105
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S105

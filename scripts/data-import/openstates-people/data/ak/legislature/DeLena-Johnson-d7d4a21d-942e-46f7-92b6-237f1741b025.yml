@@ -1,0 +1,63 @@
+id: ocd-person/d7d4a21d-942e-46f7-92b6-237f1741b025
+name: DeLena Johnson
+given_name: DeLena
+family_name: Johnson
+gender: Female
+email: representative.delena.johnson@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/JHS.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '25'
+- start_date: 2017-01-18
+  end_date: 2023-01-16
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '25'
+- end_date: 2023-01-16
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '11'
+offices:
+- classification: capitol
+  address: State Capitol Room 404, 120 4th St., Juneau, AK 99801
+  voice: 907-465-4958
+- classification: district
+  address: 600 E. Railroad Ave., Wasilla, AK 99654
+  voice: 907-376-4958
+  fax: 907-376-4928
+links:
+- url: https://akhousemajority.com/rep-d-johnson/
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=jhs
+- url: https://www.akleg.gov/basis/Member/Detail/31?code=jhs
+- url: https://www.akleg.gov/basis/Member/Detail/32?code=jhs
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=JHS
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=jhs
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=jhs
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=jim
+other_names:
+- name: D. Johnson
+- name: D.Johnson
+- name: Johnson, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AKL000187
+sources:
+- url: https://akhousemajority.com/rep-d-johnson
+- url: https://ballotpedia.org/Delena_Johnson
+- url: https://en.wikipedia.org/wiki/DeLena_Johnson
+- url: https://w3.akleg.gov
+- url: https://w3.akleg.gov/
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=jhs
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=JHS
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=jhs
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=jhs
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=jim
+- url: https://www.linkedin.com/in/delena-johnson-a7070248
+extras:
+  toll_free_phone: 866-465-4958

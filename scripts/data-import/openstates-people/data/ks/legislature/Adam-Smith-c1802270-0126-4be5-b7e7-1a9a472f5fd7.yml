@@ -1,0 +1,45 @@
+id: ocd-person/c1802270-0126-4be5-b7e7-1a9a472f5fd7
+name: Adam Smith
+given_name: Adam
+family_name: Smith
+gender: Male
+email: adam.smith@house.ks.gov
+image: https://www.kslegislature.org/li/s/images/pics/rep_smith_adam_1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '120'
+offices:
+- classification: capitol
+  address: State Capitol Room 185-N, Kansas  Building 300 SW 10th St., Topeka, KS
+    66612
+  voice: 785-296-0715
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_smith_adam_1/
+- url: https://www.kslegislature.org/li/b2019_20/members/rep_smith_adam_1/
+- url: https://www.kslegislature.org/li/b2021_22/members/rep_smith_adam_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_smith_adam_1/
+other_names:
+- name: A. Smith
+- name: A.C. Smith
+- name: A.W. Smith
+- name: Smith, A.
+- name: Smith,A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KSL000326
+sources:
+- url: https://ballotpedia.org/Adam_Smith_(Kansas)
+- url: https://en.wikipedia.org/wiki/Adam_Smith_(Kansas_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/116224/adam-smith
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_smith_adam_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_smith_adam_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_smith_adam_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_smith_adam_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_smith_adam_1/
+- url: https://www.linkedin.com/in/adam-smith-1b487ab9
+extras:
+  occupation: Farmer/Rancher

@@ -1,0 +1,59 @@
+id: ocd-person/7d852e7a-ae99-4f89-b4c0-4d7cb7e816db
+name: Royce Duplessis
+given_name: Royce
+family_name: Duplessis
+gender: Male
+email: duplessisr@legis.la.gov
+image: https://senate.la.gov/SenatorPics/Sen5.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '5'
+- start_date: 2018-04-09
+  end_date: 2022-12-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '5'
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '93'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 643 Magazine St. Suite 302, New Orleans, LA 70130
+  voice: 504-568-2741
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=93
+  note: homepage
+- url: https://senate.la.gov/smembers.aspx?ID=5
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=5
+other_names:
+- name: Duplessis, R.
+- name: R. Duplessis
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000960
+sources:
+- url: https://ballotpedia.org/Royce_Duplessis
+- url: https://en.wikipedia.org/wiki/Royce_Duplessis
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=93
+- url: https://senate.la.gov/Senators_FullInfo
+- url: https://senate.la.gov/smembers.aspx?ID=5
+- url: https://senate.la.gov/smembers?ID=5
+- url: https://www.linkedin.com/in/royce-duplessis-102289102
+extras:
+  second phone: (504) 568-2741
+  legislative assistant: "Tren\xE9 McCormick"
+  representing parishes:
+  - Orleans
+  - Jefferson
+  education: "Xavier University of Louisiana - B.S. in Communications\r\nHoward University\
+    \ School of Law - Juris Doctorate"

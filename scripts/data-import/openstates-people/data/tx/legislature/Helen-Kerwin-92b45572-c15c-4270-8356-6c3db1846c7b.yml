@@ -1,0 +1,35 @@
+id: ocd-person/92b45572-c15c-4270-8356-6c3db1846c7b
+name: Helen Kerwin
+given_name: Helen
+family_name: Kerwin
+birth_date: 1947-10-10
+gender: Female
+email: helen.kerwin@house.texas.gov
+image: https://www.house.texas.gov/images/members/4575.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '58'
+offices:
+- classification: capitol
+  address: Room E1.216, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0538
+- classification: district
+  address: 115 S. Main St. Suite 101/103, Cleburne, TX 76033
+  voice: 817-506-0399
+links:
+- url: https://www.house.texas.gov/members/58
+other_names:
+- name: H. Kerwin
+- name: Kerwin, H.
+- name: Kerwin, Helen
+sources:
+- url: https://ballotpedia.org/Helen_Kerwin
+- url: https://en.wikipedia.org/wiki/Helen_Kerwin
+- url: https://justfacts.votesmart.org/candidate/biography/214548/helen-kerwin
+- url: https://www.house.texas.gov/members/4575/biography
+- url: https://www.house.texas.gov/members/58
+- url: https://www.linkedin.com/in/helen-kerwin-9855a732

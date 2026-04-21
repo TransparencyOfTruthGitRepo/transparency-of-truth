@@ -1,0 +1,36 @@
+id: ocd-person/75101b55-81b9-465a-8ec6-297fa75cdd07
+name: Chance Henry
+given_name: Chance
+family_name: Henry
+gender: Male
+email: hse042@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics/rep42.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '42'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 563 Court House Circle, Crowley, LA 70526
+  voice: 337-384-8999
+- classification: district-mail
+  address: P.O. Box 2720, Crowley, LA 70527
+links:
+- url: https://house.louisiana.gov/H_Reps/members?ID=42
+other_names:
+- name: C. Henry
+- name: C.K. Henry
+- name: Henry, C.
+sources:
+- url: https://ballotpedia.org/Chance_Henry
+- url: https://chancehenry.com/meet-chance
+- url: https://en.wikipedia.org/wiki/Chance_Keith_Henry
+- url: https://house.louisiana.gov/H_Reps/members?ID=42
+- url: https://justfacts.votesmart.org/candidate/biography/212506/chance-henry
+- url: https://www.linkedin.com/in/chance-henry-92ab4534

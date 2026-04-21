@@ -1,0 +1,17 @@
+id: ocd-person/a8c63b92-039c-4770-aa69-9832f9b07513
+name: Bill Baroni
+given_name: Bill
+family_name: Baroni
+party:
+- name: Republican
+roles:
+- start_date: '2008-01-01'
+  end_date: '2011-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '14'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000041
+sources:
+- url: ftp://www.njleg.state.nj.us/ag/2008data/ROSTER.DBF

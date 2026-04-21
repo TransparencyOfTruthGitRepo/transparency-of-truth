@@ -1,0 +1,95 @@
+id: ocd-person/4938e6be-7c14-536d-a559-91c74fcc17db
+name: Jodey Arrington
+given_name: Jodey
+family_name: Arrington
+birth_date: 1972-03-09
+gender: Male
+email: https://arrington.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/A000375.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-19
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-19
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-19
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-19
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-19
+offices:
+- classification: capitol
+  address: 1111 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-4005
+  fax: 202-225-9615
+- classification: district
+  address: 1312 Texas Ave. Suite 219, Lubbock, TX 79401
+  voice: 806-763-1611
+  fax: 806-767-9168
+- classification: district
+  address: 500 Chestnut St. Suite 819, Abilene, TX 79602
+  voice: 325-675-9779
+  fax: 325-675-5038
+links:
+- url: https://arrington.house.gov
+  note: website
+- url: https://arrington.house.gov/
+other_names:
+- name: Arrington, J.
+- name: J. Arrington
+- name: J.C. Arrington
+- name: Jodey C. Arrington
+ids:
+  twitter: RepArrington
+  facebook: JodeyArrington
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Jodey Arrington
+- scheme: bioguide
+  identifier: A000375
+- scheme: cspan
+  identifier: '1016482'
+- scheme: fec
+  identifier: H6TX19099
+- scheme: google_entity_id
+  identifier: kg:/m/0g9_f_1
+- scheme: govtrack
+  identifier: '412726'
+- scheme: icpsr
+  identifier: '21700'
+- scheme: maplight
+  identifier: '2238'
+- scheme: opensecrets
+  identifier: N00038285
+- scheme: pictorial
+  identifier: '13276'
+- scheme: votesmart
+  identifier: '155685'
+- scheme: wikidata
+  identifier: Q6207815
+sources:
+- url: https://arrington.house.gov
+- url: https://ballotpedia.org/Jodey_Arrington
+- url: https://en.wikipedia.org/wiki/Jodey_Arrington
+- url: https://justfacts.votesmart.org/candidate/biography/155685/jodey-arrington
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/jodey_arrington/412726
+- url: https://www.linkedin.com/in/jodeyarrington

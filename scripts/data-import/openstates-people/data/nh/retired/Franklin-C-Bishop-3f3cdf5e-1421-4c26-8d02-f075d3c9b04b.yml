@@ -1,0 +1,21 @@
+id: ocd-person/3f3cdf5e-1421-4c26-8d02-f075d3c9b04b
+name: Franklin C Bishop
+given_name: Franklin
+family_name: Bishop
+middle_name: C
+image: http://www.livefreeordiealliance.org/Portals/0/images_candidates/fbishoprh3.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 3
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=375966
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000454
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members.txt

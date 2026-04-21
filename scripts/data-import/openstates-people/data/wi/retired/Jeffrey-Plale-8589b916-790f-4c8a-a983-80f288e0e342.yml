@@ -1,0 +1,17 @@
+id: ocd-person/8589b916-790f-4c8a-a983-80f288e0e342
+name: Jeffrey Plale
+given_name: Jeffrey
+family_name: Plale
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '7'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000341
+sources:
+- url: http://legis.wi.gov/w3asp/contact/legislatorpages.aspx?house=Senate&district=7

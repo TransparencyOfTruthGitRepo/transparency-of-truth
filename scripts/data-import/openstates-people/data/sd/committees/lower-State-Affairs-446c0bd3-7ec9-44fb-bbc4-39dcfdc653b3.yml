@@ -1,0 +1,65 @@
+id: ocd-organization/446c0bd3-7ec9-44fb-bbc4-39dcfdc653b3
+jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+classification: committee
+name: State Affairs
+chamber: lower
+sources:
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1166
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1203
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/68
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/69
+- url: https://sdlegislature.gov/Session/Committee/1166/Detail
+- url: https://sdlegislature.gov/Session/Committee/1203/Detail
+- url: https://sdlegislature.gov/Session/Committee/1237/Detail
+- url: https://sdlegislature.gov/Session/Committee/1272/Detail
+links:
+- url: https://sdlegislature.gov/Session/Committee/1166/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1203/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1237/Detail
+- url: https://sdlegislature.gov/Session/Committee/1272/Detail
+members:
+- name: Scott Odenbach
+  role: chair
+  person_id: ocd-person/18602d7b-fb7f-495b-bf94-2b0da2aae00f
+- name: Marty Overweg
+  role: vice chair
+  person_id: ocd-person/7dc4b8d9-148b-4622-a6de-b27dc27030be
+- name: Brandei Schaefbauer
+  role: member
+  person_id: ocd-person/713ca571-304b-48f0-a853-b49fa859134e
+- name: Eric Emery
+  role: member
+  person_id: ocd-person/589ced64-f78f-447d-ab9a-8ead6965c61b
+- name: Erin Healy
+  role: member
+  person_id: ocd-person/85bda678-d416-4caa-b439-8a579288f2ec
+- name: Greg Jamison
+  role: member
+  person_id: ocd-person/fe9a44c7-7241-4395-98e3-8445b1bc2d54
+- name: Jessica Bahmuller
+  role: member
+  person_id: ocd-person/7d5691be-08ff-4684-978d-81aaa8bdd99b
+- name: Jon Hansen
+  role: member
+  person_id: ocd-person/912b0c53-5674-42b0-8f22-8ccd01c3264c
+- name: Karla Lems
+  role: member
+  person_id: ocd-person/0c864308-04a8-4b22-af5b-5d718046b99f
+- name: Les Heinemann
+  role: member
+  person_id: ocd-person/950b0ec2-1c69-4c81-ab1d-c61464519e26
+- name: Liz May
+  role: member
+  person_id: ocd-person/2b581087-9814-4f0d-80e5-b29a6e7aee67
+- name: Spencer Gosch
+  role: member
+  person_id: ocd-person/138b5508-01b0-43ed-b8b6-ce9b9d07806f
+- name: Tim Reisch
+  role: member
+  person_id: ocd-person/3c82e6e9-348f-40cd-818e-76d4901d9ec5
+other_names:
+- name: House Committee on State Affairs
+- name: House State Affairs
+- name: House State Affairs Committee

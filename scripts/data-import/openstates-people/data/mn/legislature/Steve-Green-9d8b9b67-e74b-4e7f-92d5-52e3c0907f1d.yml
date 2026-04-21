@@ -1,0 +1,41 @@
+id: ocd-person/9d8b9b67-e74b-4e7f-92d5-52e3c0907f1d
+name: Steve Green
+given_name: Steve
+family_name: Green
+birth_date: 1960-05-28
+gender: Male
+email: sen.steve.green@mnsenate.gov
+image: https://www.senate.mn/graphics/02Green.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '2'
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 2B
+offices:
+- classification: capitol
+  address: Room 2319, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-297-8063
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1251
+other_names:
+- name: Green, S.
+- name: S. Green
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000409
+- scheme: legacy_openstates
+  identifier: MNL000621
+sources:
+- url: https://ballotpedia.org/Steve_Green_(Minnesota)
+- url: https://en.wikipedia.org/wiki/Steve_Green_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/109054/steve-green
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1251

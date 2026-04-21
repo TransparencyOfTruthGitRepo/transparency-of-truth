@@ -1,0 +1,20 @@
+id: ocd-person/22bd80dd-587d-4cea-ad5e-f803808e7cba
+name: Julie M Brown
+given_name: Julie
+family_name: Brown
+middle_name: M
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 1
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=374066
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000059
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members(Asterisk%20Delimited).txt

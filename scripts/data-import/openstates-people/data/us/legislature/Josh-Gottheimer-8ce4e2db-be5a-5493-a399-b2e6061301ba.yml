@@ -1,0 +1,92 @@
+id: ocd-person/8ce4e2db-be5a-5493-a399-b2e6061301ba
+name: Josh Gottheimer
+given_name: Josh
+family_name: Gottheimer
+birth_date: 1975-03-08
+gender: Male
+email: https://gottheimer.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/G000583.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NJ-5
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NJ-5
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NJ-5
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NJ-5
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NJ-5
+offices:
+- classification: capitol
+  address: 106 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-4465
+  fax: 202-225-9048
+- classification: district
+  address: 21-00 NJ 208 South Suite 240, Fair Lawn, NJ 07410
+  voice: 201-389-1100
+- classification: district
+  address: 93 Spring St. Suite 408, Newton, NJ 07860
+  voice: 973-940-1117
+links:
+- url: https://gottheimer.house.gov
+  note: website
+- url: https://gottheimer.house.gov/
+other_names:
+- name: Gottheimer, J.
+- name: J. Gottheimer
+- name: J.S. Gottheimer
+ids:
+  twitter: RepJoshG
+  facebook: RepJoshG
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Josh Gottheimer
+- scheme: bioguide
+  identifier: G000583
+- scheme: cspan
+  identifier: '9275683'
+- scheme: fec
+  identifier: H6NJ05171
+- scheme: google_entity_id
+  identifier: kg:/g/120x5twv
+- scheme: govtrack
+  identifier: '412714'
+- scheme: icpsr
+  identifier: '21723'
+- scheme: maplight
+  identifier: '2226'
+- scheme: opensecrets
+  identifier: N00036944
+- scheme: pictorial
+  identifier: '13154'
+- scheme: votesmart
+  identifier: '169202'
+- scheme: wikidata
+  identifier: Q6288908
+sources:
+- url: https://ballotpedia.org/Josh_Gottheimer
+- url: https://en.wikipedia.org/wiki/Josh_Gottheimer
+- url: https://gottheimer.house.gov
+- url: https://justfacts.votesmart.org/candidate/biography/169202/joshua-gottheimer
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/josh_gottheimer/412714
+- url: https://www.linkedin.com/in/josh-gottheimer-9ab42823

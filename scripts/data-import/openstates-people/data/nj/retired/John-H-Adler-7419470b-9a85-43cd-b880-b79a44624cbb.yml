@@ -1,0 +1,18 @@
+id: ocd-person/7419470b-9a85-43cd-b880-b79a44624cbb
+name: John H. Adler
+given_name: John
+family_name: Adler
+middle_name: H.
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2009-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '6'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000137
+sources:
+- url: ftp://www.njleg.state.nj.us/ag/2008data/ROSTER.DBF

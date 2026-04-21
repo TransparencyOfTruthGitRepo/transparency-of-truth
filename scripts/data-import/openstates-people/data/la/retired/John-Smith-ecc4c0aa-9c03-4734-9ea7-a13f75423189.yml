@@ -1,0 +1,24 @@
+id: ocd-person/ecc4c0aa-9c03-4734-9ea7-a13f75423189
+name: John Smith
+given_name: John
+family_name: Smith
+party:
+- name: Republican
+roles:
+- end_date: '2020-01-13'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '30'
+links:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=30
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000169
+- scheme: legacy_openstates
+  identifier: LAL000316
+- scheme: legacy_openstates
+  identifier: LAL000516
+- scheme: legacy_openstates
+  identifier: LAL000843
+sources:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=30

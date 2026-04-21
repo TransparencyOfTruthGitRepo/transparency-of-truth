@@ -1,0 +1,39 @@
+id: ocd-person/e0ac3b1f-565d-4766-b83d-3f08d6c0116b
+name: Jami Cate
+given_name: Jami
+family_name: Cate
+gender: Female
+email: rep.jamicate@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/cate/PublishingImages/member_photo.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '11'
+- start_date: 2021-01-11
+  end_date: 2023-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '11'
+- end_date: 2023-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '17'
+offices:
+- classification: capitol
+  address: Room H-381, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1411
+links:
+- url: https://www.oregonlegislature.gov/cate
+  note: homepage
+other_names:
+- name: Cate, J.
+- name: J. Cate
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Jami_Cate
+- url: https://en.wikipedia.org/wiki/Jami_Cate
+- url: https://www.oregonlegislature.gov/cate

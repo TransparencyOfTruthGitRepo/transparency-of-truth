@@ -1,0 +1,44 @@
+id: ocd-person/4c88ce64-4ba6-4f5e-a22f-86bf6a0d5b7f
+name: Gina Curry
+given_name: Gina
+family_name: Curry
+birth_date: 1972-10-23
+gender: Female
+email: repcurry@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/1932.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2021-12-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '164'
+offices:
+- classification: capitol
+  address: Room 25A, East Wing P.O. Box 202164, Harrisburg, PA 17120
+  voice: 717-783-4907
+- classification: district
+  address: Barclay Square Shopping Center 1500 Garrett Road, Upper Darby, PA 19082
+  voice: 610-259-7016
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1932
+  note: homepage
+- url: https://www.pahouse.com/Curry/
+- url: https://www.palegis.us/house/members/bio/1932/rep-curry
+other_names:
+- name: Curry, G.
+- name: G. Curry
+- name: G.H. Curry
+- name: Gina H. Curry
+sources:
+- url: https://ballotpedia.org/Gina_Curry
+- url: https://en.wikipedia.org/wiki/Gina_Curry
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1932
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.linkedin.com/in/gina-hackett-curry-09603411
+- url: https://www.pahouse.com/Curry
+- url: https://www.palegis.us/house/members/bio/1932/rep-curry
+extras:
+  Education:
+  - Institute of Notre Dame, 1990 High School Diploma
+  - Saint Joseph University, 1994 Undergraduate Degree, 1996 Master Degree

@@ -1,0 +1,56 @@
+id: ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493
+name: Bobby Singleton
+given_name: Bobby
+family_name: Singleton
+birth_date: 1962-03-25
+gender: Male
+email: bsingle362@gmail.com
+image: https://www.legislature.state.al.us/pdf/senate/members/Singleton_24.png
+party:
+- name: Democratic
+roles:
+- start_date: 2005-01-26
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '24'
+- start_date: 2002-11-06
+  end_date: 2005-01-25
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '24'
+offices:
+- classification: capitol
+  address: Room 740, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0335
+links:
+- url: https://alison.legislature.state.al.us/senate-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100467&OID_PERSON=4471
+other_names:
+- name: B. Singleton
+- name: B.D. Singleton
+- name: Bobby D. Singleton
+- name: Singleton, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000028
+- scheme: legacy_openstates
+  identifier: ALL000446
+- scheme: legacy_openstates
+  identifier: ALL000300
+- scheme: legacy_openstates
+  identifier: ALL000505
+- scheme: legacy_openstates
+  identifier: ALL000534
+sources:
+- url: https://ballotpedia.org/Bobby_Singleton
+- url: https://en.wikipedia.org/wiki/Bobby_Singleton_(politician)
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/27551/bobby-singleton
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Singleton&OID_SPONSOR=100467&OID_PERSON=4471&SESSNAME=Regular%20Session%202022
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100467&OID_PERSON=4471
+- url: https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+extras:
+  counties: Choctaw County, Greene County, Hale County, Marengo County, Sumter County,
+    Tuscaloosa County

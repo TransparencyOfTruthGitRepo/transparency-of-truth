@@ -1,0 +1,21 @@
+id: ocd-person/208012dd-f741-412c-9727-d7e8aa0fe8b0
+name: Mark Vallone
+given_name: Mark
+family_name: Vallone
+email: Mark.Vallone@leg.state.nh.us
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 9
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408911
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+extras:
+  first_name: Mark
+  last_name: Vallone
+  middle_name: ''

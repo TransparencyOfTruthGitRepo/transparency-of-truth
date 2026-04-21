@@ -1,0 +1,49 @@
+id: ocd-person/10b42647-1509-4e86-9155-4622c2d17315
+name: Sara Gelser Blouin
+given_name: Sara
+family_name: Gelser Blouin
+birth_date: 1973-12-20
+gender: Female
+email: sen.saragelser@oregonlegislature.gov
+image: http://www.oregonlegislature.gov/senate/MemberPhotos/gelser.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-12
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room S-211, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1708
+links:
+- url: https://www.oregonlegislature.gov/gelser
+  note: homepage
+other_names:
+- name: Gelser Blouin, S.
+- name: S. Gelser Blouin
+- name: S.A. Gelser Blouin
+- name: Sara Gelser
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000052
+- scheme: legacy_openstates
+  identifier: ORL000201
+- scheme: legacy_openstates
+  identifier: ORL000244
+- scheme: legacy_openstates
+  identifier: ORL000330
+- scheme: legacy_openstates
+  identifier: ORL000272
+- scheme: legacy_openstates
+  identifier: ORL000368
+- scheme: legacy_openstates
+  identifier: ORL000392
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Sara_Gelser
+- url: https://en.wikipedia.org/wiki/Sara_Gelser
+- url: https://www.linkedin.com/in/sara-gelser-blouin-397a983b
+- url: https://www.oregonlegislature.gov/gelser

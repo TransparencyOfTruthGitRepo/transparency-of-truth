@@ -1,0 +1,70 @@
+id: ocd-person/3016494b-fa9f-4f79-8530-7bd26120a31e
+name: Jim Wooten
+given_name: Jim
+family_name: Wooten
+birth_date: 1941-09-20
+gender: Male
+email: wjewooten@aol.com
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/547_sm.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '59'
+- start_date: 2019-01-14
+  end_date: 2023-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '59'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '45'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+- classification: district-mail
+  address: P.O. Box 1330, Beebe, AR 72012
+  voice: 501-858-7403
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Wooten
+- url: https://www.arkansashouse.org/district/59
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Wooten
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Wooten&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Wooten&ddBienniumSession=2021%2F2021R
+other_names:
+- name: J. Wooten
+- name: J.E. Wooten
+- name: Wooten
+- name: Wooten, J.
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Jim_Wooten
+- scheme: followthemoney
+  identifier: '44492084'
+- scheme: votesmart
+  identifier: '178515'
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Wooten
+- url: https://ballotpedia.org/Jim_Wooten
+- url: https://en.wikipedia.org/wiki/Jim_Wooten_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/178515/jim-wooten
+- url: https://www.arkansashouse.org/district/59
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Wooten
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Wooten&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Wooten&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Wooten&ddBienniumSession=2021%2F2021S1
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Wooten&ddBienniumSession=2021%2F2022F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Wooten&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2021%2F2021S1#SearchResults
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+extras:
+  seniority: '44'
+  occupation: Retired
+  church affiliation: Baptist
+  veteran: 'No'
+  public service: First Term 2018

@@ -1,0 +1,22 @@
+id: ocd-person/487ba9b1-9634-4a8a-aa14-8b5535b1b343
+name: Dan Gasaway
+given_name: Dan
+family_name: Gasaway
+image: http://www.house.ga.gov/SiteCollectionImages/GasawayDan820.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '28'
+links:
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=820&Session=25
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000287
+sources:
+- url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=820&Session=25
+extras:
+  guid: 820

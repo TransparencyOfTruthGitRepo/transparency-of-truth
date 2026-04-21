@@ -1,0 +1,21 @@
+id: ocd-person/b3e32753-5dfb-4e39-8b53-babeeb3fb996
+name: Mark Gjonaj
+given_name: Mark
+family_name: Gjonaj
+image: http://assembly.state.ny.us/mem/pic/080.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '80'
+links:
+- url: http://assembly.state.ny.us/mem/?sh=email
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000267
+sources:
+- url: http://assembly.state.ny.us/mem/Mark-Gjonaj
+- url: http://cityandstateny.com/articles/politics/campaigns-and-elections/state-lawmaker-open-seats-in-albany-who-replaces-them.html

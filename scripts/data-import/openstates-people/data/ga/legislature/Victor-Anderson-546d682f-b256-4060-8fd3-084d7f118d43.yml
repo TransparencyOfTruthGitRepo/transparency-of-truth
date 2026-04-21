@@ -1,0 +1,59 @@
+id: ocd-person/546d682f-b256-4060-8fd3-084d7f118d43
+name: Victor Anderson
+given_name: Victor
+family_name: Anderson
+birth_date: 1967-02-21
+gender: Male
+email: victor.anderson@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/anderson-victor-4989.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '10'
+offices:
+- classification: capitol
+  address: Room 612-H, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0325
+- classification: district-mail
+  address: P.O. Box 1261, Cornelia, GA 30531
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4989
+- url: https://www.legis.ga.gov/members/house/4989?session=1029
+- url: https://www.legis.ga.gov/members/house/4989?session=1031
+  note: HTML member detail page
+other_names:
+- name: ANDERSON, 10TH
+- name: Anderson, V.
+- name: V. Anderson
+- name: V.E. Anderson
+- name: Victor Anderson
+- name: Victor Edward Anderson
+sources:
+- url: https://ballotpedia.org/Victor_Anderson
+- url: https://en.wikipedia.org/wiki/Victor_Anderson_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/158056/victor-anderson
+- url: https://www.legis.ga.gov/api/members/detail/4989?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4989?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4989
+- url: https://www.legis.ga.gov/members/house/4989?session=1029
+- url: https://www.linkedin.com/in/victor-anderson-391a8613
+extras:
+  residence: Cornelia
+  city: Cornelia
+  georgia_id: 4989
+  birthday: February 21
+  occupation: Small Business Owner
+  press: https://house-press.com/representative/Victor-Anderson
+  spouse: Kimberly
+  staff: Chelsea Bell - Administrative Assistant
+  staff email: chelsea.bell@house.ga.gov

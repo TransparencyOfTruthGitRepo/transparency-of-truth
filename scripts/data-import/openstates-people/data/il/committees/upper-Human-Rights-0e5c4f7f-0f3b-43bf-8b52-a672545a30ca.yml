@@ -1,0 +1,49 @@
+id: ocd-organization/0e5c4f7f-0f3b-43bf-8b52-a672545a30ca
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: Human Rights
+chamber: upper
+sources:
+- url: https://www.ilga.gov/senate/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=2946
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=3109
+- url: https://www.ilga.gov/Senate/Committees/Members/3109
+links:
+- url: https://www.ilga.gov/senate/committees/default.asp
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=2946
+  note: homepage
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=3109
+- url: https://www.ilga.gov/Senate/Committees/Members/3109
+members:
+- name: Rachel Ventura
+  role: chair
+  person_id: ocd-person/ed666567-961a-43f1-8ca3-ddd29e07f8af
+- name: Lakesia Collins
+  role: vice chair
+  person_id: ocd-person/37f0e4e6-fd0c-4bae-8def-f0ab80f722ff
+- name: Sue Rezin
+  role: republican spokesperson
+  person_id: ocd-person/a1ac69ba-49db-4529-926f-999e73ef9654
+- name: Dave Syverson
+  role: member
+  person_id: ocd-person/d02beb7e-1f30-48f2-8418-4c9287452562
+- name: Emil Jones
+  role: member
+  person_id: ocd-person/05030c23-9600-4d1c-ab77-46c17aec2059
+- name: "Graciela Guzm\xE1n"
+  role: member
+  person_id: ocd-person/95d8f5ae-4cc9-483b-913f-ccd07aa73e13
+- name: Laura Ellman
+  role: member
+  person_id: ocd-person/9bc8c9e8-ed36-42a1-ae80-4b2dfe591839
+- name: Mark Walker
+  role: member
+  person_id: ocd-person/d1c2870a-8fee-47bf-a48e-4320311f06fd
+- name: Seth Lewis
+  role: member
+  person_id: ocd-person/0b9e2838-eeb0-4d10-8292-64a9e9f54dc1
+other_names:
+- name: Senate Committee on Human Rights
+- name: Senate Human Rights
+- name: Senate Human Rights Committee

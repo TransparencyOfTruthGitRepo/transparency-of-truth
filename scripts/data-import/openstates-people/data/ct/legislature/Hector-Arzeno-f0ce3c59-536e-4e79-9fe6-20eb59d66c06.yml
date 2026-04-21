@@ -1,0 +1,37 @@
+id: ocd-person/f0ce3c59-536e-4e79-9fe6-20eb59d66c06
+name: Hector Arzeno
+given_name: Hector
+family_name: Arzeno
+birth_date: 1947-09-30
+gender: Male
+email: hector.arzeno@cga.ct.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '151'
+offices:
+- classification: capitol
+  address: Room 4028, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://www.housedems.ct.gov/arzeno
+- url: https://www.housedems.ct.gov/Arzeno
+other_names:
+- name: Arzeno, H.
+- name: H. Arzeno
+- name: H.E. Arzeno
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Hector_Arzeno
+- url: https://en.wikipedia.org/wiki/Hector_Arzeno
+- url: https://justfacts.votesmart.org/candidate/biography/193755/hector-arzeno
+- url: https://www.housedems.ct.gov/Arzeno
+- url: https://www.linkedin.com/in/hector-arzeno-40b8b65a
+extras:
+  gender: Male
+  committees: Education; Environment; Higher Education and Employment Advancement
+  committee codes: ;ED;ENV;HED;
+  prison: '0'

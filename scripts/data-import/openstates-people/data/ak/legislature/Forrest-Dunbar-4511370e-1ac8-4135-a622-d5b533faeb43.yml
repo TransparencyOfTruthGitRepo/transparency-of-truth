@@ -1,0 +1,44 @@
+id: ocd-person/4511370e-1ac8-4135-a622-d5b533faeb43
+name: Forrest Dunbar
+given_name: Forrest
+family_name: Dunbar
+birth_date: 1984-09-19
+gender: Male
+email: senator.forrest.dunbar@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/DNB.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-17
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: J
+offices:
+- classification: capitol
+  address: State Capitol Room 125, 120 4th St., Juneau, AK 99801
+  voice: 907-465-6944
+- classification: district
+  address: 1500 W. Benson Blvd., Anchorage, AK 99503
+  voice: 907-269-0246
+links:
+- url: https://alaskasenate.org/dunbar/
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=dnb
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=dnb
+other_names:
+- name: Dunbar, F.
+- name: F. Dunbar
+- name: F.A. Dunbar
+- name: Forrest A. Dunbar
+sources:
+- url: https://alaskasenate.org/dunbar
+- url: https://ballotpedia.org/Forrest_Dunbar
+- url: https://en.wikipedia.org/wiki/Forrest_Dunbar
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=DNB
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=dnb
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=dnb
+- url: https://www.forrestdunbar.com
+- url: https://www.linkedin.com/in/forrest-dunbar-4a61b113
+extras:
+  toll_free_phone: 800-770-3822

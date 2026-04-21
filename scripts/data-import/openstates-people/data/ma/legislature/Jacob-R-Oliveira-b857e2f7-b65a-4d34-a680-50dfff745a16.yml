@@ -1,0 +1,51 @@
+id: ocd-person/b857e2f7-b65a-4d34-a680-50dfff745a16
+name: Jake Oliveira
+given_name: Jake
+family_name: Oliveira
+birth_date: 1986-07-06
+gender: Male
+email: jacob.oliveira@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/JRO0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Hampden, Hampshire and Worcester
+- start_date: 2021-01-06
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Hampden, Hampshire and Worcester
+- end_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 7th Hampden
+offices:
+- classification: capitol
+  address: Room 416-B, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1291
+links:
+- url: https://malegislature.gov/Legislators/Profile/JRO0
+- url: https://malegislature.gov/Legislators/Profile/JRO1
+other_names:
+- name: J. Oliveira
+- name: J.R. Oliveira
+- name: Jacob R. Oliveira
+- name: Oliveira, J.
+sources:
+- url: https://ballotpedia.org/Jacob_Oliveira
+- url: https://en.wikipedia.org/wiki/Jacob_Oliveira
+- url: https://justfacts.votesmart.org/candidate/194843/jake-oliveira
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/JRO1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/JRO0
+- url: https://malegislature.gov/Legislators/Profile/JRO0
+- url: https://malegislature.gov/Legislators/Profile/JRO1
+- url: https://www.linkedin.com/in/jake-oliveira-730b0117
+extras:
+  member code: JRO0

@@ -1,0 +1,65 @@
+id: ocd-person/16654889-3b48-44d6-a6d3-8da5d7a434f1
+name: Peter Schmidt
+given_name: Peter
+family_name: Schmidt
+gender: Male
+email: peterbarrettschmidt@gmail.com
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/45280.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 14
+- start_date: 2002-12-04
+  end_date: 2012-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 14
+- start_date: 2012-12-01
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 14
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 19
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=376521
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376521
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=496
+  note: member detail page
+other_names:
+- name: P. Schmidt
+- name: P.B. Schmidt
+- name: Peter B. Schmidt
+- name: Schmidt, P.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000337
+- scheme: legacy_openstates
+  identifier: NHL000725
+- scheme: legacy_openstates
+  identifier: NHL000849
+sources:
+- url: https://ballotpedia.org/Peter_Schmidt_(New_Hampshire)
+- url: https://en.wikipedia.org/wiki/Peter_B._Schmidt
+- url: https://gc.nh.gov/house/members/member.aspx?member=376521
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/42754/peter-schmidt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376521
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=496
+extras:
+  county: Strafford
+  elected status: Incumbent
+  gender code: M

@@ -1,0 +1,51 @@
+id: ocd-person/fb97b139-c0dd-41b5-ae52-159528f47b11
+name: Becca Rausch
+given_name: Becca
+family_name: Rausch
+birth_date: 1979-08-31
+gender: Female
+email: becca.rausch@masenate.gov
+image: https://www.brandeis.edu/now/2019/january/images/rausch620.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Norfolk, Worcester and Middlesex
+- start_date: 2019-01-02
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Norfolk, Worcester and Middlesex
+- end_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Norfolk, Bristol and Middlesex
+offices:
+- classification: capitol
+  address: Room 215, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1555
+links:
+- url: https://malegislature.gov/Legislators/Profile/RLR0
+- url: https://www.beccarauschma.com/
+other_names:
+- name: B. Rausch
+- name: R.L. Rausch
+- name: Rausch, B.
+- name: Rebecca L. Rausch
+sources:
+- url: https://ballotpedia.org/Becca_Rausch
+- url: https://en.wikipedia.org/wiki/Becca_Rausch
+- url: https://justfacts.votesmart.org/candidate/biography/184660/becca-rausch
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/RLR0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/RLR0
+- url: https://malegislature.gov/Legislators/Profile/RLR0
+- url: https://www.beccarauschma.com
+- url: https://www.linkedin.com/in/becca-rausch-5254235
+extras:
+  member code: RLR0

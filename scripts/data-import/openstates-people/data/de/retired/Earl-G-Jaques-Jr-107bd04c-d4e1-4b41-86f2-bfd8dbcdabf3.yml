@@ -1,0 +1,24 @@
+id: ocd-person/107bd04c-d4e1-4b41-86f2-bfd8dbcdabf3
+name: Earl G. Jaques Jr.
+given_name: Earl G.
+family_name: Jaques
+email: Earl.Jaques@state.de.us
+image: https://legis.delaware.gov/images/default-source/default-album/EarlJaques.jpg?sfvrsn=0
+party:
+- name: Democratic
+roles:
+- end_date: '2020-11-03'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:de/government
+  district: '27'
+links:
+- url: https://legis.delaware.gov/LegislatorDetail?personId=111
+  note: legislator page
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: DEL000143
+- scheme: legacy_openstates
+  identifier: DEL000157
+sources:
+- url: https://legis.delaware.gov/House
+  note: legislator list page

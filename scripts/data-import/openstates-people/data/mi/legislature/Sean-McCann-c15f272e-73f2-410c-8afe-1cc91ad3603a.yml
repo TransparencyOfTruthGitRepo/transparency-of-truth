@@ -1,0 +1,55 @@
+id: ocd-person/c15f272e-73f2-410c-8afe-1cc91ad3603a
+name: Sean McCann
+given_name: Sean
+family_name: McCann
+birth_date: 1971-09-21
+gender: Male
+email: sensmccann@senate.michigan.gov
+image: https://senatedems.com/mccann/wp-content/uploads/sites/20/2022/12/MDS_McCann_DSC5430.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '19'
+- start_date: 2011-01-01
+  end_date: 2014-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '60'
+- end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Room 7100, Binsfeld Building P.O. Box 30036, Lansing, MI 48909
+  voice: 517-373-5100
+  fax: 517-373-5115
+links:
+- url: https://senatedems.com/mccann
+  note: Member Page
+- url: https://senatedems.com/mccann/
+- url: https://senatedems.com/mccann/contact
+  note: Contact
+other_names:
+- name: McCann, S.
+- name: S. McCann
+- name: S.A. McCann
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000098
+- scheme: openstates
+  identifier: ocd-person/29bfbb5e-dfb5-4fc4-9bdc-a7a2b447bfaa
+sources:
+- url: https://ballotpedia.org/Sean_McCann
+- url: https://en.wikipedia.org/wiki/Sean_McCann_(politician)
+- url: https://senate.michigan.gov/senatorinfo_list.html
+- url: https://senate.michigan.gov/senators/SenatorData.json
+  note: Members List JSON Data Page
+- url: https://senate.michigan.gov/senators/senatorinfo_list.html
+  note: Members List HTML page
+- url: https://senatedems.com/mccann
+- url: https://senatedems.com/mccann/
+- url: https://www.linkedin.com/in/sean-mccann-3164a3

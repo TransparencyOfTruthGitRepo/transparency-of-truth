@@ -1,0 +1,61 @@
+id: ocd-person/c3cdd26f-1314-4366-89f6-17c4c540bce9
+name: Mike Brady
+given_name: Mike
+family_name: Brady
+birth_date: 1962-05-05
+gender: Male
+email: michael.brady@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/MDB0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Second Plymouth and Norfolk
+- start_date: 2009-01-06
+  end_date: 2015-11-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Second Plymouth and Norfolk
+- start_date: 2015-11-03
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Second Plymouth and Norfolk
+- end_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Second Plymouth and Bristol
+offices:
+- classification: capitol
+  address: Room 416-A, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1200
+links:
+- url: https://malegislature.gov/Legislators/Profile/MDB0
+- url: https://senatormikebrady.org/
+other_names:
+- name: Brady, M.
+- name: M. Brady
+- name: M.D. Brady
+- name: Michael D. Brady
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000058
+- scheme: legacy_openstates
+  identifier: MAL000391
+sources:
+- url: https://ballotpedia.org/Michael_Brady
+- url: https://en.wikipedia.org/wiki/Michael_Brady_%28politician%29
+- url: https://justfacts.votesmart.org/candidate/biography/74825/michael-brady
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/MDB0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/MDB0
+- url: https://malegislature.gov/Legislators/Profile/MDB0
+- url: https://senatormikebrady.org
+- url: https://www.linkedin.com/in/bradybrockton
+extras:
+  member code: MDB0

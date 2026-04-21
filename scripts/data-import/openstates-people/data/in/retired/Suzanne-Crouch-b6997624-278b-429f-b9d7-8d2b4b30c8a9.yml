@@ -1,0 +1,22 @@
+id: ocd-person/b6997624-278b-429f-b9d7-8d2b4b30c8a9
+name: Suzanne Crouch
+given_name: Suzanne
+family_name: Crouch
+image: http://www.in.gov/legislative/house_republicans/homepages/images/thumbnails/r78thumb.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '78'
+links:
+- url: http://www.in.gov/h78
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: INL000069
+sources:
+- url: http://www.in.gov/cgi-bin/legislative/listing/listing-2.pl?data=alpha&chamber=House
+- url: http://www.in.gov/h78
+- url: http://www.in.gov/legislative/house_republicans/members.html

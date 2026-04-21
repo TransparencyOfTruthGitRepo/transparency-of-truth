@@ -1,0 +1,139 @@
+id: ocd-person/8fe2b037-b8ff-5161-9bb4-196e9f1d9dca
+name: Roger Wicker
+given_name: Roger
+family_name: Wicker
+birth_date: 1951-07-05
+gender: Male
+email: https://www.wicker.senate.gov/email-me
+image: https://unitedstates.github.io/images/congress/450x550/W000437.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2007-12-18
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Mississippi
+- start_date: 2019-01-03
+  end_date: 2025-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Mississippi
+- start_date: 2013-01-03
+  end_date: 2019-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Mississippi
+- start_date: 2007-12-31
+  end_date: 2013-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Mississippi
+- start_date: 2007-01-04
+  end_date: 2007-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MS-1
+- start_date: 2005-01-04
+  end_date: 2007-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MS-1
+- start_date: 2003-01-07
+  end_date: 2005-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MS-1
+- start_date: 2001-01-03
+  end_date: 2003-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MS-1
+- start_date: 1999-01-06
+  end_date: 2001-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MS-1
+- start_date: 1997-01-07
+  end_date: 1999-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MS-1
+- start_date: 1995-01-04
+  end_date: 1997-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MS-1
+offices:
+- classification: capitol
+  address: 425 Russell Senate Office Building, Washington, DC 20510
+  voice: 202-224-6253
+- classification: district
+  address: 2909 13th St., Suite 303 3rd Floor, Gulfport, MS 39501
+  voice: 228-871-7017
+- classification: district
+  address: U.S. Federal Courthouse 501 E. Court St., Suite 3-500, Jackson, MS 39201
+  voice: 601-965-4644
+- classification: district-mail
+  address: P.O. Box 3777 330 W. Jefferson St., Suite B, Tupelo, MS 38804
+  voice: 662-844-5010
+  fax: 662-844-5030
+- classification: district-mail
+  address: P.O. Box 385 321 Losher St., Hernando, MS 38632
+  voice: 662-429-1002
+links:
+- url: https://www.wicker.senate.gov
+  note: website
+- url: https://www.wicker.senate.gov/
+- url: https://www.wicker.senate.gov/public/index.cfm/contact
+  note: contact form
+other_names:
+- name: R. Wicker
+- name: R.F. Wicker
+- name: Roger F. Wicker
+- name: Wicker, R.
+ids:
+  twitter: SenatorWicker
+  youtube: UCIlKHiTjSkcQP_knBcXHWSg
+  facebook: SenatorWicker
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Roger Wicker
+- scheme: bioguide
+  identifier: W000437
+- scheme: cspan
+  identifier: '18203'
+- scheme: fec
+  identifier: H4MS01078
+- scheme: google_entity_id
+  identifier: kg:/m/025xxb
+- scheme: govtrack
+  identifier: '400432'
+- scheme: house_history
+  identifier: '23734'
+- scheme: icpsr
+  identifier: '29534'
+- scheme: lis
+  identifier: S318
+- scheme: maplight
+  identifier: '517'
+- scheme: opensecrets
+  identifier: N00003280
+- scheme: pictorial
+  identifier: '13373'
+- scheme: thomas
+  identifier: '01226'
+- scheme: votesmart
+  identifier: '21926'
+- scheme: wikidata
+  identifier: Q390491
+sources:
+- url: https://ballotpedia.org/Roger_Wicker
+- url: https://en.wikipedia.org/wiki/Roger_Wicker
+- url: https://justfacts.votesmart.org/candidate/biography/21926/roger-wicker
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/roger_wicker/400432
+- url: https://www.linkedin.com/in/roger-wicker-aa9616108
+- url: https://www.wicker.senate.gov
+- url: https://www.wicker.senate.gov/biography

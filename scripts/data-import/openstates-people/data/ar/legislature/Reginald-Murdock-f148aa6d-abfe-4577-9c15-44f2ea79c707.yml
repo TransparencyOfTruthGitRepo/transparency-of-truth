@@ -1,0 +1,78 @@
+id: ocd-person/f148aa6d-abfe-4577-9c15-44f2ea79c707
+name: Reginald Murdock
+given_name: Reginald
+family_name: Murdock
+birth_date: 1966-04-29
+gender: Male
+email: rkm_72360@yahoo.com
+image: https://www.arkleg.state.ar.us/Content/photos/2023/Senate/639_sm.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '9'
+- start_date: 2011-01-10
+  end_date: 2013-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '9'
+- start_date: 2013-01-14
+  end_date: 2023-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '9'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '48'
+offices:
+- classification: capitol
+  address: State Capitol Building 500 Woodlane St., Suite 320, Little Rock, AR 72201
+  voice: 501-682-2902
+- classification: district-mail
+  address: P.O. Box 1071, Marianna, AR 72360
+  voice: 501-940-5157
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=R.+Murdock
+- url: https://senate.arkansas.gov/senators/reginald-murdock/
+- url: https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FAssembly%2F2023%2FMember%20Profiles%2FSenator+Murdock+-+Senator+Bio.pdf
+  note: Biography
+- url: https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FAssembly%2F2023%2FMember%20Profiles%2FSenator+Murdock+-+Senator+Bio.pdf
+  note: Biography
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Murdock&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Murdock&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=R.+Murdock&ddBienniumSession=2023%2F2023R
+other_names:
+- name: Murdock
+- name: Murdock, R.
+- name: R. Murdock
+ids:
+  facebook: ReginaldMurdockAR
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Reginald_Murdock
+- scheme: followthemoney
+  identifier: '6458646'
+- scheme: legacy_openstates
+  identifier: ARL000088
+- scheme: legacy_openstates
+  identifier: ARL000225
+- scheme: votesmart
+  identifier: '27965'
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=R.+Murdock
+- url: https://ballotpedia.org/Reginald_Murdock
+- url: https://en.wikipedia.org/wiki/Reginald_Murdock
+- url: https://justfacts.votesmart.org/candidate/biography/27965/reginald-murdock
+- url: https://senate.arkansas.gov/senators/reginald-murdock
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Murdock&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Murdock&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Murdock&ddBienniumSession=2021%2F2021S1
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=R.+Murdock&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2021%2F2021S1#SearchResults
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+extras:
+  seniority: '23'
+  veteran: 'No'

@@ -1,0 +1,52 @@
+id: ocd-person/8ee6ee68-5ccb-4871-b815-6ed27c68c3ae
+name: Jim Qualey
+given_name: Jim
+family_name: Qualey
+gender: Male
+email: jim.qualey@gc.nh.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jim-Qualey.PNG
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 18
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 18
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 11
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-562-8951
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9875
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9875
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9875
+  note: member detail page
+other_names:
+- name: J. Qualey
+- name: James Qualey
+- name: James R. Qualey
+- name: Qualey, J.
+sources:
+- url: https://ballotpedia.org/Jim_Qualey
+- url: https://en.wikipedia.org/wiki/Jim_Qualey
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9875
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9875
+- url: https://justfacts.votesmart.org/candidate/194724/jim-qualey
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9875
+- url: https://www.linkedin.com/in/jim-qualey-232a0142
+extras:
+  county: Cheshire
+  elected status: Incumbent
+  gender code: M

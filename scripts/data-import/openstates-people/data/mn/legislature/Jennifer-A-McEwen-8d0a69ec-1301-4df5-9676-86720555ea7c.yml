@@ -1,0 +1,40 @@
+id: ocd-person/8d0a69ec-1301-4df5-9676-86720555ea7c
+name: Jen McEwen
+given_name: Jen
+family_name: McEwen
+gender: Female
+email: sen.jennifer.mcewen@senate.mn
+image: https://www.senate.mn/graphics/07McEwenJen.jpg
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '8'
+- start_date: 2021-01-05
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '7'
+offices:
+- classification: capitol
+  address: Room 3217, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-4188
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1241
+other_names:
+- name: J. McEwen
+- name: J.A. McEwen
+- name: Jennifer A. McEwen
+- name: McEwen, J.
+sources:
+- url: https://ballotpedia.org/Jen_McEwen
+- url: https://en.wikipedia.org/wiki/Jen_McEwen
+- url: https://justfacts.votesmart.org/candidate/biography/194018/jen-mcewen
+- url: https://www.linkedin.com/in/jennifer-mcewen-aa13a6b8
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/index.php
+- url: https://www.senate.mn/members/list.csv
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1241

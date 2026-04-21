@@ -1,0 +1,29 @@
+id: ocd-person/03c06165-52b7-4d4a-bf27-e6fdfc4c46f4
+name: Justin Hill
+given_name: Justin
+family_name: Hill
+email: Justin.Hill@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=1784
+party:
+- name: Republican
+roles:
+- end_date: '2022-01-06'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '108'
+  end_reason: Moving to Florida
+links:
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=108
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=108
+other_names:
+- name: Hill, Justin
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MOL000408
+sources:
+- url: http://house.mo.gov/MemberGridCluster.aspx
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=108
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=108
+extras:
+  first_name: Justin
+  last_name: Hill

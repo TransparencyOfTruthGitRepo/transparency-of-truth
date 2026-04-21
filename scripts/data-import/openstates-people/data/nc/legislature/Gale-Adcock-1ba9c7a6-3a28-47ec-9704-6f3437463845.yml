@@ -1,0 +1,44 @@
+id: ocd-person/1ba9c7a6-3a28-47ec-9704-6f3437463845
+name: Gale Adcock
+given_name: Gale
+family_name: Adcock
+birth_date: 1954-01-25
+gender: Female
+email: gale.adcock@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/S/436/Low
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '16'
+- start_date: 2015-01-01
+  end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '41'
+offices:
+- classification: capitol
+  address: Room 1104, North Carolina Legislative Building 16 W. Jones St., Raleigh,
+    NC 27601
+  voice: 919-715-3036
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/436
+- url: https://www.ncleg.gov/Members/Committees/S/436
+- url: https://www.ncleg.gov/Members/IntroducedBills/S/436
+- url: https://www.ncleg.gov/Members/Votes/S/436
+other_names:
+- name: Adcock, G.
+- name: G. Adcock
+sources:
+- url: https://ballotpedia.org/Gale_Adcock
+- url: https://en.wikipedia.org/wiki/Gale_Adcock
+- url: https://www.linkedin.com/in/gale-adcock-8a306a7
+- url: https://www.ncleg.gov/Members/Biography/S/436
+- url: https://www.ncleg.gov/Members/MemberTable/S
+extras:
+  terms in senate: 1 (4 in House)
+  represented counties: Wake
+  legislative assistant: Elizabeth Sharpe
+  legislative assistant email: Elizabeth.Sharpe@ncleg.gov

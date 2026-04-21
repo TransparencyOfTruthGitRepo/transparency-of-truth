@@ -1,0 +1,21 @@
+id: ocd-person/20df1611-31cf-4300-9ffe-669f792434aa
+name: Kelvin E Butler
+given_name: Kelvin
+family_name: Butler
+middle_name: E
+image: http://billstatus.ls.state.ms.us/members/senate/butler_(38th).jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2015-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '38'
+links:
+- url: http://billstatus.ls.state.ms.us/members/senate/butler_(38th).xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000174
+sources:
+- url: http://billstatus.ls.state.ms.us/members/senate/butler_(38th).xml

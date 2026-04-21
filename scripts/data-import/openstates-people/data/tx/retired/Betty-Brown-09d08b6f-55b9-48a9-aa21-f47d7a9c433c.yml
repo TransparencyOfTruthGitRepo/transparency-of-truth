@@ -1,0 +1,20 @@
+id: ocd-person/09d08b6f-55b9-48a9-aa21-f47d7a9c433c
+name: Betty Brown
+given_name: Betty
+family_name: Brown
+image: http://www.legdir.legis.state.tx.us/FlashCardDocs/images/House/small/A2265.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '4'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000225
+- scheme: legacy_openstates
+  identifier: TXL000043
+sources:
+- url: http://www.legdir.legis.state.tx.us/MemberInfo.aspx?Chamber=H&Code=A2265

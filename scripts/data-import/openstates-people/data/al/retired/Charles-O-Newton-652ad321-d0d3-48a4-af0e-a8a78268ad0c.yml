@@ -1,0 +1,22 @@
+id: ocd-person/652ad321-d0d3-48a4-af0e-a8a78268ad0c
+name: Charles O. Newton
+given_name: Charles
+family_name: Newton
+middle_name: O.
+image: http://www.legislature.state.al.us/graphics/housepics/newton_c.jpeg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '90'
+links:
+- url: http://www.legislature.state.al.us/house/representatives/housebios/hd090.html
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000112
+sources:
+- url: http://www.legislature.state.al.us/house/representatives/housebios/hd090.html
+- url: http://www.legislature.state.al.us/house/representatives/houseroster_alpha.html

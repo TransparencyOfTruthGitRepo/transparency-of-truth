@@ -1,0 +1,37 @@
+id: ocd-organization/45bbb859-270e-4483-9c65-bf3cd7606d98
+jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+classification: committee
+name: Commerce
+chamber: upper
+sources:
+- url: https://gc.nh.gov/Senate/committees/committee_details.aspx?cc=40
+- url: https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=40
+  note: Committee details page
+- url: https://www.gencourt.state.nh.us/Senate/committees/senate_committees.aspx
+  note: Committees list page
+links:
+- url: https://gc.nh.gov/Senate/committees/committee_details.aspx?cc=40
+- url: https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=40
+members:
+- name: Dan Innis
+  role: chair
+  person_id: ocd-person/6328e7f7-d952-4d28-98b8-75a9a6f50c8d
+- name: Denise Ricciardi
+  role: vice chair
+  person_id: ocd-person/8dc59c94-caba-41b2-a6ba-6bca0f595118
+- name: Donovan Fenton
+  role: member
+  person_id: ocd-person/8e013e93-3dd2-4530-a42f-d9ba62ea5f04
+- name: Keith Murphy
+  role: member
+  person_id: ocd-person/7ec573c3-d961-4d08-a71c-d239490b5c1a
+- name: Regina Birdsell
+  role: member
+  person_id: ocd-person/461c9024-c8c3-44a5-91d6-015a6587db5f
+- name: Tara Reardon
+  role: member
+  person_id: ocd-person/db4dc6cd-8c68-487f-a1e3-dd80995ba786
+other_names:
+- name: Senate Commerce
+- name: Senate Commerce Committee
+- name: Senate Committee on Commerce

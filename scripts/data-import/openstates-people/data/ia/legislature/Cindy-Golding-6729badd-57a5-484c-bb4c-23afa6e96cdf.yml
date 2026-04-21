@@ -1,0 +1,36 @@
+id: ocd-person/6729badd-57a5-484c-bb4c-23afa6e96cdf
+name: Cindy Golding
+given_name: Cindy
+family_name: Golding
+gender: Female
+email: cindy.golding@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33990
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '83'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33990&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33990
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33990
+other_names:
+- name: C. Golding
+- name: Golding, C.
+sources:
+- url: https://ballotpedia.org/Cindy_Golding
+- url: https://cindygolding.com/about
+- url: https://en.wikipedia.org/wiki/Cindy_Golding
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33990
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33990
+- url: https://www.linkedin.com/in/cindy-golding-42985740
+extras:
+  home email: cgolding@next20partners.com
+  occupation: Farmer/Small Business Owner - Sweet Maple Farms

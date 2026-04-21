@@ -1,0 +1,31 @@
+id: ocd-person/bd990496-ea34-4b79-8d6f-68cfed424c15
+name: Gabriel Sanchez
+given_name: Gabriel
+family_name: Sanchez
+birth_date: 1997-04-25
+gender: Male
+email: gabriel.sanchez@house.ga.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Gabriel_SanchezGA.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '42'
+offices:
+- classification: capitol
+  address: Room 411-G, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0126
+links:
+- url: https://www.legis.ga.gov/members/house/5068
+other_names:
+- name: G. Sanchez
+- name: SANCHEZ, 42ND
+- name: Sanchez, G.
+sources:
+- url: https://ballotpedia.org/Gabriel_Sanchez_(Georgia)
+- url: https://en.wikipedia.org/wiki/Gabriel_Sanchez_(politician)
+- url: https://www.legis.ga.gov/members/house/5068
+- url: https://www.linkedin.com/in/gabriel-a-sanchez

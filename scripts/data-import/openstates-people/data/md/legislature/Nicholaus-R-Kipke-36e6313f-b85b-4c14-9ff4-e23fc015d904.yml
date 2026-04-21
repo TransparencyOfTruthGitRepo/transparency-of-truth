@@ -1,0 +1,58 @@
+id: ocd-person/36e6313f-b85b-4c14-9ff4-e23fc015d904
+name: Nic Kipke
+given_name: Nic
+family_name: Kipke
+birth_date: 1979-01-26
+gender: Male
+email: nicholaus.kipke@house.maryland.gov
+image: https://mgaleg.maryland.gov/2025RS/images/kipke.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '31'
+- start_date: 2007-01-10
+  end_date: 2015-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '31'
+- start_date: 2015-01-14
+  end_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '31'
+- end_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 31B
+offices:
+- classification: capitol
+  address: Room 165, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3421
+  fax: 410-841-3553
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/kipke
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=kipke&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa14623.html
+other_names:
+- name: Kipke, N.
+- name: N. Kipke
+- name: N.R. Kipke
+- name: Nicholaus R. Kipke
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000309
+- scheme: legacy_openstates
+  identifier: MDL000543
+- scheme: legacy_openstates
+  identifier: MDL000626
+sources:
+- url: https://ballotpedia.org/Nicholaus_Kipke
+- url: https://en.wikipedia.org/wiki/Nic_Kipke
+- url: https://justfacts.votesmart.org/candidate/biography/67311/nic-kipke
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/kipke
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=kipke&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa14623.html
+- url: https://www.linkedin.com/in/nic-kipke-788713a

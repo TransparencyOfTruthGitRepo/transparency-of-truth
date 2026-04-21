@@ -1,0 +1,52 @@
+id: ocd-person/a1614a7c-f5f0-4fe1-a2b1-c8390e4bf106
+name: Brian Evans
+given_name: Brian
+family_name: Evans
+gender: Male
+email: brian.evans@arkansashouse.org
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/568_sm.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '68'
+- start_date: 2019-01-14
+  end_date: 2023-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '68'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+- classification: district-mail
+  address: P.O. Box 1365, Cabot, AR 72023
+  voice: 501-941-4002
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Evans
+- url: https://www.arkansashouse.org/district/68
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Evans
+other_names:
+- name: B. Evans
+- name: B.S. Evans
+- name: Brian S. Evans
+- name: Evans
+- name: Evans, B.
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Evans
+- url: https://ballotpedia.org/Brian_Evans_(Arkansas)
+- url: https://en.wikipedia.org/wiki/Brian_S._Evans
+- url: https://justfacts.votesmart.org/candidate/biography/178514/brian-evans
+- url: https://www.arkansashouse.org/district/68
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Evans
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Evans&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+- url: https://www.linkedin.com/in/brian-evans-ctb-3925b914
+extras:
+  seniority: '57'
+  occupation: Logistics
+  church affiliation: Baptist
+  veteran: 'No'
+  public service: First Term House 2019

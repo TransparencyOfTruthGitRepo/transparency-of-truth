@@ -1,0 +1,44 @@
+id: ocd-person/ae3ba290-90f6-4121-874d-ba80e16ccbe7
+name: Bill Whitmire
+given_name: Bill
+family_name: Whitmire
+birth_date: 1948-08-24
+gender: Male
+email: billwhitmire@schouse.gov
+image: https://scstatehouse.gov/images/members/1914204316.jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '1'
+offices:
+- classification: capitol
+  address: Room 436C, Blatt Building P.O. Box 11867, Columbia, SC 29201
+  voice: 803-734-3068
+links:
+- url: https://scstatehouse.gov/member.php?code=1914204316
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=1914204316
+  note: homepage
+other_names:
+- name: B. Whitmire
+- name: W.R. Whitmire
+- name: Whitmire, B.
+- name: Whitmire, Bill
+- name: Whitmire, William R.
+- name: William R. "Bill" Whitmire
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000167
+sources:
+- url: https://ballotpedia.org/Bill_Whitmire
+- url: https://en.wikipedia.org/wiki/Bill_Whitmire
+- url: https://justfacts.votesmart.org/candidate/biography/47969/william-whitmire
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=1914204316
+- url: https://www.scstatehouse.gov/member.php?chamber=H
+- url: https://www.scstatehouse.gov/member.php?code=1914204316
+extras:
+  Home Address Home Phone: (864) 638-2970
+  counties represented: Oconee & Pickens Counties

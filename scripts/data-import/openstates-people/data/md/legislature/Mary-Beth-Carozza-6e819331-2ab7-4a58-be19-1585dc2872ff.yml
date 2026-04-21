@@ -1,0 +1,47 @@
+id: ocd-person/6e819331-2ab7-4a58-be19-1585dc2872ff
+name: Mary Beth Carozza
+given_name: Mary Beth
+family_name: Carozza
+birth_date: 1961-02-13
+gender: Female
+email: marybeth.carozza@senate.maryland.gov
+image: http://mgaleg.maryland.gov/2016RS/images/carozza01.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '38'
+- start_date: 2015-01-14
+  end_date: 2019-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '38'
+- end_date: 2019-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 38C
+offices:
+- classification: capitol
+  address: Room 316, James Senate Office Building 11 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3645
+  fax: 410-841-3006
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/carozza02
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=carozza02&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa14149.html
+other_names:
+- name: Carozza, M.
+- name: M. Carozza
+- name: M.E.R. Carozza
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000695
+sources:
+- url: https://ballotpedia.org/Mary_Beth_Carozza
+- url: https://en.wikipedia.org/wiki/Mary_Beth_Carozza
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/carozza02
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=carozza02&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa14149.html
+- url: https://www.linkedin.com/in/marybethcarozzafordelegate

@@ -1,0 +1,22 @@
+id: ocd-person/19204af5-8b48-4851-a969-fb4239f7e464
+name: Steven M Perman
+given_name: Steven
+family_name: Perman
+middle_name: M
+image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4515.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '78'
+links:
+- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4515&SessionId=70
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: FLL000117
+sources:
+- url: http://www.flhouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4515&SessionId=70

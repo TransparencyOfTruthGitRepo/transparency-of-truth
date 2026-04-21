@@ -1,0 +1,57 @@
+id: ocd-person/22817a2c-911a-458a-b2a6-b7f237ef68f0
+name: Dave Marsden
+given_name: Dave
+family_name: Marsden
+birth_date: 1948-04-05
+gender: Male
+email: senatormarsden@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/Marsden35
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '35'
+- start_date: 2010-01-13
+  end_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '37'
+offices:
+- classification: capitol
+  address: Room 610, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7535
+- classification: district-mail
+  address: P.O. Box 10889, Burke, VA 22009
+  voice: 571-249-3037
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S80
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S80
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S80
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S80
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S80
+other_names:
+- name: D. Marsden
+- name: D.W. Marsden
+- name: David W. Marsden
+- name: Marsden, D.
+- name: Marsden, David W.
+ids:
+  twitter: SenDaveMarsden
+  facebook: Dave-Marsden-for-Senate-193359812373
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000013
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S80
+- url: https://ballotpedia.org/Dave_Marsden
+- url: https://en.wikipedia.org/wiki/David_W._Marsden
+- url: https://justfacts.votesmart.org/candidate/key-votes/58666/david-marsden
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S80
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S80
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S80
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S80
+- url: https://www.linkedin.com/in/dave-marsden-93552630

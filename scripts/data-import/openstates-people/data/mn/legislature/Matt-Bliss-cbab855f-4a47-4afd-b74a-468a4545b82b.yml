@@ -1,0 +1,43 @@
+id: ocd-person/cbab855f-4a47-4afd-b74a-468a4545b82b
+name: Matt Bliss
+given_name: Matt
+family_name: Bliss
+gender: Male
+email: rep.matt.bliss@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/02B.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 2B
+- end_date: 2019-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 5A
+- start_date: 2021-01-05
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 5A
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-5516
+links:
+- url: https://www.house.mn.gov/members/profile/15458
+other_names:
+- name: Bliss, M.
+- name: M. Bliss
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000733
+sources:
+- url: https://ballotpedia.org/Matt_Bliss
+- url: https://en.wikipedia.org/wiki/Matt_Bliss
+- url: https://justfacts.votesmart.org/candidate/biography/171445/matt-bliss
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15458
+- url: https://www.linkedin.com/in/matt-bliss-4aa454160
+- url: https://www.linkedin.com/in/matthew-bliss-9414624b

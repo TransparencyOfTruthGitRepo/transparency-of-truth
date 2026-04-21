@@ -1,0 +1,18 @@
+id: ocd-person/80a95fb7-e7a3-4b68-addd-66e0e1a66f24
+name: Melissa H. Ziobron
+given_name: Melissa H.
+family_name: Ziobron
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '34'
+links:
+- url: http://www.cthousegop.com/Ziobron/main/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000199
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

@@ -1,0 +1,43 @@
+id: ocd-person/ef5b60a6-d301-4433-8e85-6c14ba254011
+name: Sarah Lightner
+given_name: Sarah
+family_name: Lightner
+gender: Female
+email: sarahlightner@house.mi.gov
+image: https://dtj5wlj7ond0z.cloudfront.net/uploads/2021/04/HS_Lightner_0421_NSC_0141-scaled.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '45'
+- end_date: 2022-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '65'
+offices:
+- classification: capitol
+  address: Room N-894, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-1773
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/repsarahlightner/about
+- url: https://gophouse.org/representatives/central/lightner/
+other_names:
+- name: Lightner, S.
+- name: S. Lightner
+- name: S.L. Lightner
+sources:
+- url: https://ballotpedia.org/Sarah_Lightner
+- url: https://gophouse.org/member/repsarahlightner/about
+- url: https://gophouse.org/representatives/central/lightner
+- url: https://gophouse.org/representatives/central/lightner/
+  note: Member Details Page
+- url: https://RepLightner.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
+- url: https://www.linkedin.com/in/sarah-lightner-4a5b41161

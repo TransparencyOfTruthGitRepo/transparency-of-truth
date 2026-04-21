@@ -1,0 +1,37 @@
+id: ocd-person/aaffbe89-25dd-4454-85f7-81e4ed89c749
+name: Brock Colvin
+given_name: Brock
+family_name: Colvin
+gender: Male
+email: brock.colvin@alhouse.gov
+image: https://www.legislature.state.al.us/pdf/house/members/Colvin_26.png
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room 525-C, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0438
+- classification: district
+  address: 412-A Gunter Ave., Guntersville, AL 35976
+  voice: 256-582-0619
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+other_names:
+- name: B. Colvin
+- name: Colvin, B.
+- name: W.B. Colvin
+sources:
+- url: https://ballotpedia.org/Brock_Colvin
+- url: https://en.wikipedia.org/wiki/Brock_Colvin
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/201848/brock-colvin
+- url: https://www.linkedin.com/in/william-brock-colvin-38a658266
+extras:
+  counties: Marshall County

@@ -1,0 +1,119 @@
+id: ocd-person/559a5a0c-4b35-56f0-aa59-76c98e6cfb45
+name: Jason Smith
+given_name: Jason
+family_name: Smith
+birth_date: 1980-06-16
+gender: Male
+email: https://jasonsmith.house.gov/contact/default.aspx
+image: https://unitedstates.github.io/images/congress/450x550/S001195.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-06-05
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MO-8
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MO-8
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MO-8
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MO-8
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MO-8
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MO-8
+- start_date: 2013-06-04
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MO-8
+offices:
+- classification: capitol
+  address: 1011 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-4404
+  fax: 202-226-0326
+- classification: district
+  address: 22 E. Columbia St., Farmington, MO 63640
+  voice: 573-756-9755
+  fax: 573-756-9762
+- classification: district
+  address: 2502 Tanner Drive Suite 205, Cape Girardeau, MO 63703
+  voice: 573-335-0101
+  fax: 573-335-1931
+- classification: district
+  address: 2725 N. Westwood Blvd. Suite 5A, Poplar Bluff, MO 63901
+  voice: 573-609-2996
+- classification: district
+  address: 35 Court Square Suite 300, West Plains, MO 65775
+  voice: 417-255-1515
+  fax: 417-255-2009
+- classification: district
+  address: 830A S. Bishop Ave., Rolla, MO 65401
+  voice: 573-364-2455
+  fax: 573-364-1053
+links:
+- url: https://jasonsmith.house.gov
+  note: website
+- url: https://jasonsmith.house.gov/
+other_names:
+- name: J. Smith
+- name: J.T. Smith
+- name: Smith, J.
+ids:
+  twitter: RepJasonSmith
+  youtube: UCzj9-27Lr4gcqopmZAobXXg
+  facebook: repjasonsmith
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Jason Smith (Missouri representative)
+- scheme: bioguide
+  identifier: S001195
+- scheme: cspan
+  identifier: '71083'
+- scheme: fec
+  identifier: H4MO08162
+- scheme: google_entity_id
+  identifier: kg:/m/0g9yj_2
+- scheme: govtrack
+  identifier: '412596'
+- scheme: icpsr
+  identifier: '21373'
+- scheme: maplight
+  identifier: '2047'
+- scheme: opensecrets
+  identifier: N00035282
+- scheme: pictorial
+  identifier: '13122'
+- scheme: thomas
+  identifier: 02191
+- scheme: votesmart
+  identifier: '59318'
+- scheme: wikidata
+  identifier: Q6163589
+- scheme: wikipedia
+  identifier: Jason Smith (American politician)
+sources:
+- url: https://ballotpedia.org/Jason_Smith_(Missouri_representative)
+- url: https://en.wikipedia.org/wiki/Jason_T._Smith
+- url: https://jasonsmith.house.gov
+- url: https://justfacts.votesmart.org/candidate/biography/59318/jason-smith
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/jason_smith/412596

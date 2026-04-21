@@ -1,0 +1,32 @@
+id: ocd-person/a071cb31-2347-40a8-a88b-ec72bacdeffd
+name: Stephen Wooden
+given_name: Stephen
+family_name: Wooden
+birth_date: 1991-08-06
+gender: Male
+email: stephenwooden@house.mi.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/swooden.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '81'
+offices:
+- classification: capitol
+  address: Room S-1185, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-1790
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/stephen-wooden/
+other_names:
+- name: S. Wooden
+- name: Wooden, S.
+sources:
+- url: https://ballotpedia.org/Stephen_Wooden
+- url: https://housedems.com/stephen-wooden
+- url: https://justfacts.votesmart.org/candidate/biography/187891/stephen-wooden
+- url: https://www.linkedin.com/in/stephenwooden

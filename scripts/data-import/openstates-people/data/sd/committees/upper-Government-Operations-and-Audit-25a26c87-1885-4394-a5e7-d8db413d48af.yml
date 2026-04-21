@@ -1,0 +1,39 @@
+id: ocd-organization/25a26c87-1885-4394-a5e7-d8db413d48af
+jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+classification: committee
+name: Government Operations and Audit
+chamber: upper
+sources:
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1175
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1212
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/68
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/69
+- url: https://sdlegislature.gov/Session/Committee/1246/Detail
+- url: https://sdlegislature.gov/Session/Committee/1281/Detail
+links:
+- url: https://sdlegislature.gov/Session/Committee/1175/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1212/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1246/Detail
+- url: https://sdlegislature.gov/Session/Committee/1281/Detail
+members:
+- name: Taffy Howard
+  role: chair
+  person_id: ocd-person/f06bd3c9-8cac-4cc6-be62-f949e51f28eb
+- name: Ernie Otten
+  role: vice chair
+  person_id: ocd-person/dda7bd46-d880-453e-b830-269e79425a9a
+- name: Chris Karr
+  role: member
+  person_id: ocd-person/85616a5d-63b7-4794-8eb0-63ab7b121761
+- name: Red Dawn Foster
+  role: member
+  person_id: ocd-person/d2b91681-6a72-42f8-94f6-c489309798b7
+- name: Tamara Grove
+  role: member
+  person_id: ocd-person/e195011d-04f8-4e39-a9f9-b804495b3f2c
+other_names:
+- name: Senate Committee on Government Operations and Audit
+- name: Senate Government Operations and Audit
+- name: Senate Government Operations and Audit Committee

@@ -1,0 +1,19 @@
+id: ocd-person/8803d5af-3087-4410-a297-d2ebd7213798
+name: Darrell D Solberg
+given_name: Darrell
+family_name: Solberg
+middle_name: D
+image: http://legis.state.sd.us/sessions/2009/solberg.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '11'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000092
+sources:
+- url: http://legis.state.sd.us/sessions/2010/MemberDetail.aspx?Member=122

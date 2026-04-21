@@ -1,0 +1,28 @@
+id: ocd-person/1a48dbdb-5a3d-4c48-893c-5854523da139
+name: Philip E Ginsburg
+given_name: Philip
+family_name: Ginsburg
+middle_name: E
+image: http://www.gencourt.state.nh.us/house/images/memberpics/376940.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 6
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 7
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376940
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000142
+- scheme: legacy_openstates
+  identifier: NHL000545
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members.txt

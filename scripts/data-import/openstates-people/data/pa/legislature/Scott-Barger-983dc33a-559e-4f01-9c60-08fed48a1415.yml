@@ -1,0 +1,41 @@
+id: ocd-person/983dc33a-559e-4f01-9c60-08fed48a1415
+name: Scott Barger
+given_name: Scott
+family_name: Barger
+gender: Male
+email: sbarger@pahousegop.com
+image: https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2023/02/06211342/Scott-barger-561x840.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '80'
+offices:
+- classification: capitol
+  address: Room 409, Irvis Office Building P.O. Box 202080, Harrisburg, PA 17120
+  voice: 717-787-9020
+  fax: 717-787-2420
+- classification: district
+  address: 324 Allegheny St. Suite A, Hollidaysburg, PA 16648
+  voice: 814-695-2398
+  fax: 814-946-7239
+- classification: district
+  address: Scottdale Borough Building 135 Stadium Drive, Suite 1, Bellwood, PA 16617
+  voice: 814-742-7204
+  fax: 814-742-7207
+links:
+- url: https://repbarger.com/
+- url: https://www.palegis.us/house/members/bio/2027/rep-barger
+other_names:
+- name: Barger, S.
+- name: S. Barger
+- name: S.D. Barger
+sources:
+- url: https://ballotpedia.org/Scott_Barger_(Pennsylvania)
+- url: https://en.wikipedia.org/wiki/Scott_Barger
+- url: https://justfacts.votesmart.org/candidate/214872/scott-barger
+- url: https://repbarger.com
+- url: https://www.linkedin.com/in/scottdbarger
+- url: https://www.palegis.us/house/members/bio/2027/rep-barger

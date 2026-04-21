@@ -1,0 +1,19 @@
+id: ocd-person/d48a7c72-4a62-4fa7-b117-ae07c0070a68
+name: Virginia P Clagett
+given_name: Virginia
+family_name: Clagett
+middle_name: P
+image: http://mdarchives.us/msa/mdmanual/06hse/images/1198-1-3611b.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2007-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '30'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000263
+sources:
+- url: http://www.msa.md.gov/msa/mdmanual/06hse/html/msa12200.html

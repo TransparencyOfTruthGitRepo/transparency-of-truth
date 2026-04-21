@@ -1,0 +1,39 @@
+id: ocd-organization/f6a4720d-69f5-4851-92cf-a0eb8b8742f0
+jurisdiction: ocd-jurisdiction/country:us/state:la/government
+classification: committee
+name: Judiciary B
+chamber: upper
+sources:
+- url: https://senate.la.gov/Sen_Committees/JudiciaryB
+  note: Committee Detail Page
+- url: https://www.legis.la.gov/legis/Committees.aspx?c=S
+  note: Committees List Page
+links:
+- url: https://senate.la.gov/Sen_Committees/JudiciaryB
+  note: homepage
+members:
+- name: Mike Reese
+  role: chair
+  person_id: ocd-person/723f3444-f927-44b0-8659-7ac00370aa92
+- name: Jimmy Harris
+  role: vice chair
+  person_id: ocd-person/ce11601e-9a67-48a1-9408-b80943312303
+- name: Bob Owen
+  role: member
+  person_id: ocd-person/cfe19d33-7048-4fb7-9d56-0fa0f5f985f5
+- name: Kirk Talbot
+  role: member
+  person_id: ocd-person/f6f401f7-7fb4-40df-84a0-b5a3f0fe9ec2
+- name: Patrick McMath
+  role: member
+  person_id: ocd-person/d4a6db65-2f6f-464f-ae26-58176f2b68e6
+- name: Royce Duplessis
+  role: member
+  person_id: ocd-person/7d852e7a-ae99-4f89-b4c0-4d7cb7e816db
+- name: Sidney Barthelemy
+  role: member
+  person_id: ocd-person/7b4128f7-b147-4cdd-b6ee-0d7d3f2edb6f
+other_names:
+- name: Senate Committee on Judiciary B
+- name: Senate Judiciary B
+- name: Senate Judiciary B Committee

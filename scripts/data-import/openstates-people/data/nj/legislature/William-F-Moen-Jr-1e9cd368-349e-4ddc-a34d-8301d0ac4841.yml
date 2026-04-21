@@ -1,0 +1,49 @@
+id: ocd-person/1e9cd368-349e-4ddc-a34d-8301d0ac4841
+name: Bill Moen
+given_name: Bill
+family_name: Moen
+birth_date: 1986-11-14
+gender: Male
+email: asmmoen@njleg.org
+party:
+- name: Democratic
+roles:
+- start_date: 2020-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '5'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 208 White Horse Pike Suite 13, Barrington, NJ 08007
+  voice: 856-547-4800
+- classification: district
+  address: 231-L Market St., Camden, NJ 08102
+  voice: 856-541-1251
+- classification: district
+  address: 608 N. Broad St. Suite 200, Woodbury, NJ 08096
+  voice: 856-853-2960
+links:
+- url: https://www.assemblydems.com/163/William-F-Moen-Jr---District-5
+- url: https://www.assemblydems.com/William-F-Moen-Jr/
+- url: https://www.njleg.state.nj.us/legislative-roster/420/assemblyman-moen
+other_names:
+- name: B. Moen
+- name: Moen, B.
+- name: Moen, William F.
+- name: W.F. Moen
+- name: William F. Moen, Jr.
+sources:
+- url: https://ballotpedia.org/William_Moen_Jr.
+- url: https://en.wikipedia.org/wiki/William_Moen
+- url: https://justfacts.votesmart.org/candidate/biography/186296/bill-moen-jr
+- url: https://www.assemblydems.com/163/William-F-Moen-Jr---District-5
+- url: https://www.assemblydems.com/William-F-Moen-Jr
+- url: https://www.linkedin.com/in/billmoen
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/420
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/420/assemblyman-moen
+extras:
+  position: Deputy Majority Leader

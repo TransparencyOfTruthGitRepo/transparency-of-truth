@@ -1,0 +1,67 @@
+id: ocd-organization/2447bcad-50c0-4697-b5ca-f570c0f86f5b
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Corrections
+chamber: lower
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/h_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/h_cmtememb.xml
+  note: homepage
+members:
+- name: Becky Currie
+  role: chair
+  person_id: ocd-person/4b865b47-4811-4437-be08-0f3bf10d461c
+- name: Elliot Burch
+  role: vice chair
+  person_id: ocd-person/bb2a876e-ca55-46dd-842d-9b89a910848d
+- name: Angela Cockerham
+  role: member
+  person_id: ocd-person/83f9f72e-ec2d-4351-a227-d8a6aec18eed
+- name: Bo Brown
+  role: member
+  person_id: ocd-person/b8541474-47fd-4dd2-8576-53b7fe911039
+- name: Carl Mickens
+  role: member
+  person_id: ocd-person/6e50b530-8c0e-485a-a568-6d40ba83127d
+- name: Fred Shanks
+  role: member
+  person_id: ocd-person/002bdecd-2374-44d8-8280-e0636c5f4897
+- name: Gene Newman
+  role: member
+  person_id: ocd-person/2fe9c09d-6213-4576-b0e4-6e89330f41bc
+- name: John Faulkner
+  role: member
+  person_id: ocd-person/26c38427-62d3-440b-9253-c3e485fbd8ea
+- name: Kabir Karriem
+  role: member
+  person_id: ocd-person/a1fef221-e3ca-4598-a7f9-cf6862b3007a
+- name: Keith Jackson
+  role: member
+  person_id: ocd-person/0f07445d-ab7a-4c6f-9b3c-a402436afbed
+- name: Kevin Felsher
+  role: member
+  person_id: ocd-person/9967ba62-2eb6-452e-8445-d3422c62a813
+- name: Kevin Horan
+  role: member
+  person_id: ocd-person/b339d980-af38-4e76-b53c-215c26191cc1
+- name: Lawrence Blackmon
+  role: member
+  person_id: ocd-person/c38da14f-37fd-48fd-9903-e63ce18c1215
+- name: Randy Rushing
+  role: member
+  person_id: ocd-person/af2a8aef-177c-49d2-9b77-f1f19f7b8eaa
+- name: Richard Bennett
+  role: member
+  person_id: ocd-person/4b4c6bbd-fcbb-4c7e-9746-83acffe80898
+- name: Robert Sanders
+  role: member
+  person_id: ocd-person/e7684f57-ee0c-48ea-8157-8f04c2b8e685
+- name: Zack Grady
+  role: member
+  person_id: ocd-person/b62cfb62-68b6-4804-a1ff-f0259e7513b4
+other_names:
+- name: House Committee on Corrections
+- name: House Corrections
+- name: House Corrections Committee

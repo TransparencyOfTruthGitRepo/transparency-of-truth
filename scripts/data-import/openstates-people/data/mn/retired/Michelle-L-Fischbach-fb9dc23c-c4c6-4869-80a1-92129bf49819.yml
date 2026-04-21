@@ -1,0 +1,22 @@
+id: ocd-person/fb9dc23c-c4c6-4869-80a1-92129bf49819
+name: Michelle L. Fischbach
+given_name: Michelle
+family_name: Fischbach
+image: http://www.senate.mn/graphics/member_thumbnails/13Fischbach.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-07'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '13'
+links:
+- url: http://www.senate.mn/members/member_bio.php?mem_id=1012
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000015
+- scheme: legacy_openstates
+  identifier: MNL000508
+sources:
+- url: http://www.senate.mn/members/member_list_ascii.php?ls=
+- url: http://www.senate.mn/members/index.php

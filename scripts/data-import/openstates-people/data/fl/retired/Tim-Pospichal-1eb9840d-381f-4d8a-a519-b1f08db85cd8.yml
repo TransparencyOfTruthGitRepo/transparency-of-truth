@@ -1,0 +1,17 @@
+id: ocd-person/1eb9840d-381f-4d8a-a519-b1f08db85cd8
+name: Tim Pospichal
+given_name: Tim
+family_name: Pospichal
+email: cmo@auburndalefl.com
+roles:
+- end_date: '2021-01-04'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/place:auburndale/government
+links:
+- url: http://www.auburndalefl.com/cmo/
+sources:
+- url: http://www.auburndalefl.com/cmo/
+offices:
+- address: P.O. Box 186;Auburndale, FL 33823
+  voice: 863-965-5530
+  classification: primary

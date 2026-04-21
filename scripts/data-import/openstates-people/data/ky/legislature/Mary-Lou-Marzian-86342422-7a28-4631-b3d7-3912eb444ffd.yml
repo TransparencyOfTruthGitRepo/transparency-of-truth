@@ -1,0 +1,54 @@
+id: ocd-person/86342422-7a28-4631-b3d7-3912eb444ffd
+name: Mary Lou Marzian
+given_name: Mary Lou
+family_name: Marzian
+birth_date: 1954-09-16
+gender: Female
+email: marylou.marzian@kylegislature.gov
+image: https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house41.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '41'
+- end_date: 2022-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '41'
+  start_date: 2025-01-01
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '34'
+offices:
+- classification: capitol-mail
+  address: Room Annex 457B, 702 Capital Ave., Frankfort, KY 40601
+  voice: 502-564-8100
+- classification: district
+  address: KY
+  voice: 502-541-1376
+links:
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=34
+  note: homepage
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=41
+other_names:
+- name: M. Marzian
+- name: M.L. Marzian
+- name: Marzian, M.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000092
+sources:
+- url: https://ballotpedia.org/Mary_Marzian
+- url: https://en.wikipedia.org/wiki/Mary_Lou_Marzian
+- url: https://justfacts.votesmart.org/candidate/biography/4109/mary-marzian
+- url: https://legislature.ky.gov/Legislators/house-of-representatives
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=34
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=41
+extras:
+  counties represented:
+  - Jefferson
+  mailing address: 2007 Tyler Ln Louisville, KY 40205
+  home city: Louisville

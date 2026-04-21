@@ -1,0 +1,39 @@
+id: ocd-person/bc52f516-a13b-4490-a12c-7b98fa3969e5
+name: Lupe Diaz
+given_name: Lupe
+family_name: Diaz
+gender: Male
+email: ldiaz@azleg.gov
+image: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DIAZ.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '19'
+- start_date: 2021-11-23
+  end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '14'
+offices:
+- classification: capitol
+  address: Room 302, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-4852
+links:
+- url: https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2100
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2304
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2100
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2159
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2159
+other_names:
+- name: Diaz, L.
+- name: L. Diaz
+sources:
+- url: https://ballotpedia.org/Lupe_Diaz
+- url: https://en.wikipedia.org/wiki/Lupe_Diaz
+- url: https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2100
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2304
+- url: https://www.azleg.gov/memberroster/?body=H
+- url: https://www.linkedin.com/in/lupediaz

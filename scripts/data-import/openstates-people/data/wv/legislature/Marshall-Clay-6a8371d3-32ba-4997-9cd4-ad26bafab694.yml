@@ -1,0 +1,34 @@
+id: ocd-person/6a8371d3-32ba-4997-9cd4-ad26bafab694
+name: Marshall Clay
+given_name: Marshall
+family_name: Clay
+gender: Male
+email: marshall.clay@wvhouse.gov
+image: https://www.wvlegislature.gov/images/members/2025/house/clay_marshall.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '51'
+offices:
+- classification: capitol
+  address: State Capitol Room 233E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3170
+- classification: district
+  address: 1437 Cunard Road, Fayetteville, WV 25840
+  voice: 304-860-8859
+links:
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clay
+other_names:
+- name: Clay, M
+- name: Clay, M.
+- name: M. Clay
+- name: M.W. Clay
+sources:
+- url: https://ballotpedia.org/Marshall_Clay
+- url: https://en.wikipedia.org/wiki/Marshall_Clay
+- url: https://justfacts.votesmart.org/candidate/biography/102214/marshall-clay
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clay

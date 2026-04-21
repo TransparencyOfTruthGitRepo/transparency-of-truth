@@ -1,0 +1,65 @@
+id: ocd-person/9deeb60b-4d1e-42b8-8052-d2808a30ea9a
+name: Vance Smith
+given_name: Vance
+family_name: Smith
+gender: Male
+email: vance.smith@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/smith-vance-215.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '138'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '133'
+offices:
+- classification: capitol
+  address: Room 601-G, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0254
+- classification: district-mail
+  address: P.O. Box 171, Pine Mountain, GA 31822
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=215&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/215
+- url: https://www.legis.ga.gov/members/house/215?session=1029
+- url: https://www.legis.ga.gov/members/house/215?session=1031
+  note: HTML member detail page
+other_names:
+- name: SMITH, 138TH
+- name: Smith, V.
+- name: V. Smith
+- name: V.C. Smith
+- name: Vance C. Smith
+- name: Vance Smith
+sources:
+- url: https://ballotpedia.org/Vance_Smith
+- url: https://en.wikipedia.org/wiki/Vance_Smith
+- url: https://justfacts.votesmart.org/candidate/biography/7976/vance-smith-jr
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=215&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/215?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/215?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/215
+- url: https://www.legis.ga.gov/members/house/215?session=1029
+- url: https://www.linkedin.com/in/vance-c-smith-jr-164a8444
+extras:
+  residence: Pine Mountain
+  city: Pine Mountain
+  georgia_id: 215
+  birthday: February 27
+  occupation: Consulting
+  press: https://house-press.com/representative/Vance-Smith
+  spouse: Michele
+  staff: Kathy Hutcherson - Administrative Assistant
+  staff email: kathy.hutcherson@house.ga.gov

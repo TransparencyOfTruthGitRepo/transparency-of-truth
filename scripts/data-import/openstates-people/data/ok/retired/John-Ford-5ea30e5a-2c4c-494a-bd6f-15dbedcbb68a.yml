@@ -1,0 +1,23 @@
+id: ocd-person/5ea30e5a-2c4c-494a-bd6f-15dbedcbb68a
+name: John Ford
+given_name: John
+family_name: Ford
+image: http://www.oksenate.gov/Senators/biographies/ford_bio.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ok/government
+  district: '29'
+links:
+- url: http://oksenate.gov/Senators/biographies/ford_bio.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OKL000020
+- scheme: legacy_openstates
+  identifier: OKL000215
+sources:
+- url: http://oksenate.gov/Senators/biographies/ford_bio.aspx
+- url: http://oksenate.gov/Senators/biographies/ford_bio.html

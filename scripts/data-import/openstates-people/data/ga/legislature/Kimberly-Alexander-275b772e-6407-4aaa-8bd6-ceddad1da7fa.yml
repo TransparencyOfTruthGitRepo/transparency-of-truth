@@ -1,0 +1,64 @@
+id: ocd-person/275b772e-6407-4aaa-8bd6-ceddad1da7fa
+name: Kimberly Alexander
+given_name: Kimberly
+family_name: Alexander
+birth_date: 1961-11-26
+gender: Female
+email: kimberly.alexander@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/alexander-kimberly-806.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '66'
+offices:
+- classification: capitol
+  address: Room 512-A, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-7859
+- classification: district-mail
+  address: P.O. Box 393, Hiram, GA 30141
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=806&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/806
+- url: https://www.legis.ga.gov/members/house/806?session=1029
+- url: https://www.legis.ga.gov/members/house/806?session=1031
+  note: HTML member detail page
+other_names:
+- name: ALEXANDER, 66TH
+- name: Alexander, K.
+- name: K. Alexander
+- name: K.A. Alexander
+- name: Kimberly A. Alexander
+- name: Kimberly Alexander
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000240
+sources:
+- url: https://ballotpedia.org/Kimberly_Alexander_(Georgia_state_representative)
+- url: https://en.wikipedia.org/wiki/Kimberly_Alexander
+- url: https://justfacts.votesmart.org/candidate/biography/122813/kimberly-alexander
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=806&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/806?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/806?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/806
+- url: https://www.legis.ga.gov/members/house/806?session=1029
+- url: https://www.linkedin.com/in/kimberly-alexander-4120412
+extras:
+  residence: Hiram
+  city: Hiram
+  georgia_id: 806
+  birthday: November 26
+  occupation: Internal Auditor
+  press: https://house-press.com/representative/Kimberly-Alexander
+  staff: Fatai Owens - Administrative Assistant
+  staff email: fatai.owens@house.ga.gov

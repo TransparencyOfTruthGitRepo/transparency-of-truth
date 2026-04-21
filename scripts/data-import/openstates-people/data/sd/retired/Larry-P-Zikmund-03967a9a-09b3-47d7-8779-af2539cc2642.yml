@@ -1,0 +1,24 @@
+id: ocd-person/03967a9a-09b3-47d7-8779-af2539cc2642
+name: Larry P Zikmund
+given_name: Larry P
+family_name: Zikmund
+email: Larry.Zikmund@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Zikmund_2017.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '14'
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1519&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1625&Session=2019
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000254
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1519&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1625&Session=2019
+extras:
+  occupation: Retired

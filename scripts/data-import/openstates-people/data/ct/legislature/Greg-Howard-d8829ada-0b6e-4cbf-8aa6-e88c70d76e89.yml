@@ -1,0 +1,41 @@
+id: ocd-person/d8829ada-0b6e-4cbf-8aa6-e88c70d76e89
+name: Greg Howard
+given_name: Greg
+family_name: Howard
+gender: Male
+email: greg.howard@housegop.ct.gov
+image: https://www.cga.ct.gov/legpics/043.png?ver=
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '43'
+offices:
+- classification: capitol
+  address: Room 4200, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8700
+links:
+- url: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27043%27&dist_name=Howard,%20Greg%20S.
+- url: https://www.cthousegop.com/howard
+- url: https://www.cthousegop.com/howard/
+other_names:
+- name: G. Howard
+- name: Greg Howard
+- name: Greg S. Howard
+- name: Howard, G.
+- name: Howard, Greg S.
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Greg_Howard_(Connecticut)
+- url: https://en.wikipedia.org/wiki/Greg_Howard_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/194705/greg-howard
+- url: https://www.cthousegop.com/howard
+- url: https://www.cthousegop.com/howard/
+extras:
+  gender: Male
+  committees: Public Safety and Security (Ranking Member); Education; Judiciary
+  committee codes: ;ED;JUD;PS;
+  business phone: 860-599-7553
+  prison: '0'

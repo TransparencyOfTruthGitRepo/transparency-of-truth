@@ -1,0 +1,32 @@
+id: ocd-person/7532bf1f-c85e-4683-a401-ca87af088e5e
+name: Kayse Jama
+given_name: Kayse
+family_name: Jama
+gender: Male
+email: sen.jamakayse@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/Jama/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '24'
+offices:
+- classification: capitol
+  address: Room S-223, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1724
+links:
+- url: https://www.oregonlegislature.gov/jama
+- url: https://www.oregonlegislature.gov/Jama
+other_names:
+- name: Jama, K.
+- name: K. Jama
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Kayse_Jama
+- url: https://en.wikipedia.org/wiki/Kayse_Jama
+- url: https://www.linkedin.com/in/kayse-jama-5aa17652
+- url: https://www.oregonlegislature.gov/Jama
+- url: https://www.oregonlegislature.gov/jama

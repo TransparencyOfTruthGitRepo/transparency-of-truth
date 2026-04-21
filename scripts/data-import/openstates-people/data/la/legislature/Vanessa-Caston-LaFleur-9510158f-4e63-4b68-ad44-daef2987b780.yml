@@ -1,0 +1,43 @@
+id: ocd-person/9510158f-4e63-4b68-ad44-daef2987b780
+name: Vanessa LaFleur
+given_name: Vanessa
+family_name: LaFleur
+gender: Female
+email: hse101@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep101.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-04-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '101'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 2370 Towne Center Blvd. First Floor, Baton Rouge, LA 70806
+  voice: 225-925-6880
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=101
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=101
+other_names:
+- name: LaFleur, V.
+- name: V. LaFleur
+- name: V.C. LaFleur
+- name: Vanessa Caston LaFleur
+sources:
+- url: https://ballotpedia.org/Vanessa_Caston_LaFleur
+- url: https://en.wikipedia.org/wiki/Vanessa_Caston_LaFleur
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=101
+- url: https://house.louisiana.gov/H_Reps/members?ID=101
+- url: https://www.linkedin.com/in/vanessa-caston-lafleur-652a45230
+extras:
+  legislative assistant: Phyllis P. Moncriffe, JD
+  representing parishes:
+  - East Baton Rouge
+  education: "Baton Rouge Magnet High School,\r\nSouthern University and A&M College\
+    \ and\r\nSouthern University Law Center"

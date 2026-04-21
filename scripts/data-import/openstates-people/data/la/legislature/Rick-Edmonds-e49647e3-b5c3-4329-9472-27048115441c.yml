@@ -1,0 +1,56 @@
+id: ocd-person/e49647e3-b5c3-4329-9472-27048115441c
+name: Rick Edmonds
+given_name: Rick
+family_name: Edmonds
+birth_date: 1956-09-12
+gender: Male
+email: sen06@legis.la.gov
+image: https://senate.la.gov/SenPics/Sen6.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '6'
+- start_date: 2016-01-11
+  end_date: 2024-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '6'
+- end_date: 2024-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '66'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 13440 Magnolia Squar Suite D1, Baton Rouge, LA 70818
+  voice: 225-272-1324
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=66
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=6
+other_names:
+- name: Edmonds, R.
+- name: R. Edmonds
+- name: R.P. Edmonds
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000819
+- scheme: legacy_openstates
+  identifier: LAL000858
+sources:
+- url: https://ballotpedia.org/Rick_Edmonds
+- url: https://en.wikipedia.org/wiki/Rick_Edmonds
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=66
+- url: https://senate.la.gov/smembers?ID=6
+extras:
+  legislative assistant: Zoe McRaney and Mason Batts
+  representing parishes:
+  - East Baton Rouge
+  education: Fair Park High School; East Texas Baptist University, B.A.; New Orleans
+    Baptist Theological Seminary, M.Div., Doctoral Studies

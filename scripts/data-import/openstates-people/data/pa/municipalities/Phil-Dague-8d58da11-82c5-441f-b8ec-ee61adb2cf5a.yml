@@ -1,0 +1,16 @@
+id: ocd-person/8d58da11-82c5-441f-b8ec-ee61adb2cf5a
+name: Phil Dague
+given_name: Phil
+family_name: Dague
+roles:
+- end_date: '2024-01-01'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/place:downingtown/government
+offices:
+- classification: primary
+  address: Municipal Government Center;4 - 10 W. Lancaster Avenue;Downingtown, PA 19335
+  voice: 610-269-0344
+links:
+- url: https://www.downingtown.org/user/43/contact
+sources:
+- url: https://www.downingtown.org/user/43/contact

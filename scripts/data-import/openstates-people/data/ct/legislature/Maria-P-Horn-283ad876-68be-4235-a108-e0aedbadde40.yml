@@ -1,0 +1,39 @@
+id: ocd-person/283ad876-68be-4235-a108-e0aedbadde40
+name: Maria Horn
+given_name: Maria
+family_name: Horn
+gender: Female
+email: maria.horn@cga.ct.gov
+image: http://www2.housedems.ct.gov/Horn/images/Horn_HS.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '64'
+offices:
+- classification: capitol
+  address: Room 3704, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 800-842-8267
+links:
+- url: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27064%27&dist_name=064%20-%Horn,%Maria
+- url: https://www.housedems.ct.gov/horn
+other_names:
+- name: Horn, M.
+- name: Horn, Maria P.
+- name: M. Horn
+- name: M.P. Horn
+- name: Maria P. Horn
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Maria_Horn
+- url: https://en.wikipedia.org/wiki/Maria_Horn
+- url: https://justfacts.votesmart.org/candidate/185709/maria-horn
+- url: https://www.housedems.ct.gov/horn
+- url: https://www.linkedin.com/in/maria-horn-433038115
+extras:
+  gender: Female
+  committees: Finance, Revenue and Bonding (Chair); Environment; Energy and Technology
+  committee codes: ;ENV;ET;FIN;
+  prison: '0'

@@ -1,0 +1,35 @@
+id: ocd-person/68e0a17f-338b-497b-ba07-1f74e9623f1d
+name: Jennifer Bradley
+given_name: Jennifer
+family_name: Bradley
+gender: Female
+email: bradley.jennifer.web@flsenate.gov
+image: https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s06_5476.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '6'
+offices:
+- classification: capitol
+  address: Room 406, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-487-5006
+- classification: district
+  address: '1845 EW Parkway Unit #5, Fleming Island, FL 32003'
+  voice: 904-278-2085
+links:
+- url: https://flsenate.gov/Senators/2022-2024/S6
+  note: member detail page
+- url: https://www.flsenate.gov/Senators/S6
+other_names:
+- name: Bradley, J.
+- name: J. Bradley
+sources:
+- url: https://ballotpedia.org/Jennifer_Bradley
+- url: https://en.wikipedia.org/wiki/Jennifer_Bradley
+- url: https://flsenate.gov/Senators/2022-2024/S6
+  note: member detail page
+- url: https://www.flsenate.gov/Senators/S6
+- url: https://www.linkedin.com/in/jennifer-bradley-a32ba839

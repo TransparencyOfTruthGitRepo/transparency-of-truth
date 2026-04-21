@@ -1,0 +1,32 @@
+id: ocd-person/4b8dd070-0114-4788-9d4c-21eab54496c0
+name: James Teeple
+given_name: James
+family_name: Teeple
+gender: Male
+email: jamesteeple@schouse.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/James_Teeple_20240908_101043.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-11-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '116'
+offices:
+- classification: capitol
+  address: Room 308A, Blatt Building P.O. Box 11867, Columbia, SC 29211
+  voice: 803-212-6817
+links:
+- url: https://www.scstatehouse.gov/member.php?code=1812215692
+other_names:
+- name: J. Teeple
+- name: J.E. Teeple
+- name: Teeple, J.
+- name: Teeple, James
+- name: Teeple, James E.
+sources:
+- url: https://ballotpedia.org/James_Teeple
+- url: https://en.wikipedia.org/wiki/James_Teeple
+- url: https://justfacts.votesmart.org/candidate/216276/james-teeple
+- url: https://www.linkedin.com/in/james-teeple-109b83145
+- url: https://www.scstatehouse.gov/member.php?code=1812215692

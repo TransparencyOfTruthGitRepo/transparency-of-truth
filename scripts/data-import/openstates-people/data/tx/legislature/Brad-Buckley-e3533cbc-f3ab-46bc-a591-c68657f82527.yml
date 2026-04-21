@@ -1,0 +1,37 @@
+id: ocd-person/e3533cbc-f3ab-46bc-a591-c68657f82527
+name: Brad Buckley
+given_name: Brad
+family_name: Buckley
+birth_date: 1966-09-14
+gender: Male
+email: brad.buckley@house.texas.gov
+image: https://house.texas.gov/images/members/3585.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '54'
+offices:
+- classification: capitol
+  address: Room E2.510, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0684
+- classification: district
+  address: 1301 N. Stagecoach Road, Salado, TX 76571
+  voice: 254-947-5026
+links:
+- url: https://house.texas.gov/members/54
+- url: https://house.texas.gov/members/member-page/?district=54
+other_names:
+- name: B. Buckley
+- name: B.L. Buckley
+- name: Buckley, B.
+- name: Buckley, Brad
+sources:
+- url: https://ballotpedia.org/Brad_Buckley
+- url: https://en.wikipedia.org/wiki/Brad_Buckley_(politician)
+- url: https://house.texas.gov/members/3585/biography
+- url: https://house.texas.gov/members/54
+- url: https://house.texas.gov/members/member-page/?district=54
+- url: https://justfacts.votesmart.org/candidate/biography/177456/brad-buckley

@@ -1,0 +1,49 @@
+id: ocd-organization/a7ce4320-0b1e-490c-9f00-f0624fafa79a
+jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+classification: committee
+name: Fiscal
+chamber: legislature
+sources:
+- url: https://www.legis.iowa.gov/committees
+  note: Committee list page
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=704
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=704
+links:
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=704
+  note: homepage
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=704
+members:
+- name: Gary Mohr
+  role: co-chair
+  person_id: ocd-person/98672aab-5ba5-4994-964a-f53d8bcdd108
+- name: Tim Kraayenbrink
+  role: co-chair
+  person_id: ocd-person/293487d6-a28b-48a2-8cfc-c3daabb8abbe
+- name: Carter Nordman
+  role: member
+  person_id: ocd-person/e7b268b8-c922-4e66-8327-cc4c49854d5e
+- name: Dan Dawson
+  role: member
+  person_id: ocd-person/79384252-69ca-43c7-bda1-46b6abe5873e
+- name: Dan Zumbach
+  role: member
+  person_id: ocd-person/3fa8bceb-666f-4480-a957-1928e2b5fec6
+- name: Dave Jacoby
+  role: member
+  person_id: ocd-person/55c46119-e6fa-4b22-ade6-18990aeacf0c
+- name: Janet Petersen
+  role: member
+  person_id: ocd-person/3089e8af-0071-4298-822c-2d16ac01fe9f
+- name: Megan Srinivas
+  role: member
+  person_id: ocd-person/84f3edbd-f0e1-4220-a670-f7d39d57bda5
+- name: Shannon Latham
+  role: member
+  person_id: ocd-person/90ea16da-2e10-470e-a004-a5e2688e6331
+- name: Tony Bisignano
+  role: member
+  person_id: ocd-person/be302cfd-09b1-4a29-974d-479aa24469eb
+other_names:
+- name: Joint Committee on Fiscal
+- name: Joint Fiscal
+- name: Joint Fiscal Committee

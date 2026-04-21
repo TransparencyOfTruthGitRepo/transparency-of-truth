@@ -1,0 +1,19 @@
+id: ocd-person/ea273311-92f8-4930-adff-c0220fb2b8d3
+name: Joe Verrengia
+given_name: Joe
+family_name: Verrengia
+email: Joe.Verrengia@cga.ct.gov
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '20'
+links:
+- url: http://www.housedems.ct.gov/Verrengia/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000056
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

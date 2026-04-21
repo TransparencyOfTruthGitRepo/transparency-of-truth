@@ -1,0 +1,40 @@
+id: ocd-organization/39ee10c3-2407-4236-a6e2-fd82fc5d55eb
+jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+classification: committee
+name: Oversight, Analysis and Investigation
+chamber: lower
+sources:
+- url: https://assembly.state.ny.us/comm/
+- url: https://assembly.state.ny.us/comm/?id=30
+- url: https://assembly.state.ny.us/comm/?id=30&sec=news
+- url: https://nyassembly.gov/comm/?id=30
+links:
+- url: https://assembly.state.ny.us/comm/?id=30
+  note: homepage
+- url: https://assembly.state.ny.us/comm/?id=30&sec=news
+- url: https://nyassembly.gov/comm/?id=30
+members:
+- name: Jonathan Jacobson
+  role: chair
+  person_id: ocd-person/105874fa-018e-4e77-8190-7f6d59538386
+- name: Anil Beephan
+  role: member
+  person_id: ocd-person/b4820549-d7f0-4f0f-abef-74d3b1515ed9
+- name: Bill Magnarelli
+  role: member
+  person_id: ocd-person/0507a521-7806-4d5c-ac7d-e50599bb32a6
+- name: Joe Angelino
+  role: member
+  person_id: ocd-person/cc6881df-b386-488d-bbc1-71e71b808306
+- name: Pat Carroll
+  role: member
+  person_id: ocd-person/04a87708-f68c-43ca-b892-fc987f4deb5a
+- name: Phil Steck
+  role: member
+  person_id: ocd-person/968287e2-d20f-4e07-9f66-5765ca51b475
+other_names:
+- name: Assembly Committee on Oversight, Analysis and Investigation
+- name: Assembly Oversight, Analysis and Investigation
+- name: Assembly Oversight, Analysis and Investigation Committee
+extras:
+  address: LOB 417; Albany, NY 12248

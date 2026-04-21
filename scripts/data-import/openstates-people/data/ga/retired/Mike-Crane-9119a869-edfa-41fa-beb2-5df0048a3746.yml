@@ -1,0 +1,21 @@
+id: ocd-person/9119a869-edfa-41fa-beb2-5df0048a3746
+name: Mike Crane
+given_name: Mike
+family_name: Crane
+image: http://www.senate.ga.gov/SiteCollectionImages/CraneMike798.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '28'
+links:
+- url: http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=798&Session=24
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000237
+sources:
+- url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=798&Session=24

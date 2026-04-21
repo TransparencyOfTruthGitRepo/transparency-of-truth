@@ -1,0 +1,21 @@
+id: ocd-person/961dbf6b-f27f-4d8b-bb91-553b05477435
+name: Mary Pilcher-Cook
+given_name: Mary
+family_name: Pilcher-Cook
+image: http://www.kslegislature.org/li/m/images/pics/sen_pilcher_cook_mary_1.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-01-16'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '10'
+links:
+- url: http://www.kslegislature.org/li/b2019_20/members/sen_pilcher_cook_mary_1/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KSL000028
+sources:
+- url: http://www.kslegislature.org/li/api/v11/rev-1/members/sen_pilcher_cook_mary_1
+extras:
+  occupation: Retired Software Engineer and Publisher

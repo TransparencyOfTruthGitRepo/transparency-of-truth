@@ -1,0 +1,24 @@
+id: ocd-person/79970699-1bc7-4851-9cd2-51451fe2fc0d
+name: Timothy R Johns
+given_name: Timothy R
+family_name: Johns
+email: Timothy.Johns@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Johns_2017.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '31'
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1499&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1436&Session=2019
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000181
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1499&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1436&Session=2019
+extras:
+  occupation: Lawyer

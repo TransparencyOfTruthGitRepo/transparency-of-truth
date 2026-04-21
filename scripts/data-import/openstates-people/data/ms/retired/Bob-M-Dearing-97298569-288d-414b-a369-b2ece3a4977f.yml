@@ -1,0 +1,21 @@
+id: ocd-person/97298569-288d-414b-a369-b2ece3a4977f
+name: Bob M Dearing
+given_name: Bob
+family_name: Dearing
+middle_name: M
+image: http://billstatus.ls.state.ms.us/members/senate/dearing.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2011-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '37'
+links:
+- url: http://billstatus.ls.state.ms.us/members/senate/dearing.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000006
+sources:
+- url: http://billstatus.ls.state.ms.us/members/senate/dearing.xml

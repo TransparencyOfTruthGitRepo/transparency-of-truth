@@ -1,0 +1,21 @@
+id: ocd-person/3d9d298d-8db3-45cb-b938-5458eda06284
+name: Warwick Sabin
+given_name: Warwick
+family_name: Sabin
+image: http://www.arkleg.state.ar.us/assembly/2019/Member%20Pictures/sabin.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '33'
+links:
+- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Sabin
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ARL000235
+sources:
+- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Sabin
+extras:
+  occupation: Senior Director, U.S. Programs

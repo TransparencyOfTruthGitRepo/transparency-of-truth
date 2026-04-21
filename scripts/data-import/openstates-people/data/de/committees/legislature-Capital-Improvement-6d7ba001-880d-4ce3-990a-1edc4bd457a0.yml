@@ -1,0 +1,58 @@
+id: ocd-organization/6d7ba001-880d-4ce3-990a-1edc4bd457a0
+jurisdiction: ocd-jurisdiction/country:us/state:de/government
+classification: committee
+name: Capital Improvement
+chamber: legislature
+sources:
+- url: https://legis.delaware.gov/Committee/CapitalImprovement
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=579
+  note: Member list page
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=621
+- url: https://legis.delaware.gov/json/Committees/GetCommitteesByTypeId?ga=
+  note: Committee json data
+links:
+- url: https://legis.delaware.gov/Committee/CapitalImprovement
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=579
+  note: homepage
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=621
+members:
+- name: Jack Walsh
+  role: chair
+  person_id: ocd-person/7188a518-8d78-42e8-b618-ee38a10d20a4
+- name: Debra Heffernan
+  role: vice chair
+  person_id: ocd-person/7e631da1-ef0f-4c6f-ba17-e5ae2860dad6
+- name: Bill Bush
+  role: member
+  person_id: ocd-person/fccfb524-6aee-40a9-8469-081e961dd072
+- name: Bryant Richardson
+  role: member
+  person_id: ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727
+- name: Dave Wilson
+  role: member
+  person_id: ocd-person/0b53dd28-648e-4fe1-a05a-36a21ec12e63
+- name: Frank Cooke
+  role: member
+  person_id: ocd-person/0cac3293-534b-4188-93e3-37ef6cd333ae
+- name: Kendra Johnson
+  role: member
+  person_id: ocd-person/b24cb06f-0cb1-4682-8038-d31b8ebc76fb
+- name: Marie Pinkney
+  role: member
+  person_id: ocd-person/eee736fd-ee29-403a-9bbc-713961c734b7
+- name: Mike Smith
+  role: member
+  person_id: ocd-person/c9f1393e-01c8-4597-a6e5-6d43330264dc
+- name: Nicole Poore
+  role: member
+  person_id: ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc
+- name: Ron Gray
+  role: member
+  person_id: ocd-person/5cd844e2-9346-40d9-a804-7531aa49ccd4
+- name: Spiros Mantzavinos
+  role: member
+  person_id: ocd-person/a42132e6-9070-44a4-81be-70797c4ea2bb
+other_names:
+- name: Joint Capital Improvement
+- name: Joint Capital Improvement Committee
+- name: Joint Committee on Capital Improvement

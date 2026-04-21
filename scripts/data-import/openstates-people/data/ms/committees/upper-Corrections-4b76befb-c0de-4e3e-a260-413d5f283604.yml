@@ -1,0 +1,49 @@
+id: ocd-organization/4b76befb-c0de-4e3e-a260-413d5f283604
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Corrections
+chamber: upper
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: homepage
+members:
+- name: Juan Barnett
+  role: chair
+  person_id: ocd-person/fcb35ef2-7463-4f8a-9a8a-3bc45b235ecb
+- name: Lydia Chassaniol
+  role: vice chair
+  person_id: ocd-person/094c0731-4932-4400-ad96-84c83ba1dd59
+- name: Daniel Sparks
+  role: member
+  person_id: ocd-person/32153f0b-aa40-4989-9787-e2608c55a87e
+- name: Dean Kirby
+  role: member
+  person_id: ocd-person/d1572354-a456-47fa-aa21-58be9884a3bb
+- name: Gary Brumfield
+  role: member
+  person_id: ocd-person/dcae79b5-ddc5-48e8-86c2-54d5c47f0656
+- name: Jason Barrett
+  role: member
+  person_id: ocd-person/c664f98f-0d57-4d32-abf1-a95dcec7fa31
+- name: Joey Fillingane
+  role: member
+  person_id: ocd-person/bc0bd61c-da9a-40db-bf66-a0108b01275e
+- name: Joseph Thomas
+  role: member
+  person_id: ocd-person/13131d55-19a4-49cd-aba9-e8eef7aedb06
+- name: Lane Taylor
+  role: member
+  person_id: ocd-person/b273517c-b673-4bf0-a084-b960bc943953
+- name: Reginald Jackson
+  role: member
+  person_id: ocd-person/0fde8bcf-e43a-4b39-a9a5-b7869424e2d9
+- name: Sarita Simmons
+  role: member
+  person_id: ocd-person/f1012c43-9559-4f7a-8b70-8dd9cf88bab1
+other_names:
+- name: Senate Committee on Corrections
+- name: Senate Corrections
+- name: Senate Corrections Committee

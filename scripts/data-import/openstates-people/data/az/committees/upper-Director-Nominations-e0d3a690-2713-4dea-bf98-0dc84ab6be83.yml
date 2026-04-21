@@ -1,0 +1,42 @@
+id: ocd-organization/e0d3a690-2713-4dea-bf98-0dc84ab6be83
+jurisdiction: ocd-jurisdiction/country:us/state:az/government
+classification: committee
+name: Director Nominations
+chamber: upper
+sources:
+- url: https://apps.azleg.gov/api/Committee/?sessionId=128&includeMembers=true
+  note: API with all committee details
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2233&sessionId=129
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView?SessionID=128
+links:
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2095&sessionId=128
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2233&sessionId=129
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverview?CommId=2095
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView?SessionID=128
+  note: homepage
+members:
+- name: Jake Hoffman
+  role: chair
+  person_id: ocd-person/35f7056c-9f29-4b66-9ae0-f041fe6e7e05
+- name: T.J. Shope
+  role: vice chair
+  person_id: ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015
+- name: Analise Ortiz
+  role: member
+  person_id: ocd-person/87e6206a-c16e-4038-a86f-0d5c88b993e3
+- name: Flavio Bravo
+  role: member
+  person_id: ocd-person/36cc8d88-e944-4889-b8ab-cf5610f3f03e
+- name: John Kavanagh
+  role: member
+  person_id: ocd-person/b6144266-5383-491f-8c87-df8fd11805ea
+other_names:
+- name: Committee on Director Nominations
+- name: Director Nominations Committee
+- name: Senate Committee on Director Nominations
+- name: Senate Director Nominations
+- name: Senate Director Nominations Committee
+extras:
+  Committee ID: 2095
+  Committee Short Name: DINO
+  Committee Type: Standing

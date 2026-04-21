@@ -1,0 +1,30 @@
+id: ocd-person/a2fed609-2172-4740-b9f3-f00a6da4716d
+name: Jimmy Gordon
+given_name: Jimmy
+family_name: Gordon
+gender: Male
+email: rep.jimmy.gordon@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/28A.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 28A
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-4346
+links:
+- url: https://www.house.mn.gov/members/profile/15632
+- url: https://www.lrl.mn.gov/legdb/fulldetail?ID=15632
+other_names:
+- name: Gordon, J.
+- name: J. Gordon
+sources:
+- url: https://ballotpedia.org/James_Gordon_(Minnesota)
+- url: https://en.wikipedia.org/wiki/Jimmy_Gordon_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/218790/james-gordon
+- url: https://www.house.mn.gov/members/profile/15632
+- url: https://www.lrl.mn.gov/legdb/fulldetail?ID=15632

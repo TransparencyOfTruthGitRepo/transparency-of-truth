@@ -1,0 +1,35 @@
+id: ocd-person/dbe86f29-2ecb-449e-aaf6-3fc91baf2e0e
+name: William Lindstedt
+given_name: William
+family_name: Lindstedt
+gender: Male
+email: william.lindstedt.senate@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_lindstedt%2Cwilliam.jpg?itok=UVhLAS88
+party:
+- name: Democratic
+roles:
+- start_date: 2025-12-30
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '25'
+offices:
+- classification: capitol
+  address: State Capitol Colorado  Building 200 E. Colfax Ave., Denver, CO 80203
+  voice: 303-866-4863
+links:
+- url: https://leg.colorado.gov/legislators/william-lindstedt
+  note: homepage
+other_names:
+- name: Lindstedt W.
+- name: Lindstedt, W.
+- name: W. Lindstedt
+sources:
+- url: https://ballotpedia.org/William_Lindstedt
+- url: https://en.wikipedia.org/wiki/William_Lindstedt
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/william-lindstedt
+extras:
+  counties represented:
+  - Adams
+  - Broomfield
+  - Weld

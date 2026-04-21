@@ -1,0 +1,55 @@
+id: ocd-person/c15709b9-8514-4e8f-8a52-6b464eb8484d
+name: Cathryn Harvey
+given_name: Cathryn
+family_name: Harvey
+gender: Female
+email: cathryn.harvey@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/60987.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 6
+- start_date: 2016-12-07
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 6
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 1
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=408479
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?member=408479
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8479
+  note: member detail page
+other_names:
+- name: C. Harvey
+- name: C.A. Harvey
+- name: Cathryn A. Harvey
+- name: Harvey, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001397
+sources:
+- url: https://ballotpedia.org/Cathryn_Harvey
+- url: https://gc.nh.gov/house/members/member.aspx?member=408479
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?member=408479
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408479
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8479
+extras:
+  county: Cheshire
+  elected status: Incumbent
+  gender code: F

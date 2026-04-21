@@ -1,0 +1,30 @@
+id: ocd-person/41a74bbc-9431-41db-bfc8-d0a0e1d361e0
+name: Lance Gooden
+given_name: Lance
+family_name: Gooden
+image: https://house.texas.gov/photos/members/2020.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-07'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '4'
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '4'
+links:
+- url: https://house.texas.gov/members/member-page/?district=4
+- url: http://www.legdir.legis.state.tx.us/MemberInfo.aspx?Chamber=H&Code=A2020
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000695
+- scheme: openstates
+  identifier: ocd-person/f8d4124c-5731-40d9-a53b-0db611b4b860
+- scheme: legacy_openstates
+  identifier: TXL000383
+sources:
+- url: https://house.texas.gov/members/member-page/?district=4
+- url: http://www.legdir.legis.state.tx.us/MemberInfo.aspx?Chamber=H&Code=A2020

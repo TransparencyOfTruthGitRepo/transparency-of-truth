@@ -1,0 +1,52 @@
+id: ocd-person/2ed9a2e2-0f61-4de1-af10-e9e0dbf02492
+name: Jack McFarland
+given_name: Jack
+family_name: McFarland
+gender: Male
+email: mcfarlandj@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep13.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '13'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district-mail
+  address: P.O. Box 143, Jonesboro, LA 71251
+  voice: 318-259-4275
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=13
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=13
+other_names:
+- name: J. McFarland
+- name: J.G. McFarland
+- name: Jack G. McFarland
+- name: Jack McFarland
+- name: McFarland, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000842
+- scheme: legacy_openstates
+  identifier: LAL000880
+sources:
+- url: https://ballotpedia.org/Jack_McFarland
+- url: https://en.wikipedia.org/wiki/Jack_McFarland_%28Louisiana_politician%29
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=13
+- url: https://house.louisiana.gov/H_Reps/members?ID=13
+- url: https://www.linkedin.com/in/jack-mcfarland-73638b153
+extras:
+  legislative assistant: Katie Murphy Murray
+  representing parishes:
+  - Bienville
+  - Jackson
+  - Ouachita
+  - and Winn
+  education: Winnfield Senior High School; University of Arkansas at Monticello, B.S.,
+    Business Administration/Industrial Management

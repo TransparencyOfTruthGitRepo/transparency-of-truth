@@ -1,0 +1,40 @@
+id: ocd-person/982babbb-33e1-48ad-a199-10a86e6db5e6
+name: Jeremiah Moore
+given_name: Jeremiah
+family_name: Moore
+gender: Male
+email: jeremiah.moore@arkansashouse.org
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/622_sm.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '61'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+- classification: district-mail
+  address: P.O. Box 55, Clarendon, AR 72029
+  voice: 870-674-4373
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=J.+Moore
+- url: https://www.arkansashouse.org/district/61
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=J.+Moore&ddBienniumSession=2023%2F2023R
+other_names:
+- name: J. Moore
+- name: J.L. Moore
+- name: Moore, J.
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=J.+Moore
+- url: https://ballotpedia.org/Jeremiah_Moore
+- url: https://justfacts.votesmart.org/candidate/biography/202407/jeremiah-moore
+- url: https://www.arkansashouse.org/district/61
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=J.+Moore&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+- url: https://www.linkedin.com/in/jeremiah-moore-24050348
+extras:
+  seniority: '76'
+  veteran: 'No'

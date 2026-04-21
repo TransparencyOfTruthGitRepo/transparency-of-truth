@@ -1,0 +1,59 @@
+id: ocd-person/c0f06e59-7d28-535f-8efe-5f49f273763d
+name: Gabe Amo
+given_name: Gabe
+family_name: Amo
+birth_date: 1987-12-11
+gender: Male
+email: https://amo.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/A000380.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-11-13
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: RI-1
+- start_date: 2023-11-07
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: RI-1
+offices:
+- classification: capitol
+  address: 1119 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-4911
+  fax: 202-225-3290
+- classification: district
+  address: 10 Charles St. Suite 200, Providence, RI 02904
+  voice: 401-729-5600
+  fax: 401-729-5608
+links:
+- url: https://amo.house.gov
+  note: website
+- url: https://amo.house.gov/
+other_names:
+- name: Amo, G.
+- name: G. Amo
+- name: G.F.K. Amo
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Gabe Amo
+- scheme: bioguide
+  identifier: A000380
+- scheme: fec
+  identifier: H4RI01265
+- scheme: govtrack
+  identifier: '456955'
+- scheme: opensecrets
+  identifier: N00052615
+- scheme: pictorial
+  identifier: '13239'
+- scheme: wikidata
+  identifier: Q118901875
+sources:
+- url: https://amo.house.gov
+- url: https://en.wikipedia.org/wiki/Gabe_Amo
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.linkedin.com/in/gabeamo

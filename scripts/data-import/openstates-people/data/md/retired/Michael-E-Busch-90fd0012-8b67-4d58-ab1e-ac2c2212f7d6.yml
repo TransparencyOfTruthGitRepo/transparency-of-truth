@@ -1,0 +1,25 @@
+id: ocd-person/90fd0012-8b67-4d58-ab1e-ac2c2212f7d6
+name: Michael E. Busch
+given_name: Michael
+family_name: Busch
+death_date: 2019-04-07
+image: http://mgaleg.maryland.gov/2019RS/images/busch.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2019-04-07'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 30A
+  end_reason: Deceased
+links:
+- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=busch&stab=01
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000257
+- scheme: legacy_openstates
+  identifier: MDL000488
+- scheme: legacy_openstates
+  identifier: MDL000636
+sources:
+- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=busch&stab=01

@@ -1,0 +1,17 @@
+id: ocd-person/f5203d52-9a31-4e26-b155-8bf773096083
+name: Doug Sprouse
+given_name: Doug
+family_name: Sprouse
+email: dsprouse@springdalear.gov
+roles:
+- end_date: '2020-12-31'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/place:springdale/government
+offices:
+- classification: primary
+  address: 201 Spring Street;Springdale, AR 72764
+  voice: 479-750-8114
+links:
+- url: http://www.springdaleark.org/
+sources:
+- url: http://www.springdaleark.org/

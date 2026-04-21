@@ -1,0 +1,80 @@
+id: ocd-person/a3ddc445-efa1-4c0c-809a-d21fc383fa59
+name: Charles Scott
+given_name: Charles
+family_name: Scott
+birth_date: 1945-08-19
+gender: Male
+email: charles.scott@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-ScottCharles.jpg
+party:
+- name: Republican
+roles:
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '30'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+  voice: 307-777-7881
+- classification: district
+  address: 13900 State Highway 487, Casper, WY 82604
+  voice: 307-473-2512
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/S/294
+- url: https://www.wyoleg.gov/Legislators/2025/S/294
+- url: https://wyoleg.gov/Legislators/2019/R/294
+- url: https://wyoleg.gov/Legislators/2021/R/294
+other_names:
+- name: C. Scott
+- name: C.K. Scott
+- name: Scott, C
+- name: Scott, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000029
+sources:
+- url: https://ballotpedia.org/Charles_Scott_(Wyoming)
+- url: https://en.wikipedia.org/wiki/Charles_Scott_(Wyoming_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/2756/charles-scott
+- url: https://www.wyoleg.gov/Legislators/2023/S/294
+- url: https://www.wyoleg.gov/Legislators/2025/S/294
+- url: https://wyoleg.gov/Legislators/2019/R/294
+- url: https://wyoleg.gov/Legislators/2021/R/294
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+- url: https://wyoleg.gov/LsoService/api/legislator/294
+extras:
+  county: Natrona County
+  education:
+  - schoolName: Harvard College
+    gradYear: '1967'
+    degree: BA
+  - schoolName: Harvard Business School
+    gradYear: '1969'
+    degree: MBA
+  religion: Unitarian
+  number of children: '2'
+  number of grandchildren: '1'
+  birth place: USMC Base near Klamath Falls, Oregon
+  occupation: Rancher
+  leadership:
+  - startYear: '1993'
+    endYear: '1994'
+    position: Senate Vice President
+    currentLeader: false
+  organizations:
+  - orgname: Audubon Society
+  - orgname: Nature Conservancy
+  - orgname: Stock Grower's Association
+  - orgname: Reforming States Group - Vice Chairman
+  house years: 'House:  1979-1982'
+  senate years: 'Senate: 1983-Present'
+  prior service:
+  - chamber: House
+    startYear: 1979
+    endYear: '1982'
+    district: ''
+  - chamber: Senate
+    startYear: 1983
+    endYear: Present
+    district: ' District 30, '

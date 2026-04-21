@@ -1,0 +1,38 @@
+id: ocd-person/e8ce793e-671a-41fa-818a-42b534fa9c6b
+name: Brandon Chafee
+given_name: Brandon
+family_name: Chafee
+gender: Male
+email: brandon.chafee@cga.ct.gov
+image: http://www2.housedems.ct.gov/Chafee/images/Chafee_HS.jpg
+party:
+- name: Democratic/Working Families
+roles:
+- start_date: 2021-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '33'
+offices:
+- classification: capitol
+  address: Room 2104, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 800-842-8267
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27033%27&dist_name=Chafee,%20Brandon
+- url: https://www.housedems.ct.gov/Chafee
+other_names:
+- name: B. Chafee
+- name: Chafee, B.
+- name: Chafee, Brandon
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Brandon_Chafee
+- url: https://en.wikipedia.org/wiki/Brandon_Chafee
+- url: https://justfacts.votesmart.org/candidate/biography/193907/brandon-chafee
+- url: https://www.housedems.ct.gov/Chafee
+- url: https://www.linkedin.com/in/brandon-chafee-pe-79737154
+extras:
+  gender: Male
+  title: Assistant Majority Leader
+  committees: Planning and Development (Vice Chair); Environment
+  committee codes: ;ENV;PD;
+  prison: '0'

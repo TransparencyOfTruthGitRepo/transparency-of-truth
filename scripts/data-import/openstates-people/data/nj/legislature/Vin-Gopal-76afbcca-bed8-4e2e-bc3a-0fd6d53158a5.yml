@@ -1,0 +1,52 @@
+id: ocd-person/76afbcca-bed8-4e2e-bc3a-0fd6d53158a5
+name: Vin Gopal
+given_name: Vin
+family_name: Gopal
+birth_date: 1985-05-18
+gender: Male
+email: sengopal@njleg.org
+image: https://www.njleg.state.nj.us/members/memberphotos/gopal_vin_2021.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2018-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '11'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 766 Shrewsbury Ave. Suite 100, Tinton Falls, NJ 07724
+  voice: 732-704-3808
+  fax: 732-383-5116
+links:
+- url: https://www.njleg.state.nj.us/legislative-roster/405/senator-gopal
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=405
+- url: https://www.njsendems.org/senators/vin-gopal/
+- url: https://www.senatorgopal.com/
+other_names:
+- name: Gopal, V.
+- name: Gopal, Vin
+- name: V. Gopal
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000228
+sources:
+- url: https://ballotpedia.org/Vin_Gopal
+- url: https://en.wikipedia.org/wiki/Vin_Gopal
+- url: https://justfacts.votesmart.org/candidate/biography/129810/vin-gopal
+- url: https://www.linkedin.com/in/vingopal
+- url: https://www.njld11.com
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/405
+- url: https://www.njleg.state.nj.us/downloads.asp
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/405/senator-gopal
+- url: https://www.njleg.state.nj.us/members/abcroster.asp
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=405
+- url: https://www.njleg.state.nj.us/members/BIO.asp?Leg=405
+- url: https://www.njsendems.org/senators/vin-gopal
+- url: https://www.senatorgopal.com
+extras:
+  position: Democratic Conference Chair

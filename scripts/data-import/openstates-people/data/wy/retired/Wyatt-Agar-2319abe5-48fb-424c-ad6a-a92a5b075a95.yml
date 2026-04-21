@@ -1,0 +1,29 @@
+id: ocd-person/2319abe5-48fb-424c-ad6a-a92a5b075a95
+name: Wyatt Agar
+given_name: Wyatt
+family_name: Agar
+email: Wyatt.Agar@wyoleg.gov
+birth_date: 1981-10-02
+image: http://wyoleg.gov/LegislatorSummary/Photos/AgarWS20.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '20'
+links:
+- url: http://wyoleg.gov/Legislators/2019/R/2032
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000146
+sources:
+- url: http://wyoleg.gov/Legislators/2019/R/2032
+extras:
+  county: Big Horn, Fremont, Hot Springs, Park, Washakie
+  number_children: '3'
+  occupation: Rancher
+  place_of_birth: Weiser, Idaho
+  religion: Christian
+  spouse_given_name: Joey
+  wy_leg_id: 2032

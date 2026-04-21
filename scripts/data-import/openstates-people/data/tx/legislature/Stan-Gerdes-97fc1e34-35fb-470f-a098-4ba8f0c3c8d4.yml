@@ -1,0 +1,37 @@
+id: ocd-person/97fc1e34-35fb-470f-a098-4ba8f0c3c8d4
+name: Stan Gerdes
+given_name: Stan
+family_name: Gerdes
+birth_date: 1986-01-23
+gender: Male
+email: stan.gerdes@house.texas.gov
+image: https://house.texas.gov/images/members/4195.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '17'
+offices:
+- classification: capitol
+  address: Room E2.604, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0682
+- classification: district
+  address: '1011 Alley A St., #B, Bastrop, TX 78602'
+  voice: 512-321-3720
+links:
+- url: https://house.texas.gov/members/4195
+- url: https://house.texas.gov/members/member-page/?district=17
+other_names:
+- name: Gerdes, S.
+- name: Gerdes, Stan
+- name: S. Gerdes
+sources:
+- url: https://ballotpedia.org/Stan_Gerdes
+- url: https://en.wikipedia.org/wiki/Stan_Gerdes
+- url: https://house.texas.gov/members/4195
+- url: https://house.texas.gov/members/4195/biography
+- url: https://house.texas.gov/members/member-page/?district=17
+- url: https://justfacts.votesmart.org/candidate/201224/stan-gerdes
+- url: https://www.linkedin.com/in/stangerdes

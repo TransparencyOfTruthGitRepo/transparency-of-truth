@@ -1,0 +1,22 @@
+id: ocd-person/fe7a1bbd-11dd-472e-a11b-ed37b8cefc06
+name: Barbara S. Helmstetter
+given_name: Barbara
+family_name: Helmstetter
+middle_name: S.
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 9
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377118
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000575
+- scheme: legacy_openstates
+  identifier: NHL000961
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members.txt

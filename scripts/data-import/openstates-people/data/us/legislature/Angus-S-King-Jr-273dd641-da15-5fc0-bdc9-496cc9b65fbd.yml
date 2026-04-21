@@ -1,0 +1,98 @@
+id: ocd-person/273dd641-da15-5fc0-bdc9-496cc9b65fbd
+name: Angus King
+given_name: Angus
+family_name: King
+birth_date: 1944-03-31
+gender: Male
+email: https://www.king.senate.gov/contact
+image: https://unitedstates.github.io/images/congress/450x550/K000383.jpg
+party:
+- name: Independent
+roles:
+- start_date: 2013-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Maine
+- start_date: 2019-01-03
+  end_date: 2025-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Maine
+- start_date: 2013-01-03
+  end_date: 2019-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Maine
+offices:
+- classification: capitol
+  address: 133 Hart Senate Office Building, Washington, DC 20510
+  voice: 202-224-5344
+- classification: district
+  address: 1 Pleasant St. Suite 4W, Portland, ME 04101
+  voice: 207-245-1565
+- classification: district
+  address: 167 Academy St. Suite A, Presque Isle, ME 04769
+  voice: 207-764-5124
+- classification: district
+  address: 202 Harlow St. Suite 20350, Bangor, ME 04401
+  voice: 207-945-8000
+- classification: district
+  address: 227 Main St., Biddeford, ME 04005
+  voice: 207-352-5216
+- classification: district
+  address: 40 Western Ave., E.S. Muskie Federal Building Room 412, Augusta, ME 04330
+  voice: 207-622-8292
+  fax: 207-621-1286
+links:
+- url: https://www.king.senate.gov
+  note: website
+- url: https://www.king.senate.gov/
+- url: https://www.king.senate.gov/contact
+  note: contact form
+other_names:
+- name: A. King
+- name: A.S. King
+- name: Angus S. King
+- name: Angus S. King, Jr.
+- name: King, A.
+ids:
+  twitter: SenAngusKing
+  youtube: UCpp6lGvrmt0XU_lnD4Ak0gA
+  facebook: SenatorAngusSKingJr
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Angus King
+- scheme: bioguide
+  identifier: K000383
+- scheme: cspan
+  identifier: '37413'
+- scheme: fec
+  identifier: S2ME00109
+- scheme: google_entity_id
+  identifier: kg:/m/02hfx0
+- scheme: govtrack
+  identifier: '412545'
+- scheme: icpsr
+  identifier: '41300'
+- scheme: lis
+  identifier: S363
+- scheme: maplight
+  identifier: '1769'
+- scheme: opensecrets
+  identifier: N00034580
+- scheme: pictorial
+  identifier: '13432'
+- scheme: thomas
+  identifier: 02185
+- scheme: votesmart
+  identifier: '22381'
+- scheme: wikidata
+  identifier: Q544464
+sources:
+- url: https://ballotpedia.org/Angus_King
+- url: https://en.wikipedia.org/wiki/Angus_King
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/angus_king/412545
+- url: https://www.king.senate.gov

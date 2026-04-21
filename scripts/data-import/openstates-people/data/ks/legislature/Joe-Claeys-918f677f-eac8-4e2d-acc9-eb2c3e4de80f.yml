@@ -1,0 +1,31 @@
+id: ocd-person/918f677f-eac8-4e2d-acc9-eb2c3e4de80f
+name: Joe Claeys
+given_name: Joe
+family_name: Claeys
+gender: Male
+email: joseph.claeys@senate.ks.gov
+image: https://www.kslegislature.gov/li/s/images/pics/sen_claeys_joseph_1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '27'
+offices:
+- classification: capitol
+  address: State Capitol Room 237-E, Kansas  Building 300 SW 10th St., Topeka, KS
+    66612
+  voice: 785-296-7353
+- classification: district-mail
+  address: P.O. Box 572, Maize, KS 67101
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/sen_claeys_joseph_1/
+other_names:
+- name: Claeys, J.
+- name: Claeys,Joseph
+- name: J. Claeys
+sources:
+- url: https://ballotpedia.org/Joe_Claeys
+- url: https://www.kslegislature.gov/li/b2025_26/members/sen_claeys_joseph_1
+- url: https://www.linkedin.com/in/claeysjoseph

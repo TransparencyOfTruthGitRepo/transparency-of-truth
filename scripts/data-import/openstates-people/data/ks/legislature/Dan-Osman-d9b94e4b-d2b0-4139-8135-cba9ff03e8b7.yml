@@ -1,0 +1,38 @@
+id: ocd-person/d9b94e4b-d2b0-4139-8135-cba9ff03e8b7
+name: Dan Osman
+given_name: Dan
+family_name: Osman
+gender: Male
+email: dan.osman@house.ks.gov
+image: http://www.kslegislature.org/li/s/images/pics/rep_osman_dan_1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-08-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '48'
+offices:
+- classification: capitol
+  address: State Capitol Room 451-S, Kansas  Building 300 SW 10th St., Topeka, KS
+    66612
+  voice: 785-296-7680
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_osman_dan_1/
+- url: https://www.kslegislature.org/li/b2021_22/members/rep_osman_dan_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_osman_dan_1/
+other_names:
+- name: D. Osman
+- name: Osman, D.
+sources:
+- url: https://ballotpedia.org/Dan_Osman
+- url: https://danosman.wixsite.com/osmanconsulting
+- url: https://en.wikipedia.org/wiki/Dan_Osman_(Kansas_politician)
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_osman_dan_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_osman_dan_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_osman_dan_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_osman_dan_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_osman_dan_1/
+- url: https://www.linkedin.com/in/osmandan
+extras:
+  occupation: Attorney

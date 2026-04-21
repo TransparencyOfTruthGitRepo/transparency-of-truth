@@ -1,0 +1,58 @@
+id: ocd-person/931a9e71-33a6-4e65-be91-703ad612447e
+name: John Bear
+given_name: John
+family_name: Bear
+gender: Male
+email: john.bear@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-BearJohn.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '31'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district
+  address: 409 Mills Ave., Gillette, WY 82718
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/H/2075
+- url: https://www.wyoleg.gov/Legislators/2025/H/2075
+- url: https://wyoleg.gov/Legislators/2021/R/2075
+other_names:
+- name: Bear, J
+- name: Bear, J.
+- name: J. Bear
+- name: J.W. Bear
+sources:
+- url: https://ballotpedia.org/John_Bear_(Wyoming)
+- url: https://en.wikipedia.org/wiki/John_Bear_%28politician%29
+- url: https://justfacts.votesmart.org/candidate/194580/john-bear
+- url: https://www.linkedin.com/in/john-bear-105729a6
+- url: https://www.wyoleg.gov/Legislators/2023/H/2075
+- url: https://www.wyoleg.gov/Legislators/2025/H/2075
+- url: https://wyoleg.gov/Legislators/2021/R/2075
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2075
+extras:
+  county: Campbell County
+  education:
+  - schoolName: University of Colorado
+    gradYear: '1988'
+    degree: BA in Economics
+  spouse name: Sage Coulter Bear
+  number of children: '1'
+  number of grandchildren: '2'
+  birth place: Trenton, MO
+  occupation: Small business owner
+  organizations:
+  - orgname: U.S. Navy
+  house years: 'House:  2021-Present'
+  prior service:
+  - chamber: House
+    startYear: 2021
+    endYear: Present
+    district: ' District 31, '

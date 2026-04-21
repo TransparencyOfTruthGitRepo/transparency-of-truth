@@ -1,0 +1,66 @@
+id: ocd-organization/c0a3a5ee-2002-47b6-8858-ee164d2812a9
+jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+classification: committee
+name: State Government and Elections
+chamber: lower
+sources:
+- url: https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HSGE&CommitteeName=State%20Government%20and%20Elections
+- url: https://webserver.rilegislature.gov/ComMembers/ComMemr.asp?ComChoiceR=HSGE
+- url: https://www.rilegislature.gov/pages/committees.aspx
+links:
+- url: https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HSGE&CommitteeName=State%20Government%20and%20Elections
+- url: https://webserver.rilegislature.gov/ComMembers/ComMemr.asp?ComChoiceR=HSGE
+members:
+- name: Karen Alzate
+  role: chair
+  person_id: ocd-person/016b40cf-1be0-4e66-acdf-78a029822e1c
+- name: Grace Diaz
+  role: first vice chair
+  person_id: ocd-person/44424388-03a6-452b-992b-3c082949f62f
+- name: John Lombardi
+  role: second vice chair
+  person_id: ocd-person/f9877000-1919-4f5b-a8b7-f05a1092bdab
+- name: Anthony DeSimone
+  role: member
+  person_id: ocd-person/b9359c6a-fbb2-4165-af9b-a6c63290d851
+- name: Bob Quattrocchi
+  role: member
+  person_id: ocd-person/11bc8a51-bee7-422d-8bb7-6a9177e55735
+- name: Cherie Cruz
+  role: member
+  person_id: ocd-person/386a8117-95b5-441f-91d0-665effac1af4
+- name: Chris Paplauskas
+  role: member
+  person_id: ocd-person/4f6ac85b-f69f-4916-beaf-a30087ba1214
+- name: Enrique Sanchez
+  role: member
+  person_id: ocd-person/e70e3449-7587-4a64-a940-922d543f5a2d
+- name: Joshua Giraldo
+  role: member
+  person_id: ocd-person/b6a9a38c-0f39-4150-b041-fd6c75f9c8ad
+- name: Katie Kazarian
+  role: member
+  person_id: ocd-person/bd30e693-11a2-412f-b81a-bebc78d91145
+- name: Matthew Dawson
+  role: member
+  person_id: ocd-person/bffdb553-5c5c-403e-8e2c-47b34a7b50f5
+- name: Ramon Perez
+  role: member
+  person_id: ocd-person/181465b6-b392-4222-acec-456182d23aa5
+- name: Samuel Azzinaro
+  role: member
+  person_id: ocd-person/c9229f5a-b4ac-4cf2-b227-a0b4e56cca2f
+- name: Scott Slater
+  role: member
+  person_id: ocd-person/1cd78f67-6adb-47c6-98cd-f49ca8eb603f
+- name: Stephen Casey
+  role: member
+  person_id: ocd-person/0b20a11e-e90b-4ff2-aa25-5334a8592071
+other_names:
+- name: House Committee on State Government and Elections
+- name: House State Government and Elections
+- name: House State Government and Elections Committee
+extras:
+  Clerk: Tiffany Johnson
+  Phone: 222-1787
+  Email: HouseStateGovernmentandElections@rilegislature.gov

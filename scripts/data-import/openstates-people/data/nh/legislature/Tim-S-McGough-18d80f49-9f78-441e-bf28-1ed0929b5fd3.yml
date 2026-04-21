@@ -1,0 +1,52 @@
+id: ocd-person/18d80f49-9f78-441e-bf28-1ed0929b5fd3
+name: Tim McGough
+given_name: Tim
+family_name: McGough
+gender: Male
+email: tim.mcgough@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123352.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '11'
+- start_date: 2022-12-07
+  end_date: 2024-12-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '11'
+- start_date: 2022-12-07
+  end_date: 2024-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 12
+offices:
+- classification: capitol
+  address: Room 105-A, State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-8631
+links:
+- url: https://gc.nh.gov/senate/members/webpages/district11.aspx
+- url: https://gencourt.state.nh.us/senate/members/webpages/district11.aspx
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=5686
+  note: member detail page
+other_names:
+- name: McGough, T.
+- name: T. McGough
+- name: T.S. McGough
+- name: Tim S McGough
+sources:
+- url: https://ballotpedia.org/Tim_McGough
+- url: https://en.wikipedia.org/wiki/Tim_McGough
+- url: https://gc.nh.gov/senate/members/webpages/district11.aspx
+- url: https://gencourt.state.nh.us/senate/members/webpages/district11.aspx
+- url: https://justfacts.votesmart.org/candidate/14269/tim-mcgough
+- url: https://votemcgough.org/about
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=5686
+- url: https://www.linkedin.com/in/timmcgough
+- url: https://www.votemcgough.org/about
+extras:
+  county: Hillsborough
+  elected status: Former
+  gender code: M

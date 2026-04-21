@@ -1,0 +1,40 @@
+id: ocd-person/6968fa09-cbf8-42a5-a5a6-132b0b663103
+name: Jenifer Jones
+given_name: Jenifer
+family_name: Jones
+gender: Female
+email: jenifer.jones@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HJONJ.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '32'
+offices:
+- classification: capitol
+  address: State Capitol Room 203A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4227
+- classification: district-mail
+  address: P.O. Box 1844, Deming, NM 88030
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HJONJ
+  note: homepage
+other_names:
+- name: J. Jones
+- name: J.M. Jones
+- name: Jenifer M. Jones
+- name: Jenifer Marie Jones
+- name: Jones, J.
+- name: Jones, Jenifer
+sources:
+- url: https://ballotpedia.org/Jenifer_Jones
+- url: https://en.wikipedia.org/wiki/Jenifer_Jones
+- url: https://www.linkedin.com/in/jenifer-m-jones-91278026b
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HJONJ
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: "Do\xF1a Ana, Hidalgo & Luna"
+  occupation: Registered Nurse

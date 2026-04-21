@@ -1,0 +1,43 @@
+id: ocd-person/bc3200fa-f97b-433f-bb0b-ac15f71b2e92
+name: Tony Scott
+given_name: Tony
+family_name: Scott
+birth_date: 1976-08-14
+gender: Male
+email: tony.scott@housegop.ct.gov
+image: https://cga.ct.gov/legpics/112.png?ver=
+party:
+- name: Republican
+roles:
+- start_date: 2021-04-19
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '112'
+offices:
+- classification: capitol
+  address: Room 4200, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 800-842-1423
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27112%27&dist_name=Scott,%20Tony%20J
+- url: https://www.cthousegop.com/Scott
+- url: https://www.cthousegop.com/Scott/
+other_names:
+- name: A. Scott
+- name: Scott, T.
+- name: T. Scott
+- name: Tony J. Scott
+- name: Tony Scott
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Tony_Scott
+- url: https://en.wikipedia.org/wiki/Tony_Scott_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/195887/tony-scott
+- url: https://www.cthousegop.com/Scott
+- url: https://www.cthousegop.com/Scott/
+- url: https://www.linkedin.com/in/tonyjscott
+extras:
+  gender: Male
+  committees: Housing (Ranking Member); General Law; Higher Education and Employment
+    Advancement
+  committee codes: ;GL;HED;HSG;
+  prison: '0'

@@ -1,0 +1,43 @@
+id: ocd-person/f67d5fcc-0dac-4bf0-b1ab-b63f73162d0b
+name: Dan McGuire
+given_name: Dan
+family_name: McGuire
+gender: Male
+email: dan.mcguire@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/21889.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 14
+- start_date: 2010-12-01
+  end_date: 2016-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 14
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=376984
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376984
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=637
+  note: member detail page
+other_names:
+- name: D. McGuire
+- name: Daniel McGuire
+- name: McGuire, D.
+sources:
+- url: https://ballotpedia.org/Dan_McGuire_(New_Hampshire)
+- url: https://en.wikipedia.org/wiki/Dan_McGuire
+- url: https://gc.nh.gov/house/members/member.aspx?member=376984
+- url: https://justfacts.votesmart.org/candidate/biography/109939/dan-mcguire
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376984
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=637
+extras:
+  county: Merrimack
+  elected status: Incumbent
+  gender code: M

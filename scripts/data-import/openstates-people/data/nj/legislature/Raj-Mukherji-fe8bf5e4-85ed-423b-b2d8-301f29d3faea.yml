@@ -1,0 +1,57 @@
+id: ocd-person/fe8bf5e4-85ed-423b-b2d8-301f29d3faea
+name: Raj Mukherji
+given_name: Raj
+family_name: Mukherji
+birth_date: 1984-07-15
+gender: Male
+email: senmukherji@njleg.org
+image: https://www.njleg.state.nj.us/members/memberphotos/mukherji_color.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '32'
+- start_date: 2014-01-14
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '33'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 121 Newark Ave., 1st Floor, Jersey City, NJ 07302
+  voice: 201-626-4000
+  fax: 201-626-4001
+links:
+- url: https://www.assemblydems.com/raj-mukherji/
+- url: https://www.njleg.state.nj.us/legislative-roster/364/assemblyman-mukherji
+- url: https://www.njleg.state.nj.us/legislative-roster/485/senator-mukherji
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=364
+- url: https://www.njsendems.org/184/Raj-Mukherji
+other_names:
+- name: Mukherji, R.
+- name: Mukherji, Raj
+- name: R. Mukherji
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000185
+sources:
+- url: https://ballotpedia.org/Raj_Mukherji
+- url: https://en.wikipedia.org/wiki/Raj_Mukherji
+- url: https://justfacts.votesmart.org/candidate/biography/144606/raj-mukherji
+- url: https://www.linkedin.com/in/rajmukherji
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/364
+- url: https://www.njleg.state.nj.us/downloads.asp
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/364/assemblyman-mukherji
+- url: https://www.njleg.state.nj.us/legislative-roster/485/senator-mukherji
+- url: https://www.njleg.state.nj.us/members/abcroster.asp
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=364
+- url: https://www.njleg.state.nj.us/members/BIO.asp?Leg=364
+- url: https://www.njsendems.org/184/Raj-Mukherji
+extras:
+  position: Deputy Speaker/Deputy Parliamentarian

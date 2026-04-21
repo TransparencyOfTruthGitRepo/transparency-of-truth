@@ -1,0 +1,25 @@
+id: ocd-person/a0131e97-8171-4c05-ae8d-2c37c1cb3b90
+name: Andrew E. Dinniman
+given_name: Andrew
+family_name: Dinniman
+email: andy@pasenate.com
+image: https://www.legis.state.pa.us/images/members/200/1049.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-11-30'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '19'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1049
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000009
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1049
+extras:
+  facebook: https://www.facebook.com/SenatorAndyDinniman/
+  instagram: https://www.instagram.com/senatordinniman/
+  twitter: https://twitter.com/SenatorDinniman

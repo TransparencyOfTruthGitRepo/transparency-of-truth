@@ -1,0 +1,34 @@
+id: ocd-person/49609474-e343-4c1d-8e6b-677f31c228b7
+name: Dave Hinman
+given_name: Dave
+family_name: Hinman
+gender: Male
+email: dave.hinman@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2357
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '103'
+offices:
+- classification: capitol
+  address: Room 317-B, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-2176
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?\district=103
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=103
+other_names:
+- name: D. Hinman
+- name: D.M. Hinman
+- name: Hinman, D.
+sources:
+- url: https://ballotpedia.org/Dave_Hinman
+- url: https://en.wikipedia.org/wiki/Dave_Hinman
+- url: https://house.mo.gov/MemberDetails.aspx?\district=103
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=103
+- url: https://justfacts.votesmart.org/candidate/biography/159907/dave-hinman
+- url: https://www.linkedin.com/in/dave-hinman-010a5029b
+extras:
+  hometown: O'Fallon

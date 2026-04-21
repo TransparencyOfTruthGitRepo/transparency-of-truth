@@ -1,0 +1,45 @@
+id: ocd-organization/54b7b1e0-2c7f-4b8d-8117-60c3dfe31367
+jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+classification: committee
+name: Veterans and Military Affairs
+chamber: upper
+sources:
+- url: https://senate.mo.gov/Committees/CommitteeDetails/80
+  note: Committee Details Page
+- url: https://senate.mo.gov/Committees/CommitteeGroup/1
+  note: Committees List Page
+- url: https://www.senate.mo.gov/Committees/CommitteeDetails/80
+- url: https://www.senate.mo.gov/Committees/CommitteeDetails/90
+links:
+- url: https://senate.mo.gov/Committees/CommitteeDetails/80
+  note: homepage
+- url: https://senate.mo.gov/Committees/CommitteeGroup/1
+- url: https://www.senate.mo.gov/Committees/CommitteeDetails/80
+- url: https://www.senate.mo.gov/Committees/CommitteeDetails/90
+members:
+- name: Mike Moon
+  role: chair
+  person_id: ocd-person/43563b48-1d26-4a85-bad2-615971201d41
+- name: Adam Schnelting
+  role: vice chair
+  person_id: ocd-person/f436aa10-c006-4128-9748-050bf50c4e21
+- name: Joe Nicola
+  role: member
+  person_id: ocd-person/a93088fa-ad80-49de-aa94-d03da0add0bc
+- name: Rick Brattin
+  role: member
+  person_id: ocd-person/e4811e7a-7df7-4275-917d-8bdcc2778fb1
+- name: Stephen Webber
+  role: member
+  person_id: ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9
+- name: Steve Roberts
+  role: member
+  person_id: ocd-person/20ad6a34-2965-4068-b819-49c5e0d27831
+other_names:
+- name: Senate Committee on Veterans and Military Affairs
+- name: Senate Committee on Veterans, Military Affairs and Pensions
+- name: Senate Veterans and Military Affairs
+- name: Senate Veterans and Military Affairs Committee
+- name: Senate Veterans, Military Affairs and Pensions
+- name: Senate Veterans, Military Affairs and Pensions Committee
+- name: Veterans, Military Affairs and Pensions

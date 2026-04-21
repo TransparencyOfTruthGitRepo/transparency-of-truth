@@ -1,0 +1,17 @@
+id: ocd-person/bfd9d502-37f9-41ae-853d-44b639c79022
+name: Steve Goss
+given_name: Steve
+family_name: Goss
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '45'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000026
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/memberList.pl?sChamber=Senate

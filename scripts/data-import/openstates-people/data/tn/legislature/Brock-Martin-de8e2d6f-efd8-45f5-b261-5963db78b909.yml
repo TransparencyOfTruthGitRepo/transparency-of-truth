@@ -1,0 +1,46 @@
+id: ocd-person/de8e2d6f-efd8-45f5-b261-5963db78b909
+name: Brock Martin
+given_name: Brock
+family_name: Martin
+birth_date: 1984-10-04
+gender: Male
+email: rep.brock.martin@capitol.tn.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Brock-Martin.PNG
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '79'
+offices:
+- classification: capitol
+  address: Room 652, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-7478
+links:
+- url: https://tnhousegop.org/members/representative-brock-martin/
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H79
+  note: homepage
+other_names:
+- name: B. Martin
+- name: Martin B
+- name: Martin, B
+- name: Martin, B.
+sources:
+- url: https://ballotpedia.org/Brock_Martin
+- url: https://justfacts.votesmart.org/candidate/biography/206907/brock-martin
+- url: https://tnhousegop.org/members/representative-brock-martin
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H79
+extras:
+  office: 652 CHB
+  personal info:
+  - Born October 4, 1984
+  - Married, wife Krista, one son, Steele
+  - Chiropractic Physician
+  - "Baptist \u2013 Eastview Baptist"
+  - Camden Central High, 2003
+  - Bethel University, 2006
+  - Logan University 2008
+  - Logan College of Chiropractic, DC, 2010

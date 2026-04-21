@@ -1,0 +1,40 @@
+id: ocd-person/db52dfee-b099-4ec9-800c-075d09710ca6
+name: David Gomberg
+given_name: David
+family_name: Gomberg
+birth_date: 1953-06-09
+gender: Male
+email: rep.davidgomberg@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/gomberg/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '10'
+offices:
+- classification: capitol
+  address: Room H-480, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1410
+links:
+- url: https://www.oregonlegislature.gov/gomberg
+  note: homepage
+other_names:
+- name: D. Gomberg
+- name: Gomberg, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000105
+- scheme: legacy_openstates
+  identifier: ORL000199
+- scheme: legacy_openstates
+  identifier: ORL000239
+- scheme: legacy_openstates
+  identifier: ORL000349
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/David_Gomberg
+- url: https://en.wikipedia.org/wiki/David_Gomberg
+- url: https://www.oregonlegislature.gov/gomberg

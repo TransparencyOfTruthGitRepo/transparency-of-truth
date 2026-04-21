@@ -1,0 +1,67 @@
+id: ocd-person/5079192a-3d15-4a00-b0c7-2cf29d320035
+name: Ron Winterton
+given_name: Ron
+family_name: Winterton
+gender: Male
+email: rwinterton@le.utah.gov
+image: https://le.utah.gov/images/legislator/WINTER.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '20'
+- start_date: 2019-01-01
+  end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '26'
+offices:
+- classification: capitol
+  address: P.O. Box 145115 350 N. State St., Suite 320, Salt Lake City, UT 84114
+  voice: 435-823-2727
+- classification: district-mail
+  address: P.O. Box 523, Roosevelt, UT 84066
+links:
+- url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414932
+  note: finance report
+- url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=WINTER
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2020/Senate_Dist26.pdf
+  note: district demographics
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/Senate_Dist20.pdf
+  note: district demographics
+- url: https://le.utah.gov/senate/CofI/COFIWINTER.pdf
+  note: conflict of interest 0
+- url: https://senate.utah.gov/ronald-winterton
+- url: https://senate.utah.gov/sen/WINTER/
+  note: homepage
+other_names:
+- name: R. Winterton
+- name: R.M. Winterton
+- name: Ronald M. Winterton
+- name: Ronald Winterton
+- name: Winterton, R.
+- name: Winterton, Ron
+- name: Winterton, Ronald M.
+sources:
+- url: https://ballotpedia.org/Ronald_Winterton
+- url: https://en.wikipedia.org/wiki/Ronald_Winterton
+- url: https://justfacts.votesmart.org/candidate/biography/114224/ronald-winterton
+- url: https://le.utah.gov/data/legislators.json
+- url: https://senate.utah.gov/sen/WINTER
+- url: https://senate.utah.gov/sen/WINTER/
+- url: https://www.linkedin.com/in/ronald-winterton-83144945
+extras:
+  service start: January 1, 2019
+  profession: Professional Service consultant
+  education: High School, Technical college
+  counties represented:
+  - Daggett
+  - Duchesne
+  - Summit
+  - Uintah
+  - Wasatch
+  cell phone: 435-299-8531
+  home phone: 435-722-2729

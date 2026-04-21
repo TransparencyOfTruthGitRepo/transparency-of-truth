@@ -1,0 +1,53 @@
+id: ocd-person/4b336587-cb71-4a49-9cf8-514cdd2771ff
+name: Kevin Payne
+given_name: Kevin
+family_name: Payne
+gender: Male
+email: kpayne@azleg.gov
+image: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PAYNE.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '27'
+- start_date: 2023-01-09
+  end_date: 2025-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '27'
+- start_date: 2017-01-09
+  end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '21'
+offices:
+- classification: capitol
+  address: Room 302, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-4854
+links:
+- url: https://www.azleg.gov/house-member/?legislature=55&legislator=2023
+- url: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1882
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2023
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2023
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2188
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2188
+- url: https://www.azleg.gov/senate-member/?legislature=57&legislator=2387
+other_names:
+- name: K. Payne
+- name: Payne, K.
+ids:
+  twitter: kevinpayneld21
+  facebook: electkevinpayne
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AZL000390
+sources:
+- url: https://ballotpedia.org/Kevin_Payne
+- url: https://en.wikipedia.org/wiki/Kevin_Payne_(politician)
+- url: https://www.azleg.gov/house-member/?legislature=55&legislator=2023
+- url: https://www.azleg.gov/MemberRoster/?body=H
+- url: https://www.azleg.gov/memberroster/?body=H
+- url: https://www.azleg.gov/senate-member/?legislature=57&legislator=2387
+- url: https://www.linkedin.com/in/kevin-payne-32a61895

@@ -1,0 +1,61 @@
+id: ocd-person/9531d502-440c-48db-83c4-70dfbe9a9ea1
+name: Marvin Lim
+given_name: Marvin
+family_name: Lim
+birth_date: 1984-04-07
+gender: Male
+email: marvin.lim@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/lim-marvin-4999.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '98'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '99'
+offices:
+- classification: capitol
+  address: Room 611-B, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0314
+- classification: district-mail
+  address: P.O. Box 931886, Norcross, GA 30093
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4999
+- url: https://www.legis.ga.gov/members/house/4999?session=1029
+- url: https://www.legis.ga.gov/members/house/4999?session=1031
+  note: HTML member detail page
+other_names:
+- name: LIM, 98TH
+- name: Lim, M.
+- name: M. Lim
+- name: M.C. Lim
+- name: Marvin Certeza Lim
+- name: Marvin Lim
+sources:
+- url: https://ballotpedia.org/Marvin_Lim
+- url: https://en.wikipedia.org/wiki/Marvin_Lim
+- url: https://justfacts.votesmart.org/candidate/biography/190276/marvin-lim
+- url: https://www.legis.ga.gov/api/members/detail/4999?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4999?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4999
+- url: https://www.legis.ga.gov/members/house/4999?session=1029
+- url: https://www.linkedin.com/in/marvin-lim-ga
+extras:
+  residence: Norcross
+  city: Norcross
+  georgia_id: 4999
+  occupation: Attorney
+  press: https://house-press.com/representative/Marvin-Lim
+  staff: Kimberli Wideman - Administrative Assistant
+  staff email: kim.wideman@house.ga.gov

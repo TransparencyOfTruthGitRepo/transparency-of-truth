@@ -1,0 +1,63 @@
+id: ocd-person/b097e069-345d-42da-b821-0c2c9747ccfc
+name: Bryce Edgmon
+given_name: Bryce
+family_name: Edgmon
+birth_date: 1961-05-03
+gender: Male
+email: representative.bryce.edgmon@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/EDG.jpg
+party:
+- name: Independent
+roles:
+- start_date: 2019-02-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '37'
+- end_date: 2019-02-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '37'
+  start_date: 2019-02-11
+offices:
+- classification: capitol
+  address: State Capitol Room 208, 120 4th St., Juneau, AK 99801
+  voice: 907-465-4451
+- classification: district
+  address: 1500 W. Benson Blvd., Anchorage, AK 99503
+  voice: 907-269-0275
+links:
+- url: https://akhousemajority.com/rep-edgmon/
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=edg
+- url: https://www.akleg.gov/basis/Member/Detail/31?code=edg
+- url: https://www.akleg.gov/basis/Member/Detail/32?code=edg
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=edg
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=edg
+other_names:
+- name: B. Edgmon
+- name: B.E. Edgmon
+- name: Bryce E. Edgmon
+- name: Edgmon, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AKL000027
+- scheme: legacy_openstates
+  identifier: AKL000096
+- scheme: legacy_openstates
+  identifier: AKL000161
+sources:
+- url: https://akhousemajority.com/rep-edgmon
+- url: https://ballotpedia.org/Bryce_E._Edgmon
+- url: https://ballotpedia.org/Bryce_Edgmon
+- url: https://en.wikipedia.org/wiki/Bryce_Edgmon
+- url: https://justfacts.votesmart.org/candidate/biography/68319/bryce-edgmon
+- url: https://w3.akleg.gov
+- url: https://w3.akleg.gov/
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=edg
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=EDG
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=edg
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=edg
+- url: https://www.linkedin.com/in/bryce-edgmon-8a05b765
+extras:
+  toll_free_phone: 800-898-4451

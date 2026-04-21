@@ -1,0 +1,56 @@
+id: ocd-person/bd0e9ba2-fe37-4251-96f2-44715a186750
+name: Shawn Fluharty
+given_name: Shawn
+family_name: Fluharty
+birth_date: 1984-01-05
+gender: Male
+email: shawn.fluharty@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/fluharty_shawn.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '5'
+- start_date: 2014-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '5'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '3'
+offices:
+- classification: capitol
+  address: State Capitol Room 258M, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3270
+- classification: district
+  address: 42 Walnut Ave., Wheeling, WV 26003
+  voice: 304-281-8195
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Fluharty
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Fluharty
+  note: homepage
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Fluharty
+other_names:
+- name: Fluharty, S
+- name: Fluharty, S.
+- name: S. Fluharty
+- name: S.L. Fluharty
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000326
+sources:
+- url: https://ballotpedia.org/Shawn_Fluharty
+- url: https://en.wikipedia.org/wiki/Shawn_Fluharty
+- url: https://justfacts.votesmart.org/candidate/biography/117619/shawn-fluharty
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Fluharty
+- url: https://www.linkedin.com/in/shawnfluharty
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Fluharty
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Fluharty
+- url: https://www.wvlegislature.gov/House/roster.cfm
+extras:
+  title: Minority Whip

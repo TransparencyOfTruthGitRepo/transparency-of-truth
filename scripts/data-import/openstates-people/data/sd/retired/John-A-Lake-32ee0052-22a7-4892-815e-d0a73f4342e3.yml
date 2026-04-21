@@ -1,0 +1,24 @@
+id: ocd-person/32ee0052-22a7-4892-815e-d0a73f4342e3
+name: John  A Lake
+given_name: John A
+family_name: Lake
+email: John.Lake@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Lake_2017.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '23'
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1526&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1589&Session=2019
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000276
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1526&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1589&Session=2019
+extras:
+  occupation: Farmer/Rancher

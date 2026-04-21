@@ -1,0 +1,28 @@
+id: ocd-person/05a89099-12b0-46b5-9f6e-002e1e621583
+name: Sharon Frost
+given_name: Sharon
+family_name: Frost
+gender: Female
+email: sharon.frost@legislature.maine.gov
+image: https://frost.mainecandidate.com/images/2105.jpg
+party:
+- name: Independent
+roles:
+- start_date: 2024-12-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '58'
+offices:
+- classification: capitol
+  address: Office of the Clerk of the House 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/3117
+other_names:
+- name: FROST of Belgrade
+- name: Frost, S.
+- name: S. Frost
+- name: S.C. Frost
+sources:
+- url: https://ballotpedia.org/Sharon_Frost
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/3117

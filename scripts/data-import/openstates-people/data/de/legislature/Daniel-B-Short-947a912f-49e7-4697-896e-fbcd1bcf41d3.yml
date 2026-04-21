@@ -1,0 +1,48 @@
+id: ocd-person/947a912f-49e7-4697-896e-fbcd1bcf41d3
+name: Danny Short
+given_name: Danny
+family_name: Short
+birth_date: 1961-07-11
+gender: Male
+email: daniel.short@delaware.gov
+image: https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/08/Daniel_Short_Member_Card.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2007-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:de/government
+  district: '39'
+offices:
+- classification: capitol
+  address: P.O. Box 1401 411 Legislative Ave., Dover, DE 19901
+  voice: 302-744-4171
+links:
+- url: https://housegop.delaware.gov/members/house-district-39/
+- url: https://legis.delaware.gov/AssemblyMember/150/DShort
+- url: https://legis.delaware.gov/LegislatorDetail?personId=89
+  note: legislator page
+- url: https://legis.delaware.gov/legislature.nsf/bydistrict/representative39
+other_names:
+- name: D. Short
+- name: D.B. Short
+- name: Daniel B. Short
+- name: Short, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: DEL000055
+- scheme: legacy_openstates
+  identifier: DEL000117
+sources:
+- url: https://ballotpedia.org/Daniel_Short
+- url: https://en.wikipedia.org/wiki/Daniel_Short
+- url: https://housegop.delaware.gov/members/house-district-39
+- url: https://justfacts.votesmart.org/candidate/biography/30692/danny-short
+- url: https://legis.delaware.gov/AssemblyMember/150/DShort
+- url: https://legis.delaware.gov/House
+  note: legislator list page
+- url: https://legis.delaware.gov/json/House/GetRepresentatives
+- url: https://legis.delaware.gov/LegislatorDetail?personId=89
+- url: https://legis.delaware.gov/legislature.nsf/bydistrict/representative39
+extras:
+  title: House Minority Leader

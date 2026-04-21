@@ -1,0 +1,41 @@
+id: ocd-person/aefc2237-5913-4b96-9354-18fb7e58884c
+name: Debbie Villio
+given_name: Debbie
+family_name: Villio
+gender: Female
+email: hse079@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep79.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '79'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 4203 Williams Blvd. Suite 200, Kenner, LA 70065
+  voice: 504-468-8603
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=79
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=79
+other_names:
+- name: D. Villio
+- name: D.A. Villio
+- name: Villio, D.
+sources:
+- url: https://ballotpedia.org/Debbie_Villio
+- url: https://en.wikipedia.org/wiki/Debbie_Villio
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=79
+- url: https://house.louisiana.gov/H_Reps/members?ID=79
+- url: https://justfacts.votesmart.org/candidate/biography/187026/debbie-villio
+extras:
+  legislative assistant: Jack Rizzuto
+  representing parishes:
+  - Jefferson
+  education: Loyola, J.D., 1988; University of New Orleans, General Studies, 1985

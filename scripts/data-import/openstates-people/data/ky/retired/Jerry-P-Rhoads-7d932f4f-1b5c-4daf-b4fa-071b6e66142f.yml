@@ -1,0 +1,21 @@
+id: ocd-person/7d932f4f-1b5c-4daf-b4fa-071b6e66142f
+name: Jerry P. Rhoads
+given_name: Jerry
+family_name: Rhoads
+middle_name: P.
+image: http://www.lrc.ky.gov/pubinfo/thumbnails/Senate06.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '6'
+links:
+- url: http://www.lrc.ky.gov/legislator/S006.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000023
+sources:
+- url: http://www.lrc.ky.gov/legislator/S006.htm

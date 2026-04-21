@@ -1,0 +1,48 @@
+id: ocd-person/d7d0bd69-2615-4d0c-84df-4cdb75809343
+name: Charles Schwertner
+given_name: Charles
+family_name: Schwertner
+birth_date: 1970-05-29
+gender: Male
+email: charles.schwertner@senate.texas.gov
+image: https://senate.texas.gov/members/d05/img/headshot.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '5'
+- start_date: 2011-01-11
+  end_date: 2013-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '5'
+offices:
+- classification: capitol
+  address: Room 3S.5, P.O. Box 12068 Capitol Station, Austin, TX 78711
+  voice: 512-463-0105
+- classification: district
+  address: 3000 Briarcrest Drive Suite 202, Bryan, TX 77802
+  voice: 979-776-0222
+- classification: district
+  address: Block 27, 501 S. Austin Ave., Georgetown, TX 78626
+  voice: 512-863-8456
+links:
+- url: https://senate.texas.gov/member.php?d=5
+other_names:
+- name: C. Schwertner
+- name: C.J. Schwertner
+- name: Schwertner, C.
+- name: Schwertner, Charles
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000405
+- scheme: legacy_openstates
+  identifier: TXL000422
+sources:
+- url: https://ballotpedia.org/Charles_Schwertner
+- url: https://en.wikipedia.org/wiki/Charles_Schwertner
+- url: https://justfacts.votesmart.org/candidate/biography/116941/charles-schwertner
+- url: https://senate.texas.gov/member.php?d=5
+- url: https://www.linkedin.com/in/charles-schwertner-md-635795155

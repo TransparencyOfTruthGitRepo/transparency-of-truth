@@ -1,0 +1,19 @@
+id: ocd-person/485e7d2f-4449-4992-8d56-505d20e361cc
+name: Lesia Liss
+given_name: Lesia
+family_name: Liss
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '28'
+links:
+- url: http://028.housedems.com/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000066
+sources:
+- url: http://www.house.mi.gov/mhrpublic/frmRepList.aspx

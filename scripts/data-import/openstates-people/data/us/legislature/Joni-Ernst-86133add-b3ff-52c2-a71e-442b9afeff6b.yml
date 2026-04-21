@@ -1,0 +1,100 @@
+id: ocd-person/86133add-b3ff-52c2-a71e-442b9afeff6b
+name: Joni Ernst
+given_name: Joni
+family_name: Ernst
+birth_date: 1970-07-01
+gender: Female
+email: https://www.ernst.senate.gov/contact/email-joni
+image: https://unitedstates.github.io/images/congress/450x550/E000295.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-06
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Iowa
+- start_date: 2015-01-06
+  end_date: 2021-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Iowa
+offices:
+- classification: capitol
+  address: 260 Russell Senate Office Building, Washington, DC 20510
+  voice: 202-224-3254
+  fax: 202-224-9369
+- classification: district
+  address: 111 7th Ave. SE Suite 480, Cedar Rapids, IA 52401
+  voice: 319-365-4504
+  fax: 319-365-4683
+- classification: district
+  address: 194 Federal Building 320 6th St., Sioux City, IA 51101
+  voice: 712-252-1550
+  fax: 712-252-1638
+- classification: district
+  address: 201 W. 2nd St. Suite 806, Davenport, IA 52801
+  voice: 563-322-0677
+  fax: 563-322-0854
+- classification: district
+  address: 2146 27th Ave. Suite 500, Council Bluffs, IA 51501
+  voice: 712-352-1167
+  fax: 712-352-0087
+- classification: district
+  address: 733 Federal Building 210 Walnut St., Des Moines, IA 50309
+  voice: 515-284-4574
+  fax: 515-284-4937
+links:
+- url: https://www.ernst.senate.gov
+  note: website
+- url: https://www.ernst.senate.gov/
+- url: https://www.ernst.senate.gov/public/index.cfm/contact
+  note: contact form
+other_names:
+- name: Ernst, J.
+- name: J. Ernst
+- name: J.K. Ernst
+ids:
+  twitter: SenJoniErnst
+  youtube: UCLwrmtF_84FIcK3TyMs4MIw
+  facebook: senjoniernst
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Joni Ernst
+- scheme: bioguide
+  identifier: E000295
+- scheme: cspan
+  identifier: '75342'
+- scheme: fec
+  identifier: S4IA00129
+- scheme: google_entity_id
+  identifier: kg:/m/0gg4wkg
+- scheme: govtrack
+  identifier: '412667'
+- scheme: house_history
+  identifier: '15032414877'
+- scheme: icpsr
+  identifier: '41502'
+- scheme: lis
+  identifier: S376
+- scheme: maplight
+  identifier: '2123'
+- scheme: opensecrets
+  identifier: N00035483
+- scheme: pictorial
+  identifier: '13437'
+- scheme: thomas
+  identifier: 02283
+- scheme: votesmart
+  identifier: '128583'
+- scheme: wikidata
+  identifier: Q13475242
+sources:
+- url: https://ballotpedia.org/Joni_Ernst
+- url: https://en.wikipedia.org/wiki/Joni_Ernst
+- url: https://justfacts.votesmart.org/candidate/biography/128583/joni-ernst
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.ernst.senate.gov
+- url: https://www.govtrack.us/congress/members/joni_ernst/412667
+- url: https://www.linkedin.com/in/joni-ernst-32367216a

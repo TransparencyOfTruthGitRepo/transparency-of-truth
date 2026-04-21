@@ -1,0 +1,57 @@
+id: ocd-person/697cb834-6aa1-44f1-9c6e-9cf57ad30774
+name: Robert Myers
+given_name: Robert
+family_name: Myers
+birth_date: 1983-08-15
+gender: Male
+email: senator.robert.myers@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/MYE.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-17
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: Q
+- start_date: 2021-01-11
+  end_date: 2023-01-16
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: Q
+- end_date: 2023-01-16
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: B
+offices:
+- classification: capitol
+  address: State Capitol Room 7, 120 4th St., Juneau, AK 99801
+  voice: 907-465-3719
+- classification: district
+  address: 1292 Sadler Way Suite 308, Fairbanks, AK 99701
+  voice: 907-451-2157
+links:
+- url: https://www.akleg.gov/basis/Member/Detail/32?code=mye
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=MYE
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=mye
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=mye
+other_names:
+- name: MYERS
+- name: Myers
+- name: Myers, R.
+- name: R. Myers
+- name: Robert Myers Jr.
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/21523bd3-e711-4c97-82fa-84a1fb55a6f1
+sources:
+- url: https://ballotpedia.org/Robert_Myers_Jr._(Alaska)
+- url: https://en.wikipedia.org/wiki/Robert_Myers_Jr.
+- url: https://w3.akleg.gov
+- url: https://w3.akleg.gov/
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=MYE
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=mye
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=mye
+extras:
+  toll_free_phone: 877-465-3719

@@ -1,0 +1,38 @@
+id: ocd-person/4825494b-dbbb-44f4-a4a7-dee1df0a87ae
+name: Molly Howard
+given_name: Molly
+family_name: Howard
+gender: Female
+email: molly.howard@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123322.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 31
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10810
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10810
+  note: member detail page
+other_names:
+- name: Howard, M.
+- name: M. Howard
+- name: M.C. Howard
+- name: Molly C Howard
+sources:
+- url: https://ballotpedia.org/Molly_Howard
+- url: https://en.wikipedia.org/wiki/Molly_Howard
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10810
+- url: https://justfacts.votesmart.org/candidate/208834/molly-howard
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10810
+- url: https://www.linkedin.com/in/mollychoward
+extras:
+  county: Hillsborough
+  elected status: new
+  gender code: F

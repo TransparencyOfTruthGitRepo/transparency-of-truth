@@ -1,0 +1,42 @@
+id: ocd-person/ac49b3cf-9fb8-4fa1-af55-4b35a6570c87
+name: Meredith Dixon
+given_name: Meredith
+family_name: Dixon
+gender: Female
+email: meredith.dixon@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HDIXO.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-19
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '20'
+offices:
+- classification: capitol
+  address: State Capitol Room 304C, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4320
+- classification: district-mail
+  address: P.O. Box 27066, Albuquerque, NM 87125
+  voice: 505-401-8339
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HDIXO
+  note: homepage
+other_names:
+- name: Dixon, M.
+- name: Dixon, Meredith
+- name: Dixon, Meredith A.
+- name: M. Dixon
+- name: M.A. Dixon
+- name: Meredith A. Dixon
+sources:
+- url: https://ballotpedia.org/Meredith_Dixon
+- url: https://en.wikipedia.org/wiki/Meredith_Dixon
+- url: https://www.linkedin.com/in/meredith-dixon-230b834
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HDIXO
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Bernalillo
+  service: Representative since 2021
+  occupation: Consultant

@@ -1,0 +1,33 @@
+id: ocd-person/b46dbcbc-500c-4d28-ac9b-cf2a7291e79f
+name: Andrea Bailey
+given_name: Andrea
+family_name: Bailey
+gender: Female
+email: baileya@nyassembly.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AndreaBailey24.png
+party:
+- name: Republican/Conservative
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '133'
+offices:
+- classification: capitol
+  address: Room 718, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-5662
+- classification: district
+  address: 79 Genesee St., Avon, NY 14414
+  voice: 585-218-0038
+links:
+- url: https://nyassembly.gov/mem/Andrea-K-Bailey
+other_names:
+- name: A. Bailey
+- name: A.K. Bailey
+- name: Bailey, A.
+sources:
+- url: https://ballotpedia.org/Andrea_K._Bailey_(New_York)
+- url: https://en.wikipedia.org/wiki/Andrea_Bailey
+- url: https://justfacts.votesmart.org/candidate/216747/andrea-bailey
+- url: https://nyassembly.gov/mem/Andrea-K-Bailey
+- url: https://www.linkedin.com/in/andrea-bailey-a0401429

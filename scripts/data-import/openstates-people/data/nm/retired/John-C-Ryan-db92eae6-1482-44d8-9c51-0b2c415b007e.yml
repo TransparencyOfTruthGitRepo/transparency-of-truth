@@ -1,0 +1,25 @@
+id: ocd-person/db92eae6-1482-44d8-9c51-0b2c415b007e
+name: John C. Ryan
+given_name: John
+family_name: Ryan
+middle_name: C.
+image: http://www.nmlegis.gov/lcs/graphics/photos/SRYAN.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '10'
+links:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=SRYAN
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000010
+- scheme: legacy_openstates
+  identifier: NML000179
+- scheme: legacy_openstates
+  identifier: NML000334
+sources:
+- url: http://www.nmlegis.gov/Members/Legislator?SponCode=SRYAN

@@ -1,0 +1,58 @@
+id: ocd-person/b8b305e5-ff02-4f8d-8ef1-61a4a7ecf54a
+name: Rusty Crowe
+given_name: Rusty
+family_name: Crowe
+birth_date: 1947-04-02
+gender: Male
+email: sen.rusty.crowe@capitol.tn.gov
+image: http://www.capitol.tn.gov/senate/members/images/s3.jpg
+party:
+- name: Republican
+roles:
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '3'
+offices:
+- classification: capitol
+  address: Room 720, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-2468
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S3
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S3&ga=114
+- url: https://www.capitol.tn.gov/senate/members/s3.html
+- url: https://www.rustycrowetn.com/
+other_names:
+- name: Crowe, R
+- name: Crowe, R.
+- name: D.R.E. Crowe
+- name: R. Crowe
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000007
+- scheme: legacy_openstates
+  identifier: TNL000138
+- scheme: legacy_openstates
+  identifier: TNL000317
+sources:
+- url: https://ballotpedia.org/Rusty_Crowe
+- url: https://en.wikipedia.org/wiki/Rusty_Crowe
+- url: https://justfacts.votesmart.org/candidate/biography/24342/rusty-crowe
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S3
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S3&ga=114
+- url: https://www.capitol.tn.gov/senate/members
+- url: https://www.capitol.tn.gov/senate/members/
+- url: https://www.capitol.tn.gov/senate/members/s3.html
+- url: https://www.rustycrowetn.com
+extras:
+  office: 720 CHB
+  personal info:
+  - Born on April 2, 1947
+  - Wife, Sarah
+  - Two children, John and Catherine
+  - B.S. in Criminal Justice, East Tennessee State University
+  - J.D., Atlanta Law School
+  - U.S. Army; served in Southeast Asia 1967-71
+  - Methodist

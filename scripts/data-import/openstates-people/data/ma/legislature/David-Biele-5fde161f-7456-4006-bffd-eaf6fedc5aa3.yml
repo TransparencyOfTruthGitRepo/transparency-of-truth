@@ -1,0 +1,37 @@
+id: ocd-person/5fde161f-7456-4006-bffd-eaf6fedc5aa3
+name: David Biele
+given_name: David
+family_name: Biele
+gender: Male
+email: david.biele@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/D_B1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 4th Suffolk
+offices:
+- classification: capitol
+  address: Room 254, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2220
+links:
+- url: https://malegislature.gov/Legislators/Profile/D_B1
+other_names:
+- name: Biele, D.
+- name: D. Biele
+sources:
+- url: https://ballotpedia.org/David_Biele
+- url: https://en.wikipedia.org/wiki/David_Biele
+- url: https://justfacts.votesmart.org/candidate/biography/184729/david-biele
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/D_B1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/D_B1
+- url: https://malegislature.gov/Legislators/Profile/D_B1
+- url: https://www.linkedin.com/in/david-biele-40405916
+extras:
+  member code: D_B1

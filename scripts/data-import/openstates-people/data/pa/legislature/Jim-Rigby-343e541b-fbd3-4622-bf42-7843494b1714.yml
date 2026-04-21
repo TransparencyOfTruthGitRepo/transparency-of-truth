@@ -1,0 +1,50 @@
+id: ocd-person/343e541b-fbd3-4622-bf42-7843494b1714
+name: Jim Rigby
+given_name: Jim
+family_name: Rigby
+gender: Male
+email: jrigby@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1836.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2018-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '71'
+offices:
+- classification: capitol
+  address: Room 403, Irvis Office Building P.O. Box 202071, Harrisburg, PA 17120
+  voice: 717-772-9924
+- classification: district
+  address: 1021 Ferndale Ave., Johnstown, PA 15905
+  voice: 814-536-9818
+- classification: district
+  address: 1914 Graham Ave., Windber, PA 15963
+  voice: 814-509-6942
+- classification: district
+  address: 7447 Admiral Peary Highway Suite 4, Cresson, PA 16630
+  voice: 814-886-1055
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1836
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1836/rep-rigby
+- url: https://www.repjimrigby.com/
+other_names:
+- name: J. Rigby
+- name: J.P. Rigby
+- name: Rigby, J.
+ids:
+  youtube: UCrrnV9bz8JpObHlPccnjmMQ
+  facebook: RepJimRigby
+sources:
+- url: https://ballotpedia.org/Jim_Rigby
+- url: https://en.wikipedia.org/wiki/Jim_Rigby
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1836
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1836/rep-rigby
+- url: https://www.repjimrigby.com
+extras:
+  website: http://RepJimRigby.com

@@ -1,0 +1,57 @@
+id: ocd-organization/cbc40549-4d4f-4b16-a1d8-0651a8bcf1f6
+jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+classification: committee
+name: Agriculture and Consumer Affairs
+chamber: upper
+sources:
+- url: https://www.legis.ga.gov/api/committees/details/107/1029
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/details/107/1031
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1029
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1031
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/committees/senate/107
+links:
+- url: https://www.legis.ga.gov/committees/senate/107
+  note: homepage
+members:
+- name: Russ Goodman
+  role: chair
+  person_id: ocd-person/b90b899d-87f0-43a5-9d15-6e310187ac41
+- name: Lee Anderson
+  role: vice chair
+  person_id: ocd-person/e11cecf4-f2e5-49d9-ba9e-47681f779438
+- name: Bo Hatchett
+  role: ex-officio
+  person_id: ocd-person/60bb96c4-f20c-4918-b88b-d7857341e5f4
+- name: Drew Echols
+  role: ex-officio
+  person_id: ocd-person/6be704ef-6250-4e08-86d3-f5fa2e1eebf3
+- name: Sam Watson
+  role: ex-officio
+  person_id: ocd-person/cbcdfca3-e47d-4b32-9164-ec0709a134bf
+- name: Larry Walker
+  role: secretary
+  person_id: ocd-person/44a51125-9e82-41f6-8d4f-a646895b5994
+- name: Carden Summers
+  role: member
+  person_id: ocd-person/98850c9f-1c37-4177-9ad8-17d2b4d3c8d4
+- name: Jaha Howard
+  role: member
+  person_id: ocd-person/fcd57129-480c-4fba-a0d1-7fb369706611
+- name: Max Burns
+  role: member
+  person_id: ocd-person/918888ac-edc7-4178-9133-d058f0f21010
+- name: RaShaun Kemp
+  role: member
+  person_id: ocd-person/069fb4fa-766b-40e4-90b7-ce96b4fa2ace
+other_names:
+- name: Senate Agriculture and Consumer Affairs
+- name: Senate Agriculture and Consumer Affairs Committee
+- name: Senate Committee on Agriculture and Consumer Affairs
+extras:
+  address: 301-A CLOB  Atlanta, GA 30334
+  phone: '4046560095'
+  fax: '4046516768'

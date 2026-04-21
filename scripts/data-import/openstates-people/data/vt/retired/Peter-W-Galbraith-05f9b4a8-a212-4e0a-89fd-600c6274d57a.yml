@@ -1,0 +1,21 @@
+id: ocd-person/05f9b4a8-a212-4e0a-89fd-600c6274d57a
+name: Peter W Galbraith
+given_name: Peter
+family_name: Galbraith
+middle_name: W
+image: http://ballotpedia.org/wiki/images/d/d7/Peter_Galbraith.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Windham
+links:
+- url: http://www.leg.state.vt.us/legdir/LegDirMain.cfm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000183
+sources:
+- url: http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W

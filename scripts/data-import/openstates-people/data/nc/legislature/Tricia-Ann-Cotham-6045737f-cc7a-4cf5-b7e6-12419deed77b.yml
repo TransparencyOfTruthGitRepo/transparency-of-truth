@@ -1,0 +1,50 @@
+id: ocd-person/6045737f-cc7a-4cf5-b7e6-12419deed77b
+name: Tricia Cotham
+given_name: Tricia
+family_name: Cotham
+birth_date: 1978-11-26
+gender: Female
+email: tricia.cotham@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/817/Low
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '105'
+- start_date: 2023-01-01
+  end_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '112'
+- start_date: 2007-01-01
+  end_date: 2016-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '100'
+offices:
+- classification: capitol
+  address: Room 528, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-733-5886
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/817
+- url: https://www.ncleg.gov/Members/Committees/H/817
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/817
+- url: https://www.ncleg.gov/Members/Votes/H/817
+other_names:
+- name: Cotham, T.
+- name: P.A. Cotham
+- name: T. Cotham
+- name: Tricia Ann Cotham
+sources:
+- url: https://ballotpedia.org/Tricia_Cotham
+- url: https://en.wikipedia.org/wiki/Tricia_Cotham
+- url: https://www.linkedin.com/in/tricia-cotham-20b96a19
+- url: https://www.ncleg.gov/Members/Biography/H/817
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 300 N. Salisbury Street, Rm. 528; Raleigh, NC 27603-5925
+  terms in senate: 5.5 (0 in Senate)
+  represented counties: Mecklenburg

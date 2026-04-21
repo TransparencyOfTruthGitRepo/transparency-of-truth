@@ -1,0 +1,61 @@
+id: ocd-person/fe79a0f0-7dfd-442a-8b79-f8792613a4de
+name: Tony Williams
+given_name: Tony
+family_name: Williams
+birth_date: 1957-02-28
+gender: Male
+email: williams@pasenate.com
+image: https://www.legis.state.pa.us/images/members/200/153.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 1999-01-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room 11, East Wing Senate Box 203008, Harrisburg, PA 17120
+  voice: 717-787-5970
+- classification: district
+  address: 2103 Snyder Ave., Philadelphia, PA 19145
+  voice: 215-489-5200
+- classification: district
+  address: 2901 Island Ave., Suite 100, Philadelphia, PA 19153
+  voice: 215-492-2980
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=153
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.palegis.us/senate/members/bio/153/sen-a-williams
+- url: https://www.senatoranthonyhwilliams.com/
+other_names:
+- name: A. WILLIAMS
+- name: A. Williams
+- name: A.H. Williams
+- name: Anthony H. Williams
+- name: Anthony Williams
+- name: T. Williams
+- name: WILLIAMS, A.
+- name: Williams, T.
+ids:
+  twitter: SenTonyWilliams
+  instagram: senator_anthonyhwilliams
+  facebook: anthony.h.williams
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000048
+sources:
+- url: https://ballotpedia.org/Anthony_Williams_(Pennsylvania)
+- url: https://en.wikipedia.org/wiki/Anthony_H._Williams
+- url: https://justfacts.votesmart.org/candidate/biography/9269/anthony-williams
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=S&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=153
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.linkedin.com/in/anthony-h-williams-57022226
+- url: https://www.palegis.us/senate/members/bio/153/sen-a-williams
+- url: https://www.senatoranthonyhwilliams.com
+extras:
+  website: http://senatoranthonyhwilliams.com
+  Education:
+  - Franklin and Marshall College, Majored in Economics

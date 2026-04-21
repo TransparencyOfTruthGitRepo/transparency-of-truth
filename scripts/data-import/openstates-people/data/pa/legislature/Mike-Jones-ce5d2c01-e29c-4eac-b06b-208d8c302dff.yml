@@ -1,0 +1,46 @@
+id: ocd-person/ce5d2c01-e29c-4eac-b06b-208d8c302dff
+name: Mike Jones
+given_name: Mike
+family_name: Jones
+gender: Male
+email: mjones@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1842.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2018-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '93'
+offices:
+- classification: capitol
+  address: Room 210, Ryan Office Building P.O. Box 202093, Harrisburg, PA 17120
+  voice: 717-783-8389
+- classification: district
+  address: 1949 Security Drive, York, PA 17402
+  voice: 717-428-9889
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1842
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1842/rep-m-jones
+- url: https://www.repmikejones.com/
+other_names:
+- name: Jones, M.
+- name: JONES, M.
+- name: M. Jones
+- name: P.M. Jones
+ids:
+  youtube: UCaC4s-tQTnXEtyonJZ2G7Ig
+  facebook: RepMikeJonesPA
+sources:
+- url: https://ballotpedia.org/Mike_Jones_(Pennsylvania)
+- url: https://en.wikipedia.org/wiki/Mike_Jones_(Pennsylvania_politician)
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1842
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/mike-jones-96221a4
+- url: https://www.palegis.us/house/members/bio/1842/rep-m-jones
+- url: https://www.repmikejones.com
+extras:
+  website: http://RepMikeJones.com

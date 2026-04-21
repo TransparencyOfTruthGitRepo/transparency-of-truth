@@ -1,0 +1,57 @@
+id: ocd-person/b5ce9d0e-c76e-4424-bb84-57ceb335dc52
+name: Mark Obenshain
+given_name: Mark
+family_name: Obenshain
+birth_date: 1962-06-11
+gender: Male
+email: senatorobenshain@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/Obenshain2
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '2'
+- end_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room 609, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7502
+- classification: district-mail
+  address: P.O. Box 555, Harrisonburg, VA 22803
+  voice: 540-437-1451
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S68
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S68
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S68
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S68
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S68
+other_names:
+- name: M. Obenshain
+- name: M.D. Obenshain
+- name: Mark D. Obenshain
+- name: Mark Dudley Obenshain
+- name: Obenshain, M.
+- name: Obenshain, Mark D.
+ids:
+  twitter: MarkObenshain
+  facebook: markobenshain
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000024
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S68
+- url: https://ballotpedia.org/Mark_Obenshain
+- url: https://en.wikipedia.org/wiki/Mark_Obenshain
+- url: https://justfacts.votesmart.org/candidate/biography/50954/mark-obenshain
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S68
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S68
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S68
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S68
+- url: https://www.obenshainlaw.com/about-us/mark-d-obenshain

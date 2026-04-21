@@ -1,0 +1,26 @@
+id: ocd-organization/960c0e35-026b-4c76-828c-aafca66f3339
+jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+classification: committee
+name: State-Local Relations Legislative Commission
+chamber: lower
+sources:
+- url: https://assembly.state.ny.us/comm/
+- url: https://assembly.state.ny.us/comm/?id=54
+- url: https://nyassembly.gov/comm/?id=54
+links:
+- url: https://assembly.state.ny.us/comm/?id=54
+  note: homepage
+- url: https://nyassembly.gov/comm/?id=54
+members:
+- name: Anil Beephan
+  role: member
+  person_id: ocd-person/b4820549-d7f0-4f0f-abef-74d3b1515ed9
+- name: Joe DeStefano
+  role: member
+  person_id: ocd-person/691f0b4b-a2b3-47d6-b5ba-6bf503340e10
+other_names:
+- name: Assembly Committee on State-Local Relations Legislative Commission
+- name: Assembly State-Local Relations Legislative Commission
+- name: Assembly State-Local Relations Legislative Commission Committee
+extras:
+  address: LOB 419;  Albany, NY 12248

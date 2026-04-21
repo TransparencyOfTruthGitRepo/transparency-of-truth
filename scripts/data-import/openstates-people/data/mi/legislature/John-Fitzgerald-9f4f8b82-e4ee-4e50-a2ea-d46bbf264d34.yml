@@ -1,0 +1,34 @@
+id: ocd-person/9f4f8b82-e4ee-4e50-a2ea-d46bbf264d34
+name: John Fitzgerald
+given_name: John
+family_name: Fitzgerald
+gender: Male
+email: johnfitzgerald@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '83'
+offices:
+- classification: capitol
+  address: Room H141, Capitol Building 100 N. Capitol Ave., Lansing, MI 48933
+  voice: 517-373-0835
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/John-Fitzgerald/
+other_names:
+- name: Fitzgerald, J.
+- name: J. Fitzgerald
+- name: J.W. Fitzgerald
+sources:
+- url: https://ballotpedia.org/John_Fitzgerald_(Michigan_House_candidate)
+- url: https://housedems.com/John-Fitzgerald
+- url: https://housedems.com/John-Fitzgerald/
+  note: Member Details Page
+- url: https://housedems.com/john-fitzgerald/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/john-fitzgerald-38b65980

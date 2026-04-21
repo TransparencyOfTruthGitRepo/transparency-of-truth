@@ -1,0 +1,35 @@
+id: ocd-person/264c5cb9-f69f-4d07-ac58-231c98915233
+name: Tom Determann
+given_name: Tom
+family_name: Determann
+gender: Male
+email: tom.determann@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33984
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '69'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33984&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33984
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33984
+other_names:
+- name: Determann, T.
+- name: T. Determann
+sources:
+- url: https://ballotpedia.org/Tom_Determann
+- url: https://en.wikipedia.org/wiki/Tom_Determann
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33984
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33984
+- url: https://www.linkedin.com/in/tom-determann-175b797b
+extras:
+  home email: tomedetermann@gmail.com
+  occupation: Retired

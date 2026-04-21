@@ -1,0 +1,55 @@
+id: ocd-person/d868bc8f-f51c-4f5b-a9a3-3608b8b44b29
+name: Jason Plummer
+given_name: Jason
+family_name: Plummer
+birth_date: 1982-06-04
+gender: Male
+email: senator@senatorjasonplummer.com
+image: https://cdn.ilga.gov/assets/img/members/{CE75DC7E-2CD4-4D01-B697-C2866F828E25}.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '55'
+- end_date: 2023-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '54'
+offices:
+- classification: capitol
+  address: Room 309-L, Capitol Building, Springfield, IL 62706
+  voice: 217-782-5755
+- classification: district
+  address: 310 W. Gallatin St., Vandalia, IL 62471
+  voice: 618-283-3000
+links:
+- url: https://ilga.gov/senate/Senator.asp?GA=101&MemberID=2730
+- url: https://ilga.gov/senate/Senator.asp?GA=102&MemberID=2935
+- url: https://ilga.gov/senate/Senator.asp?GA=103&MemberID=3133
+  note: homepage
+- url: https://senatorjasonplummer.com/
+- url: https://www.ilga.gov/Senate/Members/Details/3344
+- url: https://www.ilga.gov/senate/Senator.asp?GA=103&MemberID=3133
+- url: https://www.ilga.gov/senate/Senator.asp?GA=104&MemberID=3344
+other_names:
+- name: J. Plummer
+- name: Plummer, J.
+- name: Plummer, Jason
+- name: R.J. Plummer
+sources:
+- url: https://ballotpedia.org/Jason_Plummer
+- url: https://en.wikipedia.org/wiki/Jason_Plummer_(politician)
+- url: https://ilga.gov/senate/default.asp?GA=101
+- url: https://ilga.gov/senate/default.asp?GA=102
+- url: https://ilga.gov/senate/default.asp?GA=103
+- url: https://ilga.gov/senate/Senator.asp?GA=101&MemberID=2730
+- url: https://ilga.gov/senate/Senator.asp?GA=102&MemberID=2935
+- url: https://ilga.gov/senate/Senator.asp?GA=103&MemberID=3133
+- url: https://justfacts.votesmart.org/candidate/biography/122133/jason-plummer
+- url: https://senatorjasonplummer.com
+- url: https://www.ilga.gov/Senate/Members/Details/3344
+- url: https://www.ilga.gov/senate/Senator.asp?GA=103&MemberID=3133
+- url: https://www.ilga.gov/senate/Senator.asp?GA=104&MemberID=3344
+- url: https://www.linkedin.com/in/jason-plummer-734914137

@@ -1,0 +1,67 @@
+id: ocd-person/30fe5d74-0224-5d11-92d2-5766471e6cc5
+name: Nick LaLota
+given_name: Nick
+family_name: LaLota
+birth_date: 1978-06-23
+gender: Male
+email: https://lalota.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/L000598.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NY-1
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NY-1
+offices:
+- classification: capitol
+  address: 122 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-3826
+- classification: district
+  address: 515 Route 111 Suite 3B, Hauppauge, NY 11788
+  voice: 631-289-1097
+- classification: district
+  address: Rocky Point VFW Post 6249 109 King Road, Rocky Point, NY 11778
+  voice: 631-289-1097
+links:
+- url: https://lalota.house.gov
+  note: website
+- url: https://lalota.house.gov/
+other_names:
+- name: LaLota, N.
+- name: N. LaLota
+- name: N.J. LaLota
+ids:
+  twitter: RepLaLota
+other_identifiers:
+- scheme: bioguide
+  identifier: L000598
+- scheme: fec
+  identifier: H2NY01190
+- scheme: govtrack
+  identifier: '456920'
+- scheme: opensecrets
+  identifier: N00050419
+- scheme: pictorial
+  identifier: '13169'
+- scheme: votesmart
+  identifier: '191957'
+- scheme: wikidata
+  identifier: Q115168182
+- scheme: wikipedia
+  identifier: Nick LaLota
+sources:
+- url: https://ballotpedia.org/Nicholas_J._Lalota
+- url: https://en.wikipedia.org/wiki/Nick_LaLota
+- url: https://justfacts.votesmart.org/candidate/191957/nicholas-lalota
+- url: https://lalota.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/nicolas_lalota/456920
+- url: https://www.linkedin.com/in/nicklalota

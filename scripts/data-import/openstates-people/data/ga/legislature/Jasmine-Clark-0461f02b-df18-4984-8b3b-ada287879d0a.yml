@@ -1,0 +1,57 @@
+id: ocd-person/0461f02b-df18-4984-8b3b-ada287879d0a
+name: Jasmine Clark
+given_name: Jasmine
+family_name: Clark
+birth_date: 1982-12-26
+gender: Female
+email: jasmine.clark@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/clark-jasmine-4953.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '108'
+offices:
+- classification: capitol
+  address: Room 607-E, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0287
+- classification: district-mail
+  address: P.O. Box 1922, Lilburn, GA 30048
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4953&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4953
+- url: https://www.legis.ga.gov/members/house/4953?session=1029
+- url: https://www.legis.ga.gov/members/house/4953?session=1031
+  note: HTML member detail page
+other_names:
+- name: CLARK, 108TH
+- name: Clark, J.
+- name: J. Clark
+- name: J.M. Clark
+sources:
+- url: https://ballotpedia.org/Jasmine_Clark
+- url: https://en.wikipedia.org/wiki/Jasmine_Clark
+- url: https://justfacts.votesmart.org/candidate/biography/178958/jasmine-clark
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4953&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4953?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4953?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4953
+- url: https://www.legis.ga.gov/members/house/4953?session=1029
+- url: https://www.linkedin.com/in/dr-jasmine-clark-4a82a810
+extras:
+  residence: Lilburn
+  city: Lilburn
+  georgia_id: 4953
+  press: https://house-press.com/representative/Jasmine-Clark
+  staff: Jennifer Clark - Administrative Assistant
+  staff email: jennifer.clark@house.ga.gov

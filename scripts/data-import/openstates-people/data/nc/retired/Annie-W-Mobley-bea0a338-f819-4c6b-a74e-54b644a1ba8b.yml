@@ -1,0 +1,21 @@
+id: ocd-person/bea0a338-f819-4c6b-a74e-54b644a1ba8b
+name: Annie W Mobley
+given_name: Annie
+family_name: Mobley
+middle_name: W
+image: http://www.ncga.state.nc.us/House/pictures/hiRes/575.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '5'
+links:
+- url: http://www.ncga.state.nc.us/gascripts/members/viewMember.pl?sChamber=House&nUserID=575
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000142
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/viewMember.pl?sChamber=House&nUserID=575

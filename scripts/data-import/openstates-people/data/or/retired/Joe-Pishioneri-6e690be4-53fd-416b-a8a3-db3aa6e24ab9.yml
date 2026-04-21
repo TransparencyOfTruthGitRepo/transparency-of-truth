@@ -1,0 +1,17 @@
+id: ocd-person/6e690be4-53fd-416b-a8a3-db3aa6e24ab9
+name: Joe Pishioneri
+given_name: Joe
+family_name: Pishioneri
+email: mayor@ci.springfield.or.us
+roles:
+- end_date: '2021-01-01'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:or/place:springfield/government
+offices:
+- classification: primary
+  address: 225 Fifth Street;Springfield, OR 97477
+  voice: 541-726-3702
+links:
+- url: https://www.springfield-or.gov
+sources:
+- url: https://www.springfield-or.gov

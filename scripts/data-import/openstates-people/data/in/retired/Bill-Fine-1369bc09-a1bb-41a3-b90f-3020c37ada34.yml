@@ -1,0 +1,19 @@
+id: ocd-person/1369bc09-a1bb-41a3-b90f-3020c37ada34
+name: Bill Fine
+given_name: Bill
+family_name: Fine
+image: http://iga.in.gov/legislative/2016/portraits/legislator_bill_fine_1
+party:
+- name: Republican
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '12'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: INL000270
+sources:
+- url: http://iga.in.gov/legislative/2016/legislators/legislator_bill_fine_1
+- url: https://api.iga.in.gov/2016/legislators/bill_fine_1

@@ -1,0 +1,69 @@
+id: ocd-organization/467cbfa6-f504-4bdd-98c3-1f6799d52b6b
+jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+classification: committee
+name: Education
+chamber: legislature
+sources:
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=2957&year=2024&code=R
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=3088&year=2025&code=R
+- url: https://senate.mo.gov/Committees/CommitteeDetails/24
+  note: Committee Details Page
+- url: https://senate.mo.gov/Committees/CommitteeGroup/2
+  note: Committees List Page
+- url: https://www.senate.mo.gov/21web/jc-education
+- url: https://www.senate.mo.gov/21web/jc-education/
+- url: https://www.senate.mo.gov/Committees/CommitteeDetails/24
+links:
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=2957&year=2024&code=R
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=3088&year=2025&code=R
+- url: https://www.senate.mo.gov/21web/jc-education
+- url: https://www.senate.mo.gov/21web/jc-education/
+  note: homepage
+- url: https://www.senate.mo.gov/Committees/CommitteeDetails/24
+members:
+- name: Jill Carter
+  role: carter
+  person_id: ocd-person/29fe2ddb-6025-4e60-942d-fd0880ebad5b
+- name: Bishop Davidson
+  role: member
+  person_id: ocd-person/163f458d-ad80-4bad-9223-69e1f6fec4d2
+- name: Brad Hudson
+  role: member
+  person_id: ocd-person/9f6b3ff8-f439-44d0-bdf7-315451e52cb7
+- name: Brad Pollitt
+  role: member
+  person_id: ocd-person/4cfed488-abe6-46e5-a3aa-55a73e2984ca
+- name: Cathy Loy
+  role: member
+  person_id: ocd-person/0d50b579-ab89-4b9c-ae24-eb0d4216f3bd
+- name: Ed Lewis
+  role: member
+  person_id: ocd-person/c53c50aa-49b2-415a-9a50-eb947daf3d7f
+- name: Kathy Steinhoff
+  role: member
+  person_id: ocd-person/6ee52a1a-7c1b-4ebb-ac4f-8602d03b2034
+- name: Maggie Nurrenbern
+  role: member
+  person_id: ocd-person/d8594030-4826-48c5-af43-674470f1dd44
+- name: Marlene Terry
+  role: member
+  person_id: ocd-person/47f4d77d-149c-410a-a324-067172efda3c
+- name: Mary Elizabeth Coleman
+  role: member
+  person_id: ocd-person/f1d83642-4aa6-4fea-80f1-4c3f422c63ed
+- name: Mike Costlow
+  role: member
+  person_id: ocd-person/c08a9151-fdfe-4da9-97c2-5536ed96f255
+- name: Nick Schroer
+  role: member
+  person_id: ocd-person/ecbee637-2b07-4028-acb3-b82df2edb42a
+- name: Rick Brattin
+  role: member
+  person_id: ocd-person/e4811e7a-7df7-4275-917d-8bdcc2778fb1
+- name: Stephen Webber
+  role: member
+  person_id: ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9
+other_names:
+- name: Joint Committee on Education
+- name: Joint Education
+- name: Joint Education Committee

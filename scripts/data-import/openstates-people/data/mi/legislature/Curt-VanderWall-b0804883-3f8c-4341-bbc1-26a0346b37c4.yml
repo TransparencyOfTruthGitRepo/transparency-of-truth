@@ -1,0 +1,58 @@
+id: ocd-person/b0804883-3f8c-4341-bbc1-26a0346b37c4
+name: Curt VanderWall
+given_name: Curt
+family_name: VanderWall
+birth_date: 1961-11-03
+gender: Male
+email: curtisvanderwall@house.mi.gov
+image: https://senate.michigan.gov/_images/35th.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '102'
+- end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '101'
+- end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '35'
+offices:
+- classification: capitol
+  address: Room S-1386, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-1747
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/RepCurtisVanderWall/posts
+- url: https://www.senatorcurtvanderwall.com/
+- url: https://www.senatorcurtvanderwall.com/contact
+  note: Contact
+other_names:
+- name: C. VanderWall
+- name: C.S. VanderWall
+- name: Curt VanderWall
+- name: Curtis VanderWall
+- name: VanderWall, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000333
+sources:
+- url: https://ballotpedia.org/Curt_VanderWall
+- url: https://en.wikipedia.org/wiki/Curt_VanderWall
+- url: https://gophouse.org/member/RepCurtisVanderWall/about
+- url: https://gophouse.org/member/RepCurtisVanderWall/posts
+- url: https://justfacts.votesmart.org/candidate/biography/132533/curt-vanderwall
+- url: https://RepVanderWall.com
+  note: Member Details Page
+- url: https://senate.michigan.gov/senatorinfo_list.html
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/curt-vanderwall-0620b4120
+- url: https://www.senatorcurtvanderwall.com
+- url: https://www.senatorcurtvanderwall.com/

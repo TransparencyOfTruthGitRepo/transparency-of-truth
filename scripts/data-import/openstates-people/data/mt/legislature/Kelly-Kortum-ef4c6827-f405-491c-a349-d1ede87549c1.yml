@@ -1,0 +1,50 @@
+id: ocd-person/ef4c6827-f405-491c-a349-d1ede87549c1
+name: Kelly Kortum
+given_name: Kelly
+family_name: Kortum
+birth_date: 1985-02-23
+gender: Male
+email: kelly.kortum@legmt.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '64'
+- start_date: 2021-01-04
+  end_date: 2025-01-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '64'
+- start_date: 2021-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '65'
+  end_date: 2025-01-06
+offices:
+- classification: capitol
+  address: Capitol Building, 1301 E. 6th Ave. P.O. Box 200400, Helena, MT 59620
+  voice: 406-444-4800
+- classification: district-mail
+  address: P.O. Box 942, Bozeman, MT 59771
+  voice: 406-404-6643
+links:
+- url: https://leg.mt.gov/legislator-information/roster/individual/6864
+- url: https://leg.mt.gov/legislator-information/roster/individual/7545
+- url: https://legislators.legmt.gov/#/legislator/60
+- url: https://www.legmt.gov/legislators/1384/
+other_names:
+- name: K. Kortum
+- name: K.N. Kortum
+- name: Kelly Kortum
+- name: Kortum, K.
+- name: Kortum, Kelly
+sources:
+- url: https://ballotpedia.org/Kelly_Kortum
+- url: https://en.wikipedia.org/wiki/Kelly_Kortum
+- url: https://justfacts.votesmart.org/candidate/biography/190695/kelly-kortum
+- url: https://leg.mt.gov/legislator-information/roster/individual/6864
+- url: https://leg.mt.gov/legislator-information/roster/individual/7545
+- url: https://legislators.legmt.gov/#/legislator/60
+- url: https://www.legmt.gov/legislators/1384

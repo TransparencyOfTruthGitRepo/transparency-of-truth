@@ -1,0 +1,33 @@
+id: ocd-person/27c74084-b1ef-4c47-904c-eb69fa1315ec
+name: Stan Blake
+given_name: Stan
+family_name: Blake
+email: Stan.Blake@wyoleg.gov
+birth_date: 1954-11-08
+image: http://wyoleg.gov/LegislatorSummary/Photos/BlakeSH39.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '39'
+links:
+- url: http://wyoleg.gov/Legislators/2019/D/846
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000033
+sources:
+- url: http://wyoleg.gov/Legislators/2019/D/846
+extras:
+  county: Sweetwater
+  education:
+  - degree: ''
+    gradYear: '1973'
+    schoolName: Evanston High School
+  number_children: '1'
+  occupation: Conductor
+  place_of_birth: Canon City CO
+  religion: Baptist
+  spouse_given_name: Terri
+  wy_leg_id: 846

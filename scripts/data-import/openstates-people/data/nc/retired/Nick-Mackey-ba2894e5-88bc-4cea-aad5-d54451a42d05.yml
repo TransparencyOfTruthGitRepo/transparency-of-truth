@@ -1,0 +1,17 @@
+id: ocd-person/ba2894e5-88bc-4cea-aad5-d54451a42d05
+name: Nick Mackey
+given_name: Nick
+family_name: Mackey
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '99'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000132
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/memberList.pl?sChamber=House

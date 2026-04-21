@@ -1,0 +1,24 @@
+id: ocd-person/706eaf8c-00b2-457e-b463-5ea60b629952
+name: Thomas P. Kennedy
+given_name: Thomas
+family_name: Kennedy
+middle_name: P.
+image: https://malegislature.gov/Images/MemberProfile/Web/tkennedy.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Second Plymouth and Bristol
+links:
+- url: http://www.malegislature.gov/People/Profile/TPK0
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000022
+- scheme: legacy_openstates
+  identifier: MAL000258
+sources:
+- url: http://www.malegislature.gov/People/Profile/TPK0
+- url: http://www.bostonherald.com/news_opinion/local_coverage/2015/06/thomas_kennedy_longtime_massachusetts_lawmaker_dies_at_63

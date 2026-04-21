@@ -1,0 +1,37 @@
+id: ocd-person/71df2690-6a54-4452-960a-54a5b6540bc7
+name: Patty Mueller
+given_name: Patty
+family_name: Mueller
+birth_date: 1981-03-28
+gender: Female
+email: rep.patricia.mueller@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/23B.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 23B
+- start_date: 2021-01-05
+  end_date: 2023-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 27B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-4193
+links:
+- url: https://www.house.mn.gov/members/profile/15561
+other_names:
+- name: Mueller, P.
+- name: P. Mueller
+- name: Patricia Mueller
+sources:
+- url: https://ballotpedia.org/Patricia_Mueller
+- url: https://en.wikipedia.org/wiki/Patricia_Mueller
+- url: https://justfacts.votesmart.org/candidate/biography/194177/patricia-mueller
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15561
+- url: https://www.linkedin.com/in/dr-patricia-mueller-ed-d-56138b15b

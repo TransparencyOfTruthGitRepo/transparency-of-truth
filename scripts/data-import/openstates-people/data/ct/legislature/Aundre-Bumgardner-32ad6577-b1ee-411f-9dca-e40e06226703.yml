@@ -1,0 +1,41 @@
+id: ocd-person/32ad6577-b1ee-411f-9dca-e40e06226703
+name: "Aundr\xE9 Bumgardner"
+given_name: "Aundr\xE9"
+family_name: Bumgardner
+birth_date: 1994-07-05
+gender: Male
+email: aundre.bumgardner@cga.ct.gov
+party:
+- name: Democratic/Working Families
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '41'
+- end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '41'
+  start_date: 2023-01-04
+offices:
+- classification: capitol
+  address: Room 1001, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://www.housedems.ct.gov/Bumgardner
+other_names:
+- name: A. Bumgardner
+- name: Aundre Bumgardner
+- name: Bumgardner, A.
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Aundre_Bumgardner
+- url: https://en.wikipedia.org/wiki/Aundre_Bumgardner
+- url: https://www.housedems.ct.gov/Bumgardner
+- url: https://www.linkedin.com/in/aundrebumgardner
+extras:
+  gender: Male
+  title: Assistant Majority Leader
+  committees: Environment; Finance, Revenue and Bonding; Planning and Development
+  committee codes: ;ENV;FIN;PD;
+  prison: '0'

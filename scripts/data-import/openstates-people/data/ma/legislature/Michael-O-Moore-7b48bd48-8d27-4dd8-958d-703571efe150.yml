@@ -1,0 +1,53 @@
+id: ocd-person/7b48bd48-8d27-4dd8-958d-703571efe150
+name: Mike Moore
+given_name: Mike
+family_name: Moore
+birth_date: 1963-01-17
+gender: Male
+email: michael.moore@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/MOM0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2009-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Second Worcester
+offices:
+- classification: capitol
+  address: Room 109-B, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1485
+- classification: district
+  address: MA
+  voice: 508-757-0323 ext. 13
+links:
+- url: https://malegislature.gov/Legislators/Profile/MOM0
+- url: https://www.senatormikemoore.com/
+other_names:
+- name: M. Moore
+- name: M.O. Moore
+- name: Michael O. Moore
+- name: Moore, M.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000026
+- scheme: legacy_openstates
+  identifier: MAL000337
+- scheme: legacy_openstates
+  identifier: MAL000343
+sources:
+- url: https://ballotpedia.org/Michael_O._Moore
+- url: https://en.wikipedia.org/wiki/Michael_O._Moore
+- url: https://justfacts.votesmart.org/candidate/biography/109518/mike-moore
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/MOM0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/MOM0
+- url: https://malegislature.gov/Legislators/Profile/MOM0
+- url: https://www.linkedin.com/in/michael-moore-a2930815
+- url: https://www.linkedin.com/in/senmikemoore
+- url: https://www.senatormikemoore.com
+extras:
+  member code: MOM0

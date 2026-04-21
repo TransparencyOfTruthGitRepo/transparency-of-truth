@@ -1,0 +1,51 @@
+id: ocd-person/cbe53992-3b3c-4ec0-a94a-58ddf96e6edd
+name: "Beryl Amed\xE9e"
+given_name: Beryl
+family_name: "Amed\xE9e"
+birth_date: 1964-10-14
+gender: Female
+email: amedeeb@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep51.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '51'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 5417 W. Main St., Houma, LA 70360
+  voice: 985-858-2967
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=51
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=51
+other_names:
+- name: "Amed\xE9e, B."
+- name: "B. Amed\xE9e"
+- name: "B.A. Amed\xE9e"
+- name: "Beryl A. Amed\xE9e"
+- name: Beryl Amedee
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000809
+- scheme: legacy_openstates
+  identifier: LAL000860
+sources:
+- url: https://ballotpedia.org/Beryl_Amedee
+- url: https://en.wikipedia.org/wiki/Beryl_Amedee
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=51
+- url: https://house.louisiana.gov/H_Reps/members?ID=51
+- url: https://justfacts.votesmart.org/candidate/biography/149301/beryl-amedee
+extras:
+  legislative assistant: Kristi Gregoire
+  representing parishes:
+  - Assumption
+  - Lafourche
+  - St. Mary
+  - and Terrebonne

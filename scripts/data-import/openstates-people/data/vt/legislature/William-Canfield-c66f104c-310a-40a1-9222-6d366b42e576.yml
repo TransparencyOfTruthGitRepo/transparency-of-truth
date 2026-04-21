@@ -1,0 +1,73 @@
+id: ocd-person/c66f104c-310a-40a1-9222-6d366b42e576
+name: Bill Canfield
+given_name: Bill
+family_name: Canfield
+birth_date: 1952-09-28
+gender: Male
+email: wcanfield@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/Canfield,Bill%20037.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Rutland-10
+- end_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Rutland-3
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+- classification: home
+  address: 12 Pine St., Fair Haven, VT 05743
+  voice: 802-265-4428
+links:
+- url: https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Rutland-10.pdf
+  note: district map
+- url: https://legislature.vermont.gov/Documents/SmallMaps/RUT-3.pdf
+  note: district map
+- url: https://legislature.vermont.gov/people/single/2020/14569
+- url: https://legislature.vermont.gov/people/single/2022/14569
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2024/14569
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2026/14569
+other_names:
+- name: B. Canfield
+- name: Canfield, B.
+- name: W.P. Canfield
+- name: William Canfield
+- name: William P. Canfield
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000047
+- scheme: legacy_openstates
+  identifier: VTL000230
+- scheme: legacy_openstates
+  identifier: VTL000331
+- scheme: legacy_openstates
+  identifier: VTL000479
+- scheme: legacy_openstates
+  identifier: VTL000617
+- scheme: legacy_openstates
+  identifier: VTL000779
+sources:
+- url: https://ballotpedia.org/William_Canfield
+- url: https://en.wikipedia.org/wiki/Bill_Canfield
+- url: https://justfacts.votesmart.org/candidate/51008/william-canfield
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/loadAll/2024
+- url: https://legislature.vermont.gov/people/single/2016/14569
+- url: https://legislature.vermont.gov/people/single/2020/14569
+- url: https://legislature.vermont.gov/people/single/2022/14569
+- url: https://legislature.vermont.gov/people/single/2024/14569
+- url: https://legislature.vermont.gov/people/single/2026/14569
+extras:
+  work address: Fair Haven, VT 05743
+  home address: Fair Haven, VT 05743
+  home phone: (802) 265-4428
+  state email: wcanfield@leg.state.vt.us

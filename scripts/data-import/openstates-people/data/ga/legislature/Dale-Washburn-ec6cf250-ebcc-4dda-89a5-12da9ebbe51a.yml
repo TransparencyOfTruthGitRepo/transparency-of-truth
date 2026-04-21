@@ -1,0 +1,66 @@
+id: ocd-person/ec6cf250-ebcc-4dda-89a5-12da9ebbe51a
+name: Dale Washburn
+given_name: Dale
+family_name: Washburn
+birth_date: 1950-12-13
+gender: Male
+email: dale.washburn@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/washburn-dale-4958.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '144'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '141'
+offices:
+- classification: capitol
+  address: Room 401-H, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0152
+- classification: district
+  address: 3040 Riverside Drive Suite C-2, Macon, GA 31210
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4958&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4958
+- url: https://www.legis.ga.gov/members/house/4958?session=1029
+- url: https://www.legis.ga.gov/members/house/4958?session=1031
+  note: HTML member detail page
+other_names:
+- name: D. Washburn
+- name: Dale Washburn
+- name: R.D. Washburn
+- name: Roy Dale Washburn
+- name: WASHBURN, 144TH
+- name: Washburn, D.
+sources:
+- url: https://ballotpedia.org/Dale_Washburn
+- url: https://en.wikipedia.org/wiki/Dale_Washburn
+- url: https://justfacts.votesmart.org/candidate/biography/32064/dale-washburn
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4958&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4958?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4958?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4958
+- url: https://www.legis.ga.gov/members/house/4958?session=1029
+- url: https://www.linkedin.com/in/dale-washburn-7558278
+extras:
+  residence: Macon
+  city: Macon
+  georgia_id: 4958
+  birthday: December 13
+  occupation: Real Estate Broker
+  press: https://house-press.com/representative/Dale-Washburn
+  spouse: Donna
+  staff: Shakirah Nash - Administrative Assistant
+  staff email: shakirah.nash@house.ga.gov style=

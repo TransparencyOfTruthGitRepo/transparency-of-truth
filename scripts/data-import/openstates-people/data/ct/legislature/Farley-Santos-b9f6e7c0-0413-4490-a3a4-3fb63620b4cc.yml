@@ -1,0 +1,37 @@
+id: ocd-person/b9f6e7c0-0413-4490-a3a4-3fb63620b4cc
+name: Farley Santos
+given_name: Farley
+family_name: Santos
+gender: Male
+email: farley.santos@cga.ct.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '109'
+offices:
+- classification: capitol
+  address: Room 4050, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://www.housedems.ct.gov/Santos
+other_names:
+- name: F. Santos
+- name: F.A. Santos
+- name: Santos, F.
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Farley_Santos
+- url: https://en.wikipedia.org/wiki/Farley_Santos
+- url: https://justfacts.votesmart.org/candidate/biography/199752/farley-santos
+- url: https://www.housedems.ct.gov/Santos
+- url: https://www.housedems.ct.gov/Santos/Biography
+- url: https://www.linkedin.com/in/farley-santos-1957a748
+extras:
+  gender: Male
+  title: Assistant Majority Leader
+  committees: Banking (Vice Chair); General Law; Veterans' and Military Affairs
+  committee codes: ;BA;GL;VA;
+  prison: '0'

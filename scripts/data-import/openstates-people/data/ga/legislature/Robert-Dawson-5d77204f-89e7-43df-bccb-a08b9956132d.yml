@@ -1,0 +1,33 @@
+id: ocd-person/5d77204f-89e7-43df-bccb-a08b9956132d
+name: Robert Dawson
+given_name: Robert
+family_name: Dawson
+gender: Male
+email: robert.dawson@house.ga.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rdawson.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '65'
+offices:
+- classification: capitol
+  address: Room 511-C, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-6372
+- classification: district-mail
+  address: P.O. Box 571255, Atlanta, GA 30309
+links:
+- url: https://www.legis.ga.gov/members/house/5072
+other_names:
+- name: DAWSON, 65TH
+- name: Dawson, R.
+- name: R. Dawson
+sources:
+- url: https://ballotpedia.org/Robert_Dawson_(Georgia)
+- url: https://en.wikipedia.org/wiki/Robert_Dawson_(Georgia_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/203414/robert-dawson
+- url: https://rdawson.net
+- url: https://www.legis.ga.gov/members/house/5072

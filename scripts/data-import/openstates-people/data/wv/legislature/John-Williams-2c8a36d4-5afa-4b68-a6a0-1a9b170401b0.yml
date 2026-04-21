@@ -1,0 +1,49 @@
+id: ocd-person/2c8a36d4-5afa-4b68-a6a0-1a9b170401b0
+name: John Williams
+given_name: John
+family_name: Williams
+birth_date: 1990-05-24
+gender: Male
+email: john.williams@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2021/house/williams_john.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '80'
+- start_date: 2016-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '80'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '51'
+offices:
+- classification: capitol
+  address: State Capitol Room 4R, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3173
+- classification: district
+  address: 1462 Lakeland Ave., Morgantown, WV 26505
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Williams
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Williams
+other_names:
+- name: J. Williams
+- name: Williams, J
+- name: Williams, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000356
+sources:
+- url: https://ballotpedia.org/John_Williams_(West_Virginia)
+- url: https://en.wikipedia.org/wiki/John_Williams_(West_Virginia_politician)
+- url: https://justfacts.votesmart.org/candidate/148624/john-williams
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Williams
+- url: https://www.linkedin.com/in/john-williams-12029b99
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Williams
+- url: https://www.wvlegislature.gov/House/roster.cfm

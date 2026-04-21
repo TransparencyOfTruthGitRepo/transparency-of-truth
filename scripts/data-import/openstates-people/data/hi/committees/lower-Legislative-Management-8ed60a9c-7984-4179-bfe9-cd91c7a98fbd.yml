@@ -1,0 +1,37 @@
+id: ocd-organization/8ed60a9c-7984-4179-bfe9-cd91c7a98fbd
+jurisdiction: ocd-jurisdiction/country:us/state:hi/government
+classification: committee
+name: Legislative Management
+chamber: lower
+sources:
+- url: https://www.capitol.hawaii.gov/comminfolist.aspx
+  note: Committee list page
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=LMG
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=LMG&year=2023
+  note: Committee member list
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=LMG&year=2024
+links:
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=LMG
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=LMG&year=2023
+  note: homepage
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=LMG&year=2024
+members:
+- name: Sean Quinlan
+  role: chair
+  person_id: ocd-person/078931f6-9caa-4ba0-9f53-2b27e13ed400
+- name: Linda Ichiyama
+  role: vice chair
+  person_id: ocd-person/546ef7bf-9015-4a09-b8d3-f37fd87ed97f
+- name: Dee Morikawa
+  role: member
+  person_id: ocd-person/587a16dd-bb53-4164-829b-5e1703e06201
+- name: Kirstin Kahaloa
+  role: member
+  person_id: ocd-person/b6d9dda7-d2e1-443e-a19b-ee44ed891cad
+- name: Lauren Matsumoto
+  role: member
+  person_id: ocd-person/8562d0d7-9915-4559-98bc-ac9c456efd02
+other_names:
+- name: House Committee on Legislative Management
+- name: House Legislative Management
+- name: House Legislative Management Committee

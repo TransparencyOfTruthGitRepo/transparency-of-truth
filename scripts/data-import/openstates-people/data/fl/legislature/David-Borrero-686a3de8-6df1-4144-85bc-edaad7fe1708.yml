@@ -1,0 +1,47 @@
+id: ocd-person/686a3de8-6df1-4144-85bc-edaad7fe1708
+name: David Borrero
+given_name: David
+family_name: Borrero
+birth_date: 1988-12-14
+gender: Male
+email: david.borrero@flhouse.gov
+image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4794.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '111'
+- end_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '105'
+offices:
+- classification: capitol
+  address: Room 412, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5111
+- classification: district
+  address: 9600 NW 25th St. Suite 4C, Doral, FL 33172
+  voice: 786-984-8910
+links:
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4794&LegislativeTermId=90
+  note: member detail page
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4794
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4794
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4794&LegislativeTermId=89
+other_names:
+- name: Borrero, D.
+- name: D. Borrero
+- name: J.D. Borrero
+sources:
+- url: https://ballotpedia.org/David_Borrero
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4794&LegislativeTermId=90
+  note: member detail page
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4794
+- url: https://www.linkedin.com/in/david-borrero-107371147
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4794
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4794&LegislativeTermId=89
+extras:
+  old_district_office: Suite 301C; 1405 Southwest 107th Avenue; Miami, FL 33174-2541
+  old_district_voices: 305-222-4116, 239-417-6231

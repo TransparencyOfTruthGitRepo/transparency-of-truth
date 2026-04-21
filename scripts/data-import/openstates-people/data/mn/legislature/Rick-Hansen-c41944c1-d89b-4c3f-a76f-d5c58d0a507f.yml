@@ -1,0 +1,43 @@
+id: ocd-person/c41944c1-d89b-4c3f-a76f-d5c58d0a507f
+name: Rick Hansen
+given_name: Rick
+family_name: Hansen
+birth_date: 1963-03-01
+gender: Male
+email: rep.rick.hansen@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/53B.gif?v=112221
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 53B
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 52A
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-6828
+links:
+- url: https://www.house.mn.gov/members/profile/12282
+other_names:
+- name: Hansen, R.
+- name: R. Hansen
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000144
+- scheme: legacy_openstates
+  identifier: MNL000272
+- scheme: legacy_openstates
+  identifier: MNL000414
+- scheme: legacy_openstates
+  identifier: MNL000616
+sources:
+- url: https://ballotpedia.org/Rick_Hansen_(Minnesota)
+- url: https://en.wikipedia.org/wiki/Rick_Hansen_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/38981/rick-hansen
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/12282

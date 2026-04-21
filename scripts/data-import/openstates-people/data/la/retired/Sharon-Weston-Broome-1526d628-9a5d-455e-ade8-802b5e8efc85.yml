@@ -1,0 +1,18 @@
+id: ocd-person/1526d628-9a5d-455e-ade8-802b5e8efc85
+name: Sharon Weston Broome
+given_name: Sharon Weston
+family_name: Broome
+email: mayor@brla.gov
+roles:
+- end_date: '2024-11-05'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:la/place:baton_rouge/government
+links:
+- url: https://www.brla.gov/directory.aspx
+sources:
+- url: https://www.brla.gov/directory.aspx
+offices:
+- address: 222 Saint Louis Street, 3rd Floor;Baton Rouge, LA 70802
+  voice: 225-389-3100
+  fax: 225-389-5203
+  classification: primary

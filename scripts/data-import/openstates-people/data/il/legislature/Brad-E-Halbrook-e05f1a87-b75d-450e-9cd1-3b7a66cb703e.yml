@@ -1,0 +1,73 @@
+id: ocd-person/e05f1a87-b75d-450e-9cd1-3b7a66cb703e
+name: Brad Halbrook
+given_name: Brad
+family_name: Halbrook
+birth_date: 1961-07-22
+gender: Male
+email: halbrook@ilhousegop.org
+image: https://cdn.ilga.gov/assets/img/members/{3F3C3739-E087-440D-B006-33043A8F5083}.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '107'
+- end_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '102'
+offices:
+- classification: capitol
+  address: Room 205A-N, Stratton Office Building, Springfield, IL 62706
+  voice: 217-782-8398
+- classification: district
+  address: 203 N. Cedar St., Shelbyville, IL 62565
+  voice: 217-774-1306
+- classification: district
+  address: 304 E. Jefferson Ave. Suite A, Effingham, IL 62401
+  voice: 217-342-0220
+links:
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2697
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2913
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3114
+  note: homepage
+- url: https://rephalbrook.com/
+- url: https://www.ilga.gov/House/Members/Details/3328
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3114
+- url: https://www.ilga.gov/house/Rep.asp?GA=104&MemberID=3328
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3328
+other_names:
+- name: B. Halbrook
+- name: B.E. Halbrook
+- name: Brad E. Halbrook
+- name: Halbrook, B.
+- name: Halbrook, Brad
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ILL000534
+- scheme: legacy_openstates
+  identifier: ILL000537
+- scheme: legacy_openstates
+  identifier: ILL000870
+- scheme: legacy_openstates
+  identifier: ILL001054
+- scheme: legacy_openstates
+  identifier: ILL001069
+sources:
+- url: https://ballotpedia.org/Brad_Halbrook
+- url: https://en.wikipedia.org/wiki/Brad_Halbrook
+- url: https://ilga.gov/house/default.asp?GA=101
+- url: https://ilga.gov/house/default.asp?GA=102
+- url: https://ilga.gov/house/default.asp?GA=103
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2697
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2913
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3114
+- url: https://justfacts.votesmart.org/candidate/biography/134985/brad-halbrook
+- url: https://rephalbrook.com
+- url: https://rephalbrook.com/
+- url: https://www.ilga.gov/House/Members/Details/3328
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3114
+- url: https://www.ilga.gov/house/Rep.asp?GA=104&MemberID=3328
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3328
+- url: https://www.linkedin.com/in/brad-halbrook-3843a98a

@@ -1,0 +1,74 @@
+id: ocd-organization/6cea15ef-dd81-461c-b0cb-3420ff81da48
+jurisdiction: ocd-jurisdiction/country:us/state:la/government
+classification: committee
+name: House and Governmental Affairs
+chamber: lower
+sources:
+- url: https://house.louisiana.gov/H_Cmtes/HouseAndGov
+- url: https://house.louisiana.gov/H_Cmtes/HouseAndGov.aspx
+  note: Committee Detail Page
+- url: https://www.legis.la.gov/legis/Committees.aspx?c=H
+  note: Committees List Page
+links:
+- url: https://house.louisiana.gov/H_Cmtes/HouseAndGov
+- url: https://house.louisiana.gov/H_Cmtes/HouseAndGov.aspx
+  note: homepage
+members:
+- name: Beau Beaullieu
+  role: chair
+  person_id: ocd-person/c5ea395a-7594-4585-b193-000e05f08005
+- name: Rodney Lyons
+  role: vice chair
+  person_id: ocd-person/71696836-b261-4646-8127-407c40e2c35b
+- name: Joy Walters
+  role: ex officio
+  person_id: ocd-person/378995b0-0c3e-49a4-aa93-4633f06d5509
+- name: Beth Billings
+  role: member
+  person_id: ocd-person/5d15439d-4139-448a-8f61-25ab54e68b19
+- name: Candace Newell
+  role: member
+  person_id: ocd-person/85a96a1b-a8a0-4ddd-acd7-9452b48f5ace
+- name: Delisha Boyd
+  role: member
+  person_id: ocd-person/d107ae2b-6cb6-4545-a185-d63408f46033
+- name: Denise Marcelle
+  role: member
+  person_id: ocd-person/20def39d-ba5c-45d7-ba6c-5cf43590d4b0
+- name: Dixon McMakin
+  role: member
+  person_id: ocd-person/d3cae3e7-f6eb-4a9c-8c63-8719902f771d
+- name: Ed Larvadain
+  role: member
+  person_id: ocd-person/9a91a848-9d01-46b6-84f1-cc868681e912
+- name: Foy Gadberry
+  role: member
+  person_id: ocd-person/040e17ea-a4d0-47ce-8f45-527a6bdc83a7
+- name: John Wyble
+  role: member
+  person_id: ocd-person/8bc5e1d1-fe97-4466-a11d-415f56c5151a
+- name: Les Farnum
+  role: member
+  person_id: ocd-person/81379952-373b-4e6e-a29f-b9bb60e7593b
+- name: Mark Wright
+  role: member
+  person_id: ocd-person/d3ecec03-0408-46f0-8c82-b775f787e6e1
+- name: Mike Johnson
+  role: member
+  person_id: ocd-person/0e901294-3718-49df-9922-0ac4503acee2
+- name: Phillip DeVillier
+  role: member
+  person_id: ocd-person/ee23b4bf-f5f7-498c-9fcc-f3b2d6f8fb1d
+- name: Polly Thomas
+  role: member
+  person_id: ocd-person/d95410b8-a66c-4662-bcc6-1884252e061b
+- name: Rodney Schamerhorn
+  role: member
+  person_id: ocd-person/01cb17b2-a215-4cd5-916a-43c3e91723c7
+- name: Wilford Carter
+  role: member
+  person_id: ocd-person/3ced6b49-7f72-41d0-a84c-0e7cff17e88b
+other_names:
+- name: House Committee on House and Governmental Affairs
+- name: House House and Governmental Affairs
+- name: House House and Governmental Affairs Committee

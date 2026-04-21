@@ -1,0 +1,15 @@
+id: ocd-person/486a5e0c-5606-4fe1-8758-084bd509f7f1
+name: Rhett Taylor
+given_name: Rhett
+family_name: Taylor
+email: mayortaylor@hotmail.com
+roles:
+- end_date: 2021-04-30
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:il/place:grayslake/government
+offices:
+- classification: primary
+  address: 10 South Seymour Avenue;Grayslake, IL 60030
+  voice: 847-223-8515
+sources:
+- url: https://www.villageofgrayslake.com/221/Mayor

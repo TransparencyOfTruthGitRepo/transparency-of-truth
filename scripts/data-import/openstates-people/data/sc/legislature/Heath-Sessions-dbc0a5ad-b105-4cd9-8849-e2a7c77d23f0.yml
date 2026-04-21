@@ -1,0 +1,38 @@
+id: ocd-person/dbc0a5ad-b105-4cd9-8849-e2a7c77d23f0
+name: Heath Sessions
+given_name: Heath
+family_name: Sessions
+birth_date: 1976-11-24
+gender: Male
+email: heathsessions@schouse.gov
+image: https://scstatehouse.gov/images/members/1649715712.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '46'
+offices:
+- classification: capitol
+  address: Room 306B, Blatt Building P.O. Box 11867, Columbia, SC 29201
+  voice: 803-212-6780
+links:
+- url: https://scstatehouse.gov/member.php?code=1649715712
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=1649715712
+other_names:
+- name: C.H. Sessions
+- name: H. Sessions
+- name: Sessions, H.
+- name: Sessions, Heath
+sources:
+- url: https://ballotpedia.org/Heath_Sessions
+- url: https://en.wikipedia.org/wiki/Heath_Sessions
+- url: https://justfacts.votesmart.org/candidate/biography/205435/heath-sessions
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=1649715712
+- url: https://www.linkedin.com/in/heath-sessions-71b86b66
+- url: https://www.scstatehouse.gov/member.php?code=1649715712
+extras:
+  counties represented: York County

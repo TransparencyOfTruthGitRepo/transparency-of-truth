@@ -1,0 +1,36 @@
+id: ocd-person/fee23b32-9f92-4951-889e-6d09749a78b9
+name: Owen Henry
+given_name: Owen
+family_name: Henry
+birth_date: 1959-05-30
+gender: Male
+email: senhenry@njleg.org
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '12'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 2501 Highway 516, Old Bridge, NJ 08857
+  voice: 732-607-7580
+links:
+- url: https://www.njleg.state.nj.us/legislative-roster/470/senator-henry
+- url: https://www.senatenj.com/177/Owen-Henry---District-12
+other_names:
+- name: Henry, O.
+- name: Henry, Owen
+- name: O. Henry
+- name: O.E. Henry
+sources:
+- url: https://ballotpedia.org/Owen_Henry
+- url: https://en.wikipedia.org/wiki/Owen_Henry
+- url: https://justfacts.votesmart.org/candidate/162039/owen-henry
+- url: https://www.linkedin.com/in/owen-henry-11826269
+- url: https://www.njleg.state.nj.us/legislative-roster/470/senator-henry
+- url: https://www.senatenj.com/177/Owen-Henry---District-12

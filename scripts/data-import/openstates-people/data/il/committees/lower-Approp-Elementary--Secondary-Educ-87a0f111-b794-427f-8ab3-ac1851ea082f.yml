@@ -1,0 +1,49 @@
+id: ocd-organization/87a0f111-b794-427f-8ab3-ac1851ea082f
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: 'Appropriations: Elementary and Secondary Education'
+chamber: lower
+sources:
+- url: https://www.ilga.gov/house/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2879&GA=103
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3049&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3049
+links:
+- url: https://www.ilga.gov/house/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2879&GA=103
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3049&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3049
+members:
+- name: Will Davis
+  role: chair
+  person_id: ocd-person/fcc072f5-5cbc-4c8e-bc3d-e70b0e102878
+- name: "Aar\xF3n Ort\xEDz"
+  role: vice chair
+  person_id: ocd-person/a76e0c0e-81d3-4f3b-8cc8-b8360d3cecb4
+- name: Blaine Wilhour
+  role: republican spokesperson
+  person_id: ocd-person/500ffee4-de06-4a0b-b4df-f8e6f52c4e96
+- name: David Friess
+  role: member
+  person_id: ocd-person/abda0ae5-9ecb-4363-9a6a-487f1cf8899e
+- name: Janet Yang Rohr
+  role: member
+  person_id: ocd-person/dc08395b-8a74-4795-b104-d7b11c1e42ca
+- name: Laura Faver Dias
+  role: member
+  person_id: ocd-person/f0ab36db-6498-4d90-9b11-0191637421d2
+- name: Lisa Hernandez
+  role: member
+  person_id: ocd-person/b6ebf45f-ac97-423b-b5c3-eba0a5766a8d
+- name: Marty McLaughlin
+  role: member
+  person_id: ocd-person/eb9a9c6e-1173-4c03-848e-167eb2762673
+- name: Maura Hirschauer
+  role: member
+  person_id: ocd-person/ef519ea9-e143-44e0-95b2-49d37c4ea3c8
+other_names:
+- name: 'House Appropriations: Elementary and Secondary Education'
+- name: 'House Appropriations: Elementary and Secondary Education Committee'
+- name: 'House Committee on Appropriations: Elementary and Secondary Education'

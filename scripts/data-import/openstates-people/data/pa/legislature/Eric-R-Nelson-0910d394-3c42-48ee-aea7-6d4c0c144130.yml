@@ -1,0 +1,53 @@
+id: ocd-person/0910d394-3c42-48ee-aea7-6d4c0c144130
+name: Eric Nelson
+given_name: Eric
+family_name: Nelson
+birth_date: 1968-12-19
+gender: Male
+email: enelson@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1738.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2016-04-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '57'
+offices:
+- classification: capitol
+  address: Room 121, Ryan Office Building P.O. Box 202057, Harrisburg, PA 17120
+  voice: 717-260-6146
+- classification: district
+  address: 101 Ehalt St. Suite 105, Greensburg, PA 15601
+  voice: 724-834-6400
+- classification: district
+  address: 17 S. 6th St., Youngwood, PA 15697
+  voice: 724-925-5490
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1738
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1738/rep-e-nelson
+- url: https://www.repnelson.com/
+other_names:
+- name: E. Nelson
+- name: E.R. Nelson
+- name: Eric R. Nelson
+- name: Nelson, E.
+- name: NELSON, E.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000533
+sources:
+- url: https://ballotpedia.org/Eric_Nelson_(Pennsylvania)
+- url: https://en.wikipedia.org/wiki/Eric_Nelson_(Pennsylvania_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/169714/eric-nelson
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1738
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1738/rep-e-nelson
+- url: https://www.repnelson.com
+extras:
+  Education:
+  - B.S. Safety; Masters - Safety Science
+  - Communications Media & Instructional Technology -Doctoral coursework completed

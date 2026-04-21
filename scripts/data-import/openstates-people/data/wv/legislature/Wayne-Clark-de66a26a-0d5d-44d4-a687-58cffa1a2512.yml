@@ -1,0 +1,50 @@
+id: ocd-person/de66a26a-0d5d-44d4-a687-58cffa1a2512
+name: Wayne Clark
+given_name: Wayne
+family_name: Clark
+birth_date: 1972-02-16
+gender: Male
+email: wayne.clark@wvhouse.gov
+image: https://www.wvlegislature.gov/images/members/2025/house/clark_wayne.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '99'
+- start_date: 2020-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '99'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '65'
+offices:
+- classification: capitol
+  address: State Capitol Room 216E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3366
+- classification: district
+  address: 397 Davis St., Charles Town, WV 25414
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Clark
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clark
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clark,%20W.
+other_names:
+- name: Clark, W
+- name: Clark, W.
+- name: W. Clark
+sources:
+- url: https://ballotpedia.org/Wayne_Clark_(West_Virginia)
+- url: https://en.wikipedia.org/wiki/Wayne_Clark_(politician)
+- url: https://justfacts.votesmart.org/candidate/190641/wayne-clark
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Clark
+- url: https://www.linkedin.com/in/wayne-clark-7906933
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clark
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clark,%20W.
+- url: https://www.wvlegislature.gov/House/roster.cfm
+extras:
+  title: Assistant Majority Whip

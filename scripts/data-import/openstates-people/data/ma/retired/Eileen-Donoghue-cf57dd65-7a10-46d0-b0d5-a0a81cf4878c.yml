@@ -1,0 +1,22 @@
+id: ocd-person/cf57dd65-7a10-46d0-b0d5-a0a81cf4878c
+name: Eileen Donoghue
+given_name: Eileen
+family_name: Donoghue
+image: https://malegislature.gov/Legislators/Profile/170/EMD0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: First Middlesex
+links:
+- url: https://malegislature.gov/Legislators/Profile/EMD0
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000011
+- scheme: legacy_openstates
+  identifier: MAL000287
+sources:
+- url: https://malegislature.gov/Legislators/Profile/EMD0

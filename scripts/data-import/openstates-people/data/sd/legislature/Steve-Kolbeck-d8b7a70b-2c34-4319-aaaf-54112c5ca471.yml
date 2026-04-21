@@ -1,0 +1,36 @@
+id: ocd-person/d8b7a70b-2c34-4319-aaaf-54112c5ca471
+name: Steve Kolbeck
+given_name: Steve
+family_name: Kolbeck
+gender: Male
+email: steve.kolbeck@sdlegislature.gov
+image: https://kolbeckforsouthdakota.com/wp-content/uploads/2022/02/Kolbeck-Headshot1.png-684x1024.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '2'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3821
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/4453/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4624/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4777/Detail
+other_names:
+- name: Kolbeck (Steve)
+- name: Kolbeck, S.
+- name: S. Kolbeck
+- name: S.T. Kolbeck
+sources:
+- url: https://ballotpedia.org/Steve_Kolbeck
+- url: https://en.wikipedia.org/wiki/Steve_Kolbeck
+- url: https://justfacts.votesmart.org/candidate/biography/77645/steve-kolbeck
+- url: https://sdlegislature.gov/Legislators/Profile/4453/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4624/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4777/Detail
+extras:
+  occupation: Principal Manager - Xcel Energy

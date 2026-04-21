@@ -1,0 +1,52 @@
+id: ocd-person/8c6eeb07-d048-47fd-9f0e-718460e2edc9
+name: Mark Paige
+given_name: Mark
+family_name: Paige
+gender: Male
+email: mark.paige@gc.nh.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Mark-Paige.PNG
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 11
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 11
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 18
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9942
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9942
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9942
+  note: member detail page
+other_names:
+- name: M. Paige
+- name: M.A. Paige
+- name: Mark A. Paige
+- name: Paige, M.
+sources:
+- url: https://ballotpedia.org/Mark_Paige
+- url: https://en.wikipedia.org/wiki/Mark_Paige
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9942
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9942
+- url: https://justfacts.votesmart.org/candidate/194880/mark-paige
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9942
+- url: https://www.linkedin.com/in/mark-paige-81a34111
+extras:
+  county: Rockingham
+  elected status: new
+  gender code: M

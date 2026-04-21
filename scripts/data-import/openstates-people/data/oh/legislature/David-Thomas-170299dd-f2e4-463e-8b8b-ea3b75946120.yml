@@ -1,0 +1,30 @@
+id: ocd-person/170299dd-f2e4-463e-8b8b-ea3b75946120
+name: David Thomas
+given_name: David
+family_name: Thomas
+birth_date: 1993-04-05
+gender: Male
+email: rep65@ohiohouse.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/DavidThomas2024.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '65'
+offices:
+- classification: capitol
+  address: 77 S. High St. 11th Floor, Columbus, OH 43215
+  voice: 614-466-3488
+links:
+- url: https://ohiohouse.gov/members/david-thomas
+other_names:
+- name: D. Thomas
+- name: David Thomas, D.
+- name: Thomas, D.
+sources:
+- url: https://ballotpedia.org/David_Thomas_(Ohio)
+- url: https://ohiohouse.gov/members/david-thomas
+- url: https://ohiohouse.gov/members/david-thomas/biography
+- url: https://www.linkedin.com/in/david-thomas-9a605a56

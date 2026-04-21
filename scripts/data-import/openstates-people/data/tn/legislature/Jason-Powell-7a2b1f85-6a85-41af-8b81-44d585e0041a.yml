@@ -1,0 +1,57 @@
+id: ocd-person/7a2b1f85-6a85-41af-8b81-44d585e0041a
+name: Jason Powell
+given_name: Jason
+family_name: Powell
+birth_date: 1978-01-25
+gender: Male
+email: rep.jason.powell@capitol.tn.gov
+image: https://www.tennessean.com/gcdn/-mm-/6f03ca527b37558797b9ff3612df6f1ca4cc9386/c=0-42-1946-2637/local/-/media/Nashville/2015/02/11/B9316214695Z.1_20150211202701_000_GF79UD55G.1-0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2012-11-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '53'
+offices:
+- classification: capitol
+  address: Room 418, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-6861
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H53
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h53.html
+other_names:
+- name: J. Powell
+- name: J.L. Powell
+- name: Powell, J
+- name: Powell, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000232
+- scheme: legacy_openstates
+  identifier: TNL000266
+- scheme: legacy_openstates
+  identifier: TNL000295
+- scheme: legacy_openstates
+  identifier: TNL000397
+sources:
+- url: https://ballotpedia.org/Jason_Powell
+- url: https://en.wikipedia.org/wiki/Jason_Powell
+- url: https://justfacts.votesmart.org/candidate/biography/65608/jason-powell
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H53
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h53.html
+extras:
+  office: 418 CHB
+  personal info:
+  - Born January 25, 1978
+  - Married, wife Heather, two children
+  - Episcopal
+  - Real Estate
+  - M.B.A., University of Memphis
+  - M.P.A., Tennessee State University
+  - B. A., History/Political Science, University of Colorado at Boulder

@@ -1,0 +1,37 @@
+id: ocd-person/fc7627d7-6c08-49e7-9edc-6f419443ffaa
+name: Greg Alexander
+given_name: Greg
+family_name: Alexander
+gender: Male
+email: gregalexander@house.mi.gov
+image: https://www.house.mi.gov/media/Representatives/Alexander-098.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '98'
+offices:
+- classification: capitol
+  address: Room S-1287, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-1791
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/repgregalexander/posts
+other_names:
+- name: Alexander, G.
+- name: G. Alexander
+- name: Gregory Alexander
+sources:
+- url: https://ballotpedia.org/Gregory_Alexander_(Michigan_House_of_Representatives_District_98)
+- url: https://gophouse.org/member/repgregalexander/about
+- url: https://gophouse.org/member/repgregalexander/posts
+- url: https://RepGregAlexander.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.house.mi.gov/repdetail/repGregoryAlexander
+  note: Member Details Page

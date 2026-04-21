@@ -1,0 +1,25 @@
+id: ocd-person/f05398c6-d0db-4a44-85ee-eec811547d61
+name: Stanley C. Rosenberg
+given_name: Stanley
+family_name: Rosenberg
+middle_name: C.
+image: https://malegislature.gov/Legislators/Profile/170/SCR0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Hampshire, Franklin and Worcester
+links:
+- url: https://malegislature.gov/Legislators/Profile/SCR0
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000032
+- scheme: legacy_openstates
+  identifier: MAL000240
+- scheme: legacy_openstates
+  identifier: MAL000267
+sources:
+- url: https://malegislature.gov/Legislators/Profile/SCR0

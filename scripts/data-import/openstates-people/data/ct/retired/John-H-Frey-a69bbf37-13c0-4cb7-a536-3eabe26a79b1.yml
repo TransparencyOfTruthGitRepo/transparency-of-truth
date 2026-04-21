@@ -1,0 +1,19 @@
+id: ocd-person/a69bbf37-13c0-4cb7-a536-3eabe26a79b1
+name: John H. Frey
+given_name: John
+family_name: Frey
+email: John.Frey@housegop.ct.gov
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '111'
+links:
+- url: http://www.cthousegop.com/Frey/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000147
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

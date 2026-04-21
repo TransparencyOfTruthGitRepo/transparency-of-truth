@@ -1,0 +1,44 @@
+id: ocd-person/ebadc687-f53a-4ec4-9c37-b362a2ea6842
+name: Tina Mulally
+given_name: Tina
+family_name: Mulally
+gender: Female
+email: tina.mulally@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Mulally_2019.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '35'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3851
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1646&Session=2019
+- url: https://sdlegislature.gov/Legislators/Profile/1826/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4393/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4640/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4792/Detail
+other_names:
+- name: Mulally, T.
+- name: T. Mulally
+- name: T.L. Mulally
+- name: Tina L Mulally
+- name: Tina L. Mulally
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/d36eb53a-3a33-4bfe-aed8-edf6775e62b0
+sources:
+- url: https://ballotpedia.org/Tina_Mulally
+- url: https://en.wikipedia.org/wiki/Tina_Mulally
+- url: https://justfacts.votesmart.org/candidate/biography/169894/tina-mulally
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1646&Session=2019
+- url: https://sdlegislature.gov/Legislators/Profile/1826/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4393/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4640/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4792/Detail
+extras:
+  occupation: Homemaker/Small Business Owner

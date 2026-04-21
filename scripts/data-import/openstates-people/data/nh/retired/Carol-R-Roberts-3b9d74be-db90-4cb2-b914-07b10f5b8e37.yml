@@ -1,0 +1,20 @@
+id: ocd-person/3b9d74be-db90-4cb2-b914-07b10f5b8e37
+name: Carol R. Roberts
+given_name: Carol
+family_name: Roberts
+middle_name: R.
+party:
+- name: Democratic
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 4
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001141
+sources:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt

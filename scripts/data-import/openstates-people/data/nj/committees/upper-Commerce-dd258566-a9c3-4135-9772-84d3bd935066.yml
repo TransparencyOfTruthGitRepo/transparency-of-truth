@@ -1,0 +1,36 @@
+id: ocd-organization/dd258566-a9c3-4135-9772-84d3bd935066
+jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+classification: committee
+name: Commerce
+chamber: upper
+sources:
+- url: https://njleg.state.nj.us/committees/senate-committees?committee=SCM
+- url: https://www.njleg.state.nj.us/api/legislatorData/committeeInfo/senate-committees
+  note: JSON data page from NJ Legislative API
+- url: https://www.njleg.state.nj.us/committees/senate-committees
+links:
+- url: https://njleg.state.nj.us/committees/senate-committees?committee=SCM
+- url: https://www.njleg.state.nj.us/committees/senate-committees
+  note: homepage
+members:
+- name: Joe Lagana
+  role: chair
+  person_id: ocd-person/90a0a109-2ce3-4a55-8761-1e07ff875703
+- name: Joe Cryan
+  role: vice chair
+  person_id: ocd-person/5dcef6ac-7dbe-4c65-a53b-670c89a615e7
+- name: Bob Singer
+  role: member
+  person_id: ocd-person/45219a29-080f-4452-9b05-92488e96f2f1
+- name: Gordon Johnson
+  role: member
+  person_id: ocd-person/53fe6716-2bdb-4926-993f-4a2cf002ad51
+- name: Jon Bramnick
+  role: member
+  person_id: ocd-person/08a758f9-92fb-4e59-ac8f-edc75aaf3390
+other_names:
+- name: Commerce Committee
+- name: Committee on Commerce
+- name: Senate Commerce
+- name: Senate Commerce Committee
+- name: Senate Committee on Commerce

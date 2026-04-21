@@ -1,0 +1,34 @@
+id: ocd-person/cddb4c79-df27-4bbe-9d22-9570e0c86921
+name: Jim Hughes
+given_name: Jim
+family_name: Hughes
+biography: |
+  Representative Jim Hughes is serving his first term in the Ohio House representing
+  the 24th district, which encompasses a portion of Franklin County, including Upper
+  Arlington, Hilliard, and Clintonville.
+image: http://www.ohiohouse.gov/Assets/Headshots/Small/24.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '24'
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '16'
+links:
+- url: http://www.ohiohouse.gov/jim-hughes
+- url: http://www.ohiosenate.gov/hughes
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000334
+- scheme: legacy_openstates
+  identifier: OHL000016
+- scheme: openstates
+  identifier: ocd-person/eb11947d-a05e-4122-9195-5583b4a1846c
+sources:
+- url: http://www.ohiohouse.gov/members/member-directory
+- url: http://www.ohiosenate.gov/members/senate-directory

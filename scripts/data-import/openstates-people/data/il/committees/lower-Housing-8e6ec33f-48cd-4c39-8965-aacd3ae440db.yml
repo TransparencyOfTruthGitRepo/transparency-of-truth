@@ -1,0 +1,76 @@
+id: ocd-organization/8e6ec33f-48cd-4c39-8965-aacd3ae440db
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: Housing
+chamber: lower
+sources:
+- url: https://www.ilga.gov/house/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2952&GA=103
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3111&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3111
+links:
+- url: https://www.ilga.gov/house/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2952&GA=103
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3111&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3111
+members:
+- name: "Lilian Jim\xE9nez"
+  role: chair
+  person_id: ocd-person/256a1090-5fef-4f0c-b016-263735573c77
+- name: Hoan Huynh
+  role: vice chair
+  person_id: ocd-person/c7156dc3-31a6-4582-bf3a-b325c9dc868f
+- name: Amy Grant
+  role: republican spokesperson
+  person_id: ocd-person/f8dc94db-66cf-4d5e-b1af-0b6307140524
+- name: Abdelnasser Rashid
+  role: member
+  person_id: ocd-person/4101db1f-a913-4d16-88fb-001f120bb092
+- name: Anne Stava
+  role: member
+  person_id: ocd-person/8dfe2e37-8a40-4be0-b44d-0bf65861f4e0
+- name: Bob Rita
+  role: member
+  person_id: ocd-person/3ce631a4-7a4f-4905-a959-574f1f0d3d6d
+- name: Brad Halbrook
+  role: member
+  person_id: ocd-person/e05f1a87-b75d-450e-9cd1-3b7a66cb703e
+- name: Camille Lilly
+  role: member
+  person_id: ocd-person/a51455ff-b0ae-47f6-b3ee-2722adbe38c2
+- name: Jennifer Sanalitro
+  role: member
+  person_id: ocd-person/0069021e-b341-44fd-9d02-d876839c5c23
+- name: Marti Deuter
+  role: member
+  person_id: ocd-person/035b25c2-e97c-413e-8d84-d5c618f6a2fa
+- name: Mary Beth Canty
+  role: member
+  person_id: ocd-person/48d73b90-0109-4fb2-8689-57e803c8294a
+- name: Maurice West
+  role: member
+  person_id: ocd-person/77906cdf-58a8-4329-bb24-c65e6e38342f
+- name: Michelle Mussman
+  role: member
+  person_id: ocd-person/394eec6a-ad20-447e-b72c-f09d76e66fa2
+- name: Mike Coffey
+  role: member
+  person_id: ocd-person/868db7f8-5f9e-48a4-83ba-a5404b87276a
+- name: Patrick Sheehan
+  role: member
+  person_id: ocd-person/075c5ab4-12bf-4573-8091-1539a081256e
+- name: Travis Weaver
+  role: member
+  person_id: ocd-person/63883963-04b0-454c-8d18-81dcca230b55
+- name: Will Davis
+  role: member
+  person_id: ocd-person/fcc072f5-5cbc-4c8e-bc3d-e70b0e102878
+- name: Will Guzzardi
+  role: member
+  person_id: ocd-person/df11068d-eb77-4eb8-90c8-95056891e633
+other_names:
+- name: House Committee on Housing
+- name: House Housing
+- name: House Housing Committee

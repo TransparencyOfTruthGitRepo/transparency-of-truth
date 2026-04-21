@@ -1,0 +1,21 @@
+id: ocd-person/2c8b1981-88f9-4b75-968c-65464a8e59cb
+name: Marion Greene
+given_name: Marion
+family_name: Greene
+image: http://www.house.leg.state.mn.us/hinfo/memberimgls87/60A.GIF
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 60A
+links:
+- url: http://www.house.leg.state.mn.us/members/members.asp?id=15349
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000265
+sources:
+- url: http://www.house.leg.state.mn.us/members/housemembers.asp
+- url: http://www.house.leg.state.mn.us/members/members.asp?id=15349

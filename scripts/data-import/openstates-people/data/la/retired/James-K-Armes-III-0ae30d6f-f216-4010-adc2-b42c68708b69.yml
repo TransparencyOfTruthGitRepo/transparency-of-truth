@@ -1,0 +1,27 @@
+id: ocd-person/0ae30d6f-f216-4010-adc2-b42c68708b69
+name: James K. Armes, III
+given_name: James K.
+family_name: Armes
+image: http://house.louisiana.gov/h_reps/RepPics09/rep30.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-01-13'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '30'
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=30
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000174
+- scheme: legacy_openstates
+  identifier: LAL000322
+- scheme: legacy_openstates
+  identifier: LAL000525
+- scheme: legacy_openstates
+  identifier: LAL000641
+- scheme: legacy_openstates
+  identifier: LAL000867
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=30

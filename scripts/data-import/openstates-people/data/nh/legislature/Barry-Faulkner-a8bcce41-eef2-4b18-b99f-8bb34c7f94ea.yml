@@ -1,0 +1,57 @@
+id: ocd-person/a8bcce41-eef2-4b18-b99f-8bb34c7f94ea
+name: Barry Faulkner
+given_name: Barry
+family_name: Faulkner
+gender: Male
+email: fbfaulkner@outlook.com
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/59156.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 10
+- start_date: 2016-12-07
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 10
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 12
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=407628
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?member=407628
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=7628
+  note: member detail page
+other_names:
+- name: B. Faulkner
+- name: F.B. Faulkner
+- name: Faulkner, B.
+- name: Francis Barrett Faulkner
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001432
+sources:
+- url: https://ballotpedia.org/F._Barrett_Faulkner
+- url: https://bcmenvirolaw.com/about-the-firm/f-barrett-faulkner
+- url: https://gc.nh.gov/house/members/member.aspx?member=407628
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?member=407628
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=407628
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=7628
+- url: https://www.linkedin.com/in/barry-faulkner-7531432b
+extras:
+  county: Cheshire
+  elected status: Incumbent
+  gender code: M

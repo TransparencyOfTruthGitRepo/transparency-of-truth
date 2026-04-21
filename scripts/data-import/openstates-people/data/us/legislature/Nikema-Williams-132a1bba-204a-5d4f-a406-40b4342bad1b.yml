@@ -1,0 +1,70 @@
+id: ocd-person/132a1bba-204a-5d4f-a406-40b4342bad1b
+name: Nikema Williams
+given_name: Nikema
+family_name: Williams
+birth_date: 1978-07-30
+gender: Female
+email: https://nikemawilliams.house.gov/contact
+image: https://unitedstates.github.io/images/congress/450x550/W000788.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-5
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-5
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-5
+offices:
+- classification: capitol
+  address: 1406 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-3801
+- classification: district
+  address: 100 Peachtree St. NW Suite 1920, Atlanta, GA 30303
+  voice: 404-659-0116
+  fax: 404-331-0947
+links:
+- url: https://nikemawilliams.house.gov
+  note: website
+- url: https://nikemawilliams.house.gov/
+other_names:
+- name: N. Williams
+- name: N.N. Williams
+- name: Williams, N.
+ids:
+  twitter: RepNikema
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Nikema Williams
+- scheme: bioguide
+  identifier: W000788
+- scheme: fec
+  identifier: H0GA05301
+- scheme: google_entity_id
+  identifier: kg:/g/11fctqx0jy
+- scheme: govtrack
+  identifier: '456811'
+- scheme: opensecrets
+  identifier: N00047361
+- scheme: pictorial
+  identifier: '13014'
+- scheme: wikidata
+  identifier: Q56486570
+sources:
+- url: https://ballotpedia.org/Nikema_Williams
+- url: https://en.wikipedia.org/wiki/Nikema_Williams
+- url: https://justfacts.votesmart.org/candidate/biography/176751/nikema-williams
+- url: https://nikemawilliams.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.linkedin.com/in/nikemawilliams
+- url: https://www.nikemaforcongress.com/meet-nikema

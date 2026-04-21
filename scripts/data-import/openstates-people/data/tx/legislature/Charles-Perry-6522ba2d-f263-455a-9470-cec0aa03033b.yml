@@ -1,0 +1,51 @@
+id: ocd-person/6522ba2d-f263-455a-9470-cec0aa03033b
+name: Charles Perry
+given_name: Charles
+family_name: Perry
+birth_date: 1962-03-09
+gender: Male
+email: charles.perry@senate.texas.gov
+image: https://senate.texas.gov/members/d28/img/Perry-Headshot-2019.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2014-09-30
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '28'
+- start_date: 2011-01-11
+  end_date: 2014-09-30
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '28'
+offices:
+- classification: capitol
+  address: Room E1.806, P.O. Box 12068 Capitol Station, Austin, TX 78711
+  voice: 512-463-0128
+- classification: district
+  address: '11003 Quaker Ave., #101, Lubbock, TX 79424'
+  voice: 806-783-9934
+- classification: district
+  address: 203 Commerce St. NW, Childress, TX 79201
+  voice: 940-937-0909
+- classification: district
+  address: '36 W. Beauregard Ave., #510, San Angelo, TX 76903'
+  voice: 325-481-0028
+links:
+- url: https://senate.texas.gov/member.php?d=28
+other_names:
+- name: C. Perry
+- name: Perry, C.
+- name: Perry, Charles
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000400
+- scheme: legacy_openstates
+  identifier: TXL000477
+- scheme: legacy_openstates
+  identifier: TXL000511
+sources:
+- url: https://ballotpedia.org/Charles_Perry
+- url: https://en.wikipedia.org/wiki/Charles_Perry_(Texas_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/116957/charles-perry
+- url: https://senate.texas.gov/member.php?d=28

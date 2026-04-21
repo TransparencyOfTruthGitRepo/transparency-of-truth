@@ -1,0 +1,21 @@
+id: ocd-person/c233ecac-682c-4151-9712-bc0af576939e
+name: Sue Wallis
+given_name: Sue
+family_name: Wallis
+image: http://legisweb.state.wy.us/LegislatorSummary/photos/WallisSH52.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '52'
+links:
+- url: http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=146
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000088
+sources:
+- url: http://legisweb.state.wy.us/LegislatorSummary/LegislatorList.aspx?strHouse=H&strStatus=N
+- url: http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=146

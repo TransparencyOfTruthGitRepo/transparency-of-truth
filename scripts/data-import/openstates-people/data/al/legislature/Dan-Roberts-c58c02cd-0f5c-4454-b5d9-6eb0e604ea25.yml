@@ -1,0 +1,38 @@
+id: ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25
+name: Dan Roberts
+given_name: Dan
+family_name: Roberts
+gender: Male
+email: dan.roberts@alsenate.gov
+image: https://www.legislature.state.al.us/pdf/senate/members/Roberts_15.png
+party:
+- name: Republican
+roles:
+- start_date: 2018-11-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '15'
+offices:
+- classification: capitol
+  address: Room 729, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0851
+links:
+- url: https://alison.legislature.state.al.us/senate-leaders-members
+  note: homepage
+- url: https://alsenaterepublicans.org/representatives/0015-dan-roberts/
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100458&OID_PERSON=8485
+other_names:
+- name: D. Roberts
+- name: Roberts, D.
+sources:
+- url: https://alsenaterepublicans.org/representatives/0015-dan-roberts
+- url: https://ballotpedia.org/Dan_Roberts_(Alabama)
+- url: https://en.wikipedia.org/wiki/Dan_Roberts_(politician)
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/180628/dan-roberts
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Roberts&OID_SPONSOR=100458&OID_PERSON=8485&SESSNAME=Regular%20Session%202022
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100458&OID_PERSON=8485
+- url: https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+extras:
+  counties: Jefferson County, Shelby County

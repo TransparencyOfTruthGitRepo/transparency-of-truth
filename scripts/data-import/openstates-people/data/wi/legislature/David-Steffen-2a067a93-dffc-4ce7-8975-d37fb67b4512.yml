@@ -1,0 +1,56 @@
+id: ocd-person/2a067a93-dffc-4ce7-8975-d37fb67b4512
+name: David Steffen
+given_name: David
+family_name: Steffen
+birth_date: 1971-10-12
+gender: Male
+email: rep.steffen@legis.wisconsin.gov
+image: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2519.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '4'
+links:
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1614
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1798
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/2196
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2519
+- url: https://docs.legis.wisconsin.gov/2025/legislators/assembly/2789
+- url: https://legis.wisconsin.gov/assembly/04/steffen
+- url: https://legis.wisconsin.gov/assembly/04/steffen/
+other_names:
+- name: D. Steffen
+- name: STEFFEN, D
+- name: Steffen, D
+- name: Steffen, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000564
+- scheme: legacy_openstates
+  identifier: WIL000615
+sources:
+- url: https://ballotpedia.org/David_Steffen
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1614
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1798
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/2196
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/
+  note: members list page
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2519
+  note: member detail page
+- url: https://docs.legis.wisconsin.gov/2025/legislators/assembly/2789
+- url: https://en.wikipedia.org/wiki/David_Steffen
+- url: https://justfacts.votesmart.org/candidate/biography/51859/david-steffen
+- url: https://legis.wisconsin.gov/assembly/04/steffen
+extras:
+  website: http://legis.wisconsin.gov/assembly/04/steffen
+  extra phone: (888) 534-0004
+  staff1: Emily Delaurelle
+  staff_email1: Emily.Delaurelle@legis.wisconsin.gov
+  staff2: Nicole Walentowski-Domokos
+  staff_email2: Nicole.Walentowski-Domokos@legis.wisconsin.gov

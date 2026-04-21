@@ -1,0 +1,48 @@
+id: ocd-person/3a323603-753e-4380-993c-9bb2a7fc55f3
+name: Derrick McCollum
+given_name: Derrick
+family_name: McCollum
+gender: Male
+email: derrick.mccollum@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/mccollum-derrick-5022.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '30'
+offices:
+- classification: capitol
+  address: Room 401-D, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0152
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5022
+- url: https://www.legis.ga.gov/members/house/5022?session=1031
+  note: HTML member detail page
+other_names:
+- name: D. McCollum
+- name: MCCOLLUM, 30TH
+- name: McCollum, D.
+sources:
+- url: https://ballotpedia.org/Derrick_McCollum
+- url: https://en.wikipedia.org/wiki/Derrick_McCollum
+- url: https://justfacts.votesmart.org/candidate/biography/190384/derrick-mccollum
+- url: https://www.legis.ga.gov/api/members/detail/5022?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5022
+extras:
+  residence: Chestnut Mountain
+  city: Chestnut Mountain
+  georgia_id: 5022
+  birthday: April 22
+  occupation: Entrepreneur/Retired Firefighter
+  press: https://house-press.com/representative/Derrick-McCollum
+  spouse: Gina
+  staff: Shakirah Nash - Administrative Assistant
+  staff email: shakirah.nash@house.ga.gov

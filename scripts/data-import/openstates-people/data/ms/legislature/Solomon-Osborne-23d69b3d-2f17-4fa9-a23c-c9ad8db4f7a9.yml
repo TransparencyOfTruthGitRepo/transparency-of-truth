@@ -1,0 +1,46 @@
+id: ocd-person/23d69b3d-2f17-4fa9-a23c-c9ad8db4f7a9
+name: Solomon Osborne
+given_name: Solomon
+family_name: Osborne
+birth_date: 1948-05-26
+gender: Male
+email: sosborne@house.ms.gov
+image: http://billstatus.ls.state.ms.us/members/house/osborne.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-03-18
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '32'
+offices:
+- classification: capitol
+  address: State Capitol 400 High St., Jackson, MS 39201
+  voice: 601-359-3770
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/osborne.xml
+  note: homepage
+other_names:
+- name: Osborne, S.
+- name: S. Osborne
+- name: S.C. Osborne
+- name: Solomon C. Osborne
+- name: Solomon Curtis Osborne
+- name: Solomon Osborne
+sources:
+- url: https://ballotpedia.org/Solomon_Osborne
+- url: https://billstatus.ls.state.ms.us/members/house/osborne.xml
+- url: https://billstatus.ls.state.ms.us/members/hr_membs.xml
+- url: https://en.wikipedia.org/wiki/Solomon_Osborne
+- url: https://justfacts.votesmart.org/candidate/biography/186054/solomon-osborne
+- url: https://www.linkedin.com/in/solomon-osborne-11970941
+extras:
+  occupation: Attorney
+  education:
+  - Amanda Elzy High School,
+  - BA Tougaloo College Political Science, Juris Doctorate University of Illinois
+    College of Law
+  counties represented:
+  - Leflore

@@ -1,0 +1,23 @@
+id: ocd-person/7a31d190-84ac-4ba9-88f4-577f8c4c2412
+name: Preston E. Sullivan
+given_name: Preston E.
+family_name: Sullivan
+image: http://billstatus.ls.state.ms.us/members/house/sullivan.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-01-07'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '22'
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/sullivan.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000111
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/sullivan.xml
+extras:
+  org_info: |
+    Representative Sullivan is a member of the NRA, Mississippi Cattleman's
+    Association, Farm Bureau and is a mason.

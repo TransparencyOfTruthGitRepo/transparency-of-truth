@@ -1,0 +1,57 @@
+id: ocd-person/da5fb901-d16d-430f-b5cb-7ab556f8d4ee
+name: Andrew Prout
+given_name: Andrew
+family_name: Prout
+gender: Male
+email: andrew.prout@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/59343.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 13
+- start_date: 2016-12-07
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 13
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 37
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=408359
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408359
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8359
+  note: member detail page
+other_names:
+- name: A. Prout
+- name: A.J. Prout
+- name: Andrew J. Prout
+- name: Prout, A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001406
+sources:
+- url: https://ballotpedia.org/Andrew_Prout
+- url: https://en.wikipedia.org/wiki/Andrew_Prout
+- url: https://gc.nh.gov/house/members/member.aspx?member=408359
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/172342/andrew-prout
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408359
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8359
+- url: https://www.linkedin.com/in/ajprout
+extras:
+  county: Hillsborough
+  elected status: Incumbent
+  gender code: M

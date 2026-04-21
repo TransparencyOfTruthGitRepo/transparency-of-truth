@@ -1,0 +1,73 @@
+id: ocd-person/7c181af1-a048-53f0-a16c-833ffd27aef4
+name: Sara Jacobs
+given_name: Sara
+family_name: Jacobs
+birth_date: 1989-02-01
+gender: Female
+email: https://sarajacobs.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/J000305.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CA-51
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CA-51
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CA-53
+offices:
+- classification: capitol
+  address: 2348 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-2040
+  fax: 202-225-2948
+- classification: district
+  address: 9665 Chesapeake Drive Suite 455, San Diego, CA 92123
+  voice: 619-280-5353
+links:
+- url: https://sarajacobs.house.gov
+  note: website
+- url: https://sarajacobs.house.gov/
+- url: https://sarajacobs.house.gov/news/press-releases
+other_names:
+- name: Jacobs, S.
+- name: S. Jacobs
+- name: S.J. Jacobs
+ids:
+  twitter: RepSaraJacobs
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Sara Jacobs
+- scheme: bioguide
+  identifier: J000305
+- scheme: fec
+  identifier: H8CA49074
+- scheme: google_entity_id
+  identifier: kg:/g/11ghs2x3tm
+- scheme: govtrack
+  identifier: '456804'
+- scheme: opensecrets
+  identifier: N00042081
+- scheme: pictorial
+  identifier: '12965'
+- scheme: votesmart
+  identifier: '179414'
+- scheme: wikidata
+  identifier: Q50825637
+sources:
+- url: https://ballotpedia.org/Sara_Jacobs
+- url: https://en.wikipedia.org/wiki/Sara_Jacobs
+- url: https://justfacts.votesmart.org/candidate/biography/179414/sara-jacobs
+- url: https://sarajacobs.house.gov
+- url: https://sarajacobs.house.gov/news/press-releases
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/sara_jacobs/456804

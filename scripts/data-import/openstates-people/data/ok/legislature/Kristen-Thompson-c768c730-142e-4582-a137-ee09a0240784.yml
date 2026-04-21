@@ -1,0 +1,33 @@
+id: ocd-person/c768c730-142e-4582-a137-ee09a0240784
+name: Kristen Thompson
+given_name: Kristen
+family_name: Thompson
+gender: Female
+email: kristen.thompson@oksenate.gov
+image: https://oksenate.gov/sites/default/files/Thompson%2C%20Kristen%20Flags%202022.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-23
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ok/government
+  district: '22'
+offices:
+- classification: capitol
+  address: Room 237, 2300 N. Lincoln Blvd., Oklahoma City, OK 73105
+  voice: 405-521-5592
+links:
+- url: https://oksenate.gov/contact-senator?sid=1523285
+  note: Contact Form
+- url: https://oksenate.gov/senators/kristen-thompson
+other_names:
+- name: K. Thompson
+- name: Thompson (K)
+- name: Thompson (Kristen)
+- name: Thompson, (K)
+- name: Thompson, K.
+sources:
+- url: https://ballotpedia.org/Kristen_Thompson
+- url: https://en.wikipedia.org/wiki/Kristen_Thompson
+- url: https://oksenate.gov/senators/kristen-thompson
+- url: https://www.linkedin.com/in/kristen-thompson-84145253

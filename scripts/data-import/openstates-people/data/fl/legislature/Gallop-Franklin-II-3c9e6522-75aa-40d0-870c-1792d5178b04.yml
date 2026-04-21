@@ -1,0 +1,37 @@
+id: ocd-person/3c9e6522-75aa-40d0-870c-1792d5178b04
+name: Gallop Franklin
+given_name: Gallop
+family_name: Franklin
+gender: Male
+email: gallop.franklin@flhouse.gov
+image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4863.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room 1003, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5008
+links:
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4863&LegislativeTermId=90
+  note: member detail page
+- url: https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4863
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4863
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4863&LegislativeTermId=90
+other_names:
+- name: Franklin, G.
+- name: G. Franklin
+- name: G.P. Franklin
+- name: Gallop Franklin II
+sources:
+- url: https://ballotpedia.org/Gallop_Franklin
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4863&LegislativeTermId=90
+  note: member detail page
+- url: https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4863
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4863
+- url: https://www.linkedin.com/in/gallop-franklin-222485a3
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4863&LegislativeTermId=90

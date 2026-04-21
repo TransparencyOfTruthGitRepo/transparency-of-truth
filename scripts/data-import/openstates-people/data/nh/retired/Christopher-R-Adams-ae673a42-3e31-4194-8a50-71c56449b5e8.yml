@@ -1,0 +1,21 @@
+id: ocd-person/ae673a42-3e31-4194-8a50-71c56449b5e8
+name: Christopher R. Adams
+given_name: Christopher
+family_name: Adams
+middle_name: R.
+image: http://www.gencourt.state.nh.us/house/images/memberpics/377202.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 26
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377202
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001073
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377202

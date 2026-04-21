@@ -1,0 +1,36 @@
+id: ocd-person/5d6f21b7-11a6-4f5e-8661-abc9345f3623
+name: Scott Webster
+given_name: Scott
+family_name: Webster
+gender: Male
+email: scott.webster@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=13574
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '47'
+offices:
+- classification: capitol
+  address: 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3371
+links:
+- url: https://iowasenaterepublicans.com/senators/scott-webster/
+- url: https://www.iowasenaterepublicans.com/senators/scott-webster/
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=13574
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=13574
+other_names:
+- name: S. Webster
+- name: Webster, S.
+sources:
+- url: https://ballotpedia.org/Scott_Webster
+- url: https://en.wikipedia.org/wiki/Scott_Webster_(politician)
+- url: https://iowasenaterepublicans.com/senators/scott-webster
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=13574
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=13574
+- url: https://www.legis.iowa.gov/legislators/senate
+- url: https://www.linkedin.com/in/scott-webster-198b3087
+extras:
+  occupation: Homebuilder

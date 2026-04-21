@@ -1,0 +1,57 @@
+id: ocd-person/aec7ee58-7da0-41e1-88d0-5c9e68737a0f
+name: Schuyler VanValkenburg
+given_name: Schuyler
+family_name: VanValkenburg
+birth_date: 1982-06-05
+gender: Male
+email: senatorvanvalkenburg@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/VanValkenburg16
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '16'
+- start_date: 2018-01-10
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '72'
+offices:
+- classification: capitol-mail
+  address: P.O. Box 28782, Richmond, VA 23228
+  voice: 804-223-0669
+- classification: capitol-mail
+  address: Room 602, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7516
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S129
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H307
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H307
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H307
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S129
+other_names:
+- name: S. VanValkenburg
+- name: S.T. VanValkenburg
+- name: Schuyler T. VanValkenburg
+- name: Schuyler Thomas VanValkenburg
+- name: VanValkenburg, S.
+- name: VanValkenburg, Schuyler T.
+ids:
+  twitter: vvfordelegate
+  facebook: VanValkenburg4VA
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000268
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S129
+- url: https://ballotpedia.org/Schuyler_VanValkenburg
+- url: https://en.wikipedia.org/wiki/Schuyler_VanValkenburg
+- url: https://justfacts.votesmart.org/candidate/biography/176574/schuyler-vanvalkenburg
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H307
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H307
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H307
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S129

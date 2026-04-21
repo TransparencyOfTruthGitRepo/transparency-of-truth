@@ -1,0 +1,28 @@
+id: ocd-person/9fd51348-9fcc-4692-bf61-43ef85739673
+name: Gerald L. Brady
+given_name: Gerald L.
+family_name: Brady
+email: Gerald.Brady@delaware.gov
+image: https://legis.delaware.gov/images/default-source/default-album/GeraldBrady.jpg?sfvrsn=0
+party:
+- name: Democratic
+roles:
+- end_date: '2022-05-02'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:de/government
+  district: '4'
+links:
+- url: https://legis.delaware.gov/LegislatorDetail?personId=124
+  note: legislator page
+- url: https://legis.delaware.gov/LegislatorDetail?personId=124
+  note: homepage
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: DEL000027
+- scheme: legacy_openstates
+  identifier: DEL000091
+sources:
+- url: https://legis.delaware.gov/House
+  note: legislator list page
+- url: https://legis.delaware.gov/json/House/GetRepresentatives
+- url: https://legis.delaware.gov/LegislatorDetail?personId=124

@@ -1,0 +1,23 @@
+id: ocd-person/3b851a40-c371-4580-8a0c-4edcf927d123
+name: Thomas J. Calter
+given_name: Thomas
+family_name: Calter
+middle_name: J.
+image: https://malegislature.gov/Images/MemberProfile/Web/tcalter.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 12th Plymouth
+links:
+- url: http://www.malegislature.gov/People/Profile/TJC1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000062
+- scheme: legacy_openstates
+  identifier: MAL000560
+sources:
+- url: http://www.malegislature.gov/People/Profile/TJC1

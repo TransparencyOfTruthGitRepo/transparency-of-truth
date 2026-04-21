@@ -1,0 +1,20 @@
+id: ocd-person/12ec99d5-c60e-4e0d-a88c-1b2ef95491b6
+name: Harold James
+given_name: Harold
+family_name: James
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '186'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=149
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000365
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=149

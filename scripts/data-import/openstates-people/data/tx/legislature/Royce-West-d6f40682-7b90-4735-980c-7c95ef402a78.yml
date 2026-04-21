@@ -1,0 +1,40 @@
+id: ocd-person/d6f40682-7b90-4735-980c-7c95ef402a78
+name: Royce West
+given_name: Royce
+family_name: West
+birth_date: 1952-09-26
+gender: Male
+email: royce.west@senate.texas.gov
+image: https://senate.texas.gov/members/d23/img/West_87-0474D-015-web.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1993-01-12
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '23'
+offices:
+- classification: capitol
+  address: Room 1E.5, P.O. Box 12068 Capitol Station, Austin, TX 78711
+  voice: 512-463-0123
+- classification: district
+  address: 5787 S. Hampton Road Suite 385, Dallas, TX 75232
+  voice: 214-467-0123
+links:
+- url: https://senate.texas.gov/member.php?d=23
+other_names:
+- name: R. West
+- name: R.B. West
+- name: West, R.
+- name: West, Royce
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000210
+- scheme: legacy_openstates
+  identifier: TXL000028
+sources:
+- url: https://ballotpedia.org/Royce_West
+- url: https://en.wikipedia.org/wiki/Royce_West
+- url: https://justfacts.votesmart.org/candidate/biography/5463/royce-west
+- url: https://senate.texas.gov/member.php?d=23
+- url: https://www.linkedin.com/in/royce-west-b9648344

@@ -1,0 +1,40 @@
+id: ocd-person/570bb94a-0500-44de-8983-ca259e0d4a60
+name: Linda Serrato
+given_name: Linda
+family_name: Serrato
+gender: Female
+email: linda.serrato@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HSERR.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-10-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '45'
+offices:
+- classification: capitol
+  address: State Capitol Room 205A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4243
+- classification: district-mail
+  address: P.O. Box 28043, Santa Fe, NM 87592
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HSERR
+  note: homepage
+other_names:
+- name: L. Serrato
+- name: L.M. Serrato
+- name: Linda M. Serrato
+- name: Linda Michelle Serrato
+- name: Serrato, L.
+- name: Serrato, Linda
+sources:
+- url: https://ballotpedia.org/Linda_Serrato
+- url: https://en.wikipedia.org/wiki/Linda_Serrato
+- url: https://www.linkedin.com/in/lindaserratoybarra
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HSERR
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Santa Fe
+  service: Representative since 2020

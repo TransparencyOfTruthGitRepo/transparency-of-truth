@@ -1,0 +1,19 @@
+id: ocd-person/68ee5e4b-6253-4703-8902-ae8ca8df41eb
+name: Jerry M. Stringham
+email: Jerry.Stringham@leg.state.nh.us
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Grafton 5
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408834
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+extras:
+  first_name: Jerry
+  last_name: Stringham
+  middle_name: M.

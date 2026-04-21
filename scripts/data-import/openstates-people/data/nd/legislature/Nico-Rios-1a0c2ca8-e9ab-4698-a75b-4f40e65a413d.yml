@@ -1,0 +1,34 @@
+id: ocd-person/1a0c2ca8-e9ab-4698-a75b-4f40e65a413d
+name: Nico Rios
+given_name: Nico
+family_name: Rios
+gender: Male
+email: nrios@ndlegis.gov
+image: https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/nrios2023_2.jpg?itok=87de-j4E
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '23'
+offices:
+- classification: capitol
+  address: State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505
+  voice: 701-328-3373
+links:
+- url: https://ndlegis.gov/biography/nico-rios
+- url: https://www.ndlegis.gov/biography/nico-rios
+other_names:
+- name: N. Rios
+- name: Rios, N.
+sources:
+- url: https://ballotpedia.org/Nico_Rios
+- url: https://en.wikipedia.org/wiki/Nico_Rios
+- url: https://ndlegis.gov/biography/nico-rios
+- url: https://www.ndlegis.gov/assembly/68-2023/regular/members?combine=&field_legis_chamber_target_id=All&field_legis_district_target_id=All&field_legislator_party_target_id=All&page=6
+  note: members list page
+- url: https://www.ndlegis.gov/assembly/68-2023/regular/members?page=6
+  note: members list page
+- url: https://www.ndlegis.gov/biography/nico-rios
+  note: member details page

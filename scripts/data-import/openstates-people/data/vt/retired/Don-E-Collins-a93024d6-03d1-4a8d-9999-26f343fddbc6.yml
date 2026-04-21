@@ -1,0 +1,21 @@
+id: ocd-person/a93024d6-03d1-4a8d-9999-26f343fddbc6
+name: Don E. Collins
+given_name: Don
+family_name: Collins
+middle_name: E
+image: http://ballotpedia.org/wiki/images/8/8e/Don_Collins.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Franklin
+links:
+- url: http://www.leg.state.vt.us/legdir/LegDirMain.cfm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000217
+sources:
+- url: http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W

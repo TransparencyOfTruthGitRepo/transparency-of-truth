@@ -1,0 +1,39 @@
+id: ocd-person/800d2a2e-1622-4ab2-b290-3c537b38bdf8
+name: Pamelya Herndon
+given_name: Pamelya
+family_name: Herndon
+birth_date: 1952-11-23
+gender: Female
+email: pamelya.herndon@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HHEPA.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-06-22
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '28'
+offices:
+- classification: capitol
+  address: State Capitol Room 206B, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4248
+- classification: district-mail
+  address: P.O. Box 27724, Albuquerque, NM 87125
+  voice: 505-205-0868
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HHEPA
+  note: homepage
+other_names:
+- name: Herndon, P.
+- name: Herndon, Pamelya
+- name: P. Herndon
+sources:
+- url: https://ballotpedia.org/Pamelya_Herndon
+- url: https://en.wikipedia.org/wiki/Pamelya_Herndon
+- url: https://www.linkedin.com/in/pamelya-herndon-4055929
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HHEPA
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Bernalillo
+  occupation: Attorney

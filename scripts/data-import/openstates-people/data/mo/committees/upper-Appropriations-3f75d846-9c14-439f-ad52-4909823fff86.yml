@@ -1,0 +1,59 @@
+id: ocd-organization/3f75d846-9c14-439f-ad52-4909823fff86
+jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+classification: committee
+name: Appropriations
+chamber: upper
+sources:
+- url: https://senate.mo.gov/Committees/CommitteeDetails/3
+  note: Committee Details Page
+- url: https://senate.mo.gov/Committees/CommitteeGroup/1
+  note: Committees List Page
+- url: https://www.senate.mo.gov/21web/aprp
+- url: https://www.senate.mo.gov/21web/aprp/
+- url: https://www.senate.mo.gov/Committees/CommitteeDetails/3
+links:
+- url: https://www.senate.mo.gov/21web/aprp
+- url: https://www.senate.mo.gov/21web/aprp/
+  note: homepage
+- url: https://www.senate.mo.gov/Committees/CommitteeDetails/3
+members:
+- name: Rusty Black
+  role: chair
+  person_id: ocd-person/bb98b6a0-ba5f-45f8-ad14-b798515fa8a0
+- name: Brad Hudson
+  role: vice chair
+  person_id: ocd-person/9f6b3ff8-f439-44d0-bdf7-315451e52cb7
+- name: Barbara Washington
+  role: member
+  person_id: ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a
+- name: Brian Williams
+  role: member
+  person_id: ocd-person/4f5340d3-7637-4eb2-be68-890073af50af
+- name: Jason Bean
+  role: member
+  person_id: ocd-person/87d06121-1f5c-49ed-88dc-f5c70e88533e
+- name: Justin Brown
+  role: member
+  person_id: ocd-person/867469f6-f988-49ec-be8c-4a065db3f223
+- name: Karla May
+  role: member
+  person_id: ocd-person/fbeafead-44b9-4f08-9854-ad516fb6c838
+- name: Maggie Nurrenbern
+  role: member
+  person_id: ocd-person/d8594030-4826-48c5-af43-674470f1dd44
+- name: Mike Cierpiot
+  role: member
+  person_id: ocd-person/70c04c22-b1a9-4c3c-96f9-36761e63f3f8
+- name: Mike Henderson
+  role: member
+  person_id: ocd-person/bfad4ef7-fad2-46e6-8f12-f8ea9feaa0cb
+- name: Sandy Crawford
+  role: member
+  person_id: ocd-person/4f194218-3d95-4f08-8963-7e3440fdb671
+- name: Travis Fitzwater
+  role: member
+  person_id: ocd-person/c9758b3c-066c-40b4-9d40-a93880fda67a
+other_names:
+- name: Senate Appropriations
+- name: Senate Appropriations Committee
+- name: Senate Committee on Appropriations

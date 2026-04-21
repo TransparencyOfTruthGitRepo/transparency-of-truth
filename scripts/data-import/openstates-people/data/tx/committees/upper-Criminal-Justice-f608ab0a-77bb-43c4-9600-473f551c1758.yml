@@ -1,0 +1,51 @@
+id: ocd-organization/f608ab0a-77bb-43c4-9600-473f551c1758
+jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+classification: committee
+name: Criminal Justice
+chamber: upper
+sources:
+- url: https://capitol.texas.gov/Committees/CommitteesMbrs.aspx?Chamber=S
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C590
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C590
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C590
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C590
+- url: https://senate.texas.gov/cmte.php?c=590
+links:
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C590
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C590
+  note: homepage
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C590
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C590
+- url: https://senate.texas.gov/cmte.php?c=590
+members:
+- name: Pete Flores
+  role: chair
+  person_id: ocd-person/682e8ef8-8fc1-4490-a04d-63a7c6d92185
+- name: Tan Parker
+  role: vice chair
+  person_id: ocd-person/fa4817bf-6dc6-4deb-9965-cf3f208ec976
+- name: Borris Miles
+  role: member
+  person_id: ocd-person/3475b324-1c9b-4513-90e6-063aba5ac04e
+- name: Brent Hagenbuch
+  role: member
+  person_id: ocd-person/c15c9bf3-f28a-4c01-9a10-383bc7a05cb9
+- name: Chuy Hinojosa
+  role: member
+  person_id: ocd-person/72766791-084c-4a20-a12c-6e809b51e95c
+- name: Joan Huffman
+  role: member
+  person_id: ocd-person/1997b231-45f7-4f29-a435-9f52e60ebea4
+- name: Phil King
+  role: member
+  person_id: ocd-person/98bef50a-73c7-4139-9b8e-628d0e89d659
+other_names:
+- name: Senate Committee on Criminal Justice
+- name: Senate Criminal Justice
+- name: Senate Criminal Justice Committee
+extras:
+  clerk: Luke Owen
+  legislature: 88(R) - 2023
+  phone: (512) 463-0345
+  appointment date: 1/11/2023
+  room: SHB 470

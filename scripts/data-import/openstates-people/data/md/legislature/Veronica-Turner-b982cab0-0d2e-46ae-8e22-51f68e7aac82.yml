@@ -1,0 +1,32 @@
+id: ocd-person/b982cab0-0d2e-46ae-8e22-51f68e7aac82
+name: Veronica Turner
+given_name: Veronica
+family_name: Turner
+birth_date: 1950-02-07
+gender: Female
+email: veronica.turner@house.maryland.gov
+image: http://mgaleg.maryland.gov/2019RS/images/turner01.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room 205, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3212
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/turner01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=turner01&stab=01
+other_names:
+- name: Turner, V.
+- name: V. Turner
+- name: V.L. Turner
+sources:
+- url: https://ballotpedia.org/Veronica_Turner
+- url: https://en.wikipedia.org/wiki/Veronica_L._Turner
+- url: https://justfacts.votesmart.org/candidate/biography/36495/veronica-turner
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/turner01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=turner01&stab=01

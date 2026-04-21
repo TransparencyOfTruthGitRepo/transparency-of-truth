@@ -1,0 +1,18 @@
+id: ocd-person/22b9a799-db93-40e4-acc3-f6a13b81021d
+name: Gail Kulick Jackson
+given_name: Gail
+family_name: Jackson
+middle_name: Kulick
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 16A
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000098
+sources:
+- url: http://www.house.leg.state.mn.us/members/meminfo.xls

@@ -1,0 +1,105 @@
+id: ocd-person/e1f14f02-810c-52c5-8ad5-b2744b95a069
+name: Brian Babin
+given_name: Brian
+family_name: Babin
+birth_date: 1948-03-23
+gender: Male
+email: https://babin.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/B001291.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-06
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-36
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-36
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-36
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-36
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-36
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-36
+offices:
+- classification: capitol
+  address: 2236 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-1555
+  fax: 202-226-0396
+- classification: district
+  address: 203 Ivy Ave. Suite 600, Deer Park, TX 77536
+  voice: 832-780-0966
+  fax: 832-780-0964
+- classification: district
+  address: 769 S. Main St. Suite 301, Lumberton, TX 77657
+  voice: 409-883-8075
+  fax: 409-886-9918
+- classification: district
+  address: Tyler County Courthouse 100 W. Bluff Drive, Woodville, TX 75979
+  voice: 409-331-8066
+links:
+- url: https://babin.house.gov
+  note: website
+- url: https://babin.house.gov/
+other_names:
+- name: B. Babin
+- name: B.P. Babin
+- name: Babin, B.
+ids:
+  twitter: RepBrianBabin
+  youtube: UCPVEZgw-VbDRbLV1MRGVQNQ
+  facebook: RepBrianBabin
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Brian Babin
+- scheme: bioguide
+  identifier: B001291
+- scheme: cspan
+  identifier: '44883'
+- scheme: fec
+  identifier: H6TX02079
+- scheme: google_entity_id
+  identifier: kg:/m/010qgj35
+- scheme: govtrack
+  identifier: '412655'
+- scheme: icpsr
+  identifier: '21551'
+- scheme: maplight
+  identifier: '2111'
+- scheme: opensecrets
+  identifier: N00005736
+- scheme: pictorial
+  identifier: '13293'
+- scheme: thomas
+  identifier: '02270'
+- scheme: votesmart
+  identifier: '360'
+- scheme: wikidata
+  identifier: Q16979824
+sources:
+- url: https://babin.house.gov
+- url: https://ballotpedia.org/Brian_Babin
+- url: https://en.wikipedia.org/wiki/Brian_Babin
+- url: https://justfacts.votesmart.org/candidate/biography/360/brian-babin
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/brian_babin/412655
+- url: https://www.linkedin.com/in/drbrianbabinforcongress

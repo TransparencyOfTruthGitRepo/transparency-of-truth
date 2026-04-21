@@ -1,0 +1,43 @@
+id: ocd-person/8be9deca-bbd6-404f-8726-0aecaeb19ca7
+name: Amy Galey
+given_name: Amy
+family_name: Galey
+gender: Female
+email: amy.galey@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/S/429/Low
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '25'
+- start_date: 2021-01-01
+  end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '24'
+offices:
+- classification: capitol
+  address: Room 311, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-301-1446
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/429
+- url: https://www.ncleg.gov/Members/Committees/S/429
+- url: https://www.ncleg.gov/Members/IntroducedBills/S/429
+- url: https://www.ncleg.gov/Members/Votes/S/429
+other_names:
+- name: A. Galey
+- name: A.S. Galey
+- name: Amy S. Galey
+- name: Galey, A.
+sources:
+- url: https://ballotpedia.org/Amy_Galey
+- url: https://www.ncleg.gov/Members/Biography/S/429
+- url: https://www.ncleg.gov/Members/MemberTable/S
+extras:
+  terms in senate: 2 (0 in House)
+  represented counties: Alamance, Randolph
+  legislative assistant: Samuel Ward
+  legislative assistant email: Samuel.Ward@ncleg.gov

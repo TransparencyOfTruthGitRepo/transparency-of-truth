@@ -1,0 +1,36 @@
+id: ocd-person/df82de40-cf5b-4197-b276-5e5982146849
+name: Ivan Posey
+given_name: Ivan
+family_name: Posey
+birth_date: 1960-01-11
+gender: Male
+email: ivan.posey@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-PoseyIvan.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '33'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 791, Fort Washakie, WY 82514
+links:
+- url: https://www.poseyforhd33.com/
+- url: https://wyoleg.gov/Legislators/2025/H/2141
+other_names:
+- name: I. Posey
+- name: I.D. Posey
+- name: Posey, I
+- name: Posey, I.
+sources:
+- url: https://ballotpedia.org/Ivan_Posey
+- url: https://en.wikipedia.org/wiki/Ivan_Posey
+- url: https://justfacts.votesmart.org/candidate/218330/ivan-posey
+- url: https://www.linkedin.com/in/ivan-posey-802848132
+- url: https://www.poseyforhd33.com
+- url: https://www.poseyforhd33.com/about
+- url: https://wyoleg.gov/Legislators/2025/H/2141

@@ -1,0 +1,50 @@
+id: ocd-person/3317959e-9fbd-40dc-aa7a-0f0a9cc06c3f
+name: Kayla Young
+given_name: Kayla
+family_name: Young
+birth_date: 1988-07-12
+gender: Female
+email: kayla.young@wvhouse.gov
+image: https://www.wvlegislature.gov/images/members/2024/house/young_kayla.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '56'
+- start_date: 2020-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '56'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '35'
+offices:
+- classification: capitol
+  address: State Capitol Room 6R-A, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3362
+- classification: district
+  address: WV
+  voice: 304-561-4234
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Young
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Young
+other_names:
+- name: K. Young
+- name: K.A. Young
+- name: Young, K
+- name: Young, K.
+sources:
+- url: https://ballotpedia.org/Kayla_Young
+- url: https://en.wikipedia.org/wiki/Kayla_Young
+- url: https://justfacts.votesmart.org/candidate/biography/190496/kayla-young
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Young
+- url: https://www.linkedin.com/in/kaylawilsonyoung
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Young
+- url: https://www.wvlegislature.gov/House/roster.cfm
+extras:
+  title: Minority Leader Pro Tempore

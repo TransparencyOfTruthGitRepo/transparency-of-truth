@@ -1,0 +1,15 @@
+id: ocd-person/eded51ea-3da9-4645-aea2-35eaff2ae9df
+name: Steve Lentz
+given_name: Steve
+family_name: Lentz
+email: slentz@mundelein.org
+roles:
+- end_date: 2021-04-06
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:il/place:mundelein/government
+offices:
+- classification: primary
+  address: 300 Plaza Circle;Mundelein, IL 60060
+  voice: 847-949-3209
+sources:
+- url: https://www.mundelein.org/government/elected-officials

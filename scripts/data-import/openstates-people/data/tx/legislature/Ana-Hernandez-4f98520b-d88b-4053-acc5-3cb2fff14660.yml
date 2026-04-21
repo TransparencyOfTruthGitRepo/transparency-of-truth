@@ -1,0 +1,50 @@
+id: ocd-person/4f98520b-d88b-4053-acc5-3cb2fff14660
+name: Ana Hernandez
+given_name: Ana
+family_name: Hernandez
+birth_date: 1978-08-25
+gender: Female
+email: ana.hernandez@house.texas.gov
+image: https://house.texas.gov/images/members/3155.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2005-12-20
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '143'
+offices:
+- classification: capitol
+  address: Room 1W.11, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0614
+- classification: district
+  address: 1233 Mercury Drive, Houston, TX 77029
+  voice: 713-675-8596
+links:
+- url: https://house.texas.gov/members/3155
+- url: https://house.texas.gov/members/member-page/?district=143
+other_names:
+- name: A. Hernandez
+- name: A.E. Hernandez
+- name: Hernandez, A.
+- name: Hernandez, Ana
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000277
+- scheme: legacy_openstates
+  identifier: TXL000095
+- scheme: legacy_openstates
+  identifier: TXL000384
+- scheme: legacy_openstates
+  identifier: TXL000413
+- scheme: legacy_openstates
+  identifier: TXL000474
+- scheme: legacy_openstates
+  identifier: TXL000564
+sources:
+- url: https://ballotpedia.org/Ana_Hernandez_Luna
+- url: https://en.wikipedia.org/wiki/Ana_Hernandez
+- url: https://house.texas.gov/members/3155
+- url: https://house.texas.gov/members/member-page/?district=143
+- url: https://justfacts.votesmart.org/candidate/biography/59301/ana-hernandez
+- url: https://www.linkedin.com/in/ana-hernandez-61459a2

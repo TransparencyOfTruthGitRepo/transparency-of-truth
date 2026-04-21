@@ -1,0 +1,46 @@
+id: ocd-person/5bb7ff93-88f4-42ec-ba11-6921dead66a1
+name: George Miller
+given_name: George
+family_name: Miller
+birth_date: 1952-11-27
+gender: Male
+email: george.miller@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/miller_george.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '90'
+- start_date: 2020-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '90'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '58'
+offices:
+- classification: capitol
+  address: State Capitol Room 276M, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3177
+- classification: district
+  address: 2450 Martinsburg Road, Berkeley Springs, WV 25411
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Miller
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Miller
+other_names:
+- name: G. Miller
+- name: G.A. Miller
+- name: Miller, G
+- name: Miller, G.
+sources:
+- url: https://ballotpedia.org/George_Miller_(West_Virginia)
+- url: https://en.wikipedia.org/wiki/George_Miller_(West_Virginia_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/190634/george-miller
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Miller
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Miller
+- url: https://www.wvlegislature.gov/House/roster.cfm

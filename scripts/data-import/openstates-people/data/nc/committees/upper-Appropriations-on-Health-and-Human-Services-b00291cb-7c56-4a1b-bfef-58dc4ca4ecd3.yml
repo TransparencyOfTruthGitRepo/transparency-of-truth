@@ -1,0 +1,39 @@
+id: ocd-organization/b00291cb-7c56-4a1b-bfef-58dc4ca4ecd3
+jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+classification: committee
+name: Appropriations on Health and Human Services
+chamber: upper
+sources:
+- url: https://www.ncleg.gov/committees
+  note: committees list page
+- url: https://www.ncleg.gov/Committees/CommitteeInfo/SenateStanding/143
+  note: committee details page
+links:
+- url: https://www.ncleg.gov/Committees/CommitteeInfo/SenateStanding/143
+  note: homepage
+members:
+- name: Amy Galey
+  role: chair
+  person_id: ocd-person/8be9deca-bbd6-404f-8726-0aecaeb19ca7
+- name: Benton Sawrey
+  role: chair
+  person_id: ocd-person/0c960acb-381f-4ce9-b9d3-313fd882b6e1
+- name: Jim Burgin
+  role: chair
+  person_id: ocd-person/9793e1e4-641c-4a5c-b1bc-7f6d0a65a655
+- name: Dan Blue
+  role: member
+  person_id: ocd-person/06dca4de-5217-45fc-b78a-fc7870ae7faf
+- name: Gale Adcock
+  role: member
+  person_id: ocd-person/1ba9c7a6-3a28-47ec-9704-6f3437463845
+- name: Gladys Robinson
+  role: member
+  person_id: ocd-person/af3f63da-d39a-4542-b0f2-41f118d96f55
+- name: Kevin Corbin
+  role: member
+  person_id: ocd-person/410836ee-4f48-4934-8f95-fca6b2d2f051
+other_names:
+- name: Senate Appropriations on Health and Human Services
+- name: Senate Appropriations on Health and Human Services Committee
+- name: Senate Committee on Appropriations on Health and Human Services

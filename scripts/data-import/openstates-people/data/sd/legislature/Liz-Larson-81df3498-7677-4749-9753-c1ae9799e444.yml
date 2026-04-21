@@ -1,0 +1,37 @@
+id: ocd-person/81df3498-7677-4749-9753-c1ae9799e444
+name: Liz Larson
+given_name: Liz
+family_name: Larson
+gender: Female
+email: liz.larson@sdlegislature.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Liz_Larson__.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '10'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3821
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/4466/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4630/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4781/Detail
+other_names:
+- name: E. Larson
+- name: L. Larson
+- name: Larson, L.
+sources:
+- url: https://ballotpedia.org/Elizabeth_Larson_(South_Dakota)
+- url: https://ballotpedia.org/Liz_Larson_(South_Dakota)
+- url: https://en.wikipedia.org/wiki/Liz_Larson
+- url: https://justfacts.votesmart.org/candidate/biography/195587/elizabeth-larson
+- url: https://sdlegislature.gov/Legislators/Profile/4466/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4630/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4781/Detail
+- url: https://www.linkedin.com/in/liz-larson-bohora
+extras:
+  occupation: Independent Consultant/Economic Development

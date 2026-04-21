@@ -1,0 +1,51 @@
+id: ocd-person/25450820-f565-4644-95aa-885948c253c3
+name: Tom Corbin
+given_name: Tom
+family_name: Corbin
+birth_date: 1965-01-11
+gender: Male
+email: tomcorbin@scsenate.gov
+image: https://scstatehouse.gov/images/members/0402272679.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2012-11-12
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '5'
+- start_date: 2010-11-08
+  end_date: 2012-11-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '5'
+offices:
+- classification: capitol
+  address: Room 501, Gressette Building P.O. Box 142, Columbia, SC 29201
+  voice: 803-212-6100
+links:
+- url: https://scstatehouse.gov/member.php?code=0402272679
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=0402272679
+  note: homepage
+other_names:
+- name: Corbin, T.
+- name: Corbin, Thomas D.
+- name: Corbin, Tom
+- name: T. Corbin
+- name: T.D. Corbin
+- name: Thomas D. "Tom" Corbin
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000077
+- scheme: legacy_openstates
+  identifier: SCL000176
+sources:
+- url: https://ballotpedia.org/Tom_Corbin_(South_Carolina)
+- url: https://en.wikipedia.org/wiki/Tom_Corbin
+- url: https://justfacts.votesmart.org/candidate/biography/121705/tom-corbin
+- url: https://scstatehouse.gov/member.php?chamber=S
+- url: https://scstatehouse.gov/member.php?code=0402272679
+- url: https://www.scstatehouse.gov/member.php?chamber=S
+- url: https://www.scstatehouse.gov/member.php?code=0402272679
+extras:
+  counties represented: Greenville & Spartanburg Counties

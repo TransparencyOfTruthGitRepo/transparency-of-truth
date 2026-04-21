@@ -1,0 +1,53 @@
+id: ocd-organization/f85cfff0-2044-4f40-b22b-b41b010842ce
+jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+classification: committee
+name: Rural Economic Development
+chamber: legislature
+sources:
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=2965&year=2024&code=R
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=3096&year=2025&code=R
+- url: https://senate.mo.gov/Committees/CommitteeDetails/73
+  note: Committee Details Page
+- url: https://senate.mo.gov/Committees/CommitteeGroup/2
+  note: Committees List Page
+links:
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=2965&year=2024&code=R
+  note: homepage
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=3096&year=2025&code=R
+- url: https://senate.mo.gov/Committees/CommitteeDetails/73
+- url: https://senate.mo.gov/Committees/CommitteeGroup/2
+members:
+- name: Adam Schnelting
+  role: member
+  person_id: ocd-person/f436aa10-c006-4128-9748-050bf50c4e21
+- name: Barbara Washington
+  role: member
+  person_id: ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a
+- name: Brad Pollitt
+  role: member
+  person_id: ocd-person/4cfed488-abe6-46e5-a3aa-55a73e2984ca
+- name: Bruce Sassmann
+  role: member
+  person_id: ocd-person/d01a9b1a-a262-4d27-9de9-b7ad0ff8c7f0
+- name: Kurtis Gregory
+  role: member
+  person_id: ocd-person/1ab01adf-962d-47ac-977c-2cf25712f583
+- name: Louis Riggs
+  role: member
+  person_id: ocd-person/9a78c55e-0f06-4dd9-b86e-287db7332d98
+- name: Michael Burton
+  role: member
+  person_id: ocd-person/24dc0503-f4cf-48b1-afdf-e57157bafec3
+- name: Rusty Black
+  role: member
+  person_id: ocd-person/bb98b6a0-ba5f-45f8-ad14-b798515fa8a0
+- name: Stephen Webber
+  role: member
+  person_id: ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9
+- name: Yolanda Young
+  role: member
+  person_id: ocd-person/e2fb607f-9af9-4d80-b473-8ed33e3d942d
+other_names:
+- name: Joint Committee on Rural Economic Development
+- name: Joint Rural Economic Development
+- name: Joint Rural Economic Development Committee

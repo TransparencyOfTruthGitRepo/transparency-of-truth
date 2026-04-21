@@ -1,0 +1,47 @@
+id: ocd-person/496f9aa1-91ba-4386-9530-f52ea56e17bf
+name: Otto Wachsmann
+given_name: Otto
+family_name: Wachsmann
+gender: Male
+email: delowachsmann@house.virginia.gov
+image: https://memdata.virginiageneralassembly.gov/images/display_image/H0347
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '83'
+- start_date: 2022-01-12
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '75'
+offices:
+- classification: capitol
+  address: Room 810, General Assembly Building 201 N. 9th St., Richmond, VA 23219
+  voice: 804-698-1083
+- classification: district-mail
+  address: P.O. Box 268, Stony Creek, VA 23882
+  voice: 804-469-0872
+links:
+- url: https://house.vga.virginia.gov/members/H0347
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H347
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H347
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0347
+other_names:
+- name: H. Otto Wachsmann, Jr.
+- name: H.O. Wachsmann
+- name: Howard Otto Wachsmann
+- name: O. Wachsmann
+- name: Wachsmann, H. Otto, Jr.
+- name: Wachsmann, O.
+sources:
+- url: https://ballotpedia.org/H._Otto_Wachsmann_Jr.
+- url: https://en.wikipedia.org/wiki/Otto_Wachsmann
+- url: https://house.vga.virginia.gov/members/H0347
+- url: https://justfacts.votesmart.org/candidate/186768/otto-wachsmann-jr
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H347
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H347
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0347
+- url: https://www.linkedin.com/in/otto-wachsmann-a219093

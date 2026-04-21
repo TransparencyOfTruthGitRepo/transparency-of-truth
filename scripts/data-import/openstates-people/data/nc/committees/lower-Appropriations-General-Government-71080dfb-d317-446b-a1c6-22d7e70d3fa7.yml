@@ -1,0 +1,45 @@
+id: ocd-organization/71080dfb-d317-446b-a1c6-22d7e70d3fa7
+jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+classification: committee
+name: Appropriations, General Government
+chamber: lower
+sources:
+- url: https://www.ncleg.gov/committees
+  note: committees list page
+- url: https://www.ncleg.gov/Committees/CommitteeInfo/HouseStanding/9
+  note: committee details page
+links:
+- url: https://www.ncleg.gov/Committees/CommitteeInfo/HouseStanding/9
+  note: homepage
+members:
+- name: Dennis Riddell
+  role: chair
+  person_id: ocd-person/fcff21e8-b2a0-4fe5-8fb9-1b1c084a26e1
+- name: Donnie Loftis
+  role: chair
+  person_id: ocd-person/d7308aed-454d-4091-b32c-606f516e9421
+- name: John Torbett
+  role: chair
+  person_id: ocd-person/cb059250-c895-4a14-bfa2-997aed42155e
+- name: "Erin Par\xE9"
+  role: vice chair
+  person_id: ocd-person/ea801bb0-b3bd-4dbc-9164-25e7f4e63f84
+- name: Bill Ward
+  role: member
+  person_id: ocd-person/f1d726fb-535d-456b-9712-b689afcb7763
+- name: Kanika Brown
+  role: member
+  person_id: ocd-person/91f28923-c52e-4a47-aed2-944672902823
+- name: Nasif Majeed
+  role: member
+  person_id: ocd-person/6acc3963-2724-4d88-8762-f78df333be94
+- name: Phil Rubin
+  role: member
+  person_id: ocd-person/efae51b3-e547-46c0-87df-4ac35c0c60de
+- name: Rodney Pierce
+  role: member
+  person_id: ocd-person/230ed41f-56c1-459d-a66d-7ab0a3a8342b
+other_names:
+- name: House Appropriations, General Government
+- name: House Appropriations, General Government Committee
+- name: House Committee on Appropriations, General Government

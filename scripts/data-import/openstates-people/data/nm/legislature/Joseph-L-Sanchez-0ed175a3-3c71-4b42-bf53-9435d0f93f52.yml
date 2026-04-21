@@ -1,0 +1,44 @@
+id: ocd-person/0ed175a3-3c71-4b42-bf53-9435d0f93f52
+name: Joseph Sanchez
+given_name: Joseph
+family_name: Sanchez
+gender: Male
+email: joseph.sanchez@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HSAJO.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '40'
+offices:
+- classification: capitol
+  address: State Capitol Room 204A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4233
+- classification: district-mail
+  address: P.O. Box 481, Alcalde, NM 87511
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HSAJO
+  note: homepage
+- url: https://www.youtube.com/channel/UCxxw8xKzoQkJ-VwbfgeXz5g
+  note: youtube
+other_names:
+- name: J. Sanchez
+- name: J.L. Sanchez
+- name: Joseph L. Sanchez
+- name: Joseph Louis Sanchez
+- name: Sanchez, J.
+- name: Sanchez, Joseph
+ids:
+  twitter: josephsancheznm
+  facebook: josephsanchezfornm
+sources:
+- url: https://ballotpedia.org/Joseph_Sanchez_(New_Mexico)
+- url: https://en.wikipedia.org/wiki/Joseph_L._Sanchez
+- url: https://www.linkedin.com/in/joseph-sanchez-p-e-ba981141
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HSAJO
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Colfax, Mora, Rio Arriba, San Miguel & Taos

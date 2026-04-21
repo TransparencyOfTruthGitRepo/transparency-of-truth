@@ -1,0 +1,25 @@
+id: ocd-person/d4017949-ce4d-42d0-8b22-c3cae7505860
+name: Margaret Rogers
+given_name: Margaret
+family_name: Rogers
+image: http://billstatus.ls.state.ms.us/members/house/rogers_(14th).jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-01-07'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '14'
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/rogers_(14th).xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000056
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/rogers_(14th).xml
+extras:
+  org_info: |
+    Representative Rogers is a member of Phi Kappa Phi, the New Albany Main
+    Street Association, Union County Development Association, University of Mississippi
+    Alumni Association, University of Mississippi Loyalty Foundation and Methodist
+    Church Administrative Board.

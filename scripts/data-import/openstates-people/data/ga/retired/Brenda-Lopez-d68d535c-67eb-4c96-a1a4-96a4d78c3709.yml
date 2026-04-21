@@ -1,0 +1,23 @@
+id: ocd-person/d68d535c-67eb-4c96-a1a4-96a4d78c3709
+name: Brenda Lopez Romero
+given_name: Brenda
+family_name: Lopez Romero
+email: brenda.lopezromero@house.ga.gov
+image: http://www.house.ga.gov/SiteCollectionImages/Lopez RomeroBrenda4900.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '99'
+links:
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4900&Session=27
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000446
+sources:
+- url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4900&Session=27
+extras:
+  guid: 4900

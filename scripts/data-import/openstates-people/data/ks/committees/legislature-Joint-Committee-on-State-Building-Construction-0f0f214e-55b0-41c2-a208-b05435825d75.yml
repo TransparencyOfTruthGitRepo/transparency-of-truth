@@ -1,0 +1,54 @@
+id: ocd-organization/0f0f214e-55b0-41c2-a208-b05435825d75
+jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+classification: committee
+name: State Building Construction
+chamber: legislature
+sources:
+- url: https://www.kslegislature.gov/li/b2025_26/committees/ctte_jt_bldg_constr_1
+- url: https://www.kslegislature.org/li/b2021_22/committees/ctte_jt_bldg_constr_1
+- url: https://www.kslegislature.org/li/b2021_22/committees/ctte_jt_bldg_constr_1/
+- url: https://www.kslegislature.org/li/b2023_24/committees/ctte_jt_bldg_constr_1
+- url: https://www.kslegislature.org/li/b2023_24/committees/ctte_jt_bldg_constr_1/
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/committees/ctte_jt_bldg_constr_1
+- url: https://www.kslegislature.org/li/b2021_22/committees/ctte_jt_bldg_constr_1
+- url: https://www.kslegislature.org/li/b2021_22/committees/ctte_jt_bldg_constr_1/
+  note: homepage
+- url: https://www.kslegislature.org/li/b2023_24/committees/ctte_jt_bldg_constr_1
+- url: https://www.kslegislature.org/li/b2023_24/committees/ctte_jt_bldg_constr_1/
+  note: homepage
+members:
+- name: Rick Kloos
+  role: chair
+  person_id: ocd-person/5281ab3e-91a8-43be-bcc7-5d9d4c2a2545
+- name: Leo Delperdang
+  role: vice chair
+  person_id: ocd-person/0f185c85-3f64-4f47-9a64-048b1e009181
+- name: Marci Francisco
+  role: ranking democratic member
+  person_id: ocd-person/4fca7c3e-1f7c-455e-b555-a293ff578e60
+- name: Avery Anderson
+  role: member
+  person_id: ocd-person/4544fc4e-fff8-4bbe-bc29-4e28c6be3179
+- name: Bob Lewis
+  role: member
+  person_id: ocd-person/05ca3b77-c9d8-4d8e-92bf-603b2f71eda6
+- name: Jarrod Ousley
+  role: member
+  person_id: ocd-person/65fa3818-4803-4821-8533-51a7802694ec
+- name: John Alcala
+  role: member
+  person_id: ocd-person/f29363f0-8ac1-4c25-a8a7-74db5cefd9a4
+- name: Patrick Schmidt
+  role: member
+  person_id: ocd-person/8a08b0a9-eeff-495c-8fc8-7bbfe3e4dc26
+- name: Rick Billinger
+  role: member
+  person_id: ocd-person/e5d951f2-88c7-47d4-ac28-08c175ba440d
+- name: Stephen Owens
+  role: member
+  person_id: ocd-person/413cc3ff-a3b9-465b-827d-4aeb4b0b42c1
+other_names:
+- name: Joint Committee on State Building Construction
+- name: Joint State Building Construction
+- name: Joint State Building Construction Committee

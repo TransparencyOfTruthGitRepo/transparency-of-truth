@@ -1,0 +1,31 @@
+id: ocd-person/3601344e-8a37-488b-a3b1-f355f4e52ea7
+name: Dennis Gallagher
+given_name: Dennis
+family_name: Gallagher
+gender: Male
+email: dennis.gallagher@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/DCG2.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 8th Plymouth
+offices:
+- classification: capitol
+  address: Room 39, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2014
+links:
+- url: https://malegislature.gov/Legislators/Profile/DCG2
+other_names:
+- name: D. Gallagher
+- name: D.C. Gallagher
+- name: Dennis C. Gallagher
+- name: Gallagher, D.
+sources:
+- url: https://ballotpedia.org/Dennis_Gallagher_(Massachusetts)
+- url: https://malegislature.gov/Legislators/Profile/DCG2
+- url: https://www.linkedin.com/in/dennis-gallagher-6850a07
+extras:
+  member code: DCG2

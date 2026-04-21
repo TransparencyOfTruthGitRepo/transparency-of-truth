@@ -1,0 +1,19 @@
+id: ocd-person/c2f0b9d9-5063-41a0-925f-d708470c281a
+name: Kate Gallego
+given_name: Kate
+family_name: Gallego
+email: mayor.gallego@phoenix.gov
+roles:
+- end_date: '2029-01-31'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:az/place:phoenix/government
+offices:
+- classification: primary
+  address: 200 W. Washington Street;Phoenix, AZ 85003
+  voice: 602-262-7111
+links:
+- url: https://www.phoenix.gov/mayor/contact-mayor-gallego
+sources:
+- url: https://www.phoenix.gov/mayor/contact-mayor-gallego
+- url: https://ballotpedia.org/Kate_Gallego
+- url: https://www.citysuntimes.com/news/north-phoenix/phoenix-mayor-gallego-and-councilwomen-ansari-guardado-o-brien-and-stark-sworn-into-office/article_b0b01bb0-a185-11eb-9c57-5372f4ae137d.html

@@ -1,0 +1,20 @@
+id: ocd-person/a0fdfb7d-095a-4932-aeac-b1631a42fb1e
+name: Christopher R Andrews
+given_name: Christopher
+family_name: Andrews
+middle_name: R
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 23
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377062
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000434
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members.txt

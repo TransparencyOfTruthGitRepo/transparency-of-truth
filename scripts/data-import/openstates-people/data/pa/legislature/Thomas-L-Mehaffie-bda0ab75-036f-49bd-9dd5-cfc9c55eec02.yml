@@ -1,0 +1,54 @@
+id: ocd-person/bda0ab75-036f-49bd-9dd5-cfc9c55eec02
+name: Tom Mehaffie
+given_name: Tom
+family_name: Mehaffie
+birth_date: 1971-02-22
+gender: Male
+email: tmehaffie@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1751.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2016-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '106'
+offices:
+- classification: capitol
+  address: Room 144, Main Capitol Building P.O. Box 202106, Harrisburg, PA 17120
+  voice: 717-787-2684
+- classification: district
+  address: 1 E. Chocolate Ave. Suite 700, Hershey, PA 17033
+  voice: 717-534-1323
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1751
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1751/rep-mehaffie
+- url: https://www.repmehaffie.com/
+other_names:
+- name: Mehaffie, T.
+- name: T. Mehaffie
+- name: T.L. Mehaffie
+- name: Thomas L. Mehaffie
+- name: Thomas L. Mehaffie, III
+- name: Thomas Mehaffie
+ids:
+  facebook: repmehaffie
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000546
+sources:
+- url: https://ballotpedia.org/Thomas_Mehaffie
+- url: https://en.wikipedia.org/wiki/Tom_Mehaffie
+- url: https://justfacts.votesmart.org/candidate/biography/167811/tom-mehaffie-iii
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1751
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/thomas-mehaffie-377a9345
+- url: https://www.palegis.us/house/members/bio/1751/rep-mehaffie
+- url: https://www.repmehaffie.com
+extras:
+  Education:
+  - Tri Valley High School, 1989
+  - Thompson Institute, 1991

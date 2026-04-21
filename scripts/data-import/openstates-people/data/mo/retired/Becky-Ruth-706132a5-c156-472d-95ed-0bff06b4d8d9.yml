@@ -1,0 +1,29 @@
+id: ocd-person/706132a5-c156-472d-95ed-0bff06b4d8d9
+name: Becky Ruth
+given_name: Becky
+family_name: Ruth
+email: Becky.Ruth@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=1791
+party:
+- name: Republican
+roles:
+- end_date: '2021-11-30'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '114'
+  end_reason: Appointed Director of the Office of Child Advocate
+links:
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=114
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=114
+other_names:
+- name: Ruth, Becky
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MOL000406
+sources:
+- url: http://house.mo.gov/MemberGridCluster.aspx
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=114
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=114
+extras:
+  first_name: Becky
+  last_name: Ruth

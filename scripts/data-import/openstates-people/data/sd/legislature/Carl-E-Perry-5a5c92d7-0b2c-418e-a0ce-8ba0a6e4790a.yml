@@ -1,0 +1,52 @@
+id: ocd-person/5a5c92d7-0b2c-418e-a0ce-8ba0a6e4790a
+name: Carl Perry
+given_name: Carl
+family_name: Perry
+gender: Male
+email: carl.perry@sdlegislature.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Carl_Perry_20230524_083211.jpeg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '3'
+- start_date: 2019-01-08
+  end_date: 2025-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '3'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3821
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1612&Session=2019
+- url: https://sdlegislature.gov/Legislators/Profile/1834/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4401/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4543/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4649/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4800/Detail
+other_names:
+- name: C. Perry
+- name: C.E. Perry
+- name: Carl E Perry
+- name: Carl E. Perry
+- name: Perry, C.
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/0704e9f6-b52d-4df1-812d-e31346b92018
+sources:
+- url: https://ballotpedia.org/Carl_Perry
+- url: https://en.wikipedia.org/wiki/Carl_E._Perry
+- url: https://justfacts.votesmart.org/candidate/biography/180823/carl-perry
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1612&Session=2019
+- url: https://sdlegislature.gov/Legislators/Profile/1834/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4401/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4543/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4649/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4800/Detail
+- url: https://www.linkedin.com/in/carl-perry-808b6710
+extras:
+  occupation: Retired Education/Collection Management

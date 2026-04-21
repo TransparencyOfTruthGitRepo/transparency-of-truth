@@ -1,0 +1,19 @@
+id: ocd-person/9a05b784-53f3-4152-9236-acc0a146666a
+name: Henry Vaupel
+given_name: Henry
+family_name: Vaupel
+party:
+- name: Republican
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '47'
+links:
+- url: http://gophouse.org/representatives/southeast/vaupel/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000269
+sources:
+- url: http://www.house.mi.gov/mhrpublic/frmRepList.aspx

@@ -1,0 +1,74 @@
+id: ocd-person/9fe08ab5-b31c-4f7b-bb23-c7aff3cd3e4d
+name: Cheri Steinmetz
+given_name: Cheri
+family_name: Steinmetz
+gender: Female
+email: cheri.steinmetz@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-SteinmetzCheri.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '3'
+- start_date: 2015-01-05
+  end_date: 2019-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '3'
+- end_date: 2019-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '5'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 220, Torrington, WY 82240
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/S/2011
+- url: https://www.wyoleg.gov/Legislators/2025/S/2011
+- url: https://wyoleg.gov/Legislators/2019/R/2011
+- url: https://wyoleg.gov/Legislators/2021/R/2011
+other_names:
+- name: C. Steinmetz
+- name: C.E. Steinmetz
+- name: Steinmetz, C
+- name: Steinmetz, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000122
+sources:
+- url: https://ballotpedia.org/Cheri_Steinmetz
+- url: https://en.wikipedia.org/wiki/Cheri_Steinmetz
+- url: https://justfacts.votesmart.org/candidate/biography/127266/cheri-steinmetz
+- url: https://www.wyoleg.gov/Legislators/2023/S/2011
+- url: https://www.wyoleg.gov/Legislators/2025/S/2011
+- url: https://wyoleg.gov/Legislators/2019/R/2011
+- url: https://wyoleg.gov/Legislators/2021/R/2011
+- url: https://wyoleg.gov/LsoService/api/legislator/2011
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+extras:
+  county: Goshen, Niobrara, Weston Counties
+  religion: Non-Denominational
+  spouse name: Corey
+  number of children: '1'
+  number of grandchildren: '1'
+  organizations:
+  - orgname: Goshen County Farm Bureau Federation Board
+  - orgname: Goshen County Republican Precinct Committee Woman
+  - orgname: Goshen County Republican Women Secretary
+  - orgname: LEAD Fellow Graduate Class of 2012
+  - orgname: Goshen County Cattlewomen
+  house years: 'House:  2015-Present'
+  prior service:
+  - chamber: House
+    startYear: 2015
+    endYear: '2018'
+    district: ' District 05, '
+  - chamber: Senate
+    startYear: 2019
+    endYear: Present
+    district: ' District 03, '

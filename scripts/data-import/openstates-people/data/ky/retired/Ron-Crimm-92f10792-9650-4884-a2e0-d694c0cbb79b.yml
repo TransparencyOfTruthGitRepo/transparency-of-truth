@@ -1,0 +1,20 @@
+id: ocd-person/92f10792-9650-4884-a2e0-d694c0cbb79b
+name: Ron Crimm
+given_name: Ron
+family_name: Crimm
+image: http://www.lrc.ky.gov/pubinfo/thumbnails/House33.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '33'
+links:
+- url: http://www.lrc.ky.gov/legislator/H033.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000058
+sources:
+- url: http://www.lrc.ky.gov/legislator/H033.htm

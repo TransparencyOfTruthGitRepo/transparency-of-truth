@@ -1,0 +1,89 @@
+id: ocd-person/71affd8a-77ef-45b1-96ab-c5724f34dfa5
+name: Jamie Scott
+given_name: Jamie
+family_name: Scott
+birth_date: 1982-03-07
+gender: Female
+email: jamie.scott@senate.ar.gov
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/552_sm.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '12'
+- start_date: 2023-01-09
+  end_date: 2025-01-12
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '12'
+- start_date: 2019-01-14
+  end_date: 2023-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '12'
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '72'
+  end_date: 2025-01-13
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '37'
+offices:
+- classification: capitol
+  address: State Capitol Building 500 Woodlane St., Suite 320, Little Rock, AR 72201
+  voice: 501-682-2902
+- classification: district-mail
+  address: P.O. Box 630, North Little Rock, AR 72115
+  voice: 501-398-2961
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=J.+Scott&dd
+- url: https://jamiescottforarkansas.com/
+  note: Campaign Website
+- url: https://senate.arkansas.gov/senators/655
+- url: https://senate.arkansas.gov/senators/jamie-scott/
+- url: https://www.arkansashouse.org/district/72
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Scott
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Scott&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Scott&ddBienniumSession=2021%2F2021R
+other_names:
+- name: J. Scott
+- name: J.A. Scott
+- name: Scott
+- name: Scott, J.
+ids:
+  twitter: Anointed08
+  instagram: jamiescott4arkansas
+  facebook: Jamie Scott
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Jamie_Scott
+- scheme: followthemoney
+  identifier: '39764189'
+- scheme: votesmart
+  identifier: '178508'
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=J.+Scott&dd
+- url: https://ballotpedia.org/Jamie_Scott
+- url: https://en.wikipedia.org/wiki/Jamie_Aleshia_Scott
+- url: https://justfacts.votesmart.org/candidate/biography/178508/jamie-scott
+- url: https://senate.arkansas.gov/senators/655
+- url: https://senate.arkansas.gov/senators/jamie-scott
+- url: https://www.arkansashouse.org/district/72
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Scott
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Scott&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Scott&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Scott&ddBienniumSession=2021%2F2021S1
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Scott&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2021%2F2021S1#SearchResults
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+- url: https://www.linkedin.com/in/jamie-a-scott-b88252a9
+extras:
+  seniority: '49'
+  occupation: Director of Youth Services
+  church affiliation: Church of God in Christ
+  veteran: 'No'
+  public service: First Term House 2019

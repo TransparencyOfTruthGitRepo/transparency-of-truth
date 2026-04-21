@@ -1,0 +1,35 @@
+id: ocd-person/fd032e0e-7926-4f81-9477-6fdee260014b
+name: Tracy Marra
+given_name: Tracy
+family_name: Marra
+gender: Female
+email: tracy.marra@housegop.ct.gov
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '141'
+offices:
+- classification: capitol
+  address: Room 4200, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8700
+links:
+- url: https://www.cthousegop.com/Marra/
+other_names:
+- name: Marra, T.
+- name: T. Marra
+- name: T.H. Marra
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Tracy_Marra
+- url: https://justfacts.votesmart.org/candidate/biography/208730/tracy-marra
+- url: https://www.cthousegop.com/Marra
+- url: https://www.cthousegop.com/Marra/
+- url: https://www.linkedin.com/in/tracymarra
+extras:
+  gender: Female
+  committees: Education; Public Health; Transportation
+  committee codes: ;ED;PH;TRA;
+  prison: '0'

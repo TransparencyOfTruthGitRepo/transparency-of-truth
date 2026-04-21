@@ -1,0 +1,20 @@
+id: ocd-person/a1d7da00-351e-41f4-a744-d0b0858d77bb
+name: Mary Lazich
+given_name: Mary
+family_name: Lazich
+image: http://docs.legis.wisconsin.gov/2015/legislators/senate/1228.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '28'
+links:
+- url: https://docs.legis.wisconsin.gov/2015/legislators/senate/1228
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000336
+sources:
+- url: https://docs.legis.wisconsin.gov/2015/legislators/senate/1228

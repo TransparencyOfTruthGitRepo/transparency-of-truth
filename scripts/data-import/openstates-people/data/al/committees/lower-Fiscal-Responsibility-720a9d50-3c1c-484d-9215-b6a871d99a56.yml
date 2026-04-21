@@ -1,0 +1,61 @@
+id: ocd-organization/720a9d50-3c1c-484d-9215-b6a871d99a56
+jurisdiction: ocd-jurisdiction/country:us/state:al/government
+classification: committee
+name: Fiscal Responsibility
+chamber: lower
+sources:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: Committee list api call
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/HouseCommittees.aspx
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=3215&COMMITTEE=Fiscal%20Responsibility
+links:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=3215&COMMITTEE=Fiscal%20Responsibility
+  note: homepage
+members:
+- name: Phillip Pettus
+  role: chair
+  person_id: ocd-person/a84a3fe8-5444-4db3-9f64-06ea0cba0e90
+- name: Parker Moore
+  role: vice chair
+  person_id: ocd-person/95e63d6f-1815-4364-8817-0d26e360013f
+- name: Juandalynn Givan
+  role: ranking member
+  person_id: ocd-person/73cebf90-bf5a-444a-857e-b5bbddc374bf
+- name: Ben Harrison
+  role: member
+  person_id: ocd-person/a2413268-fe7d-4a14-839c-14e9723da23a
+- name: Bill Lamb
+  role: member
+  person_id: ocd-person/f470053d-6f95-4ed1-b641-5d0e7b236ed5
+- name: Corley Ellis
+  role: member
+  person_id: ocd-person/3b1a631d-35d4-47bd-a37c-a98fed7a5bd4
+- name: Marcus Paramore
+  role: member
+  person_id: ocd-person/723a971e-91d9-4717-8f19-45f16e18690f
+- name: Ontario Tillman
+  role: member
+  person_id: ocd-person/a86c6f40-304e-49fd-a312-3aa30660fcdf
+- name: Scott Stadthagen
+  role: member
+  person_id: ocd-person/9877dd5b-c3ee-459f-bb8d-d9d954ae343c
+- name: Susan DuBose
+  role: member
+  person_id: ocd-person/03612130-d61e-43dd-9768-ddca8f27d4ea
+- name: Travis Hendrix
+  role: member
+  person_id: ocd-person/03ab8e26-365c-4dab-8e49-df2a8b7613f8
+other_names:
+- name: Committee on Fiscal Responsibility
+- name: Fiscal Responsibility Committee
+- name: House Committee on Fiscal Responsibility
+- name: House Fiscal Responsibility
+- name: House Fiscal Responsibility Committee
+extras:
+  Clerk: Carmen Berrey
+  Phone: (334) 261-0468
+  Email: carmen.berrey@alhouse.gov
+  Room: Room 404

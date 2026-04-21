@@ -1,0 +1,57 @@
+id: ocd-person/49397268-3fc9-4c83-a385-f55be18597f4
+name: Barry Finegold
+given_name: Barry
+family_name: Finegold
+birth_date: 1971-03-03
+gender: Male
+email: barry.finegold@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/BRF0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Second Essex and Middlesex
+- start_date: 2011-01-05
+  end_date: 2015-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Second Essex and Middlesex
+- end_date: 2011-01-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Second Essex and Middlesex
+  start_date: 2019-01-02
+offices:
+- classification: capitol
+  address: Room 109-D, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1612
+links:
+- url: https://malegislature.gov/Legislators/Profile/BRF0
+other_names:
+- name: B. Finegold
+- name: B.R. Finegold
+- name: Barry R. Finegold
+- name: Finegold, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000015
+- scheme: legacy_openstates
+  identifier: MAL000253
+- scheme: openstates
+  identifier: ocd-person/a19b224b-60fa-4ee2-bb9b-b30fc58cfa01
+sources:
+- url: https://ballotpedia.org/Barry_Finegold
+- url: https://en.wikipedia.org/wiki/Barry_Finegold
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/BRF0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/BRF0
+- url: https://malegislature.gov/Legislators/Profile/BRF0
+- url: https://www.dfllp.com/team/abarry-finegold-2
+- url: https://www.linkedin.com/in/barry-finegold-93b2211
+extras:
+  member code: BRF0

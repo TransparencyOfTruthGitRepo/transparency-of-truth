@@ -1,0 +1,35 @@
+id: ocd-person/c7f76970-11d0-483e-81b4-b4750220932c
+name: Nate Davidson
+given_name: Nate
+family_name: Davidson
+gender: Male
+email: repdavidson@pahouse.net
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/133354.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '103'
+offices:
+- classification: capitol
+  address: Room 4E, East Wing P.O. Box 202103, Harrisburg, PA 17120
+  voice: 717-783-9342
+- classification: district
+  address: 717 Market St. Suite 110, Lemoyne, PA 17043
+  voice: 717-303-3715
+links:
+- url: https://www.pahouse.com/davidson/
+- url: https://www.palegis.us/house/members/bio/2031/rep-davidson
+other_names:
+- name: Davidson, N.
+- name: N. Davidson
+- name: N.W. Davidson
+- name: Nathan Davidson
+sources:
+- url: https://ballotpedia.org/Nate_Davidson
+- url: https://justfacts.votesmart.org/candidate/214892/nate-davidson
+- url: https://www.linkedin.com/in/nathan-davidson-32b68726
+- url: https://www.pahouse.com/davidson
+- url: https://www.palegis.us/house/members/bio/2031/rep-davidson

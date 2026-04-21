@@ -1,0 +1,21 @@
+id: ocd-person/572ff13f-7f36-46a6-94f4-8f93271e2b7a
+name: Paul Schumacher
+given_name: Paul
+family_name: Schumacher
+image: http://www.nebraskalegislature.gov/media/images/blogs/dist22.jpg
+party:
+- name: Nonpartisan
+roles:
+- end_date: '2019-01-08'
+  type: legislature
+  jurisdiction: ocd-jurisdiction/country:us/state:ne/government
+  district: '22'
+links:
+- url: http://news.legislature.ne.gov/dist22
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NEL000022
+- scheme: legacy_openstates
+  identifier: NEL000180
+sources:
+- url: http://news.legislature.ne.gov/dist22

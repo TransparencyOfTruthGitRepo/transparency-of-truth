@@ -1,0 +1,54 @@
+id: ocd-person/cd4ceb1c-8960-4b10-b6f8-bd0b8ae0c68c
+name: Alyssa Black
+given_name: Alyssa
+family_name: Black
+gender: Female
+email: ablack@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/Black,Alyssa.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Chittenden-24
+- start_date: 2021-01-06
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Chittenden-24
+- end_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Chittenden-8-3
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+links:
+- url: https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-24.pdf
+  note: district map
+- url: https://legislature.vermont.gov/Documents/SmallMaps/CHI-8-3.pdf
+  note: district map
+- url: https://legislature.vermont.gov/people/single/2022/34710
+- url: https://legislature.vermont.gov/people/single/2024/34710
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2026/34710
+other_names:
+- name: A. Black
+- name: A.H. Black
+- name: Alyssa Hughes Black
+- name: Black, A.
+sources:
+- url: https://ballotpedia.org/Alyssa_Black
+- url: https://en.wikipedia.org/wiki/Alyssa_Black
+- url: https://justfacts.votesmart.org/candidate/biography/194326/alyssa-black
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/loadAll/2024
+- url: https://legislature.vermont.gov/people/single/2022/34710
+- url: https://legislature.vermont.gov/people/single/2024/34710
+- url: https://legislature.vermont.gov/people/single/2026/34710
+extras:
+  home address: 19 Steeplebush Rd Essex Junction, VT 05452
+  home phone: (802) 598-1026
+  state email: ablack@leg.state.vt.us

@@ -1,0 +1,25 @@
+id: ocd-person/d9a40356-1641-4837-b62a-94993b1a7285
+name: Thomas Winfield
+given_name: Thomas
+family_name: Winfield
+image: http://www.rilin.state.ri.us/representatives/pictures/winfield1.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '53'
+links:
+- url: http://www.rilin.state.ri.us/representatives/carson/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000092
+sources:
+- url: http://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: http://www.rilin.state.ri.us/representatives/Winfield/
+extras:
+  name_first: ''
+  name_last: ''
+  name_middle: ''
+  town_represented: Glocester, Smithfield

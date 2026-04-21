@@ -1,0 +1,36 @@
+id: ocd-person/11f44d71-88c1-4022-a2f5-f8ca9b8795f2
+name: Bert Gurr
+given_name: Bert
+family_name: Gurr
+gender: Male
+email: bert.gurr@asm.state.nv.us
+image: http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Gurr.Bert.402.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '33'
+offices:
+- classification: capitol
+  address: Room 4123, Nevada Assembly 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-8831
+- classification: district
+  address: Room 244, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/33
+  note: homepage
+other_names:
+- name: B. Gurr
+- name: B.K. Gurr
+- name: Gurr, B.
+- name: Gurr, Bert
+sources:
+- url: https://ballotpedia.org/Bert_Gurr
+- url: https://en.wikipedia.org/wiki/Bert_Gurr
+- url: https://justfacts.votesmart.org/candidate/204095/bert-gurr
+- url: https://www.gurr4nevada.com/about
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/33
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/33 "

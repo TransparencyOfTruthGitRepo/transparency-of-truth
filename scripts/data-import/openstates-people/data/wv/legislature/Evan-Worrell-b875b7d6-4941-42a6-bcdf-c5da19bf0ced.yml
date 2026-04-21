@@ -1,0 +1,47 @@
+id: ocd-person/b875b7d6-4941-42a6-bcdf-c5da19bf0ced
+name: Evan Worrell
+given_name: Evan
+family_name: Worrell
+birth_date: 1979-09-26
+gender: Male
+email: evan.worrell@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/worrell_evan.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '23'
+- start_date: 2018-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '23'
+- start_date: 2018-12-01
+  end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '18'
+offices:
+- classification: capitol
+  address: State Capitol Room 217E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3269
+- classification: district
+  address: 415 Roach Road, Salt Rock, WV 25559
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Worrell
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Worrell
+other_names:
+- name: E. Worrell
+- name: Worrell, E
+- name: Worrell, E.
+sources:
+- url: https://ballotpedia.org/Evan_Worrell
+- url: https://en.wikipedia.org/wiki/Evan_Worrell
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Worrell
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Worrell
+- url: https://www.wvlegislature.gov/House/roster.cfm
+extras:
+  title: Assistant Majority Whip

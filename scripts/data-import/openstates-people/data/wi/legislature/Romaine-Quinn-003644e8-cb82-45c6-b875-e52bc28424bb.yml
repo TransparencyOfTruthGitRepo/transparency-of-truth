@@ -1,0 +1,64 @@
+id: ocd-person/003644e8-cb82-45c6-b875-e52bc28424bb
+name: Romaine Quinn
+given_name: Romaine
+family_name: Quinn
+birth_date: 1990-07-30
+gender: Male
+email: sen.quinn@legis.wisconsin.gov
+image: https://docs.legis.wisconsin.gov/2023/legislators/senate/2564.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '25'
+- end_date: 2020-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '75'
+offices:
+- classification: capitol
+  address: State Capitol Room 123 South, P.O. Box 7882 , 2 E. Main St., Madison, WI
+    53707
+  voice: 608-266-3510
+links:
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1601
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1869
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/2564
+- url: https://docs.legis.wisconsin.gov/2025/legislators/senate/2824
+- url: https://legis.wisconsin.gov/senate/25/quinn/
+other_names:
+- name: QUINN, R
+- name: Quinn, R
+- name: Quinn, R.
+- name: R. Quinn
+- name: R.R. Quinn
+- name: Romaine Robert Quinn
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000574
+sources:
+- url: https://ballotpedia.org/Romaine_Quinn
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1601
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1869
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/
+  note: members list page
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/2564
+  note: member detail page
+- url: https://docs.legis.wisconsin.gov/2025/legislators/senate/2824
+- url: https://en.wikipedia.org/wiki/Romaine_Quinn
+- url: https://justfacts.votesmart.org/candidate/biography/98313/romaine-quinn
+- url: https://legis.wisconsin.gov/senate/25/quinn
+extras:
+  website: https://legis.wisconsin.gov/senate/25/quinn/
+  extra phone: (800) 469-6562
+  staff1: Jason Vick
+  staff_email1: Jason.Vick@legis.wisconsin.gov
+  staff2: Ericka Braatz
+  staff_email2: Ericka.Braatz@legis.wisconsin.gov
+  staff3: Jack Fitzgerald
+  staff_email3: Jack.Fitzgerald@legis.wisconsin.gov
+  staff4: Stacey Hessel
+  staff_email4: Stacey.Hessel@legis.wisconsin.gov

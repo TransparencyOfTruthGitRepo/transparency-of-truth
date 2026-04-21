@@ -1,0 +1,53 @@
+id: ocd-person/e53a09e6-a38e-4622-97e4-c40bf2d93faa
+name: Nicole Grohoski
+given_name: Nicole
+family_name: Grohoski
+gender: Female
+email: nicole.grohoski@legislature.maine.gov
+image: https://legislature.maine.gov/uploads/visual_edit/senator-grohoski-photo-web.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-07-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '7'
+- start_date: 2018-12-05
+  end_date: 2022-07-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '7'
+- end_date: 2022-07-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '132'
+  end_reason: Elected in Senate special election
+offices:
+- classification: capitol
+  address: 3 State House Station, Augusta, ME 04333
+  voice: 207-287-1515
+links:
+- url: https://legislature.maine.gov/district-7
+  note: homepage
+- url: https://legislature.maine.gov/District7
+  note: homepage
+- url: https://legislature.maine.gov/district7
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1387
+- url: https://www.mainesenate.org/senator/senator/nicole-grohoski/
+  note: website
+other_names:
+- name: GROHOSKI of Ellsworth
+- name: GROHOSKI of Hancock
+- name: Grohoski, N.
+- name: N. Grohoski
+sources:
+- url: https://ballotpedia.org/Nicole_Grohoski
+- url: https://en.wikipedia.org/wiki/Nicole_Grohoski
+- url: https://legislature.maine.gov/district-7
+- url: https://legislature.maine.gov/district7
+- url: https://legislature.maine.gov/District7
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1387
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+extras:
+  Additional address: P.O.B. 1732, Ellsworth, ME 04605

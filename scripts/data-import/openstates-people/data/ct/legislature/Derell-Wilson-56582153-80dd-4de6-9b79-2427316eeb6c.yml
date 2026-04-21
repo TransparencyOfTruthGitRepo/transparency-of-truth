@@ -1,0 +1,37 @@
+id: ocd-person/56582153-80dd-4de6-9b79-2427316eeb6c
+name: Derell Wilson
+given_name: Derell
+family_name: Wilson
+birth_date: 1992-01-05
+gender: Male
+email: derell.wilson@cga.ct.gov
+party:
+- name: Democratic/Working Families
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '46'
+offices:
+- classification: capitol
+  address: Room 3802, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://www.housedems.ct.gov/Wilson
+other_names:
+- name: D. Wilson
+- name: D.Q. Wilson
+- name: Wilson, D.
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Derell_Wilson
+- url: https://en.wikipedia.org/wiki/Derell_Wilson
+- url: https://justfacts.votesmart.org/candidate/biography/199774/derell-wilson
+- url: https://www.housedems.ct.gov/Wilson
+extras:
+  gender: Male
+  title: Assistant Majority Leader
+  committees: Labor and Public Employees (Vice Chair); Finance, Revenue and Bonding;
+    Judiciary
+  committee codes: ;FIN;JUD;LAB;
+  prison: '0'

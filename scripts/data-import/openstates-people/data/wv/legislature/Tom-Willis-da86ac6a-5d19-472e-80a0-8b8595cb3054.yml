@@ -1,0 +1,35 @@
+id: ocd-person/da86ac6a-5d19-472e-80a0-8b8595cb3054
+name: Tom Willis
+given_name: Tom
+family_name: Willis
+gender: Male
+email: tom.willis@wvsenate.gov
+image: https://www.wvlegislature.gov/images/members/2025/senate/willis_tom.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '15'
+offices:
+- classification: capitol
+  address: State Capitol Room 210W, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-357-7867
+- classification: district
+  address: WV
+  voice: 304-261-0169
+links:
+- url: https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Willis
+other_names:
+- name: T. Willis
+- name: T.E. Willis
+- name: Willis, T
+- name: Willis, T.
+sources:
+- url: https://ballotpedia.org/Tom_Willis_(West_Virginia)
+- url: https://en.wikipedia.org/wiki/Tom_Willis_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/177667/tom-willis
+- url: https://www.linkedin.com/in/willisforwv
+- url: https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Willis

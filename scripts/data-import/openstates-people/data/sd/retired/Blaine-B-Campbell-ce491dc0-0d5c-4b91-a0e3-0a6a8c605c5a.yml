@@ -1,0 +1,22 @@
+id: ocd-person/ce491dc0-0d5c-4b91-a0e3-0a6a8c605c5a
+name: Blaine B. Campbell
+given_name: Blaine
+family_name: Campbell
+middle_name: B.
+image: http://legis.sd.gov/img/Legislators/campbellB.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '35'
+links:
+- url: http://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=525
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000167
+sources:
+- url: http://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=525
+- url: http://legis.sd.gov/Legislators/Legislators/MemberCommittees.aspx?Member=525

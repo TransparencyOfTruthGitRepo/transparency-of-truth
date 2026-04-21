@@ -1,0 +1,52 @@
+id: ocd-person/e43a22ad-b630-496b-81f8-6b1f6ceaa13e
+name: Jeff Eldridge
+given_name: Jeff
+family_name: Eldridge
+birth_date: 1967-01-13
+gender: Male
+email: jeff.eldridge@wvhouse.gov
+image: https://www.wvlegislature.gov/images/members/2025/house/eldridge_jeff.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '30'
+- start_date: 2013-01-12
+  end_date: 2018-06-18
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '30'
+- start_date: 2018-06-19
+  end_date: 2018-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '30'
+- end_date: 2018-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '22'
+offices:
+- classification: capitol
+  address: State Capitol Room 220E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3152
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Eldridge
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Eldridge
+other_names:
+- name: Eldridge, J
+- name: Eldridge, J.
+- name: J. Eldridge
+- name: J.A. Eldridge
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000162
+sources:
+- url: https://ballotpedia.org/Jeff_Eldridge
+- url: https://en.wikipedia.org/wiki/Jeff_Eldridge
+- url: https://justfacts.votesmart.org/candidate/biography/135171/jeff-eldridge
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Eldridge
+- url: https://www.linkedin.com/in/jeff-eldridge-5a5a75a5
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Eldridge

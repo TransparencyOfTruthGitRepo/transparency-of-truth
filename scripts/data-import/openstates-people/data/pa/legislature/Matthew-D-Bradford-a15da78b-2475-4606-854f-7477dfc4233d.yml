@@ -1,0 +1,57 @@
+id: ocd-person/a15da78b-2475-4606-854f-7477dfc4233d
+name: Matt Bradford
+given_name: Matt
+family_name: Bradford
+birth_date: 1975-05-23
+gender: Male
+email: repbradford@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/1161.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2009-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '70'
+offices:
+- classification: capitol
+  address: Room 110, Main Capitol Building P.O. Box 202070, Harrisburg, PA 17120
+  voice: 717-772-2572
+- classification: district
+  address: 240 W. Germantown Pike First Floor, Norristown, PA 19401
+  voice: 610-270-1150
+- classification: district-mail
+  address: P.O. Box 118 Intersection of Bustard Road and Skippack Pike, 2000 Bustard
+    Road, Suite 6, Cedars, PA 19423
+  voice: 610-222-3490
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1161
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.pahouse.com/Bradford
+- url: https://www.palegis.us/house/members/bio/1161/rep-bradford
+other_names:
+- name: Bradford, M.
+- name: M. Bradford
+- name: M.D. Bradford
+- name: Matthew Bradford
+- name: Matthew D. Bradford
+ids:
+  twitter: RepBradford
+  youtube: playlist?list=PL97682F1C72BC1829
+  facebook: RepBradford
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000063
+sources:
+- url: https://ballotpedia.org/Matthew_Bradford
+- url: https://en.wikipedia.org/wiki/Matthew_Bradford
+- url: https://justfacts.votesmart.org/candidate/biography/109564/matthew-bradford
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1161
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/matt-bradford-57277646
+- url: https://www.pahouse.com/Bradford
+- url: https://www.palegis.us/house/members/bio/1161/rep-bradford
+extras:
+  website: http://www.pahouse.com/Bradford

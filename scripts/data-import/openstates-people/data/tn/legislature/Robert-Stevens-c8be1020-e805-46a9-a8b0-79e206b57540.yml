@@ -1,0 +1,43 @@
+id: ocd-person/c8be1020-e805-46a9-a8b0-79e206b57540
+name: Robert Stevens
+given_name: Robert
+family_name: Stevens
+gender: Male
+email: rep.robert.stevens@capitol.tn.gov
+image: https://capitol.tn.gov/house/members/images/H13.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '13'
+offices:
+- classification: capitol
+  address: Room 432, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-3830
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H13
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H13
+other_names:
+- name: R. Stevens
+- name: Stevens, R
+- name: Stevens, R.
+sources:
+- url: https://ballotpedia.org/Robert_Stevens_(Tennessee)
+- url: https://en.wikipedia.org/wiki/Robert_Stevens_(Tennessee_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/153284/robert-stevens
+- url: https://stevenslawtn.com/attorney-profile
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H13
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H13
+extras:
+  office: 432 CHB
+  personal info:
+  - Born May 23
+  - Attorney
+  - Christian
+  - B.A., Political Science, Lipscomb University, 2006
+  - J.D., University of Memphis, 2009

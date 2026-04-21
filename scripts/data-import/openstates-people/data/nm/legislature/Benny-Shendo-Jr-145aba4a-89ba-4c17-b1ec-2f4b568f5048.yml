@@ -1,0 +1,51 @@
+id: ocd-person/145aba4a-89ba-4c17-b1ec-2f4b568f5048
+name: Benny Shendo
+given_name: Benny
+family_name: Shendo
+gender: Male
+email: benny.shendo@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SSHEN.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-15
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '22'
+offices:
+- classification: capitol
+  address: State Capitol Room 325A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4264
+- classification: district-mail
+  address: P.O. Box 634, Jemez Pueblo, NM 87024
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SSHEN
+  note: homepage
+other_names:
+- name: B. Shendo
+- name: B.J. Shendo
+- name: Benny J. Shendo
+- name: Benny Shendo, Jr.
+- name: Shendo, B.
+- name: Shendo, Benny
+- name: Shendo, Benny, Jr.
+ids:
+  facebook: BennyShendoforNMSenate
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000136
+- scheme: legacy_openstates
+  identifier: NML000191
+- scheme: legacy_openstates
+  identifier: NML000355
+sources:
+- url: https://ballotpedia.org/Benny_Shendo
+- url: https://en.wikipedia.org/wiki/Benny_Shendo
+- url: https://justfacts.votesmart.org/candidate/biography/102414/benny-shendo-jr
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SSHEN
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: Bernalillo, McKinley, Rio Arriba, San Juan & Sandoval
+  service: Senator since 2013
+  occupation: Community Development

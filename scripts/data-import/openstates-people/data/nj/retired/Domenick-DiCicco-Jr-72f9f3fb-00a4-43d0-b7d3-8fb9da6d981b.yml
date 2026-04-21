@@ -1,0 +1,17 @@
+id: ocd-person/72f9f3fb-00a4-43d0-b7d3-8fb9da6d981b
+name: Domenick DiCicco Jr.
+given_name: Domenick
+family_name: DiCicco
+party:
+- name: Republican
+roles:
+- start_date: '2010-01-01'
+  end_date: '2011-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '4'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000012
+sources:
+- url: ftp://www.njleg.state.nj.us/ag/2010data/ROSTER.DBF

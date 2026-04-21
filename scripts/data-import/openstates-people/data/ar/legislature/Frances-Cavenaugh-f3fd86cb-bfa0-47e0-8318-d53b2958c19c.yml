@@ -1,0 +1,77 @@
+id: ocd-person/f3fd86cb-bfa0-47e0-8318-d53b2958c19c
+name: Fran Cavenaugh
+given_name: Fran
+family_name: Cavenaugh
+gender: Female
+email: frances.cavenaugh@arkansashouse.org
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/522_sm.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '30'
+- start_date: 2017-01-09
+  end_date: 2023-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '30'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '60'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+- classification: district
+  address: 701 Park Lane, Walnut Ridge, AR 72476
+  voice: 870-886-4000
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Cavenaugh
+- url: https://francavenaugh.com/
+  note: Campaign Website
+- url: https://www.arkansashouse.org/district/30
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Cavenaugh
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Cavenaugh&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Cavenaugh&ddBienniumSession=2021%2F2021R
+other_names:
+- name: Cavenaugh
+- name: Cavenaugh, F.
+- name: F. Cavenaugh
+- name: F.W. Cavenaugh
+- name: Frances Cavenaugh
+ids:
+  twitter: francavenaugh
+  facebook: FranCavenaughAR
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Frances_Cavenaugh
+- scheme: followthemoney
+  identifier: '9651809'
+- scheme: legacy_openstates
+  identifier: ARL000361
+- scheme: votesmart
+  identifier: '166158'
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Cavenaugh
+- url: https://ballotpedia.org/Frances_Cavenaugh
+- url: https://en.wikipedia.org/wiki/Frances_Cavenaugh
+- url: https://justfacts.votesmart.org/candidate/biography/166158/frances-cavenaugh
+- url: https://www.arkansashouse.org/district/30
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Cavenaugh
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Cavenaugh&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Cavenaugh&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Cavenaugh&ddBienniumSession=2021%2F2021S1
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Cavenaugh&ddBienniumSession=2021%2F2022F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Cavenaugh&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2021%2F2021S1#SearchResults
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+extras:
+  seniority: '32'
+  occupation: CFO, Cavenaugh Auto Group
+  church affiliation: Baptist
+  veteran: 'No'
+  public service: First Term House 2017

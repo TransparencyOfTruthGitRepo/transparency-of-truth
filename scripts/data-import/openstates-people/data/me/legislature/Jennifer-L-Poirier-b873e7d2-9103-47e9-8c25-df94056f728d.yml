@@ -1,0 +1,51 @@
+id: ocd-person/b873e7d2-9103-47e9-8c25-df94056f728d
+name: Jennifer Poirier
+given_name: Jennifer
+family_name: Poirier
+gender: Female
+email: jennifer.poirier@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/8e43d53c-3390-4bb4-9adb-b5a728cb3263_Poirier.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '70'
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '70'
+- start_date: 2020-12-02
+  end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '107'
+offices:
+- classification: capitol
+  address: Room 332, House Republican Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1433
+  note: homepage
+- url: https://mainehousegop.org/members/poirier-jennifer/
+other_names:
+- name: J. Poirier
+- name: J.L. Poirier
+- name: Jennifer L. Poirier
+- name: Jennifer Lynn Poirier
+- name: Jennifer POIRIER
+- name: POIRIER of Skowhegan
+- name: Poirier, J.
+sources:
+- url: https://ballotpedia.org/Jennifer_Poirier
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1433
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://mainehousegop.org/members/poirier-jennifer
+- url: https://www.linkedin.com/in/jennifer-poirier-a5ab73159
+extras:
+  Seat Number: '64'
+  towns represented:
+  - Skowhegan
+  occupation: Community Living Coordinator

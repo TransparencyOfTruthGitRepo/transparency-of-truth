@@ -1,0 +1,39 @@
+id: ocd-organization/b8ed08f1-44f6-4c5c-a620-2bd45ed19ad5
+jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+classification: committee
+name: Appropriations on Department of Transportation
+chamber: upper
+sources:
+- url: https://www.ncleg.gov/committees
+  note: committees list page
+- url: https://www.ncleg.gov/Committees/CommitteeInfo/SenateStanding/140
+  note: committee details page
+links:
+- url: https://www.ncleg.gov/Committees/CommitteeInfo/SenateStanding/140
+  note: homepage
+members:
+- name: Bill Rabon
+  role: chair
+  person_id: ocd-person/ac7e8e60-b5cb-41c2-92f9-1bdf9204f79a
+- name: Michael Lazzara
+  role: chair
+  person_id: ocd-person/f0121b49-81cc-45f5-98e1-1fbeee882c81
+- name: Vickie Sawyer
+  role: chair
+  person_id: ocd-person/ece1f23b-841d-4145-9719-3807bf29f861
+- name: Caleb Theodros
+  role: member
+  person_id: ocd-person/a2013778-1144-4936-a0fa-895ad190649f
+- name: Mark Hollo
+  role: member
+  person_id: ocd-person/1afc84ab-30e5-413a-8975-2a552e050aee
+- name: Michael Garrett
+  role: member
+  person_id: ocd-person/f40a7222-92eb-4d8e-ad4d-7008b859aae7
+- name: Natalie Murdock
+  role: member
+  person_id: ocd-person/121cec2b-d03f-45bc-a835-1ae5f4eb18d3
+other_names:
+- name: Senate Appropriations on Department of Transportation
+- name: Senate Appropriations on Department of Transportation Committee
+- name: Senate Committee on Appropriations on Department of Transportation

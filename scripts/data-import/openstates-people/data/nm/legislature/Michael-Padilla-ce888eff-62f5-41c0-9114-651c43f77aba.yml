@@ -1,0 +1,53 @@
+id: ocd-person/ce888eff-62f5-41c0-9114-651c43f77aba
+name: Michael Padilla
+given_name: Michael
+family_name: Padilla
+birth_date: 1972-06-13
+gender: Male
+email: michael.padilla@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SPADI.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-15
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '14'
+offices:
+- classification: capitol
+  address: State Capitol Room 120A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4737
+- classification: district-mail
+  address: P.O. Box 67545, Albuquerque, NM 87193
+links:
+- url: https://www.linkedin.com/in/michaelpadilla1/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SPADI
+  note: homepage
+other_names:
+- name: M. Padilla
+- name: Padilla, M.
+- name: Padilla, Michael
+ids:
+  twitter: SenPadilla
+  instagram: michael.padilla.31
+  facebook: michael.padilla.31
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000132
+- scheme: legacy_openstates
+  identifier: NML000183
+- scheme: legacy_openstates
+  identifier: NML000381
+sources:
+- url: https://ballotpedia.org/Michael_Padilla_(New_Mexico)
+- url: https://en.wikipedia.org/wiki/Michael_Padilla
+- url: https://justfacts.votesmart.org/candidate/biography/103955/michael-padilla
+- url: https://www.linkedin.com/in/michaelpadilla1
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SPADI
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: Bernalillo
+  service: Senator since 2013
+  occupation: Business Owner

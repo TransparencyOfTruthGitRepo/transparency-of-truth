@@ -1,0 +1,21 @@
+id: ocd-person/417c8c25-7cf9-4b32-a8a7-2c0143327aa9
+name: Heather Bishoff
+given_name: Heather
+family_name: Bishoff
+image: http://www.ohiohouse.gov/Assets/Headshots/Small/20.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '20'
+links:
+- url: http://www.ohiohouse.gov/heather-bishoff
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000189
+sources:
+- url: http://www.ohiohouse.gov/members/member-directory
+- url: http://www.dispatch.com/news/20170425/rep-heather-bishoff-quits-ohio-house-moving-to-california

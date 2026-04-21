@@ -1,0 +1,37 @@
+id: ocd-person/a1120307-ef30-48b0-8d6a-74df54cb7739
+name: Dave Min
+given_name: Dave
+family_name: Min
+birth_date: 1976-03-05
+gender: Male
+email: https://min.house.gov/address_authentication?form=/contact/email-me
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CA-47
+offices:
+- classification: capitol
+  address: 1034 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-5611
+- classification: district
+  address: 1370 Adams Ave. Suite A, Costa Mesa, CA 92626
+  voice: 949-668-6600
+links:
+- url: https://min.house.gov/
+other_names:
+- name: D. Min
+- name: D.K. Min
+- name: Min, D.
+other_identifiers:
+- scheme: bioguide
+  identifier: M001241
+sources:
+- url: https://ballotpedia.org/Dave_Min
+- url: https://davemin.com/meet-dave
+- url: https://en.wikipedia.org/wiki/Dave_Min
+- url: https://min.house.gov
+- url: https://www.linkedin.com/in/dave-min-78bb095

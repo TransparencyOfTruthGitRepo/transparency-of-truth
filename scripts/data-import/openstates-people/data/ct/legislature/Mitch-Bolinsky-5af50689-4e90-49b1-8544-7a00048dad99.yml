@@ -1,0 +1,45 @@
+id: ocd-person/5af50689-4e90-49b1-8544-7a00048dad99
+name: Mitch Bolinsky
+given_name: Mitch
+family_name: Bolinsky
+birth_date: 1958-09-17
+gender: Male
+email: mitch.bolinsky@housegop.ct.gov
+image: https://www.cthousegop.com/bolinsky/wp-content/uploads/sites/8/2016/12/Bolinsky-Bio-Web-Sized.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '106'
+offices:
+- classification: capitol
+  address: Room 4200, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8700
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27106%27&dist_name=Bolinsky,%20Mitch
+- url: https://www.cthousegop.com/Bolinsky/
+- url: https://www.cthousegop.com/Bolinsky/main/
+other_names:
+- name: Bolinsky, M.
+- name: Bolinsky, Mitch
+- name: M. Bolinsky
+- name: M.S. Bolinsky
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000214
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Mitch_Bolinsky
+- url: https://en.wikipedia.org/wiki/Mitch_Bolinsky
+- url: https://justfacts.votesmart.org/candidate/biography/141185/mitch-bolinsky
+- url: https://www.cthousegop.com/Bolinsky/main
+- url: https://www.cthousegop.com/Bolinsky/main/
+- url: https://www.linkedin.com/in/mbolinsky
+extras:
+  gender: Male
+  title: Assistant House Republican Leader
+  committees: Aging (Ranking Member); Appropriations; Education
+  committee codes: ;AGE;APP;ED;
+  prison: '0'

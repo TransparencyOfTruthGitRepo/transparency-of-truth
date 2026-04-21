@@ -1,0 +1,21 @@
+id: ocd-person/742f9251-f695-4b33-ab85-6ad0d7c4a9e8
+name: Nicholas D. Kettle
+given_name: Nicholas D.
+family_name: Kettle
+image: http://www.rilin.state.ri.us/Senators/Pictures/kettle.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2012-01-01'
+  end_date: '2017-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '21'
+links:
+- url: http://webserver.rilin.state.ri.us/Kettle/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000021
+sources:
+- url: http://webserver.rilin.state.ri.us/Email/SenEmailListDistrict.asp
+- url: http://www.rilin.state.ri.us/senators/Kettle/

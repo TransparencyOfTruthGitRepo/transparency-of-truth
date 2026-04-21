@@ -1,0 +1,33 @@
+id: ocd-person/4af0e8db-ad18-424f-abfa-ce31e37c0b7d
+name: Mark Johnson
+given_name: Mark
+family_name: Johnson
+gender: Male
+email: rep92@ohiohouse.gov
+image: https://www.legislature.ohio.gov/assets/people/mark-johnson/headshots/thumbnails/medium/mark-johnson-january-2021-headshot_medium.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '92'
+offices:
+- classification: capitol
+  address: 77 S. High St. 12th Floor, Columbus, OH 43215
+  voice: 614-644-7928
+links:
+- url: https://ohiohouse.gov/mark-johnson
+- url: https://ohiohouse.gov/members/mark-johnson
+other_names:
+- name: Johnson, M.
+- name: M. Johnson
+sources:
+- url: https://ballotpedia.org/Mark_Johnson_(Ohio)
+- url: https://justfacts.votesmart.org/candidate/189503/mark-johnson
+- url: https://ohiohouse.gov/mark-johnson
+- url: https://ohiohouse.gov/members/mark-johnson
+  note: member details page
+- url: https://www.legislature.ohio.gov/legislators/house-directory
+  note: member list page
+- url: https://www.linkedin.com/in/mark-johnson-35a57b30

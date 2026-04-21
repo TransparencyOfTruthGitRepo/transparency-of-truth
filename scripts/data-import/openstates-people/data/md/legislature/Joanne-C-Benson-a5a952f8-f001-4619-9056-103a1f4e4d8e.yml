@@ -1,0 +1,50 @@
+id: ocd-person/a5a952f8-f001-4619-9056-103a1f4e4d8e
+name: Joanne Benson
+given_name: Joanne
+family_name: Benson
+birth_date: 1941-03-11
+gender: Female
+email: joanne.benson@senate.maryland.gov
+image: http://mgaleg.maryland.gov/2016RS/images/benson.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2011-01-12
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '24'
+- start_date: 1991-01-09
+  end_date: 2011-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '24'
+offices:
+- classification: capitol
+  address: Room 201, James Senate Office Building 11 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3148
+  fax: 301-858-3149
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/benson
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=benson&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa12185.html
+other_names:
+- name: Benson, J.
+- name: J. Benson
+- name: J.C. Benson
+- name: Joanne C. Benson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000248
+- scheme: legacy_openstates
+  identifier: MDL000378
+- scheme: legacy_openstates
+  identifier: MDL000425
+sources:
+- url: https://ballotpedia.org/Joanne_Benson
+- url: https://en.wikipedia.org/wiki/Joanne_C._Benson
+- url: https://justfacts.votesmart.org/candidate/biography/6106/joanne-benson
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/benson
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=benson&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa12185.html
+- url: https://www.linkedin.com/in/joanne-benson-22775340
+- url: https://www.linkedin.com/in/joanne-delegate-benson-70415b1a

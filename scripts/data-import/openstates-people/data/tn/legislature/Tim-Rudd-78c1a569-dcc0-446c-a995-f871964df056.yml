@@ -1,0 +1,52 @@
+id: ocd-person/78c1a569-dcc0-446c-a995-f871964df056
+name: Tim Rudd
+given_name: Tim
+family_name: Rudd
+birth_date: 1960-11-30
+gender: Male
+email: rep.tim.rudd@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h34.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '34'
+offices:
+- classification: capitol
+  address: Room 544, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-2804
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H34
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H34
+- url: https://www.capitol.tn.gov/house/members/h34.html
+other_names:
+- name: Rudd, T
+- name: Rudd, T.
+- name: T. Rudd
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000481
+sources:
+- url: https://ballotpedia.org/Tim_Rudd
+- url: https://en.wikipedia.org/wiki/Tim_Rudd
+- url: https://justfacts.votesmart.org/candidate/170213/tim-rudd
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H34
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H34
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h34.html
+- url: https://www.linkedin.com/in/tim-rudd-8aa55125
+extras:
+  office: 544 CHB
+  personal info:
+  - Born November 30, 1960
+  - Real Estate Agent
+  - Direct Mail Consultant
+  - Baptist
+  - Middle Tennessee State University
+  - Smyrna High School

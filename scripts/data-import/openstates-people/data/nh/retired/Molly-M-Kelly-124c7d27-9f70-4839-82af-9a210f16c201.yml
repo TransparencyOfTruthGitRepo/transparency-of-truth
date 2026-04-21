@@ -1,0 +1,28 @@
+id: ocd-person/124c7d27-9f70-4839-82af-9a210f16c201
+name: Molly M Kelly
+given_name: Molly
+family_name: Kelly
+middle_name: M
+image: http://www.gencourt.state.nh.us/Senate/images/senators/10.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '10'
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '10'
+links:
+- url: http://www.gencourt.state.nh.us/Senate/members/webpages/district10.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000013
+- scheme: legacy_openstates
+  identifier: NHL001288
+sources:
+- url: http://www.gencourt.state.nh.us/Senate/members/webpages/district10.aspx

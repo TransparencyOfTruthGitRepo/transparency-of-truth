@@ -1,0 +1,31 @@
+id: ocd-person/ebfdda03-c083-4a13-b3a4-f87f6e24adac
+name: Thomas Moakley
+given_name: Thomas
+family_name: Moakley
+gender: Male
+email: thomas.moakley@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/TWM1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Barnstable, Dukes and Nantucket
+offices:
+- classification: capitol
+  address: Room 134, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2400
+links:
+- url: https://malegislature.gov/Legislators/Profile/TWM1
+other_names:
+- name: Moakley, T.
+- name: T. Moakley
+- name: T.W. Moakley
+- name: Thomas W. Moakley
+sources:
+- url: https://ballotpedia.org/Thomas_Moakley
+- url: https://malegislature.gov/Legislators/Profile/TWM1
+- url: https://www.linkedin.com/in/thomas-moakley-623031a8
+extras:
+  member code: TWM1

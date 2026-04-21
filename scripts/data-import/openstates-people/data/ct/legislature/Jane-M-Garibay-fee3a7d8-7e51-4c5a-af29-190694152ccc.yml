@@ -1,0 +1,41 @@
+id: ocd-person/fee3a7d8-7e51-4c5a-af29-190694152ccc
+name: Jane Garibay
+given_name: Jane
+family_name: Garibay
+birth_date: 1955-09-26
+gender: Female
+email: jane.garibay@cga.ct.gov
+image: http://www2.housedems.ct.gov/Garibay/images/Garibay_HS.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '60'
+offices:
+- classification: capitol
+  address: Room 5003, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 800-842-8267
+links:
+- url: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27060%27&dist_name=060%20-%Garibay,%Jane
+- url: https://www.housedems.ct.gov/garibay
+other_names:
+- name: Garibay, J.
+- name: Garibay, Jane M.
+- name: J. Garibay
+- name: J.M. Garibay
+- name: Jane M. Garibay
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Jane_Garibay
+- url: https://en.wikipedia.org/wiki/Jane_Garibay
+- url: https://justfacts.votesmart.org/candidate/183882/jane-garibay
+- url: https://www.housedems.ct.gov/garibay
+- url: https://www.linkedin.com/in/jane-garibay-2971475
+extras:
+  gender: Female
+  title: Assistant Majority Leader
+  committees: Aging (Chair); Appropriations; Commerce
+  committee codes: ;AGE;APP;CE;
+  prison: '0'

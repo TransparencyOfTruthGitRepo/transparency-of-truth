@@ -1,0 +1,42 @@
+id: ocd-organization/ff291cd8-d613-4172-8df8-91ce7687d45d
+jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+classification: committee
+name: Oversight, Reform and Federal Relations
+chamber: lower
+sources:
+- url: https://njleg.state.nj.us/committees/assembly-committees?committee=AOF
+- url: https://www.njleg.state.nj.us/api/legislatorData/committeeInfo/assembly-committees
+  note: JSON data page from NJ Legislative API
+- url: https://www.njleg.state.nj.us/committees/assembly-committees
+links:
+- url: https://njleg.state.nj.us/committees/assembly-committees?committee=AOF
+- url: https://www.njleg.state.nj.us/committees/assembly-committees
+  note: homepage
+members:
+- name: Avi Schnall
+  role: chair
+  person_id: ocd-person/4dab8e3a-93be-4ad7-8cb1-5009e4c7d232
+- name: Cody Miller
+  role: vice chair
+  person_id: ocd-person/fab6547d-4f37-4c02-a738-dc4fb0b707e7
+- name: Don Guardian
+  role: member
+  person_id: ocd-person/df880b40-1e96-49d0-92bc-70732a1cce32
+- name: Erik Simonsen
+  role: member
+  person_id: ocd-person/7f9ebe1c-d4fa-4dd0-8948-7cf6248ffb6d
+- name: Gabe Rodriguez
+  role: member
+  person_id: ocd-person/2078f4b2-3e69-4e01-aada-3ccf21ba6173
+- name: Maureen Rowan
+  role: member
+  person_id: ocd-person/af1dfa82-2c03-4b0c-bf63-1eef9e8b6616
+other_names:
+- name: Assembly Committee on Oversight, Reform and Federal Relations
+- name: Assembly Oversight, Reform and Federal Relations
+- name: Assembly Oversight, Reform and Federal Relations Committee
+- name: Committee on Oversight, Reform and Federal Relations
+- name: House Committee on Oversight, Reform and Federal Relations
+- name: House Oversight, Reform and Federal Relations
+- name: House Oversight, Reform and Federal Relations Committee
+- name: Oversight, Reform and Federal Relations Committee

@@ -1,0 +1,49 @@
+id: ocd-person/9314859d-000f-447c-9aa7-4993b13e8010
+name: Laura Hall
+given_name: Laura
+family_name: Hall
+birth_date: 1943-01-25
+gender: Female
+email: laura.hall@alhouse.org
+image: https://www.legislature.state.al.us/pdf/house/members/Hall_19.png
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '19'
+offices:
+- classification: capitol
+  address: Room 517-D, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0517
+- classification: district
+  address: 726 Madison St., Huntsville, AL 35801
+  voice: 256-539-5441
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100499&OID_PERSON=1068
+other_names:
+- name: Hall, L.
+- name: L. Hall
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000074
+- scheme: legacy_openstates
+  identifier: ALL000397
+- scheme: legacy_openstates
+  identifier: ALL000295
+- scheme: legacy_openstates
+  identifier: ALL000482
+sources:
+- url: https://ballotpedia.org/Laura_Hall_(Alabama)
+- url: https://en.wikipedia.org/wiki/Laura_Hall_(politician)
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/5652/laura-hall
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Hall&OID_SPONSOR=100499&OID_PERSON=1068&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100499&OID_PERSON=1068
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+- url: https://www.linkedin.com/in/replaurahalld19
+extras:
+  counties: Madison County

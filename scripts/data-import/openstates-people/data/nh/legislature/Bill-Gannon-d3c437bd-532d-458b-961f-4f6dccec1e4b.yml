@@ -1,0 +1,55 @@
+id: ocd-person/d3c437bd-532d-458b-961f-4f6dccec1e4b
+name: Bill Gannon
+given_name: Bill
+family_name: Gannon
+gender: Male
+email: william.gannon@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/49858.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-12-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '23'
+- start_date: 2014-12-01
+  end_date: 2016-12-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '23'
+- start_date: 2016-12-07
+  end_date: 2018-12-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '23'
+offices:
+- classification: capitol
+  address: Room 124, State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3077
+links:
+- url: https://gc.nh.gov/Senate/members/webpages/district23.aspx
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/Senate/members/webpages/district23.aspx
+- url: https://www.gencourt.state.nh.us/Senate/members/webpages/district23.aspx
+  note: homepage
+other_names:
+- name: B. Gannon
+- name: Bill M Gannon
+- name: Bill M. Gannon
+- name: Gannon, B.
+- name: W. Gannon
+- name: William Gannon
+sources:
+- url: https://ballotpedia.org/William_Gannon
+- url: https://en.wikipedia.org/wiki/Bill_Gannon_(New_Hampshire_politician)
+- url: https://gc.nh.gov/Senate/members/webpages/district23.aspx
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/Senate/members/webpages/district23.aspx
+- url: https://justfacts.votesmart.org/candidate/biography/154540/william-gannon
+- url: https://www.gencourt.state.nh.us/Senate/members/webpages/district23.aspx
+- url: https://www.linkedin.com/in/william-gannon-bb924646
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: M

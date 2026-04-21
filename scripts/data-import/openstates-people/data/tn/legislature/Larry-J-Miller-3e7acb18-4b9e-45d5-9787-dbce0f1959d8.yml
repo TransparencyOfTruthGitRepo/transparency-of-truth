@@ -1,0 +1,56 @@
+id: ocd-person/3e7acb18-4b9e-45d5-9787-dbce0f1959d8
+name: Larry Miller
+given_name: Larry
+family_name: Miller
+birth_date: 1954-03-11
+gender: Male
+email: rep.larry.miller@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h88.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1994-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '88'
+offices:
+- classification: capitol
+  address: Room 580, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-4453
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H88
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h88.html
+other_names:
+- name: L. Miller
+- name: L.J. Miller
+- name: Larry J. Miller
+- name: Miller, L
+- name: Miller, L.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000093
+- scheme: legacy_openstates
+  identifier: TNL000225
+- scheme: legacy_openstates
+  identifier: TNL000291
+- scheme: legacy_openstates
+  identifier: TNL000413
+sources:
+- url: https://ballotpedia.org/Larry_Miller_(Tennessee_representative)
+- url: https://en.wikipedia.org/wiki/Larry_Miller_(Tennessee_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/24460/larry-miller
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H88
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h88.html
+extras:
+  office: 580 CHB
+  personal info:
+  - Born March 11, 1954, Memphis
+  - Single, One daughter, Nikayla
+  - Retired Fireman, City of Memphis
+  - Booker T. Washington High School
+  - B. A., Social Science LeMoyne Owen College

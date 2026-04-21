@@ -1,0 +1,19 @@
+id: ocd-person/cd0a84e5-3f3d-4c02-a8b8-fa1bf8cc8c50
+name: Rick Roeber
+given_name: Rick
+family_name: Roeber
+image: https://house.mo.gov/MemberPhoto.aspx?id=2215
+party:
+- name: Republican
+roles:
+- end_date: '2021-04-21'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '34'
+  end_reason: Expelled by House
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=034
+other_names:
+- name: Roeber, Rick
+sources:
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=034

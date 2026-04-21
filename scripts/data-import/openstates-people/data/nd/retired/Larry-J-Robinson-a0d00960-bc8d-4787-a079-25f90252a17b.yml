@@ -1,0 +1,26 @@
+id: ocd-person/a0d00960-bc8d-4787-a079-25f90252a17b
+name: Larry J. Robinson
+given_name: Larry J.
+family_name: Robinson
+email: lrobinson@nd.gov
+image: https://www.legis.nd.gov/files/styles/medium/public/person/photo/lrobinson.jpg?itok=08XuhvsU
+party:
+- name: Democratic
+roles:
+- end_date: '2020-11-30'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '24'
+links:
+- url: http://www.legis.nd.gov/assembly/65-2017/members/senate/senator-larry-j-robinson
+- url: http://www.legis.nd.gov/assembly/66-2019/members/senate/senator-larry-j-robinson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NDL000025
+- scheme: legacy_openstates
+  identifier: NDL000218
+- scheme: legacy_openstates
+  identifier: NDL000439
+sources:
+- url: http://www.legis.nd.gov/assembly/65-2017/members/senate/senator-larry-j-robinson
+- url: http://www.legis.nd.gov/assembly/66-2019/members/senate/senator-larry-j-robinson

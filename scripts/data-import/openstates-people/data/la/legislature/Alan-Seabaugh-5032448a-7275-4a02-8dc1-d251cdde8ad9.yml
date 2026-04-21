@@ -1,0 +1,63 @@
+id: ocd-person/5032448a-7275-4a02-8dc1-d251cdde8ad9
+name: Alan Seabaugh
+given_name: Alan
+family_name: Seabaugh
+birth_date: 1967-05-20
+gender: Male
+email: sen31@legis.la.gov
+image: https://senate.la.gov/SenPics/Sen31.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '31'
+- end_date: 2024-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '31'
+  start_date: 2024-01-08
+- end_date: 2024-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '5'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 515 S. Capitol St., Many, LA 71449
+  voice: 318-676-7990
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=5
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=31
+other_names:
+- name: A. Seabaugh
+- name: A.T. Seabaugh
+- name: Seabaugh, A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000280
+- scheme: legacy_openstates
+  identifier: LAL000407
+- scheme: legacy_openstates
+  identifier: LAL000614
+- scheme: legacy_openstates
+  identifier: LAL000729
+- scheme: legacy_openstates
+  identifier: LAL000920
+sources:
+- url: https://ballotpedia.org/Alan_Seabaugh
+- url: https://en.wikipedia.org/wiki/Alan_Seabaugh
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=5
+- url: https://justfacts.votesmart.org/candidate/biography/93616/alan-seabaugh
+- url: https://senate.la.gov/smembers?ID=31
+extras:
+  legislative assistant: Emily Mott and Megan McCreary
+  representing parishes:
+  - Caddo
+  education: Louisiana State University, B.A., 1990; Louisiana State University Law
+    School, J.D., 1993

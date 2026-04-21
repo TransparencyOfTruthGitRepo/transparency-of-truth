@@ -1,0 +1,21 @@
+id: ocd-person/344821c9-ec34-4b06-9b5f-ba555a1a6d1d
+name: Margaret R Cheney
+given_name: Margaret
+family_name: Cheney
+middle_name: R
+image: http://vermont-elections.org/2009-2010BioBook/jpegs/cheney.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Windsor-Orange-2
+links:
+- url: http://www.leg.state.vt.us/legdir/LegDirMain.cfm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000048
+sources:
+- url: http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W

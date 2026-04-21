@@ -1,0 +1,50 @@
+id: ocd-organization/3640407c-0d8e-4af4-8317-430e85ad2c34
+jurisdiction: ocd-jurisdiction/country:us/state:de/government
+classification: committee
+name: Legislative Oversight and Sunset
+chamber: legislature
+sources:
+- url: https://legis.delaware.gov/Committee/Sunset
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=577
+  note: Member list page
+- url: https://legis.delaware.gov/json/Committees/GetCommitteesByTypeId?ga=
+  note: Committee json data
+links:
+- url: https://legis.delaware.gov/Committee/Sunset
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=577
+  note: homepage
+members:
+- name: Kyra Hoffner
+  role: chair
+  person_id: ocd-person/b5a52e58-da64-49a2-85b2-84f55427fa83
+- name: Cyndie Romer
+  role: vice chair
+  person_id: ocd-person/d187436c-b3d3-4512-9172-b7a868942fe4
+- name: Brian Pettyjohn
+  role: member
+  person_id: ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b
+- name: Bryant Richardson
+  role: member
+  person_id: ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727
+- name: Josue Ortega
+  role: member
+  person_id: ocd-person/d020ca16-1926-4279-adc8-c0a6cddeac6e
+- name: Melanie Ross Levin
+  role: member
+  person_id: ocd-person/ec594c77-7bbe-45c5-9ffd-0f6a3aad1e36
+- name: Nicole Poore
+  role: member
+  person_id: ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc
+- name: Rich Collins
+  role: member
+  person_id: ocd-person/26490cf5-c29c-485e-bdc5-1e340a4c10f6
+- name: Russ Huxtable
+  role: member
+  person_id: ocd-person/d96a4018-ca3f-40a6-a12c-cc38d757e9f0
+- name: Valerie Giltner
+  role: member
+  person_id: ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0
+other_names:
+- name: Joint Committee on Legislative Oversight and Sunset
+- name: Joint Legislative Oversight and Sunset
+- name: Joint Legislative Oversight and Sunset Committee

@@ -1,0 +1,13 @@
+id: ocd-person/3d7703c6-e657-4d05-b7e3-5e1e25b03821
+name: Heidi Harmon
+given_name: Heidi
+family_name: Harmon
+email: hharmon@slocity.org
+roles:
+- end_date: '2020-12-31'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/place:san_luis_obispo/government
+offices:
+- classification: primary
+  address: 990 Palm Street;San Luis Obispo, CA 93401
+  voice: 805-781-7123

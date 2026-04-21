@@ -1,0 +1,55 @@
+id: ocd-person/40ae4adb-2124-47ca-82b5-9eee794af4a2
+name: Linda Gould
+given_name: Linda
+family_name: Gould
+gender: Female
+email: linda.gould@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/50192.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 2
+- start_date: 2015-01-07
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 2
+- end_date: 2022-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 7
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=377299
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377299
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=849
+  note: member detail page
+other_names:
+- name: Gould, L.
+- name: L. Gould
+- name: Linda R. Gould
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001167
+sources:
+- url: https://ballotpedia.org/Linda_Gould
+- url: https://en.wikipedia.org/wiki/Linda_Gould
+- url: https://gc.nh.gov/house/members/member.aspx?member=377299
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/154475/linda-gould
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377299
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=849
+extras:
+  county: Hillsborough
+  elected status: Incumbent
+  gender code: F

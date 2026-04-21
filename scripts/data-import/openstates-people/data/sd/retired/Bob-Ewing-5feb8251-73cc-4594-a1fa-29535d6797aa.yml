@@ -1,0 +1,24 @@
+id: ocd-person/5feb8251-73cc-4594-a1fa-29535d6797aa
+name: Bob Ewing
+given_name: Bob
+family_name: Ewing
+email: Bob.Ewing@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Ewing_2017.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '31'
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1481&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1606&Session=2019
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000152
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1481&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1606&Session=2019
+extras:
+  occupation: Business Owner/Rancher

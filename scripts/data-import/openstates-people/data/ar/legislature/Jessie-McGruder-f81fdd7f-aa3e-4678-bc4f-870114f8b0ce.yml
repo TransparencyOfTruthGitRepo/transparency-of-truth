@@ -1,0 +1,34 @@
+id: ocd-person/f81fdd7f-aa3e-4678-bc4f-870114f8b0ce
+name: Jessie McGruder
+given_name: Jessie
+family_name: McGruder
+gender: Male
+email: mcgruder4arkansashouse@gmail.com
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jessie_McGruder_20240811_111220.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '35'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+- classification: district-mail
+  address: P.O. Box 1606, Marion, AR 72364
+  voice: 870-817-2112
+links:
+- url: https://arkansashouse.org/district/35
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=McGruder
+other_names:
+- name: J. McGruder
+- name: J.R. McGruder
+- name: McGruder, J.
+sources:
+- url: https://arkansashouse.org/district/35
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=McGruder
+- url: https://ballotpedia.org/Jessie_McGruder
+- url: https://justfacts.votesmart.org/candidate/biography/212939/jessie-mcgruder
+- url: https://www.linkedin.com/in/jessie-mcgruder-61b69758

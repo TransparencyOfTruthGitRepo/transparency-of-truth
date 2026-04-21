@@ -1,0 +1,30 @@
+id: ocd-person/69441bf5-e98f-4872-8bf0-5bca86e3c258
+name: Judd Lawler
+given_name: Judd
+family_name: Lawler
+gender: Male
+email: judd.lawler@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37392
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '91'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37392
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37392
+other_names:
+- name: J. Lawler
+- name: Lawler, J.
+sources:
+- url: https://ballotpedia.org/Judd_Lawler
+- url: https://en.wikipedia.org/wiki/Judd_Lawler
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37392
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37392
+- url: https://www.linkedin.com/in/judd-lawler-0a97718

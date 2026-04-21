@@ -1,0 +1,40 @@
+id: ocd-person/0e4cb257-11b9-4772-b323-624ef28fb8b6
+name: Ben Barnes
+given_name: Ben
+family_name: Barnes
+birth_date: 1975-03-30
+gender: Male
+email: ben.barnes@house.maryland.gov
+image: https://mgaleg.maryland.gov/2025RS/images/barnes.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2007-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '21'
+offices:
+- classification: capitol
+  address: Room 121, Taylor House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3046
+  fax: 410-841-3346
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/barnes
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=barnes&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa14613.html
+other_names:
+- name: B. Barnes
+- name: B.S. Barnes
+- name: Barnes, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000241
+- scheme: legacy_openstates
+  identifier: MDL000476
+sources:
+- url: https://ballotpedia.org/Ben_Barnes
+- url: https://en.wikipedia.org/wiki/Benjamin_S._Barnes
+- url: https://justfacts.votesmart.org/candidate/biography/65935/ben-barnes
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/barnes
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=barnes&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa14613.html

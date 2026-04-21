@@ -1,0 +1,35 @@
+id: ocd-person/22e282f9-afbf-46b8-ac81-0780f5372d0d
+name: Mazzie Christensen
+given_name: Mazzie
+family_name: Christensen
+gender: Female
+email: mazzie.christensen@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2381
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '2'
+offices:
+- classification: capitol
+  address: Room 404-B, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-4285
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=002
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=002
+other_names:
+- name: Christensen, M.
+- name: M. Christensen
+- name: M.M. Christensen
+- name: Mazzie Boyd
+- name: Mazzie M. Christensen
+sources:
+- url: https://ballotpedia.org/Mazzie_Boyd
+- url: https://en.wikipedia.org/wiki/Mazzie_Boyd
+- url: https://house.mo.gov/MemberDetails.aspx?district=002
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=002
+- url: https://www.linkedin.com/in/mazzie-boyd-07028215a
+extras:
+  hometown: Bethany

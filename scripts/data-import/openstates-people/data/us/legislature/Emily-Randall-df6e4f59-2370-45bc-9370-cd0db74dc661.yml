@@ -1,0 +1,43 @@
+id: ocd-person/df6e4f59-2370-45bc-9370-cd0db74dc661
+name: Emily Randall
+given_name: Emily
+family_name: Randall
+birth_date: 1985-10-30
+gender: Female
+email: https://randall.house.gov/address_authentication?form=/contact/email-me
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WA-6
+offices:
+- classification: capitol
+  address: 1531 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-5916
+- classification: district
+  address: 1102 A St. Suite 326, Tacoma, WA 98402
+  voice: 253-272-3515
+- classification: district
+  address: 345 6th St., Suite 500, Bremerton, WA 98337
+  voice: 360-373-9725
+links:
+- url: https://randall.house.gov/
+other_names:
+- name: E. Randall
+- name: E.E. Randall
+- name: Randall, E.
+other_identifiers:
+- scheme: bioguide
+  identifier: R000621
+sources:
+- url: https://ballotpedia.org/Emily_Randall
+- url: https://electemilyrandall.com/about
+- url: https://emilyslist.org/candidate/emily-randall
+- url: https://en.wikipedia.org/wiki/Emily_Randall
+- url: https://justfacts.votesmart.org/candidate/biography/183038/emily-randall
+- url: https://lgbtequalitypac.org/candidates/emily-randall
+- url: https://randall.house.gov
+- url: https://www.linkedin.com/in/eerandall

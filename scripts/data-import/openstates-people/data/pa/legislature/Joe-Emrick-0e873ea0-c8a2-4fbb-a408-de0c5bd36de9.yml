@@ -1,0 +1,53 @@
+id: ocd-person/0e873ea0-c8a2-4fbb-a408-de0c5bd36de9
+name: Joe Emrick
+given_name: Joe
+family_name: Emrick
+gender: Male
+email: jemrick@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1207.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '137'
+offices:
+- classification: capitol
+  address: Room 401, Irvis Office Building P.O. Box 202137, Harrisburg, PA 17120
+  voice: 717-260-6159
+- classification: district
+  address: 134 S. Main St., Nazareth, PA 18064
+  voice: 610-746-5090
+- classification: district
+  address: 301 Village at Stones Crossing Road, Easton, PA 18045
+  voice: 484-544-0146
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1207
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1207/rep-emrick
+- url: https://www.repemrick.com/
+other_names:
+- name: Emrick, J.
+- name: J. Emrick
+- name: J.T. Emrick
+ids:
+  youtube: RepEmrick
+  facebook: RepEmrick
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000279
+- scheme: legacy_openstates
+  identifier: PAL000348
+sources:
+- url: https://ballotpedia.org/Joe_Emrick
+- url: https://en.wikipedia.org/wiki/Joe_Emrick
+- url: https://justfacts.votesmart.org/candidate/biography/47029/joe-emrick
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1207
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1207/rep-emrick
+- url: https://www.repemrick.com
+extras:
+  website: http://www.repemrick.com

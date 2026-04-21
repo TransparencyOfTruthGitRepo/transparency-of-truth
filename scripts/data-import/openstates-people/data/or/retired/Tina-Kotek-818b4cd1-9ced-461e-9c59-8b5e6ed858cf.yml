@@ -1,0 +1,28 @@
+id: ocd-person/818b4cd1-9ced-461e-9c59-8b5e6ed858cf
+name: Tina Kotek
+given_name: Tina
+family_name: Kotek
+email: Rep.TinaKotek@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/kotek/PublishingImages/Kotek%20Headshot%202021%20Cropped%20Small.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2022-01-21'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '44'
+  end_reason: Resigned to focus on gubernatorial campaign
+links:
+- url: https://www.oregonlegislature.gov/kotek
+- url: https://www.oregonlegislature.gov/kotek
+  note: homepage
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000066
+- scheme: legacy_openstates
+  identifier: ORL000157
+- scheme: legacy_openstates
+  identifier: ORL000300
+sources:
+- url: https://www.oregonlegislature.gov/kotek
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2021R1')/Legislators

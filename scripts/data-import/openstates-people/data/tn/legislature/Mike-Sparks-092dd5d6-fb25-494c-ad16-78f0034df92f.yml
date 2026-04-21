@@ -1,0 +1,61 @@
+id: ocd-person/092dd5d6-fb25-494c-ad16-78f0034df92f
+name: Mike Sparks
+given_name: Mike
+family_name: Sparks
+birth_date: 1967-01-11
+gender: Male
+email: rep.mike.sparks@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h49.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2010-11-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '49'
+offices:
+- classification: capitol
+  address: Room 532, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-6829
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H49
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H49
+- url: https://www.capitol.tn.gov/house/members/h49.html
+other_names:
+- name: M. Sparks
+- name: M.J. Sparks
+- name: Sparks, M
+- name: Sparks, M.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000116
+- scheme: legacy_openstates
+  identifier: TNL000245
+- scheme: legacy_openstates
+  identifier: TNL000346
+sources:
+- url: https://ballotpedia.org/Mike_Sparks_(Tennessee)
+- url: https://en.wikipedia.org/wiki/Mike_Sparks
+- url: https://justfacts.votesmart.org/candidate/biography/99698/mike-sparks
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H49
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H49
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h49.html
+- url: https://www.linkedin.com/in/mike-sparks-73783646
+extras:
+  office: 532 CHB
+  personal info:
+  - Born January 11, 1967
+  - Married for 34 years, with two children
+  - Baptist
+  - Business Owner, Business Consultant, Author, Entrepreneur, Publisher and Radio
+    Spokesperson
+  - CCIM Commercial Real Estate
+  - A.A. of Mass Communication, Motlow State Community College
+  - EMT, Volunteer State Community College
+  - Graduated Nashville School of Real Estate and Dale Carnegie Institute
+  - Graduated Middle Tennessee State University

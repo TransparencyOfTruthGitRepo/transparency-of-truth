@@ -1,0 +1,63 @@
+id: ocd-person/23dfc274-73d1-45df-b381-67e597cf0b84
+name: Bill Yearta
+given_name: Bill
+family_name: Yearta
+birth_date: 1958-06-22
+gender: Male
+email: bill.yearta@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/yearta-bill-4969.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-12-24
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '152'
+offices:
+- classification: capitol
+  address: Room 601-H, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0254
+- classification: district
+  address: 114 Carriage Lane, Sylvester, GA 31791
+  voice: 229-776-2047
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4969&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4969
+- url: https://www.legis.ga.gov/members/house/4969?session=1029
+- url: https://www.legis.ga.gov/members/house/4969?session=1031
+  note: HTML member detail page
+other_names:
+- name: B. Yearta
+- name: Bill Yearta
+- name: W.J. Yearta
+- name: William J. Yearta
+- name: YEARTA, 152ND
+- name: Yearta, B.
+sources:
+- url: https://ballotpedia.org/Bill_Yearta
+- url: https://en.wikipedia.org/wiki/Bill_Yearta
+- url: https://justfacts.votesmart.org/candidate/biography/187287/bill-yearta
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4969&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4969?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4969?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4969
+- url: https://www.legis.ga.gov/members/house/4969?session=1029
+extras:
+  residence: Sylvester
+  city: Sylvester
+  georgia_id: 4969
+  birthday: June 22
+  occupation: Business Man
+  press: https://house-press.com/representative/Bill-Yearta
+  spouse: Susan
+  staff: a href="
+  staff email: ''
+  title: Chairman, Code Revision

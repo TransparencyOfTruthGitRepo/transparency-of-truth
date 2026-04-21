@@ -1,0 +1,48 @@
+id: ocd-organization/e4e3f968-6147-4f7b-af6c-f72fe95a9aa3
+jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+classification: committee
+name: Economic and Workforce Development
+chamber: upper
+sources:
+- url: https://senate.mo.gov/Committees/CommitteeDetails/74
+  note: Committee Details Page
+- url: https://senate.mo.gov/Committees/CommitteeGroup/1
+  note: Committees List Page
+- url: https://www.senate.mo.gov/Committees/CommitteeDetails/74
+- url: https://www.senate.mo.gov/Committees/CommitteeDetails/85
+links:
+- url: https://senate.mo.gov/Committees/CommitteeDetails/74
+  note: homepage
+- url: https://senate.mo.gov/Committees/CommitteeGroup/1
+- url: https://www.senate.mo.gov/Committees/CommitteeDetails/74
+- url: https://www.senate.mo.gov/Committees/CommitteeDetails/85
+members:
+- name: Ben Brown
+  role: chair
+  person_id: ocd-person/c44ce433-7957-40b8-98dd-221b2f7d1436
+- name: Kurtis Gregory
+  role: vice chair
+  person_id: ocd-person/1ab01adf-962d-47ac-977c-2cf25712f583
+- name: Adam Schnelting
+  role: member
+  person_id: ocd-person/f436aa10-c006-4128-9748-050bf50c4e21
+- name: Barbara Washington
+  role: member
+  person_id: ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a
+- name: Curtis Trent
+  role: member
+  person_id: ocd-person/c5e38dee-7f82-4795-a134-b984b6878458
+- name: David Gregory
+  role: member
+  person_id: ocd-person/2f4b4782-bc17-40fd-88b7-53840c68ee3a
+- name: Patty Lewis
+  role: member
+  person_id: ocd-person/618e91b0-663d-4095-9a38-eefab6304e5f
+other_names:
+- name: Economic Development and Tax Policy
+- name: Senate Committee on Economic and Workforce Development
+- name: Senate Committee on Economic Development and Tax Policy
+- name: Senate Economic and Workforce Development
+- name: Senate Economic and Workforce Development Committee
+- name: Senate Economic Development and Tax Policy
+- name: Senate Economic Development and Tax Policy Committee

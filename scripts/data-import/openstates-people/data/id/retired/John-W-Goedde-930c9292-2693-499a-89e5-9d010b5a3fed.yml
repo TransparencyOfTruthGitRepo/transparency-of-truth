@@ -1,0 +1,21 @@
+id: ocd-person/930c9292-2693-499a-89e5-9d010b5a3fed
+name: John W. Goedde
+given_name: John
+family_name: Goedde
+middle_name: W.
+image: http://legislature.idaho.gov/images/Goedde85.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: '4'
+links:
+- url: http://legislature.idaho.gov/senate/membershipSingle.cfm?ID=85
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IDL000012
+sources:
+- url: http://legislature.idaho.gov/senate/membership.cfm

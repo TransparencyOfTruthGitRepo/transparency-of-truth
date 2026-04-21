@@ -1,0 +1,46 @@
+id: ocd-person/5bcd9ecd-d547-4336-aa69-b4b258085802
+name: Scott Meyer
+given_name: Scott
+family_name: Meyer
+gender: Male
+email: scottmeyer@ndlegis.gov
+image: https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/scottmeyer2023.jpg?itok=1CtjZ6FW
+party:
+- name: Republican
+roles:
+- start_date: 2016-12-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '18'
+offices:
+- classification: capitol-mail
+  address: State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505
+links:
+- url: https://ndlegis.gov/biography/scott-meyer
+- url: https://www.legis.nd.gov/assembly/65-2017/members/senate/senator-scott-meyer
+- url: https://www.legis.nd.gov/assembly/66-2019/members/senate/senator-scott-meyer
+- url: https://www.legis.nd.gov/assembly/67-2021/members/senate/senator-scott-meyer
+- url: https://www.ndlegis.gov/biography/scott-meyer
+other_names:
+- name: Meyer, S.
+- name: S. Meyer
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NDL000481
+sources:
+- url: https://ballotpedia.org/Scott_Meyer
+- url: https://en.wikipedia.org/wiki/Scott_Meyer_(politician)
+- url: https://ndlegis.gov/biography/scott-meyer
+- url: https://www.legis.nd.gov/assembly/65-2017/members/senate/senator-scott-meyer
+- url: https://www.legis.nd.gov/assembly/66-2019/members/senate/senator-scott-meyer
+- url: https://www.legis.nd.gov/assembly/67-2021/members/members-by-district
+- url: https://www.legis.nd.gov/assembly/67-2021/members/senate/senator-scott-meyer
+- url: https://www.linkedin.com/in/scott-meyer-52a55a33
+- url: https://www.ndlegis.gov/assembly/68-2023/regular/members?combine=&field_legis_chamber_target_id=All&field_legis_district_target_id=All&field_legislator_party_target_id=All&page=5
+  note: members list page
+- url: https://www.ndlegis.gov/assembly/68-2023/regular/members?page=5
+  note: members list page
+- url: https://www.ndlegis.gov/biography/scott-meyer
+  note: member details page
+extras:
+  cell: 218-791-7655

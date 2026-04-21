@@ -1,0 +1,33 @@
+id: ocd-person/230ed41f-56c1-459d-a66d-7ab0a3a8342b
+name: Rodney Pierce
+given_name: Rodney
+family_name: Pierce
+birth_date: 1978-10-05
+gender: Male
+email: rodney.pierce@ncleg.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/RodneyPierce2024.jpeg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '27'
+offices:
+- classification: capitol
+  address: Room 1421, North Carolina Legislative Building 16 W. Jones St., Raleigh,
+    NC 27601
+  voice: 919-733-5662
+- classification: district-mail
+  address: Room 1213, 16 W. Jones St., Raleigh, NC 27601
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/838
+other_names:
+- name: Pierce, R.
+- name: R. Pierce
+- name: R.D. Pierce
+sources:
+- url: https://ballotpedia.org/Rodney_Pierce
+- url: https://en.wikipedia.org/wiki/Rodney_D._Pierce
+- url: https://www.linkedin.com/in/rodney-d-pierce-0bb40b14
+- url: https://www.ncleg.gov/Members/Biography/H/838

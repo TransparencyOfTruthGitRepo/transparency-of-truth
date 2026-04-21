@@ -1,0 +1,62 @@
+id: ocd-person/5916e23e-c486-5d60-88c8-56bb65c23763
+name: Andy Ogles
+given_name: Andy
+family_name: Ogles
+birth_date: 1971-06-18
+gender: Male
+email: https://ogles.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/O000175.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TN-5
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TN-5
+offices:
+- classification: capitol
+  address: 151 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-4311
+- classification: district
+  address: 22 Public Square Suite 5, Columbia, TN 38401
+  voice: 931-777-2140
+links:
+- url: https://ogles.house.gov
+  note: website
+- url: https://ogles.house.gov/
+other_names:
+- name: A. Ogles
+- name: Andrew Ogles
+- name: Ogles, A.
+- name: W.A. Ogles
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Andy Ogles
+- scheme: bioguide
+  identifier: O000175
+- scheme: fec
+  identifier: H2TN05446
+- scheme: google_entity_id
+  identifier: kg:/g/11sw_sm6s3
+- scheme: govtrack
+  identifier: '456939'
+- scheme: opensecrets
+  identifier: N00050943
+- scheme: pictorial
+  identifier: '13253'
+- scheme: votesmart
+  identifier: '48673'
+- scheme: wikidata
+  identifier: Q111623114
+sources:
+- url: https://en.wikipedia.org/wiki/Andy_Ogles
+- url: https://ogles.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.linkedin.com/in/andyogles

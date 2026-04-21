@@ -1,0 +1,20 @@
+id: ocd-person/9564f755-1fb4-4433-b833-f8dbe493311a
+name: Suzette Raines
+given_name: Suzette
+family_name: Raines
+image: http://www.legis.state.wv.us/../images/members/2013/house/raines_suzette.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '35'
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Raines
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000182
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Raines

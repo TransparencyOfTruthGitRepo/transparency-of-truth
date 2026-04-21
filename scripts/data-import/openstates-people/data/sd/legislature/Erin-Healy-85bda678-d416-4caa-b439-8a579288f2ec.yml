@@ -1,0 +1,53 @@
+id: ocd-person/85bda678-d416-4caa-b439-8a579288f2ec
+name: Erin Healy
+given_name: Erin
+family_name: Healy
+gender: Female
+email: erin.healy@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Healy_2019.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '10'
+- start_date: 2019-01-08
+  end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '10'
+- end_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '14'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3851
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1624&Session=2019
+- url: https://sdlegislature.gov/Legislators/Profile/1800/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4368/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4612/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4759/Detail
+other_names:
+- name: E. Healy
+- name: Erin Healy
+- name: Erin K. Healy
+- name: Healy, E.
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/44f51d24-edf7-459e-aae3-f5ef71ce33a9
+sources:
+- url: https://ballotpedia.org/Erin_Healy
+- url: https://en.wikipedia.org/wiki/Erin_Healy
+- url: https://justfacts.votesmart.org/candidate/biography/180844/erin-healy
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1624&Session=2019
+- url: https://sdlegislature.gov/Legislators/Profile/1800/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4368/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4612/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4759/Detail
+- url: https://www.linkedin.com/in/erin-healy-1b566440
+extras:
+  occupation: Senior Marketing Analyst

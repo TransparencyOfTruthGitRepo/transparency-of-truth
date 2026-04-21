@@ -1,0 +1,68 @@
+id: ocd-person/acdaa5e6-3b22-44b9-8b47-480b801483dd
+name: Katrina Jackson-Andrews
+given_name: Katrina
+family_name: Jackson-Andrews
+gender: Female
+email: jacksonk@legis.la.gov
+image: https://senate.la.gov/SenatorPics/Sen34.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '34'
+- start_date: 2012-01-09
+  end_date: 2020-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '34'
+- end_date: 2020-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '16'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 4106 DeSiard St., Monroe, LA 71203
+  voice: 318-343-2877
+links:
+- url: https://senate.la.gov/smembers.aspx?ID=34
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=34
+other_names:
+- name: Jackson-Andrews, K.
+- name: K. Jackson-Andrews
+- name: K.R. Jackson-Andrews
+- name: Katrina Jackson
+- name: Katrina R. Jackson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000461
+- scheme: legacy_openstates
+  identifier: LAL000577
+- scheme: legacy_openstates
+  identifier: LAL000694
+- scheme: legacy_openstates
+  identifier: LAL000850
+sources:
+- url: https://ballotpedia.org/Katrina_Jackson
+- url: https://en.wikipedia.org/wiki/Katrina_Jackson
+- url: https://justfacts.votesmart.org/candidate/biography/134647/katrina-jackson
+- url: https://senate.la.gov/Senators_FullInfo
+- url: https://senate.la.gov/smembers.aspx?ID=34
+- url: https://senate.la.gov/smembers?ID=34
+extras:
+  legislative assistant: Allison Johnson
+  representing parishes:
+  - Concordia
+  - East Carroll
+  - Madison
+  - Morehouse
+  - Ouachita
+  - Richland
+  - Tensas
+  education: University of Louisiana at Monroe, B.A.; Southern University Law Center,
+    J.D.

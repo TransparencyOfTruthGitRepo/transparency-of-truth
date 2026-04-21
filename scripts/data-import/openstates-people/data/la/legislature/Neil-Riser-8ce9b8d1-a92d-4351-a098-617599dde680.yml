@@ -1,0 +1,69 @@
+id: ocd-person/8ce9b8d1-a92d-4351-a098-617599dde680
+name: Neil Riser
+given_name: Neil
+family_name: Riser
+birth_date: 1962-04-25
+gender: Male
+email: risern@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep20.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '20'
+- start_date: 2008-01-14
+  end_date: 2020-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '20'
+- end_date: 2020-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '32'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district-mail
+  address: P.O. Box 117, Columbia, LA 71418
+  voice: 318-649-0977
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=20
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=20
+- url: https://senate.la.gov/senators/senpage.asp?SenID=32
+other_names:
+- name: H.N. Riser
+- name: N. Riser
+- name: Riser, N.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000278
+- scheme: legacy_openstates
+  identifier: LAL000314
+- scheme: legacy_openstates
+  identifier: LAL000514
+- scheme: legacy_openstates
+  identifier: LAL000764
+- scheme: openstates
+  identifier: ocd-person/9f9a3efc-f8fe-4424-80e3-ee7bcce79814
+sources:
+- url: https://ballotpedia.org/Neil_Riser
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=20
+- url: https://house.louisiana.gov/H_Reps/members?ID=20
+- url: https://justfacts.votesmart.org/candidate/biography/93593/neil-riser
+- url: https://senate.la.gov/senators/senpage.asp?SenID=32
+- url: https://www.linkedin.com/in/neil-riser-7a523220
+extras:
+  legislative assistant: Annette McGuffee
+  representing parishes:
+  - Caldwell
+  - Catahoula
+  - Franklin
+  - LaSalle
+  - and Tensas
+  education: Caldwell Parish High School, 1980; Northeast Louisiana University, Business
+    Management, 1984

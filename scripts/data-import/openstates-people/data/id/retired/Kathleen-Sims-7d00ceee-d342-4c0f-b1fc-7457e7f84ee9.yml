@@ -1,0 +1,20 @@
+id: ocd-person/7d00ceee-d342-4c0f-b1fc-7457e7f84ee9
+name: Kathleen Sims
+given_name: Kathleen
+family_name: Sims
+image: http://legislature.idaho.gov/images/Sims1172.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: '4'
+links:
+- url: http://legislature.idaho.gov/house/membershipSingle.cfm?ID=1172
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IDL000094
+sources:
+- url: http://legislature.idaho.gov/house/membership.cfm

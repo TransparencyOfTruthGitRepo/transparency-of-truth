@@ -1,0 +1,36 @@
+id: ocd-person/7fda8e36-f73d-43e2-bf43-8365c617d94e
+name: Chris Poulos
+given_name: Chris
+family_name: Poulos
+gender: Male
+email: chris.poulos@cga.ct.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '81'
+offices:
+- classification: capitol
+  address: Room 4111, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://www.housedems.ct.gov/poulos
+- url: https://www.housedems.ct.gov/Poulos
+other_names:
+- name: C. Poulos
+- name: C.J. Poulos
+- name: Christopher Poulos
+- name: Poulos, C.
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Christopher_Poulos
+- url: https://en.wikipedia.org/wiki/Chris_Poulos
+- url: https://justfacts.votesmart.org/candidate/biography/199626/christopher-poulos
+- url: https://www.housedems.ct.gov/Poulos
+extras:
+  gender: Male
+  committees: Commerce; Education; Veterans' and Military Affairs
+  committee codes: ;CE;ED;VA;
+  prison: '0'

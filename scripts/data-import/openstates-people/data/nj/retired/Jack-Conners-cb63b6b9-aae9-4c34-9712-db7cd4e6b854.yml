@@ -1,0 +1,17 @@
+id: ocd-person/cb63b6b9-aae9-4c34-9712-db7cd4e6b854
+name: Jack Conners
+given_name: Jack
+family_name: Conners
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2011-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '7'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000021
+sources:
+- url: ftp://www.njleg.state.nj.us/ag/2008data/ROSTER.DBF

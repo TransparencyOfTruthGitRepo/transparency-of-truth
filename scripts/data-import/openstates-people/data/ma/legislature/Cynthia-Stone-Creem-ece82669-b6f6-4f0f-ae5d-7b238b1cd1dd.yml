@@ -1,0 +1,61 @@
+id: ocd-person/ece82669-b6f6-4f0f-ae5d-7b238b1cd1dd
+name: Cynthia Creem
+given_name: Cynthia
+family_name: Creem
+birth_date: 1942-09-17
+gender: Female
+email: cynthia.creem@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/CSC0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Norfolk and Middlesex
+- start_date: 1999-01-06
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Norfolk and Middlesex
+- end_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: First Middlesex and Norfolk
+offices:
+- classification: capitol
+  address: Room 312-A, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1639
+links:
+- url: https://malegislature.gov/Legislators/Profile/CSC0
+- url: https://www.senatorcindycreem.com/
+other_names:
+- name: C. Creem
+- name: C.S. Creem
+- name: Creem, C.
+- name: Cynthia Stone Creem
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000008
+- scheme: legacy_openstates
+  identifier: MAL000249
+- scheme: legacy_openstates
+  identifier: MAL000286
+- scheme: legacy_openstates
+  identifier: MAL000585
+sources:
+- url: https://ballotpedia.org/Cynthia_Stone_Creem
+- url: https://en.wikipedia.org/wiki/Cynthia_Stone_Creem
+- url: https://justfacts.votesmart.org/candidate/biography/18877/cindy-creem
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/CSC0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/CSC0
+- url: https://malegislature.gov/Legislators/Profile/CSC0
+- url: https://www.linkedin.com/in/judithmckinnon
+- url: https://www.senatorcindycreem.com
+extras:
+  leadership position: Majority Leader
+  member code: CSC0

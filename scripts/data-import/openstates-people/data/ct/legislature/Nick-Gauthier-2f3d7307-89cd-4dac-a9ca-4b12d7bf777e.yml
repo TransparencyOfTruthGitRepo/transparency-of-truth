@@ -1,0 +1,29 @@
+id: ocd-person/2f3d7307-89cd-4dac-a9ca-4b12d7bf777e
+name: Nick Gauthier
+given_name: Nick
+family_name: Gauthier
+birth_date: 1987-02-23
+gender: Male
+email: nick.gauthier@cga.ct.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/NickGauthier.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '38'
+offices:
+- classification: capitol
+  address: Room 4055, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://www.housedems.ct.gov/Gauthier
+other_names:
+- name: Gauthier, N.
+- name: N. Gauthier
+sources:
+- url: https://ballotpedia.org/Nick_Gauthier
+- url: https://www.housedems.ct.gov/Gauthier
+- url: https://www.housedems.ct.gov/Gauthier/Biography
+- url: https://www.linkedin.com/in/nicholasgauthier

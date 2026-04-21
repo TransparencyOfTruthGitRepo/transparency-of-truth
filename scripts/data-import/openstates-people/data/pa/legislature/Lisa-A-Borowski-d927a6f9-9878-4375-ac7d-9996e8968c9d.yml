@@ -1,0 +1,45 @@
+id: ocd-person/d927a6f9-9878-4375-ac7d-9996e8968c9d
+name: Lisa Borowski
+given_name: Lisa
+family_name: Borowski
+gender: Female
+email: repborowski@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/1977.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '168'
+offices:
+- classification: capitol
+  address: Room 28B, East Wing P.O. Box 202168, Harrisburg, PA 17120
+  voice: 717-772-2005
+- classification: district
+  address: 24 S. Newtown St. Road Suite 100, Newtown Square, PA 19073
+  voice: 484-427-2884
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1977
+  note: homepage
+- url: https://www.pahouse.com/borowski/
+- url: https://www.palegis.us/house/members/bio/1977/rep-borowski
+other_names:
+- name: Borowski, L.
+- name: L. Borowski
+- name: L.C. Borowski
+- name: Lisa A. Borowski
+ids:
+  twitter: RepBorowski
+  facebook: RepBorowski
+sources:
+- url: https://ballotpedia.org/Lisa_Borowski
+- url: https://en.wikipedia.org/wiki/Lisa_Borowski
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1977
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.pahouse.com/borowski
+- url: https://www.palegis.us/house/members/bio/1977/rep-borowski
+extras:
+  Education:
+  - Radnor High School, 1984
+  - Drexel University, 1989, BS Communications

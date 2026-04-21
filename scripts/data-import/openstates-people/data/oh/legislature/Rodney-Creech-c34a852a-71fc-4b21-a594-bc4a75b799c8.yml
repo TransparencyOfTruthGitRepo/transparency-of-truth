@@ -1,0 +1,39 @@
+id: ocd-person/c34a852a-71fc-4b21-a594-bc4a75b799c8
+name: Rodney Creech
+given_name: Rodney
+family_name: Creech
+birth_date: 1976-06-30
+gender: Male
+email: rep40@ohiohouse.gov
+image: https://www.legislature.ohio.gov/assets/people/rodney-creech/headshots/thumbnails/medium/rodney-creech-january-2021-headshot_medium.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '40'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '43'
+offices:
+- classification: capitol
+  address: 77 S. High St. 12th Floor, Columbus, OH 43215
+  voice: 614-466-2960
+links:
+- url: https://ohiohouse.gov/members/rodney-creech
+- url: https://ohiohouse.gov/rodney-creech
+other_names:
+- name: Creech, R.
+- name: R. Creech
+- name: R.L. Creech
+sources:
+- url: https://ballotpedia.org/Rodney_Creech
+- url: https://en.wikipedia.org/wiki/Rodney_Creech
+- url: https://justfacts.votesmart.org/candidate/161959/rodney-creech
+- url: https://ohiohouse.gov/members/rodney-creech
+  note: member details page
+- url: https://ohiohouse.gov/rodney-creech
+- url: https://www.legislature.ohio.gov/legislators/house-directory
+  note: member list page

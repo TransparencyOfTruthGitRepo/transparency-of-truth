@@ -1,0 +1,47 @@
+id: ocd-person/13771198-ddf4-4dfd-80f1-b4069ec55914
+name: Jon Cardin
+given_name: Jon
+family_name: Cardin
+birth_date: 1970-01-12
+gender: Male
+email: jon.cardin@house.maryland.gov
+image: http://mgaleg.maryland.gov/2019RS/images/cardin01.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 11B
+- start_date: 2003-01-08
+  end_date: 2015-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 11B
+- start_date: 2019-01-09
+  end_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 11B
+- end_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '11'
+offices:
+- classification: capitol
+  address: Room 426, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3054
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/cardin01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=cardin01&stab=01
+other_names:
+- name: Cardin, J.
+- name: J. Cardin
+- name: J.S. Cardin
+- name: Jon S. Cardin
+sources:
+- url: https://ballotpedia.org/Jon_Cardin
+- url: https://en.wikipedia.org/wiki/Jon_S._Cardin
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/cardin01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=cardin01&stab=01
+- url: https://www.linkedin.com/in/jon-c-0879ab1

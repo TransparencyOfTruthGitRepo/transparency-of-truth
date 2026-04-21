@@ -1,0 +1,28 @@
+id: ocd-person/4dca2d65-7b85-4c5b-832c-6098c3b0cace
+name: Ken Goodman
+given_name: Ken
+family_name: Goodman
+image: http://www.ncleg.net/House/pictures/hiRes/614.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2019-04-18'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '66'
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/614
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000205
+sources:
+- url: https://www.ncleg.gov/Members/Biography/H/614
+extras:
+  counties:
+  - Hoke
+  - Montgomery
+  - Richmond
+  - Robeson
+  - Scotland
+  - Stanly
+  notice: null

@@ -1,0 +1,57 @@
+id: ocd-person/d6a3a052-3fb3-4dce-9ce0-074852fb2612
+name: Willis Curdy
+given_name: Willis
+family_name: Curdy
+gender: Male
+email: willis.curdy@legmt.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '49'
+- start_date: 2015-01-05
+  end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '49'
+- end_date: 2022-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '98'
+offices:
+- classification: capitol
+  address: Capitol Building, 1301 E. 6th Ave. P.O. Box 200500, Helena, MT 59620
+  voice: 406-444-4800
+- classification: district
+  address: 11280 Kona Ranch Road, Missoula, MT 59804
+  voice: 406-728-0981
+links:
+- url: https://leg.mt.gov/legislator-information/roster/individual/4840
+  note: legislator page
+- url: https://leg.mt.gov/legislator-information/roster/individual/5157
+- url: https://leg.mt.gov/legislator-information/roster/individual/6879
+- url: https://leg.mt.gov/legislator-information/roster/individual/7490
+- url: https://legislators.legmt.gov/#/legislator/91
+- url: https://www.legmt.gov/legislators/1272/
+other_names:
+- name: Curdy, W.
+- name: Curdy, Willis
+- name: W. Curdy
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MTL000349
+sources:
+- url: https://ballotpedia.org/Willis_Curdy
+- url: https://en.wikipedia.org/wiki/Willis_Curdy
+- url: https://justfacts.votesmart.org/candidate/biography/109827/willis-curdy
+- url: https://leg.mt.gov/legislator-information/?session_select=111
+  note: legislator list page
+- url: https://leg.mt.gov/legislator-information/?session_select=113
+- url: https://leg.mt.gov/legislator-information/roster/individual/5157
+- url: https://leg.mt.gov/legislator-information/roster/individual/6879
+- url: https://leg.mt.gov/legislator-information/roster/individual/7490
+- url: https://legislators.legmt.gov/#/legislator/91
+- url: https://www.legmt.gov/legislators/1272
+- url: https://www.linkedin.com/in/willis-curdy-57246825

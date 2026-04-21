@@ -1,0 +1,30 @@
+id: ocd-person/fb8f35c6-65a4-42d0-9009-3def6dcc62cb
+name: Steve Bunker
+given_name: Steve
+family_name: Bunker
+gender: Male
+email: stephan.bunker@legislature.maine.gov
+image: https://dailybulldog.com/wp-content/uploads/2024/01/SteveB2-300x300.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-12-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '75'
+offices:
+- classification: capitol
+  address: Room 333, House Democratic Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/3124
+- url: https://www.maine.gov/housedems/node/4081
+other_names:
+- name: Bunker, S.
+- name: S. Bunker
+- name: Stephan BUNKER
+sources:
+- url: https://ballotpedia.org/Stephan_Bunker
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/3124
+- url: https://www.linkedin.com/in/stephan-bunker-19023a6b
+- url: https://www.maine.gov/housedems/node/4081

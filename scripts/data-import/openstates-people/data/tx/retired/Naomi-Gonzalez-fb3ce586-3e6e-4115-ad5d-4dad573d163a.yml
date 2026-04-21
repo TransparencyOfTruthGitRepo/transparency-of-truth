@@ -1,0 +1,20 @@
+id: ocd-person/fb3ce586-3e6e-4115-ad5d-4dad573d163a
+name: Naomi Gonzalez
+given_name: Naomi
+family_name: Gonzalez
+image: http://www.legdir.legis.state.tx.us/FlashCardDocs/images/House/small/A2095.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '76'
+links:
+- url: http://www.legdir.legis.state.tx.us/MemberInfo.aspx?Chamber=H&Code=A2095
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000382
+sources:
+- url: http://www.legdir.legis.state.tx.us/MemberInfo.aspx?Chamber=H&Code=A2095

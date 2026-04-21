@@ -1,0 +1,24 @@
+id: ocd-person/206ece70-6ffb-4f49-8836-62c9909412e4
+name: John Maher
+given_name: John
+family_name: Maher
+image: http://www.legis.state.pa.us/images/members/200/55.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-01'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '40'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000154
+- scheme: legacy_openstates
+  identifier: PAL000377
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=55
+extras:
+  youtube: https://youtube.com/RepMaher

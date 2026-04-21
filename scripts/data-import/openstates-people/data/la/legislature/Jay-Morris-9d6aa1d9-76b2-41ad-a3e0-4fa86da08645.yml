@@ -1,0 +1,82 @@
+id: ocd-person/9d6aa1d9-76b2-41ad-a3e0-4fa86da08645
+name: Jay Morris
+given_name: Jay
+family_name: Morris
+birth_date: 1958-05-24
+gender: Male
+email: morrisjc@legis.la.gov
+image: https://senate.la.gov/SenatorPics/Sen35.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '35'
+- start_date: 2012-01-09
+  end_date: 2020-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '35'
+- start_date: 2012-01-12
+  end_date: 2020-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '14'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 1408 N. 7th St., West Monroe, LA 71291
+  voice: 318-362-4270
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=14
+- url: https://senate.la.gov/smembers.aspx?ID=35
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=35
+other_names:
+- name: J. Morris
+- name: J.C. Morris
+- name: Jay Morris
+- name: John C. "Jay" Morris
+- name: John C. "Jay" Morris III
+- name: John C. "Jay" Morris, III
+- name: Morris, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000245
+- scheme: legacy_openstates
+  identifier: LAL000596
+- scheme: legacy_openstates
+  identifier: LAL000468
+- scheme: legacy_openstates
+  identifier: LAL000597
+- scheme: legacy_openstates
+  identifier: LAL000713
+- scheme: legacy_openstates
+  identifier: LAL000776
+- scheme: legacy_openstates
+  identifier: LAL000873
+- scheme: openstates
+  identifier: ocd-person/909b1fb2-9cff-4eb4-aeb9-3135ecf1dc64
+sources:
+- url: https://ballotpedia.org/Jay_Morris
+- url: https://en.wikipedia.org/wiki/Jay_Morris
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=14
+- url: https://justfacts.votesmart.org/candidate/biography/134583/jay-morris-iii
+- url: https://senate.la.gov/Senators_FullInfo
+- url: https://senate.la.gov/smembers.aspx?ID=35
+- url: https://senate.la.gov/smembers?ID=35
+- url: https://www.linkedin.com/in/jay-morris-67192426
+extras:
+  second phone: (855)594-4086
+  legislative assistant: Katie May
+  representing parishes:
+  - Grant
+  - Jackson
+  - Lincoln
+  - Ouachita
+  - Rapides
+  - and Winn
+  education: Louisiana State University, B.A., 1980; LSU Law School, J.D., 1983

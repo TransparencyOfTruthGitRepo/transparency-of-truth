@@ -1,0 +1,21 @@
+id: ocd-person/302f33f4-cb09-4070-99dc-8de971c38dd8
+name: Kermit Brown
+given_name: Kermit
+family_name: Brown
+image: http://legisweb.state.wy.us/LegislatorSummary/photos/BrownKH14.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '14'
+links:
+- url: http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=882
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000038
+sources:
+- url: http://legisweb.state.wy.us/LegislatorSummary/LegislatorList.aspx?strHouse=H&strStatus=N
+- url: http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=882

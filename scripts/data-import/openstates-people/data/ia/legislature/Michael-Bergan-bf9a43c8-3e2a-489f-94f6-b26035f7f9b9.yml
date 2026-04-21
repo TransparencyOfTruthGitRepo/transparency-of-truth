@@ -1,0 +1,48 @@
+id: ocd-person/bf9a43c8-3e2a-489f-94f6-b26035f7f9b9
+name: Michael Bergan
+given_name: Michael
+family_name: Bergan
+birth_date: 1962-08-16
+gender: Male
+email: michael.bergan@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18044
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '63'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '55'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://iowa.us4.list-manage.com/subscribe?u=cda8d4cec739450efbb093a0a&id=09e9bff453
+- url: https://iowahouserepublicans.nationbuilder.com/reps
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=18044
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=18044
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=18044
+other_names:
+- name: Bergan, M.
+- name: M. Bergan
+- name: M.R. Bergan
+- name: Michael R. Bergan
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IAL000539
+sources:
+- url: https://ballotpedia.org/Michael_Bergan
+- url: https://en.wikipedia.org/wiki/Michael_Bergan
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=18044
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=18044
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=18044
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=18044
+extras:
+  home email: berganmr@gmail.com
+  occupation: Accountant

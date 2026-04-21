@@ -1,0 +1,25 @@
+id: ocd-person/02445b3b-6ffb-40ab-801b-a18ba275e447
+name: Don L. Tripp
+given_name: Don
+family_name: Tripp
+middle_name: L.
+image: http://www.nmlegis.gov/lcs/graphics/photos/HTRIP.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '49'
+links:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HTRIP
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000091
+- scheme: legacy_openstates
+  identifier: NML000260
+- scheme: legacy_openstates
+  identifier: NML000321
+sources:
+- url: http://www.nmlegis.gov/Members/Legislator?SponCode=HTRIP

@@ -1,0 +1,17 @@
+id: ocd-person/2a93ba76-209b-4cb7-a9f4-08992a6cb870
+name: Arthur Williams
+given_name: Arthur
+family_name: Williams
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '6'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000177
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/memberList.pl?sChamber=House

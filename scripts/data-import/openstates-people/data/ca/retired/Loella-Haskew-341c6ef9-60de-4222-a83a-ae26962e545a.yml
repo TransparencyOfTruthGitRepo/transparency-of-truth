@@ -1,0 +1,13 @@
+id: ocd-person/341c6ef9-60de-4222-a83a-ae26962e545a
+name: Loella Haskew
+given_name: Loella
+family_name: Haskew
+email: mayor@walnut-creek.org
+roles:
+- end_date: '2020-12-01'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/place:walnut_creek/government
+offices:
+- classification: primary
+  address: 1666 North Main Street;Walnut Creek, CA 94596
+  voice: 925-256-3504

@@ -1,0 +1,19 @@
+id: ocd-person/56c11236-d2d8-4011-b36c-0dda65fe4c27
+name: Roy Chris Jr.
+given_name: Roy
+family_name: Chris
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2011-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '25'
+links:
+- url: http://house.louisiana.gov/H_Reps/members.asp?ID=25
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000428
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.asp?ID=25

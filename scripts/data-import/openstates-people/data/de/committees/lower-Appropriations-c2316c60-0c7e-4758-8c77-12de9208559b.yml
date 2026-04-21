@@ -1,0 +1,38 @@
+id: ocd-organization/c2316c60-0c7e-4758-8c77-12de9208559b
+jurisdiction: ocd-jurisdiction/country:us/state:de/government
+classification: committee
+name: Appropriations
+chamber: lower
+sources:
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=583
+  note: Member list page
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=625
+- url: https://legis.delaware.gov/json/Committees/GetCommitteesByTypeId?ga=
+  note: Committee json data
+links:
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=583
+  note: homepage
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=625
+members:
+- name: Kim Williams
+  role: chair
+  person_id: ocd-person/80dfa709-d199-4950-a067-2dafc40241b9
+- name: Stephanie Bolden
+  role: vice chair
+  person_id: ocd-person/3ad8467d-5ec5-4626-aab5-11e42b62ad60
+- name: Charles Postles
+  role: member
+  person_id: ocd-person/4f6f337c-16e7-4d39-a503-6b4b36650d2d
+- name: Danny Short
+  role: member
+  person_id: ocd-person/947a912f-49e7-4697-896e-fbcd1bcf41d3
+- name: Krista Griffith
+  role: member
+  person_id: ocd-person/0dc99b9c-115c-4da0-81b1-22aa5b6750e0
+- name: Nnamdi Chukwuocha
+  role: member
+  person_id: ocd-person/fdf8cd7b-933f-469b-b1b7-119b39ba5e86
+other_names:
+- name: House Appropriations
+- name: House Appropriations Committee
+- name: House Committee on Appropriations

@@ -1,0 +1,72 @@
+id: ocd-person/a37a3f66-83a2-4a7e-90e3-8de41be7262d
+name: John Velis
+given_name: John
+family_name: Velis
+birth_date: 1979-01-26
+gender: Male
+email: john.velis@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/jcv1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Hampden and Hampshire
+- start_date: 2020-05-28
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Hampden and Hampshire
+- start_date: 2014-04-16
+  end_date: 2020-05-27
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Hampden and Hampshire
+- start_date: 2013-01-01
+  end_date: 2020-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 4th Hampden
+- end_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Second Hampden and Hampshire
+offices:
+- classification: capitol
+  address: Room 513, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1415
+links:
+- url: https://malegislature.gov/Legislators/Profile/JCV0
+- url: https://malegislature.gov/Legislators/Profile/jcv1
+- url: https://senatorjohnvelis.com/
+other_names:
+- name: J. Velis
+- name: J.C. Velis
+- name: John C. Velis
+- name: John Christopher Velis
+- name: Velis, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000504
+- scheme: legacy_openstates
+  identifier: MAL000326
+- scheme: legacy_openstates
+  identifier: MAL000380
+- scheme: openstates
+  identifier: ocd-person/39ec435b-538e-4110-aa18-ee0de255e045
+sources:
+- url: https://ballotpedia.org/John_C._Velis
+- url: https://en.wikipedia.org/wiki/John_Velis
+- url: https://justfacts.votesmart.org/candidate/biography/150304/john-velis
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/JCV0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/JCV0
+- url: https://malegislature.gov/Legislators/Profile/JCV0
+- url: https://malegislature.gov/Legislators/Profile/jcv1
+- url: https://senatorjohnvelis.com
+extras:
+  member code: JCV0

@@ -1,0 +1,44 @@
+id: ocd-person/7467e822-4c62-4cd2-b8e1-6f72a9204fce
+name: Timi Brown-Powers
+given_name: Timi
+family_name: Brown-Powers
+gender: Female
+email: timi.brown-powers@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=14805
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '61'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://eepurl.com/gXSzO1
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=14805
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=14805
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=14805
+- url: https://www.timiforiowa.com/
+other_names:
+- name: Brown-Powers, T.
+- name: T. Brown-Powers
+- name: T.M. Brown-Powers
+- name: Timi Brown-Powers
+- name: Timi M. Brown-Powers
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IAL000510
+sources:
+- url: https://ballotpedia.org/Timi_Brown-Powers
+- url: https://en.wikipedia.org/wiki/Timi_Brown-Powers
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=14805
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=14805
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=14805
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=14805
+- url: https://www.linkedin.com/in/timi-brown-powers-333a62122
+extras:
+  occupation: Therapist

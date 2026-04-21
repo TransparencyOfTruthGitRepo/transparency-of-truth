@@ -1,0 +1,22 @@
+id: ocd-person/ada3a774-dcc5-4e77-8f69-0cf51cd48e48
+name: "Angel R. Mart\xEDnez Santiago"
+given_name: Angel
+family_name: "Mart\xEDnez Santiago"
+email: anmartinez@senado.pr.gov
+image: https://senado.pr.gov/PublishingImages/Senadores/senador-11.jpg
+party:
+- name: Partido Nuevo Progresista
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: III
+links:
+- url: https://senado.pr.gov/Pages/Senators/HON--ANGEL-R--MARTINEZ-SANTIAGO.aspx
+other_names:
+- name: "\xC1ngel R. Mart\xEDnez Santiago"
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PRL000302
+sources:
+- url: https://senado.pr.gov/Pages/Senators/HON--ANGEL-R--MARTINEZ-SANTIAGO.aspx

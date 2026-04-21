@@ -1,0 +1,68 @@
+id: ocd-organization/a09b0a5e-5e84-4594-9500-d458df1cec3a
+jurisdiction: ocd-jurisdiction/country:us/state:al/government
+classification: committee
+name: County and Municipal Government
+chamber: lower
+sources:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: Committee list api call
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/HouseCommittees.aspx
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=2619&COMMITTEE=County%20and%20Municipal%20Government
+links:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=2619&COMMITTEE=County%20and%20Municipal%20Government
+  note: homepage
+members:
+- name: Reed Ingram
+  role: chair
+  person_id: ocd-person/bd08d7a5-b1f3-484f-80c1-bddf2d636413
+- name: Troy Stubbs
+  role: vice chair
+  person_id: ocd-person/82715f9c-12a1-4e99-8020-a47b37dfa92b
+- name: Barbara Boyd
+  role: ranking member
+  person_id: ocd-person/a1033b9f-f53e-46b8-ab4e-508d87e0d8e8
+- name: Adline Clarke
+  role: member
+  person_id: ocd-person/4cb1aeb5-d822-4f2c-a7e6-ae2a132acf17
+- name: Ben Harrison
+  role: member
+  person_id: ocd-person/a2413268-fe7d-4a14-839c-14e9723da23a
+- name: Danny Crawford
+  role: member
+  person_id: ocd-person/749e2cb2-e087-4920-aea3-b40d28f56db5
+- name: David Standridge
+  role: member
+  person_id: ocd-person/0efb60b3-60e6-4248-a264-41a2a1d35036
+- name: Frances Holk-Jones
+  role: member
+  person_id: ocd-person/3bc2e263-71cf-41e2-80c5-3f97cad999ff
+- name: Jennifer Fidler
+  role: member
+  person_id: ocd-person/48d9f4e1-ec8b-4353-9207-a70db34449a9
+- name: Kelvin Datcher
+  role: member
+  person_id: ocd-person/441922a8-63c1-498b-9de5-f5ee85d9dcf3
+- name: Kristin Nelson
+  role: member
+  person_id: ocd-person/730c7d27-9f0a-4a8b-839b-8de86f6b012e
+- name: Matthew Hammett
+  role: member
+  person_id: ocd-person/ff14c161-755d-44c8-a1e5-c2e3930a5317
+- name: Sam Jones
+  role: member
+  person_id: ocd-person/1c825e04-ad1e-4009-a8d8-157abc001f3e
+- name: Steve Hurst
+  role: member
+  person_id: ocd-person/4f0a4d5d-b27a-4f33-b394-f27d306f8a42
+other_names:
+- name: House Committee on County and Municipal Government
+- name: House County and Municipal Government
+- name: House County and Municipal Government Committee
+extras:
+  Clerk: Mary Ruth Davis
+  Phone: (334) 261-0478
+  Email: maryruth.davis@alhouse.gov
+  Room: Room 415

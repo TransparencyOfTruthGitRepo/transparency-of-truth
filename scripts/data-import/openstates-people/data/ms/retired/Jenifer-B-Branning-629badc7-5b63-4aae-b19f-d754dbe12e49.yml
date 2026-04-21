@@ -1,0 +1,45 @@
+id: ocd-person/629badc7-5b63-4aae-b19f-d754dbe12e49
+name: Jenifer Branning
+given_name: Jenifer
+family_name: Branning
+birth_date: 1979-03-13
+gender: Female
+email: branning@senate.ms.gov
+image: http://billstatus.ls.state.ms.us/members/senate/branning.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-01-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '18'
+  end_date: 2025-01-23
+offices: []
+links:
+- url: https://billstatus.ls.state.ms.us/members/senate/branning.xml
+  note: homepage
+other_names:
+- name: Branning, J.
+- name: J. Branning
+- name: J.B. Branning
+- name: Jenifer B. Branning
+- name: Jenifer Burrage Branning
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000278
+sources:
+- url: https://ballotpedia.org/Jenifer_B._Branning
+- url: https://billstatus.ls.state.ms.us/members/senate/branning.xml
+- url: https://billstatus.ls.state.ms.us/members/ss_membs.xml
+- url: https://en.wikipedia.org/wiki/Jenifer_Branning
+- url: https://justfacts.votesmart.org/candidate/biography/156316/jenifer-branning
+- url: https://www.linkedin.com/in/jenifer-branning-b9260b35
+extras:
+  education:
+  - Leake Academy;
+  - MS State University; BA in Business Administration, attended MBA program
+  - MS College School of Law, Juris Doctor 2004
+  counties represented:
+  - Leake
+  - Neshoba
+  - Winston

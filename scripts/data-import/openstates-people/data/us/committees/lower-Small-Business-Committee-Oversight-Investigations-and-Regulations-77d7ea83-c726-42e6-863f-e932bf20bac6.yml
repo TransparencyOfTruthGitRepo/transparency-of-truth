@@ -1,0 +1,51 @@
+id: ocd-organization/77d7ea83-c726-42e6-863f-e932bf20bac6
+jurisdiction: ocd-jurisdiction/country:us/government
+classification: subcommittee
+name: Small Business Committee Oversight, Investigations and Regulations
+chamber: lower
+sources:
+- url: https://smallbusiness.house.gov/subcommittees/subcommittee/default.aspx?SubcommitteeID=71808
+parent: ocd-organization/d8493969-3cc2-560c-81f6-b2093487656d
+links:
+- url: https://smallbusiness.house.gov/subcommittees/subcommittee/default.aspx?SubcommitteeID=71808
+members:
+- name: Mark Alford
+  role: chair
+  person_id: ocd-person/baf62641-318a-58be-bb76-f7c6aeb97684
+- name: "Nydia Vel\xE1zquez"
+  role: ex officio
+  person_id: ocd-person/bc18d350-32b2-5e37-8b43-6f85ae9b5b09
+- name: Roger Williams
+  role: ex officio
+  person_id: ocd-person/e77e9595-b0fb-5923-a051-9f3221d8d6a9
+- name: Derek Tran
+  role: ranking member
+  person_id: ocd-person/f1c19dd9-8fe6-43ce-bdd6-97a4932b1694
+- name: Beth Van Duyne
+  role: member
+  person_id: ocd-person/861bd195-d8aa-5e72-9699-4f5ad3d5e499
+- name: Brad Finstad
+  role: member
+  person_id: ocd-person/bc26b71a-566f-57fd-9d5b-23bc27e4c4a4
+- name: Gil Cisneros
+  role: member
+  person_id: ocd-person/1161700f-b50d-4f08-a23a-90b26cf16066
+- name: Jimmy Patronis
+  role: member
+  person_id: ocd-person/56debc15-1264-42b2-9073-c35fd62e15f1
+- name: LaMonica McIver
+  role: member
+  person_id: ocd-person/026068b4-d78d-4221-80cb-27c17bd1d46f
+- name: Lateefah Simon
+  role: member
+  person_id: ocd-person/aa578bb8-0e69-45d5-ba94-d52d6043caf1
+- name: Maggie Goodlander
+  role: member
+  person_id: ocd-person/7f3ecabb-1b8c-4330-bf91-403a2b3a034f
+other_names:
+- name: House Committee on Small Business Subcommittee on Oversight, Investigations,
+    and Regulations
+- name: House Small Business Committee Oversight, Investigations and Regulations
+- name: House Small Business Committee Oversight, Investigations and Regulations Subcommittee
+- name: House Subcommittee on Small Business Committee Oversight, Investigations and
+    Regulations

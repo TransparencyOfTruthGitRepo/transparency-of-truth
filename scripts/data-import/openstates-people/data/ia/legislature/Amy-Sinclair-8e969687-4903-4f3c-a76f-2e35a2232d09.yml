@@ -1,0 +1,50 @@
+id: ocd-person/8e969687-4903-4f3c-a76f-2e35a2232d09
+name: Amy Sinclair
+given_name: Amy
+family_name: Sinclair
+gender: Female
+email: amy.sinclair@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10729
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '12'
+- end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '14'
+offices:
+- classification: capitol
+  address: 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-725-4122
+links:
+- url: https://www.iowasenaterepublicans.com/senators/amy-sinclair/
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10729
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=10729
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=10729
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=10729
+other_names:
+- name: A. Sinclair
+- name: A.J. Sinclair
+- name: Sinclair, A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IAL000215
+sources:
+- url: https://ballotpedia.org/Amy_Sinclair
+- url: https://en.wikipedia.org/wiki/Amy_Sinclair
+- url: https://iowasenaterepublicans.com/senators/amy-sinclair
+- url: https://justfacts.votesmart.org/candidate/biography/85793/amy-sinclair
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10729
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=10729
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=10729
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=10729
+- url: https://www.legis.iowa.gov/legislators/senate
+- url: https://www.linkedin.com/in/amy-sinclair-20927670
+extras:
+  home address: 1255 King Rd, Allerton, IA 50008
+  cell phone: 641.870.0199
+  capitol phone: 515.281.3371

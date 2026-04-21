@@ -1,0 +1,31 @@
+id: ocd-person/0ed1d7f1-1471-4055-b674-582bf19c28b3
+name: Amy Nielsen
+given_name: Amy
+family_name: Nielsen
+gender: Female
+email: amy.nielsen@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18050
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '85'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://eepurl.com/gXNTL1
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=18050
+other_names:
+- name: A. Nielsen
+- name: Nielsen, A.
+sources:
+- url: https://ballotpedia.org/Amy_Nielsen
+- url: https://en.wikipedia.org/wiki/Amy_Nielsen
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=18050
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=18050
+- url: https://www.linkedin.com/in/amy-nielsen-150183b2

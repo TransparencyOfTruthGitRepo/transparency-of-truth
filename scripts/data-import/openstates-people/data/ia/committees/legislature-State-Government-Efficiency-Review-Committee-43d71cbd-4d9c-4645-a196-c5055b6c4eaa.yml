@@ -1,0 +1,42 @@
+id: ocd-organization/43d71cbd-4d9c-4645-a196-c5055b6c4eaa
+jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+classification: committee
+name: State Government Efficiency Review
+chamber: legislature
+sources:
+- url: https://www.legis.iowa.gov/committees
+  note: Committee list page
+- url: https://www.legis.iowa.gov/committees/committee?endYear=2023&groupID=578
+- url: https://www.legis.iowa.gov/committees/committee?endYear=2024&groupID=578
+- url: https://www.legis.iowa.gov/committees/committee?endYear=2025&groupID=41017
+- url: https://www.legis.iowa.gov/committees/committee?groupID=41017&
+links:
+- url: https://www.legis.iowa.gov/committees/committee?endYear=2023&groupID=578
+  note: homepage
+- url: https://www.legis.iowa.gov/committees/committee?endYear=2024&groupID=578
+  note: homepage
+- url: https://www.legis.iowa.gov/committees/committee?endYear=2025&groupID=41017
+- url: https://www.legis.iowa.gov/committees/committee?groupID=41017&
+members:
+- name: Jane Bloomingdale
+  role: co-chair
+  person_id: ocd-person/37952941-d329-4c96-8458-654fa495ec76
+- name: Ken Rozenboom
+  role: co-chair
+  person_id: ocd-person/1cfc824d-740a-4e35-a4e2-3728e2d43056
+- name: Amy Nielsen
+  role: member
+  person_id: ocd-person/0ed1d7f1-1471-4055-b674-582bf19c28b3
+- name: Charley Thomson
+  role: member
+  person_id: ocd-person/1a5372b1-e23d-4877-a614-a32f552c58b4
+- name: Cindy Winckler
+  role: member
+  person_id: ocd-person/84279bc7-04df-475e-8d6f-9f9703c73101
+- name: Jason Schultz
+  role: member
+  person_id: ocd-person/32126238-17ce-4338-923a-3867b6517039
+other_names:
+- name: Joint Committee on State Government Efficiency Review
+- name: Joint State Government Efficiency Review
+- name: Joint State Government Efficiency Review Committee

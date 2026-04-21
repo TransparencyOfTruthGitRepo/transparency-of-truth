@@ -1,0 +1,37 @@
+id: ocd-organization/24684999-9543-4027-b10b-465320a4a16b
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Housing
+chamber: upper
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: homepage
+members:
+- name: Rod Hickman
+  role: chair
+  person_id: ocd-person/eb5bde8b-1497-4a27-9806-128cf68cb00d
+- name: Joel Carter
+  role: vice chair
+  person_id: ocd-person/cc55837a-0a3e-4bcf-8255-b8786fc2b43f
+- name: Jason Barrett
+  role: member
+  person_id: ocd-person/c664f98f-0d57-4d32-abf1-a95dcec7fa31
+- name: Jeff Tate
+  role: member
+  person_id: ocd-person/9839c663-7ae3-4437-82d8-c985975309d8
+- name: Johnny DuPree
+  role: member
+  person_id: ocd-person/b05ddbc1-7d61-4f78-bbd3-e0f9ea4de84a
+- name: Sarita Simmons
+  role: member
+  person_id: ocd-person/f1012c43-9559-4f7a-8b70-8dd9cf88bab1
+- name: Walter Michel
+  role: member
+  person_id: ocd-person/61c65e25-07c9-445c-8cef-1e6d53cbbfb3
+other_names:
+- name: Senate Committee on Housing
+- name: Senate Housing
+- name: Senate Housing Committee

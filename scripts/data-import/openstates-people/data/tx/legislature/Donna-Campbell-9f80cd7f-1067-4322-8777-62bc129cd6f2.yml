@@ -1,0 +1,38 @@
+id: ocd-person/9f80cd7f-1067-4322-8777-62bc129cd6f2
+name: Donna Campbell
+given_name: Donna
+family_name: Campbell
+birth_date: 1954-09-09
+gender: Female
+email: donna.campbell@senate.texas.gov
+image: https://senate.texas.gov/members/d25/img/headshot.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '25'
+offices:
+- classification: capitol
+  address: Room 3E.18, P.O. Box 12068 Capitol Station, Austin, TX 78711
+  voice: 512-463-0125
+- classification: district
+  address: 229 Hunters Village Suite 105, New Braunfels, TX 78132
+  voice: 830-626-0065
+links:
+- url: https://senate.texas.gov/member.php?d=25
+other_names:
+- name: Campbell, D.
+- name: Campbell, Donna
+- name: D. Campbell
+- name: D.S.B. Campbell
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000419
+sources:
+- url: https://ballotpedia.org/Donna_Campbell
+- url: https://en.wikipedia.org/wiki/Donna_Campbell
+- url: https://justfacts.votesmart.org/candidate/biography/116916/donna-campbell
+- url: https://senate.texas.gov/member.php?d=25
+- url: https://www.linkedin.com/in/donna-campbell-05ba0315

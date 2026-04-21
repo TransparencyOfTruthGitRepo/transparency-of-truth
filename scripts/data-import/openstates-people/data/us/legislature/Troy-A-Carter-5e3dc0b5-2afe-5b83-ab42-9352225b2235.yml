@@ -1,0 +1,90 @@
+id: ocd-person/5e3dc0b5-2afe-5b83-ab42-9352225b2235
+name: Troy Carter
+given_name: Troy
+family_name: Carter
+birth_date: 1963-10-26
+gender: Male
+email: https://troycarter.house.gov/contact
+image: https://unitedstates.github.io/images/congress/450x550/C001125.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-05-11
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: LA-2
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: LA-2
+- start_date: 2021-05-11
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: LA-2
+offices:
+- classification: capitol
+  address: 442 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-6636
+  fax: 202-225-1988
+- classification: district
+  address: 3401 General DeGaulle Drive Suite 100, New Orleans, LA 70114
+  voice: 504-381-3970
+- classification: district
+  address: 615 E. Worthy St. Room 107, Gonzales, LA 70737
+- classification: district
+  address: 650 Poydras St., Suite 2525, New Orleans, LA 70130
+  voice: 504-288-3777
+- classification: district
+  address: 6803 Press Drive Suite 166, New Orleans, LA 70126
+- classification: district
+  address: Gretna Courthouse 200 Derbigny St., Suite 3200, Gretna, LA 70053
+  voice: 504-381-3999
+- classification: district
+  address: River Parishes Community College 125 Regala Park Road, Suite K135, Reserve,
+    LA 70084
+- classification: district
+  address: River Parishes Community College Gonzales Technical Training Center, Room
+    T117 925 W. Edenborne Parkway, Gonzales, LA 70737
+links:
+- url: https://troycarter.house.gov
+  note: website
+- url: https://troycarter.house.gov/
+other_names:
+- name: Carter, T.
+- name: T. Carter
+- name: T.A. Carter
+- name: Troy A. Carter
+ids:
+  twitter: RepTroyCarter
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Troy Carter
+- scheme: bioguide
+  identifier: C001125
+- scheme: fec
+  identifier: H2LA02149
+- scheme: govtrack
+  identifier: '456860'
+- scheme: opensecrets
+  identifier: N00025766
+- scheme: pictorial
+  identifier: '13070'
+- scheme: votesmart
+  identifier: '35462'
+- scheme: wikidata
+  identifier: Q7846787
+- scheme: wikipedia
+  identifier: Troy Carter (politician)
+sources:
+- url: https://ballotpedia.org/Troy_Carter
+- url: https://en.wikipedia.org/wiki/Troy_Carter_%28New_Orleans%29
+- url: https://justfacts.votesmart.org/candidate/biography/35462/troy-carter
+- url: https://troycarter.house.gov
+- url: https://troycarter.house.gov/about
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/troy_carter/456860
+- url: https://www.linkedin.com/in/troy-a-carter-579015121

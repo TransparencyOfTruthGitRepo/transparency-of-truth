@@ -1,0 +1,46 @@
+id: ocd-person/ac9d319c-4df3-489a-890e-f7daba8c4bda
+name: Mary Isaacson
+given_name: Mary
+family_name: Isaacson
+birth_date: 1970-11-15
+gender: Female
+email: misaacson@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/1857.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2018-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '175'
+offices:
+- classification: capitol
+  address: Room 300, Main Capitol Building P.O. Box 202175, Harrisburg, PA 17120
+  voice: 717-783-8098
+- classification: district
+  address: 610 N. 2nd St., Philadelphia, PA 19123
+  voice: 215-503-3245
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1857
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.pahouse.com/isaacson
+- url: https://www.palegis.us/house/members/bio/1857/rep-isaacson
+other_names:
+- name: Isaacson, M.
+- name: M. Isaacson
+- name: MaryLouise Isaacson
+ids:
+  twitter: RepMaryIsaacson
+  youtube: playlist?list=PLjtqNtfs0bgVb5i89inOtrRfz1Y1OEzcQ
+  facebook: RepMaryIsaacson
+sources:
+- url: https://ballotpedia.org/MaryLouise_Isaacson
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1857
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/mary-isaacson-92543118
+- url: https://www.pahouse.com/isaacson
+- url: https://www.palegis.us/house/members/bio/1857/rep-isaacson
+extras:
+  website: http://www.pahouse.com/isaacson

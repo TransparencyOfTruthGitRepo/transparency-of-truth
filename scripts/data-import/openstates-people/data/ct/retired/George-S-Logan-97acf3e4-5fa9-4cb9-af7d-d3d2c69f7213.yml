@@ -1,0 +1,21 @@
+id: ocd-person/97acf3e4-5fa9-4cb9-af7d-d3d2c69f7213
+name: George S. Logan
+given_name: George
+family_name: Logan
+email: George.Logan@cga.ct.gov
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '17'
+links:
+- url: http://www.ctsenaterepublicans.com/home-Logan
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000319
+- scheme: legacy_openstates
+  identifier: CTL000352
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

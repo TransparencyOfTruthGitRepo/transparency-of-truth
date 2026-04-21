@@ -1,0 +1,49 @@
+id: ocd-person/4854b313-26e5-49a3-8095-76298f96ced3
+name: Lucius Parshall
+given_name: Lucius
+family_name: Parshall
+gender: Male
+email: lucius.parshall@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/93774.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 8
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 8
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 10
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9874
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9874
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9874
+  note: member detail page
+other_names:
+- name: L. Parshall
+- name: Parshall, L.
+sources:
+- url: https://ballotpedia.org/Lucius_Parshall
+- url: https://en.wikipedia.org/wiki/Lucius_Parshall
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9874
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9874
+- url: https://justfacts.votesmart.org/candidate/194850/lucius-parshall
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9874
+extras:
+  county: Cheshire
+  elected status: Incumbent
+  gender code: M

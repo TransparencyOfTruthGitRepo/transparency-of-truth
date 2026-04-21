@@ -1,0 +1,36 @@
+id: ocd-person/7d5691be-08ff-4684-978d-81aaa8bdd99b
+name: Jessica Bahmuller
+given_name: Jessica
+family_name: Bahmuller
+gender: Female
+email: jessica.bahmuller@sdlegislature.gov
+image: https://gray-ksfy-prod.cdn.arcpublishing.com/resizer/uVfdl5DqYxBK5BAgVB1sNda9-dw=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/XEYMZWQPXBGYFJAKREMXYXNXCI.png
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '19'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3851
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/4441/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4475/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4582/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4735/Detail
+other_names:
+- name: Bahmuller, J.
+- name: J. Bahmuller
+sources:
+- url: https://ballotpedia.org/Jessica_Bahmuller
+- url: https://en.wikipedia.org/wiki/Jessica_Bahmuller
+- url: https://justfacts.votesmart.org/candidate/biography/191515/jessica-bahmuller
+- url: https://sdlegislature.gov/Legislators/Profile/4441/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4475/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4582/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4735/Detail
+extras:
+  occupation: Municipal Finance Officer

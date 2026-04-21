@@ -1,0 +1,34 @@
+id: ocd-organization/ef14ca7a-36b0-4105-8c5e-43762197effc
+jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+classification: committee
+name: Rules and Enrolled Bills
+chamber: upper
+sources:
+- url: https://gc.nh.gov/Senate/committees/committee_details.aspx?cc=1328
+- url: https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=1328
+  note: Committee details page
+- url: https://www.gencourt.state.nh.us/Senate/committees/senate_committees.aspx
+  note: Committees list page
+links:
+- url: https://gc.nh.gov/Senate/committees/committee_details.aspx?cc=1328
+- url: https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=1328
+members:
+- name: Kevin Avard
+  role: chair
+  person_id: ocd-person/b99b0bbb-4710-43c7-a6b5-0e04524eedf0
+- name: Sharon Carson
+  role: vice chair
+  person_id: ocd-person/00964fc0-dd57-44c3-87bf-b6d5bbc34560
+- name: Cindy Rosenwald
+  role: member
+  person_id: ocd-person/f3e949ce-6d98-4826-bbca-08039cea4ea4
+- name: Rebecca Perkins Kwoka
+  role: member
+  person_id: ocd-person/c20b7693-7f2c-4646-af7f-d57518edd1a4
+- name: Ruth Ward
+  role: member
+  person_id: ocd-person/9089a509-1f26-4770-adc6-199ed716e692
+other_names:
+- name: Senate Committee on Rules and Enrolled Bills
+- name: Senate Rules and Enrolled Bills
+- name: Senate Rules and Enrolled Bills Committee

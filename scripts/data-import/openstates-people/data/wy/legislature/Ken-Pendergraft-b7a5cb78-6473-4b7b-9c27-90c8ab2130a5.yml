@@ -1,0 +1,51 @@
+id: ocd-person/b7a5cb78-6473-4b7b-9c27-90c8ab2130a5
+name: Ken Pendergraft
+given_name: Ken
+family_name: Pendergraft
+gender: Male
+email: ken.pendergraft@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-PendergraftKen.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '29'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district
+  address: 459 W. Burkitt St., Sheridan, WY 82801
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/H/2103
+- url: https://www.wyoleg.gov/Legislators/2025/H/2103
+- url: https://wyoleg.gov/Legislators/2021/R/2103
+  note: homepage
+other_names:
+- name: K. Pendergraft
+- name: Pendergraft, K
+- name: Pendergraft, K.
+sources:
+- url: https://ballotpedia.org/Ken_Pendergraft
+- url: https://en.wikipedia.org/wiki/Ken_Pendergraft
+- url: https://justfacts.votesmart.org/candidate/194538/ken-pendergraft
+- url: https://www.linkedin.com/in/ken-pendergraft-544a8210
+- url: https://www.wyoleg.gov/Legislators/2023/H/2103
+- url: https://www.wyoleg.gov/Legislators/2025/H/2103
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2103
+extras:
+  county: Sheridan County
+  religion: Christian
+  spouse name: Diane
+  number of children: '3'
+  number of grandchildren: '9'
+  birth place: Casper, Wyoming
+  occupation: Contractor/Home builder
+  house years: 'House:  2023-Present'
+  prior service:
+  - chamber: House
+    startYear: 2023
+    endYear: Present
+    district: ' District 29, '

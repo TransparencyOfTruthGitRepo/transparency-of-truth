@@ -1,0 +1,48 @@
+id: ocd-person/04eec23c-719e-46b1-ae56-f34de9207e8c
+name: Guy Guzzone
+given_name: Guy
+family_name: Guzzone
+birth_date: 1964-03-27
+gender: Male
+email: guy.guzzone@senate.maryland.gov
+image: http://mgaleg.maryland.gov/2020RS/images/guzzone.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '13'
+- start_date: 2007-01-10
+  end_date: 2015-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '13'
+offices:
+- classification: capitol
+  address: Room 3 West, Miller Senate Office Building 11 Bladen St., Annapolis, MD
+    21401
+  voice: 410-841-3572
+  fax: 410-841-3455
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/guzzone
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=guzzone&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa14619.html
+other_names:
+- name: G. Guzzone
+- name: G.J. Guzzone
+- name: Guzzone, G.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000285
+- scheme: legacy_openstates
+  identifier: MDL000519
+- scheme: legacy_openstates
+  identifier: MDL000639
+sources:
+- url: https://ballotpedia.org/Guy_Guzzone
+- url: https://en.wikipedia.org/wiki/Guy_Guzzone
+- url: https://justfacts.votesmart.org/candidate/biography/66528/guy-guzzone
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/guzzone
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=guzzone&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa14619.html

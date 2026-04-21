@@ -1,0 +1,20 @@
+id: ocd-person/b96adf76-7f1b-4f4c-a01b-9529d1e7a135
+name: Harvey Fillingane
+given_name: Harvey
+family_name: Fillingane
+image: http://billstatus.ls.state.ms.us/members/house/fillingane.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2008-01-01'
+  end_date: '2011-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '101'
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/fillingane.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000138
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/fillingane.xml

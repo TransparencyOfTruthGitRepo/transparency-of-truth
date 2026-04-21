@@ -1,0 +1,39 @@
+id: ocd-person/015d0cf4-9742-4050-8084-a62be4107f2e
+name: Tim O'Driscoll
+given_name: Tim
+family_name: O'Driscoll
+birth_date: 1964-04-22
+gender: Male
+email: rep.tim.odriscoll@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/13B.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 13B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-7808
+links:
+- url: https://www.house.mn.gov/members/profile/15364
+other_names:
+- name: O'Driscoll, T.
+- name: T. O'Driscoll
+- name: T.J. O'Driscoll
+- name: Timothy J. O'Driscoll
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000325
+- scheme: legacy_openstates
+  identifier: MNL000457
+- scheme: legacy_openstates
+  identifier: MNL000587
+sources:
+- url: https://ballotpedia.org/Tim_O%27Driscoll
+- url: https://en.wikipedia.org/wiki/Tim_O%27Driscoll
+- url: https://justfacts.votesmart.org/candidate/biography/123119/tim-odriscoll
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15364

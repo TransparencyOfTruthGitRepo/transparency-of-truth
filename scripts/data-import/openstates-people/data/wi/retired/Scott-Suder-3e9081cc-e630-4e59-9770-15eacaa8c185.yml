@@ -1,0 +1,20 @@
+id: ocd-person/3e9081cc-e630-4e59-9770-15eacaa8c185
+name: Scott Suder
+given_name: Scott
+family_name: Suder
+image: http://legis.wisconsin.gov/sitecollectionimages/2013/asm69.jpeg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '69'
+links:
+- url: http://legis.wisconsin.gov/Pages/leg-info.aspx?d=69&h=A
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000428
+sources:
+- url: http://legis.wisconsin.gov/Pages/leg-info.aspx?d=69&h=A

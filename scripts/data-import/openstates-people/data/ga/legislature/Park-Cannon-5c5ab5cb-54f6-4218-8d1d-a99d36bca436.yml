@@ -1,0 +1,64 @@
+id: ocd-person/5c5ab5cb-54f6-4218-8d1d-a99d36bca436
+name: Park Cannon
+given_name: Park
+family_name: Cannon
+birth_date: 1991-06-06
+gender: Female
+email: park.cannon@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/cannon-park-4880.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2016-02-22
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '58'
+offices:
+- classification: capitol
+  address: Room 607-H, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0287
+- classification: district
+  address: '931 Monroe Drive NE Suite 102 #460, Atlanta, GA 30308'
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4880&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4880
+- url: https://www.legis.ga.gov/members/house/4880?session=1029
+- url: https://www.legis.ga.gov/members/house/4880?session=1031
+  note: HTML member detail page
+other_names:
+- name: CANNON, 58TH
+- name: Cannon, P.
+- name: P. Cannon
+- name: P.E. Cannon
+- name: Park Cannon
+- name: Park Elizabeth Cannon
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000440
+sources:
+- url: https://ballotpedia.org/Park_Cannon
+- url: https://en.wikipedia.org/wiki/Park_Cannon
+- url: https://justfacts.votesmart.org/candidate/biography/168251/park-cannon
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4880&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4880?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4880?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4880
+- url: https://www.legis.ga.gov/members/house/4880?session=1029
+- url: https://www.linkedin.com/in/parkcannon
+extras:
+  residence: Atlanta
+  city: Atlanta
+  georgia_id: 4880
+  occupation: Health Advocate
+  press: https://house-press.com/representative/Park-Cannon
+  staff: Jennifer Clark - Administrative Assistant
+  staff email: jennifer.clark@house.ga.gov
+  title: Minority Caucus Secretary

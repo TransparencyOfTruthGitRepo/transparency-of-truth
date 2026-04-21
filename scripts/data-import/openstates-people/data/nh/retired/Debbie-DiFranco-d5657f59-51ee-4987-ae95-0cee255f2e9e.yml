@@ -1,0 +1,19 @@
+id: ocd-person/d5657f59-51ee-4987-ae95-0cee255f2e9e
+name: Debbie DiFranco
+given_name: Debbie
+family_name: DiFranco
+party:
+- name: Democratic
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 27
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377290
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001114
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377290

@@ -1,0 +1,66 @@
+id: ocd-person/5b47c889-e555-4d3c-9b30-97d52ee02960
+name: Stuart Adams
+given_name: Stuart
+family_name: Adams
+gender: Male
+email: jsadams@le.utah.gov
+image: https://le.utah.gov/images/legislator/ADAMSJS.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '7'
+- end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '22'
+offices:
+- classification: capitol
+  address: P.O. Box 145115 350 N. State St., Suite 320, Salt Lake City, UT 84114
+  voice: 801-538-1035
+links:
+- url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1408736
+  note: finance report
+- url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=ADAMSJS
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2020/Senate_Dist22.pdf
+  note: district demographics
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/Senate_Dist07.pdf
+  note: district demographics
+- url: https://le.utah.gov/senate/CofI/COFIADAMSJS.pdf
+  note: conflict of interest 1
+- url: https://le.utah.gov/senate/CofI/COFIADAMSJS2.pdf
+  note: conflict of interest 0
+- url: https://senate.utah.gov/sen/ADAMSJS/
+  note: homepage
+- url: https://senate.utah.gov/stuart-adams
+other_names:
+- name: Adams, J. S.
+- name: Adams, J. Stuart
+- name: Adams, S.
+- name: Adams, Stuart
+- name: J. Stuart Adams
+- name: J.S. Adams
+- name: S. Adams
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: UTL000001
+- scheme: legacy_openstates
+  identifier: UTL000250
+sources:
+- url: https://ballotpedia.org/Stuart_Adams
+- url: https://en.wikipedia.org/wiki/J._Stuart_Adams
+- url: https://justfacts.votesmart.org/candidate/biography/50400/stuart-adams
+- url: https://le.utah.gov/data/legislators.json
+- url: https://senate.utah.gov/sen/ADAMSJS
+- url: https://senate.utah.gov/sen/ADAMSJS/
+extras:
+  service start: '2010'
+  profession: Businessman
+  education: B.A., Business Finance, University of Utah
+  counties represented:
+  - Davis
+  home phone: 801-593-1776
+  title: President

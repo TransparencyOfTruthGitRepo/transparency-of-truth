@@ -1,0 +1,29 @@
+id: ocd-person/b261b6a8-cb30-4808-b750-df2e7963d6c8
+name: Dave Sires
+given_name: Dave
+family_name: Sires
+gender: Male
+email: dave.sires@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37464
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '38'
+offices:
+- classification: capitol
+  address: 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3371
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37464
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37464
+other_names:
+- name: D. Sires
+- name: D.E. Sires
+- name: Sires, D.
+sources:
+- url: https://ballotpedia.org/Dave_Sires
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37464
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37464

@@ -1,0 +1,47 @@
+id: ocd-organization/fef783c0-fe61-4075-b78e-10db522db159
+jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+classification: committee
+name: Taxation
+chamber: upper
+sources:
+- url: https://committees.legmt.gov/#/standingCommittees/21
+- url: https://laws.leg.mt.gov/legprd/LAW0240W$CMTE.ActionQuery?P_SESS=20231&P_COM_NM=%28S%29+Taxation&P_ACTN_DTM=&U_ACTN_DTM=&Z_ACTION2=Find
+  note: Committee membership page
+- url: https://laws.leg.mt.gov/legprd/LAW0240W$CMTE.ActionQuery?P_SESS=20231&P_COM_NM=%28S%29+Taxation&P_ACTN_DTM=&U_ACTN_DTM=&Z_ACTION2=Find#sh_table
+- url: https://laws.leg.mt.gov/legprd/law0240w$cmte.startup
+  note: Committee list page
+links:
+- url: https://committees.legmt.gov/#/standingCommittees/21
+- url: https://laws.leg.mt.gov/legprd/LAW0240W$CMTE.ActionQuery?P_SESS=20231&P_COM_NM=%28S%29+Taxation&P_ACTN_DTM=&U_ACTN_DTM=&Z_ACTION2=Find
+  note: homepage
+- url: https://laws.leg.mt.gov/legprd/LAW0240W$CMTE.ActionQuery?P_SESS=20231&P_COM_NM=%28S%29+Taxation&P_ACTN_DTM=&U_ACTN_DTM=&Z_ACTION2=Find#sh_table
+- url: https://leg.mt.gov/committees/session-committees
+members:
+- name: Greg Hertz
+  role: chair
+  person_id: ocd-person/e085c6ea-bb53-4daf-8a02-5268818158bd
+- name: Becky Beard
+  role: vice chair
+  person_id: ocd-person/f87d7b76-3065-48f4-bc3b-50bf00926180
+- name: Dave Fern
+  role: vice chair
+  person_id: ocd-person/9c542cad-1c8f-4dfd-b41f-12468fd2d806
+- name: Mary Ann Dunwell
+  role: member
+  person_id: ocd-person/3e82bb94-a815-40d2-b125-b9884517b1c3
+- name: Mike Yakawich
+  role: member
+  person_id: ocd-person/3b95ca27-a496-4781-8fda-7d98db846f50
+- name: Pat Flowers
+  role: member
+  person_id: ocd-person/4877fdac-4a93-4654-ad03-1b3038145c69
+- name: Wendy McKamey
+  role: member
+  person_id: ocd-person/8f827a3b-16fe-4e09-bad0-c3e29c73d9c8
+- name: Wylie Galt
+  role: member
+  person_id: ocd-person/4b0e74d3-19ae-449e-b712-ac96d2c1a165
+other_names:
+- name: Senate Committee on Taxation
+- name: Senate Taxation
+- name: Senate Taxation Committee

@@ -1,0 +1,57 @@
+id: ocd-person/94a511d8-31ee-4f7d-9227-005b143f9c47
+name: Dean Jeffries
+given_name: Dean
+family_name: Jeffries
+birth_date: 1971-09-29
+gender: Male
+email: dean.jeffries@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2022/house/jeffries_dean.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '61'
+- start_date: 2018-09-07
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '61'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '40'
+offices:
+- classification: capitol
+  address: State Capitol Room 221E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3149
+- classification: district
+  address: 207 Leo Drive, Elkview, WV 25071
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Jeffries
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Jeffries%2C+D.
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jeffries
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jeffries,%20D.
+  note: homepage
+other_names:
+- name: D. Jeffries
+- name: Jeffries, D
+- name: Jeffries, D.
+- name: W. Jeffries
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000399
+sources:
+- url: https://ballotpedia.org/Dean_Jeffries
+- url: https://en.wikipedia.org/wiki/Dean_Jeffries_(politician)
+- url: https://justfacts.votesmart.org/candidate/177753/dean-jeffries
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Jeffries
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Jeffries%2C+D.
+- url: https://www.linkedin.com/in/dean-jeffries-b5216565
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jeffries
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jeffries,%20D.
+- url: https://www.wvlegislature.gov/House/roster.cfm
+extras:
+  title: Assistant Majority Whip

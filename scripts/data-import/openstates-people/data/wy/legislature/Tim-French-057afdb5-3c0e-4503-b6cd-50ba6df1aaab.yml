@@ -1,0 +1,52 @@
+id: ocd-person/057afdb5-3c0e-4503-b6cd-50ba6df1aaab
+name: Tim French
+given_name: Tim
+family_name: French
+gender: Male
+email: tim.french@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-FrenchTim.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '18'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 574, Ralston, WY 82440
+  voice: 307-202-1785
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/S/2067
+- url: https://www.wyoleg.gov/Legislators/2025/S/2067
+- url: https://wyoleg.gov/Legislators/2021/R/2067
+other_names:
+- name: French, T
+- name: French, T.
+- name: T. French
+sources:
+- url: https://ballotpedia.org/Tim_French
+- url: https://en.wikipedia.org/wiki/Tim_French
+- url: https://justfacts.votesmart.org/candidate/100304/tim-french
+- url: https://www.wyoleg.gov/Legislators/2023/S/2067
+- url: https://www.wyoleg.gov/Legislators/2025/S/2067
+- url: https://wyoleg.gov/Legislators/2021/R/2067
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2067
+extras:
+  county: Park County
+  religion: Christian
+  spouse name: Becky
+  number of children: '2'
+  number of grandchildren: '5'
+  birth place: Cody, WY
+  occupation: Farmer
+  senate years: 'Senate: 2021-Present'
+  prior service:
+  - chamber: Senate
+    startYear: 2021
+    endYear: Present
+    district: ' District 18, '

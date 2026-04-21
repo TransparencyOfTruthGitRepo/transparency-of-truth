@@ -1,0 +1,34 @@
+id: ocd-person/b44045eb-e2fb-4723-9e91-d68fb55c0bf7
+name: Sheila Lieder
+given_name: Sheila
+family_name: Lieder
+gender: Female
+email: sheila.lieder.house@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_lieder%2Csheila.jpg?itok=eytxsbcE
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '28'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-2939
+links:
+- url: https://leg.colorado.gov/legislators/sheila-lieder
+  note: homepage
+other_names:
+- name: Lieder S.
+- name: Lieder, S.
+- name: S. Lieder
+sources:
+- url: https://ballotpedia.org/Sheila_Lieder
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/sheila-lieder
+- url: https://www.linkedin.com/in/sheilalieder
+extras:
+  counties represented:
+  - Jefferson

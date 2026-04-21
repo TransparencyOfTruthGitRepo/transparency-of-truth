@@ -1,0 +1,61 @@
+id: ocd-person/1ac93f89-f367-4de3-82ba-79fa78d4d134
+name: Chuck Payne
+given_name: Chuck
+family_name: Payne
+birth_date: 1964-12-22
+gender: Male
+email: chuck.payne@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/payne-chuck--4909.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-18
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '54'
+offices:
+- classification: capitol
+  address: State Capitol Room 432, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-5080
+- classification: district-mail
+  address: P.O. Box 1074, Dalton, GA 30722
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/4909
+- url: https://www.legis.ga.gov/members/senate/4909?session=1029
+- url: https://www.legis.ga.gov/members/senate/4909?session=1031
+  note: HTML member detail page
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4909&Session=27
+other_names:
+- name: C. Payne
+- name: C.F. Payne
+- name: Charles Payne
+- name: Chuck Payne
+- name: PAYNE, 54TH
+- name: Payne, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000475
+sources:
+- url: https://ballotpedia.org/Chuck_Payne
+- url: https://en.wikipedia.org/wiki/Chuck_Payne
+- url: https://justfacts.votesmart.org/candidate/biography/176008/chuck-payne
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.legis.ga.gov/api/members/detail/4909?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4909?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/4909
+- url: https://www.legis.ga.gov/members/senate/4909?session=1029
+- url: https://www.linkedin.com/in/chuck-payne-47282663
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4909&Session=27
+extras:
+  residence: 'Dalton '
+  city: Dalton
+  georgia_id: 4909
+  press: 'https://senatepress.net/category/senate-press/chuck-payne '
+  staff: Phyllis Williams
+  staff email: phyllis.williams@senate.ga.gov

@@ -1,0 +1,48 @@
+id: ocd-person/810d9aeb-b666-4acc-b098-deaf265df277
+name: Sam McKenzie
+given_name: Sam
+family_name: McKenzie
+birth_date: 1965-10-26
+gender: Male
+email: rep.sam.mckenzie@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h15.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-11-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '15'
+offices:
+- classification: capitol
+  address: Room 512, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-0768
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H15
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h15.html
+other_names:
+- name: McKenzie, S
+- name: McKenzie, S.
+- name: S. McKenzie
+sources:
+- url: https://ballotpedia.org/Sam_McKenzie
+- url: https://en.wikipedia.org/wiki/Sam_McKenzie
+- url: https://justfacts.votesmart.org/candidate/biography/108369/samuel-mckenzie
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H15
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h15.html
+extras:
+  office: 512 CHB
+  personal info:
+  - Born October 26, 1965
+  - Married, 3 children
+  - Baptist
+  - Austin-East High
+  - B.S. Physics, Fisk University
+  - M.S. Physics, University of Memphis
+  - Retired, Oak Ridge National Laboratory (34 years)
+  - Small Business Owner

@@ -1,0 +1,36 @@
+id: ocd-person/a4fabea6-f50e-4fe9-8696-8b4505a481e8
+name: Oscar De Los Santos
+given_name: Oscar
+family_name: De Los Santos
+gender: Male
+email: odelossantos@azleg.gov
+image: https://azleg.gov/alisImages/MemberPhotos/56leg/House/DE_LOS_SANTOS.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '11'
+offices:
+- classification: capitol
+  address: Room 320, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-4098
+links:
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2158
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2303
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2158
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2158
+other_names:
+- name: De Los Santos, O.
+- name: O. De Los Santos
+sources:
+- url: https://ballotpedia.org/Oscar_De_Los_Santos
+- url: https://pdsoros.org/fellows/oscar-de-los-santos
+- url: https://pdsoros.org/meet-the-fellows/oscar-de-los-santos
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2158
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2303
+- url: https://www.azleg.gov/memberroster/?body=H
+- url: https://www.pdsoros.org/meet-the-fellows/oscar-de-los-santos
+extras:
+  title: Assistant Minority Leader

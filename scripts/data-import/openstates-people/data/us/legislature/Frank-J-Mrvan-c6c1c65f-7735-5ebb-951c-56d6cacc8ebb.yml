@@ -1,0 +1,71 @@
+id: ocd-person/c6c1c65f-7735-5ebb-951c-56d6cacc8ebb
+name: Frank Mrvan
+given_name: Frank
+family_name: Mrvan
+birth_date: 1969-04-16
+gender: Male
+email: https://mrvan.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/M001214.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IN-1
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IN-1
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IN-1
+offices:
+- classification: capitol
+  address: 2441 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-2461
+  fax: 202-225-2493
+- classification: district
+  address: 8001 Broadway Suite 102, Merrillville, IN 46410
+  voice: 219-795-1844
+  fax: 771-200-5945
+links:
+- url: https://mrvan.house.gov
+  note: website
+- url: https://mrvan.house.gov/
+other_names:
+- name: F. Mrvan
+- name: F.J. Mrvan
+- name: Frank J. Mrvan
+- name: Mrvan, F.
+ids:
+  twitter: RepMrvan
+other_identifiers:
+- scheme: bioguide
+  identifier: M001214
+- scheme: fec
+  identifier: H0IN01150
+- scheme: google_entity_id
+  identifier: kg:/g/11gtz3tlbh
+- scheme: govtrack
+  identifier: '456821'
+- scheme: opensecrets
+  identifier: N00045905
+- scheme: pictorial
+  identifier: '13050'
+- scheme: wikidata
+  identifier: Q96077897
+- scheme: wikipedia
+  identifier: Frank J. Mrvan
+sources:
+- url: https://ballotpedia.org/Frank_Mrvan_(Indiana_congressional_candidate)
+- url: https://en.wikipedia.org/wiki/Frank_J._Mrvan
+- url: https://justfacts.votesmart.org/candidate/biography/113775/frank-mrvan
+- url: https://mrvan.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/frank_mrvan/456821

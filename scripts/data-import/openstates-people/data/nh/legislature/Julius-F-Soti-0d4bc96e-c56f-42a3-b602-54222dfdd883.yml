@@ -1,0 +1,54 @@
+id: ocd-person/0d4bc96e-c56f-42a3-b602-54222dfdd883
+name: Julius Soti
+given_name: Julius
+family_name: Soti
+gender: Male
+email: rep.jsoti@gmail.com
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/113796.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 35
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 35
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 7
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-404-1115
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9936
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9936
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9936
+  note: member detail page
+other_names:
+- name: J. Soti
+- name: J.F. Soti
+- name: Julius F. Soti
+- name: Julius Fredi Soti
+- name: Soti, J.
+sources:
+- url: https://ballotpedia.org/Julius_Soti
+- url: https://en.wikipedia.org/wiki/Julius_Soti
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9936
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9936
+- url: https://justfacts.votesmart.org/candidate/185316/julius-soti
+- url: https://justfacts.votesmart.org/candidate/biography/185316/julius-soti
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9936
+- url: https://www.linkedin.com/in/julius-fredi-soti-566b8425
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: M

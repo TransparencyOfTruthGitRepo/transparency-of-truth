@@ -1,0 +1,19 @@
+id: ocd-person/01a6f90b-4bb5-4e57-b470-6723eb2bf1d4
+name: Miguel Rodriguez Martinez
+given_name: Miguel Rodriguez
+family_name: Martinez
+party:
+- name: Partido Nuevo Progresista
+roles:
+- start_date: '2009-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: '6'
+links:
+- url: http://www.senadopr.us/Pages/Senadores%20Distrito%20VI.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PRL000125
+sources:
+- url: http://www.senadopr.us/Pages/Senadores%20Distrito%20VI.aspx

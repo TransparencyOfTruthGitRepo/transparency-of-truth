@@ -1,0 +1,39 @@
+id: ocd-person/c9b60101-8e1e-4ca2-b5c1-3ffa019fcb3e
+name: Susan Elberger
+given_name: Susan
+family_name: Elberger
+gender: Female
+email: susan.elberger@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123219.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 5
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10778
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10778
+  note: member detail page
+other_names:
+- name: Elberger, S.
+- name: S. Elberger
+- name: S.A. Elberger
+- name: Susan A Elberger
+- name: Susan A. Elberger
+sources:
+- url: https://ballotpedia.org/Susan_Elberger
+- url: https://en.wikipedia.org/wiki/Susan_Elberger
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10778
+- url: https://justfacts.votesmart.org/candidate/208805/susan-elberger
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10778
+- url: https://www.linkedin.com/in/susan-elberger-b991339a
+extras:
+  county: Hillsborough
+  elected status: new
+  gender code: F

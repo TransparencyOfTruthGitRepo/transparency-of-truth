@@ -1,0 +1,47 @@
+id: ocd-person/ef175304-020e-4f79-b71f-dc961b738254
+name: Jamie Murphy
+given_name: Jamie
+family_name: Murphy
+birth_date: 1969-11-15
+gender: Male
+email: james.murphy@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/JMM1.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 4th Norfolk
+  start_date: 2011-01-01
+offices:
+- classification: capitol
+  address: Room 254, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2220
+links:
+- url: https://malegislature.gov/Legislators/Profile/JMM1
+other_names:
+- name: J. Murphy
+- name: J.M. Murphy
+- name: James M. Murphy
+- name: James Murphy
+- name: Murphy, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000405
+- scheme: legacy_openstates
+  identifier: MAL000144
+- scheme: openstates
+  identifier: ocd-person/1960f0f4-836b-48ed-81ba-bfb92965a1fb
+sources:
+- url: https://ballotpedia.org/James_Murphy_(Massachusetts)
+- url: https://en.wikipedia.org/wiki/James_M._Murphy
+- url: https://justfacts.votesmart.org/candidate/biography/36011/james-murphy
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/JMM1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/JMM1
+- url: https://malegislature.gov/Legislators/Profile/JMM1
+extras:
+  member code: JMM1

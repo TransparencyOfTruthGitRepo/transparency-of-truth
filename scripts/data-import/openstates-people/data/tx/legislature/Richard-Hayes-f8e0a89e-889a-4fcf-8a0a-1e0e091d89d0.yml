@@ -1,0 +1,37 @@
+id: ocd-person/f8e0a89e-889a-4fcf-8a0a-1e0e091d89d0
+name: Richard Hayes
+given_name: Richard
+family_name: Hayes
+gender: Male
+email: richard.hayes@house.texas.gov
+image: https://house.texas.gov/images/members/4165.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '57'
+offices:
+- classification: capitol
+  address: Room E1.424, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0556
+- classification: district
+  address: 2000 S. Stemmons Freeway Suite 203, Lake Dallas, TX 75065
+  voice: 940-321-7574
+links:
+- url: https://house.texas.gov/members/4165
+- url: https://house.texas.gov/members/member-page/?district=57
+other_names:
+- name: Hayes, R.
+- name: Hayes, Richard
+- name: R. Hayes
+- name: R.D. Hayes
+sources:
+- url: https://ballotpedia.org/Richard_Hayes_(Texas)
+- url: https://en.wikipedia.org/wiki/Richard_Hayes_(Texas_politician)
+- url: https://house.texas.gov/members/4165
+- url: https://house.texas.gov/members/4165/biography
+- url: https://house.texas.gov/members/member-page/?district=57
+- url: https://justfacts.votesmart.org/candidate/201302/richard-hayes
+- url: https://www.linkedin.com/in/richarddhayes

@@ -1,0 +1,41 @@
+id: ocd-person/2d0d060c-6d5f-45da-a069-fe2be14547eb
+name: Byron Pelton
+given_name: Byron
+family_name: Pelton
+gender: Male
+email: byron.pelton.senate@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_pelton%2Cbyron-.jpg?itok=dSwGCsUR
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '1'
+offices:
+- classification: capitol
+  address: State Capitol Room 346, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-6360
+links:
+- url: https://leg.colorado.gov/legislators/byron-pelton
+  note: homepage
+other_names:
+- name: B. Pelton
+- name: B.H. Pelton
+- name: Pelton B.
+- name: Pelton, B.
+sources:
+- url: https://ballotpedia.org/Byron_Pelton
+- url: https://en.wikipedia.org/wiki/Byron_Pelton
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/byron-pelton
+extras:
+  counties represented:
+  - Logan
+  - Morgan
+  - Phillips
+  - Sedgwick
+  - Washington
+  - Weld
+  - Yuma

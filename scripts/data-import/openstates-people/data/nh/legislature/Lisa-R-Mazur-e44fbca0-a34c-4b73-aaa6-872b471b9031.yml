@@ -1,0 +1,37 @@
+id: ocd-person/e44fbca0-a34c-4b73-aaa6-872b471b9031
+name: Lisa Mazur
+given_name: Lisa
+family_name: Mazur
+gender: Female
+email: lisa.mazur@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123349.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 44
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10667
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10667
+  note: member detail page
+other_names:
+- name: L. Mazur
+- name: Lisa R Mazur
+- name: Mazur, L.
+sources:
+- url: https://ballotpedia.org/Lisa_Mazur
+- url: https://en.wikipedia.org/wiki/Lisa_Mazur
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10667
+- url: https://justfacts.votesmart.org/candidate/211173/lisa-mazur
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10667
+- url: https://www.linkedin.com/in/lisa-mazur-7955b236b
+extras:
+  county: Hillsborough
+  elected status: new
+  gender code: F

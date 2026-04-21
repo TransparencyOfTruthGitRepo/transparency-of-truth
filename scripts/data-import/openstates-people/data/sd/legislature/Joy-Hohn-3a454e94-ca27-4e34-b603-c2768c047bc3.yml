@@ -1,0 +1,31 @@
+id: ocd-person/3a454e94-ca27-4e34-b603-c2768c047bc3
+name: Joy Hohn
+given_name: Joy
+family_name: Hohn
+gender: Female
+email: joy.hohn@sdlegislature.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/jhohn.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '9'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3821
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/4723/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4762/Detail
+other_names:
+- name: Hohn, J.
+- name: J. Hohn
+- name: J.A. Hohn
+sources:
+- url: https://ballotpedia.org/Joy_Hohn
+- url: https://en.wikipedia.org/wiki/Joy_Hohn
+- url: https://justfacts.votesmart.org/candidate/biography/216109/joy-hohn
+- url: https://sdlegislature.gov/Legislators/Profile/4723/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4762/Detail

@@ -1,0 +1,64 @@
+id: ocd-person/97a40ea4-674f-4b84-8fd3-8bc2f3b4a35d
+name: Kasey Carpenter
+given_name: Kasey
+family_name: Carpenter
+gender: Male
+email: kasey.carpenter@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/carpenter-kasey-4911.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-11-20
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '4'
+offices:
+- classification: capitol
+  address: State Capitol Room 401-I, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-7857
+- classification: district-mail
+  address: P.O. Box 1144, Dalton, GA 30722
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4911&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4911
+- url: https://www.legis.ga.gov/members/house/4911?session=1029
+- url: https://www.legis.ga.gov/members/house/4911?session=1031
+  note: HTML member detail page
+other_names:
+- name: CARPENTER, 4TH
+- name: Carpenter, K.
+- name: K. Carpenter
+- name: K.S. Carpenter
+- name: Kasey Carpenter
+- name: Kasey Scott Carpenter
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000478
+sources:
+- url: https://ballotpedia.org/Kasey_Carpenter
+- url: https://en.wikipedia.org/wiki/Kasey_Carpenter
+- url: https://justfacts.votesmart.org/candidate/biography/168187/kasey-carpenter
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4911&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4911?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4911?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4911
+- url: https://www.legis.ga.gov/members/house/4911?session=1029
+- url: https://www.linkedin.com/in/kasey-carpenter-42aa3155
+extras:
+  residence: Dalton
+  city: Dalton
+  georgia_id: 4911
+  birthday: May 4
+  occupation: Restaurant Owner
+  press: https://house-press.com/representative/Kasey-Carpenter
+  spouse: Julie
+  staff: Shivonna Parker - Administrative Assistant
+  staff email: shivonna.parker@house.ga.gov
+  title: Chairman, Creative Arts & Entertainment

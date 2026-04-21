@@ -1,0 +1,38 @@
+id: ocd-person/8c4ed90f-f243-43f1-b205-0edd374777d8
+name: Jon Koznick
+given_name: Jon
+family_name: Koznick
+birth_date: 1972-07-04
+gender: Male
+email: rep.jon.koznick@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/57A.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 57A
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 58A
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-6926
+links:
+- url: https://www.house.mn.gov/members/profile/15436
+other_names:
+- name: J. Koznick
+- name: Koznick, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000594
+sources:
+- url: https://ballotpedia.org/Jon_Koznick
+- url: https://en.wikipedia.org/wiki/Jon_Koznick
+- url: https://justfacts.votesmart.org/candidate/biography/152876/jon-koznick
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15436
+- url: https://www.linkedin.com/in/jon-koznick-b8a3397

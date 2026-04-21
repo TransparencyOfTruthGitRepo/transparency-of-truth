@@ -1,0 +1,30 @@
+id: ocd-person/59db61d5-411e-48f6-b0ee-520d4d97ed1e
+name: Thomas F Koch
+given_name: Thomas
+family_name: Koch
+middle_name: F
+image: http://vermont-elections.org/2009-2010BioBook/jpegs/koch.jpg
+party:
+- name: Republican
+- end_date: 2020-12-31
+  name: Republican/Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Washington-4
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Washington-2
+links:
+- url: http://www.leg.state.vt.us/legdir/LegDirMain.cfm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000096
+- scheme: legacy_openstates
+  identifier: VTL000273
+sources:
+- url: http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W

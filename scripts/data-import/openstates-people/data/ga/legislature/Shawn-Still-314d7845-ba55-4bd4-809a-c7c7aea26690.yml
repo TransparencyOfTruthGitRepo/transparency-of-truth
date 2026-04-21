@@ -1,0 +1,50 @@
+id: ocd-person/314d7845-ba55-4bd4-809a-c7c7aea26690
+name: Shawn Still
+given_name: Shawn
+family_name: Still
+birth_date: 1972-10-02
+gender: Male
+email: shawn.still@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/still-shawn-5016.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '48'
+offices:
+- classification: capitol
+  address: State Capitol Room 421-D, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-7127
+- classification: district
+  address: 2850 Simpson Circle, Norcross, GA 30071
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/5016
+- url: https://www.legis.ga.gov/members/senate/5016?session=1031
+  note: HTML member detail page
+- url: https://www.legis.ga.gov/members/senate/5016?session=1032
+other_names:
+- name: S. Still
+- name: S.M.T. Still
+- name: STILL, 48TH
+- name: Still, S.
+sources:
+- url: https://ballotpedia.org/Shawn_Still
+- url: https://en.wikipedia.org/wiki/Shawn_Still
+- url: https://justfacts.votesmart.org/candidate/biography/203341/shawn-still
+- url: https://www.legis.ga.gov/api/members/detail/5016?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/5016
+- url: https://www.legis.ga.gov/members/senate/5016?session=1031
+- url: https://www.linkedin.com/in/shawnstill
+extras:
+  residence: Norcross
+  city: Norcross
+  georgia_id: 5016
+  staff: Lillian Jacobsen
+  staff email: lillian.jacobsen@senate.ga.gov

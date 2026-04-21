@@ -1,0 +1,58 @@
+id: ocd-person/38649f7a-eba4-4908-b264-f95fe908fc7a
+name: Pat Snyder
+given_name: Pat
+family_name: Snyder
+birth_date: 1956-10-10
+gender: Male
+email: rep.snyder@legis.wisconsin.gov
+image: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2515.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '85'
+links:
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1641
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1879
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/2191
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2515
+- url: https://docs.legis.wisconsin.gov/2025/legislators/assembly/2786
+- url: https://legis.wisconsin.gov/assembly/85/snyder
+other_names:
+- name: P. Snyder
+- name: P.J. Snyder
+- name: Patrick Snyder
+- name: SNYDER, P
+- name: Snyder, P
+- name: Snyder, P.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000625
+- scheme: legacy_openstates
+  identifier: WIL000646
+sources:
+- url: https://ballotpedia.org/Patrick_Snyder
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1641
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1879
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/2191
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/
+  note: members list page
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2515
+  note: member detail page
+- url: https://docs.legis.wisconsin.gov/2025/legislators/assembly/2786
+- url: https://en.wikipedia.org/wiki/Patrick_Snyder
+- url: https://justfacts.votesmart.org/candidate/140686/patrick-snyder
+- url: https://legis.wisconsin.gov/assembly/85/snyder
+- url: https://www.linkedin.com/in/patrickjsnyder
+extras:
+  website: http://legis.wisconsin.gov/assembly/85/snyder
+  extra phone: (888) 534-0085
+  staff1: Sam Hope
+  staff_email1: Sam.Hope@legis.wisconsin.gov
+  staff2: Scott Poole
+  staff_email2: Scott.Poole@legis.wisconsin.gov

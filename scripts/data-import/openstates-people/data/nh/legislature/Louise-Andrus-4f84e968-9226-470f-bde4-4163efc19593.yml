@@ -1,0 +1,49 @@
+id: ocd-person/4f84e968-9226-470f-bde4-4163efc19593
+name: Louise Andrus
+given_name: Louise
+family_name: Andrus
+gender: Female
+email: louise.andrus@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/93766.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 5
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 5
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 1
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9920
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9920
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9920
+  note: member detail page
+other_names:
+- name: Andrus, L.
+- name: L. Andrus
+sources:
+- url: https://ballotpedia.org/Louise_Andrus
+- url: https://en.wikipedia.org/wiki/Louise_Andrus
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9920
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9920
+- url: https://justfacts.votesmart.org/candidate/biography/194742/louise-andrus
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9920
+extras:
+  county: Merrimack
+  elected status: Incumbent
+  gender code: F

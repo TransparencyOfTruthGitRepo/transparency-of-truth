@@ -1,0 +1,58 @@
+id: ocd-person/9007dcd9-3246-4cf3-9185-7478b3a9ad7a
+name: Shea Roberts
+given_name: Shea
+family_name: Roberts
+birth_date: 1970-07-24
+gender: Female
+email: shea.roberts@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/roberts-shea-4994.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '52'
+offices:
+- classification: capitol
+  address: Room 608-B, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0298
+- classification: district-mail
+  address: P.O. Box 28571, Atlanta, GA 30358
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4994
+- url: https://www.legis.ga.gov/members/house/4994?session=1029
+- url: https://www.legis.ga.gov/members/house/4994?session=1031
+  note: HTML member detail page
+other_names:
+- name: ROBERTS, 52ND
+- name: Roberts, S.
+- name: S. Roberts
+- name: S.E. Roberts
+sources:
+- url: https://ballotpedia.org/Shea_Roberts
+- url: https://en.wikipedia.org/wiki/Shea_Roberts
+- url: https://justfacts.votesmart.org/candidate/biography/178768/shea-roberts
+- url: https://www.legis.ga.gov/api/members/detail/4994?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4994?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4994
+- url: https://www.legis.ga.gov/members/house/4994?session=1029
+- url: https://www.linkedin.com/in/shea-roberts-206b525
+extras:
+  residence: Atlanta
+  city: Atlanta
+  georgia_id: 4994
+  birthday: July 24
+  occupation: Attorney
+  press: https://house-press.com/representative/Shea-Roberts
+  spouse: Brian
+  staff: Marjorie Woods - Administrative Assistant
+  staff email: marjorie.woods@house.ga.gov
+  title: Minority Caucus Treasurer

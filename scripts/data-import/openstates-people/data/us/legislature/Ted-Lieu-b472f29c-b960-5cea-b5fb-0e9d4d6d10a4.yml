@@ -1,0 +1,96 @@
+id: ocd-person/b472f29c-b960-5cea-b5fb-0e9d4d6d10a4
+name: Ted Lieu
+given_name: Ted
+family_name: Lieu
+birth_date: 1969-03-29
+gender: Male
+email: https://lieu.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/L000582.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CA-36
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CA-36
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CA-33
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CA-33
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CA-33
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CA-33
+offices:
+- classification: capitol
+  address: 2454 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-3976
+- classification: district
+  address: 1645 Corinth Ave., Suite 101, Los Angeles, CA 90025
+  voice: 323-651-1040
+links:
+- url: https://lieu.house.gov
+  note: website
+- url: https://lieu.house.gov/
+other_names:
+- name: Lieu, T.
+- name: T. Lieu
+- name: T.W. Lieu
+ids:
+  twitter: RepTedLieu
+  youtube: UC9qcJxTqfDNBnVul1IojlFg
+  facebook: RepTedLieu
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Ted Lieu
+- scheme: bioguide
+  identifier: L000582
+- scheme: cspan
+  identifier: '28076'
+- scheme: fec
+  identifier: H4CA33119
+- scheme: google_entity_id
+  identifier: kg:/m/0f3y2w
+- scheme: govtrack
+  identifier: '412616'
+- scheme: icpsr
+  identifier: '21507'
+- scheme: maplight
+  identifier: '2072'
+- scheme: opensecrets
+  identifier: N00035825
+- scheme: pictorial
+  identifier: '12950'
+- scheme: thomas
+  identifier: '02230'
+- scheme: votesmart
+  identifier: '1516'
+- scheme: wikidata
+  identifier: Q7693450
+sources:
+- url: https://ballotpedia.org/Ted_Lieu
+- url: https://en.wikipedia.org/wiki/Ted_Lieu
+- url: https://justfacts.votesmart.org/candidate/biography/1516/ted-lieu
+- url: https://lieu.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/ted_lieu/412616
+- url: https://www.linkedin.com/in/reptedlieu

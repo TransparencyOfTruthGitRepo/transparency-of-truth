@@ -1,0 +1,21 @@
+id: ocd-person/1e29c8db-4b0f-4c07-8a8c-12250a220cb5
+name: Anthony J. Musto
+given_name: Anthony
+family_name: Musto
+middle_name: J.
+image: http://www.senatedems.ct.gov/photos/musto-hi.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '22'
+links:
+- url: http://www.senatedems.ct.gov/Musto.php
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000022
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

@@ -1,0 +1,22 @@
+id: ocd-person/4febde12-15ad-432c-aae5-54ef59c03b58
+name: William D Snyder
+given_name: William
+family_name: Snyder
+middle_name: D
+image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4376.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '82'
+links:
+- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4376&SessionId=70
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: FLL000140
+sources:
+- url: http://www.flhouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4376&SessionId=70

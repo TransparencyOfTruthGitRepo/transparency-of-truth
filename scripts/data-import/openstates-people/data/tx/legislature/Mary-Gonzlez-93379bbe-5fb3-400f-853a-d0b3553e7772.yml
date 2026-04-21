@@ -1,0 +1,45 @@
+id: ocd-person/93379bbe-5fb3-400f-853a-d0b3553e7772
+name: "Mary Gonz\xE1lez"
+given_name: Mary
+family_name: "Gonz\xE1lez"
+birth_date: 1983-10-30
+gender: Female
+email: mary.gonzalez@house.texas.gov
+image: https://house.texas.gov/images/members/2410.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '75'
+offices:
+- classification: capitol
+  address: Room E1.504, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0613
+- classification: district-mail
+  address: P.O. Box 1343 1498 Main St., San Elizario, TX 79849
+  voice: 915-851-6632
+links:
+- url: https://house.texas.gov/members/2410
+- url: https://house.texas.gov/members/member-page/?district=75
+other_names:
+- name: "Gonz\xE1lez, M."
+- name: "Gonz\xE1lez, Mary"
+- name: "M. Gonz\xE1lez"
+- name: "M.E. Gonz\xE1lez"
+- name: "Mary E. Gonz\xC3\xA1lez"
+- name: Mary Gonzalez
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000438
+- scheme: legacy_openstates
+  identifier: TXL000558
+sources:
+- url: https://ballotpedia.org/Mary_Gonzalez
+- url: https://en.wikipedia.org/wiki/Mary_Gonz%C3%A1lez
+- url: https://house.texas.gov/members/2410
+- url: https://house.texas.gov/members/member-page/?district=75
+- url: https://justfacts.votesmart.org/candidate/biography/137767/mary-gonzalez
+- url: https://www.house.texas.gov/members/2410/biography
+- url: https://www.linkedin.com/in/mary-gonzalez-17432660

@@ -1,0 +1,21 @@
+id: ocd-person/c4e49050-f4db-48f8-be46-8a377fc71038
+name: Joy K Tilton
+given_name: Joy
+family_name: Tilton
+middle_name: K
+image: http://www.gencourt.state.nh.us/house/images/memberpics/376633.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 3
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376633
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000767
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members.txt

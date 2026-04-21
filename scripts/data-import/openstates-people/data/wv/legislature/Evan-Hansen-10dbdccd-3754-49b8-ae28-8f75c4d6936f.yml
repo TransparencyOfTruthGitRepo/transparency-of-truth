@@ -1,0 +1,46 @@
+id: ocd-person/10dbdccd-3754-49b8-ae28-8f75c4d6936f
+name: Evan Hansen
+given_name: Evan
+family_name: Hansen
+birth_date: 1966-07-22
+gender: Male
+email: evan.hansen@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2019/house/hansen_evan.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '79'
+- start_date: 2018-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '79'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '51'
+offices:
+- classification: capitol
+  address: State Capitol Room 2R, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3125
+- classification: district-mail
+  address: P.O. Box 139, Morgantown, WV 26507
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Hansen
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hansen
+other_names:
+- name: E. Hansen
+- name: Hansen, E
+- name: Hansen, E.
+sources:
+- url: https://ballotpedia.org/Evan_Hansen
+- url: https://en.wikipedia.org/wiki/Evan_Hansen_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/167440/evan-hansen
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Hansen
+- url: https://www.linkedin.com/in/evan-hansen-2374215
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hansen
+- url: https://www.wvlegislature.gov/House/roster.cfm

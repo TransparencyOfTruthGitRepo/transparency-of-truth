@@ -1,0 +1,36 @@
+id: ocd-person/8819e763-061e-4f30-9828-af635428b41a
+name: "Cristina Paraj\xF3n"
+given_name: Cristina
+family_name: "Paraj\xF3n"
+gender: Female
+email: cristina.parajon@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HPARA.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-08-18
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '25'
+offices:
+- classification: capitol
+  address: State Capitol Room 413C, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4436
+- classification: district-mail
+  address: P.O. Box 36746, Albuquerque, NM 87176
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HPARA
+  note: homepage
+other_names:
+- name: "C. Paraj\xF3n"
+- name: "Paraj\xF3n, C."
+- name: "Paraj\xF3n, Cristina"
+sources:
+- url: https://ballotpedia.org/Cristina_Paraj%C3%B3n
+- url: https://en.wikipedia.org/wiki/Cristina_Paraj%C3%B3n
+- url: https://www.linkedin.com/in/cristina-paraj%C3%B3n-8a2ab1146
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HPARA
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Bernalillo

@@ -1,0 +1,24 @@
+id: ocd-person/5865aa3e-b424-4afc-a3d0-5096955a3f2d
+name: Mia L Jones
+given_name: Mia
+family_name: Jones
+middle_name: L
+image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4440.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '14'
+links:
+- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4440&LegislativeTermId=86
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: FLL000097
+- scheme: legacy_openstates
+  identifier: FLL000255
+sources:
+- url: http://www.flhouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4440&LegislativeTermId=86

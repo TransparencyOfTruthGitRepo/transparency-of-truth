@@ -1,0 +1,28 @@
+id: ocd-person/e66fb819-d3a9-4814-a36d-6d92bdf2c9c3
+name: Ralph K. Smith
+given_name: Ralph
+family_name: Smith
+middle_name: K
+image: http://apps.lis.virginia.gov/senatepics/Smith22.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2010-01-01'
+  end_date: '2011-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '22'
+- start_date: '2012-01-01'
+  end_date: '2015-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '19'
+links:
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?151+mbr+S77
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000032
+- scheme: legacy_openstates
+  identifier: VAL000154
+sources:
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?151+mbr+S77

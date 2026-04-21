@@ -1,0 +1,45 @@
+id: ocd-person/b4856c5b-d3e0-4227-a4c0-ff6abe81fda7
+name: John Braun
+given_name: John
+family_name: Braun
+birth_date: 1967-01-16
+gender: Male
+email: john.braun@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/17289.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Room 314, Legislative Building P.O. Box 40420, Olympia, WA 98504
+  voice: 360-786-7638
+links:
+- url: https://JohnBraun.src.wastateleg.org/
+- url: https://johnbraun.src.wastateleg.org/
+- url: https://leg.wa.gov/legislators/member/john-braun
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+other_names:
+- name: Braun, J.
+- name: J. Braun
+- name: J.E. Braun
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000165
+- scheme: legacy_openstates
+  identifier: WAL000193
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=Senate
+- url: https://ballotpedia.org/John_Braun
+- url: https://en.wikipedia.org/wiki/John_E._Braun
+- url: https://johnbraun.src.wastateleg.org
+- url: https://johnbraun.src.wastateleg.org/
+- url: https://justfacts.votesmart.org/candidate/140192/john-braun
+- url: https://leg.wa.gov/legislators/member/john-braun
+- url: https://www.leg.wa.gov/senate/senators/Pages/default.aspx
+- url: https://www.linkedin.com/in/john-braun-4558142b
+extras:
+  title: Republican Leader

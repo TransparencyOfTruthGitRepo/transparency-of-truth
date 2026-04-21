@@ -1,0 +1,59 @@
+id: ocd-person/f539ae98-f5d7-4290-9835-f64a1ab0a8c7
+name: Ferrell Haile
+given_name: Ferrell
+family_name: Haile
+gender: Male
+email: sen.ferrell.haile@capitol.tn.gov
+image: http://www.capitol.tn.gov/senate/members/images/s18.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '18'
+- start_date: 2010-11-22
+  end_date: 2011-03-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '18'
+offices:
+- classification: capitol
+  address: Room 708, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-1999
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S18
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S18&ga=114
+- url: https://www.capitol.tn.gov/senate/members/s18.html
+other_names:
+- name: F. Haile
+- name: Haile, F
+- name: Haile, F.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000145
+- scheme: legacy_openstates
+  identifier: TNL000267
+- scheme: legacy_openstates
+  identifier: TNL000439
+sources:
+- url: https://ballotpedia.org/Ferrell_Haile
+- url: https://en.wikipedia.org/wiki/Ferrell_Haile
+- url: https://justfacts.votesmart.org/candidate/biography/49009/ferrell-haile
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S18
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S18&ga=114
+- url: https://www.capitol.tn.gov/senate/members
+- url: https://www.capitol.tn.gov/senate/members/
+- url: https://www.capitol.tn.gov/senate/members/s18.html
+- url: https://www.linkedin.com/in/ferrell-haile-068ba72b
+extras:
+  office: 708 CHB
+  personal info:
+  - Married, wife Kay, four children, eight grandchildren
+  - Lipscomb University
+  - BS. Ph., University of Tennessee Pharmacy School
+  - Pharmacist, Perkins Drugs, Gallatin - Previous Owner
+  - Owner - Haile Farms, Gallatin

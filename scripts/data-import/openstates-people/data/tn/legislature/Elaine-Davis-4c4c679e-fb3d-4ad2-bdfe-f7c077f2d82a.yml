@@ -1,0 +1,45 @@
+id: ocd-person/4c4c679e-fb3d-4ad2-bdfe-f7c077f2d82a
+name: Elaine Davis
+given_name: Elaine
+family_name: Davis
+birth_date: 1967-07-25
+gender: Female
+email: rep.elaine.davis@capitol.tn.gov
+image: https://images.squarespace-cdn.com/content/v1/62669899a296e67b1d34963d/13e0ac0c-9c86-423e-baa5-655fb75829bf/ElaineDavis2022-1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '18'
+offices:
+- classification: capitol
+  address: Room 562, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-2287
+links:
+- url: https://tnhousegop.org/members/representative-elaine-davis/
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H18
+  note: homepage
+other_names:
+- name: Davis, E
+- name: Davis, E.
+- name: E. Davis
+sources:
+- url: https://ballotpedia.org/Elaine_Davis
+- url: https://en.wikipedia.org/wiki/Elaine_Davis_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/108373/elaine-davis
+- url: https://tnhousegop.org/members/representative-elaine-davis
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H18
+- url: https://www.linkedin.com/in/elaine-davis-21155314
+extras:
+  office: 562 CHB
+  personal info:
+  - Born July 25, 1967
+  - Married, 3 children
+  - Retired
+  - Baptist
+  - Farragut High School, 1985
+  - "B.A., University of Tennessee \u2013 Knoxville, 1997"

@@ -1,0 +1,64 @@
+id: ocd-person/0b07cbe8-73ba-4371-9acb-95cb7ecf6251
+name: Cale Case
+given_name: Cale
+family_name: Case
+birth_date: 1958-06-02
+gender: Male
+email: cale.case@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-CaseCale.jpg
+party:
+- name: Republican
+roles:
+- start_date: 1999-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '25'
+- end_date: 1999-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '25'
+  start_date: 1999-01-04
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+  voice: 307-777-7881
+- classification: district
+  address: 787 S. 4th St., Lander, WY 82520
+  voice: 307-332-7623
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/S/945
+- url: https://www.wyoleg.gov/Legislators/2025/S/945
+- url: https://wyoleg.gov/Legislators/2019/R/945
+- url: https://wyoleg.gov/Legislators/2021/R/945
+other_names:
+- name: C. Case
+- name: Case, C
+- name: Case, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000005
+sources:
+- url: https://ballotpedia.org/Cale_Case
+- url: https://en.wikipedia.org/wiki/Cale_Case
+- url: https://justfacts.votesmart.org/candidate/biography/2744/cale-case
+- url: https://www.wyoleg.gov/Legislators/2023/S/945
+- url: https://www.wyoleg.gov/Legislators/2025/S/945
+- url: https://wyoleg.gov/Legislators/2019/R/945
+- url: https://wyoleg.gov/Legislators/2021/R/945
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+- url: https://wyoleg.gov/LsoService/api/legislator/945
+extras:
+  county: Fremont County
+  occupation: Economist
+  house years: 'House:  1993-1998'
+  senate years: 'Senate: 1999-Present'
+  prior service:
+  - chamber: House
+    startYear: 1993
+    endYear: '1998'
+    district: ''
+  - chamber: Senate
+    startYear: 1999
+    endYear: Present
+    district: ' District 25, '

@@ -1,0 +1,40 @@
+id: ocd-person/ffae0dee-fb80-4434-bc8c-8e510d3bc495
+name: Nancy DeBoer
+given_name: Nancy
+family_name: DeBoer
+gender: Female
+email: nancydeboer@house.mi.gov
+image: https://www.house.mi.gov/media/Representatives/De Boer-086.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '86'
+offices:
+- classification: capitol
+  address: Room N-1190, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0846
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/RepNancyDeBoer/posts
+- url: https://www.house.mi.gov/repdetail/repNancyDeBoer
+other_names:
+- name: DeBoer, N.
+- name: N. DeBoer
+- name: Nancy De Boer
+sources:
+- url: https://ballotpedia.org/Nancy_De_Boer
+- url: https://gophouse.org/member/RepNancyDeBoer/posts
+- url: https://nancydeboer.com/meet-nancy
+- url: https://RepDeBoer.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.house.mi.gov/repdetail/repNancyDe Boer
+  note: Member Details Page
+- url: https://www.house.mi.gov/repdetail/repNancyDeBoer
+- url: https://www.linkedin.com/in/nancy-de-boer-65b64411

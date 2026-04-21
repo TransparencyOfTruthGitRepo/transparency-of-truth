@@ -1,0 +1,39 @@
+id: ocd-organization/57be4bcc-18c6-4e42-8aac-fbc691d6d4a4
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Interstate Cooperation
+chamber: lower
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/h_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/h_cmtememb.xml
+  note: homepage
+members:
+- name: Cedric Burnett
+  role: chair
+  person_id: ocd-person/379b9fd9-2da7-4e20-b0ed-4319ead3a1db
+- name: Robert Sanders
+  role: vice chair
+  person_id: ocd-person/e7684f57-ee0c-48ea-8157-8f04c2b8e685
+- name: Bill Pigott
+  role: member
+  person_id: ocd-person/2fed984f-0f51-40d2-9881-ec16131a6a2f
+- name: Omeria Scott
+  role: member
+  person_id: ocd-person/ee6c2cb7-6d0f-4b45-9e06-2ba1dfae8ecb
+- name: Otha Williams
+  role: member
+  person_id: ocd-person/c730cb69-8d30-4676-afe8-0fb513f3845f
+- name: Steve Horne
+  role: member
+  person_id: ocd-person/f1e7e5ba-29b7-42e2-bb70-5ab4c7923c77
+- name: Steve Massengill
+  role: member
+  person_id: ocd-person/abfa015f-301e-4e17-9917-535bb9079768
+other_names:
+- name: Committee on Interstate Cooperation
+- name: House Committee on Interstate Cooperation
+- name: House Interstate Cooperation
+- name: House Interstate Cooperation Committee
+- name: Interstate Cooperation Committee

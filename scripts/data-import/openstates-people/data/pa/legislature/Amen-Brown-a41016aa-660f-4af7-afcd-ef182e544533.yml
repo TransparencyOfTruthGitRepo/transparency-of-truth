@@ -1,0 +1,53 @@
+id: ocd-person/a41016aa-660f-4af7-afcd-ef182e544533
+name: Amen Brown
+given_name: Amen
+family_name: Brown
+gender: Male
+email: repbrown@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/1919.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '10'
+- end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '190'
+offices:
+- classification: capitol
+  address: Room 200, Irvis Office Building P.O. Box 202010, Harrisburg, PA 17120
+  voice: 717-783-3822
+- classification: district
+  address: 4027 Market St., Philadelphia, PA 19104
+  voice: 215-879-6615
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1919
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.pahouse.com/Brown/
+- url: https://www.palegis.us/house/members/bio/1919/rep-a-brown
+other_names:
+- name: A. Brown
+- name: A.R. Brown
+- name: BROWN, A
+- name: Brown, A.
+- name: BROWN, A.
+ids:
+  twitter: RepAmenBrown
+  facebook: RepAmenBrown
+sources:
+- url: https://ballotpedia.org/Amen_Brown
+- url: https://en.wikipedia.org/wiki/Amen_Brown
+- url: https://justfacts.votesmart.org/candidate/biography/186067/amen-brown
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1919
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/amen-brown-03b77615
+- url: https://www.pahouse.com/Brown
+- url: https://www.palegis.us/house/members/bio/1919/rep-a-brown
+extras:
+  Education:
+  - Community College

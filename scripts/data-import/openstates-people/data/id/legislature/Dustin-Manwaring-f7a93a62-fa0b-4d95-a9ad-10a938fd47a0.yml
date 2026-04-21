@@ -1,0 +1,51 @@
+id: ocd-person/f7a93a62-fa0b-4d95-a9ad-10a938fd47a0
+name: Dustin Manwaring
+given_name: Dustin
+family_name: Manwaring
+gender: Male
+email: dmanwaring@house.idaho.gov
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/Manwaring4277.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: 29A
+- end_date: 2018-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: 29A
+offices:
+- classification: capitol
+  address: P.O. Box 83720 700 W. Jefferson St., Boise, ID 83720
+  voice: 208-332-1079
+- classification: district
+  address: Pocatello, ID 83202
+  voice: 208-252-5295
+links:
+- url: https://legislature.idaho.gov/legislators/membership/2023/id4277/
+- url: https://legislature.idaho.gov/legislators/membership/2026/id4277/
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2021&district=29
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2022&district=29
+  note: homepage
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2023&district=29
+  note: homepage
+other_names:
+- name: D. Manwaring
+- name: D.W. Manwaring
+- name: Manwaring, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IDL000237
+sources:
+- url: https://ballotpedia.org/Dustin_W._Manwaring
+- url: https://en.wikipedia.org/wiki/Dustin_Manwaring
+- url: https://legislature.idaho.gov/house/membership
+- url: https://legislature.idaho.gov/house/membership/
+- url: https://legislature.idaho.gov/legislators/membership/2023/id4277
+- url: https://legislature.idaho.gov/legislators/membership/2023/id4277/
+- url: https://legislature.idaho.gov/legislators/membership/2026/id4277
+- url: https://www.linkedin.com/in/manwaring
+extras:
+  title: Majority Caucus Chair

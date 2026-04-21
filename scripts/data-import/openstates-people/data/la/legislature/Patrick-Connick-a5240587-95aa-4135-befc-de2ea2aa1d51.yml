@@ -1,0 +1,67 @@
+id: ocd-person/a5240587-95aa-4135-befc-de2ea2aa1d51
+name: Patrick Connick
+given_name: Patrick
+family_name: Connick
+gender: Male
+email: connickp@legis.la.gov
+image: https://senate.la.gov/SenatorPics/Sen8.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '8'
+- end_date: 2020-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '8'
+  start_date: 2020-01-13
+- end_date: 2020-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '84'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 5201 Westbank Expressway Suite 315, Marrero, LA 70072
+  voice: 504-371-0240
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=84
+- url: https://senate.la.gov/smembers.aspx?ID=8
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=8
+other_names:
+- name: Connick, P.
+- name: J.P. Connick
+- name: P. Connick
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000193
+- scheme: legacy_openstates
+  identifier: LAL000342
+- scheme: legacy_openstates
+  identifier: LAL000545
+- scheme: legacy_openstates
+  identifier: LAL000661
+- scheme: legacy_openstates
+  identifier: LAL000861
+- scheme: openstates
+  identifier: ocd-person/c3dbbcb3-8ecd-47d6-a9a6-59465efa0bcd
+sources:
+- url: https://ballotpedia.org/Patrick_Connick
+- url: https://en.wikipedia.org/wiki/Patrick_Connick
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=84
+- url: https://justfacts.votesmart.org/candidate/biography/93757/patrick-connick
+- url: https://senate.la.gov/Senators_FullInfo
+- url: https://senate.la.gov/smembers.aspx?ID=8
+- url: https://senate.la.gov/smembers?ID=8
+extras:
+  legislative assistant: Erika Seifert
+  representing parishes:
+  - Jefferson
+  - Plaquemines
+  education: Archbishop Shaw High School, 1979; Loyola University at New Orleans,
+    1983, B.A.;  Loyola University Law School, 1993, J.D.

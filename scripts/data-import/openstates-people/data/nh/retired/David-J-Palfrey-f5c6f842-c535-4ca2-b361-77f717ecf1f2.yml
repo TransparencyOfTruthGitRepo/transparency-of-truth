@@ -1,0 +1,20 @@
+id: ocd-person/f5c6f842-c535-4ca2-b361-77f717ecf1f2
+name: David J Palfrey
+given_name: David
+family_name: Palfrey
+middle_name: J
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 2
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376845
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000274
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members(Asterisk%20Delimited).txt

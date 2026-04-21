@@ -1,0 +1,43 @@
+id: ocd-person/3a9d71dc-da5b-4bd3-8062-c8387292dc52
+name: Ann Bollin
+given_name: Ann
+family_name: Bollin
+gender: Female
+email: annbollin@house.mi.gov
+image: https://dtj5wlj7ond0z.cloudfront.net/uploads/2020/07/HS_AnnBollin_0119-scaled.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '49'
+- end_date: 2022-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '42'
+offices:
+- classification: capitol
+  address: Room 351, Capitol Building 100 N. Capitol Ave., Lansing, MI 48933
+  voice: 517-373-7515
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/repannbollin/about
+- url: https://gophouse.org/representatives/southeast/bollin/
+other_names:
+- name: A. Bollin
+- name: Ann Bollin
+- name: Ann M. Bollin
+- name: Bollin, A.
+sources:
+- url: https://ballotpedia.org/Ann_Bollin
+- url: https://gophouse.org/member/repannbollin/about
+- url: https://gophouse.org/representatives/southeast/bollin
+- url: https://gophouse.org/representatives/southeast/bollin/
+- url: https://justfacts.votesmart.org/candidate/biography/182799/ann-bollin
+- url: https://RepBollin.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
+- url: https://www.linkedin.com/in/ann-bollin-4382676

@@ -1,0 +1,71 @@
+id: ocd-person/4c77555b-f35d-53ca-8c7d-7950b90a1b60
+name: Dan Goldman
+given_name: Dan
+family_name: Goldman
+birth_date: 1976-02-26
+gender: Male
+email: https://goldman.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/G000599.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NY-10
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NY-10
+offices:
+- classification: capitol
+  address: 245 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-7944
+- classification: district
+  address: 290 Broadway Suite 291, New York, NY 10007
+  voice: 212-822-7878
+- classification: district
+  address: Industry City 254 36th St., B-329, Brooklyn, NY 11232
+  voice: 718-312-7575
+links:
+- url: https://goldman.house.gov
+  note: website
+- url: https://goldman.house.gov/
+other_names:
+- name: D. Goldman
+- name: D.S. Goldman
+- name: Daniel S. Goldman
+- name: Goldman, D.
+ids:
+  twitter: RepDanGoldman
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Daniel Goldman
+- scheme: bioguide
+  identifier: G000599
+- scheme: fec
+  identifier: H2NY10308
+- scheme: google_entity_id
+  identifier: kg:/g/11j0y32d4c
+- scheme: govtrack
+  identifier: '456923'
+- scheme: opensecrets
+  identifier: N00051424
+- scheme: pictorial
+  identifier: '13178'
+- scheme: votesmart
+  identifier: '208627'
+- scheme: wikidata
+  identifier: Q74849175
+- scheme: wikipedia
+  identifier: Dan Goldman
+sources:
+- url: https://ballotpedia.org/Daniel_Goldman
+- url: https://en.wikipedia.org/wiki/Dan_Goldman_(politician)
+- url: https://goldman.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/dan_goldman/456923
+- url: https://www.linkedin.com/in/daniel-goldman-55619415b

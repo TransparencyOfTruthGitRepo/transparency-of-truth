@@ -1,0 +1,68 @@
+id: ocd-organization/2e09cf75-2656-4b68-b3d9-69e5f577a917
+jurisdiction: ocd-jurisdiction/country:us/state:ok/government
+classification: committee
+name: Rules
+chamber: upper
+sources:
+- url: https://oksenate.gov/committees-list
+  note: Senate committees list page
+- url: https://oksenate.gov/committees/rules
+links:
+- url: https://oksenate.gov/committees/rules
+  note: homepage
+members:
+- name: Julie Daniels
+  role: chair
+  person_id: ocd-person/14ac3593-aa7a-491e-aba0-93474e93673d
+- name: Dave Rader
+  role: vice chair
+  person_id: ocd-person/3714523f-ea6d-4bd5-a801-1397dd508208
+- name: Ally Seifried
+  role: member
+  person_id: ocd-person/0e3e261d-437a-4e04-8328-70adb16c82d9
+- name: Bill Coleman
+  role: member
+  person_id: ocd-person/446468ba-e7a8-49ff-8edc-e9f96da9d613
+- name: Brenda Stanley
+  role: member
+  person_id: ocd-person/55b572a7-2951-4597-b70c-e37b51163b03
+- name: Brent Howard
+  role: member
+  person_id: ocd-person/bc85e399-f4bc-4690-b34b-685e15242904
+- name: Carri Hicks
+  role: member
+  person_id: ocd-person/6ecf8a12-033a-41da-9b5f-3fbcf41f4841
+- name: Casey Murdock
+  role: member
+  person_id: ocd-person/8c8517c3-75ee-4b27-8d8c-3444c036ba78
+- name: Chuck Hall
+  role: member
+  person_id: ocd-person/95f06268-cdfb-463b-aa2e-fb789fbc97c4
+- name: Darcy Jech
+  role: member
+  person_id: ocd-person/7143be5e-df9e-40ad-8591-dd4c9ea51261
+- name: David Bullard
+  role: member
+  person_id: ocd-person/f7e51701-fb8a-4d48-8f61-951096c0c76d
+- name: Grant Green
+  role: member
+  person_id: ocd-person/9f0cacea-112a-425a-b212-4fa3cfd3b3a0
+- name: Kristen Thompson
+  role: member
+  person_id: ocd-person/c768c730-142e-4582-a137-ee09a0240784
+- name: Mary Boren
+  role: member
+  person_id: ocd-person/0172970c-3434-470b-98c8-6f7f0b167afb
+- name: Micheal Bergstrom
+  role: member
+  person_id: ocd-person/49a41053-6a43-44a8-92b9-9fd5e97a56fe
+- name: Paul Rosino
+  role: member
+  person_id: ocd-person/0388a9a8-8de3-4620-8c44-e887e0f1cecd
+- name: Warren Hamilton
+  role: member
+  person_id: ocd-person/48d6aa7c-97e1-4c69-8014-8818ae9ad055
+other_names:
+- name: Senate Committee on Rules
+- name: Senate Rules
+- name: Senate Rules Committee

@@ -1,0 +1,68 @@
+id: ocd-person/f335088b-3b7b-5009-9dd9-f389ffe59cdb
+name: Michael Waltz
+given_name: Michael
+family_name: Waltz
+birth_date: 1974-01-31
+gender: Male
+email: https://waltz.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/W000823.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: FL-6
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: FL-6
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: FL-6
+links:
+- url: https://waltz.house.gov
+  note: website
+- url: https://waltz.house.gov/
+other_names:
+- name: M. Waltz
+- name: M.G.G. Waltz
+- name: Waltz, M.
+ids:
+  twitter: RepWaltzPress
+other_identifiers:
+- scheme: bioguide
+  identifier: W000823
+- scheme: fec
+  identifier: H8FL06148
+- scheme: govtrack
+  identifier: '412764'
+- scheme: wikipedia
+  identifier: Michael Waltz
+- scheme: wikidata
+  identifier: Q55386653
+- scheme: opensecrets
+  identifier: N00042403
+- scheme: icpsr
+  identifier: '21981'
+- scheme: google_entity_id
+  identifier: kg:/g/11f50xlkjm
+- scheme: ballotpedia
+  identifier: Michael Waltz
+- scheme: votesmart
+  identifier: '182261'
+- scheme: pictorial
+  identifier: '12987'
+sources:
+- url: https://unitedstates.github.io/
+- url: https://ballotpedia.org/Michael_Waltz
+- url: https://en.wikipedia.org/wiki/Michael_Waltz
+- url: https://justfacts.votesmart.org/candidate/biography/182261/mike-waltz
+- url: https://unitedstates.github.io
+- url: https://waltz.house.gov
+- url: https://www.govtrack.us/congress/members/michael_waltz/412764
+- url: https://www.linkedin.com/in/michael-waltz-0557964

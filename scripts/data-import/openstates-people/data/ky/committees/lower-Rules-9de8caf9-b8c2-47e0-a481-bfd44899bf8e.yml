@@ -1,0 +1,40 @@
+id: ocd-organization/9de8caf9-b8c2-47e0-a481-bfd44899bf8e
+jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+classification: committee
+name: Rules
+chamber: lower
+sources:
+- url: https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=112&CommitteeType=House%20Standing%20Committee
+  note: homepage
+links:
+- url: https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=112&CommitteeType=House%20Standing%20Committee
+  note: homepage
+members:
+- name: David Osborne
+  role: chair
+  person_id: ocd-person/bf8bfdc3-66f2-417c-8178-9ed16bf8843f
+- name: David Meade
+  role: vice chair
+  person_id: ocd-person/3643503c-1da8-4a57-90f1-54f063b1d25e
+- name: Jason Nemes
+  role: member
+  person_id: ocd-person/c56fc398-975e-47b9-919a-fbdd0c9f721d
+- name: Joshua Watkins
+  role: member
+  person_id: ocd-person/118003d1-9f48-4ef8-bbd0-748d17ebb699
+- name: Lindsey Burke
+  role: member
+  person_id: ocd-person/8048f367-9d46-4be5-9cb8-7a249d06cb13
+- name: Pamela Stevenson
+  role: member
+  person_id: ocd-person/897f811e-273d-4fc1-9268-0087e57444cf
+- name: Steven Rudy
+  role: member
+  person_id: ocd-person/f73e54d0-9547-4688-b97d-4818b104d160
+- name: Suzanne Miles
+  role: member
+  person_id: ocd-person/92576283-508e-4613-b1a0-3d227edf4068
+other_names:
+- name: House Committee on Rules
+- name: House Rules
+- name: House Rules Committee

@@ -1,0 +1,44 @@
+id: ocd-person/72dc94e8-e5d5-4376-aab5-06f6b3a771c7
+name: Greg Smith
+given_name: Greg
+family_name: Smith
+birth_date: 1968-11-07
+gender: Male
+email: rep.gregsmith@oregonlegislature.gov
+image: http://www.oregonlegislature.gov/house/MemberPhotos/smithg.jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '57'
+offices:
+- classification: capitol
+  address: Room H-482, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1457
+- classification: district-mail
+  address: P.O. Box 215, Heppner, OR 97836
+  voice: 541-993-5236
+links:
+- url: https://www.oregonlegislature.gov/smithg
+  note: homepage
+other_names:
+- name: G. Smith
+- name: G.V. Smith
+- name: Smith, G.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000081
+- scheme: legacy_openstates
+  identifier: ORL000132
+- scheme: legacy_openstates
+  identifier: ORL000254
+- scheme: legacy_openstates
+  identifier: ORL000343
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Greg_Smith_(Oregon)
+- url: https://en.wikipedia.org/wiki/Greg_Smith_(Oregon_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/46752/greg-smith
+- url: https://www.oregonlegislature.gov/smithg

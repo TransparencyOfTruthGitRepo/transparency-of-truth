@@ -1,0 +1,19 @@
+id: ocd-person/a89dcef8-03f8-4b8a-8eca-dbe45e1c685e
+name: Sheri Malstrom
+given_name: Sheri
+family_name: Malstrom
+image: https://www.oregonlegislature.gov/house/MemberPhotos/malstrom.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '27'
+links:
+- url: https://www.oregonlegislature.gov/malstrom
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000370
+sources:
+- url: https://www.oregonlegislature.gov/malstrom

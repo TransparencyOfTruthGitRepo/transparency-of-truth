@@ -1,0 +1,36 @@
+id: ocd-person/2f75473d-b2e6-49fd-914e-1e552ebc38a6
+name: Carrie Rheingans
+given_name: Carrie
+family_name: Rheingans
+birth_date: 1981-10-02
+gender: Female
+email: carrierheingans@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '47'
+offices:
+- classification: capitol
+  address: Room N-896, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-8835
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/Carrie-Rheingans/
+other_names:
+- name: C. Rheingans
+- name: C.A. Rheingans
+- name: Rheingans, C.
+sources:
+- url: https://ballotpedia.org/Carrie_Rheingans
+- url: https://housedems.com/Carrie-Rheingans
+- url: https://housedems.com/Carrie-Rheingans/
+  note: Member Details Page
+- url: https://housedems.com/carrie-rheingans/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/crheinga

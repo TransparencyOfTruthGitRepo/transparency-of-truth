@@ -1,0 +1,35 @@
+id: ocd-person/8f5928b4-5528-4506-8075-4e69c5864b42
+name: Brad Christ
+given_name: Brad
+family_name: Christ
+birth_date: 1983-09-14
+gender: Male
+email: brad.christ@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2374
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '96'
+offices:
+- classification: capitol
+  address: 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-2150
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=096
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=096
+other_names:
+- name: B. Christ
+- name: B.J. Christ
+- name: Christ, B.
+sources:
+- url: https://ballotpedia.org/Brad_Christ
+- url: https://en.wikipedia.org/wiki/Brad_Christ
+- url: https://house.mo.gov/MemberDetails.aspx?district=096
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=096
+- url: https://justfacts.votesmart.org/candidate/biography/205760/brad-christ
+- url: https://www.linkedin.com/in/brad-christ
+extras:
+  hometown: St. Louis

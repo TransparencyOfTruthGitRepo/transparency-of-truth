@@ -1,0 +1,49 @@
+id: ocd-organization/8defb488-518e-4f14-9039-5647437b1a29
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Rules
+chamber: lower
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/h_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/h_cmtememb.xml
+  note: homepage
+members:
+- name: Fred Shanks
+  role: chair
+  person_id: ocd-person/002bdecd-2374-44d8-8280-e0636c5f4897
+- name: Bryant Clark
+  role: vice chair
+  person_id: ocd-person/0d191683-0d9c-408f-812b-5d986a3030a6
+- name: Clay Deweese
+  role: member
+  person_id: ocd-person/0c9a7d35-4b91-42c7-8af2-39b6514c23d8
+- name: Greg Holloway
+  role: member
+  person_id: ocd-person/745b9724-e66d-46ec-874a-d658f01b78a6
+- name: Jansen Owen
+  role: member
+  person_id: ocd-person/8a829f4e-388e-41c5-bbc6-9e4292ff9539
+- name: Jason White
+  role: member
+  person_id: ocd-person/fa29dc4f-e4cb-45dd-a450-a1911d529801
+- name: Jay McKnight
+  role: member
+  person_id: ocd-person/7674b0fc-99c4-44a7-85ec-7edd5e6e85a0
+- name: Lee Yancey
+  role: member
+  person_id: ocd-person/fe627b98-efb2-43b0-a6e5-7ad967c1a2fc
+- name: Manly Barton
+  role: member
+  person_id: ocd-person/c3ea3d93-cd2d-48f4-babd-a47bbd951108
+- name: Missy McGee
+  role: member
+  person_id: ocd-person/e645db95-2862-40dd-b548-b84b6f0b5f3f
+- name: Sam Creekmore
+  role: member
+  person_id: ocd-person/d79acfe3-5991-41ae-b245-f7b7f877febb
+other_names:
+- name: House Committee on Rules
+- name: House Rules
+- name: House Rules Committee

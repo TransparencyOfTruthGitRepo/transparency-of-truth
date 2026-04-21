@@ -1,0 +1,61 @@
+id: ocd-person/f15f8b7e-96ee-41e8-b59c-b277927985c0
+name: Paul Moriarty
+given_name: Paul
+family_name: Moriarty
+birth_date: 1956-09-25
+gender: Male
+email: senmoriarty@njleg.org
+image: https://www.njleg.state.nj.us/members/memberphotos/moriarty_color.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '4'
+- start_date: 2006-01-10
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '4'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 129 Johnson Road Suite 1, Turnersville, NJ 08012
+  voice: 856-232-6700
+- classification: district
+  address: 1379 Chews Landing Road, Laurel Springs, NJ 08021
+  voice: 856-401-3073
+links:
+- url: https://www.assemblydems.com/paul-moriarty/
+- url: https://www.njleg.state.nj.us/legislative-roster/250/assemblyman-moriarty
+- url: https://www.njleg.state.nj.us/legislative-roster/461/senator-moriarty
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=250
+- url: https://www.njsendems.org/180/Paul-D-Moriarty
+other_names:
+- name: Moriarty, P.
+- name: Moriarty, Paul D.
+- name: P. Moriarty
+- name: P.D. Moriarty
+- name: Paul D. Moriarty
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000011
+sources:
+- url: https://ballotpedia.org/Paul_Moriarty_(New_Jersey)
+- url: https://en.wikipedia.org/wiki/Paul_D._Moriarty
+- url: https://justfacts.votesmart.org/candidate/biography/58078/paul-moriarty
+- url: https://www.linkedin.com/in/paul-moriarty-ab244a2
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/250
+- url: https://www.njleg.state.nj.us/downloads.asp
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/250/assemblyman-moriarty
+- url: https://www.njleg.state.nj.us/legislative-roster/461/senator-moriarty
+- url: https://www.njleg.state.nj.us/members/abcroster.asp
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=250
+- url: https://www.njleg.state.nj.us/members/BIO.asp?Leg=250
+- url: https://www.njsendems.org/180/Paul-D-Moriarty
+extras:
+  position: Deputy Speaker

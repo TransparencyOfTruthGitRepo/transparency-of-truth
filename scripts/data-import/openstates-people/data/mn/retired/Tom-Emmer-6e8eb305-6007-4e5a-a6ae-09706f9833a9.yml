@@ -1,0 +1,17 @@
+id: ocd-person/6e8eb305-6007-4e5a-a6ae-09706f9833a9
+name: Tom Emmer
+given_name: Tom
+family_name: Emmer
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 19B
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000105
+sources:
+- url: http://www.house.leg.state.mn.us/members/meminfo.xls

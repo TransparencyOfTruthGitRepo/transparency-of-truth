@@ -1,0 +1,36 @@
+id: ocd-person/3bc62111-d292-4ae2-a648-43b858308394
+name: Yury Polozov
+given_name: Yury
+family_name: Polozov
+gender: Male
+email: yury.polozov@gc.nh.gov
+image: https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/2022-09/yuri-polozov.jpg?itok=ES4GDjOh
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 10
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10676
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10676
+  note: member detail page
+other_names:
+- name: Polozov, Y.
+- name: Y. Polozov
+sources:
+- url: https://ballotpedia.org/Yury_Polozov
+- url: https://en.wikipedia.org/wiki/Yury_Polozov
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10676
+- url: https://justfacts.votesmart.org/candidate/biography/209181/yury-polozov
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10676
+- url: https://www.linkedin.com/in/yury-p-77148736
+extras:
+  county: Merrimack
+  elected status: new
+  gender code: M

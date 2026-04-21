@@ -1,0 +1,30 @@
+id: ocd-person/bdb29bb6-c6a2-461a-8527-06ac1ba20049
+name: Christina Mitchell
+given_name: Christina
+family_name: Mitchell
+gender: Female
+email: christina.mitchell@legislature.maine.gov
+image: https://mitchell.mainecandidate.com/images/2155.png
+party:
+- name: Democratic
+roles:
+- start_date: 2024-12-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '110'
+offices:
+- classification: capitol
+  address: Room 333, House Democratic Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/3135
+- url: https://www.maine.gov/housedems/node/4111
+other_names:
+- name: C. Mitchell
+- name: C.R. Mitchell
+- name: MITCHELL of Cumberland
+- name: Mitchell, C.
+sources:
+- url: https://ballotpedia.org/Christina_Mitchell
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/3135
+- url: https://www.maine.gov/housedems/node/4111

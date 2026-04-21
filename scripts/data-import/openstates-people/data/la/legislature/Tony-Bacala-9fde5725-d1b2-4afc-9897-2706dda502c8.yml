@@ -1,0 +1,48 @@
+id: ocd-person/9fde5725-d1b2-4afc-9897-2706dda502c8
+name: Tony Bacala
+given_name: Tony
+family_name: Bacala
+gender: Male
+email: bacalat@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep59.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '59'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 15482 Airline Highway, Prairieville, LA 70769
+  voice: 225-677-8023
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=59
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=59
+other_names:
+- name: A.J. Bacala
+- name: Bacala, T.
+- name: T. Bacala
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000828
+- scheme: legacy_openstates
+  identifier: LAL000915
+sources:
+- url: https://ballotpedia.org/Tony_Bacala
+- url: https://en.wikipedia.org/wiki/Tony_Bacala
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=59
+- url: https://house.louisiana.gov/H_Reps/members?ID=59
+- url: https://justfacts.votesmart.org/candidate/biography/165556/tony-bacala
+- url: https://www.linkedin.com/in/tony-bacala-2689b537
+extras:
+  legislative assistant: Donna Hebert
+  representing parishes:
+  - Ascension
+  education: Louisiana State University, Bachelor's Degree, 1982; FBI National Academy,
+    2004

@@ -1,0 +1,80 @@
+id: ocd-organization/0f1dafb2-91b3-4742-9764-531668de471e
+jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+classification: committee
+name: State Planning and Community Affairs
+chamber: lower
+sources:
+- url: https://www.legis.ga.gov/api/committees/details/111/1029
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/details/111/1031
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1029
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1031
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/committees/house/111
+links:
+- url: https://www.legis.ga.gov/committees/house/111
+  note: homepage
+members:
+- name: Karen Mathiak
+  role: chair
+  person_id: ocd-person/f8db50e0-08ab-406c-ac8b-39c7038ef5ca
+- name: Patty Marie Stinson
+  role: vice chair
+  person_id: ocd-person/af51c2db-8871-45a4-803d-314fa2b9d18d
+- name: Joe Campbell
+  role: secretary
+  person_id: ocd-person/c862c17f-ed00-41d7-97e5-1138f451a96c
+- name: Anne Westbrook
+  role: member
+  person_id: ocd-person/e16d6516-badc-4682-9e3a-84f30a44b060
+- name: Beth Camp
+  role: member
+  person_id: ocd-person/e4e40f68-0970-4392-b739-3c68f749bcdc
+- name: Bryce Berry
+  role: member
+  person_id: ocd-person/b1187e7a-8cea-4e91-9c9f-7c7c61df3c85
+- name: Charlice Byrd
+  role: member
+  person_id: ocd-person/0d75f0d9-0242-4f72-b4f3-1cd085eb26b6
+- name: Chris Erwin
+  role: member
+  person_id: ocd-person/d79c3e9b-b73d-416b-9bfd-8a0338d8256c
+- name: Clint Crowe
+  role: member
+  person_id: ocd-person/e1a9102d-f845-47f5-882e-e344eef060ec
+- name: Derrick Jackson
+  role: member
+  person_id: ocd-person/9046fcb2-f3eb-4233-bd92-32c94e60f9df
+- name: Dewey McClain
+  role: member
+  person_id: ocd-person/8afda706-7afa-462c-89f2-0d6d5da010ff
+- name: Floyd Griffin
+  role: member
+  person_id: ocd-person/b261086c-7b16-4a8e-82a6-22df4445af84
+- name: Nissa Jones
+  role: member
+  person_id: ocd-person/55074030-4d64-4da0-b68a-5e3945d00f25
+- name: Noelle Kahaian
+  role: member
+  person_id: ocd-person/fdf78e39-985f-48c3-8ed3-ccf15946871f
+- name: Robert Flournoy
+  role: member
+  person_id: ocd-person/32c3fbdd-4034-47d0-b7ab-0411bd200737
+- name: Shea Roberts
+  role: member
+  person_id: ocd-person/9007dcd9-3246-4cf3-9185-7478b3a9ad7a
+- name: Trey Rhodes
+  role: member
+  person_id: ocd-person/9dfc8ec3-0935-4d1d-877d-e05cf7a5dca5
+- name: Will Wade
+  role: member
+  person_id: ocd-person/97a002db-6151-4fdf-9bce-013a6344764f
+other_names:
+- name: House Committee on State Planning and Community Affairs
+- name: House State Planning and Community Affairs
+- name: House State Planning and Community Affairs Committee
+extras:
+  address: 508-D Coverdell Legislative Office Bldg.  Atlanta, GA 30334
+  phone: '4046560213'

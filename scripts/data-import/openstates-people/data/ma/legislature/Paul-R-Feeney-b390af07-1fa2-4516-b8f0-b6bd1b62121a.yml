@@ -1,0 +1,42 @@
+id: ocd-person/b390af07-1fa2-4516-b8f0-b6bd1b62121a
+name: Paul Feeney
+given_name: Paul
+family_name: Feeney
+birth_date: 1978-03-23
+gender: Male
+email: paul.feeney@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/PRF0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-11-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Bristol and Norfolk
+offices:
+- classification: capitol
+  address: Room 112, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1222
+links:
+- url: https://malegislature.gov/Legislators/Profile/PRF0
+other_names:
+- name: Feeney, P.
+- name: P. Feeney
+- name: P.R. Feeney
+- name: Paul R. Feeney
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000578
+sources:
+- url: https://ballotpedia.org/Paul_Feeney
+- url: https://en.wikipedia.org/wiki/Paul_Feeney
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/PRF0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/PRF0
+- url: https://malegislature.gov/Legislators/Profile/PRF0
+- url: https://www.linkedin.com/in/paul-feeney-b6525aa
+extras:
+  member code: PRF0

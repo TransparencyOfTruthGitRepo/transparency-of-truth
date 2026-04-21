@@ -1,0 +1,20 @@
+id: ocd-person/fc76bd5b-5e42-4d6b-a25f-57868bb4a69c
+name: Robert Brehm
+given_name: Robert
+family_name: Brehm
+email: robert.brehm@elections.ny.gov
+party:
+- name: Independent
+roles:
+- end_date: '2021-12-31'
+  type: chief election officer
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+offices:
+- classification: capitol
+  address: 40 NORTH PEARL STREET; SUITE 5; ALBANY, NY 12207-2729
+  voice: 518-474-8100
+  fax: 518-486-4068
+links:
+- url: https://www.elections.ny.gov/Contact.html
+sources:
+- url: https://www.elections.ny.gov/Contact.html

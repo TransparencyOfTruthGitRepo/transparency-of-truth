@@ -1,0 +1,29 @@
+id: ocd-person/f05cc6b6-39ab-49d5-9a79-b01e449c2c2b
+name: David Hancock
+given_name: Dave
+family_name: Hancock
+image: http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_02A.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 2B
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 2A
+links:
+- url: http://www.house.leg.state.mn.us/members/members.asp?id=15351
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000271
+- scheme: legacy_openstates
+  identifier: MNL000610
+- scheme: legacy_openstates
+  identifier: MNL000701
+sources:
+- url: http://www.house.leg.state.mn.us/members/hmem.asp

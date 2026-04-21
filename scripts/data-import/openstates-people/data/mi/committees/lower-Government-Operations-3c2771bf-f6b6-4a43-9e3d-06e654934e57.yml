@@ -1,0 +1,45 @@
+id: ocd-organization/3c2771bf-f6b6-4a43-9e3d-06e654934e57
+jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+classification: committee
+name: Government Operations
+chamber: lower
+sources:
+- url: https://www.house.mi.gov/Committee/GOVE
+- url: https://www.house.mi.gov/Committee/HGOV
+- url: https://www.house.mi.gov/Committee/HGOVE
+- url: https://www.house.mi.gov/MHRPublic/CommitteeInfo.aspx?comcode=GOVE
+- url: https://www.house.mi.gov/PublicCommitteeSchedule
+- url: https://www.legislature.mi.gov/mileg.aspx?page=listserverSignup
+links:
+- url: https://www.house.mi.gov/Committee/GOVE
+  note: homepage
+- url: https://www.house.mi.gov/Committee/HGOV
+- url: https://www.house.mi.gov/Committee/HGOVE
+  note: homepage
+- url: https://www.house.mi.gov/MHRPublic/CommitteeInfo.aspx?comcode=GOVE
+  note: homepage
+- url: https://www.house.mi.gov/PublicCommitteeSchedule
+- url: https://www.legislature.mi.gov/mileg.aspx?page=listserverSignup
+members:
+- name: Brian BeGole
+  role: chair
+  person_id: ocd-person/172b6e7c-3765-4978-bc03-3d19a92d5164
+- name: John Fitzgerald
+  role: democratic vice chair
+  person_id: ocd-person/9f4f8b82-e4ee-4e50-a2ea-d46bbf264d34
+- name: Mike Harris
+  role: republican vice chair
+  person_id: ocd-person/a93eaebe-bdac-4292-a28f-6a3b04efd191
+- name: Curt VanderWall
+  role: member
+  person_id: ocd-person/b0804883-3f8c-4341-bbc1-26a0346b37c4
+- name: Mike McFall
+  role: member
+  person_id: ocd-person/b34263be-1f2e-49db-a261-b30e76ba790a
+other_names:
+- name: House Committee on Government Operations
+- name: House Government Operations
+- name: House Government Operations Committee
+extras:
+  clerk: Angie Lake
+  clerk phone number: '5173735795'

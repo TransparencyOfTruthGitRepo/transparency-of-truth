@@ -1,0 +1,44 @@
+id: ocd-person/9d8c89be-2ece-4dff-8a6d-65dccb8e647e
+name: Josh Holstein
+given_name: Josh
+family_name: Holstein
+birth_date: 2001-11-02
+gender: Male
+email: josh.holstein@wvhouse.gov
+image: https://www.wvlegislature.gov/images/members/2024/house/holstein_josh.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '32'
+- start_date: 2020-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '32'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '23'
+offices:
+- classification: capitol
+  address: State Capitol Room 222E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3184
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Holstein
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Holstein
+other_names:
+- name: Holstein, J
+- name: Holstein, J.
+- name: J. Holstein
+- name: J.A. Holstein
+sources:
+- url: https://ballotpedia.org/Josh_Holstein
+- url: https://en.wikipedia.org/wiki/Josh_Holstein
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Holstein
+- url: https://www.linkedin.com/in/josh-holstein-4037b1186
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Holstein
+- url: https://www.wvlegislature.gov/House/roster.cfm

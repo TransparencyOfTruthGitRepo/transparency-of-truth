@@ -1,0 +1,58 @@
+id: ocd-person/facb5409-244f-4381-8452-e6a1078bb1c5
+name: Michael Cahill
+given_name: Michael
+family_name: Cahill
+gender: Male
+email: michael.cahill@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/49903.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 10
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 10
+  start_date: 2022-12-07
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 17
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-380-1736
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=377079
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377079
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=687
+  note: member detail page
+other_names:
+- name: Cahill, M.
+- name: M. Cahill
+- name: Michael D. Cahill
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000475
+- scheme: legacy_openstates
+  identifier: NHL000836
+sources:
+- url: https://ballotpedia.org/Michael_Cahill
+- url: https://en.wikipedia.org/wiki/Michael_Cahill_(New_Hampshire_politician)
+- url: https://gc.nh.gov/house/members/member.aspx?member=377079
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/143292/michael-cahill
+- url: https://justfacts.votesmart.org/candidate/biography/143292/michael-cahill
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377079
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=687
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: M

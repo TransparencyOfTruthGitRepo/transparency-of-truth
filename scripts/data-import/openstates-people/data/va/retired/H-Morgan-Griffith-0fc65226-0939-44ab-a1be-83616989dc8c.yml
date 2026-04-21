@@ -1,0 +1,17 @@
+id: ocd-person/0fc65226-0939-44ab-a1be-83616989dc8c
+name: H. Morgan Griffith
+given_name: H. Morgan
+family_name: Griffith
+party:
+- name: Republican
+roles:
+- start_date: '2010-01-01'
+  end_date: '2011-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '8'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000075
+sources:
+- url: http://leg6.state.va.us/cgi-bin/legp604.exe?101+mbr+H39

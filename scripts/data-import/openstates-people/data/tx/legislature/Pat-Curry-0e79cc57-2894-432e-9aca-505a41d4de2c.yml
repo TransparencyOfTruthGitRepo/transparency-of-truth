@@ -1,0 +1,34 @@
+id: ocd-person/0e79cc57-2894-432e-9aca-505a41d4de2c
+name: Pat Curry
+given_name: Pat
+family_name: Curry
+gender: Male
+email: pat.curry@house.texas.gov
+image: https://house.texas.gov/images/members/4415.jpg?v=2
+party:
+- name: Republican
+roles:
+- start_date: 2024-11-18
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '56'
+offices:
+- classification: capitol
+  address: Room E1.512, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0135
+- classification: district
+  address: 204 Woodhew Drive, Waco, TX 76712
+links:
+- url: https://house.texas.gov/members/4415
+other_names:
+- name: Curry, P.
+- name: Curry, Pat
+- name: P. Curry
+- name: P.J. Curry
+sources:
+- url: https://ballotpedia.org/Pat_Curry
+- url: https://en.wikipedia.org/wiki/Pat_Curry
+- url: https://house.texas.gov/members/4415
+- url: https://house.texas.gov/members/4415/biography
+- url: https://justfacts.votesmart.org/candidate/biography/213389/pat-curry
+- url: https://www.linkedin.com/in/pat-curry-693b2a16

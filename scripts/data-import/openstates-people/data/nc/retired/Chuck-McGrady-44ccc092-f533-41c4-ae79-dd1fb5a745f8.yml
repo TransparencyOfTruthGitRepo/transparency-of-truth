@@ -1,0 +1,24 @@
+id: ocd-person/44ccc092-f533-41c4-ae79-dd1fb5a745f8
+name: Chuck McGrady
+given_name: Chuck
+family_name: McGrady
+email: Chuck.McGrady@ncleg.net
+image: http://www.ncleg.net/House/pictures/hiRes/605.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-10-01'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '117'
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/605
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000215
+sources:
+- url: https://www.ncleg.gov/Members/Biography/H/605
+extras:
+  counties:
+  - Henderson
+  notice: null

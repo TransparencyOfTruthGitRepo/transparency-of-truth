@@ -1,0 +1,21 @@
+id: ocd-person/d65e9c56-715f-4c41-ad5f-6c7b4501e154
+name: Jarrod B Martin
+given_name: Jarrod
+family_name: Martin
+middle_name: B
+image: http://www.house.state.oh.us/houseImages/129/headshots/h70.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '70'
+links:
+- url: http://www.house.state.oh.us/components/com_displaymembers/page.php?district=70
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000103
+sources:
+- url: http://www.house.state.oh.us/components/com_displaymembers/page.php?district=70

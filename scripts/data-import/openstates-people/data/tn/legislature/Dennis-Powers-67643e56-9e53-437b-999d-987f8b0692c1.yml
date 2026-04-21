@@ -1,0 +1,54 @@
+id: ocd-person/67643e56-9e53-437b-999d-987f8b0692c1
+name: Dennis Powers
+given_name: Dennis
+family_name: Powers
+birth_date: 1953-09-14
+gender: Male
+email: rep.dennis.powers@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h36.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2010-11-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '36'
+offices:
+- classification: capitol
+  address: Room 428, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-3335
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H36
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h36.html
+other_names:
+- name: D. Powers
+- name: Powers, D
+- name: Powers, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000102
+- scheme: legacy_openstates
+  identifier: TNL000233
+- scheme: legacy_openstates
+  identifier: TNL000363
+sources:
+- url: https://ballotpedia.org/Dennis_Powers_(Tennessee)
+- url: https://en.wikipedia.org/wiki/Dennis_Powers
+- url: https://justfacts.votesmart.org/candidate/biography/12119/dennis-powers
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H36
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h36.html
+- url: https://www.linkedin.com/in/dennis-powers-1349a32a
+extras:
+  office: 674 CHB
+  personal info:
+  - Born September 14, 1953
+  - Married, wife Tracy
+  - First Baptist Church of Jacksboro
+  - Insurance Agent
+  - LaFollette High School
+  - B.S. Business Administration, University of Tennessee

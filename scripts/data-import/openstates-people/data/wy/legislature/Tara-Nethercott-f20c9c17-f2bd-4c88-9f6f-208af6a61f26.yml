@@ -1,0 +1,56 @@
+id: ocd-person/f20c9c17-f2bd-4c88-9f6f-208af6a61f26
+name: Tara Nethercott
+given_name: Tara
+family_name: Nethercott
+gender: Female
+email: tara.nethercott@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-NethercottTara.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '4'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 20173, Cheyenne, WY 82003
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/S/2029
+- url: https://www.wyoleg.gov/Legislators/2025/S/2029
+- url: https://wyoleg.gov/Legislators/2019/R/2029
+- url: https://wyoleg.gov/Legislators/2021/R/2029
+other_names:
+- name: Nethercott, T
+- name: Nethercott, T.
+- name: T. Nethercott
+- name: T.B. Nethercott
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000161
+sources:
+- url: https://ballotpedia.org/Tara_Nethercott
+- url: https://crowleyfleck.com/biography/tara-b-nethercott
+- url: https://en.wikipedia.org/wiki/Tara_Nethercott
+- url: https://justfacts.votesmart.org/candidate/biography/171165/tara-nethercott
+- url: https://www.wyoleg.gov/Legislators/2023/S/2029
+- url: https://www.wyoleg.gov/Legislators/2025/S/2029
+- url: https://wyoleg.gov/Legislators/2019/R/2029
+- url: https://wyoleg.gov/Legislators/2021/R/2029
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2029
+extras:
+  county: Laramie County
+  education:
+  - schoolName: University of Wyoming
+    gradYear: '2009'
+    degree: Juris Doctorate
+  senate years: 'Senate: 2017-Present'
+  prior service:
+  - chamber: Senate
+    startYear: 2017
+    endYear: Present
+    district: ' District 04, '

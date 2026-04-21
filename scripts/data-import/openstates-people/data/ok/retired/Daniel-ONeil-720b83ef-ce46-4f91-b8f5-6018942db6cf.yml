@@ -1,0 +1,17 @@
+id: ocd-person/720b83ef-ce46-4f91-b8f5-6018942db6cf
+name: Daniel O'Neil
+given_name: Daniel
+family_name: O'Neil
+email: dan.oneil@edmondok.com
+roles:
+- end_date: '2021-05-01'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ok/place:edmond/government
+offices:
+- classification: primary
+  address: 24 East 1st Street;Edmond, OK 73034
+  voice: 405-359-4640
+links:
+- url: http://edmondok.com/
+sources:
+- url: http://edmondok.com/

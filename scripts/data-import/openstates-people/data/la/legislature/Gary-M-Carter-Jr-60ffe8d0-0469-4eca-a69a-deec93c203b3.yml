@@ -1,0 +1,65 @@
+id: ocd-person/60ffe8d0-0469-4eca-a69a-deec93c203b3
+name: Gary Carter
+given_name: Gary
+family_name: Carter
+gender: Male
+email: carterg@legis.la.gov
+image: https://senate.la.gov/SenatorPics/Sen7.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-06-30
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '7'
+- start_date: 2016-01-11
+  end_date: 2021-06-29
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '7'
+- end_date: 2021-06-29
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '102'
+  end_reason: Elected to Louisiana Senate
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 2401 Westbend Parkway Suite 3071, New Orleans, LA 70114
+  voice: 504-361-6600
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=102
+- url: https://senate.la.gov/smembers.aspx?ID=7
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=7
+other_names:
+- name: Carter, G.
+- name: G. Carter
+- name: G.M. Carter
+- name: Gary Carter
+- name: Gary M. Carter Jr.
+- name: Gary M. Carter, Jr.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000816
+- scheme: legacy_openstates
+  identifier: LAL000894
+sources:
+- url: https://ballotpedia.org/Gary_Carter,_Jr.
+- url: https://en.wikipedia.org/wiki/Gary_Carter,_Jr.
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=102
+- url: https://senate.la.gov/Senators_FullInfo
+- url: https://senate.la.gov/smembers.aspx?ID=7
+- url: https://senate.la.gov/smembers?ID=7
+- url: https://www.linkedin.com/in/gary-carter-jr-b8873390
+extras:
+  second phone: (504) 361-6600
+  legislative assistant: Tosha Kish
+  representing parishes:
+  - Jefferson
+  - Orleans
+  - Plaquemines
+  education: Archbishop Shaw High School, 1992; Xavier University of Louisiana, B.A.,
+    Political Science, 1996; Tulane Law School, J.D., 2002

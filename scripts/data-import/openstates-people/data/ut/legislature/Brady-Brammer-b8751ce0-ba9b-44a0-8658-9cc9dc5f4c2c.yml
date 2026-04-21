@@ -1,0 +1,75 @@
+id: ocd-person/b8751ce0-ba9b-44a0-8658-9cc9dc5f4c2c
+name: Brady Brammer
+given_name: Brady
+family_name: Brammer
+gender: Male
+email: bbrammer@le.utah.gov
+image: https://le.utah.gov/images/legislator/BRAMMB.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '21'
+- start_date: 2023-01-01
+  end_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '54'
+- start_date: 2019-01-01
+  end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '27'
+offices:
+- classification: capitol
+  address: P.O. Box 145115 350 N. State St., Suite 320, Salt Lake City, UT 84114
+  voice: 801-538-1035
+- classification: district
+  address: 1955 W. Grove Parkway, Suite 200, Pleasant Grove, UT 84062
+links:
+- url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415048
+  note: finance report
+- url: https://house.utah.gov/rep/BRAMMB
+- url: https://house.utah.gov/rep/BRAMMB/
+  note: homepage
+- url: https://house.utleg.gov/rep/BRAMMB/
+- url: https://le.utah.gov/asp/billsintro/RepResults.asp?Listbox3=BRAMMB
+  note: legislation
+- url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=BRAMMB
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2020/House_Dist27.pdf
+  note: district demographics
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/House_Dist54.pdf
+  note: district demographics
+- url: https://le.utah.gov/house2/CofI/COFIBRAMMB.pdf
+  note: conflict of interest 0
+- url: https://senate.utah.gov/sen/BRAMMB/
+other_names:
+- name: B. Brammer
+- name: Brammer, B.
+- name: Brammer, Brady
+- name: J.B. Brammer
+sources:
+- url: https://ballotpedia.org/Brady_Brammer
+- url: https://en.wikipedia.org/wiki/Brady_Brammer
+- url: https://house.utah.gov/rep/BRAMMB
+- url: https://house.utah.gov/rep/BRAMMB/
+- url: https://house.utleg.gov/rep/BRAMMB
+- url: https://house.utleg.gov/rep/BRAMMB/
+- url: https://justfacts.votesmart.org/candidate/biography/182164/brady-brammer
+- url: https://le.utah.gov/data/legislators.json
+- url: https://senate.utah.gov/sen/BRAMMB
+- url: https://www.linkedin.com/in/brammer
+- url: https://www.spauldinglaw.com/brady-brammer
+extras:
+  service start: January 1, 2019
+  profession: Attorney
+  education: B.A., Brigham Young University; J.D. Brigham Young University; M.P.A,
+    Brigham Young University
+  counties represented:
+  - Utah
+  cell phone: 801-709-1790
+  home phone: 801-709-1790
+  title: House Rules Chair

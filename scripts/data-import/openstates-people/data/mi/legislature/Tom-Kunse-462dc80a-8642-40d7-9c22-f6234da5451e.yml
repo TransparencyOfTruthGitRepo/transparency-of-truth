@@ -1,0 +1,37 @@
+id: ocd-person/462dc80a-8642-40d7-9c22-f6234da5451e
+name: Tom Kunse
+given_name: Tom
+family_name: Kunse
+birth_date: 1970-11-10
+gender: Male
+email: tomkunse@house.mi.gov
+image: https://www.house.mi.gov/media/Representatives/Kunse-100.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '100'
+offices:
+- classification: capitol
+  address: Room S-1289, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-7317
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/RepTomKunse/posts
+other_names:
+- name: Kunse, T.
+- name: T. Kunse
+sources:
+- url: https://ballotpedia.org/Tom_Kunse
+- url: https://gophouse.org/member/RepTomKunse/about
+- url: https://gophouse.org/member/RepTomKunse/posts
+- url: https://RepKunse.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.house.mi.gov/repdetail/repTomKunse
+  note: Member Details Page

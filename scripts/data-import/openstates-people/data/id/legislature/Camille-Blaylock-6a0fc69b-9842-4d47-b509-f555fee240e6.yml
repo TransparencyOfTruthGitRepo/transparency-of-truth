@@ -1,0 +1,33 @@
+id: ocd-person/6a0fc69b-9842-4d47-b509-f555fee240e6
+name: Camille Blaylock
+given_name: Camille
+family_name: Blaylock
+gender: Female
+email: cblaylock@senate.idaho.gov
+image: https://idgop.org/wp-content/uploads/sites/4/2024/05/blaylock-1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: '11'
+offices:
+- classification: capitol
+  address: P.O. Box 83720 700 W. Jefferson St., Boise, ID 83720
+  voice: 208-332-1320
+- classification: district
+  address: Caldwell, ID 83605
+  voice: 208-484-3183
+links:
+- url: https://legislature.idaho.gov/legislators/membership/2025/id9400/
+- url: https://legislature.idaho.gov/legislators/membership/2026/id9400/
+other_names:
+- name: Blaylock, C.
+- name: C. Blaylock
+sources:
+- url: https://ballotpedia.org/Camille_Blaylock
+- url: https://en.wikipedia.org/wiki/Camille_Blaylock
+- url: https://legislature.idaho.gov/legislators/membership/2025/id9400
+- url: https://legislature.idaho.gov/legislators/membership/2026/id9400
+- url: https://www.linkedin.com/in/camilleblaylock

@@ -1,0 +1,38 @@
+id: ocd-person/dc9056b8-fb9c-4a66-99b8-210acce64bff
+name: Tom Sullivan
+given_name: Tom
+family_name: Sullivan
+birth_date: 1956-05-17
+gender: Male
+email: tom.sullivan.senate@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_sullivan%2Ctom.jpg?itok=rbln5IBq
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '27'
+offices:
+- classification: capitol
+  address: State Capitol Room 346, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-4873
+links:
+- url: https://leg.colorado.gov/legislators/tom-sullivan
+  note: homepage
+other_names:
+- name: L.T. Sullivan
+- name: Sullivan T.
+- name: Sullivan, T.
+- name: T. Sullivan
+sources:
+- url: https://ballotpedia.org/Tom_Sullivan_(Colorado)
+- url: https://en.wikipedia.org/wiki/Tom_Sullivan_(Colorado_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/169958/tom-sullivan
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/tom-sullivan
+extras:
+  counties represented:
+  - Arapahoe
+  - Douglas

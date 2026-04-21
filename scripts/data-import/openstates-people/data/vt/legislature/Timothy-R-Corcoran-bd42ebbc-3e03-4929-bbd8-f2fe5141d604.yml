@@ -1,0 +1,69 @@
+id: ocd-person/bd42ebbc-3e03-4929-bbd8-f2fe5141d604
+name: Timothy Corcoran
+given_name: Timothy
+family_name: Corcoran
+birth_date: 1973-03-17
+gender: Male
+email: tcorcoran@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/TCorcoran.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Bennington-2
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Bennington-2
+  start_date: 2023-01-04
+- end_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Bennington-2-1
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+- classification: home
+  address: 8 Corey Lane, Bennington, VT 05201
+links:
+- url: https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Bennington-2.pdf
+  note: district map
+- url: https://legislature.vermont.gov/Documents/SmallMaps/BEN-2-1.pdf
+  note: district map
+- url: https://legislature.vermont.gov/people/single/2022/14546
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2024/14546
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2026/14546
+other_names:
+- name: Corcoran, T.
+- name: T. Corcoran
+- name: T.R. Corcoran
+- name: Timothy Corcoran
+- name: Timothy Corcoran II
+- name: Timothy R. Corcoran
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000056
+- scheme: legacy_openstates
+  identifier: VTL000392
+- scheme: legacy_openstates
+  identifier: VTL000688
+sources:
+- url: https://ballotpedia.org/Timothy_Corcoran_II
+- url: https://en.wikipedia.org/wiki/Timothy_Corcoran_II
+- url: https://justfacts.votesmart.org/candidate/51005/timothy-corcoran-ii
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/loadAll/2024
+- url: https://legislature.vermont.gov/people/single/2020/14546
+- url: https://legislature.vermont.gov/people/single/2022/14546
+- url: https://legislature.vermont.gov/people/single/2024/14546
+- url: https://legislature.vermont.gov/people/single/2026/14546
+extras:
+  home address: Bennington, VT 05201
+  home phone: (802) 447-0929
+  state email: tcorcoran@leg.state.vt.us

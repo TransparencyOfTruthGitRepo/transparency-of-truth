@@ -1,0 +1,62 @@
+id: ocd-person/0f288c5b-484a-4b70-8209-0a23f922edd1
+name: David Jenkins
+given_name: David
+family_name: Jenkins
+birth_date: 1971-03-07
+gender: Male
+email: david.jenkins@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/jenkins-david-5005.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '136'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '132'
+offices:
+- classification: capitol
+  address: Room 504-F, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0188
+- classification: district
+  address: 833 John Trammell Road, Grantville, GA 30220
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5005
+- url: https://www.legis.ga.gov/members/house/5005?session=1029
+- url: https://www.legis.ga.gov/members/house/5005?session=1031
+  note: HTML member detail page
+other_names:
+- name: D. Jenkins
+- name: D.G. Jenkins
+- name: David Glenn Jenkins
+- name: David Jenkins
+- name: JENKINS, 136TH
+- name: Jenkins, D.
+sources:
+- url: https://ballotpedia.org/David_Jenkins_(Georgia)
+- url: https://en.wikipedia.org/wiki/David_Jenkins_(Georgia_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/190406/david-jenkins
+- url: https://www.legis.ga.gov/api/members/detail/5005?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/5005?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5005
+- url: https://www.legis.ga.gov/members/house/5005?session=1029
+extras:
+  residence: Grantville
+  city: Grantville
+  georgia_id: 5005
+  birthday: March 7
+  occupation: Helicopter Pilot
+  press: https://house-press.com/representative/David-Jenkins
+  spouse: Catherine
+  staff: LaTricia Howard - Administrative Assistant
+  staff email: latricia.howard@house.ga.gov

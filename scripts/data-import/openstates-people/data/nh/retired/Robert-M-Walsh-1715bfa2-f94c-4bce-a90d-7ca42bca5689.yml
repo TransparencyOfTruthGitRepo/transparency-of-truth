@@ -1,0 +1,24 @@
+id: ocd-person/1715bfa2-f94c-4bce-a90d-7ca42bca5689
+name: Robert M. Walsh
+given_name: Robert
+family_name: Walsh
+middle_name: M.
+image: http://www.gencourt.state.nh.us/house/images/memberpics/376882.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 11
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000780
+- scheme: legacy_openstates
+  identifier: NHL001016
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376882
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt

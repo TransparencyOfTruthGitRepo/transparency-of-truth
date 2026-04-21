@@ -1,0 +1,22 @@
+id: ocd-person/f2eece23-7480-4c6d-962c-c3612cc5299a
+name: Connie Pillich
+given_name: Connie
+family_name: Pillich
+image: http://www.ohiohouse.gov/Assets/Headshots/Small/28.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '28'
+links:
+- url: http://www.ohiohouse.gov/connie-pillich
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000061
+- scheme: legacy_openstates
+  identifier: OHL000197
+sources:
+- url: http://www.ohiohouse.gov/members/member-directory

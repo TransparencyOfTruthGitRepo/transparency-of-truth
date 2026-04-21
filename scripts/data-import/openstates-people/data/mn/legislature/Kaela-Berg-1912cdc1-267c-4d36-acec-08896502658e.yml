@@ -1,0 +1,37 @@
+id: ocd-person/1912cdc1-267c-4d36-acec-08896502658e
+name: Kaela Berg
+given_name: Kaela
+family_name: Berg
+birth_date: 1973-09-15
+gender: Female
+email: rep.kaela.berg@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/55B.gif
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 55B
+- start_date: 2021-01-05
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 56B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-5387
+links:
+- url: https://www.house.mn.gov/members/profile/15550
+other_names:
+- name: Berg, K.
+- name: K. Berg
+- name: K.J. Berg
+sources:
+- url: https://ballotpedia.org/Kaela_Berg
+- url: https://en.wikipedia.org/wiki/Kaela_Berg
+- url: https://justfacts.votesmart.org/candidate/194235/kaela-berg
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15550
+- url: https://www.linkedin.com/in/kaela-berg-62735118

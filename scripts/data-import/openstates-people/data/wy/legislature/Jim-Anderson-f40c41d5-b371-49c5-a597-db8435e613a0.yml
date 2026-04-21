@@ -1,0 +1,85 @@
+id: ocd-person/f40c41d5-b371-49c5-a597-db8435e613a0
+name: Jim Anderson
+given_name: Jim
+family_name: Anderson
+birth_date: 1948-07-24
+gender: Male
+email: jim.anderson@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-AndersonJim.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '28'
+- start_date: 2011-01-01
+  end_date: 2016-12-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '2'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district
+  address: 5941 S. Cedar St., Casper, WY 82601
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/S/1985
+- url: https://www.wyoleg.gov/Legislators/2025/S/1985
+- url: https://www.wyoleg.gov/Legislators/2026/S/1985
+- url: https://wyoleg.gov/Legislators/2019/R/1985
+- url: https://wyoleg.gov/Legislators/2021/R/1985
+other_names:
+- name: Anderson, J
+- name: Anderson, J.
+- name: J. Anderson
+- name: J.L. Anderson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000168
+- scheme: legacy_openstates
+  identifier: WYL000001
+- scheme: legacy_openstates
+  identifier: WYL000092
+- scheme: legacy_openstates
+  identifier: WYL000113
+- scheme: legacy_openstates
+  identifier: WYL000135
+- scheme: openstates
+  identifier: ocd-person/263445d8-aeb6-45ed-9aa6-63a05d932a53
+sources:
+- url: https://ballotpedia.org/James_Anderson_(Wyoming_State_Senate_District_28)
+- url: https://en.wikipedia.org/wiki/James_Lee_Anderson
+- url: https://justfacts.votesmart.org/candidate/141984/jim-anderson
+- url: https://www.linkedin.com/in/jim-anderson-10882361
+- url: https://www.wyoleg.gov/Legislators/2023/S/1985
+- url: https://www.wyoleg.gov/Legislators/2025/S/1985
+- url: https://www.wyoleg.gov/Legislators/2026/S/1985
+- url: https://wyoleg.gov/Legislators/2019/R/1985
+- url: https://wyoleg.gov/Legislators/2021/R/1985
+- url: https://wyoleg.gov/LsoService/api/legislator/1985
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+extras:
+  county: Natrona County
+  education:
+  - schoolName: Kaycee High School
+    gradYear: '1966'
+    degree: High school
+  - schoolName: Casper College
+    gradYear: '1974'
+    degree: A.S. Business
+  religion: Episcopal
+  spouse name: Susan
+  number of children: '2'
+  number of grandchildren: '5'
+  birth place: Sheridan
+  occupation: Retired
+  organizations:
+  - orgname: Casper Rotary Club
+  senate years: 'Senate: 2013-Present'
+  prior service:
+  - chamber: Senate
+    startYear: 2013
+    endYear: Present
+    district: ' District 28, '

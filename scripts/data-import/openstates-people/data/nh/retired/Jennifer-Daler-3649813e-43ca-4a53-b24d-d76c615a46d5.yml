@@ -1,0 +1,19 @@
+id: ocd-person/3649813e-43ca-4a53-b24d-d76c615a46d5
+name: Jennifer Daler
+given_name: Jennifer
+family_name: Daler
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 4
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376688
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000099
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members(Asterisk%20Delimited).txt

@@ -1,0 +1,66 @@
+id: ocd-person/1cbf8801-61cd-5f46-93c1-0d02f110035a
+name: Tom Kean
+given_name: Tom
+family_name: Kean
+birth_date: 1968-09-05
+gender: Male
+email: https://kean.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/K000398.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NJ-7
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NJ-7
+offices:
+- classification: capitol
+  address: 251 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-5361
+- classification: district
+  address: 100 Corporate Drive Suite 106, Lebanon, NJ 08833
+  voice: 908-547-3307
+- classification: district
+  address: 75 Claremont Road Suite 206, Bernardsville, NJ 07924
+  voice: 908-547-3307
+links:
+- url: https://kean.house.gov
+  note: website
+- url: https://kean.house.gov/
+other_names:
+- name: Kean, T.
+- name: T. Kean
+- name: T.H. Kean
+- name: Thomas H. Kean, Jr.
+ids:
+  twitter: CongressmanKean
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Thomas Kean Jr.
+- scheme: bioguide
+  identifier: K000398
+- scheme: fec
+  identifier: H0NJ07261
+- scheme: govtrack
+  identifier: '456917'
+- scheme: opensecrets
+  identifier: N00027502
+- scheme: pictorial
+  identifier: '13156'
+- scheme: votesmart
+  identifier: '43250'
+- scheme: wikidata
+  identifier: Q7791445
+sources:
+- url: https://ballotpedia.org/Thomas_Kean
+- url: https://en.wikipedia.org/wiki/Thomas_Kean,_Jr.
+- url: https://justfacts.votesmart.org/candidate/biography/43250/tom-kean-jr
+- url: https://kean.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/

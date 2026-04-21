@@ -1,0 +1,54 @@
+id: ocd-person/3a23acfd-5ce6-4e47-b641-1efdab05bdca
+name: Lisa Campbell
+given_name: Lisa
+family_name: Campbell
+birth_date: 1968-07-29
+gender: Female
+email: lisa.campbell@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/campbell-lisa-5023.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '35'
+offices:
+- classification: capitol
+  address: Room 507-F, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0202
+- classification: district
+  address: '2001 Duncan Drive Unit #2281, Kennesaw, GA 30156'
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5023
+- url: https://www.legis.ga.gov/members/house/5023?session=1031
+  note: HTML member detail page
+other_names:
+- name: CAMPBELL, 35TH
+- name: Campbell, L.
+- name: L. Campbell
+- name: L.G. Campbell
+- name: Lisa Campbell
+- name: Lisa Gayle Campbell
+sources:
+- url: https://ballotpedia.org/Lisa_Campbell_(Georgia)
+- url: https://en.wikipedia.org/wiki/Lisa_Campbell_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/190211/lisa-campbell
+- url: https://www.legis.ga.gov/api/members/detail/5023?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5023
+- url: https://www.linkedin.com/in/lisa-campbell-a804312
+extras:
+  residence: Kennesaw
+  city: Kennesaw
+  georgia_id: 5023
+  birthday: July 29
+  occupation: Consultant
+  press: https://house-press.com/representative/Lisa-Campbell
+  staff: Gerri Sullivan - Administrative Assistant
+  staff email: gerri.sullivan@house.ga.gov

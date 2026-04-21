@@ -1,0 +1,43 @@
+id: ocd-person/7e340127-bea2-48af-95a8-368b99160880
+name: Carolyn Crawford
+given_name: Carolyn
+family_name: Crawford
+gender: Female
+email: ccrawford@house.ms.gov
+image: http://billstatus.ls.state.ms.us/members/house/crawford.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2012-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '121'
+offices:
+- classification: capitol
+  address: State Capitol Room 201-M7, 400 High St., Jackson, MS 39201
+  voice: 601-359-2582
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/crawford.xml
+  note: homepage
+other_names:
+- name: C. Crawford
+- name: Crawford, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000207
+sources:
+- url: https://ballotpedia.org/Carolyn_Crawford
+- url: https://billstatus.ls.state.ms.us/members/house/crawford.xml
+- url: https://billstatus.ls.state.ms.us/members/hr_membs.xml
+- url: https://en.wikipedia.org/wiki/Carolyn_Crawford
+- url: https://justfacts.votesmart.org/candidate/biography/130317/carolyn-crawford
+- url: https://www.linkedin.com/in/carolyn-crawford-20785b82
+extras:
+  occupation: former Social Worker
+  education:
+  - University of South Alabama
+  - Long Beach High School
+  counties represented:
+  - Harrison

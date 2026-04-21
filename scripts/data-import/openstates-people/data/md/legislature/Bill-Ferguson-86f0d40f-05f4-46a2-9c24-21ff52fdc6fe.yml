@@ -1,0 +1,38 @@
+id: ocd-person/86f0d40f-05f4-46a2-9c24-21ff52fdc6fe
+name: Bill Ferguson
+given_name: Bill
+family_name: Ferguson
+birth_date: 1983-04-15
+gender: Male
+email: bill.ferguson@senate.maryland.gov
+image: https://mgaleg.maryland.gov/2025RS/images/ferguson.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2011-01-12
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '46'
+offices:
+- classification: capitol
+  address: Room H-107, State House 100 State Circle, Annapolis, MD 21401
+  voice: 410-841-3600
+  fax: 410-841-3161
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/ferguson
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=ferguson&stab=01
+other_names:
+- name: B. Ferguson
+- name: Ferguson, B.
+- name: W.C. Ferguson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000379
+- scheme: legacy_openstates
+  identifier: MDL000434
+sources:
+- url: https://ballotpedia.org/William_Ferguson_IV
+- url: https://en.wikipedia.org/wiki/Bill_Ferguson_(politician)
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/ferguson
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=ferguson&stab=01
+- url: https://www.linkedin.com/in/billferguson

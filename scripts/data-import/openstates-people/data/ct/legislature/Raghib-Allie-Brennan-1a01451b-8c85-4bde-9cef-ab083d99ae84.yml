@@ -1,0 +1,41 @@
+id: ocd-person/1a01451b-8c85-4bde-9cef-ab083d99ae84
+name: Raghib Allie-Brennan
+given_name: Raghib
+family_name: Allie-Brennan
+birth_date: 1991-07-20
+gender: Male
+email: raghib.allie-brennan@cga.ct.gov
+image: http://www2.housedems.ct.gov/Allie-Brennan/images/Allie-Brennan_HS.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '2'
+offices:
+- classification: capitol
+  address: Room 4041, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 800-842-8267
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27002%27&dist_name=Allie-Brennan,%20Raghib
+- url: https://www.housedems.ct.gov/allie-brennan
+- url: https://www.housedems.ct.gov/Allie-Brennan
+other_names:
+- name: Allie-Brennan, R.
+- name: Allie-brennan, Raghib
+- name: R. Allie-Brennan
+- name: R.I. Allie-Brennan
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Raghib_Allie-Brennan
+- url: https://en.wikipedia.org/wiki/Raghib_Allie-Brennan
+- url: https://justfacts.votesmart.org/candidate/172140/raghib-allie-brennan
+- url: https://www.housedems.ct.gov/Allie-Brennan
+- url: https://www.linkedin.com/in/raghib-allie-brennan-710b7776
+extras:
+  gender: Male
+  title: Deputy Majority Leader
+  committees: Energy and Technology; General Law; Public Safety and Security
+  committee codes: ;ET;GL;PS;
+  prison: '0'

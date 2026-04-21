@@ -1,0 +1,20 @@
+id: ocd-person/2d276a56-3f78-4ecd-8a49-b933a105948e
+name: William Boyland Jr.
+given_name: William
+family_name: Boyland
+image: http://votesmart.org/canphoto/45068.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '55'
+links:
+- url: http://assembly.state.ny.us/mem/William-F-Boyland-Jr
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000073
+sources:
+- url: http://assembly.state.ny.us/mem/?sh=email

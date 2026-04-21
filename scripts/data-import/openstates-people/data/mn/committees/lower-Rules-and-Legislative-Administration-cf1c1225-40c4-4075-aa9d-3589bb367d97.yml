@@ -1,0 +1,77 @@
+id: ocd-organization/cf1c1225-40c4-4075-aa9d-3589bb367d97
+jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+classification: committee
+name: Rules and Legislative Administration
+chamber: lower
+sources:
+- url: https://www.house.leg.state.mn.us/committees
+- url: https://www.house.leg.state.mn.us/Committees/archives/93021
+- url: https://www.house.leg.state.mn.us/Committees/home/93021
+- url: https://www.house.leg.state.mn.us/Committees/members/93021
+- url: https://www.house.leg.state.mn.us/Committees/minutes/93021
+- url: https://www.house.leg.state.mn.us/schedules/committee/93021/all
+- url: https://www.house.mn.gov/Committees/Home/94019
+links:
+- url: https://www.house.leg.state.mn.us/Committees/archives/93021
+- url: https://www.house.leg.state.mn.us/Committees/home/93021
+  note: homepage
+- url: https://www.house.leg.state.mn.us/Committees/minutes/93021
+- url: https://www.house.leg.state.mn.us/schedules/committee/93021/all
+- url: https://www.house.mn.gov/Committees/Home/93021
+- url: https://www.house.mn.gov/Committees/Home/94019
+members:
+- name: Harry Niska
+  role: co-chair
+  person_id: ocd-person/371f41ef-a432-4880-950b-f3ac4b17d02f
+- name: Jamie Long
+  role: co-chair
+  person_id: ocd-person/b6ea5e13-3aad-438c-bed0-749a9bff80c3
+- name: Athena Hollins
+  role: co-vice chair
+  person_id: ocd-person/9f56bc31-f522-4e29-af62-cdc616babc88
+- name: Isaac Schultz
+  role: co-vice chair
+  person_id: ocd-person/a916d408-21ae-4eee-a2d7-c8019478f521
+- name: Erin Koegel
+  role: member
+  person_id: ocd-person/0d6f7edf-eae0-441d-8089-84472ce1f36f
+- name: Jim Nash
+  role: member
+  person_id: ocd-person/d7012c12-e223-4409-823b-ba3e55be6677
+- name: Keith Allen
+  role: member
+  person_id: ocd-person/939c0bab-e76d-443f-b46b-7f98d05036e2
+- name: Kristi Pursell
+  role: member
+  person_id: ocd-person/ed73b309-bb2f-4805-a33b-a3fb760e6664
+- name: Luke Frederick
+  role: member
+  person_id: ocd-person/b0d93fc5-2efc-4908-aceb-7b2fc208b34d
+- name: Mike Howard
+  role: member
+  person_id: ocd-person/8910b3db-698e-4019-b976-0ee19ecb8ca0
+- name: Natalie Zeleznikar
+  role: member
+  person_id: ocd-person/1b1055a8-959c-452c-a2a8-106a4ccef20d
+- name: Nathan Coulter
+  role: member
+  person_id: ocd-person/63b26a4d-ae7c-4267-89ab-dfa4a1f341ad
+- name: Peggy Scott
+  role: member
+  person_id: ocd-person/75f1b339-bd9f-4f7c-820b-75812553bde0
+- name: Steve Jacob
+  role: member
+  person_id: ocd-person/3c90edec-1bce-4197-8e1c-cc840102c7a9
+- name: Sydney Jordan
+  role: member
+  person_id: ocd-person/e60bb3ff-5164-4d6d-9029-d2e3d2ac69a0
+- name: Terry Stier
+  role: member
+  person_id: ocd-person/9e7eca64-ff97-48f2-8887-916e50d917cd
+other_names:
+- name: House Committee on Rules and Legislative Administration
+- name: House Rules and Legislative Administration
+- name: House Rules and Legislative Administration Committee
+extras:
+  room: Room 5
+  meeting schedule: Call of the Chair

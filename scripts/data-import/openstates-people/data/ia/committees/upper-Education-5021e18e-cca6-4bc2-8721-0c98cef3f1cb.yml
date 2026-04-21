@@ -1,0 +1,67 @@
+id: ocd-organization/5021e18e-cca6-4bc2-8721-0c98cef3f1cb
+jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+classification: committee
+name: Education
+chamber: upper
+sources:
+- url: https://www.legis.iowa.gov/committees
+  note: Committee list page
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=327
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=327
+links:
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=327
+  note: homepage
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=327
+members:
+- name: Lynn Evans
+  role: chair
+  person_id: ocd-person/0f7d8e8f-ab3e-4a0f-bde0-2ef776cdb27d
+- name: Jeff Taylor
+  role: vice chair
+  person_id: ocd-person/cc1cff7e-82d6-4947-a906-f467b4017285
+- name: Herman Quirmbach
+  role: ranking member
+  person_id: ocd-person/d3b3bc8e-ab0c-4ee2-ba3d-de78040274af
+- name: Amy Sinclair
+  role: member
+  person_id: ocd-person/8e969687-4903-4f3c-a76f-2e35a2232d09
+- name: Cindy Winckler
+  role: member
+  person_id: ocd-person/84279bc7-04df-475e-8d6f-9f9703c73101
+- name: Jesse Green
+  role: member
+  person_id: ocd-person/c6cbc677-2d42-4497-ae57-989a30aaddae
+- name: Julian Garrett
+  role: member
+  person_id: ocd-person/67f25420-8ea1-49d1-aa86-488136b5f9f5
+- name: Ken Rozenboom
+  role: member
+  person_id: ocd-person/1cfc824d-740a-4e35-a4e2-3728e2d43056
+- name: Kerry Gruenhagen
+  role: member
+  person_id: ocd-person/2ff1622d-f1f4-4344-8821-57bcf8d99b83
+- name: Mike Pike
+  role: member
+  person_id: ocd-person/fdb8c40c-9f1e-4799-bc5f-0249d21f3811
+- name: Mike Zimmer
+  role: member
+  person_id: ocd-person/93034bcb-c3fa-4427-8a1a-d48b8485a8eb
+- name: Molly Donahue
+  role: member
+  person_id: ocd-person/d675a03b-f474-4e1c-b48a-b78b399488c4
+- name: Sandy Salmon
+  role: member
+  person_id: ocd-person/b51c0843-c860-4568-a3a7-3d004a377fd4
+- name: Sarah Garriott
+  role: member
+  person_id: ocd-person/ce66871e-57e7-471d-b231-d772dd41eb63
+- name: Tim Kraayenbrink
+  role: member
+  person_id: ocd-person/293487d6-a28b-48a2-8cfc-c3daabb8abbe
+- name: Tom Shipley
+  role: member
+  person_id: ocd-person/d1167ce2-5a24-4eb8-bce8-3800ea24a4d0
+other_names:
+- name: Senate Committee on Education
+- name: Senate Education
+- name: Senate Education Committee

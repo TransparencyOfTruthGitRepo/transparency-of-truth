@@ -1,0 +1,76 @@
+id: ocd-organization/38a4e494-1559-4eb8-b8cd-a02d441ad360
+jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+classification: committee
+name: Social Services
+chamber: lower
+sources:
+- url: https://assembly.state.ny.us/comm/
+- url: https://assembly.state.ny.us/comm/?id=35
+- url: https://assembly.state.ny.us/comm/?id=35&sec=news
+- url: https://nyassembly.gov/comm/?id=35
+links:
+- url: https://assembly.state.ny.us/comm/?id=35
+  note: homepage
+- url: https://assembly.state.ny.us/comm/?id=35&sec=news
+- url: https://nyassembly.gov/comm/?id=35
+members:
+- name: Maritza Davila
+  role: chair
+  person_id: ocd-person/6dfd759c-edcb-45d9-ac9a-9064a69d5f4a
+- name: Andrea Bailey
+  role: member
+  person_id: ocd-person/b46dbcbc-500c-4d28-ac9b-cf2a7291e79f
+- name: Andrew Molitor
+  role: member
+  person_id: ocd-person/ba5fb3f1-a049-45a1-abd7-77b132e789d6
+- name: Chris Friend
+  role: member
+  person_id: ocd-person/a73679bf-ac98-4319-95b8-d226bc9aba77
+- name: Claire Valdez
+  role: member
+  person_id: ocd-person/9147362c-8b83-49ff-8fab-4d48a77eebc9
+- name: Dave McDonough
+  role: member
+  person_id: ocd-person/9f3ae1c5-651b-4cc8-a1ce-9e94c414a220
+- name: Diana Moreno
+  role: member
+  person_id: ocd-person/6c065b35-fb5f-42fe-95e8-663c823d5386
+- name: Gabriella Romero
+  role: member
+  person_id: ocd-person/0a053bbf-e97b-44aa-a38f-83ad7f9682ac
+- name: "Jessica Gonz\xE1lez-Rojas"
+  role: member
+  person_id: ocd-person/5a115673-aa3c-4518-94bc-b2a5dadeb8af
+- name: Karines Reyes
+  role: member
+  person_id: ocd-person/ddcffc59-f65a-426c-8390-9a28d1f1533d
+- name: Kwani O'Pharrow
+  role: member
+  person_id: ocd-person/3240ab03-fbf2-4614-ae92-309f1abf415a
+- name: Manny De Los Santos
+  role: member
+  person_id: ocd-person/e9e827d2-5eb7-4c53-bec7-d6a9fdef82fa
+- name: Matt Simpson
+  role: member
+  person_id: ocd-person/22ef60e3-2d31-41a1-b063-03f307e6414e
+- name: Michaelle Solages
+  role: member
+  person_id: ocd-person/2cb280b3-0aa9-4a76-abfd-3118e0d96a08
+- name: Phara Souffrant Forrest
+  role: member
+  person_id: ocd-person/8683c8ab-0d6c-471f-9259-a1b506109912
+- name: Sam Berger
+  role: member
+  person_id: ocd-person/4d3e092b-0cef-41ca-89a0-e73e1f9fda01
+- name: Simcha Eichenstein
+  role: member
+  person_id: ocd-person/a7950377-6f32-4fdf-b4a5-e9729bc5d842
+- name: Steven Raga
+  role: member
+  person_id: ocd-person/b3a5dc39-1c55-48b7-986c-d36a3db0917e
+other_names:
+- name: Assembly Committee on Social Services
+- name: Assembly Social Services
+- name: Assembly Social Services Committee
+extras:
+  address: LOB 843; Albany, NY 12248

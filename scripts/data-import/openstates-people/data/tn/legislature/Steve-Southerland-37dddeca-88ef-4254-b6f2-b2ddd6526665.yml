@@ -1,0 +1,62 @@
+id: ocd-person/37dddeca-88ef-4254-b6f2-b2ddd6526665
+name: Steve Southerland
+given_name: Steve
+family_name: Southerland
+birth_date: 1955-03-08
+gender: Male
+email: sen.steve.southerland@capitol.tn.gov
+image: https://capitol.tn.gov/senate/members/images/S9.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '9'
+- end_date: 2022-11-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '9'
+  start_date: 2022-11-08
+- end_date: 2022-11-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '1'
+offices:
+- classification: capitol
+  address: Room 712, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-3851
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S9
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S9
+- url: https://www.capitol.tn.gov/senate/members/s1.html
+other_names:
+- name: S. Southerland
+- name: Southerland, S
+- name: Southerland, S.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000027
+- scheme: legacy_openstates
+  identifier: TNL000159
+- scheme: legacy_openstates
+  identifier: TNL000320
+sources:
+- url: https://ballotpedia.org/Steve_Southerland_(Tennessee)
+- url: https://en.wikipedia.org/wiki/Steve_Southerland_(Tennessee_politician)
+- url: https://justfacts.votesmart.org/candidate/48766/steve-southerland
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S9
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S9
+- url: https://www.capitol.tn.gov/senate/members
+- url: https://www.capitol.tn.gov/senate/members/
+- url: https://www.capitol.tn.gov/senate/members/s1.html
+extras:
+  office: 722 CHB
+  personal info:
+  - Born on March 8, 1955
+  - Wife, Cheri, and one child, Mattea
+  - Walters State Community College
+  - Mortgage Broker

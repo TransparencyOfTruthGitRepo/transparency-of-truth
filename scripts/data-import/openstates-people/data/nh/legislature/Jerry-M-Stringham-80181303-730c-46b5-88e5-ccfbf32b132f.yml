@@ -1,0 +1,45 @@
+id: ocd-person/80181303-730c-46b5-88e5-ccfbf32b132f
+name: Jerry Stringham
+given_name: Jerry
+family_name: Stringham
+gender: Male
+email: jerry.stringham@gc.nh.gov
+image: https://jerrymstringham.com/wp-content/uploads/2018/08/profile2-600x679.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Grafton 3
+- start_date: 2018-12-05
+  end_date: 2020-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Grafton 3
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9058
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9058
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9058
+  note: member detail page
+other_names:
+- name: J. Stringham
+- name: J.M. Stringham
+- name: Jerry M. Stringham
+- name: Stringham, J.
+sources:
+- url: https://ballotpedia.org/Jerry_Stringham
+- url: https://en.wikipedia.org/wiki/Jerry_Stringham
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9058
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9058
+- url: https://justfacts.votesmart.org/candidate/biography/185530/jerry-stringham
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9058
+- url: https://www.linkedin.com/in/jerry-stringham-4aa162
+extras:
+  county: Grafton
+  elected status: new
+  gender code: M

@@ -1,0 +1,42 @@
+id: ocd-person/6cbb02e6-5876-47a1-86aa-98566fe0073a
+name: James Frank
+given_name: James
+family_name: Frank
+gender: Male
+email: james.frank@house.texas.gov
+image: https://house.texas.gov/images/members/2385.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '69'
+offices:
+- classification: capitol
+  address: Room 1N.9, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0534
+- classification: district
+  address: 1206 Hatton Road, Wichita Falls, TX 76302
+  voice: 940-767-1700
+links:
+- url: https://house.texas.gov/members/2385
+- url: https://house.texas.gov/members/member-page/?district=69
+other_names:
+- name: Frank, J.
+- name: Frank, James
+- name: J. Frank
+- name: J.B. Frank
+- name: James B. Frank
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000436
+- scheme: legacy_openstates
+  identifier: TXL000574
+sources:
+- url: https://ballotpedia.org/James_Frank
+- url: https://en.wikipedia.org/wiki/James_Frank
+- url: https://house.texas.gov/members/2385
+- url: https://house.texas.gov/members/2385/biography
+- url: https://house.texas.gov/members/member-page/?district=69
+- url: https://justfacts.votesmart.org/candidate/138361/james-frank

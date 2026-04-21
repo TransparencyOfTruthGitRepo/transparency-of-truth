@@ -1,0 +1,35 @@
+id: ocd-person/15ce6502-645c-4031-994d-b228e1c69bb4
+name: David Lowe
+given_name: David
+family_name: Lowe
+birth_date: 1983-06-04
+gender: Male
+email: david.lowe@house.texas.gov
+image: https://www.house.texas.gov/images/members/4643.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '91'
+offices:
+- classification: capitol
+  address: Room E1.412, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0599
+- classification: district
+  address: 8376 Davis Blvd. Suite 267, North Richland Hills, TX 76182
+  voice: 817-506-4302
+links:
+- url: https://www.house.texas.gov/members/91
+other_names:
+- name: D. Lowe
+- name: D.O. Lowe
+- name: Lowe, D.
+- name: Lowe, David
+sources:
+- url: https://ballotpedia.org/David_Lowe_(Texas)
+- url: https://en.wikipedia.org/wiki/David_Lowe_(Texas_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/201376/david-lowe
+- url: https://www.house.texas.gov/members/4643/biography
+- url: https://www.house.texas.gov/members/91

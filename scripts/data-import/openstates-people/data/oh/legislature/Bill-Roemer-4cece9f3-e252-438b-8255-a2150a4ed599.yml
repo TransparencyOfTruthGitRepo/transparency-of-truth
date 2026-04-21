@@ -1,0 +1,44 @@
+id: ocd-person/4cece9f3-e252-438b-8255-a2150a4ed599
+name: Bill Roemer
+given_name: Bill
+family_name: Roemer
+birth_date: 1956-08-21
+gender: Male
+email: rep31@ohiohouse.gov
+image: https://www.legislature.ohio.gov/assets/people/bill-roemer/headshots/thumbnails/medium/bill-roemer-january-2019-headshot_medium.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '31'
+- start_date: 2019-01-01
+  end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '38'
+offices:
+- classification: capitol
+  address: 77 S. High St. 11th Floor, Columbus, OH 43215
+  voice: 614-644-5085
+links:
+- url: https://ohiohouse.gov/bill-roemer
+- url: https://www.ohiohouse.gov/bill-roemer
+- url: https://www.ohiohouse.gov/members/bill-roemer
+other_names:
+- name: B. Roemer
+- name: Roemer, B.
+- name: W. Roemer
+sources:
+- url: https://ballotpedia.org/Bill_Roemer
+- url: https://en.wikipedia.org/wiki/Bill_Roemer
+- url: https://justfacts.votesmart.org/candidate/biography/134327/bill-roemer
+- url: https://ohiohouse.gov/bill-roemer
+- url: https://ohiohouse.gov/members/bill-roemer
+  note: member details page
+- url: https://www.legislature.ohio.gov/legislators/house-directory
+  note: member list page
+- url: https://www.linkedin.com/in/bill-roemer-557a1b1b
+- url: https://www.ohiohouse.gov/members/bill-roemer
+- url: https://www.ohiohouse.gov/members/member-directory

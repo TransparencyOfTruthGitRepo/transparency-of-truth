@@ -1,0 +1,22 @@
+id: ocd-person/f2feb4a9-9a7c-4862-baaf-bc642ad49717
+name: John Ellem
+given_name: John N.
+family_name: Ellem
+image: http://www.legis.state.wv.us/../images/members/2013/house/ellem_john.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '10'
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Ellem
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000049
+- scheme: legacy_openstates
+  identifier: WVL000260
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Ellem

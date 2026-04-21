@@ -1,0 +1,26 @@
+id: ocd-person/c18b13ba-6a08-4f5c-a8e1-a6a89e463479
+name: Michael Speciale
+given_name: Michael
+family_name: Speciale
+email: Michael.Speciale@ncleg.net
+image: http://www.ncleg.net/House/pictures/hiRes/671.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '3'
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/671
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000301
+sources:
+- url: https://www.ncleg.gov/Members/Biography/H/671
+extras:
+  counties:
+  - Beaufort
+  - Craven
+  - Pamlico
+  notice: null

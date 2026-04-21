@@ -1,0 +1,21 @@
+id: ocd-person/bf773ec8-08e5-477e-afca-27f3eaff2655
+name: Jerry C Dockham
+given_name: Jerry
+family_name: Dockham
+middle_name: C
+image: http://www.ncga.state.nc.us/House/pictures/hiRes/33.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '80'
+links:
+- url: http://www.ncga.state.nc.us/gascripts/members/viewMember.pl?sChamber=House&nUserID=33
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000085
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/viewMember.pl?sChamber=House&nUserID=33

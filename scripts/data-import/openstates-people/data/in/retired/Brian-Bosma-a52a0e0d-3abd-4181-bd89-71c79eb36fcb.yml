@@ -1,0 +1,26 @@
+id: ocd-person/a52a0e0d-3abd-4181-bd89-71c79eb36fcb
+name: Brian Bosma
+given_name: Brian
+family_name: Bosma
+image: http://iga.in.gov/legislative/2020/portraits/legislator_brian_bosma_69
+party:
+- name: Republican
+roles:
+- end_date: '2020-07-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '88'
+links:
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_brian_bosma_69
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: INL000060
+- scheme: legacy_openstates
+  identifier: INL000229
+sources:
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_brian_bosma_69
+- url: https://api.iga.in.gov/2020/legislators/brian_bosma_69
+offices:
+- address: 200 W. Washington Street;Indianapolis, IN 46204
+  voice: 800-382-9841
+  classification: capitol

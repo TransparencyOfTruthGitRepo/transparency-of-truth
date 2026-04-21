@@ -1,0 +1,20 @@
+id: ocd-person/01eed18b-d73e-4894-a6b3-360dc6599550
+name: Ezell Lee
+given_name: Ezell
+family_name: Lee
+image: http://billstatus.ls.state.ms.us/members/senate/lee_(47th).jpg
+party:
+- name: Republican
+roles:
+- start_date: '2008-01-01'
+  end_date: '2011-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '47'
+links:
+- url: http://billstatus.ls.state.ms.us/members/senate/lee_(47th).xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000034
+sources:
+- url: http://billstatus.ls.state.ms.us/members/senate/lee_(47th).xml

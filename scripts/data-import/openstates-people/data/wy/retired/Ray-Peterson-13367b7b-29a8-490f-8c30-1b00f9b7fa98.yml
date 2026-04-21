@@ -1,0 +1,38 @@
+id: ocd-person/13367b7b-29a8-490f-8c30-1b00f9b7fa98
+name: Ray Peterson
+given_name: Ray
+family_name: Peterson
+birth_date: 1959-05-03
+image: http://wyoleg.gov/LegislatorSummary/Photos/PetersonRS19.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-06'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '19'
+links:
+- url: http://wyoleg.gov/Legislators/2018/R/198
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000171
+sources:
+- url: http://wyoleg.gov/Legislators/2018/R/198
+extras:
+  county: Big Horn, Park
+  education:
+  - degree: ''
+    gradYear: ''
+    schoolName: Cowley High School
+  - degree: ''
+    gradYear: ''
+    schoolName: Northwest College
+  - degree: ''
+    gradYear: ''
+    schoolName: Brigham Young University
+  number_children: '3'
+  occupation: Businessman
+  place_of_birth: Lovell
+  religion: LDS
+  spouse_given_name: Cresta A. Peterson
+  wy_leg_id: 198

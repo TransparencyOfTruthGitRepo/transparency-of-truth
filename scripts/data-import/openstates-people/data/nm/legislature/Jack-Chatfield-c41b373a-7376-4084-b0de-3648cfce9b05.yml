@@ -1,0 +1,40 @@
+id: ocd-person/c41b373a-7376-4084-b0de-3648cfce9b05
+name: Jack Chatfield
+given_name: Jack
+family_name: Chatfield
+gender: Male
+email: jack.chatfield@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HCHAT.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '67'
+offices:
+- classification: capitol
+  address: Room 203FN, New Mexico Capitol Annex 325 Don Gaspar Ave., Santa Fe, NM
+    87501
+  voice: 505-986-4467
+- classification: district-mail
+  address: P.O. Box 226, Mosquero, NM 87733
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAT
+  note: homepage
+other_names:
+- name: Chatfield, J.
+- name: Chatfield, Jack
+- name: J. Chatfield
+ids:
+  facebook: jackchatfieldhd67
+sources:
+- url: https://ballotpedia.org/Jackey_Chatfield
+- url: https://en.wikipedia.org/wiki/Jack_Chatfield
+- url: https://justfacts.votesmart.org/candidate/biography/180816/jack-chatfield
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAT
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Colfax, Curry, Harding, Quay, San Miguel & Union
+  service: Representative since 2019
+  occupation: Rancher

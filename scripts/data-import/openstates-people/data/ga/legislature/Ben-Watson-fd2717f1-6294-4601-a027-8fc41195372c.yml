@@ -1,0 +1,68 @@
+id: ocd-person/fd2717f1-6294-4601-a027-8fc41195372c
+name: Ben Watson
+given_name: Ben
+family_name: Watson
+birth_date: 1959-07-27
+gender: Male
+email: ben.watson@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/watson-ben-784.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-12
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '1'
+offices:
+- classification: capitol
+  address: Room 325-A, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-7880
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/784
+- url: https://www.legis.ga.gov/members/senate/784?session=1029
+- url: https://www.legis.ga.gov/members/senate/784?session=1031
+  note: HTML member detail page
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=784&Session=27
+other_names:
+- name: B. Watson
+- name: B.L. Watson
+- name: Ben Watson
+- name: Benjamin Luther Watson
+- name: WATSON, 1ST
+- name: Watson, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000222
+- scheme: legacy_openstates
+  identifier: GAL000368
+- scheme: legacy_openstates
+  identifier: GAL000417
+sources:
+- url: https://ballotpedia.org/Ben_Watson
+- url: https://en.wikipedia.org/wiki/Ben_Watson_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/122908/ben-watson
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.legis.ga.gov/api/members/detail/784?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/784?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/784
+- url: https://www.legis.ga.gov/members/senate/784?session=1029
+- url: https://www.linkedin.com/in/benwatsonga
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=784&Session=27
+extras:
+  residence: Savannah
+  city: Savannah
+  georgia_id: 784
+  birthday: July 27
+  occupation: Medical Doctor
+  press: 'https://senatepress.net/category/senate-press/ben-watson '
+  religion: Anglican
+  spouse: Bernice
+  staff: Kaylon Day
+  staff email: kaylon.day@senate.ga.gov

@@ -1,0 +1,56 @@
+id: ocd-person/406baa79-8352-4fa4-a1fa-70cc55e34406
+name: Michele Brooks
+given_name: Michele
+family_name: Brooks
+birth_date: 1964-04-04
+gender: Female
+email: mbrooks@pasen.gov
+image: https://www.legis.state.pa.us/images/members/200/1087.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '50'
+offices:
+- classification: capitol
+  address: Room 168, Main Capitol Senate Box 203050, Harrisburg, PA 17120
+  voice: 717-787-1322
+- classification: district
+  address: 100 Hadley Road Suite 9, Greenville, PA 16125
+  voice: 724-588-8911
+- classification: district
+  address: 1905 W. State St., New Castle, PA 16101
+  voice: 724-654-1444
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1087
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.palegis.us/senate/members/bio/1087/sen-brooks
+- url: https://www.senatorbrooks.com/
+other_names:
+- name: Brooks
+- name: BROOKS
+- name: Brooks, M.
+- name: M. Brooks
+ids:
+  facebook: senatormichelebrooks
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000066
+- scheme: legacy_openstates
+  identifier: PAL000332
+- scheme: legacy_openstates
+  identifier: PAL000501
+sources:
+- url: https://ballotpedia.org/Michele_Brooks
+- url: https://en.wikipedia.org/wiki/Michele_Brooks
+- url: https://justfacts.votesmart.org/candidate/biography/68907/michele-brooks
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=S&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1087
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.palegis.us/senate/members/bio/1087/sen-brooks
+- url: https://www.senatorbrooks.com
+extras:
+  website: http://www.senatorbrooks.com

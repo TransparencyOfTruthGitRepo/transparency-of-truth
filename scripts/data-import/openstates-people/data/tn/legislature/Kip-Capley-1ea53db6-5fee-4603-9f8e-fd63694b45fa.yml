@@ -1,0 +1,45 @@
+id: ocd-person/1ea53db6-5fee-4603-9f8e-fd63694b45fa
+name: Kip Capley
+given_name: Kip
+family_name: Capley
+birth_date: 1997-03-18
+gender: Male
+email: rep.kip.capley@capitol.tn.gov
+image: https://votecapley.com/wp-content/uploads/2022/01/capley2-4.png
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '71'
+offices:
+- classification: capitol
+  address: Room 650, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-2190
+links:
+- url: https://tnhousegop.org/members/representative-kip-capley/
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H71
+  note: homepage
+other_names:
+- name: Capley, K
+- name: Capley, K.
+- name: K. Capley
+sources:
+- url: https://ballotpedia.org/Kip_Capley
+- url: https://en.wikipedia.org/wiki/Kip_Capley
+- url: https://justfacts.votesmart.org/candidate/biography/206897/kip-capley
+- url: https://tnhousegop.org/members/representative-kip-capley
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H71
+extras:
+  office: 584 CHB
+  personal info:
+  - March 18, 1997
+  - Single
+  - Consultant
+  - Baptist
+  - Zion Christian Academy, Columbia TN
+  - Political Science and History, Middle Tennessee State University
+  - MBA, Healthcare Management, Trevecca Nazarene University

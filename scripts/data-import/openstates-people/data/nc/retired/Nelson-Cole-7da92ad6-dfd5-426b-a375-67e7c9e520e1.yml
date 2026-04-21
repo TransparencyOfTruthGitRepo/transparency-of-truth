@@ -1,0 +1,17 @@
+id: ocd-person/7da92ad6-dfd5-426b-a375-67e7c9e520e1
+name: Nelson Cole
+given_name: Nelson
+family_name: Cole
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '65'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000078
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/memberList.pl?sChamber=House

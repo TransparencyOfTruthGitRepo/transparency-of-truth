@@ -1,0 +1,41 @@
+id: ocd-person/722ec3e9-7e0d-4dda-bf19-11d873df7031
+name: Justin Ruffridge
+given_name: Justin
+family_name: Ruffridge
+gender: Male
+email: representative.justin.ruffridge@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/RUF.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '7'
+offices:
+- classification: capitol
+  address: State Capitol Room 424, 120 4th St., Juneau, AK 99801
+  voice: 907-465-2693
+- classification: district
+  address: 145 Main St. Loop, Kenai, AK 99611
+  voice: 907-465-2693
+links:
+- url: https://akhousemajority.com/rep-ruffridge/
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=ruf
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=ruf
+- url: https://www.repruffridge.com/
+other_names:
+- name: J. Ruffridge
+- name: Ruffridge, J.
+sources:
+- url: https://akhousemajority.com/rep-ruffridge
+- url: https://ballotpedia.org/Justin_Ruffridge
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=RUF
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=ruf
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=ruf
+- url: https://www.linkedin.com/in/justin-ruffridge-a803a0133
+- url: https://www.repruffridge.com
+extras:
+  toll_free_phone: 800-463-2693

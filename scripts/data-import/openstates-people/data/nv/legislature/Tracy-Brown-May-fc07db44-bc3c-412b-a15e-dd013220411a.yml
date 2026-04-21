@@ -1,0 +1,34 @@
+id: ocd-person/fc07db44-bc3c-412b-a15e-dd013220411a
+name: Tracy Brown-May
+given_name: Tracy
+family_name: Brown-May
+gender: Female
+email: tracy.brownmay@asm.state.nv.us
+image: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/BrownMay.Tracy.353.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-02-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '42'
+offices:
+- classification: capitol
+  address: Room 3132, Nevada Assembly 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-8803
+- classification: district
+  address: Room 203, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/42
+  note: homepage
+other_names:
+- name: Brown-May, T.
+- name: Brown-May, Tracy
+- name: T. Brown-May
+sources:
+- url: https://ballotpedia.org/Tracy_Brown-May
+- url: https://en.wikipedia.org/wiki/Tracy_Brown-May
+- url: https://justfacts.votesmart.org/candidate/195813/tracy-brown-may
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/42
+- url: https://www.linkedin.com/in/tracy-brown-may-a660a639

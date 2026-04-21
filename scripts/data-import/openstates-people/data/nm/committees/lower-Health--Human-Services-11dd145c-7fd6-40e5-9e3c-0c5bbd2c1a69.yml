@@ -1,0 +1,48 @@
+id: ocd-organization/11dd145c-7fd6-40e5-9e3c-0c5bbd2c1a69
+jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+classification: committee
+name: Health and Human Services
+chamber: lower
+sources:
+- url: https://www.nmlegis.gov/Committee/
+  note: Committee Page from nmlegis.gov site
+- url: https://www.nmlegis.gov/Committee/Standing_Committee?CommitteeCode=HHHC
+links:
+- url: https://www.nmlegis.gov/Committee/Standing_Committee?CommitteeCode=HHHC
+members:
+- name: Liz Thomson
+  role: chair
+  person_id: ocd-person/13ad8eb1-a64f-4a08-8c68-a1488466128f
+- name: Pamelya Herndon
+  role: vice chair
+  person_id: ocd-person/800d2a2e-1622-4ab2-b290-3c537b38bdf8
+- name: Jenifer Jones
+  role: ranking member
+  person_id: ocd-person/6968fa09-cbf8-42a5-a5a6-132b0b663103
+- name: Alan Martinez
+  role: member
+  person_id: ocd-person/be61f240-c0ad-4a98-8ad5-d30f4c5f4a06
+- name: Elaine Sena Cortez
+  role: member
+  person_id: ocd-person/810e1619-ebae-4139-be1e-778e252a09b0
+- name: "Eleanor Ch\xE1vez"
+  role: member
+  person_id: ocd-person/19ad7971-bfe4-49e2-bc0f-c5416df1f241
+- name: Joanne Ferrary
+  role: member
+  person_id: ocd-person/05309266-c7a0-455b-94f2-ebf1d436daff
+- name: Kathleen Cates
+  role: member
+  person_id: ocd-person/73fc9839-619a-4ad5-bbbd-dfaf7f308e09
+- name: Marianna Anaya
+  role: member
+  person_id: ocd-person/bc194113-8c8a-4cba-b1f4-25269c72a9fd
+- name: Nicole Chavez
+  role: member
+  person_id: ocd-person/f2ed2dd1-ba2d-48cd-8365-cbb149b459e9
+other_names:
+- name: Committee on Health and Human Services
+- name: Health and Human Services Committee
+- name: House Committee on Health and Human Services
+- name: House Health and Human Services
+- name: House Health and Human Services Committee

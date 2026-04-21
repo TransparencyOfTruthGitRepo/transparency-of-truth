@@ -1,0 +1,61 @@
+id: ocd-person/cb033790-7578-41c3-87b6-c9794b289c77
+name: Emilie Kornheiser
+given_name: Emilie
+family_name: Kornheiser
+gender: Female
+email: ekornheiser@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/EKornheiser.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Windham-7
+- start_date: 2019-01-09
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Windham-7
+- end_date: 2023-01-04
+  start_date: 2019-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Windham-2-1
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+- classification: home
+  address: P.O. Box 2229, Brattleboro, VT 05303
+  voice: 802-246-1213
+links:
+- url: https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windham-7.pdf
+  note: district map
+- url: https://legislature.vermont.gov/Documents/SmallMaps/WDH-2-1.pdf
+  note: district map
+- url: https://legislature.vermont.gov/people/single/2020/30972
+- url: https://legislature.vermont.gov/people/single/2022/30972
+- url: https://legislature.vermont.gov/people/single/2024/30972
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2026/30972
+other_names:
+- name: E. Kornheiser
+- name: Emilie K. Kornheiser
+- name: Emilie Kornheiser
+- name: Kornheiser, E.
+sources:
+- url: https://ballotpedia.org/Emilie_Kornheiser
+- url: https://en.wikipedia.org/wiki/Emilie_Kornheiser
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/loadAll/2024
+- url: https://legislature.vermont.gov/people/single/2020/30972
+- url: https://legislature.vermont.gov/people/single/2022/30972
+- url: https://legislature.vermont.gov/people/single/2024/30972
+- url: https://legislature.vermont.gov/people/single/2026/30972
+- url: https://www.linkedin.com/in/emilie-kornheiser-78086914
+extras:
+  home address: Brattleboro, VT 05301
+  home phone: (802) 246-1213
+  state email: ekornheiser@leg.state.vt.us

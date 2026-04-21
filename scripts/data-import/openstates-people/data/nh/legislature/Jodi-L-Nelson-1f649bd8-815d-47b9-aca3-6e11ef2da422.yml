@@ -1,0 +1,44 @@
+id: ocd-person/1f649bd8-815d-47b9-aca3-6e11ef2da422
+name: Jodi Nelson
+given_name: Jodi
+family_name: Nelson
+gender: Female
+email: jodi.nelson@gc.nh.gov
+image: https://nhjournal.com/wp-content/uploads/2021/12/Nelson-300x300.jpeg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 13
+- start_date: 2021-12-22
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 13
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10440
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=10440
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10440
+  note: member detail page
+other_names:
+- name: J. Nelson
+- name: J.S. Nelson
+- name: Jodi L Nelson
+- name: Nelson, J.
+sources:
+- url: https://ballotpedia.org/Jodi_Nelson_(New_Hampshire)
+- url: https://en.wikipedia.org/wiki/Jodi_Nelson
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10440
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=10440
+- url: https://justfacts.votesmart.org/candidate/biography/199138/jodi-nelson
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10440
+extras:
+  county: Rockingham
+  elected status: new
+  gender code: F

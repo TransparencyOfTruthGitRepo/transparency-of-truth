@@ -1,0 +1,67 @@
+id: ocd-organization/c863c6ff-d3b0-4dc0-a3b9-6d5ef9c7ef16
+jurisdiction: ocd-jurisdiction/country:us/state:al/government
+classification: committee
+name: Commerce and Small Business
+chamber: lower
+sources:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: Committee list api call
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/HouseCommittees.aspx
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=2944&COMMITTEE=Commerce%20and%20Small%20Business
+links:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=2944&COMMITTEE=Commerce%20and%20Small%20Business
+  note: homepage
+members:
+- name: Jim Carns
+  role: chair
+  person_id: ocd-person/0d7f5989-df17-4c90-8267-4914f5598712
+- name: Rhett Marques
+  role: vice chair
+  person_id: ocd-person/d9d5a3a8-71f6-4c2e-8805-3fa715b315f4
+- name: Berry Forte
+  role: ranking member
+  person_id: ocd-person/a5d0ab78-e643-4ea1-86f2-2dad948b498a
+- name: Adline Clarke
+  role: member
+  person_id: ocd-person/4cb1aeb5-d822-4f2c-a7e6-ae2a132acf17
+- name: Brock Colvin
+  role: member
+  person_id: ocd-person/aaffbe89-25dd-4454-85f7-81e4ed89c749
+- name: Cindy Myrex
+  role: member
+  person_id: ocd-person/cbfd2b4e-f512-4176-b2f6-1df9d2d9c99c
+- name: Mark Gidley
+  role: member
+  person_id: ocd-person/97514731-a41d-4328-841f-afdcaac1c6e2
+- name: Mark Shirey
+  role: member
+  person_id: ocd-person/41debaee-f705-453d-a46f-3e8282b8a4b0
+- name: Patrick Sellers
+  role: member
+  person_id: ocd-person/19244bfa-5953-4304-8955-cc58d0c5d16d
+- name: Phillip Ensler
+  role: member
+  person_id: ocd-person/397cb6b4-54fe-42e2-9135-7b440d925649
+- name: Phillip Rigsby
+  role: member
+  person_id: ocd-person/78f07b0c-9939-4e03-81f8-f851511a46cb
+- name: Ritchie Whorton
+  role: member
+  person_id: ocd-person/7e00e45e-24bf-4939-83b8-a56a90e3ea61
+- name: Troy Stubbs
+  role: member
+  person_id: ocd-person/82715f9c-12a1-4e99-8020-a47b37dfa92b
+other_names:
+- name: Commerce and Small Business Committee
+- name: Committee on Commerce and Small Business
+- name: House Commerce and Small Business
+- name: House Commerce and Small Business Committee
+- name: House Committee on Commerce and Small Business
+extras:
+  Clerk: Mary Ruth Davis
+  Phone: (334) 261-0478
+  Email: maryruth.davis@alhouse.gov
+  Room: Room 415

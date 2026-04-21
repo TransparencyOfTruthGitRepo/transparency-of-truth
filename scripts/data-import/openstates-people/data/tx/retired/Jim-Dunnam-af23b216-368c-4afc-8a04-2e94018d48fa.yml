@@ -1,0 +1,20 @@
+id: ocd-person/af23b216-368c-4afc-8a04-2e94018d48fa
+name: Jim Dunnam
+given_name: Jim
+family_name: Dunnam
+image: http://www.legdir.legis.state.tx.us/FlashCardDocs/images/House/small/A2660.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '57'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000248
+- scheme: legacy_openstates
+  identifier: TXL000066
+sources:
+- url: http://www.legdir.legis.state.tx.us/MemberInfo.aspx?Chamber=H&Code=A2660

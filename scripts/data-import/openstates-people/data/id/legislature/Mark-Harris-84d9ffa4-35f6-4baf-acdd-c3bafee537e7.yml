@@ -1,0 +1,56 @@
+id: ocd-person/84d9ffa4-35f6-4baf-acdd-c3bafee537e7
+name: Mark Harris
+given_name: Mark
+family_name: Harris
+gender: Male
+email: mharris@senate.idaho.gov
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Harris3584.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: '35'
+- end_date: 2022-11-30
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: '32'
+offices:
+- classification: capitol
+  address: P.O. Box 83720 700 W. Jefferson St., Boise, ID 83720
+  voice: 208-332-1429
+- classification: district
+  address: Soda Springs, ID 83276
+  voice: 208-547-3360
+links:
+- url: https://legislature.idaho.gov/legislators/membership/2023/id3584/
+- url: https://legislature.idaho.gov/legislators/membership/2024/id3584/
+- url: https://legislature.idaho.gov/legislators/membership/2026/id3584/
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2021&district=32
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2022&district=32
+  note: homepage
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2023&district=35
+  note: homepage
+other_names:
+- name: Harris, M.
+- name: M. Harris
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IDL000253
+- scheme: legacy_openstates
+  identifier: IDL000219
+- scheme: openstates
+  identifier: ocd-person/9766a542-dbe1-4d59-a51b-e1dd0100d5a8
+sources:
+- url: https://ballotpedia.org/Mark_Harris_(Idaho)
+- url: https://en.wikipedia.org/wiki/Mark_Harris_%28Idaho_politician%29
+- url: https://justfacts.votesmart.org/candidate/biography/163464/mark-harris
+- url: https://legislature.idaho.gov/legislators/membership/2023/id3584
+- url: https://legislature.idaho.gov/legislators/membership/2023/id3584/
+- url: https://legislature.idaho.gov/legislators/membership/2024/id3584
+- url: https://legislature.idaho.gov/legislators/membership/2026/id3584
+- url: https://legislature.idaho.gov/senate/membership
+- url: https://legislature.idaho.gov/senate/membership/
+extras:
+  title: Majority Caucus Chair

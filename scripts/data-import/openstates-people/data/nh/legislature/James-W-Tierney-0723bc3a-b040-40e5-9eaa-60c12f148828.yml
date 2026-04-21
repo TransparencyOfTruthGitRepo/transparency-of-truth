@@ -1,0 +1,37 @@
+id: ocd-person/0723bc3a-b040-40e5-9eaa-60c12f148828
+name: James Tierney
+given_name: James
+family_name: Tierney
+gender: Male
+email: james.tierney@gc.nh.gov
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Coos 1
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=8023
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8023
+  note: member detail page
+other_names:
+- name: J. Tierney
+- name: J.W. Tierney
+- name: James W Tierney
+- name: James W. Tierney
+- name: Tierney, J.
+sources:
+- url: https://ballotpedia.org/James_W._Tierney,_Jr.
+- url: https://en.wikipedia.org/wiki/James_Tierney_Jr.
+- url: https://gc.nh.gov/house/members/member.aspx?pid=8023
+- url: https://justfacts.votesmart.org/candidate/biography/143313/james-tierney
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8023
+extras:
+  county: Coos
+  elected status: new
+  gender code: M

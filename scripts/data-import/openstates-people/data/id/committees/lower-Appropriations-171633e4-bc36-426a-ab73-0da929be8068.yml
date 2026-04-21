@@ -1,0 +1,64 @@
+id: ocd-organization/171633e4-bc36-426a-ab73-0da929be8068
+jurisdiction: ocd-jurisdiction/country:us/state:id/government
+classification: committee
+name: Appropriations
+chamber: lower
+sources:
+- url: https://legislature.idaho.gov/committees/
+  note: homepage
+- url: https://legislature.idaho.gov/committees/housecommittees/
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HAPP
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HAPP/
+- url: https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HAPP/#hcode-tab-style2members
+  note: Committee Details page
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HAPP/#hcode-tab-style2members
+  note: Committee Details page
+- url: https://legislature.idaho.gov/sessioninfo/2025/standingcommittees/HAPP
+- url: https://legislature.idaho.gov/sessioninfo/2026/standingcommittees/HAPP
+links:
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HAPP
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HAPP/
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HAPP
+- url: https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HAPP/#hcode-tab-style2members
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HAPP
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HAPP/#hcode-tab-style2members
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2025/standingcommittees/HAPP
+- url: https://legislature.idaho.gov/sessioninfo/2026/standingcommittees/HAPP
+members:
+- name: Josh Tanner
+  role: chair
+  person_id: ocd-person/188ce2db-4021-4af8-b562-c90bfab83ebf
+- name: Steve Miller
+  role: vice chair
+  person_id: ocd-person/983607b1-0987-4efe-8547-de1c5d262e5f
+- name: Brandon Mitchell
+  role: member
+  person_id: ocd-person/59fc8cd0-bec0-4df6-a3e6-99ea305c7100
+- name: Brooke Green
+  role: member
+  person_id: ocd-person/50e557e4-e7b6-4765-a636-1638a675189c
+- name: Chris Bruce
+  role: member
+  person_id: ocd-person/dbc641db-1cb7-4110-9121-96ddf5d877d7
+- name: Dustin Manwaring
+  role: member
+  person_id: ocd-person/f7a93a62-fa0b-4d95-a9ad-10a938fd47a0
+- name: Elaine Price
+  role: member
+  person_id: ocd-person/f6437e18-b7fb-4e53-8c40-a2423d82853d
+- name: James Petzke
+  role: member
+  person_id: ocd-person/07e5711c-2e3d-4d26-a82a-6c710ed9bf3b
+- name: Kyle Harris
+  role: member
+  person_id: ocd-person/0c646770-75cb-4f65-b2af-fd7c933dfe24
+- name: Rod Furniss
+  role: member
+  person_id: ocd-person/70eb5f7f-381b-400d-87b2-2bdeb6a1c7e7
+other_names:
+- name: House Appropriations
+- name: House Appropriations Committee
+- name: House Committee on Appropriations

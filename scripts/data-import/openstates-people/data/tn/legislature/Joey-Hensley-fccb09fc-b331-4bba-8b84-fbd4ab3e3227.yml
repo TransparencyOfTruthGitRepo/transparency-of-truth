@@ -1,0 +1,61 @@
+id: ocd-person/fccb09fc-b331-4bba-8b84-fbd4ab3e3227
+name: Joey Hensley
+given_name: Joey
+family_name: Hensley
+birth_date: 1955-07-28
+gender: Male
+email: sen.joey.hensley@capitol.tn.gov
+image: http://www.capitol.tn.gov/senate/members/images/s28.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '28'
+- end_date: 2013-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '28'
+  start_date: 2013-01-08
+offices:
+- classification: capitol
+  address: Room 742, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-3100
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S28
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S28&ga=114
+- url: https://www.capitol.tn.gov/senate/members/s28.html
+other_names:
+- name: Hensley, J
+- name: Hensley, J.
+- name: J. Hensley
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000073
+- scheme: legacy_openstates
+  identifier: TNL000148
+- scheme: legacy_openstates
+  identifier: TNL000353
+sources:
+- url: https://ballotpedia.org/Joey_Hensley
+- url: https://en.wikipedia.org/wiki/Joey_Hensley
+- url: https://justfacts.votesmart.org/candidate/48811/joey-hensley
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S28
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S28&ga=114
+- url: https://www.capitol.tn.gov/senate/members
+- url: https://www.capitol.tn.gov/senate/members/
+- url: https://www.capitol.tn.gov/senate/members/s28.html
+extras:
+  office: 742 CHB
+  personal info:
+  - Born on July 28, 1955 in Hohenwald, TN
+  - Children; son Joseph, daughters Jenna and Jada
+  - Physician
+  - Pentecostal
+  - A.S., Columbia State Community College
+  - B.S., University of Memphis
+  - M.D., University of Tennessee-Memphis

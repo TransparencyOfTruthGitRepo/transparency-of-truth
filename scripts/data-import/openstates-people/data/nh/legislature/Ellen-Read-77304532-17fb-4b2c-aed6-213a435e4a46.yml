@@ -1,0 +1,63 @@
+id: ocd-person/77304532-17fb-4b2c-aed6-213a435e4a46
+name: Ellen Read
+given_name: Ellen
+family_name: Read
+gender: Female
+email: ellen4nh@gmail.com
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/61282.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 10
+- end_date: 2022-06-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 10
+  start_date: 2022-12-07
+- start_date: 2022-06-01
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 10
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 17
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=408613
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?member=408613
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8613
+  note: member detail page
+other_names:
+- name: E. Read
+- name: Ellen D. Read
+- name: Read, E.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001457
+sources:
+- url: https://ballotpedia.org/Ellen_Read
+- url: https://en.wikipedia.org/wiki/Ellen_Read
+- url: https://gc.nh.gov/house/members/member.aspx?member=408613
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?member=408613
+- url: https://justfacts.votesmart.org/candidate/172683/ellen-read
+- url: https://www.ellen4nh.com
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408613
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8613
+- url: https://www.linkedin.com/in/ellen-read-30061485
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: F

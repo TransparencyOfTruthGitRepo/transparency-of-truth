@@ -1,0 +1,62 @@
+id: ocd-person/4b05e770-4423-4b64-8ae1-9600e8c73244
+name: David Lucas
+given_name: David
+family_name: Lucas
+birth_date: 1950-04-23
+gender: Male
+email: david.lucas@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/lucas-david-157.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '26'
+offices:
+- classification: capitol
+  address: State Capitol Room 110-B, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-0150
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/157
+- url: https://www.legis.ga.gov/members/senate/157?session=1029
+- url: https://www.legis.ga.gov/members/senate/157?session=1031
+  note: HTML member detail page
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=157&Session=27
+other_names:
+- name: D. Lucas
+- name: D.E. Lucas
+- name: David Eugene Lucas
+- name: David Lucas
+- name: LUCAS, 26TH
+- name: Lucas, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000324
+sources:
+- url: https://ballotpedia.org/David_Lucas_Sr.
+- url: https://en.wikipedia.org/wiki/David_Lucas_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/7925/david-lucas-sr
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.legis.ga.gov/api/members/detail/157?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/157?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/157
+- url: https://www.legis.ga.gov/members/senate/157?session=1029
+- url: https://www.legis.ga.gov/members/senate/157?session=1031
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=157&Session=27
+extras:
+  residence: Macon
+  city: Macon
+  georgia_id: 157
+  birthday: April 23
+  occupation: Self-Employed
+  press: 'https://senatepress.net/category/senate-press/david-lucas '
+  spouse: Elaine
+  staff: Corrinna Edwards
+  staff email: corrinna.edwards@senate.ga.gov

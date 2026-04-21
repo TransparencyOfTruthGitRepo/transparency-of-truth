@@ -1,0 +1,54 @@
+id: ocd-person/8329b3a6-9d6f-427e-9342-e53277e7c6ff
+name: Shelly Simonds
+given_name: Shelly
+family_name: Simonds
+birth_date: 1967-11-09
+gender: Female
+email: delssimonds@house.virginia.gov
+image: https://memdata.virginiageneralassembly.gov/images/display_image/H0323
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '70'
+- start_date: 2020-01-08
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '94'
+offices:
+- classification: capitol
+  address: Room 1106, General Assembly Building 201 N. 9th St., Richmond, VA 23219
+  voice: 804-698-1070
+- classification: district-mail
+  address: P.O. Box 2296, Newport News, VA 23609
+  voice: 757-276-3022
+links:
+- url: https://house.vga.virginia.gov/members/H0323
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H323
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H323
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H323
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0323
+other_names:
+- name: S. Simonds
+- name: S.A. Simonds
+- name: Shelly A. Simonds
+- name: Shelly Anne Simonds
+- name: Simonds, S.
+- name: Simonds, Shelly A.
+ids:
+  twitter: shelly_simonds
+  facebook: simondsfordelegate
+sources:
+- url: https://ballotpedia.org/Shelly_Simonds
+- url: https://en.wikipedia.org/wiki/Shelly_Simonds
+- url: https://house.vga.virginia.gov/members/H0323
+- url: https://justfacts.votesmart.org/candidate/156447/shelly-simonds
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H323
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H323
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H323
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0323
+- url: https://www.linkedin.com/in/shelly-simonds-b45a3080

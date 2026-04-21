@@ -1,0 +1,32 @@
+id: ocd-person/9c82f11d-28f2-4167-b10c-26815533f73a
+name: Chris Rose
+given_name: Chris
+family_name: Rose
+gender: Male
+email: chris.rose@wvsenate.gov
+image: https://www.wvlegislature.gov/images/members/2025/senate/rose_chris.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '2'
+offices:
+- classification: capitol
+  address: State Capitol Room 209W, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-357-7902
+links:
+- url: https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Rose
+other_names:
+- name: C. Rose
+- name: C.A. Rose
+- name: Rose, C
+- name: Rose, C.
+sources:
+- url: https://ballotpedia.org/Christopher_Rose
+- url: https://en.wikipedia.org/wiki/Chris_Rose_(politician)
+- url: https://justfacts.votesmart.org/candidate/214456/chris-rose
+- url: https://www.linkedin.com/in/chrisrosewv
+- url: https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Rose

@@ -1,0 +1,20 @@
+id: ocd-person/fd91e94b-0343-451e-aea6-1788876ca11b
+name: Mark Christensen
+given_name: Mark
+family_name: Christensen
+image: http://www.nebraskalegislature.gov/media/images/blogs/dist44.jpg
+party:
+- name: Nonpartisan
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: legislature
+  jurisdiction: ocd-jurisdiction/country:us/state:ne/government
+  district: '44'
+links:
+- url: http://news.legislature.ne.gov/dist44/biography/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NEL000044
+sources:
+- url: http://news.legislature.ne.gov/dist44/biography/

@@ -1,0 +1,50 @@
+id: ocd-person/65a42043-6243-4f79-b1e0-69b3b8b4af29
+name: Charlie Geren
+given_name: Charlie
+family_name: Geren
+birth_date: 1949-10-22
+gender: Male
+email: charlie.geren@house.texas.gov
+image: https://house.texas.gov/images/members/2945.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2003-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '99'
+- start_date: 2001-01-09
+  end_date: 2003-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '99'
+offices:
+- classification: capitol
+  address: Room GW.15, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0610
+- classification: district
+  address: 6713 Telephone Road Suite 301, Lake Worth, TX 76135
+  voice: 817-237-2251
+links:
+- url: https://house.texas.gov/members/2945
+- url: https://house.texas.gov/members/member-page/?district=99
+other_names:
+- name: C. Geren
+- name: C.L. Geren
+- name: Geren, C.
+- name: Geren, Charlie
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000264
+- scheme: legacy_openstates
+  identifier: TXL000082
+- scheme: legacy_openstates
+  identifier: TXL000626
+sources:
+- url: https://ballotpedia.org/Charlie_Geren
+- url: https://en.wikipedia.org/wiki/Charlie_Geren
+- url: https://house.texas.gov/members/2945
+- url: https://house.texas.gov/members/2945/biography
+- url: https://house.texas.gov/members/member-page/?district=99
+- url: https://justfacts.votesmart.org/candidate/biography/49376/charlie-geren
+- url: https://www.linkedin.com/in/charlie-geren-a51013111

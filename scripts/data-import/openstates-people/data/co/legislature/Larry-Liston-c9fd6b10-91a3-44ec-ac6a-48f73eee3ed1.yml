@@ -1,0 +1,43 @@
+id: ocd-person/c9fd6b10-91a3-44ec-ac6a-48f73eee3ed1
+name: Larry Liston
+given_name: Larry
+family_name: Liston
+gender: Male
+email: larry.liston.senate@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_liston%2Clarry.jpg?itok=iMiSIx7h
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '10'
+- end_date: 2020-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '16'
+offices:
+- classification: capitol
+  address: State Capitol Room 346, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-2737
+links:
+- url: https://leg.colorado.gov/legislators/larry-liston
+other_names:
+- name: L. Liston
+- name: L.G. Liston
+- name: Liston L.
+- name: Liston, L.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: COL000231
+sources:
+- url: https://ballotpedia.org/Larry_Liston
+- url: https://en.wikipedia.org/wiki/Larry_Liston
+- url: https://justfacts.votesmart.org/candidate/biography/30002/larry-liston
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/larry-liston
+- url: https://www.linkedin.com/in/larry-liston-12120410
+extras:
+  counties represented:
+  - El Paso

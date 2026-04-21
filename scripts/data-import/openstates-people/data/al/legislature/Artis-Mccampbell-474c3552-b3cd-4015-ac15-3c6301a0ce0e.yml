@@ -1,0 +1,54 @@
+id: ocd-person/474c3552-b3cd-4015-ac15-3c6301a0ce0e
+name: A.J. McCampbell
+given_name: A.J.
+family_name: McCampbell
+gender: Male
+email: ajmc1@bellsouth.net
+image: https://www.legislature.state.al.us/pdf/house/members/McCampbell_71.png
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '71'
+offices:
+- classification: capitol
+  address: Room 534-D, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0547
+- classification: district-mail
+  address: P.O. Box 487, Demopolis, AL 36732
+  voice: 334-261-0580
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100553&OID_PERSON=5544
+other_names:
+- name: A. McCampbell
+- name: A.J. McCampbell
+- name: Artis "A. J." McCampbell
+- name: Artis "A.J." Mccampbell
+- name: Artis 'A.J.' McCampbell
+- name: Artis Mccampbell
+- name: McCampbell
+- name: McCampbell, A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000099
+- scheme: legacy_openstates
+  identifier: ALL000227
+- scheme: legacy_openstates
+  identifier: ALL000376
+- scheme: legacy_openstates
+  identifier: ALL000517
+sources:
+- url: https://ballotpedia.org/Artis_J._McCampbell
+- url: https://en.wikipedia.org/wiki/Artis_J._McCampbell
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/60444/aj-mccampbell
+- url: https://justfacts.votesmart.org/candidate/biography/60444/aj-mccampbell
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=McCampbell&OID_SPONSOR=100553&OID_PERSON=5544&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100553&OID_PERSON=5544
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+extras:
+  counties: Marengo County, Pickens County, Sumter County, Tuscaloosa County

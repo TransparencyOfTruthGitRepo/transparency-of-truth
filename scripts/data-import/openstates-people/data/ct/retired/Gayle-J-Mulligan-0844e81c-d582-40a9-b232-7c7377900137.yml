@@ -1,0 +1,19 @@
+id: ocd-person/0844e81c-d582-40a9-b232-7c7377900137
+name: Gayle J. Mulligan
+given_name: Gayle J.
+family_name: Mulligan
+party:
+- name: Republican
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '55'
+links:
+- url: http://repmulligan.com
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000270
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

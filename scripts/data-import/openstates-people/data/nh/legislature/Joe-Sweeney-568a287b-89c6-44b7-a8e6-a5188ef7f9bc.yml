@@ -1,0 +1,67 @@
+id: ocd-person/568a287b-89c6-44b7-a8e6-a5188ef7f9bc
+name: Joe Sweeney
+given_name: Joe
+family_name: Sweeney
+birth_date: 1993-11-08
+gender: Male
+email: joe.sweeney@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/49847.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 25
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 25
+- end_date: 2016-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 25
+  start_date: 2022-12-07
+- start_date: 2013-01-01
+  end_date: 2016-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 8
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 8
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=779
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=779
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377174
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=779
+  note: member detail page
+other_names:
+- name: J. Sweeney
+- name: Joseph Sweeney
+- name: Sweeney, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000751
+sources:
+- url: https://ballotpedia.org/Joe_Sweeney
+- url: https://en.wikipedia.org/wiki/Joseph_Sweeney_(American_politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=779
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=779
+- url: https://justfacts.votesmart.org/candidate/141928/joe-sweeney
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377174
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=779
+- url: https://www.linkedin.com/in/joesweeneynh
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: M

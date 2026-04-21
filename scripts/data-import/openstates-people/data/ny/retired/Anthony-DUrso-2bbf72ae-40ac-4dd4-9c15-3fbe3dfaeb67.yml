@@ -1,0 +1,20 @@
+id: ocd-person/2bbf72ae-40ac-4dd4-9c15-3fbe3dfaeb67
+name: Anthony D'Urso
+given_name: Anthony
+family_name: D'Urso
+email: dursoa@nyassembly.gov
+image: http://assembly.state.ny.us/mem/pic/016.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '16'
+links:
+- url: http://assembly.state.ny.us/mem/?sh=email
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000430
+sources:
+- url: http://assembly.state.ny.us/mem/Anthony-D'Urso

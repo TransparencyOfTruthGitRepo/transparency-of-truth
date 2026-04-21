@@ -1,0 +1,23 @@
+id: ocd-person/4c1b4d74-176d-499d-b01a-9a370c82dab9
+name: Tommy Tucker
+given_name: Tommy
+family_name: Tucker
+image: http://www.ncleg.net/Senate/pictures/hiRes/310.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '35'
+links:
+- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=Senate&nUserID=310
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000196
+sources:
+- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=Senate&nUserID=310
+extras:
+  counties:
+  - Union
+  notice: null

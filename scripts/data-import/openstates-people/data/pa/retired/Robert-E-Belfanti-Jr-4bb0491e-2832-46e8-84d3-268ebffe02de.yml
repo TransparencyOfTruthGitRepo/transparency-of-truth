@@ -1,0 +1,18 @@
+id: ocd-person/4bb0491e-2832-46e8-84d3-268ebffe02de
+name: Robert E Belfanti Jr.
+given_name: Robert
+family_name: Belfanti
+middle_name: E
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '107'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000056
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm

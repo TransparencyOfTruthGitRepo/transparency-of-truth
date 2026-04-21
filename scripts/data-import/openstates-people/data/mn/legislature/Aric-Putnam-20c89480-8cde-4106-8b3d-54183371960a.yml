@@ -1,0 +1,34 @@
+id: ocd-person/20c89480-8cde-4106-8b3d-54183371960a
+name: Aric Putnam
+given_name: Aric
+family_name: Putnam
+birth_date: 1972-07-07
+gender: Male
+email: sen.aric.putnam@senate.mn
+image: https://www.senate.mn/graphics/14PutnamAric.jpg
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2021-01-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '14'
+offices:
+- classification: capitol
+  address: Room 3215, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-6455
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1249
+other_names:
+- name: A. Putnam
+- name: Putnam, A.
+sources:
+- url: https://ballotpedia.org/Aric_Putnam
+- url: https://en.wikipedia.org/wiki/Aric_Putnam
+- url: https://justfacts.votesmart.org/candidate/171487/aric-putnam
+- url: https://www.linkedin.com/in/aric-putnam-51792779
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/index.php
+- url: https://www.senate.mn/members/list.csv
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1249

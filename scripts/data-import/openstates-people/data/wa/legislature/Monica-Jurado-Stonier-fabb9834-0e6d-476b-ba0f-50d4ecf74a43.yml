@@ -1,0 +1,45 @@
+id: ocd-person/fabb9834-0e6d-476b-ba0f-50d4ecf74a43
+name: Monica Stonier
+given_name: Monica
+family_name: Stonier
+birth_date: 1976-10-05
+gender: Female
+email: monica.stonier@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/17279.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '49'
+offices:
+- classification: capitol
+  address: Room 436A, Legislative Building P.O. Box 40600, Olympia, WA 98504
+  voice: 360-786-7872
+links:
+- url: https://housedemocrats.wa.gov/legislators/Monica-Jurado-Stonier/
+- url: https://housedemocrats.wa.gov/Stonier/
+- url: https://housedemocrats.wa.gov/stonier/
+- url: https://leg.wa.gov/legislators/member/monica-jurado-stonier
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_names:
+- name: M. Stonier
+- name: M.J. Stonier
+- name: M.M.J. Stonier
+- name: Monica Jurado Stonier
+- name: Stonier, M.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000245
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=House
+- url: https://ballotpedia.org/Monica_Jurado_Stonier
+- url: https://en.wikipedia.org/wiki/Monica_Stonier
+- url: https://housedemocrats.wa.gov/stonier
+- url: https://housedemocrats.wa.gov/stonier/
+- url: https://justfacts.votesmart.org/candidate/126320/monica-stonier
+- url: https://leg.wa.gov/legislators/member/monica-jurado-stonier
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+extras:
+  title: Majority Floor Leader

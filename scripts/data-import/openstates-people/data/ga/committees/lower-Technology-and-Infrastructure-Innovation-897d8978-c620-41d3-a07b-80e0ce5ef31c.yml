@@ -1,0 +1,82 @@
+id: ocd-organization/897d8978-c620-41d3-a07b-80e0ce5ef31c
+jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+classification: committee
+name: Technology and Infrastructure Innovation
+chamber: lower
+sources:
+- url: https://www.legis.ga.gov/api/committees/details/200/1031
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1031
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/committees/house/200
+links:
+- url: https://www.legis.ga.gov/committees/house/200
+  note: homepage
+members:
+- name: Todd Jones
+  role: chair
+  person_id: ocd-person/45567c87-3ba6-49ec-9ea2-5ebb880aa94c
+- name: Brad Thomas
+  role: vice chair
+  person_id: ocd-person/933a841a-19d6-42c2-a046-991ff9903a23
+- name: Brent Cox
+  role: secretary
+  person_id: ocd-person/c0b205e2-1542-4802-896d-fa7b2b6fc4d9
+- name: Arlene Beckles
+  role: member
+  person_id: ocd-person/3b3da57c-2f96-4a94-a7bc-eb6a814cc627
+- name: Brian Prince
+  role: member
+  person_id: ocd-person/a53e6bbd-a5b8-436b-94ae-bebf957c5b61
+- name: Clint Crowe
+  role: member
+  person_id: ocd-person/e1a9102d-f845-47f5-882e-e344eef060ec
+- name: Dar'shun Kendrick
+  role: member
+  person_id: ocd-person/1f94316e-fb58-401f-bbfc-5ada0a717b6b
+- name: Don Parsons
+  role: member
+  person_id: ocd-person/81dde544-49e9-4fb0-9313-32eacaf6194b
+- name: Ginny Ehrhart
+  role: member
+  person_id: ocd-person/be05ace3-ea73-4f3f-85ae-c5ed313d4cbe
+- name: Imani Barnes
+  role: member
+  person_id: ocd-person/2a68d594-e7d5-49cd-b615-6efb872430c3
+- name: Jan Jones
+  role: member
+  person_id: ocd-person/85740034-23b0-4001-9190-8948bd9f3b37
+- name: John LaHood
+  role: member
+  person_id: ocd-person/9249be26-54d2-467a-88ec-2588b886148d
+- name: Joseph Gullett
+  role: member
+  person_id: ocd-person/f36d2507-b19a-4ee5-b4f9-5c06df761edf
+- name: Long Tran
+  role: member
+  person_id: ocd-person/7475f989-a4f9-4ac8-9188-26903a012d71
+- name: Mary Margaret Oliver
+  role: member
+  person_id: ocd-person/e6ca1b23-0972-4df6-ab04-6186cf9da814
+- name: Sam Park
+  role: member
+  person_id: ocd-person/2ba0916f-40b1-4255-9496-94b12ccabd1e
+- name: Scott Holcomb
+  role: member
+  person_id: ocd-person/99ef9b20-6b1f-4831-8e58-a523de606cda
+- name: Segun Adeyina
+  role: member
+  person_id: ocd-person/702658f4-8382-479a-9416-79928239d5e7
+- name: Shaw Blackmon
+  role: member
+  person_id: ocd-person/ee145624-3295-4db4-b3ce-9d1583e4ef6e
+- name: Stacey Evans
+  role: member
+  person_id: ocd-person/fa5d8d09-a0b9-4ba4-93da-a24902530416
+other_names:
+- name: House Committee on Technology and Infrastructure Innovation
+- name: House Technology and Infrastructure Innovation
+- name: House Technology and Infrastructure Innovation Committee
+extras:
+  address: 416-B State Capitol  Atlanta, GA 30334
+  phone: '4046569210'

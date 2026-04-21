@@ -1,0 +1,52 @@
+id: ocd-person/faa88790-ac92-4a09-b00e-7049cc8521b6
+name: Tom Peterson
+given_name: Tom
+family_name: Peterson
+gender: Male
+email: tpeterson@le.utah.gov
+image: https://le.utah.gov/images/legislator/PETERT.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-09-21
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '1'
+offices:
+- classification: capitol
+  address: P.O. Box 145030 350 N. State St., Suite 350, Salt Lake City, UT 84114
+  voice: 801-538-1029
+- classification: district
+  address: UT
+  voice: 435-720-3516
+links:
+- url: https://house.utah.gov/rep/PETERT/
+  note: homepage
+- url: https://house.utleg.gov/rep/PETERT/
+- url: https://le.utah.gov/asp/billsintro/RepResults.asp?Listbox3=PETERT
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/House_Dist01.pdf
+  note: district demographics
+other_names:
+- name: Peterson, T.
+- name: Peterson, Tom
+- name: T. Peterson
+- name: Thomas W. Peterson
+sources:
+- url: https://ballotpedia.org/Thomas_Peterson_(Utah)
+- url: https://en.wikipedia.org/wiki/Thomas_Peterson_(politician)
+- url: https://house.utah.gov/rep/PETERT
+- url: https://house.utah.gov/rep/PETERT/
+- url: https://house.utleg.gov/rep/PETERT
+- url: https://house.utleg.gov/rep/PETERT/
+- url: https://justfacts.votesmart.org/candidate/biography/210882/thomas-peterson
+- url: https://le.utah.gov/data/legislators.json
+- url: https://www.linkedin.com/in/tom-peterson-cbo-3487b842
+extras:
+  service start: September 21, 2022
+  profession: Building Official
+  education: Ogden Weber Tech College
+  counties represented:
+  - Box Elder
+  - Cache
+  cell phone: 435-720-3516

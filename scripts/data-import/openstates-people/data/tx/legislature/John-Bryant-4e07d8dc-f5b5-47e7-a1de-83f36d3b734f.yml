@@ -1,0 +1,43 @@
+id: ocd-person/4e07d8dc-f5b5-47e7-a1de-83f36d3b734f
+name: John Bryant
+given_name: John
+family_name: Bryant
+birth_date: 1947-02-22
+gender: Male
+email: john.bryant@house.texas.gov
+image: https://house.texas.gov/images/members/4120.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '114'
+- start_date: 1974-01-29
+  end_date: 1983-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '114'
+offices:
+- classification: capitol
+  address: Room 4S.3, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0576
+- classification: district
+  address: 6301 Gaston Ave. Suite 1110, Dallas, TX 75214
+  voice: 214-440-1438
+links:
+- url: https://house.texas.gov/members/4120
+- url: https://house.texas.gov/members/member-page/?district=114
+other_names:
+- name: Bryant, J.
+- name: Bryant, John
+- name: J. Bryant
+- name: J.W. Bryant
+sources:
+- url: https://ballotpedia.org/John_Bryant_(United_States_House_of_Representatives)
+- url: https://en.wikipedia.org/wiki/John_Wiley_Bryant
+- url: https://house.texas.gov/members/4120
+- url: https://house.texas.gov/members/4120/biography
+- url: https://house.texas.gov/members/member-page/?district=114
+- url: https://justfacts.votesmart.org/candidate/biography/27081/john-bryant
+- url: https://www.linkedin.com/in/john-bryant-643aa12a

@@ -1,0 +1,79 @@
+id: ocd-organization/43f0e9b9-03c5-4ce4-ae85-6d987b1e226b
+jurisdiction: ocd-jurisdiction/country:us/state:id/government
+classification: committee
+name: Education
+chamber: lower
+sources:
+- url: https://legislature.idaho.gov/committees/
+  note: homepage
+- url: https://legislature.idaho.gov/committees/housecommittees/
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HEDU
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HEDU/
+- url: https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HEDU/#hcode-tab-style2members
+  note: Committee Details page
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HEDU/#hcode-tab-style2members
+  note: Committee Details page
+- url: https://legislature.idaho.gov/sessioninfo/2025/standingcommittees/HEDU
+- url: https://legislature.idaho.gov/sessioninfo/2026/standingcommittees/HEDU
+links:
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HEDU
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HEDU/
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HEDU/#hcode-tab-style2members
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HEDU
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HEDU/#hcode-tab-style2members
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2025/standingcommittees/HEDU
+- url: https://legislature.idaho.gov/sessioninfo/2026/standingcommittees/HEDU
+members:
+- name: Dale Hawkins
+  role: chair
+  person_id: ocd-person/d9426884-2195-45ee-8130-4a8cf0d61adf
+- name: Clay Handy
+  role: vice chair
+  person_id: ocd-person/1bef63af-a339-47dd-872d-ef1c94a72900
+- name: Barbara Ehardt
+  role: member
+  person_id: ocd-person/c8c374b3-22b8-4221-a65a-6a4616cb107d
+- name: Chris Mathias
+  role: member
+  person_id: ocd-person/7e3f625c-e56e-409a-9989-b07cd77344f6
+- name: Clint Hostetler
+  role: member
+  person_id: ocd-person/39fe1103-009e-4594-8ae1-107ba5ffd388
+- name: Dan Garner
+  role: member
+  person_id: ocd-person/bae06244-d892-41b2-a4a5-beaaa6cba0da
+- name: Doug Pickett
+  role: member
+  person_id: ocd-person/6dbb9465-3ef5-4754-a482-08ae17c4cb9b
+- name: Jack Nelsen
+  role: member
+  person_id: ocd-person/6e4d92d8-1f64-4284-95cf-d9c50e3d5730
+- name: Kent Marmon
+  role: member
+  person_id: ocd-person/c92ba4ff-72aa-4985-b8c0-bb3178187c81
+- name: Mark Sauter
+  role: member
+  person_id: ocd-person/92364a5c-40fe-4350-9604-5257be00caab
+- name: Mike Veile
+  role: member
+  person_id: ocd-person/ca69eadf-b5f3-4f48-8ce1-8507af44f50e
+- name: Ron Mendive
+  role: member
+  person_id: ocd-person/71489ac3-457d-41ec-b285-a099648b601b
+- name: "So\xF1ia Galaviz"
+  role: member
+  person_id: ocd-person/b5b4cf71-98db-47f1-84ec-087a4b46641a
+- name: Tony Wisniewski
+  role: member
+  person_id: ocd-person/ee4e19dc-d39c-4a93-b466-346b2e822f86
+other_names:
+- name: House Committee on Education
+- name: House Education
+- name: House Education Committee
+extras:
+  secretary: "Christine\_Reynolds"
+  email: hedu@house.idaho.gov
+  phone: 332-1148

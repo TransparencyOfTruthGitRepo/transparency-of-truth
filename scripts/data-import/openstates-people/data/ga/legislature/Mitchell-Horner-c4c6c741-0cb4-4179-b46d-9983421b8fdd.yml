@@ -1,0 +1,50 @@
+id: ocd-person/c4c6c741-0cb4-4179-b46d-9983421b8fdd
+name: Mitchell Horner
+given_name: Mitchell
+family_name: Horner
+birth_date: 1994-05-04
+gender: Male
+email: mitchell.horner@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/horner-mitchell-5018.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '3'
+offices:
+- classification: capitol
+  address: Room 612-B, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0325
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5018
+- url: https://www.legis.ga.gov/members/house/5018?session=1031
+  note: HTML member detail page
+other_names:
+- name: E.M. Horner
+- name: HORNER, 3RD
+- name: Horner, M.
+- name: M. Horner
+sources:
+- url: https://ballotpedia.org/Mitchell_Horner
+- url: https://en.wikipedia.org/wiki/Mitchell_Horner
+- url: https://justfacts.votesmart.org/candidate/biography/203358/mitchell-horner
+- url: https://www.legis.ga.gov/api/members/detail/5018?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5018
+extras:
+  residence: Ringgold
+  city: Ringgold
+  georgia_id: 5018
+  birthday: May 4
+  occupation: Manufacturing Business Owner/Budget Specialist
+  press: https://house-press.com/representative/Mitchell-Horner
+  spouse: Roxanne
+  staff: Chelsea Bell - Administrative Assistant
+  staff email: chelsea.bell@house.ga.gov

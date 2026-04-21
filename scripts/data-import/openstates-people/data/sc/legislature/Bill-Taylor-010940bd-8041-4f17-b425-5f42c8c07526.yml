@@ -1,0 +1,43 @@
+id: ocd-person/010940bd-8041-4f17-b425-5f42c8c07526
+name: Bill Taylor
+given_name: Bill
+family_name: Taylor
+birth_date: 1946-07-16
+gender: Male
+email: billtaylor@schouse.gov
+image: https://scstatehouse.gov/images/members/1811363419.jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '86'
+offices:
+- classification: capitol
+  address: Room 416B, Blatt Building P.O. Box 11867, Columbia, SC 29201
+  voice: 803-212-6923
+links:
+- url: https://scstatehouse.gov/member.php?code=1811363419
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=1811363419
+  note: homepage
+other_names:
+- name: B. Taylor
+- name: Taylor, B.
+- name: Taylor, Bill
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000158
+- scheme: legacy_openstates
+  identifier: SCL000171
+sources:
+- url: https://ballotpedia.org/Bill_Taylor_(South_Carolina)
+- url: https://en.wikipedia.org/wiki/Bill_Taylor_(South_Carolina_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/121739/bill-taylor
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=1811363419
+- url: https://www.linkedin.com/in/bill-taylor-5b222219
+- url: https://www.scstatehouse.gov/member.php?chamber=H
+- url: https://www.scstatehouse.gov/member.php?code=1811363419
+extras:
+  counties represented: Aiken & Lexington Counties

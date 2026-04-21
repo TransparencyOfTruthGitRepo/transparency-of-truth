@@ -1,0 +1,30 @@
+id: ocd-person/083b3bfe-e8be-4402-a644-814e7113d28f
+name: "Sergio Est\xE9vez"
+given_name: Sergio
+family_name: "Est\xE9vez"
+gender: Male
+email: sestevez@camara.pr.gov
+party:
+- name: Partido Nuevo Progresista
+roles:
+- start_date: 2025-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: '40'
+offices:
+- classification: capitol
+  address: "El Capitolio, Avenida Constituci\xF3n P.O. Box 9022228, San Juan, PR 00902"
+  voice: 787-721-3901
+links:
+- url: https://camara.registrok12.com/team/sergio-estevez-velez/
+- url: https://www.camara.pr.gov/team/sergio-estevez/
+other_names:
+- name: "Est\xE9vez V\xE9lez, S."
+- name: "Est\xE9vez, S."
+- name: "S. Est\xE9vez"
+- name: "S. Est\xE9vez V\xE9lez"
+- name: "Sergio Est\xE9vez V\xE9lez"
+sources:
+- url: https://ballotpedia.org/Sergio_Estevez
+- url: https://camara.registrok12.com/team/sergio-estevez-velez
+- url: https://www.camara.pr.gov/team/sergio-estevez

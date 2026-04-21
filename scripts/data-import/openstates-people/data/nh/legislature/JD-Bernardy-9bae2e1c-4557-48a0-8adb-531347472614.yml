@@ -1,0 +1,52 @@
+id: ocd-person/9bae2e1c-4557-48a0-8adb-531347472614
+name: J.D. Bernardy
+given_name: J.D.
+family_name: Bernardy
+gender: Male
+email: jd.bernardy@comcast.net
+image: https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/2020-08/JDBernardy.png?itok=IhGAlNMd
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 36
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 36
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 16
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9941
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9941
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9941
+  note: member detail page
+other_names:
+- name: Bernardy, J.
+- name: J. Bernardy
+- name: J. David Bernardy
+- name: J.D. Bernardy
+- name: JD Bernardy
+sources:
+- url: https://ballotpedia.org/J_D_Bernardy
+- url: https://en.wikipedia.org/wiki/JD_Bernardy
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9941
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9941
+- url: https://justfacts.votesmart.org/candidate/195036/j-d-bernardy
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9941
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: M

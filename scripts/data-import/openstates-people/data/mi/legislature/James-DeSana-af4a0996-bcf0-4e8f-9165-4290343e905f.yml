@@ -1,0 +1,38 @@
+id: ocd-person/af4a0996-bcf0-4e8f-9165-4290343e905f
+name: Jim DeSana
+given_name: Jim
+family_name: DeSana
+gender: Male
+email: jamesdesana@house.mi.gov
+image: https://www.house.mi.gov/media/Representatives/DeSana-029.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '29'
+offices:
+- classification: capitol
+  address: Room N-793, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0475
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/RepJamesDeSana/posts
+other_names:
+- name: DeSana, J.
+- name: J. DeSana
+- name: James DeSana
+sources:
+- url: https://ballotpedia.org/James_DeSana
+- url: https://gophouse.org/member/RepJamesDeSana/about
+- url: https://gophouse.org/member/RepJamesDeSana/posts
+- url: https://RepDeSana.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.house.mi.gov/repdetail/repJamesDeSana
+  note: Member Details Page
+- url: https://www.linkedin.com/in/jim-desana-1423163b

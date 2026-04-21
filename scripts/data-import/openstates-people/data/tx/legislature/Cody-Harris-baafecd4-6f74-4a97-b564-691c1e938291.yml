@@ -1,0 +1,37 @@
+id: ocd-person/baafecd4-6f74-4a97-b564-691c1e938291
+name: Cody Harris
+given_name: Cody
+family_name: Harris
+birth_date: 1983-08-16
+gender: Male
+email: cody.harris@house.texas.gov
+image: https://house.texas.gov/images/members/3580.jpg?v=3
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room E2.504, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0730
+- classification: district
+  address: 519 N. Sycamore, Palestine, TX 75801
+  voice: 903-731-4005
+links:
+- url: https://house.texas.gov/members/3580
+- url: https://house.texas.gov/members/member-page/?district=8
+other_names:
+- name: C. Harris
+- name: Harris, C.
+- name: Harris, Cody
+sources:
+- url: https://ballotpedia.org/Cody_Harris
+- url: https://en.wikipedia.org/wiki/Cody_Harris_(politician)
+- url: https://house.texas.gov/members/3580
+- url: https://house.texas.gov/members/3580/biography
+- url: https://house.texas.gov/members/member-page/?district=8
+- url: https://justfacts.votesmart.org/candidate/biography/177384/cody-harris
+- url: https://www.linkedin.com/in/codyharristx

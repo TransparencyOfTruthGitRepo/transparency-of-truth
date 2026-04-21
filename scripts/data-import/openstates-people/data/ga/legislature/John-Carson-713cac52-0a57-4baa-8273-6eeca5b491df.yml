@@ -1,0 +1,69 @@
+id: ocd-person/713cac52-0a57-4baa-8273-6eeca5b491df
+name: John Carson
+given_name: John
+family_name: Carson
+birth_date: 1971-09-21
+gender: Male
+email: john.carson@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/carson-john-795.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-11-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '46'
+offices:
+- classification: capitol
+  address: State Capitol Room 401-E, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-7855
+- classification: district
+  address: 3605 Sandy Plains Road Suite 240-123, Marietta, GA 30066
+  voice: 404-520-8826
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=795&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/795
+- url: https://www.legis.ga.gov/members/house/795?session=1029
+- url: https://www.legis.ga.gov/members/house/795?session=1031
+  note: HTML member detail page
+other_names:
+- name: CARSON, 46TH
+- name: Carson, J.
+- name: J. Carson
+- name: J.K. Carson
+- name: John Carson
+- name: John K. Carson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000234
+- scheme: legacy_openstates
+  identifier: GAL000236
+- scheme: legacy_openstates
+  identifier: GAL000257
+sources:
+- url: https://ballotpedia.org/John_Carson_(Georgia)
+- url: https://en.wikipedia.org/wiki/John_Carson_(Georgia_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/135769/john-carson
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=795&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/795?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/795?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/795
+- url: https://www.legis.ga.gov/members/house/795?session=1029
+- url: https://www.linkedin.com/in/johnkcarsonjr
+extras:
+  residence: Marietta
+  city: Marietta
+  georgia_id: 795
+  birthday: September 21
+  press: https://house-press.com/representative/John-Carson
+  spouse: Beverly
+  staff: Dendrick Atkins - Administrative Assistant
+  staff email: dendrick.atkins@house.ga.gov
+  title: Chairman, Retirement

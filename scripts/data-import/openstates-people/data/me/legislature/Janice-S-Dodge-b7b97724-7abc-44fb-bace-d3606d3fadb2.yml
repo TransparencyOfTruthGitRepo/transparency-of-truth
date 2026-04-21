@@ -1,0 +1,48 @@
+id: ocd-person/b7b97724-7abc-44fb-bace-d3606d3fadb2
+name: Janice Dodge
+given_name: Janice
+family_name: Dodge
+gender: Female
+email: jan.dodge@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/3966d66f-a9d5-4de6-963e-cbe39eacecb3_JDODGE.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '39'
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '39'
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '97'
+offices:
+- classification: capitol
+  address: Room 333, House Democratic Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1366
+  note: homepage
+other_names:
+- name: DODGE of Belfast
+- name: Dodge, J.
+- name: J. Dodge
+- name: Janice DODGE
+- name: Janice S. Dodge
+sources:
+- url: https://ballotpedia.org/Janice_Dodge
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1366
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://www.linkedin.com/in/jan-dodge-52106b67
+extras:
+  Seat Number: '144'
+  towns represented:
+  - Belfast
+  - Belmont
+  - Northport
+  occupation: Retired Teacher

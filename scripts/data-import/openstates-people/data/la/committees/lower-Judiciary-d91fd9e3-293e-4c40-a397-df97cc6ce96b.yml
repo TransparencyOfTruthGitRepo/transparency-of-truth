@@ -1,0 +1,83 @@
+id: ocd-organization/d91fd9e3-293e-4c40-a397-df97cc6ce96b
+jurisdiction: ocd-jurisdiction/country:us/state:la/government
+classification: committee
+name: Judiciary
+chamber: lower
+sources:
+- url: https://house.louisiana.gov/H_Cmtes/Judiciary
+- url: https://house.louisiana.gov/H_Cmtes/Judiciary.aspx
+  note: Committee Detail Page
+- url: https://www.legis.la.gov/legis/Committees.aspx?c=H
+  note: Committees List Page
+links:
+- url: https://house.louisiana.gov/H_Cmtes/Judiciary
+- url: https://house.louisiana.gov/H_Cmtes/Judiciary.aspx
+  note: homepage
+members:
+- name: Robby Carter
+  role: chair
+  person_id: ocd-person/a24e242f-3fd9-479c-8423-cf0c6e2c6273
+- name: Kathy Edmonston
+  role: vice chair
+  person_id: ocd-person/92f7834e-8ce3-437f-bdbf-8dad3528ae3b
+- name: Mike Johnson
+  role: ex officio
+  person_id: ocd-person/0e901294-3718-49df-9922-0ac4503acee2
+- name: Phillip DeVillier
+  role: ex officio
+  person_id: ocd-person/ee23b4bf-f5f7-498c-9fcc-f3b2d6f8fb1d
+- name: Candace Newell
+  role: member
+  person_id: ocd-person/85a96a1b-a8a0-4ddd-acd7-9452b48f5ace
+- name: Chuck Owen
+  role: member
+  person_id: ocd-person/2a4d4c31-ee06-4f32-a67b-c55db60502e4
+- name: Edmond Jordan
+  role: member
+  person_id: ocd-person/efdf7ee4-4d37-4e57-8f0c-e0db52ee7f70
+- name: Emily Chenevert
+  role: member
+  person_id: ocd-person/9661594c-df1e-402a-b2c5-fe2c88366506
+- name: Jacob Braud
+  role: member
+  person_id: ocd-person/bfe2d39a-39a1-4992-86cd-6ab25767de92
+- name: "Jay Gall\xE9"
+  role: member
+  person_id: ocd-person/ef1c54d6-d162-48d3-b3b5-b02da086c1ee
+- name: Jeff Wiley
+  role: member
+  person_id: ocd-person/b96a872c-91bd-47ea-a50f-f82294b3d91b
+- name: Jeremy LaCombe
+  role: member
+  person_id: ocd-person/9ae6b490-4fe0-435c-93fd-ad316e474204
+- name: Jerome Zeringue
+  role: member
+  person_id: ocd-person/2dafe5b8-cb5a-411a-b270-322dcaf18293
+- name: Joe Orgeron
+  role: member
+  person_id: ocd-person/9002c3a7-c0d9-4112-ad34-e0c6fa909ce1
+- name: Kellee Hennessy
+  role: member
+  person_id: ocd-person/c64e6628-efa4-4ffe-8b2f-d9df80f4f313
+- name: Kyle Green
+  role: member
+  person_id: ocd-person/8ffaa2bd-ff67-464a-b639-19a6069e28a2
+- name: Lauren Ventrella
+  role: member
+  person_id: ocd-person/d2ecd14d-09ce-4e45-8969-149531759584
+- name: Mandie Landry
+  role: member
+  person_id: ocd-person/6e106343-c9e7-4993-aca8-201210f61d64
+- name: Shane Mack
+  role: member
+  person_id: ocd-person/46b660af-1c4c-46a1-905e-ffd89a9cc32f
+- name: Troy Hebert
+  role: member
+  person_id: ocd-person/ba2902d5-5a0e-4e71-b396-6e85358511de
+- name: Vanessa LaFleur
+  role: member
+  person_id: ocd-person/9510158f-4e63-4b68-ad44-daef2987b780
+other_names:
+- name: House Committee on Judiciary
+- name: House Judiciary
+- name: House Judiciary Committee

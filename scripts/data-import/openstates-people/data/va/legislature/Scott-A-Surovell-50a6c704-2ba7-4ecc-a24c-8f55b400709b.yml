@@ -1,0 +1,58 @@
+id: ocd-person/50a6c704-2ba7-4ecc-a24c-8f55b400709b
+name: Scott Surovell
+given_name: Scott
+family_name: Surovell
+birth_date: 1971-08-21
+gender: Male
+email: senatorsurovell@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/Surovell34
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '34'
+- start_date: 2016-01-13
+  end_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '36'
+offices:
+- classification: capitol
+  address: Room 1405, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7534
+- classification: district-mail
+  address: P.O. Box 289, Mount Vernon, VA 22121
+  voice: 571-249-4484
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S100
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S100
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S100
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S100
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S100
+other_names:
+- name: S. Surovell
+- name: S.A. Surovell
+- name: Scott A. Surovell
+- name: Scott Anthony Surovell
+- name: Surovell, S.
+- name: Surovell, Scott A.
+ids:
+  twitter: ssurovell
+  facebook: Surovell
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000245
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S100
+- url: https://ballotpedia.org/Scott_Surovell
+- url: https://en.wikipedia.org/wiki/Scott_Surovell
+- url: https://justfacts.votesmart.org/candidate/biography/115805/scott-surovell
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S100
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S100
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S100
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S100
+- url: https://www.linkedin.com/in/scottsurovell

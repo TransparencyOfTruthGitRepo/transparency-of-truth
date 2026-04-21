@@ -1,0 +1,38 @@
+id: ocd-person/987fd457-5b14-4300-95f1-e92f7cd5f748
+name: Andy Fugate
+given_name: Andy
+family_name: Fugate
+birth_date: 1966-08-10
+gender: Male
+email: andy.fugate@okhouse.gov
+image: https://www.okhouse.gov/Members/Pictures/HiRes/Fugate,%20Andy.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2018-11-16
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ok/government
+  district: '94'
+offices:
+- classification: capitol
+  address: Room 545, 2300 N. Lincoln Blvd., Oklahoma City, OK 73105
+  voice: 405-557-7370
+links:
+- url: https://www.okhouse.gov/Members/Contact.aspx?District=94
+  note: Contact Form
+- url: https://www.okhouse.gov/Members/District.aspx?District=94
+- url: https://www.okhouse.gov/representatives/andy-fugate
+other_names:
+- name: A. Fugate
+- name: Fugate, A.
+sources:
+- url: https://ballotpedia.org/Andy_Fugate
+- url: https://en.wikipedia.org/wiki/Andy_Fugate
+- url: https://justfacts.votesmart.org/candidate/182072/andy-fugate
+- url: https://www.linkedin.com/in/andy-fugate-19b0a29
+- url: https://www.okhouse.gov/Members/Default.aspx
+- url: https://www.okhouse.gov/Members/District.aspx?District=94
+- url: https://www.okhouse.gov/representatives/andy-fugate
+extras:
+  _scraped_name: Fugate, Andy
+  email: andy.fugate@okhouse.gov

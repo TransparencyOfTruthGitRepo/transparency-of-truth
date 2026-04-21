@@ -1,0 +1,47 @@
+id: ocd-person/de7591e7-6ae0-47c3-b1ea-12073106498c
+name: Stephanie Hilferty
+given_name: Stephanie
+family_name: Hilferty
+gender: Female
+email: hilfertys@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep94.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '94'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 3331 Severn Ave. Suite 206, Metairie, LA 70002
+  voice: 504-885-4154
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=94
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=94
+other_names:
+- name: Hilferty, S.
+- name: S. Hilferty
+- name: S.A. Hilferty
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000813
+- scheme: legacy_openstates
+  identifier: LAL000883
+sources:
+- url: https://ballotpedia.org/Stephanie_Hilferty
+- url: https://en.wikipedia.org/wiki/Stephanie_Hilferty
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=94
+- url: https://house.louisiana.gov/H_Reps/members?ID=94
+- url: https://www.linkedin.com/in/stephanie-hilferty-52b5a111
+- url: https://www.srsa-realestate.com/team/stephanie-hilferty
+extras:
+  legislative assistant: Donna Gordon
+  representing parishes:
+  - Jefferson and Orleans
+  education: St. Mary's Dominican High School;  Loyola University New Orleans, B.A.

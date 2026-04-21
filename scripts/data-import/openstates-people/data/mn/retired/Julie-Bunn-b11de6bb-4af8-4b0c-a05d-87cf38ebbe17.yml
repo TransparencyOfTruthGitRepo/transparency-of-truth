@@ -1,0 +1,17 @@
+id: ocd-person/b11de6bb-4af8-4b0c-a05d-87cf38ebbe17
+name: Julie Bunn
+given_name: Julie
+family_name: Bunn
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 56A
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000178
+sources:
+- url: http://www.house.leg.state.mn.us/members/meminfo.xls

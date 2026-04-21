@@ -1,0 +1,45 @@
+id: ocd-person/26244d6a-f0d5-4dbe-b9ed-a38df74a7bac
+name: Mary Ann Perez
+given_name: Mary Ann
+family_name: Perez
+birth_date: 1962-05-15
+gender: Female
+email: maryann.perez@house.texas.gov
+image: https://house.texas.gov/images/members/2535.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '144'
+- start_date: 2013-01-08
+  end_date: 2015-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '144'
+offices:
+- classification: capitol
+  address: Room 1N.7, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0460
+- classification: district
+  address: 101 S. Richey St. Suite F107, Pasadena, TX 77506
+  voice: 713-740-8153
+links:
+- url: https://house.texas.gov/members/2535
+- url: https://house.texas.gov/members/member-page/?district=144
+other_names:
+- name: M. Perez
+- name: M.A. Perez
+- name: Perez, M.
+- name: Perez, Mary Ann
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000679
+sources:
+- url: https://ballotpedia.org/Mary_Ann_Perez
+- url: https://en.wikipedia.org/wiki/Mary_Ann_Perez
+- url: https://house.texas.gov/members/2535
+- url: https://house.texas.gov/members/member-page/?district=144
+- url: https://justfacts.votesmart.org/candidate/biography/137802/mary-ann-perez
+- url: https://www.linkedin.com/in/mary-ann-perez-18392827

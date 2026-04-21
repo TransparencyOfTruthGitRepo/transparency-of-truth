@@ -1,0 +1,55 @@
+id: ocd-person/36fb226e-9ed4-483f-a254-141baf18d295
+name: Catherine Sofikitis
+given_name: Catherine
+family_name: Sofikitis
+gender: Female
+email: csofikitis@gmail.com
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/59340.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 7
+- start_date: 2016-12-07
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 7
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 34
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=408546
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408546
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8546
+  note: member detail page
+other_names:
+- name: C. Sofikitis
+- name: Catherine M. Sofikitis
+- name: Sofikitis, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001349
+sources:
+- url: https://ballotpedia.org/Catherine_Sofikitis
+- url: https://en.wikipedia.org/wiki/Catherine_Sofikitis
+- url: https://gc.nh.gov/house/members/member.aspx?member=408546
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/172652/catherine-sofikitis
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408546
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8546
+extras:
+  county: Hillsborough
+  elected status: Incumbent
+  gender code: F

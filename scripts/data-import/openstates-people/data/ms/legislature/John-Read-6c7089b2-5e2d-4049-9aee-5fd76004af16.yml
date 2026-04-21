@@ -1,0 +1,44 @@
+id: ocd-person/6c7089b2-5e2d-4049-9aee-5fd76004af16
+name: John Read
+given_name: John
+family_name: Read
+birth_date: 1941-07-08
+gender: Male
+email: jread@house.ms.gov
+image: http://billstatus.ls.state.ms.us/members/house/read.jpg
+party:
+- name: Republican
+roles:
+- start_date: 1993-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '112'
+offices:
+- classification: capitol
+  address: State Capitol Room 201C, 400 High St., Jackson, MS 39201
+  voice: 601-359-3340
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/read.xml
+  note: homepage
+other_names:
+- name: J. Read
+- name: J.O. Read
+- name: Read, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000155
+sources:
+- url: https://ballotpedia.org/John_Read
+- url: https://billstatus.ls.state.ms.us/members/house/read.xml
+- url: https://billstatus.ls.state.ms.us/members/hr_membs.xml
+- url: https://en.wikipedia.org/wiki/John_Read_(Mississippi_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/3712/john-read
+extras:
+  occupation: Pharmacist
+  education:
+  - Mississippi Gulf Coast Community College
+  - North East Louisiana University
+  counties represented:
+  - Jackson

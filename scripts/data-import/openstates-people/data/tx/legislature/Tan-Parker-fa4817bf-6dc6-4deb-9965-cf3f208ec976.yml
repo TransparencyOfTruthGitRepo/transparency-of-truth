@@ -1,0 +1,56 @@
+id: ocd-person/fa4817bf-6dc6-4deb-9965-cf3f208ec976
+name: Tan Parker
+given_name: Tan
+family_name: Parker
+birth_date: 1971-05-22
+gender: Male
+email: tan.parker@senate.texas.gov
+image: https://senate.texas.gov/members/d12/img/86_20190619_SAM_0008.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '12'
+- start_date: 2007-01-09
+  end_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '63'
+offices:
+- classification: capitol
+  address: Room E1.608, P.O. Box 12068 Capitol Station, Austin, TX 78711
+  voice: 512-463-0112
+- classification: district
+  address: 600 Parker Square Suite 250, Flower Mound, TX 75028
+  voice: 972-724-8477
+- classification: district
+  address: '8226 Douglas Ave., #625, Dallas, TX 75225'
+  voice: 214-361-3561
+- classification: district
+  address: Weatherford College 502 Big Sandy Court, Bridgeport, TX 76426
+links:
+- url: https://house.texas.gov/members/member-page/?district=63
+- url: https://senate.texas.gov/member.php?d=12
+- url: https://www.txdirectory.com/online/person/?id=28288
+other_names:
+- name: N.W. Parker
+- name: Parker, T.
+- name: Parker, Tan
+- name: T. Parker
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000325
+- scheme: legacy_openstates
+  identifier: TXL000143
+- scheme: legacy_openstates
+  identifier: TXL000665
+sources:
+- url: https://ballotpedia.org/Tan_Parker
+- url: https://en.wikipedia.org/wiki/Tan_Parker
+- url: https://house.texas.gov/members/member-page/?district=63
+- url: https://justfacts.votesmart.org/candidate/biography/59370/tan-parker
+- url: https://senate.texas.gov/member.php?d=12
+- url: https://www.linkedin.com/in/tan-parker-8b9a316
+- url: https://www.txdirectory.com/online/person/?id=28288

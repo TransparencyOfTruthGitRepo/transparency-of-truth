@@ -1,0 +1,51 @@
+id: ocd-person/6ecab682-9ccf-4777-940d-afa418b601b8
+name: Chris Chandler
+given_name: Chris
+family_name: Chandler
+birth_date: 1958-06-21
+gender: Female
+email: christine.chandler@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HCHAN.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '43'
+offices:
+- classification: capitol
+  address: State Capitol Room 308A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4411
+- classification: district-mail
+  address: P.O. Box 1565, Los Alamos, NM 87544
+links:
+- url: https://www.linkedin.com/in/christine-chandler-b567865a/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAN
+  note: homepage
+- url: https://www.youtube.com/channel/UCfJsAcQbA02PTqGqjUjzbBA
+  note: youtube
+other_names:
+- name: C. Chandler
+- name: C.F. Chandler
+- name: Chandler, C.
+- name: Chandler, Chris
+- name: Chandler, Christine
+- name: Christine Chandler
+- name: Christine F. Chandler
+ids:
+  twitter: Christine4nm
+  instagram: christine4nm
+  facebook: Christine4NM
+sources:
+- url: https://ballotpedia.org/Christine_Chandler
+- url: https://en.wikipedia.org/wiki/Christine_Chandler
+- url: https://www.linkedin.com/in/christine-chandler-b567865a
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAN
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Los Alamos, Sandoval & Santa Fe
+  service: Representative since 2019
+  occupation: Lawyer

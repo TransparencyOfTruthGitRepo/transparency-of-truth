@@ -1,0 +1,61 @@
+id: ocd-person/fd5aaac8-48f5-42c2-82a8-abaf6c5de650
+name: Paul Mark
+given_name: Paul
+family_name: Mark
+gender: Male
+email: paul.mark@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/PWM0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Berkshire, Hampden, Franklin and Hampshire
+- start_date: 2011-01-05
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Berkshire, Hampden, Franklin and Hampshire
+- start_date: 2011-01-01
+  end_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 2nd Berkshire
+offices:
+- classification: capitol
+  address: Room 504, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1625
+- classification: district
+  address: 773 Tyler St., Pittsfield, MA 01201
+  voice: 413-464-5635
+links:
+- url: https://malegislature.gov/Legislators/Profile/PWM0
+- url: https://malegislature.gov/Legislators/Profile/PWM1
+other_names:
+- name: Mark, P.
+- name: P. Mark
+- name: P.W. Mark
+- name: Paul W. Mark
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000530
+- scheme: legacy_openstates
+  identifier: MAL000137
+- scheme: openstates
+  identifier: ocd-person/e2b89817-48c9-4db9-9227-3c3fb6cb5ea3
+sources:
+- url: https://ballotpedia.org/Paul_Mark
+- url: https://en.wikipedia.org/wiki/Paul_Mark
+- url: https://justfacts.votesmart.org/candidate/biography/124969/paul-mark
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/PWM1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/PWM0
+- url: https://malegislature.gov/Legislators/Profile/PWM0
+- url: https://malegislature.gov/Legislators/Profile/PWM1
+- url: https://www.linkedin.com/in/paul-mark-2b4116a
+extras:
+  member code: PWM0

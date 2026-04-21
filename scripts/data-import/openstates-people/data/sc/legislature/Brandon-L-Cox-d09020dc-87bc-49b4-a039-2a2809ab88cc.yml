@@ -1,0 +1,40 @@
+id: ocd-person/d09020dc-87bc-49b4-a039-2a2809ab88cc
+name: Brandon Cox
+given_name: Brandon
+family_name: Cox
+birth_date: 1974-12-14
+gender: Male
+email: brandoncox@schouse.gov
+image: https://scstatehouse.gov/images/members/0428124949.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '92'
+offices:
+- classification: capitol
+  address: Room 310A, Blatt Building P.O. Box 11867, Columbia, SC 29211
+  voice: 803-212-6886
+links:
+- url: https://scstatehouse.gov/member.php?code=0428124949
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=0428124949
+other_names:
+- name: B. Cox
+- name: B.L. Cox
+- name: Brandon L. Cox
+- name: Cox, B.
+- name: Cox, Brandon
+- name: Cox, Brandon L.
+sources:
+- url: https://ballotpedia.org/Brandon_Cox
+- url: https://en.wikipedia.org/wiki/Brandon_Cox_(politician)
+- url: https://justfacts.votesmart.org/candidate/174486/brandon-cox
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=0428124949
+- url: https://www.linkedin.com/in/brandon-cox-18b28a4
+- url: https://www.scstatehouse.gov/member.php?code=0428124949
+extras:
+  counties represented: Berkeley County

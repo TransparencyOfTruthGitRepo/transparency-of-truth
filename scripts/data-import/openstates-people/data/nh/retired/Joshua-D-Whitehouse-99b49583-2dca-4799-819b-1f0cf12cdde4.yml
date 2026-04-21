@@ -1,0 +1,20 @@
+id: ocd-person/99b49583-2dca-4799-819b-1f0cf12cdde4
+name: Joshua D. Whitehouse
+given_name: Joshua
+family_name: Whitehouse
+middle_name: D.
+party:
+- name: Republican
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 2
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377273
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001209
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377273

@@ -1,0 +1,21 @@
+id: ocd-person/40fe98af-e415-4254-b615-a7ed908a5ed3
+name: Harry B Blevins
+given_name: Harry
+family_name: Blevins
+middle_name: B
+image: http://sov.state.va.us/images/Blevins14.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2010-01-01'
+  end_date: '2013-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '14'
+links:
+- url: http://leg6.state.va.us/cgi-bin/legp604.exe?132+mbr+S61
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000002
+sources:
+- url: http://leg6.state.va.us/cgi-bin/legp604.exe?132+mbr+S61

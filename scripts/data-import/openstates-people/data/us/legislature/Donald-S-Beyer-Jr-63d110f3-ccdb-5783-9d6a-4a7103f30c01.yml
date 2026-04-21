@@ -1,0 +1,99 @@
+id: ocd-person/63d110f3-ccdb-5783-9d6a-4a7103f30c01
+name: Don Beyer
+given_name: Don
+family_name: Beyer
+birth_date: 1950-06-20
+gender: Male
+email: https://beyer.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/B001292.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-06
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VA-8
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VA-8
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VA-8
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VA-8
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VA-8
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VA-8
+offices:
+- classification: capitol
+  address: 1226 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-4376
+  fax: 202-225-0017
+- classification: district
+  address: 700 N. Fairfax St. Suite 510, Alexandria, VA 22314
+  voice: 703-658-5403
+  fax: 703-658-5408
+links:
+- url: https://beyer.house.gov
+  note: website
+- url: https://beyer.house.gov/
+other_names:
+- name: Beyer, D.
+- name: D. Beyer
+- name: D.S. Beyer
+- name: Donald S. Beyer, Jr.
+ids:
+  twitter: RepDonBeyer
+  youtube: UCPJGVbOVcAVGiBwq8qr_T9w
+  facebook: RepDonBeyer
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Don Beyer
+- scheme: bioguide
+  identifier: B001292
+- scheme: cspan
+  identifier: '21141'
+- scheme: fec
+  identifier: H4VA08224
+- scheme: google_entity_id
+  identifier: kg:/m/053g16
+- scheme: govtrack
+  identifier: '412657'
+- scheme: icpsr
+  identifier: '21554'
+- scheme: maplight
+  identifier: '2113'
+- scheme: opensecrets
+  identifier: N00036018
+- scheme: pictorial
+  identifier: '13306'
+- scheme: thomas
+  identifier: '02272'
+- scheme: votesmart
+  identifier: '1707'
+- scheme: wikidata
+  identifier: Q3036086
+sources:
+- url: https://ballotpedia.org/Don_Beyer
+- url: https://beyer.house.gov
+- url: https://en.wikipedia.org/wiki/Don_Beyer
+- url: https://justfacts.votesmart.org/candidate/1707/don-beyer-jr
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/donald_beyer/412657
+- url: https://www.linkedin.com/in/don-beyer-6b444b4

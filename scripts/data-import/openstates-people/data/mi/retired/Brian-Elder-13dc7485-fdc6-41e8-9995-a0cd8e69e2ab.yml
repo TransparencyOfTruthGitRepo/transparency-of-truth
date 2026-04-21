@@ -1,0 +1,20 @@
+id: ocd-person/13dc7485-fdc6-41e8-9995-a0cd8e69e2ab
+name: Brian Elder
+given_name: Brian
+family_name: Elder
+email: BrianElder@house.mi.gov
+image: https://housedems.com/sites/default/files/Images/Representative_Images/D096_Brian_Elder/Elder_Headshot.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '96'
+links:
+- url: https://housedems.com/elder
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000349
+sources:
+- url: https://housedems.com/elder

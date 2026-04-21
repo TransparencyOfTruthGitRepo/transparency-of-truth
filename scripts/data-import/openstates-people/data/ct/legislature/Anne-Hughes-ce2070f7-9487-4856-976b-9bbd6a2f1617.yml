@@ -1,0 +1,42 @@
+id: ocd-person/ce2070f7-9487-4856-976b-9bbd6a2f1617
+name: Anne Hughes
+given_name: Anne
+family_name: Hughes
+birth_date: 1965-07-03
+gender: Female
+email: anne.hughes@cga.ct.gov
+image: http://www2.housedems.ct.gov/Hughes/images/Hughes_HS.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '135'
+offices:
+- classification: capitol
+  address: Room 4021, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 800-842-8267
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27135%27&dist_name=Hughes,%20Anne%20M.
+- url: https://www.housedems.ct.gov/hughes
+other_names:
+- name: A. Hughes
+- name: A.M. Hughes
+- name: Anne M. Hughes
+- name: Hughes, A.
+- name: Hughes, Anne M.
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Anne_Hughes
+- url: https://en.wikipedia.org/wiki/Anne_Meiman_Hughes
+- url: https://justfacts.votesmart.org/candidate/185774/anne-hughes
+- url: https://www.housedems.ct.gov/hughes
+- url: https://www.linkedin.com/in/anne-hughes-impact
+extras:
+  gender: Female
+  title: Assistant Majority Leader
+  committees: Aging; Human Services; Labor and Public Employees
+  committee codes: ;AGE;HS;LAB;
+  business phone: 203-364-8251
+  prison: '0'

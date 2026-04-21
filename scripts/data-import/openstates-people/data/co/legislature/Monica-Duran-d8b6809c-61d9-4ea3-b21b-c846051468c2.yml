@@ -1,0 +1,42 @@
+id: ocd-person/d8b6809c-61d9-4ea3-b21b-c846051468c2
+name: Monica Duran
+given_name: Monica
+family_name: Duran
+birth_date: 1960-01-08
+gender: Female
+email: monica.duran.house@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_duran%2C%20monica.jpg?itok=weFukimD
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '23'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '24'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-5522
+links:
+- url: https://leg.colorado.gov/legislators/monica-duran
+  note: homepage
+other_names:
+- name: Duran M.
+- name: Duran, M.
+- name: M. Duran
+- name: M.I. Duran
+sources:
+- url: https://ballotpedia.org/Monica_Duran
+- url: https://en.wikipedia.org/wiki/Monica_Duran
+- url: https://justfacts.votesmart.org/candidate/biography/173284/monica-duran
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/monica-duran
+- url: https://www.linkedin.com/in/monica-duran-25a96726
+extras:
+  counties represented:
+  - Jefferson

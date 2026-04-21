@@ -1,0 +1,64 @@
+id: ocd-person/e60aed5e-cbb4-4b27-ab1b-2ce1dd787dac
+name: Aboul Khan
+given_name: Aboul
+family_name: Khan
+birth_date: 1960-03-01
+gender: Male
+email: aboul.khan@gc.nh.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AboulKhan.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 30
+- start_date: 2016-12-07
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 30
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 20
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=736
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=736
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=736
+  note: member detail page
+other_names:
+- name: A. Khan
+- name: A.B. Khan
+- name: Aboul B. Khan
+- name: Aboul Bashar Khan
+- name: Khan, A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000608
+- scheme: legacy_openstates
+  identifier: NHL001333
+- scheme: legacy_openstates
+  identifier: NHL001484
+sources:
+- url: https://ballotpedia.org/Aboul_Khan
+- url: https://en.wikipedia.org/wiki/Aboul_Khan
+- url: https://gc.nh.gov/house/members/member.aspx?pid=736
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=736
+- url: https://justfacts.votesmart.org/candidate/141938/aboul-khan
+- url: https://justfacts.votesmart.org/candidate/biography/141938/aboul-khan
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377130
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=736
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: M

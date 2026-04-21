@@ -1,0 +1,13 @@
+id: ocd-person/6a65bb2a-5564-446e-bcc6-01e92ca16a5b
+name: Edward Johnson
+given_name: Edward
+family_name: Johnson
+email: ejohnson@fayette-ga.gov
+roles:
+- end_date: '2021-01-01'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/place:fayetteville/government
+offices:
+- address: 240 Glynn Street S Fayetteville;Fayetteville, GA 30214
+  voice: 770-856-3271
+  classification: primary

@@ -1,0 +1,37 @@
+id: ocd-person/936e2bdf-97c6-4297-80e7-faef3bb2e3d7
+name: Jeff Helfrich
+given_name: Jeff
+family_name: Helfrich
+gender: Male
+email: rep.jeffhelfrich@oregonlegislature.gov
+image: https://s3.amazonaws.com/ballotpedia-api/storage/uploads/thumbs/200/300/crop/best/Jeffrey_Helfrich.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '52'
+- start_date: 2017-01-09
+  end_date: 2019-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '52'
+offices:
+- classification: capitol
+  address: Room H-371, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1452
+links:
+- url: https://www.oregonlegislature.gov/helfrich
+  note: homepage
+other_names:
+- name: Helfrich, J.
+- name: J. Helfrich
+- name: J.A. Helfrich
+- name: Jeffrey Helfrich
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Jeffrey_Helfrich
+- url: https://en.wikipedia.org/wiki/Jeff_Helfrich
+- url: https://www.linkedin.com/in/jeff-helfrich-0408ab201
+- url: https://www.oregonlegislature.gov/helfrich

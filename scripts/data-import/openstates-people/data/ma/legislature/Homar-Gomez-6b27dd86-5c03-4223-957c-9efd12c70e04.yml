@@ -1,0 +1,31 @@
+id: ocd-person/6b27dd86-5c03-4223-957c-9efd12c70e04
+name: Homar Gomez
+given_name: Homar
+family_name: Gomez
+gender: Male
+email: homar.gomez@mahouse.gov
+image: https://images.squarespace-cdn.com/content/v1/6616e5c7caac657d5a7f9682/0c122a29-b755-4647-a180-d5cbdb08bbcc/Screenshot+2024-04-10+at+4.35.35+PM.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 2nd Hampshire
+offices:
+- classification: capitol
+  address: Room 130, State House 24 Beacon St., Boston, MA 02133
+  voice: 413-977-2676
+links:
+- url: https://malegislature.gov/Legislators/Profile/H_G1
+other_names:
+- name: Gomez, H.
+- name: H. Gomez
+- name: "Homar G\xF3mez"
+sources:
+- url: https://ballotpedia.org/Homar_Gomez
+- url: https://justfacts.votesmart.org/candidate/biography/218918/homar-gomez
+- url: https://malegislature.gov/Legislators/Profile/H_G1
+- url: https://www.linkedin.com/in/homar-gomez-488112281
+extras:
+  member code: H_G1

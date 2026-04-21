@@ -1,0 +1,55 @@
+id: ocd-person/e0272220-99f1-4cfb-9d29-946b86279e0b
+name: Bo Mitchell
+given_name: Bo
+family_name: Mitchell
+birth_date: 1970-09-05
+gender: Male
+email: rep.bo.mitchell@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h50.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2012-11-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '50'
+offices:
+- classification: capitol
+  address: Room 400, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-4317
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H50
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h50.html
+other_names:
+- name: B. Mitchell
+- name: J.R. Mitchell
+- name: Mitchell, B
+- name: Mitchell, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000226
+- scheme: legacy_openstates
+  identifier: TNL000292
+- scheme: legacy_openstates
+  identifier: TNL000394
+sources:
+- url: https://ballotpedia.org/Bo_Mitchell
+- url: https://en.wikipedia.org/wiki/Bo_Mitchell
+- url: https://justfacts.votesmart.org/candidate/biography/80054/bo-mitchell
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H50
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h50.html
+- url: https://www.linkedin.com/in/bo-mitchell-9318638
+extras:
+  office: 400 CHB
+  personal info:
+  - Born September 5, 1970
+  - Married, wife Chastity, two sons Parker and Brady
+  - Christian
+  - Self-Employed, Employee Benefits
+  - B.A. in Political Science, David Lipscomb University
+  - J.D. from Nashville School of Law

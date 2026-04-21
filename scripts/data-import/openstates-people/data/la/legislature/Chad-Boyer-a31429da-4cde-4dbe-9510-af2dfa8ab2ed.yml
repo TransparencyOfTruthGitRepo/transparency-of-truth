@@ -1,0 +1,33 @@
+id: ocd-person/a31429da-4cde-4dbe-9510-af2dfa8ab2ed
+name: Chad Boyer
+given_name: Chad
+family_name: Boyer
+gender: Male
+email: hse046@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics/rep46.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '46'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 110 N. Main St., Breaux Bridge, LA 70517
+  voice: 337-332-3331
+- classification: district-mail
+  address: P.O. Box 94, Breaux Bridge, LA 70517
+links:
+- url: https://house.louisiana.gov/H_Reps/members?ID=46
+other_names:
+- name: Boyer, C.
+- name: C. Boyer
+- name: C.M. Boyer
+sources:
+- url: https://ballotpedia.org/Chad_Boyer
+- url: https://house.louisiana.gov/H_Reps/members?ID=46
+- url: https://www.linkedin.com/in/chad-boyer-78a57460

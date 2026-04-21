@@ -1,0 +1,37 @@
+id: ocd-person/f66dcbe7-c834-4c23-83ca-38eb5d1a1ba9
+name: Joe Aragona
+given_name: Joe
+family_name: Aragona
+gender: Male
+email: josepharagona@house.mi.gov
+image: https://www.house.mi.gov/media/Representatives/Aragona-060.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '60'
+offices:
+- classification: capitol
+  address: Room N-994, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-1785
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/RepJosephAragona/posts
+other_names:
+- name: Aragona, J.
+- name: J. Aragona
+- name: Joseph Aragona
+sources:
+- url: https://ballotpedia.org/Joseph_Aragona
+- url: https://gophouse.org/member/RepJosephAragona/posts
+- url: https://RepJoeAragona.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.house.mi.gov/repdetail/repJosephAragona
+  note: Member Details Page
+- url: https://www.linkedin.com/in/joseph-aragona-b5530411

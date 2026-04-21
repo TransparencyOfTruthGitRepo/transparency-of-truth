@@ -1,0 +1,32 @@
+id: ocd-person/86d51e65-7fef-49ff-a19a-60984fe2fab2
+name: Nina Webber
+given_name: Nina
+family_name: Webber
+gender: Female
+email: nina.webber@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-WebberNina.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '24'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district
+  address: 1108 14th St. Suite 108, Cody, WY 82414
+links:
+- url: https://wyoleg.gov/Legislators/2025/H/2123
+other_names:
+- name: N. Webber
+- name: N.D. Webber
+- name: Webber, N
+- name: Webber, N.
+sources:
+- url: https://ballotpedia.org/Nina_Webber
+- url: https://en.wikipedia.org/wiki/Nina_Webber
+- url: https://justfacts.votesmart.org/candidate/biography/194535/nina-webber
+- url: https://www.linkedin.com/in/nina-webber-798bb467
+- url: https://wyoleg.gov/Legislators/2025/H/2123

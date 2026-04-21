@@ -1,0 +1,19 @@
+id: ocd-person/99b6e8f3-52a6-43fb-b912-7fdb715b7b3b
+name: Donna M. Mombourquette
+email: Donna.Mombourquette@leg.state.nh.us
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 5
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408848
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+extras:
+  first_name: Donna
+  last_name: Mombourquette
+  middle_name: M.

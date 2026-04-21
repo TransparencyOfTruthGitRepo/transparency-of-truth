@@ -1,0 +1,19 @@
+id: ocd-person/4ffeccad-f6e5-4902-9f4d-450cdb452a94
+name: Ras Smith
+given_name: Ras
+family_name: Smith
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=2017-2018&pid=18048
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '62'
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=87&personID=18048
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IAL000547
+sources:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=87&personID=18048

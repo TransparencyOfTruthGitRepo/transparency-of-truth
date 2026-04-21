@@ -1,0 +1,67 @@
+id: ocd-person/83a7bbf2-d69c-4813-bbeb-52820e6b9af4
+name: David Wilkerson
+given_name: David
+family_name: Wilkerson
+birth_date: 1969-01-06
+gender: Male
+email: david.wilkerson@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/wilkerson-david-760.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '38'
+offices:
+- classification: capitol
+  address: Room 611-E, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0314
+- classification: district
+  address: 3721 New Macland Road Suite 200-232, Powder Springs, GA 30127
+  voice: 770-891-9736
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=760&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/760
+- url: https://www.legis.ga.gov/members/house/760?session=1029
+- url: https://www.legis.ga.gov/members/house/760?session=1031
+  note: HTML member detail page
+other_names:
+- name: D. Wilkerson
+- name: D.L. Wilkerson
+- name: WILKERSON, 38TH
+- name: Wilkerson, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000225
+- scheme: legacy_openstates
+  identifier: GAL000371
+sources:
+- url: https://ballotpedia.org/David_Wilkerson
+- url: https://ballotpedia.org/David_Wilkerson_(Georgia)
+- url: https://en.wikipedia.org/wiki/David_Wilkerson_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/122779/david-wilkerson
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=760&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/760?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/760?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/760
+- url: https://www.legis.ga.gov/members/house/760?session=1029
+- url: https://www.linkedin.com/in/david-wilkerson-5a6a061
+extras:
+  residence: Powder Springs
+  city: Powder Springs
+  georgia_id: 760
+  birthday: January 6
+  occupation: CPA
+  press: https://house-press.com/representative/David-Wilkerson
+  spouse: Penny
+  staff: a href="
+  staff email: ''

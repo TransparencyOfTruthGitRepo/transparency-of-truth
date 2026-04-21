@@ -1,0 +1,57 @@
+id: ocd-person/f1a906cd-6602-492c-88dc-61887401c346
+name: Emily Jordan
+given_name: Emily
+family_name: Jordan
+birth_date: 1984-05-27
+gender: Female
+email: senatorjordan@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/Jordan17
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '17'
+- start_date: 2018-01-10
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '64'
+offices:
+- classification: capitol
+  address: Room 521, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7517
+- classification: district-mail
+  address: P.O. Box 5, Smithfield, VA 23431
+  voice: 757-239-1213
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S116
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H291
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H291
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H291
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S116
+other_names:
+- name: Brewer, Emily M.
+- name: E. Jordan
+- name: E.M. Jordan
+- name: Emily M. Brewer
+- name: Emily M. Jordan
+- name: Jordan, E.
+- name: Jordan, Emily M.
+ids:
+  twitter: BrewerForVA
+  facebook: BrewerForVA
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000278
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S116
+- url: https://ballotpedia.org/Emily_Jordan
+- url: https://en.wikipedia.org/wiki/Emily_Brewer
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H291
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H291
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H291
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S116

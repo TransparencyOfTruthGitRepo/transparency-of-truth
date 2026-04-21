@@ -1,0 +1,54 @@
+id: ocd-organization/05ee9ab6-ac66-4fab-abab-12af00f1f312
+jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+classification: committee
+name: Administrative Rules Review
+chamber: legislature
+sources:
+- url: https://www.legis.iowa.gov/committees
+  note: Committee list page
+- url: https://www.legis.iowa.gov/committees/committee?&groupID=705
+- url: https://www.legis.iowa.gov/committees/committee?endYear=2023&groupID=705
+- url: https://www.legis.iowa.gov/committees/committee?endYear=2024&groupID=705
+- url: https://www.legis.iowa.gov/committees/committee?endYear=2025&groupID=705
+links:
+- url: https://www.legis.iowa.gov/committees/committee?&groupID=705
+- url: https://www.legis.iowa.gov/committees/committee?endYear=2023&groupID=705
+  note: homepage
+- url: https://www.legis.iowa.gov/committees/committee?endYear=2024&groupID=705
+  note: homepage
+- url: https://www.legis.iowa.gov/committees/committee?endYear=2025&groupID=705
+members:
+- name: Kara Warme
+  role: chair
+  person_id: ocd-person/ef7b8c3c-3cd0-4f95-8b4f-9e4daa061479
+- name: Chad Ingels
+  role: vice chair
+  person_id: ocd-person/623b4ac1-3411-4109-b0eb-31bec2780313
+- name: Cindy Winckler
+  role: ranking member
+  person_id: ocd-person/84279bc7-04df-475e-8d6f-9f9703c73101
+- name: Rick Olson
+  role: ranking member
+  person_id: ocd-person/8ef407a5-2d80-4190-a656-a23d13fb5cb4
+- name: Amy Nielsen
+  role: member
+  person_id: ocd-person/0ed1d7f1-1471-4055-b674-582bf19c28b3
+- name: Austin Harris
+  role: member
+  person_id: ocd-person/3dea807e-b6b5-4531-a5d6-d51ae8811aca
+- name: Dan Dawson
+  role: member
+  person_id: ocd-person/79384252-69ca-43c7-bda1-46b6abe5873e
+- name: Janet Petersen
+  role: member
+  person_id: ocd-person/3089e8af-0071-4298-822c-2d16ac01fe9f
+- name: Josh Meggers
+  role: member
+  person_id: ocd-person/b28ad297-8f6d-4f36-807e-0acfa35c7d4c
+- name: Mike Bousselot
+  role: member
+  person_id: ocd-person/37784f85-492c-422c-93a3-9910867f68f9
+other_names:
+- name: Joint Administrative Rules Review
+- name: Joint Administrative Rules Review Committee
+- name: Joint Committee on Administrative Rules Review

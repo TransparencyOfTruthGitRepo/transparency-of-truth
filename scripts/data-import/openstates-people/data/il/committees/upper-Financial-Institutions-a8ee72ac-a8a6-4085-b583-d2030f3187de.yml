@@ -1,0 +1,49 @@
+id: ocd-organization/a8ee72ac-a8a6-4085-b583-d2030f3187de
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: Financial Institutions
+chamber: upper
+sources:
+- url: https://www.ilga.gov/senate/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=2903
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=3073
+- url: https://www.ilga.gov/Senate/Committees/Members/3073
+links:
+- url: https://www.ilga.gov/senate/committees/default.asp
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=2903
+  note: homepage
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=3073
+- url: https://www.ilga.gov/Senate/Committees/Members/3073
+members:
+- name: Mark Walker
+  role: chair
+  person_id: ocd-person/d1c2870a-8fee-47bf-a48e-4320311f06fd
+- name: Laura Ellman
+  role: vice chair
+  person_id: ocd-person/9bc8c9e8-ed36-42a1-ae80-4b2dfe591839
+- name: Jason Plummer
+  role: republican spokesperson
+  person_id: ocd-person/d868bc8f-f51c-4f5b-a9a3-3608b8b44b29
+- name: Chapin Rose
+  role: member
+  person_id: ocd-person/b748f1e8-6cfd-47d6-9398-5817aa879f39
+- name: Rachel Ventura
+  role: member
+  person_id: ocd-person/ed666567-961a-43f1-8ca3-ddd29e07f8af
+- name: Rob Martwick
+  role: member
+  person_id: ocd-person/4a3645fe-2a56-400f-ae2a-18e50f2b0bea
+- name: Seth Lewis
+  role: member
+  person_id: ocd-person/0b9e2838-eeb0-4d10-8292-64a9e9f54dc1
+- name: Steve Stadelman
+  role: member
+  person_id: ocd-person/ba9c4927-bf9b-4bd5-879f-c515a12a046c
+- name: Willie Preston
+  role: member
+  person_id: ocd-person/34274113-7ea1-4e6e-aa7a-da2c9d1037b4
+other_names:
+- name: Senate Committee on Financial Institutions
+- name: Senate Financial Institutions
+- name: Senate Financial Institutions Committee

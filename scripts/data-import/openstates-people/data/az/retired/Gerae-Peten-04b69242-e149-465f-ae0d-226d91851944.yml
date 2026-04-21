@@ -1,0 +1,27 @@
+id: ocd-person/04b69242-e149-465f-ae0d-226d91851944
+name: Geraldine Peten
+given_name: Geraldine
+family_name: Peten
+email: gpeten@azleg.gov
+image: https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/PETEN.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-01-11'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '4'
+links:
+- url: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1889
+- url: https://www.linkedin.com/in/rep-dr-geraldine-peten-87751a9/
+  note: linkedin
+ids:
+  twitter: DrGerae
+  facebook: Peten4People1st
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AZL000405
+- scheme: legacy_openstates
+  identifier: AZL000408
+sources:
+- url: http://www.azleg.gov/MemberRoster/?body=H

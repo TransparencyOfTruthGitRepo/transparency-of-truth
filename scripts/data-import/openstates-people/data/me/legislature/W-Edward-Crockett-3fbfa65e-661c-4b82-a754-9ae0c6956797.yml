@@ -1,0 +1,48 @@
+id: ocd-person/3fbfa65e-661c-4b82-a754-9ae0c6956797
+name: Ed Crockett
+given_name: Ed
+family_name: Crockett
+gender: Male
+email: ed.crockett@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/ff383c77-b5c1-424d-9de3-1e8a5603b1c9_crockett.jpg
+party:
+- name: Independent
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '112'
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '112'
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '43'
+offices:
+- classification: capitol
+  address: Room 333, House Democratic Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1351
+  note: homepage
+other_names:
+- name: CROCKETT of Portland
+- name: Crockett, E.
+- name: E. Crockett
+- name: W. Edward Crockett
+- name: W.E. Crockett
+sources:
+- url: https://ballotpedia.org/W._Edward_Crockett
+- url: https://en.wikipedia.org/wiki/W._Edward_Crockett
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1351
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://www.linkedin.com/in/ed-crockett-3ba03443
+extras:
+  Seat Number: '148'
+  towns represented:
+  - Falmouth (Part)
+  - Portland (Part)
+  education: UMO, Boston College

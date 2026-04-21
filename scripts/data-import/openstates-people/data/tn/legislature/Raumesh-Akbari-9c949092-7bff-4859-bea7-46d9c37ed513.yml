@@ -1,0 +1,64 @@
+id: ocd-person/9c949092-7bff-4859-bea7-46d9c37ed513
+name: Raumesh Akbari
+given_name: Raumesh
+family_name: Akbari
+birth_date: 1984-04-14
+gender: Female
+email: sen.raumesh.akbari@capitol.tn.gov
+image: http://www.capitol.tn.gov/senate/members/images/s29.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2018-11-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '29'
+- end_date: 2018-11-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '29'
+  start_date: 2018-11-06
+- end_date: 2018-11-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '91'
+offices:
+- classification: capitol
+  address: Room 764, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-1767
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S29
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S29&ga=114
+- url: https://www.capitol.tn.gov/senate/members/s29.html
+other_names:
+- name: Akbari, R
+- name: Akbari, R.
+- name: R. Akbari
+- name: R.A. Akbari
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000315
+- scheme: legacy_openstates
+  identifier: TNL000416
+sources:
+- url: https://ballotpedia.org/Raumesh_Akbari
+- url: https://en.wikipedia.org/wiki/Raumesh_Akbari
+- url: https://justfacts.votesmart.org/candidate/biography/145407/raumesh-akbari
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S29
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S29&ga=114
+- url: https://www.capitol.tn.gov/senate/members
+- url: https://www.capitol.tn.gov/senate/members/
+- url: https://www.capitol.tn.gov/senate/members/s29.html
+- url: https://www.linkedin.com/in/raumesh-akbari-b391b16
+extras:
+  office: 764 CHB
+  personal info:
+  - Born April 14, 1984
+  - Single
+  - Attorney
+  - Baptist
+  - B.A. Washington University in St. Louis, 2006
+  - J.D. St. Louis University School of Law, 2009

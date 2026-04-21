@@ -1,0 +1,33 @@
+id: ocd-person/f2e657d5-999a-4d77-98e3-b06a7c3771f4
+name: Adrian Plank
+given_name: Adrian
+family_name: Plank
+gender: Male
+email: adrian.plank@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2395
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '47'
+offices:
+- classification: capitol
+  address: Room 101-B, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-1501
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=047
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=047
+other_names:
+- name: A. Plank
+- name: A.S. Plank
+- name: Adrian S. Plank
+- name: Plank, A.
+sources:
+- url: https://ballotpedia.org/Adrian_Plank
+- url: https://house.mo.gov/MemberDetails.aspx?district=047
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=047
+- url: https://www.linkedin.com/in/adrian-plank-936487123
+extras:
+  hometown: Columbia

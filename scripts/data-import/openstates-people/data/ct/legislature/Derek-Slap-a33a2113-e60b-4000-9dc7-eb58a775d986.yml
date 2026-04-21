@@ -1,0 +1,54 @@
+id: ocd-person/a33a2113-e60b-4000-9dc7-eb58a775d986
+name: Derek Slap
+given_name: Derek
+family_name: Slap
+gender: Male
+email: derek.slap@cga.ct.gov
+image: http://www.senatedems.ct.gov/templates/slap/images/slap-hi.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-03-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '5'
+- start_date: 2017-01-04
+  end_date: 2019-02-28
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '5'
+- end_date: 2019-03-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '19'
+offices:
+- classification: capitol
+  address: Room 1800, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-1436
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S05%27&dist_name=Slap,%20Derek
+- url: https://www.senatedems.ct.gov/senator/derek-slap
+- url: https://www.senatedems.ct.gov/slap
+other_names:
+- name: D. Slap
+- name: Slap, D.
+- name: Slap, Derek
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000320
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Derek_Slap
+- url: https://en.wikipedia.org/wiki/Derek_Slap
+- url: https://justfacts.votesmart.org/candidate/biography/172159/derek-slap
+- url: https://www.linkedin.com/in/derek-slap-9337b9a
+- url: https://www.senatedems.ct.gov/senator/derek-slap
+- url: https://www.senatedems.ct.gov/senator/derek-slap/bio
+- url: https://www.senatedems.ct.gov/slap
+extras:
+  gender: Male
+  title: Deputy Majority Leader
+  committees: Higher Education and Employment Advancement (Chair); Government Administration
+    and Elections (Vice Chair); Aging; Appropriations; Public Health
+  committee codes: ;AGE;APP;GAE;HED;PH;
+  prison: '0'

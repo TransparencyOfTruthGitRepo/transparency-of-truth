@@ -1,0 +1,78 @@
+id: ocd-person/4333db3d-a55e-5d8e-b2ec-1041414ba2e6
+name: Susie Lee
+given_name: Susie
+family_name: Lee
+birth_date: 1966-11-07
+gender: Female
+email: https://susielee.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/L000590.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NV-3
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NV-3
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NV-3
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NV-3
+offices:
+- classification: capitol
+  address: 365 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-3252
+- classification: district
+  address: 7785 W. Sahara Ave., Suite 203, Las Vegas, NV 89117
+  voice: 702-963-9336
+links:
+- url: https://susielee.house.gov
+  note: website
+- url: https://susielee.house.gov/
+other_names:
+- name: Lee, S.
+- name: S. Lee
+- name: S.M.K. Lee
+ids:
+  twitter: RepSusieLee
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Susie Lee
+- scheme: bioguide
+  identifier: L000590
+- scheme: fec
+  identifier: H6NV04020
+- scheme: google_entity_id
+  identifier: kg:/g/11gtdntn1_
+- scheme: govtrack
+  identifier: '412802'
+- scheme: icpsr
+  identifier: '21938'
+- scheme: opensecrets
+  identifier: N00037247
+- scheme: pictorial
+  identifier: '13167'
+- scheme: votesmart
+  identifier: '169344'
+- scheme: wikidata
+  identifier: Q58333611
+sources:
+- url: https://ballotpedia.org/Susie_Lee
+- url: https://en.wikipedia.org/wiki/Susie_Lee
+- url: https://justfacts.votesmart.org/candidate/biography/169344/susie-lee
+- url: https://susielee.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/susie_lee/412802
+- url: https://www.linkedin.com/in/susie-lee-043b131a

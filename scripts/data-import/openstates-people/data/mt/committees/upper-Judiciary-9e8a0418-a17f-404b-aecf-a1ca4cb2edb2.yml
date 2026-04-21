@@ -1,0 +1,44 @@
+id: ocd-organization/9e8a0418-a17f-404b-aecf-a1ca4cb2edb2
+jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+classification: committee
+name: Judiciary
+chamber: upper
+sources:
+- url: https://committees.legmt.gov/#/standingCommittees/31
+- url: https://laws.leg.mt.gov/legprd/LAW0240W$CMTE.ActionQuery?P_SESS=20231&P_COM_NM=%28S%29+Judiciary&P_ACTN_DTM=&U_ACTN_DTM=&Z_ACTION2=Find
+  note: Committee membership page
+- url: https://laws.leg.mt.gov/legprd/law0240w$cmte.startup
+  note: Committee list page
+links:
+- url: https://committees.legmt.gov/#/standingCommittees/31
+- url: https://laws.leg.mt.gov/legprd/LAW0240W$CMTE.ActionQuery?P_SESS=20231&P_COM_NM=%28S%29+Judiciary&P_ACTN_DTM=&U_ACTN_DTM=&Z_ACTION2=Find
+- url: https://leg.mt.gov/committees/session-committees
+members:
+- name: Barry Usher
+  role: chair
+  person_id: ocd-person/69cfa3aa-7091-4752-a99c-b6a42c70b17b
+- name: Andrea Olsen
+  role: vice chair
+  person_id: ocd-person/2dcaf4be-0227-4ced-b01c-aacd8376c45a
+- name: Vince Ricci
+  role: vice chair
+  person_id: ocd-person/a86b7e4c-c7f9-46fa-89d5-3cce2317ae11
+- name: Cora Neumann
+  role: member
+  person_id: ocd-person/a7c31f94-f7bd-4d2c-b149-f26928cc934e
+- name: Daniel Emrich
+  role: member
+  person_id: ocd-person/ab3accc3-6794-45c1-9f78-27d524aecc00
+- name: Gayle Lammers
+  role: member
+  person_id: ocd-person/29925f97-152a-473e-951e-27d55dba532e
+- name: Sue Vinton
+  role: member
+  person_id: ocd-person/b4f79bac-c985-4bdc-9505-145cdd861198
+- name: Theresa Manzella
+  role: member
+  person_id: ocd-person/97c7ced5-ba80-4a9a-80ca-349fd2040a64
+other_names:
+- name: Senate Committee on Judiciary
+- name: Senate Judiciary
+- name: Senate Judiciary Committee

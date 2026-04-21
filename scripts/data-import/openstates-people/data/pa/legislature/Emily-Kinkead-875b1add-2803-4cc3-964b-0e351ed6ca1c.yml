@@ -1,0 +1,47 @@
+id: ocd-person/875b1add-2803-4cc3-964b-0e351ed6ca1c
+name: Emily Kinkead
+given_name: Emily
+family_name: Kinkead
+birth_date: 1987-06-04
+gender: Female
+email: repkinkead@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/1896.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2020-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Room 116B, East Wing P.O. Box 202020, Harrisburg, PA 17120
+  voice: 717-787-5470
+- classification: district
+  address: 658 Lincoln Ave., Bellevue, PA 15202
+  voice: 412-321-5523
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1896
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1896/rep-kinkead
+other_names:
+- name: E. Kinkead
+- name: Kinkead, E.
+ids:
+  twitter: RepKinkead
+  facebook: RepKinkead
+sources:
+- url: https://ballotpedia.org/Emily_Kinkead
+- url: https://en.wikipedia.org/wiki/Emily_Kinkead
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1896
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/emilykinkead
+- url: https://www.palegis.us/house/members/bio/1896/rep-kinkead
+extras:
+  Education:
+  - Red River High School, 2005
+  - 'Bloomsburg University of PA, 2009 B.S. Biology, B.A. Political Science, Minor:
+    Chemistry, Gender Studies'
+  - University of Pittsburgh School of Law, 2016

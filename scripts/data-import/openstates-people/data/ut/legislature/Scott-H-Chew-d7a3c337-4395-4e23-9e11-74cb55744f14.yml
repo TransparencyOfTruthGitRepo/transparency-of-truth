@@ -1,0 +1,81 @@
+id: ocd-person/d7a3c337-4395-4e23-9e11-74cb55744f14
+name: Scott Chew
+given_name: Scott
+family_name: Chew
+gender: Male
+email: scottchew@le.utah.gov
+image: https://le.utah.gov/images/legislator/CHEWSH.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '68'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '55'
+offices:
+- classification: capitol
+  address: P.O. Box 145030 350 N. State St., Suite 350, Salt Lake City, UT 84114
+  voice: 801-538-1029
+- classification: district-mail
+  address: P.O. Box 126, Jensen, UT 84035
+  voice: 435-630-0221
+links:
+- url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1412742
+  note: finance report
+- url: https://house.utah.gov/rep/CHEWSH
+- url: https://house.utah.gov/rep/CHEWSH/
+  note: homepage
+- url: https://house.utleg.gov/rep/CHEWSH/
+- url: https://le.utah.gov/asp/billsintro/RepResults.asp?Listbox3=CHEWSH
+  note: legislation
+- url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=CHEWSH
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2020/House_Dist55.pdf
+  note: district demographics
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/House_Dist68.pdf
+  note: district demographics
+- url: https://le.utah.gov/house2/CofI/COFICHEWSH.pdf
+  note: conflict of interest 1
+- url: https://le.utah.gov/house2/CofI/COFICHEWSH1.pdf
+  note: conflict of interest 0
+- url: https://le.utah.gov/house2/CofI/schew.pdf
+  note: conflict of interest 5
+- url: https://le.utah.gov/house2/CofI/schew2.pdf
+  note: conflict of interest 4
+- url: https://le.utah.gov/house2/CofI/schew3.pdf
+  note: conflict of interest 3
+- url: https://le.utah.gov/house2/CofI/schew4.pdf
+  note: conflict of interest 2
+other_names:
+- name: Chew, S.
+- name: Chew, Scott
+- name: Chew, Scott H.
+- name: S. Chew
+- name: S.H. Chew
+- name: Scott H. Chew
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: UTL000158
+- scheme: legacy_openstates
+  identifier: UTL000249
+sources:
+- url: https://ballotpedia.org/Scott_H._Chew
+- url: https://en.wikipedia.org/wiki/Scott_Chew
+- url: https://house.utah.gov/rep/CHEWSH
+- url: https://house.utah.gov/rep/CHEWSH/
+- url: https://house.utleg.gov/rep/CHEWSH
+- url: https://house.utleg.gov/rep/CHEWSH/
+- url: https://justfacts.votesmart.org/candidate/biography/151551/scott-chew
+- url: https://le.utah.gov/data/legislators.json
+extras:
+  service start: January 1, 2015
+  profession: Rancher
+  education: Utah State University
+  counties represented:
+  - Duchesne
+  - Uintah
+  cell phone: 435-630-0221

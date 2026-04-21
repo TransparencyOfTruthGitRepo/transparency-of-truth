@@ -1,0 +1,34 @@
+id: ocd-person/a61c6338-85df-446c-854a-17991386d252
+name: Phil Skaggs
+given_name: Phil
+family_name: Skaggs
+gender: Male
+email: philskaggs@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '80'
+offices:
+- classification: capitol
+  address: Room N-1099, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0836
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/Phil-Skaggs/
+other_names:
+- name: P. Skaggs
+- name: Skaggs, P.
+sources:
+- url: https://ballotpedia.org/Phil_Skaggs
+- url: https://housedems.com/Phil-Skaggs
+- url: https://housedems.com/Phil-Skaggs/
+  note: Member Details Page
+- url: https://housedems.com/phil-skaggs/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/philskaggsmi

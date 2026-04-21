@@ -1,0 +1,70 @@
+id: ocd-organization/b2202300-fa6e-4c79-9449-cb6c43830c41
+jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+classification: committee
+name: Judiciary
+chamber: lower
+sources:
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=2970&year=2024&code=R
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=3049&year=2025&code=R
+- url: https://www.house.mo.gov/CommitteeHierarchy.aspx
+  note: Committees List Page
+- url: https://www.house.mo.gov/Committees.aspx?category=all&committee=2511&year=2021&code=R
+- url: https://www.house.mo.gov/Committees.aspx?category=all&committee=2702&year=2022&code=R
+- url: https://www.house.mo.gov/Committees.aspx?category=all&committee=2873&year=2023&code=R
+- url: https://www.house.mo.gov/MemberGridCluster.aspx?filter=compage&category=committee&Committees.aspx?category=all&committee=2511&year=2021&code=R
+- url: https://www.house.mo.gov/MemberGridCluster.aspx?filter=compage&category=committee&Committees.aspx?category=all&committee=2702&year=2022&code=R
+- url: https://www.house.mo.gov/MemberGridCluster.aspx?filter=compage&category=committee&Committees.aspx?category=all&committee=2873&year=2023&code=R
+  note: Committee Details Page
+links:
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=2970&year=2024&code=R
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=3049&year=2025&code=R
+- url: https://www.house.mo.gov/Committees.aspx?category=all&committee=2511&year=2021&code=R
+  note: homepage
+- url: https://www.house.mo.gov/Committees.aspx?category=all&committee=2702&year=2022&code=R
+  note: homepage
+- url: https://www.house.mo.gov/Committees.aspx?category=all&committee=2873&year=2023&code=R
+  note: homepage
+members:
+- name: Cameron Parker
+  role: chair
+  person_id: ocd-person/08f76b3a-4317-4d18-a44b-f2d6a673f1e3
+- name: Renee Reuter
+  role: vice chair
+  person_id: ocd-person/64a3bd7d-7dc8-4ce6-bd30-6101b2b7926e
+- name: David Smith
+  role: ranking member
+  person_id: ocd-person/c509449e-070c-462c-810e-f14315c9df42
+- name: Anthony Ealy
+  role: member
+  person_id: ocd-person/a5cc5083-e44a-4379-b4db-74c4a930821b
+- name: Ben Keathley
+  role: member
+  person_id: ocd-person/1f082953-c9f5-4a72-a281-cdb9fe4bda5e
+- name: Bill Hardwick
+  role: member
+  person_id: ocd-person/6b7c5c9c-05ba-4a2e-8f23-117edbf2969b
+- name: David Dolan
+  role: member
+  person_id: ocd-person/3055e426-4c34-404c-b286-820e978cb05c
+- name: Greg Sharpe
+  role: member
+  person_id: ocd-person/d6be1f75-f237-41ad-af36-a7d1c6e3a9c6
+- name: John Black
+  role: member
+  person_id: ocd-person/1250ea3d-fe5c-46ea-bead-f7249d234e68
+- name: Ken Jamison
+  role: member
+  person_id: ocd-person/34a05fb9-bb36-416e-ada9-6be70b48b6b2
+- name: Marla Smith
+  role: member
+  person_id: ocd-person/56a68a64-7a44-4052-b5f2-e9f7c626e311
+- name: Matthew Overcast
+  role: member
+  person_id: ocd-person/c22f94cc-641f-4a45-a2a6-610f829e7c43
+- name: Rudy Veit
+  role: member
+  person_id: ocd-person/fe941ee4-f34a-4685-873c-29adbb732b2c
+other_names:
+- name: House Committee on Judiciary
+- name: House Judiciary
+- name: House Judiciary Committee

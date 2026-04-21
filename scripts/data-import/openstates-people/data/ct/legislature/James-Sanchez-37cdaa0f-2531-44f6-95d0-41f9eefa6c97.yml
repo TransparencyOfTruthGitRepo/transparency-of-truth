@@ -1,0 +1,39 @@
+id: ocd-person/37cdaa0f-2531-44f6-95d0-41f9eefa6c97
+name: "Jimmy S\xE1nchez"
+given_name: Jimmy
+family_name: "S\xE1nchez"
+gender: Male
+email: james.sanchez@cga.ct.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-03-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '6'
+offices:
+- classification: capitol
+  address: Room 4046, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://www.housedems.ct.gov/sanchezJ
+other_names:
+- name: "J. S\xE1nchez"
+- name: "J.B. S\xE1nchez"
+- name: James Sanchez
+- name: Sanchez, J.
+- name: "S\xE1nchez, J."
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/James_S%C3%A1nchez_(Connecticut)
+- url: https://en.wikipedia.org/wiki/James_S%C3%A1nchez_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/173050/james-sanchez
+- url: https://www.hartfordct.gov/Government/City-Council/Councilmember-8
+- url: https://www.housedems.ct.gov/sanchezJ
+- url: https://www.linkedin.com/in/james-sanchez-348175104
+extras:
+  gender: Male
+  committees: Environment; Executive and Legislative Nominations; Finance, Revenue
+    and Bonding
+  committee codes: ;ENV;EXN;FIN;
+  prison: '0'

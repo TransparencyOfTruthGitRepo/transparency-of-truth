@@ -1,0 +1,63 @@
+id: ocd-organization/739190ef-44c3-440f-9a0a-8a9f3704dea4
+jurisdiction: ocd-jurisdiction/country:us/state:id/government
+classification: committee
+name: Millennium Fund
+chamber: legislature
+sources:
+- url: https://legislature.idaho.gov/committees/
+  note: homepage
+- url: https://legislature.idaho.gov/committees/jointcommittees/
+- url: https://legislature.idaho.gov/lso/bpa/mill
+- url: https://legislature.idaho.gov/lso/bpa/mill/
+- url: https://legislature.idaho.gov/sessioninfo/2023/joint/mill/#hcode-tab-style2members
+  note: Committee Details page
+- url: https://legislature.idaho.gov/sessioninfo/2024/joint/mill/#hcode-tab-style2members
+  note: Committee Details page
+- url: https://legislature.idaho.gov/sessioninfo/2025/joint/mill
+- url: https://legislature.idaho.gov/sessioninfo/2026/joint/mill
+links:
+- url: https://legislature.idaho.gov/lso/bpa/mill
+- url: https://legislature.idaho.gov/lso/bpa/mill/
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2023/joint/mill/#hcode-tab-style2members
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2024/joint/mill
+- url: https://legislature.idaho.gov/sessioninfo/2024/joint/mill/#hcode-tab-style2members
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2025/joint/mill
+- url: https://legislature.idaho.gov/sessioninfo/2026/joint/mill
+members:
+- name: Jordan Redman
+  role: co-chair
+  person_id: ocd-person/9cbfadc5-8393-444c-bb39-b1c79390d01b
+- name: Van Burtenshaw
+  role: co-chair
+  person_id: ocd-person/2a8943d8-c4fe-4286-8b26-6240d9ff26f8
+- name: Brandon Mitchell
+  role: member
+  person_id: ocd-person/59fc8cd0-bec0-4df6-a3e6-99ea305c7100
+- name: Brooke Green
+  role: member
+  person_id: ocd-person/50e557e4-e7b6-4765-a636-1638a675189c
+- name: Carl Bjerke
+  role: member
+  person_id: ocd-person/a1af9e8e-8f2c-4b6a-a7ca-708a0d0bf6f2
+- name: Carrie Semmelroth
+  role: member
+  person_id: ocd-person/34bec23f-67e3-4940-8f5e-29850f0e9170
+- name: Janie Ward-Engelking
+  role: member
+  person_id: ocd-person/c3b6822b-8900-408d-8745-7066b79e1e52
+- name: Jim Woodward
+  role: member
+  person_id: ocd-person/76cd07b1-e4de-4e1b-bd7c-a3153493ac5f
+- name: Marco Erickson
+  role: member
+  person_id: ocd-person/a9af8eba-9dc3-4961-9305-fa325cb86948
+- name: "So\xF1ia Galaviz"
+  role: member
+  person_id: ocd-person/b5b4cf71-98db-47f1-84ec-087a4b46641a
+other_names:
+- name: Joint Committee on Millennium Fund
+- name: Joint Millennium Fund
+- name: Joint Millennium Fund Committee

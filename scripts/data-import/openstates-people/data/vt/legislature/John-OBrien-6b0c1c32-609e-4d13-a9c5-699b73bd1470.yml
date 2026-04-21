@@ -1,0 +1,50 @@
+id: ocd-person/6b0c1c32-609e-4d13-a9c5-699b73bd1470
+name: John O'Brien
+given_name: John
+family_name: O'Brien
+gender: Male
+email: jobrien@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/O'Brien,John.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Windsor-Orange-1
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+- classification: home
+  address: 73 Moody Road, Tunbridge, VT 05077
+links:
+- url: https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windsor-Orange-1.pdf
+  note: district map
+- url: https://legislature.vermont.gov/Documents/SmallMaps/WDR-ORA-1.pdf
+  note: district map
+- url: https://legislature.vermont.gov/people/single/2020/30977
+- url: https://legislature.vermont.gov/people/single/2022/30977
+- url: https://legislature.vermont.gov/people/single/2024/30977
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2026/30977
+other_names:
+- name: J. O'Brien
+- name: John K. O'Brien
+- name: John O'Brien
+- name: O'Brien, J.
+sources:
+- url: https://ballotpedia.org/John_O%27Brien_(Vermont)
+- url: https://en.wikipedia.org/wiki/John_O%27Brien_(filmmaker)
+- url: https://justfacts.votesmart.org/candidate/biography/184062/john-obrien
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/loadAll/2024
+- url: https://legislature.vermont.gov/people/single/2020/30977
+- url: https://legislature.vermont.gov/people/single/2022/30977
+- url: https://legislature.vermont.gov/people/single/2024/30977
+- url: https://legislature.vermont.gov/people/single/2026/30977
+extras:
+  home address: Tunbridge, VT 05077
+  home phone: (802) 889-3474
+  state email: jobrien@leg.state.vt.us

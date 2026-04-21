@@ -1,0 +1,106 @@
+id: ocd-person/a7bc3999-648e-58ed-b606-f387e825427c
+name: Darin LaHood
+given_name: Darin
+family_name: LaHood
+birth_date: 1968-07-05
+gender: Male
+email: https://lahood.house.gov/contact
+image: https://unitedstates.github.io/images/congress/450x550/L000585.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-16
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-16
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-18
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-18
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-18
+- start_date: 2015-09-17
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-18
+offices:
+- classification: capitol
+  address: 503 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-6201
+  fax: 202-225-9249
+- classification: district
+  address: 100 NE Monroe St. Room 100, Peoria, IL 61602
+  voice: 309-671-7027
+  fax: 309-671-7309
+- classification: district
+  address: 108 E. Beaufort St., Normal, IL 61761
+  voice: 309-445-8080
+- classification: district
+  address: 527 Colman Center Drive, Rockford, IL 61108
+  voice: 779-238-4785
+links:
+- url: https://ilga.gov/senate/Senator.asp?GA=99&MemberID=2199
+- url: https://lahood.house.gov
+  note: website
+- url: https://lahood.house.gov/
+other_names:
+- name: D. LaHood
+- name: D.M. LaHood
+- name: LaHood, D.
+ids:
+  twitter: RepLaHood
+  youtube: UCVRbtFwaBGcixZIkygtalRw
+  facebook: replahood
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Darin LaHood
+- scheme: bioguide
+  identifier: L000585
+- scheme: cspan
+  identifier: '70020'
+- scheme: fec
+  identifier: H6IL18088
+- scheme: google_entity_id
+  identifier: kg:/m/0gg7rcy
+- scheme: govtrack
+  identifier: '412674'
+- scheme: house_history
+  identifier: '15032425053'
+- scheme: icpsr
+  identifier: '21562'
+- scheme: maplight
+  identifier: '2164'
+- scheme: opensecrets
+  identifier: N00037031
+- scheme: pictorial
+  identifier: '13048'
+- scheme: thomas
+  identifier: 02295
+- scheme: votesmart
+  identifier: '128760'
+- scheme: wikidata
+  identifier: Q5222780
+sources:
+- url: https://ballotpedia.org/Darin_LaHood
+- url: https://en.wikipedia.org/wiki/Darin_LaHood
+- url: https://ilga.gov/senate/Senator.asp?GA=99&MemberID=2199
+- url: https://lahood.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/darin_lahood/412674

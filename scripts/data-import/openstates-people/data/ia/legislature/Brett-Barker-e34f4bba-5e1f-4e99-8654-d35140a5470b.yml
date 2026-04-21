@@ -1,0 +1,30 @@
+id: ocd-person/e34f4bba-5e1f-4e99-8654-d35140a5470b
+name: Brett Barker
+given_name: Brett
+family_name: Barker
+gender: Male
+email: brett.barker@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37386
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '51'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37386
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37386
+other_names:
+- name: B. Barker
+- name: B.H. Barker
+- name: Barker, B.
+sources:
+- url: https://ballotpedia.org/Brett_Barker
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37386
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37386
+- url: https://www.linkedin.com/in/bretthbarker

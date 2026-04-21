@@ -1,0 +1,41 @@
+id: ocd-person/def57a9e-a907-4e62-b990-41dc19661c06
+name: Brett Easterbrook
+given_name: Brett
+family_name: Easterbrook
+birth_date: 1963-10-10
+gender: Male
+email: brett.easterbrook@yahoo.com
+image: https://www.legislature.state.al.us/pdf/house/members/Easterbrook_65.png
+party:
+- name: Republican
+roles:
+- start_date: 2018-11-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '65'
+offices:
+- classification: capitol
+  address: Room 427-M, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0402
+- classification: district
+  address: 633 Escatawpa Road, Fruitdale, AL 36539
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100547&OID_PERSON=8505
+other_names:
+- name: B. Easterbrook
+- name: B.T. Easterbrook
+- name: Easterbrook, B.
+sources:
+- url: https://ballotpedia.org/Brett_Easterbrook
+- url: https://en.wikipedia.org/wiki/Brett_Easterbrook
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/180594/brett-easterbrook
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Easterbrook&OID_SPONSOR=100547&OID_PERSON=8505&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100547&OID_PERSON=8505
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+- url: https://www.linkedin.com/in/brett-easterbrook-14782aa5
+extras:
+  counties: Baldwin County, Choctaw County, Clarke County, Washington County

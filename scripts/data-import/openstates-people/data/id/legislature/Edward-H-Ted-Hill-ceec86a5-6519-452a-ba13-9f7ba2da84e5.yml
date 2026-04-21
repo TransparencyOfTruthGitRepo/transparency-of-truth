@@ -1,0 +1,40 @@
+id: ocd-person/ceec86a5-6519-452a-ba13-9f7ba2da84e5
+name: Ted Hill
+given_name: Ted
+family_name: Hill
+gender: Male
+email: thill@house.idaho.gov
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Hill7859.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: 14A
+offices:
+- classification: capitol
+  address: P.O. Box 83720 700 W. Jefferson St., Boise, ID 83720
+  voice: 208-332-1124
+- classification: district
+  address: Eagle, ID 83616
+  voice: 208-332-1124
+links:
+- url: https://legislature.idaho.gov/legislators/membership/2023/id7859/
+- url: https://legislature.idaho.gov/legislators/membership/2026/id7859/
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2023&district=14
+  note: homepage
+other_names:
+- name: E.H. Hill
+- name: "Edward H. \u201CTed\u201D Hill"
+- name: Hill, T.
+- name: T. Hill
+sources:
+- url: https://ballotpedia.org/Ted_Hill
+- url: https://en.wikipedia.org/wiki/Ted_Hill_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/179739/ted-hill
+- url: https://legislature.idaho.gov/house/membership
+- url: https://legislature.idaho.gov/house/membership/
+- url: https://legislature.idaho.gov/legislators/membership/2023/id7859
+- url: https://legislature.idaho.gov/legislators/membership/2023/id7859/
+- url: https://legislature.idaho.gov/legislators/membership/2026/id7859

@@ -1,0 +1,35 @@
+id: ocd-person/86852522-4c4d-46ae-8a59-d81a16ad179a
+name: Kadeem Roberts
+given_name: Kadeem
+family_name: Roberts
+gender: Male
+email: kadeem.roberts@cga.ct.gov
+party:
+- name: Democratic/Working Families
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '137'
+offices:
+- classification: capitol
+  address: Room 4005, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://www.housedems.ct.gov/Roberts
+other_names:
+- name: K. Roberts
+- name: Roberts, K.
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Kadeem_Roberts
+- url: https://en.wikipedia.org/wiki/Kadeem_Roberts
+- url: https://justfacts.votesmart.org/candidate/biography/199776/kadeem-roberts
+- url: https://www.housedems.ct.gov/Roberts
+- url: https://www.housedems.ct.gov/Roberts/Biography
+extras:
+  gender: Male
+  title: Assistant Majority Leader
+  committees: Education; Housing; Committee on Children
+  committee codes: ;ED;HSG;KID;
+  prison: '0'

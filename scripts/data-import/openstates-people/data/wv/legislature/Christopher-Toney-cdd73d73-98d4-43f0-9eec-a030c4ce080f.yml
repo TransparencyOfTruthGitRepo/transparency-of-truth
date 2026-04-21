@@ -1,0 +1,52 @@
+id: ocd-person/cdd73d73-98d4-43f0-9eec-a030c4ce080f
+name: Chris Toney
+given_name: Chris
+family_name: Toney
+birth_date: 1988-02-13
+gender: Male
+email: chris.toney@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/toney_christopher.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '43'
+- start_date: 2018-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '43'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '31'
+offices:
+- classification: capitol
+  address: State Capitol Room 150R-A, Complex, Building 1 1900 Kanawha Blvd. East,
+    Charleston, WV 25305
+  voice: 304-340-3265
+- classification: district
+  address: 3626 Clear Fork Road, Beckley, WV 25801
+  voice: 304-228-3760
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Toney
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Toney
+other_names:
+- name: C. Toney
+- name: C.W. Toney
+- name: Christopher Toney
+- name: Christopher W. Toney
+- name: Toney, C
+- name: Toney, C.
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/e313a5c8-d40b-4ebe-8a80-1bb085c3f706
+sources:
+- url: https://ballotpedia.org/Christopher_Wayne_Toney
+- url: https://en.wikipedia.org/wiki/Chris_Toney
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Toney
+- url: https://www.linkedin.com/in/christopher-toney-803040178
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Toney
+- url: https://www.wvlegislature.gov/House/roster.cfm

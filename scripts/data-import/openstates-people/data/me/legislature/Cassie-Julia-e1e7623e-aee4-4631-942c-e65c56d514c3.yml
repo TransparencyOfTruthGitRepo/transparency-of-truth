@@ -1,0 +1,29 @@
+id: ocd-person/e1e7623e-aee4-4631-942c-e65c56d514c3
+name: Cassie Julia
+given_name: Cassie
+family_name: Julia
+gender: Female
+email: cassie.julia@legislature.maine.gov
+image: https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2024/06/julia-1.jpg?w=1199&ssl=1
+party:
+- name: Democratic
+roles:
+- start_date: 2024-12-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '65'
+offices:
+- classification: capitol
+  address: Room 333, House Democratic Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/3122
+- url: https://www.maine.gov/housedems/node/4101
+other_names:
+- name: C. Julia
+- name: C.L. Julia
+- name: Julia, C.
+sources:
+- url: https://ballotpedia.org/Cassie_Julia
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/3122
+- url: https://www.maine.gov/housedems/node/4101

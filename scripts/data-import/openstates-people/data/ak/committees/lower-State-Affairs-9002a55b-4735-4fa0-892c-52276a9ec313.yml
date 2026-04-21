@@ -1,0 +1,42 @@
+id: ocd-organization/9002a55b-4735-4fa0-892c-52276a9ec313
+jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+classification: committee
+name: State Affairs
+chamber: lower
+sources:
+- url: https://www.akleg.gov/basis/Committee/Details/33?code=HSTA
+- url: https://www.akleg.gov/basis/Committee/Details/34?code=HSTA
+- url: https://www.akleg.gov/basis/Committee/List/33
+links:
+- url: https://www.akleg.gov/basis/Committee/Details/33?code=HSTA
+  note: homepage
+- url: https://www.akleg.gov/basis/Committee/Details/34?code=HSTA
+members:
+- name: Ashley Carrick
+  role: chair
+  person_id: ocd-person/1ac31dd3-6e42-43b1-91b0-4da4a1399543
+- name: Andi Story
+  role: vice chair
+  person_id: ocd-person/7db414a5-dd7e-48a9-aba2-9c0204f93a5c
+- name: Elexie Moore
+  role: member
+  person_id: ocd-person/6e6762ad-37ca-4166-982c-75aab9701d0c
+- name: Kevin McCabe
+  role: member
+  person_id: ocd-person/0160c6d2-4090-4143-8e23-f8501501bdd0
+- name: Ky Holland
+  role: member
+  person_id: ocd-person/a669e6fd-ba4c-42db-b2e8-079600a60f58
+- name: Rebecca Himschoot
+  role: member
+  person_id: ocd-person/5637be3f-7a59-48cc-8f8a-ad7a8bac8ee9
+- name: Sarah Vance
+  role: member
+  person_id: ocd-person/e8756722-e9e9-4246-95e3-13019cb3bd50
+- name: Steve St. Clair
+  role: member
+  person_id: ocd-person/6692f2e6-2ad5-4b9c-a3f5-a0243c087064
+other_names:
+- name: House Committee on State Affairs
+- name: House State Affairs
+- name: House State Affairs Committee

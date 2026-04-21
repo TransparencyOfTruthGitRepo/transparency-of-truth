@@ -1,0 +1,39 @@
+id: ocd-person/a1a94ad4-7b75-46be-896e-548c86b23d0c
+name: Orlando Ramos
+given_name: Orlando
+family_name: Ramos
+gender: Male
+email: orlando.ramos@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/O_R1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 9th Hampden
+offices:
+- classification: capitol
+  address: Room 236, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2430
+- classification: district
+  address: Springfield, MA 01104
+  voice: 413-271-7955
+links:
+- url: https://malegislature.gov/Legislators/Profile/O_R1
+other_names:
+- name: O. Ramos
+- name: Ramos, O.
+sources:
+- url: https://ballotpedia.org/Orlando_Ramos
+- url: https://en.wikipedia.org/wiki/Orlando_Ramos
+- url: https://justfacts.votesmart.org/candidate/biography/148829/orlando-ramos
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/O_R1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/O_R1
+- url: https://malegislature.gov/Legislators/Profile/O_R1
+extras:
+  member code: O_R1

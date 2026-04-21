@@ -1,0 +1,21 @@
+id: ocd-person/5a676f0e-b76a-4f3c-b3c6-f937fef3697e
+name: Bobby B Howell
+given_name: Bobby
+family_name: Howell
+middle_name: B
+image: http://billstatus.ls.state.ms.us/members/house/howell.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2008-01-01'
+  end_date: '2015-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '46'
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/howell.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000109
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/howell.xml

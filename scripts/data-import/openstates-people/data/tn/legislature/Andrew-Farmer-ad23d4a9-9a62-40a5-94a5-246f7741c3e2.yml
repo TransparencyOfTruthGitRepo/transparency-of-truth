@@ -1,0 +1,53 @@
+id: ocd-person/ad23d4a9-9a62-40a5-94a5-246f7741c3e2
+name: Andrew Farmer
+given_name: Andrew
+family_name: Farmer
+birth_date: 1979-12-14
+gender: Male
+email: rep.andrew.farmer@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h17.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '17'
+offices:
+- classification: capitol
+  address: Room 630, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-4419
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H17
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h17.html
+other_names:
+- name: A. Farmer
+- name: A.E. Farmer
+- name: Farmer, A
+- name: Farmer, A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000190
+- scheme: legacy_openstates
+  identifier: TNL000434
+sources:
+- url: https://ballotpedia.org/Andrew_Farmer
+- url: https://en.wikipedia.org/wiki/Andrew_Farmer
+- url: https://justfacts.votesmart.org/candidate/biography/138632/andrew-farmer
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H17
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h17.html
+- url: https://www.linkedin.com/in/andrew-farmer-67621335
+extras:
+  office: 630 CHB
+  personal info:
+  - Born December 14, 1979
+  - Married, wife Mariah, two children
+  - Attorney/Businessman
+  - Baptist
+  - B.B.A., East Tennessee State University, Business Administration
+  - J.D., Thomas M. Cooley Law School, Lansing, Michigan

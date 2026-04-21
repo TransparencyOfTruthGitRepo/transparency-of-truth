@@ -1,0 +1,20 @@
+id: ocd-person/7441b2cf-42f4-4028-bc02-2df2b681a57e
+name: Shawn Rhoads
+given_name: Shawn
+family_name: Rhoads
+party:
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '154'
+links:
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=154
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MOL000333
+sources:
+- url: http://house.mo.gov/MemberGridCluster.aspx
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=154

@@ -1,0 +1,50 @@
+id: ocd-person/375419e1-4626-4a9a-92ed-15962de5be09
+name: Barbara Drummond
+given_name: Barbara
+family_name: Drummond
+birth_date: 1956-08-05
+gender: Female
+email: drummondbarbara@att.net
+image: https://www.legislature.state.al.us/pdf/house/members/Drummond_103.png
+party:
+- name: Democratic
+roles:
+- start_date: 2014-11-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '103'
+offices:
+- classification: capitol
+  address: Room 529, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0564
+- classification: district
+  address: 1266 Horton Drive, Mobile, AL 36605
+  voice: 251-208-5481
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100585&OID_PERSON=7712
+other_names:
+- name: B. Drummond
+- name: Drummond, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000176
+- scheme: legacy_openstates
+  identifier: ALL000444
+- scheme: legacy_openstates
+  identifier: ALL000226
+- scheme: legacy_openstates
+  identifier: ALL000504
+sources:
+- url: https://ballotpedia.org/Barbara_Drummond
+- url: https://en.wikipedia.org/wiki/Barbara_Drummond
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/149928/barbara-drummond
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Drummond&OID_SPONSOR=100585&OID_PERSON=7712&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100585&OID_PERSON=7712
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+- url: https://www.linkedin.com/in/barbara-drummond
+extras:
+  counties: Mobile County

@@ -1,0 +1,64 @@
+id: ocd-person/c425f2ef-cad0-4dad-93c4-be11b80af613
+name: Charlie Meier
+given_name: Charlie
+family_name: Meier
+gender: Male
+email: repcmeier@gmail.com
+image: https://cdn.ilga.gov/assets/img/members/{9D43D019-A58A-47EC-B769-A7050C4B49DB}.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '109'
+- end_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '108'
+offices:
+- classification: capitol
+  address: Room 200-5N, Stratton Office Building, Springfield, IL 62706
+  voice: 217-782-6401
+- classification: district
+  address: 121 Broadway Suite 1, Highland, IL 62249
+  voice: 618-651-0405
+links:
+- url: https://charliemeier.net/
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2642
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2873
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3082
+  note: homepage
+- url: https://www.ilga.gov/House/Members/Details/3305
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3082
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3305
+other_names:
+- name: C. Meier
+- name: C.E. Meier
+- name: Charles E. Meier
+- name: Charles Meier
+- name: Meier, C.
+- name: Meier, Charlie
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ILL000882
+- scheme: legacy_openstates
+  identifier: ILL000976
+- scheme: legacy_openstates
+  identifier: ILL001023
+- scheme: legacy_openstates
+  identifier: ILL001073
+sources:
+- url: https://ballotpedia.org/Charles_E._Meier
+- url: https://charliemeier.net
+- url: https://en.wikipedia.org/wiki/Charles_Meier
+- url: https://ilga.gov/house/default.asp?GA=101
+- url: https://ilga.gov/house/default.asp?GA=102
+- url: https://ilga.gov/house/default.asp?GA=103
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2642
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2873
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3082
+- url: https://justfacts.votesmart.org/candidate/biography/135110/charlie-meier
+- url: https://www.ilga.gov/House/Members/Details/3305
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3082
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3305

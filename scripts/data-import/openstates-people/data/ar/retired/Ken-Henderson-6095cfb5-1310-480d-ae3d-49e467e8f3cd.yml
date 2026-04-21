@@ -1,0 +1,21 @@
+id: ocd-person/6095cfb5-1310-480d-ae3d-49e467e8f3cd
+name: Ken Henderson
+given_name: Ken
+family_name: Henderson
+image: http://www.arkleg.state.ar.us/assembly/2019/Member%20Pictures/henderson.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '71'
+links:
+- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Henderson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ARL000344
+sources:
+- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Henderson
+extras:
+  occupation: Real Estate Development

@@ -1,0 +1,62 @@
+id: ocd-person/7a3177a1-118c-48ce-bbb8-17ebb1240e00
+name: Joe Towns
+given_name: Joe
+family_name: Towns
+gender: Male
+email: rep.joe.towns@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h84.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1994-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '84'
+offices:
+- classification: capitol
+  address: Room 416, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-2189
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H84
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H84
+- url: https://www.capitol.tn.gov/house/members/h84.html
+other_names:
+- name: J. Towns
+- name: Joe Towns
+- name: Joe Towns, Jr.
+- name: Jr. Towns
+- name: Towns, J
+- name: Towns, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000122
+- scheme: legacy_openstates
+  identifier: TNL000251
+- scheme: legacy_openstates
+  identifier: TNL000265
+- scheme: legacy_openstates
+  identifier: TNL000309
+- scheme: legacy_openstates
+  identifier: TNL000395
+sources:
+- url: https://ballotpedia.org/Joe_Towns_Jr.
+- url: https://en.wikipedia.org/wiki/Joe_Towns
+- url: https://justfacts.votesmart.org/candidate/biography/24457/joe-towns-jr
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H84
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H84
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h84.html
+extras:
+  office: 416 CHB
+  personal info:
+  - Born May 4 in Memphis TN
+  - Single
+  - 'Occupation: Business/ Entrepreneur and Former College Instructor, and has a Management,
+    Consulting and Entertainment Co.'
+  - Member of Mississippi Boulevard Church
+  - B.A. in Political Science from LeMoyne-Owen College
+  - M.S. in Operational Management from University of Arkansas in Fayetteville

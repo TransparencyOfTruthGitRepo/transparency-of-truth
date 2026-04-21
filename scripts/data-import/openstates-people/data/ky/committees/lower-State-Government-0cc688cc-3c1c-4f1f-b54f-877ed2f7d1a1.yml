@@ -1,0 +1,76 @@
+id: ocd-organization/0cc688cc-3c1c-4f1f-b54f-877ed2f7d1a1
+jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+classification: committee
+name: State Government
+chamber: lower
+sources:
+- url: https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=96&CommitteeType=House%20Standing%20Committee
+  note: homepage
+links:
+- url: https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=96&CommitteeType=House%20Standing%20Committee
+  note: homepage
+members:
+- name: David Hale
+  role: chair
+  person_id: ocd-person/ebd5f90d-e3cc-45ef-97ff-d51ff1685bcc
+- name: Rebecca Raymer
+  role: vice chair
+  person_id: ocd-person/be2fd4e3-6dfe-4d54-8c45-631eac63bc27
+- name: Aaron Thompson
+  role: member
+  person_id: ocd-person/1439bad2-f18b-49e2-94ca-21f2b563dfdd
+- name: Al Gentry
+  role: member
+  person_id: ocd-person/dfaa3769-decc-4c1c-9c0b-7195153ab6c8
+- name: Anne Donworth
+  role: member
+  person_id: ocd-person/2b9ac6b5-8979-40b1-b2d1-8241b93061a7
+- name: Chris Lewis
+  role: member
+  person_id: ocd-person/7da80b33-fc71-4d7f-8c96-e6068bd4c19b
+- name: D.J. Johnson
+  role: member
+  person_id: ocd-person/ed9307f1-cd95-4004-9e72-46970ea64adf
+- name: Erika Hancock
+  role: member
+  person_id: ocd-person/4ce23404-165d-4c96-9130-56acaf2e73a7
+- name: James Tipton
+  role: member
+  person_id: ocd-person/d6c9aa9b-3c6b-411a-bff1-fc1c38d4bce0
+- name: Jennifer Decker
+  role: member
+  person_id: ocd-person/2c5c20cc-807b-44c8-a1a9-582fe69ca87c
+- name: John Hodgson
+  role: member
+  person_id: ocd-person/2f3255d6-7801-4089-a275-f01e00444ee0
+- name: Marianne Proctor
+  role: member
+  person_id: ocd-person/1ad4657b-84d4-4ce1-864e-2f1f75686cc7
+- name: Mary Beth Imes
+  role: member
+  person_id: ocd-person/ad063b4f-a860-48c3-abfb-18e977a21caf
+- name: Matt Lehman
+  role: member
+  person_id: ocd-person/7afd2d36-9415-44ff-b96d-0010cf4f864e
+- name: Nancy Tate
+  role: member
+  person_id: ocd-person/911af3e2-7435-4f82-a477-99cb078ea99b
+- name: Peyton Griffee
+  role: member
+  person_id: ocd-person/eddce954-34a0-4b9a-aaca-6114e6bf418f
+- name: Savannah Maddox
+  role: member
+  person_id: ocd-person/a8988de2-d65f-461c-96d1-4f1cddc6a969
+- name: Susan Witten
+  role: member
+  person_id: ocd-person/c85ace8f-67e3-438d-afeb-e6442aec43cd
+- name: Thomas Huff
+  role: member
+  person_id: ocd-person/7d2b01df-9356-4eaa-923f-144e3f229860
+- name: Wade Williams
+  role: member
+  person_id: ocd-person/66619aa2-a521-4318-b5d7-b4c36954b43d
+other_names:
+- name: House Committee on State Government
+- name: House State Government
+- name: House State Government Committee

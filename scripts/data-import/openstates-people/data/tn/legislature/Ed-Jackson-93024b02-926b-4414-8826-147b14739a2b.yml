@@ -1,0 +1,63 @@
+id: ocd-person/93024b02-926b-4414-8826-147b14739a2b
+name: Ed Jackson
+given_name: Ed
+family_name: Jackson
+birth_date: 1948-07-21
+gender: Male
+email: sen.ed.jackson@capitol.tn.gov
+image: https://capitol.tn.gov/senate/members/images/S25.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '25'
+- start_date: 2014-11-04
+  end_date: 2022-11-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '25'
+- end_date: 2022-11-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '27'
+offices:
+- classification: capitol
+  address: Room 730, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-1810
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S25
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S25&ga=114
+- url: https://www.capitol.tn.gov/senate/members/s27.html
+other_names:
+- name: E. Jackson
+- name: E.S. Jackson
+- name: Jackson, E
+- name: Jackson, E.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000465
+sources:
+- url: https://ballotpedia.org/Ed_Jackson
+- url: https://en.wikipedia.org/wiki/Ed_Jackson_(Tennessee_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/153232/ed-jackson
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S25
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S25&ga=114
+- url: https://www.capitol.tn.gov/senate/members
+- url: https://www.capitol.tn.gov/senate/members/
+- url: https://www.capitol.tn.gov/senate/members/s27.html
+extras:
+  office: 746 CHB
+  personal info:
+  - Born on July 21, 1948
+  - Married, wife Marilyn, three children
+  - Church of Christ
+  - Tennant Company (Retired), Small Business Owner
+  - Lambuth University
+  - Memphis State University School of Business
+  - Ohio State University
+  - Tennessee National Guard, 30th Armored Brigade

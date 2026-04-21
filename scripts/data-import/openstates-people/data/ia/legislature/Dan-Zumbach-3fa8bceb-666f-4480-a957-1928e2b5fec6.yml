@@ -1,0 +1,45 @@
+id: ocd-person/3fa8bceb-666f-4480-a957-1928e2b5fec6
+name: Dan Zumbach
+given_name: Dan
+family_name: Zumbach
+gender: Male
+email: dan.zumbach@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10733
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '34'
+- end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '48'
+offices:
+- classification: capitol
+  address: 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3371
+links:
+- url: https://www.iowasenaterepublicans.com/senators/dan-zumbach/
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10733
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=10733
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=10733
+other_names:
+- name: D. Zumbach
+- name: Zumbach, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IAL000223
+sources:
+- url: https://ballotpedia.org/Dan_Zumbach
+- url: https://en.wikipedia.org/wiki/Dan_Zumbach
+- url: https://iowasenaterepublicans.com/senators/dan-zumbach
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10733
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=10733
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=10733
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=10733
+- url: https://www.legis.iowa.gov/legislators/senate
+- url: https://www.linkedin.com/in/dan-zumbach-61372234
+extras:
+  occupation: Farmer

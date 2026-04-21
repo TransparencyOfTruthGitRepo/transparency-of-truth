@@ -1,0 +1,77 @@
+id: ocd-organization/fef54557-88f4-47d3-a9e8-d063df8ee7ac
+jurisdiction: ocd-jurisdiction/country:us/state:la/government
+classification: committee
+name: Retirement
+chamber: lower
+sources:
+- url: https://house.louisiana.gov/H_Cmtes/Retirement
+- url: https://house.louisiana.gov/H_Cmtes/Retirement.aspx
+  note: Committee Detail Page
+- url: https://www.legis.la.gov/legis/Committees.aspx?c=H
+  note: Committees List Page
+links:
+- url: https://house.louisiana.gov/H_Cmtes/Retirement
+- url: https://house.louisiana.gov/H_Cmtes/Retirement.aspx
+  note: homepage
+members:
+- name: Chris Turner
+  role: chair
+  person_id: ocd-person/a07b757e-a57b-4dda-aa6a-7bf5e6b3561d
+- name: Tim Kerner
+  role: vice chair
+  person_id: ocd-person/1ebb9d9b-329d-4a43-a33c-e3608ef09cc8
+- name: Mike Johnson
+  role: ex-officio
+  person_id: ocd-person/0e901294-3718-49df-9922-0ac4503acee2
+- name: Phillip DeVillier
+  role: ex-officio
+  person_id: ocd-person/ee23b4bf-f5f7-498c-9fcc-f3b2d6f8fb1d
+- name: Aimee Freeman
+  role: member
+  person_id: ocd-person/3937cef1-8c62-428c-8837-aa6a6a8b60e7
+- name: Annie Spell
+  role: member
+  person_id: ocd-person/a6a9544c-d12b-44cc-a52d-f2ec0e01f556
+- name: Delisha Boyd
+  role: member
+  person_id: ocd-person/d107ae2b-6cb6-4545-a185-d63408f46033
+- name: Dewith Carrier
+  role: member
+  person_id: ocd-person/2bf8549d-d379-4c42-af8c-b5b9d270f17d
+- name: Dixon McMakin
+  role: member
+  person_id: ocd-person/d3cae3e7-f6eb-4a9c-8c63-8719902f771d
+- name: Doyle Boudreaux
+  role: member
+  person_id: ocd-person/c725a955-93ff-415e-91df-a7398f823474
+- name: John Illg
+  role: member
+  person_id: ocd-person/3c0eeaa2-cf62-4b17-9b62-2531c078dd42
+- name: Josh Carlson
+  role: member
+  person_id: ocd-person/85df7a11-9edb-4e27-b7ce-60ffe7b35d39
+- name: Ken Brass
+  role: member
+  person_id: ocd-person/43a80737-e614-475d-aace-2d1324cb516a
+- name: Peter Egan
+  role: member
+  person_id: ocd-person/52df3631-4ef7-4b52-ab11-8a8eeb7bf499
+- name: Polly Thomas
+  role: member
+  person_id: ocd-person/d95410b8-a66c-4662-bcc6-1884252e061b
+- name: Roy Adams
+  role: member
+  person_id: ocd-person/0353532c-93a0-41cb-9621-278c8ef19178
+- name: Stephanie Berault
+  role: member
+  person_id: ocd-person/f05b1c80-c85c-42f5-8336-84bcd7b0c847
+- name: Sylvia Taylor
+  role: member
+  person_id: ocd-person/586f002d-71da-4836-a306-6e8a3d485263
+- name: Terry Landry
+  role: member
+  person_id: ocd-person/709dfea8-f9a9-4734-8b6d-e495f4d51aa3
+other_names:
+- name: House Committee on Retirement
+- name: House Retirement
+- name: House Retirement Committee

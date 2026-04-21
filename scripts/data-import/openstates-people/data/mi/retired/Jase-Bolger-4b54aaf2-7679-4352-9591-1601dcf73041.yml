@@ -1,0 +1,20 @@
+id: ocd-person/4b54aaf2-7679-4352-9591-1601dcf73041
+name: Jase Bolger
+given_name: Jase
+family_name: Bolger
+image: http://gophouse.org/wp-content/uploads/2013/02/63.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '63'
+links:
+- url: http://repBolger.gophouse.org
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000101
+sources:
+- url: http://www.house.mi.gov/mhrpublic/frmRepList.aspx

@@ -1,0 +1,40 @@
+id: ocd-person/8f4c182b-d257-45b7-8c34-c4c1f12bb4f6
+name: Hope Duke
+given_name: Hope
+family_name: Duke
+gender: Female
+email: hope.duke@arkansashouse.org
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/607_sm.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '12'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+- classification: district
+  address: 18172 W. Highway 72, Gravette, AR 72736
+  voice: 479-787-5628
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Duke
+- url: https://www.arkansashouse.org/district/12
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Duke&ddBienniumSession=2023%2F2023R
+other_names:
+- name: Duke, H.
+- name: H. Duke
+- name: H.H. Duke
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Duke
+- url: https://ballotpedia.org/Hope_Hendren_Duke
+- url: https://en.wikipedia.org/wiki/Hope_Hendren_Duke
+- url: https://justfacts.votesmart.org/candidate/biography/202332/hope-duke
+- url: https://www.arkansashouse.org/district/12
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Duke&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+extras:
+  seniority: '86'
+  veteran: 'No'

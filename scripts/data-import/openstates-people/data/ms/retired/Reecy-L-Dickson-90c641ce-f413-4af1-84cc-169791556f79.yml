@@ -1,0 +1,21 @@
+id: ocd-person/90c641ce-f413-4af1-84cc-169791556f79
+name: Reecy L Dickson
+given_name: Reecy
+family_name: Dickson
+middle_name: L
+image: http://billstatus.ls.state.ms.us/members/house/dickson.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2015-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '42'
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/dickson.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000098
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/dickson.xml

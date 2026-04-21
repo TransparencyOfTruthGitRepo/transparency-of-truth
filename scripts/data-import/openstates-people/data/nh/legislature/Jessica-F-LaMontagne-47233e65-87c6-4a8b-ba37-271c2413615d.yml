@@ -1,0 +1,39 @@
+id: ocd-person/47233e65-87c6-4a8b-ba37-271c2413615d
+name: Jessica LaMontagne
+given_name: Jessica
+family_name: LaMontagne
+gender: Female
+email: jessica.lamontagne@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123342.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 17
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10900
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10900
+  note: member detail page
+other_names:
+- name: J. LaMontagne
+- name: J.F. LaMontagne
+- name: Jessica F LaMontagne
+- name: Jessica F. LaMontagne
+- name: LaMontagne, J.
+sources:
+- url: https://ballotpedia.org/Jessica_LaMontagne
+- url: https://en.wikipedia.org/wiki/Jessica_LaMontagne
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10900
+- url: https://jessicalamontagne.squarespace.com/about
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10900
+- url: https://www.linkedin.com/in/jessica-lamontagne-74958641
+extras:
+  county: Strafford
+  elected status: new
+  gender code: F

@@ -1,0 +1,49 @@
+id: ocd-person/0d7f5989-df17-4c90-8267-4914f5598712
+name: Jim Carns
+given_name: Jim
+family_name: Carns
+birth_date: 1940-09-21
+gender: Male
+email: jwcarns@gmail.com
+image: https://www.legislature.state.al.us/pdf/house/members/Carns_48.png
+party:
+- name: Republican
+roles:
+- start_date: 2011-08-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '48'
+offices:
+- classification: capitol
+  address: Room 403-A, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0429
+- classification: district
+  address: 1713 Pump House Lane, Vesttavia Hills, AL 35243
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100529&OID_PERSON=1028
+other_names:
+- name: Carns, J.
+- name: J. Carns
+- name: J.W. Carns
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000053
+- scheme: legacy_openstates
+  identifier: ALL000408
+- scheme: legacy_openstates
+  identifier: ALL000294
+- scheme: legacy_openstates
+  identifier: ALL000490
+sources:
+- url: https://ballotpedia.org/Jim_Carns
+- url: https://en.wikipedia.org/wiki/Jim_Carns
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/5630/jim-carns
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Carns&OID_SPONSOR=100529&OID_PERSON=1028&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100529&OID_PERSON=1028
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+extras:
+  counties: Jefferson County, Shelby County

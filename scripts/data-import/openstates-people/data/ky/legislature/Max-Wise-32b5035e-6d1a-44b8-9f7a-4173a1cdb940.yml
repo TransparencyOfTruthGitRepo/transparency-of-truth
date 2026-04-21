@@ -1,0 +1,50 @@
+id: ocd-person/32b5035e-6d1a-44b8-9f7a-4173a1cdb940
+name: Max Wise
+given_name: Max
+family_name: Wise
+birth_date: 1975-06-28
+gender: Male
+email: max.wise@kylegislature.gov
+image: https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate116.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '16'
+offices:
+- classification: capitol-mail
+  address: Room Annex 242, 702 Capital Ave., Frankfort, KY 40601
+  voice: 502-564-2450
+- classification: capitol-mail
+  address: Room Capitol 319, 700 Capital Ave., Frankfort, KY 40601
+links:
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=116
+  note: homepage
+other_names:
+- name: G.M. Wise
+- name: George Maxwell Wise
+- name: M. Wise
+- name: Wise, M.
+ids:
+  twitter: maxwellwise
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000206
+sources:
+- url: https://ballotpedia.org/Max_Wise
+- url: https://en.wikipedia.org/wiki/Max_Wise
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=116
+- url: https://legislature.ky.gov/Legislators/senate
+- url: https://www.linkedin.com/in/max-wise-1a1b1970
+extras:
+  counties represented:
+  - Adair
+  - Allen
+  - Metcalfe
+  - Monroe
+  - Taylor
+  - Warren
+  mailing address: 702 Capital Ave Annex Room 204 Frankfort, KY 40601
+  home city: Campbellsville

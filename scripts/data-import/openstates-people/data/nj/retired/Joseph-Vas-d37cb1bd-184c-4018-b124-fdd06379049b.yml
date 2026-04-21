@@ -1,0 +1,17 @@
+id: ocd-person/d37cb1bd-184c-4018-b124-fdd06379049b
+name: Joseph Vas
+given_name: Joseph
+family_name: Vas
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2009-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '19'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000139
+sources:
+- url: ftp://www.njleg.state.nj.us/ag/2008data/ROSTER.DBF

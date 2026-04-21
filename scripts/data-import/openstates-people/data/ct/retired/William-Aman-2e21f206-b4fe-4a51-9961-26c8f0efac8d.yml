@@ -1,0 +1,20 @@
+id: ocd-person/2e21f206-b4fe-4a51-9961-26c8f0efac8d
+name: William Aman
+given_name: William
+family_name: Aman
+image: http://cthousegop.com/wp-content/uploads/2012/01/aman_thumb.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '14'
+links:
+- url: http://repaman.com
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000050
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

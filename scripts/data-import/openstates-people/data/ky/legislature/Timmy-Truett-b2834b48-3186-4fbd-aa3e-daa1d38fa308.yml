@@ -1,0 +1,40 @@
+id: ocd-person/b2834b48-3186-4fbd-aa3e-daa1d38fa308
+name: Timmy Truett
+given_name: Timmy
+family_name: Truett
+birth_date: 1977-12-01
+gender: Male
+email: timmy.truett@kylegislature.gov
+image: https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house89.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-11-23
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '89'
+offices:
+- classification: capitol-mail
+  address: Room Annex 424, 702 Capital Ave., Frankfort, KY 40601
+  voice: 502-564-8100
+links:
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=89
+  note: homepage
+other_names:
+- name: T. Truett
+- name: T.D. Truett
+- name: Timothy Truett
+- name: Truett, T.
+sources:
+- url: https://ballotpedia.org/Timmy_Truett
+- url: https://en.wikipedia.org/wiki/Timmy_Truett
+- url: https://legislature.ky.gov/Legislators/house-of-representatives
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=89
+extras:
+  counties represented:
+  - Jackson
+  - Laurel (Part)
+  - Lee
+  - Madison
+  mailing address: 4172 HWY 2003 McKee, KY 40447
+  home city: McKee

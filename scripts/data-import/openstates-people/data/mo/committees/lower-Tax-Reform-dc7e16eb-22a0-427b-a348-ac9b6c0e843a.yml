@@ -1,0 +1,53 @@
+id: ocd-organization/dc7e16eb-22a0-427b-a348-ac9b6c0e843a
+jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+classification: committee
+name: Tax Reform Special
+chamber: lower
+sources:
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=2985&year=2024&code=R
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=3067&year=2025&code=R
+- url: https://www.house.mo.gov/CommitteeHierarchy.aspx
+  note: Committees List Page
+- url: https://www.house.mo.gov/Committees.aspx?category=all&committee=2891&year=2023&code=R
+- url: https://www.house.mo.gov/MemberGridCluster.aspx?filter=compage&category=committee&Committees.aspx?category=all&committee=2891&year=2023&code=R
+  note: Committee Details Page
+links:
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=2985&year=2024&code=R
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=3067&year=2025&code=R
+- url: https://www.house.mo.gov/Committees.aspx?category=all&committee=2891&year=2023&code=R
+  note: homepage
+members:
+- name: Jeff Coleman
+  role: chair
+  person_id: ocd-person/100ec26e-d90f-4707-822c-db61c8f1b370
+- name: John Simmons
+  role: vice chair
+  person_id: ocd-person/3de9f0e2-7062-4363-91d0-c3f17084ced4
+- name: Kemp Strickler
+  role: ranking democratic member
+  person_id: ocd-person/c140221e-dfad-45d7-9371-faf3cc12ff17
+- name: Ben Keathley
+  role: member
+  person_id: ocd-person/1f082953-c9f5-4a72-a281-cdb9fe4bda5e
+- name: Brad Christ
+  role: member
+  person_id: ocd-person/8f5928b4-5528-4506-8075-4e69c5864b42
+- name: Chris Warwick
+  role: member
+  person_id: ocd-person/075c14fd-b8dd-433d-ae30-69fb9d210979
+- name: Mike Costlow
+  role: member
+  person_id: ocd-person/c08a9151-fdfe-4da9-97c2-5536ed96f255
+- name: Sean Pouche
+  role: member
+  person_id: ocd-person/e1a53185-3c84-4f82-87f0-09bd607cf2e7
+- name: Steve Butz
+  role: member
+  person_id: ocd-person/6ad9db86-5e30-4693-be71-41bacad5b843
+- name: Will Jobe
+  role: member
+  person_id: ocd-person/9c6a9708-529e-422f-82b7-e92385a32688
+other_names:
+- name: House Committee on Tax Reform Special
+- name: House Tax Reform Special
+- name: House Tax Reform Special Committee

@@ -1,0 +1,23 @@
+id: ocd-person/9ea1dae2-7eff-444e-946b-8952c703ef82
+name: Daniel A. Wolf
+given_name: Daniel
+family_name: Wolf
+middle_name: A.
+image: https://malegislature.gov/Images/MemberProfile/Web/dwolf.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Cape and Islands
+links:
+- url: http://www.malegislature.gov/People/Profile/DAW0
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000040
+- scheme: legacy_openstates
+  identifier: MAL000273
+sources:
+- url: http://www.malegislature.gov/People/Profile/DAW0

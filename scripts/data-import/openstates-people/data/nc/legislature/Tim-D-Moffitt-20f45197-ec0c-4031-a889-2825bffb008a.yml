@@ -1,0 +1,60 @@
+id: ocd-person/20f45197-ec0c-4031-a889-2825bffb008a
+name: Tim Moffitt
+given_name: Tim
+family_name: Moffitt
+gender: Male
+email: tim.moffitt@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/S/438/Low
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '48'
+- start_date: 2011-01-01
+  end_date: 2014-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '116'
+- start_date: 2020-10-12
+  end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '117'
+offices:
+- classification: capitol
+  address: Room 520, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-733-5745
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/623
+- url: https://www.ncleg.gov/Members/Biography/S/438
+- url: https://www.ncleg.gov/Members/Committees/H/623
+- url: https://www.ncleg.gov/Members/Committees/S/438
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/623
+- url: https://www.ncleg.gov/Members/IntroducedBills/S/438
+- url: https://www.ncleg.gov/Members/Votes/H/623
+- url: https://www.ncleg.gov/Members/Votes/S/438
+other_names:
+- name: Moffitt, T.
+- name: T. Moffitt
+- name: T.D. Moffitt
+- name: Tim D. Moffitt
+- name: Timothy D. Moffitt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000216
+sources:
+- url: https://ballotpedia.org/Timothy_Moffitt
+- url: https://justfacts.votesmart.org/candidate/biography/103082/tim-moffitt
+- url: https://www.linkedin.com/in/tim-moffitt-92399244
+- url: https://www.ncleg.gov/Members/Biography/H/623
+- url: https://www.ncleg.gov/Members/Biography/S/438
+- url: https://www.ncleg.gov/Members/MemberTable/H
+- url: https://www.ncleg.gov/Members/MemberTable/S
+extras:
+  terms in senate: 1 (3+ in House)
+  represented counties: Henderson, Polk, Rutherford
+  legislative assistant: Dina Moffitt
+  legislative assistant email: Dina.Moffitt@ncleg.gov

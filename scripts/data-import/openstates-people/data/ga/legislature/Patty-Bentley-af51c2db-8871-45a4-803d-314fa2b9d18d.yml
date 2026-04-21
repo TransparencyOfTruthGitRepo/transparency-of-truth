@@ -1,0 +1,64 @@
+id: ocd-person/af51c2db-8871-45a4-803d-314fa2b9d18d
+name: Patty Marie Stinson
+given_name: Patty Marie
+family_name: Stinson
+birth_date: 1970-09-20
+gender: Female
+email: patty.stinson@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/bentley-patty-811.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '150'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '139'
+offices:
+- classification: capitol
+  address: Room 508-A, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0213
+- classification: district
+  address: 133 Railroad St., Butler, GA 31006
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=811&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/811
+- url: https://www.legis.ga.gov/members/house/811?session=1029
+- url: https://www.legis.ga.gov/members/house/811?session=1031
+  note: HTML member detail page
+other_names:
+- name: P. Stinson
+- name: P.M. Stinson
+- name: Patty Bentley
+- name: STINSON, 150TH
+- name: Stinson, P.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000245
+sources:
+- url: https://ballotpedia.org/Patty_Stinson
+- url: https://en.wikipedia.org/wiki/Patty_Marie_Stinson
+- url: https://justfacts.votesmart.org/candidate/biography/142227/patty-stinson
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=811&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/811?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/811?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/811
+- url: https://www.legis.ga.gov/members/house/811?session=1029
+extras:
+  residence: Butler
+  city: Butler
+  georgia_id: 811
+  press: https://house-press.com/representative/Patty-Bentley
+  staff: Jennifer Clark - Administrative Assistant
+  staff email: jennifer.clark@house.ga.gov

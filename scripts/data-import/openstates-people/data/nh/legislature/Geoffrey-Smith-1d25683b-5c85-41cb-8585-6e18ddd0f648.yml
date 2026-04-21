@@ -1,0 +1,37 @@
+id: ocd-person/1d25683b-5c85-41cb-8585-6e18ddd0f648
+name: Geoff Smith
+given_name: Geoff
+family_name: Smith
+gender: Male
+email: geoff.smith@gc.nh.gov
+image: https://www.gannett-cdn.com/presto/2022/09/08/NFDD/05d04a1f-87b2-4f2f-be88-18c7eefc1bc2-Gsmith_Headshot.jpg?width=300&height=355&fit=crop&format=pjpg&auto=webp
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 21
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10905
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10905
+  note: member detail page
+other_names:
+- name: G. Smith
+- name: Geoffrey Smith
+- name: Smith, G.
+sources:
+- url: https://ballotpedia.org/Geoff_Smith
+- url: https://en.wikipedia.org/wiki/Geoffrey_Smith_(New_Hampshire_politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10905
+- url: https://justfacts.votesmart.org/candidate/biography/210744/geoff-smith
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10905
+- url: https://www.linkedin.com/in/geoffrey-smith-3b646a101
+extras:
+  county: Strafford
+  elected status: new
+  gender code: M

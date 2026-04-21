@@ -1,0 +1,21 @@
+id: ocd-person/039a3a92-b143-46ba-9cbd-7a77a55b48c7
+name: Vicki Marble
+given_name: Vicki
+family_name: Marble
+email: vicki.marble.senate@state.co.us
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2020a_marble%2C%20vicki.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '23'
+links:
+- url: http://leg.colorado.gov/legislators/vicki-marble
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: COL000104
+sources:
+- url: http://leg.colorado.gov/legislators/vicki-marble
+- url: http://leg.colorado.gov/legislators

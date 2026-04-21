@@ -1,0 +1,13 @@
+id: ocd-person/99942cdd-cda8-4f73-87ca-6a992fb66e66
+name: Luke Bronin
+given_name: Luke
+family_name: Bronin
+email: luke.bronin@hartford.gov
+roles:
+- end_date: '2023-11-07'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/place:hartford/government
+offices:
+- classification: primary
+  address: 550 Main Street;Hartford, CT 06103
+  voice: 860-757-9500

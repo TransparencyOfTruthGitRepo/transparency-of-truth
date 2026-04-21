@@ -1,0 +1,39 @@
+id: ocd-person/03d1f31d-1431-41d2-88b7-67b57d50f323
+name: Joan Meschino
+given_name: Joan
+family_name: Meschino
+gender: Female
+email: joan.meschino@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/J_M1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 3rd Plymouth
+offices:
+- classification: capitol
+  address: Room 162, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2092
+links:
+- url: https://malegislature.gov/Legislators/Profile/J_M1
+other_names:
+- name: J. Meschino
+- name: Meschino, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000551
+sources:
+- url: https://ballotpedia.org/Joan_Meschino
+- url: https://en.wikipedia.org/wiki/Joan_Meschino
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/J_M1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/J_M1
+- url: https://malegislature.gov/Legislators/Profile/J_M1
+- url: https://www.linkedin.com/in/joan-meschino-30826ba
+extras:
+  member code: J_M1

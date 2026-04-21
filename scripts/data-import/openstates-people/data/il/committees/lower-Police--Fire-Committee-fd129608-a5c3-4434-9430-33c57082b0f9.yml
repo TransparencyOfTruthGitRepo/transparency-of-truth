@@ -1,0 +1,64 @@
+id: ocd-organization/fd129608-a5c3-4434-9430-33c57082b0f9
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: Police and Fire
+chamber: lower
+sources:
+- url: https://www.ilga.gov/house/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2954&GA=103
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3113&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3113
+links:
+- url: https://www.ilga.gov/house/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2954&GA=103
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3113&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3113
+members:
+- name: Michael Kelly
+  role: chair
+  person_id: ocd-person/c98bae02-b0dd-40ea-96a8-8a5fa994d211
+- name: Gregg Johnson
+  role: vice chair
+  person_id: ocd-person/26a0642d-d0b6-450f-9438-018a36b04cbf
+- name: John Cabello
+  role: republican spokesperson
+  person_id: ocd-person/b442db35-fab4-4318-a07b-0e88c314fbaa
+- name: "Aar\xF3n Ort\xEDz"
+  role: member
+  person_id: ocd-person/a76e0c0e-81d3-4f3b-8cc8-b8360d3cecb4
+- name: Angie Guerrero-Cuellar
+  role: member
+  person_id: ocd-person/8b2bc102-d62b-47b2-91d8-5f9b3a172cea
+- name: Brad Stephens
+  role: member
+  person_id: ocd-person/49c0fac1-8cf0-48d2-8166-811afe9ac5c5
+- name: Dennis Tipsword
+  role: member
+  person_id: ocd-person/13dc4688-95d1-4a5d-abc7-fb9a46a432c8
+- name: Justin Cochran
+  role: member
+  person_id: ocd-person/afff2974-37d0-428c-be7a-0240395544f6
+- name: Katie Stuart
+  role: member
+  person_id: ocd-person/ceb7f558-3a2c-4041-bf3b-f5a9a511e8b3
+- name: Mary Gill
+  role: member
+  person_id: ocd-person/f2231f6c-1ed7-4106-8909-1d87557b2f04
+- name: Matt Hanson
+  role: member
+  person_id: ocd-person/14b940c9-8843-4709-97a9-9faee25bb201
+- name: Nicole La Ha
+  role: member
+  person_id: ocd-person/3846d812-409f-4726-8e46-3624bfe92812
+- name: Omar Williams
+  role: member
+  person_id: ocd-person/b79ed17d-30a6-4d03-af90-ad3b34610395
+- name: Patrick Sheehan
+  role: member
+  person_id: ocd-person/075c5ab4-12bf-4573-8091-1539a081256e
+other_names:
+- name: House Committee on Police and Fire
+- name: House Police and Fire
+- name: House Police and Fire Committee

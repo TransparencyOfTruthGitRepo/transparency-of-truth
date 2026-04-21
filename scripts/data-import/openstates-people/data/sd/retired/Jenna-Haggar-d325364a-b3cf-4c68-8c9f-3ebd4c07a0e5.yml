@@ -1,0 +1,37 @@
+id: ocd-person/d325364a-b3cf-4c68-8c9f-3ebd4c07a0e5
+name: Jenna Haggar
+given_name: Jenna
+family_name: Haggar
+image: http://legis.sd.gov/img/Legislators/HAGGAR_JENNA_2015.jpg
+party:
+- end_date: '2012-12-31'
+  name: Independent
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '10'
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '15'
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '10'
+links:
+- url: http://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=1005&Session=2016
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000127
+- scheme: legacy_openstates
+  identifier: SDL000176
+- scheme: legacy_openstates
+  identifier: SDL000235
+sources:
+- url: http://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=1005&Session=2016
+- url: http://legis.sd.gov/Legislators/Legislators/MemberCommittees.aspx?Member=1005&Session=2016

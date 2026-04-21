@@ -1,0 +1,32 @@
+id: ocd-person/41f4a5e2-a2d5-4e54-aae3-9c99f9ea5eba
+name: Charles Cunningham
+given_name: Charles
+family_name: Cunningham
+gender: Male
+email: charles.cunningham@house.texas.gov
+image: https://house.texas.gov/images/members/4130.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '127'
+offices:
+- classification: capitol
+  address: Room E2.410, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0520
+- classification: district
+  address: 110 W. Main St., Humble, TX 77338
+links:
+- url: https://house.texas.gov/members/4130
+- url: https://house.texas.gov/members/member-page/?district=127
+other_names:
+- name: C. Cunningham
+- name: Cunningham, C.
+- name: Cunningham, Charles
+sources:
+- url: https://ballotpedia.org/Charles_Cunningham
+- url: https://house.texas.gov/members/4130
+- url: https://house.texas.gov/members/member-page/?district=127
+- url: https://www.linkedin.com/in/charles-c-a4319062

@@ -1,0 +1,34 @@
+id: ocd-person/2be8d7ed-5767-4a67-a5e9-b519691c14ef
+name: Em Levy
+given_name: Em
+family_name: Levy
+gender: Female
+email: rep.emersonlevy@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/levye/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '53'
+offices:
+- classification: capitol
+  address: Room H-486, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1453
+links:
+- url: https://www.oregonlegislature.gov/levye
+  note: homepage
+- url: https://www.oregonlegislature.gov/Levye
+other_names:
+- name: E. Levy
+- name: Emerson Levy
+- name: Levy, E.
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Emerson_Levy
+- url: https://en.wikipedia.org/wiki/Emerson_Levy
+- url: https://justfacts.votesmart.org/candidate/biography/190882/emerson-levy
+- url: https://www.linkedin.com/in/emersonjackson
+- url: https://www.oregonlegislature.gov/Levye
+- url: https://www.oregonlegislature.gov/levye

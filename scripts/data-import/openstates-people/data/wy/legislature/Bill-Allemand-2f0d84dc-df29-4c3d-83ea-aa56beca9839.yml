@@ -1,0 +1,51 @@
+id: ocd-person/2f0d84dc-df29-4c3d-83ea-aa56beca9839
+name: Bill Allemand
+given_name: Bill
+family_name: Allemand
+gender: Male
+email: bill.allemand@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-AllemandBill.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '58'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 119, Midwest, WY 82643
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/H/2114
+- url: https://www.wyoleg.gov/Legislators/2024/H/2114
+- url: https://www.wyoleg.gov/Legislators/2025/H/2114
+- url: https://wyoleg.gov/Legislators/2021/R/2114
+  note: homepage
+other_names:
+- name: Allemand, B
+- name: Allemand, B.
+- name: B. Allemand
+- name: W.J. Allemand
+sources:
+- url: https://ballotpedia.org/Bill_Allemand
+- url: https://en.wikipedia.org/wiki/Bill_Allemand
+- url: https://justfacts.votesmart.org/candidate/biography/207721/bill-allemand
+- url: https://www.wyoleg.gov/Legislators/2023/H/2114
+- url: https://www.wyoleg.gov/Legislators/2024/H/2114
+- url: https://www.wyoleg.gov/Legislators/2025/H/2114
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2114
+extras:
+  county: Natrona County
+  religion: Christian
+  number of children: '4'
+  number of grandchildren: '6'
+  birth place: Casper, Wy
+  house years: 'House:  2023-Present'
+  prior service:
+  - chamber: House
+    startYear: 2023
+    endYear: Present
+    district: ' District 58, '

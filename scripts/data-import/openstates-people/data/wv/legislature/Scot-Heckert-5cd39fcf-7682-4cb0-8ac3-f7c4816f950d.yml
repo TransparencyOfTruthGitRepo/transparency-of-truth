@@ -1,0 +1,37 @@
+id: ocd-person/5cd39fcf-7682-4cb0-8ac3-f7c4816f950d
+name: Scot Heckert
+given_name: Scot
+family_name: Heckert
+gender: Male
+email: scot.heckert@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/heckert_scot.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '13'
+offices:
+- classification: capitol
+  address: State Capitol Room 223E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3394
+- classification: district-mail
+  address: P.O. Box 361, Parkersburg, WV 26102
+  voice: 304-424-7000
+links:
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Heckert
+other_names:
+- name: Heckert, S
+- name: Heckert, S.
+- name: S. Heckert
+- name: S.C. Heckert
+sources:
+- url: https://ballotpedia.org/Scot_Heckert
+- url: https://en.wikipedia.org/wiki/Scot_Heckert
+- url: https://justfacts.votesmart.org/candidate/201633/scot-heckert
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Heckert
+- url: https://www.wvlegislature.gov/House/roster.cfm
+extras:
+  title: Assistant Majority Whip

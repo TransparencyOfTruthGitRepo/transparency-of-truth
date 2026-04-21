@@ -1,0 +1,22 @@
+id: ocd-person/a61c0b9b-5671-46cb-bbf0-a9664244042d
+name: Ruben J Ramos Jr.
+given_name: Ruben
+family_name: Ramos
+middle_name: J
+image: http://www.njleg.state.nj.us/members/memberphotos/ramos_color.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2013-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '33'
+links:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=293
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000101
+sources:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=293
+- url: http://www.njleg.state.nj.us/downloads.asp

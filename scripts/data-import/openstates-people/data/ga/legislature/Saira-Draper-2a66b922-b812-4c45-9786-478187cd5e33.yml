@@ -1,0 +1,53 @@
+id: ocd-person/2a66b922-b812-4c45-9786-478187cd5e33
+name: Saira Draper
+given_name: Saira
+family_name: Draper
+gender: Female
+email: saira.draper@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/draper-saira-5038.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '90'
+offices:
+- classification: capitol
+  address: Room 604-D, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0265
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5038
+- url: https://www.legis.ga.gov/members/house/5038?session=1031
+  note: HTML member detail page
+other_names:
+- name: DRAPER, 90TH
+- name: Draper, S.
+- name: S. Draper
+- name: S.A. Draper
+- name: S.F.A. Draper
+- name: Saira Amir Draper
+- name: Saira Draper
+sources:
+- url: https://ballotpedia.org/Saira_Draper
+- url: https://en.wikipedia.org/wiki/Saira_Draper
+- url: https://justfacts.votesmart.org/candidate/biography/203452/saira-draper
+- url: https://www.legis.ga.gov/api/members/detail/5038?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5038
+- url: https://www.linkedin.com/in/sairadraper
+extras:
+  residence: Atlanta
+  city: Atlanta
+  georgia_id: 5038
+  birthday: January 11
+  occupation: Attorney
+  press: https://house-press.com/representative/Saira-Draper
+  spouse: Addison
+  staff: Olivia Sims - Administrative Assistant
+  staff email: olivia.sims@house.ga.gov

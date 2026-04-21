@@ -1,0 +1,70 @@
+id: ocd-organization/eb0d934e-b167-4d17-af64-1ee993ff77f3
+jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+classification: committee
+name: Science, Technology and Energy
+chamber: lower
+sources:
+- url: https://gc.nh.gov/house/committees/committeedetails.aspx?id=15
+- url: https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=15
+  note: Committee details page
+- url: https://www.gencourt.state.nh.us/house/committees/standingcommittees.aspx
+  note: Committees list page
+links:
+- url: https://gc.nh.gov/house/committees/committeedetails.aspx?id=15
+- url: https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=15
+members:
+- name: Michael Vose
+  role: chair
+  person_id: ocd-person/1aa8819a-e1bd-4569-93ec-305ad61e8ea4
+- name: Doug Thomas
+  role: vice chair
+  person_id: ocd-person/5db11498-80a8-4136-9c50-2c7f1a2f6826
+- name: J.D. Bernardy
+  role: clerk
+  person_id: ocd-person/9bae2e1c-4557-48a0-8adb-531347472614
+- name: Dale Swanson
+  role: member
+  person_id: ocd-person/89af0a16-e17b-490b-96d1-8d445071cec2
+- name: Jeanine Notter
+  role: member
+  person_id: ocd-person/84f79859-fef0-441d-80bb-5edeafc70e78
+- name: Jim Summers
+  role: member
+  person_id: ocd-person/14936ed1-5203-4f3e-be18-4243f1fff521
+- name: John Larochelle
+  role: member
+  person_id: ocd-person/fcd4cdd8-007f-4d0d-b4c5-371db50e81a5
+- name: John Schneller
+  role: member
+  person_id: ocd-person/84047292-5618-45d3-afbf-16bb611f415d
+- name: Kat McGhee
+  role: member
+  person_id: ocd-person/4c8bec8a-e86d-4316-8b2e-2f8c4157cae5
+- name: Lex Berezhny
+  role: member
+  person_id: ocd-person/a70935b5-517e-4b70-accb-26e55c34fb42
+- name: Lucius Parshall
+  role: member
+  person_id: ocd-person/4854b313-26e5-49a3-8095-76298f96ced3
+- name: "Matt Sabourin dit Choini\xE8re"
+  role: member
+  person_id: ocd-person/5709592a-7c88-41e3-8295-7c05146327e2
+- name: Mike Harrington
+  role: member
+  person_id: ocd-person/21e95dbc-c226-4f4a-9fa2-8f5b374d0a98
+- name: Ned Raynolds
+  role: member
+  person_id: ocd-person/f20b1b61-dfc7-4ea0-b0cf-3705e7c7283e
+- name: Rita Mattson
+  role: member
+  person_id: ocd-person/6554d13d-8086-437d-8b44-e5a164b34933
+- name: Tom Cormen
+  role: member
+  person_id: ocd-person/25d71e57-9def-4149-8257-2bfb3c5e5415
+- name: Tony Caplan
+  role: member
+  person_id: ocd-person/960dc748-e7c7-4859-ab1d-b07f9bb7b269
+other_names:
+- name: House Committee on Science, Technology and Energy
+- name: House Science, Technology and Energy
+- name: House Science, Technology and Energy Committee

@@ -1,0 +1,28 @@
+id: ocd-person/b3742f18-b0a4-4c61-94be-56f18b6eb03d
+name: Gailanne M. Cariddi
+given_name: Gailanne
+family_name: Cariddi
+middle_name: M.
+death_date: 2017-06-17
+image: https://malegislature.gov/Legislators/Profile/170/GMC1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-05'
+  end_date: '2017-06-17'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 1st Berkshire
+  end_reason: Deceased
+links:
+- url: https://malegislature.gov/Legislators/Profile/GMC1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000066
+- scheme: legacy_openstates
+  identifier: MAL000513
+- scheme: openstates
+  identifier: ocd-person/cff105a5-dc81-482a-a6d7-0a84368f77a6
+sources:
+- url: https://malegislature.gov/Legislators/Profile/GMC1
+- url: http://www.masslive.com/politics/index.ssf/2017/06/berkshire_county_state_rep_gai.html

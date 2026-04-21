@@ -1,0 +1,19 @@
+id: ocd-person/787f2a19-338b-4509-bb42-258f01459a7e
+name: James Womack
+given_name: James
+family_name: Womack
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '7'
+links:
+- url: http://007.housedems.com/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000045
+sources:
+- url: http://www.house.mi.gov/mhrpublic/frmRepList.aspx

@@ -1,0 +1,57 @@
+id: ocd-person/2062cc82-e160-435d-ab16-c57305a13db4
+name: Janet Ellis
+given_name: Janet
+family_name: Ellis
+gender: Female
+email: janet.ellis@legmt.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '41'
+- start_date: 2015-01-05
+  end_date: 2019-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '41'
+- end_date: 2018-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '81'
+offices:
+- classification: capitol
+  address: Capitol Building, 1301 E. 6th Ave. P.O. Box 200500, Helena, MT 59620
+  voice: 406-444-4800
+- classification: district-mail
+  address: P.O. Box 385, Helena, MT 59624
+links:
+- url: https://archive.legmt.gov/legislator-information/roster/individual/7495
+- url: https://leg.mt.gov/legislator-information/roster/individual/5053
+- url: https://leg.mt.gov/legislator-information/roster/individual/6799
+- url: https://leg.mt.gov/legislator-information/roster/individual/7495
+- url: https://legislators.legmt.gov/#/legislator/24
+- url: https://www.legmt.gov/legislators/1268/
+other_names:
+- name: Ellis, J.
+- name: Ellis, Janet
+- name: J. Ellis
+- name: J.H. Ellis
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MTL000303
+- scheme: openstates
+  identifier: ocd-person/ccadc5eb-1278-4d9e-bcaa-85137d5e380e
+sources:
+- url: https://archive.legmt.gov/legislator-information/roster/individual/7495
+- url: https://ballotpedia.org/Janet_Ellis
+- url: https://en.wikipedia.org/wiki/Janet_Ellis_(politician)
+- url: https://janetellis4mt.com/about-janet
+- url: https://justfacts.votesmart.org/candidate/biography/149262/janet-ellis
+- url: https://leg.mt.gov/legislator-information/?session_select=113
+- url: https://leg.mt.gov/legislator-information/roster/individual/5053
+- url: https://leg.mt.gov/legislator-information/roster/individual/6799
+- url: https://leg.mt.gov/legislator-information/roster/individual/7495
+- url: https://legislators.legmt.gov/#/legislator/24
+- url: https://www.legmt.gov/legislators/1268

@@ -1,0 +1,50 @@
+id: ocd-person/7c874269-afdd-4d41-a9da-b0ddb903bb6f
+name: Charlie Baum
+given_name: Charlie
+family_name: Baum
+birth_date: 1972-12-13
+gender: Male
+email: rep.charlie.baum@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/H37.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2018-11-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '37'
+offices:
+- classification: capitol
+  address: Room 620, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-6849
+links:
+- url: https://tnhousegop.org/members/representative-charlie-baum/
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H37
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h37.html
+other_names:
+- name: Baum, C
+- name: Baum, C.
+- name: C. Baum
+- name: C.L. Baum
+sources:
+- url: https://ballotpedia.org/Charlie_Baum
+- url: https://en.wikipedia.org/wiki/Charlie_Baum
+- url: https://justfacts.votesmart.org/candidate/biography/182443/charlie-baum
+- url: https://tnhousegop.org/members/representative-charlie-baum
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H37
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h37.html
+- url: https://www.linkedin.com/in/charles-baum-a7039598
+extras:
+  office: 620 CHB
+  personal info:
+  - Born December 13th
+  - Married, three children
+  - College Professor
+  - "Christian \u2013 Methodist"
+  - B.A. Economics, Wake Forest University in Winston-Salem, N.C., 1995
+  - "Ph.D. Economics, University of North Carolina \u2013 Chapel Hill, 1999"

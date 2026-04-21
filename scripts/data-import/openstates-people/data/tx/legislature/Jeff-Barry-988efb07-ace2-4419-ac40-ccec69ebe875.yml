@@ -1,0 +1,34 @@
+id: ocd-person/988efb07-ace2-4419-ac40-ccec69ebe875
+name: Jeff Barry
+given_name: Jeff
+family_name: Barry
+gender: Male
+email: jeff.barry@house.texas.gov
+image: https://www.house.texas.gov/images/members/4405.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '29'
+offices:
+- classification: capitol
+  address: Room E2.814, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0707
+- classification: district
+  address: 2341 N. Galveston Ave., Pearland, TX 77581
+links:
+- url: https://www.house.texas.gov/members/29
+other_names:
+- name: Barry, J.
+- name: Barry, Jeff
+- name: J. Barry
+- name: J.M. Barry
+sources:
+- url: https://ballotpedia.org/Jeffrey_Barry
+- url: https://en.wikipedia.org/wiki/Jeffrey_Barry_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/213353/jeffrey-barry
+- url: https://www.house.texas.gov/members/29
+- url: https://www.house.texas.gov/members/4405/biography
+- url: https://www.linkedin.com/in/jeffrey-barry-cic-a485ba5

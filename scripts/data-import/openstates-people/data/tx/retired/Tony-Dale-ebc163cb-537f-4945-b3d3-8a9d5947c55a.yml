@@ -1,0 +1,21 @@
+id: ocd-person/ebc163cb-537f-4945-b3d3-8a9d5947c55a
+name: Tony Dale
+given_name: Tony
+family_name: Dale
+image: https://house.texas.gov/photos/members/2370.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-07'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '136'
+links:
+- url: https://house.texas.gov/members/member-page/?district=136
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000433
+- scheme: legacy_openstates
+  identifier: TXL000553
+sources:
+- url: https://house.texas.gov/members/member-page/?district=136

@@ -1,0 +1,47 @@
+id: ocd-person/e3affc46-1790-48ba-ae36-5c00473d6c35
+name: Matthew McQueen
+given_name: Matthew
+family_name: McQueen
+gender: Male
+email: matthew.mcqueen@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HMCQU.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-20
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '50'
+offices:
+- classification: capitol
+  address: State Capitol Room 316A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4423
+- classification: district
+  address: 7 Avenida Vista Grande Suite B7-120, Santa Fe, NM 87508
+links:
+- url: https://www.linkedin.com/in/matthew-mcqueen-86a8322/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HMCQU
+  note: homepage
+other_names:
+- name: M. McQueen
+- name: McQueen, M.
+- name: McQueen, Matthew
+ids:
+  twitter: mcqueenfornm
+  facebook: mcqueenfornm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000320
+sources:
+- url: https://ballotpedia.org/Matthew_McQueen
+- url: https://en.wikipedia.org/wiki/Matthew_McQueen_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/150981/matthew-mcqueen
+- url: https://www.linkedin.com/in/matthew-mcqueen-86a8322
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HMCQU
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Sandoval and Santa Fe
+  service: Representative since 2015
+  occupation: Attorney

@@ -1,0 +1,50 @@
+id: ocd-person/5348e28d-bbbe-493f-8f77-a509cb315abe
+name: Russ Diamond
+given_name: Russ
+family_name: Diamond
+birth_date: 1963-07-26
+gender: Male
+email: rdiamond@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1686.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '102'
+offices:
+- classification: capitol
+  address: Room 155, East Wing P.O. Box 202102, Harrisburg, PA 17120
+  voice: 717-787-2686
+- classification: district
+  address: 175 S. Lancaster St., Jonestown, PA 17038
+  voice: 717-277-2101
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1686
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1686/rep-diamond
+- url: https://www.repdiamond.com/
+other_names:
+- name: Diamond, R.
+- name: R. Diamond
+- name: R.H. Diamond
+ids:
+  youtube: RepRussDiamond
+  facebook: repdiamond
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000482
+sources:
+- url: https://ballotpedia.org/Russell_Diamond
+- url: https://en.wikipedia.org/wiki/Russ_Diamond
+- url: https://justfacts.votesmart.org/candidate/biography/47021/russ-diamond
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1686
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/russ-diamond-5980754b
+- url: https://www.palegis.us/house/members/bio/1686/rep-diamond
+- url: https://www.repdiamond.com
+extras:
+  website: http://www.RepDiamond.com

@@ -1,0 +1,74 @@
+id: ocd-person/bbaa33e5-6ab2-5fba-bb46-35e44f89e553
+name: Lauren Boebert
+given_name: Lauren
+family_name: Boebert
+birth_date: 1986-12-15
+gender: Female
+email: https://boebertforms.house.gov/forms/writeyourrep/?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/B000825.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CO-4
+- start_date: 2023-01-03
+  end_date: 2025-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CO-3
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CO-3
+offices:
+- classification: capitol
+  address: 1713 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-4761
+- classification: district
+  address: 271 S. Elm Ave. Suite 1A, Eaton, CO 80615
+  voice: 970-702-2136
+- classification: district
+  address: 9360 Station St. Suite 300, Lone Tree, CO 80124
+  voice: 720-639-9165
+links:
+- url: https://boebert.house.gov
+  note: website
+- url: https://boebert.house.gov/
+other_names:
+- name: Boebert, L.
+- name: L. Boebert
+- name: L.O. Boebert
+ids:
+  twitter: RepBoebert
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Lauren Boebert
+- scheme: bioguide
+  identifier: B000825
+- scheme: fec
+  identifier: H0CO03165
+- scheme: google_entity_id
+  identifier: kg:/g/11j2v06x6p
+- scheme: govtrack
+  identifier: '456805'
+- scheme: opensecrets
+  identifier: N00045974
+- scheme: pictorial
+  identifier: '12969'
+- scheme: votesmart
+  identifier: '191290'
+- scheme: wikidata
+  identifier: Q96761544
+sources:
+- url: https://ballotpedia.org/Lauren_Boebert
+- url: https://boebert.house.gov
+- url: https://en.wikipedia.org/wiki/Lauren_Boebert
+- url: https://justfacts.votesmart.org/candidate/191290/lauren-boebert
+- url: https://laurenforcolorado.com/about
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/lauren_boebert/456805

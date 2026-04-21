@@ -1,0 +1,30 @@
+id: ocd-person/8ecb185e-f9d2-4da1-94af-8ea367b7b34a
+name: George Grant
+given_name: George
+family_name: Grant
+gender: Male
+email: george.grant@gc.nh.gov
+image: https://images.squarespace-cdn.com/content/v1/66dfa3554a4adb713d84216a/3071f119-e8b0-4f19-be72-993a6c7f8fea/George-Grant-Sul5-2+%281%29.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Sullivan 5
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10729
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=10729
+other_names:
+- name: G. Grant
+- name: Grant, G.
+sources:
+- url: https://ballotpedia.org/George_Grant
+- url: https://en.wikipedia.org/wiki/George_Grant_(New_Hampshire_politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10729
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=10729
+- url: https://justfacts.votesmart.org/candidate/biography/210505/george-grant

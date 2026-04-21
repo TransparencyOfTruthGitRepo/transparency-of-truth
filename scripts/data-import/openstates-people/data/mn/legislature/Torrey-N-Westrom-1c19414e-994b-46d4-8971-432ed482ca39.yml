@@ -1,0 +1,39 @@
+id: ocd-person/1c19414e-994b-46d4-8971-432ed482ca39
+name: Torrey Westrom
+given_name: Torrey
+family_name: Westrom
+birth_date: 1973-03-27
+gender: Male
+email: sen.torrey.westrom@mnsenate.gov
+image: https://www.senate.mn/graphics/12Westrom.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '12'
+offices:
+- classification: capitol
+  address: Room 2201, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-3826
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1197
+other_names:
+- name: T. Westrom
+- name: T.N. Westrom
+- name: Torrey N. Westrom
+- name: Westrom, T.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000556
+sources:
+- url: https://ballotpedia.org/Torrey_Westrom
+- url: https://en.wikipedia.org/wiki/Torrey_Westrom
+- url: https://justfacts.votesmart.org/candidate/biography/13444/torrey-westrom
+- url: https://www.linkedin.com/in/torrey-office-68626281
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/index.php
+- url: https://www.senate.mn/members/list.csv
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1197

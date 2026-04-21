@@ -1,0 +1,13 @@
+id: ocd-person/488b42e7-7cce-4883-b015-437614f960ca
+name: Jim Strickland
+given_name: Jim
+family_name: Strickland
+email: mayor@memphistn.gov
+roles:
+- end_date: '2024-01-01'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/place:memphis/government
+offices:
+- classification: primary
+  address: 125 N. Main St. Room 700;Memphis, TN 38103
+  voice: 901-636-6000

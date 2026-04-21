@@ -1,0 +1,36 @@
+id: ocd-person/f331962f-370b-4b74-876e-aa6a8e2e58e2
+name: Cas Garcia Hernandez
+given_name: Cas
+family_name: Garcia Hernandez
+gender: Female
+email: cassandra.garciahernandez@house.texas.gov
+image: https://www.house.texas.gov/images/members/4495.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '115'
+offices:
+- classification: capitol
+  address: Room E2.712, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0468
+- classification: district
+  address: 4099 McEwen Road, Suite 622, Dallas, TX 75244
+links:
+- url: https://www.house.texas.gov/members/115
+other_names:
+- name: C. Garcia Hernandez
+- name: C.N. Garcia Hernandez
+- name: Garcia Hernandez, C.
+- name: Garcia Hernandez, Cas
+- name: Garcia Hernandez, Cassandra
+sources:
+- url: https://ballotpedia.org/Cassandra_Garcia_Hernandez
+- url: https://en.wikipedia.org/wiki/Cassandra_Hernandez
+- url: https://justfacts.votesmart.org/candidate/biography/201253/cassandra-hernandez
+- url: https://www.house.texas.gov/members/115
+- url: https://www.house.texas.gov/members/4495/biography
+- url: https://www.juanlaw.com/attorney-cassandra-hernandez
+- url: https://www.linkedin.com/in/cassandra-hernandez

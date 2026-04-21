@@ -1,0 +1,43 @@
+id: ocd-person/0fa874b7-acab-4f29-b800-56bd54f375fe
+name: Teresa Martinez
+given_name: Teresa
+family_name: Martinez
+gender: Female
+email: tmartinez@azleg.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/30908.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '16'
+- start_date: 2021-11-01
+  end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '11'
+offices:
+- classification: capitol
+  address: Room 129, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-3158
+links:
+- url: https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2096
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2323
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2096
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2181
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2181
+other_names:
+- name: Martinez, T.
+- name: T. Martinez
+- name: T.A. Martinez
+- name: Teresa A. Martinez
+sources:
+- url: https://ballotpedia.org/Teresa_Martinez
+- url: https://en.wikipedia.org/wiki/Teresa_Martinez
+- url: https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2096
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2323
+- url: https://www.azleg.gov/memberroster/?body=H
+- url: https://www.linkedin.com/in/teresa-martinez-65661216
+extras:
+  title: Majority Whip

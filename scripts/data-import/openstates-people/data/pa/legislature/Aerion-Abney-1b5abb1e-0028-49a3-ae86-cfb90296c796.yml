@@ -1,0 +1,42 @@
+id: ocd-person/1b5abb1e-0028-49a3-ae86-cfb90296c796
+name: Aerion Abney
+given_name: Aerion
+family_name: Abney
+birth_date: 1988-05-23
+gender: Male
+email: aabney@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/1933.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2022-04-26
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '19'
+offices:
+- classification: capitol
+  address: Room 218, Irvis Office Building P.O. Box 202019, Harrisburg, PA 17120
+  voice: 717-783-3783
+- classification: district
+  address: 730 James St., Pittsburgh, PA 15212
+  voice: 412-471-7760
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1933
+  note: homepage
+- url: https://www.pahouse.com/abney/
+- url: https://www.palegis.us/house/members/bio/1933/rep-abney
+other_names:
+- name: A. Abney
+- name: A.A. Abney
+- name: Abney, A.
+sources:
+- url: https://ballotpedia.org/Aerion_Abney
+- url: https://en.wikipedia.org/wiki/Aerion_Abney
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1933
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.pahouse.com/abney
+- url: https://www.palegis.us/house/members/bio/1933/rep-abney
+extras:
+  Education:
+  - Cardinal O'Hara High School, 2006
+  - University of Pittsburgh, 2010 BA Communications, 2012 MSW

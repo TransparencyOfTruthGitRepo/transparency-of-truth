@@ -1,0 +1,31 @@
+id: ocd-person/a22ec130-3ba7-4304-9e6f-3a950b8454cb
+name: Anna Scharf
+given_name: Anna
+family_name: Scharf
+gender: Female
+email: rep.annascharf@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/scharf/PublishingImages/member_photo.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-07-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '23'
+offices:
+- classification: capitol
+  address: Room H-387, 900 Court St., Salem, OR 97301
+  voice: 503-986-1423
+links:
+- url: https://www.oregonlegislature.gov/scharf
+  note: homepage
+other_names:
+- name: A. Scharf
+- name: Scharf, A.
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Anna_Scharf
+- url: https://en.wikipedia.org/wiki/Anna_Scharf
+- url: https://www.linkedin.com/in/anna-scharf-7b631911
+- url: https://www.oregonlegislature.gov/scharf

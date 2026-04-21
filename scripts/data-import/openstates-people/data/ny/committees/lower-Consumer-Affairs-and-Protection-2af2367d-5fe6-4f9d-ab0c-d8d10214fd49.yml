@@ -1,0 +1,70 @@
+id: ocd-organization/2af2367d-5fe6-4f9d-ab0c-d8d10214fd49
+jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+classification: committee
+name: Consumer Affairs and Protection
+chamber: lower
+sources:
+- url: https://assembly.state.ny.us/comm/
+- url: https://assembly.state.ny.us/comm/?id=8
+- url: https://assembly.state.ny.us/comm/?id=8&sec=news
+- url: https://nyassembly.gov/comm/?id=8
+links:
+- url: https://assembly.state.ny.us/comm/?id=8
+  note: homepage
+- url: https://assembly.state.ny.us/comm/?id=8&sec=news
+- url: https://nyassembly.gov/comm/?id=8
+members:
+- name: Nily Rozic
+  role: chair
+  person_id: ocd-person/2dfa3301-d40b-4d1a-89c7-62a2b965bace
+- name: Alex Bores
+  role: member
+  person_id: ocd-person/9c986c4c-5371-4b77-b095-5a7283a93729
+- name: Brian Cunningham
+  role: member
+  person_id: ocd-person/27a087c4-fad6-4245-b680-20aff5c3251c
+- name: Brian Miller
+  role: member
+  person_id: ocd-person/ad93da57-8a9a-4dc0-bc2c-2488c0331d16
+- name: Charles Fall
+  role: member
+  person_id: ocd-person/5390ebc9-7fbe-4be9-91c4-b28b59f7fd2f
+- name: Emily Gallagher
+  role: member
+  person_id: ocd-person/81456b86-152f-4764-a489-dade7cc572c6
+- name: "Em\xE9rita Torres"
+  role: member
+  person_id: ocd-person/4af19dc2-41c7-4b7e-b271-b23e20e1ccb1
+- name: George Alvarez
+  role: member
+  person_id: ocd-person/722e778a-7824-49fb-bb44-ba1da8bab675
+- name: Grace Lee
+  role: member
+  person_id: ocd-person/18830756-58c1-4fd1-b1b0-d16041b10e12
+- name: Jake Blumencranz
+  role: member
+  person_id: ocd-person/aa1af232-61bb-427c-b30e-81169c18d15d
+- name: Jenifer Rajkumar
+  role: member
+  person_id: ocd-person/029fb490-649e-4dbf-b7fc-6cf46ea433ff
+- name: John Mikulin
+  role: member
+  person_id: ocd-person/d0ecfe0a-9f41-4deb-9829-7c1c16a7c498
+- name: Michael Durso
+  role: member
+  person_id: ocd-person/d72babb1-84cc-49d4-8b91-7945b7b9abf5
+- name: Pat Carroll
+  role: member
+  person_id: ocd-person/04a87708-f68c-43ca-b892-fc987f4deb5a
+- name: Paul Bologna
+  role: member
+  person_id: ocd-person/4a510afe-84a6-4b0c-ac8d-13bebadfff78
+- name: Phara Souffrant Forrest
+  role: member
+  person_id: ocd-person/8683c8ab-0d6c-471f-9259-a1b506109912
+other_names:
+- name: Assembly Committee on Consumer Affairs and Protection
+- name: Assembly Consumer Affairs and Protection
+- name: Assembly Consumer Affairs and Protection Committee
+extras:
+  address: LOB 942; Albany, NY 12248

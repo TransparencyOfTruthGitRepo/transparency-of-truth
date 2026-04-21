@@ -1,0 +1,21 @@
+id: ocd-person/0e16e852-1c16-4b0c-b40f-862504c3489f
+name: Charles D. Clemons Jr.
+given_name: Charles
+family_name: Clemons
+middle_name: D.
+image: http://www.housedems.ct.gov/Clemons/images/Clemons_2012-04-24.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '124'
+links:
+- url: http://www.housedems.ct.gov/Clemons
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000160
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

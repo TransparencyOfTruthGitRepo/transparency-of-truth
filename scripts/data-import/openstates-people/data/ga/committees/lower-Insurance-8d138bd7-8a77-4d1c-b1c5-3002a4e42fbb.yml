@@ -1,0 +1,101 @@
+id: ocd-organization/8d138bd7-8a77-4d1c-b1c5-3002a4e42fbb
+jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+classification: committee
+name: Insurance
+chamber: lower
+sources:
+- url: https://www.legis.ga.gov/api/committees/details/96/1029
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/details/96/1031
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1029
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1031
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/committees/house/96
+links:
+- url: https://www.legis.ga.gov/committees/house/96
+  note: homepage
+members:
+- name: Eddie Lumsden
+  role: chair
+  person_id: ocd-person/f33d979c-554c-433e-ad0f-837eef1da589
+- name: Buddy DeLoach
+  role: vice chair
+  person_id: ocd-person/d40576ac-fbc0-4b42-98ee-f6362063784d
+- name: Carolyn Hugley
+  role: secretary
+  person_id: ocd-person/0f5a9273-2fc6-458f-af59-b75070a1dc76
+- name: Bruce Williamson
+  role: member
+  person_id: ocd-person/13b7af1b-5b56-481b-a81a-2001846188a6
+- name: Carl Gilliard
+  role: member
+  person_id: ocd-person/562e162f-2a60-441c-956b-11db12eef266
+- name: Chris Erwin
+  role: member
+  person_id: ocd-person/d79c3e9b-b73d-416b-9bfd-8a0338d8256c
+- name: Chuck Efstration
+  role: member
+  person_id: ocd-person/3ff894cb-f2e4-47d0-9f67-b125245a10c3
+- name: Darlene Taylor
+  role: member
+  person_id: ocd-person/d00eb950-0fb6-41ab-ae22-8e9ce84d7cf0
+- name: David Sampson
+  role: member
+  person_id: ocd-person/9a8e7b0c-3c19-473f-b04a-d3a17037af0a
+- name: Demetrius Douglas
+  role: member
+  person_id: ocd-person/016fb7f0-2b08-4587-b7f2-8d18c1d9b8f5
+- name: Houston Gaines
+  role: member
+  person_id: ocd-person/e73cb2a6-bf3e-4211-a386-142c18a4f607
+- name: John Carson
+  role: member
+  person_id: ocd-person/713cac52-0a57-4baa-8273-6eeca5b491df
+- name: Joseph Gullett
+  role: member
+  person_id: ocd-person/f36d2507-b19a-4ee5-b4f9-5c06df761edf
+- name: Karen Mathiak
+  role: member
+  person_id: ocd-person/f8db50e0-08ab-406c-ac8b-39c7038ef5ca
+- name: Lee Hawkins
+  role: member
+  person_id: ocd-person/69493144-3e3e-49a8-9e1f-f9a948fd0ff3
+- name: Matt Reeves
+  role: member
+  person_id: ocd-person/0f4f3c5a-1192-4ec1-9698-4aef005b4875
+- name: Matthew Gambill
+  role: member
+  person_id: ocd-person/909e9026-e549-494b-be99-e8562a389e0c
+- name: Noel Williams
+  role: member
+  person_id: ocd-person/3252da04-a17e-4298-b19d-9dd2fbf29ded
+- name: Omari Crawford
+  role: member
+  person_id: ocd-person/dbb81f07-2181-48dd-b383-19870e08d4fd
+- name: Park Cannon
+  role: member
+  person_id: ocd-person/5c5ab5cb-54f6-4218-8d1d-a99d36bca436
+- name: Sandra Scott
+  role: member
+  person_id: ocd-person/21c6cae1-bcd2-4403-ad39-af04b64ce55c
+- name: Shaw Blackmon
+  role: member
+  person_id: ocd-person/ee145624-3295-4db4-b3ce-9d1583e4ef6e
+- name: Steve Tarvin
+  role: member
+  person_id: ocd-person/80f4bbdf-02f3-4233-8456-e550e7e745af
+- name: Tyler Smith
+  role: member
+  person_id: ocd-person/4b162447-89a7-4ffc-acbf-617e1ad87e2a
+- name: Viola Davis
+  role: member
+  person_id: ocd-person/e3b1be9c-b244-4466-9192-adc365a31cfb
+other_names:
+- name: House Committee on Insurance
+- name: House Insurance
+- name: House Insurance Committee
+extras:
+  address: 220-A State Capitol  Atlanta, GA 30334
+  phone: '4046567850'

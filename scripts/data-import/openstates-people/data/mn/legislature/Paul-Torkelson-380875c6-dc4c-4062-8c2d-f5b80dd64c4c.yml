@@ -1,0 +1,46 @@
+id: ocd-person/380875c6-dc4c-4062-8c2d-f5b80dd64c4c
+name: Paul Torkelson
+given_name: Paul
+family_name: Torkelson
+birth_date: 1952-07-12
+gender: Male
+email: rep.paul.torkelson@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/15B.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 15B
+- end_date: 2023-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 16B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-9303
+links:
+- url: https://www.house.mn.gov/members/profile/15304
+other_names:
+- name: P. Torkelson
+- name: P.M. Torkelson
+- name: Paul M. Torkelson
+- name: Torkelson, P.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000109
+- scheme: legacy_openstates
+  identifier: MNL000350
+- scheme: legacy_openstates
+  identifier: MNL000480
+- scheme: legacy_openstates
+  identifier: MNL000687
+sources:
+- url: https://ballotpedia.org/Paul_Torkelson
+- url: https://en.wikipedia.org/wiki/Paul_Torkelson
+- url: https://justfacts.votesmart.org/candidate/biography/109197/paul-torkelson
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15304
+- url: https://www.linkedin.com/in/paul-torkelson-778b1711

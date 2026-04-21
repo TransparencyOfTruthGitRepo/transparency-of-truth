@@ -1,0 +1,74 @@
+id: ocd-person/eba6f26b-65c9-42fe-a8a5-09e11c8d089a
+name: LaTonya Johnson
+given_name: LaTonya
+family_name: Johnson
+birth_date: 1972-06-22
+gender: Female
+email: sen.johnson@legis.wisconsin.gov
+image: https://docs.legis.wisconsin.gov/2023/legislators/senate/2421.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '6'
+- end_date: 2016-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '17'
+offices:
+- classification: capitol
+  address: State Capitol Room 131 South, P.O. Box 7882 , 2 E. Main St., Madison, WI
+    53707
+  voice: 608-266-2500
+- classification: district
+  address: WI
+  voice: 414-313-1241
+links:
+- url: https://docs.legis.wisconsin.gov/2017/legislators/senate/1643
+- url: https://docs.legis.wisconsin.gov/2019/legislators/senate/1904
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/2100
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/2421
+- url: https://docs.legis.wisconsin.gov/2025/legislators/senate/2816
+- url: https://legis.wisconsin.gov/senate/06/johnson/
+other_names:
+- name: JOHNSON, L
+- name: Johnson, L
+- name: Johnson, L.
+- name: L. Johnson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000627
+- scheme: legacy_openstates
+  identifier: WIL000515
+- scheme: openstates
+  identifier: ocd-person/87999884-0aa3-4b05-8bbf-0118ead14994
+sources:
+- url: https://ballotpedia.org/LaTonya_Johnson
+- url: https://docs.legis.wisconsin.gov/2017/legislators/senate/1643
+- url: https://docs.legis.wisconsin.gov/2019/legislators/senate/1904
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/2100
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/
+  note: members list page
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/2421
+  note: member detail page
+- url: https://docs.legis.wisconsin.gov/2025/legislators/senate/2816
+- url: https://en.wikipedia.org/wiki/La_Tonya_Johnson
+- url: https://justfacts.votesmart.org/candidate/biography/140500/latonya-johnson
+- url: https://legis.wisconsin.gov/senate/06/johnson
+- url: https://www.linkedin.com/in/la-tonya-johnson-1a54314a
+extras:
+  website: http://legis.wisconsin.gov/senate/06/johnson
+  extra phone: (877) 474-2000
+  staff1: Lacy Fox
+  staff_email1: Lacy.Fox@legis.wisconsin.gov
+  staff2: Shannon McCoy
+  staff_email2: Shannon.McCoy@legis.wisconsin.gov
+  staff3: Jacob Taylor
+  staff_email3: Jacob.Taylor2@legis.wisconsin.gov
+  staff4: Christian Ullsvik
+  staff_email4: Christian.Ullsvik@legis.wisconsin.gov

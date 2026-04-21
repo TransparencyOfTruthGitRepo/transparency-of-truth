@@ -1,0 +1,34 @@
+id: ocd-person/74fee589-c9e9-4dd7-a719-d9b165b2b2c7
+name: Erica Moore
+given_name: Erica
+family_name: Moore
+birth_date: 1965-01-12
+gender: Female
+email: erica.moore@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/moore_erica.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-11-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '15'
+offices:
+- classification: capitol
+  address: State Capitol Room 209E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3185
+links:
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Moore
+other_names:
+- name: E. Moore
+- name: E.J. Moore
+- name: Moore, E
+- name: Moore, E.
+sources:
+- url: https://ballotpedia.org/Erica_Moore_(West_Virginia)
+- url: https://en.wikipedia.org/wiki/Erica_Moore_(politician)
+- url: https://justfacts.votesmart.org/candidate/212985/erica-moore
+- url: https://www.linkedin.com/in/erica-j-moore-a633b6142
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Moore
+- url: https://www.wvlegislature.gov/House/roster.cfm

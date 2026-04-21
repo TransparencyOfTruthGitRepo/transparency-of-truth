@@ -1,0 +1,77 @@
+id: ocd-organization/3b997f42-35dd-4c20-a1b0-8836250b35cf
+jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+classification: committee
+name: Health and Human Services
+chamber: upper
+sources:
+- url: https://www.legis.ga.gov/api/committees/details/76/1029
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/details/76/1031
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1029
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1031
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/committees/senate/76
+links:
+- url: https://www.legis.ga.gov/committees/senate/76
+  note: homepage
+members:
+- name: Ben Watson
+  role: chair
+  person_id: ocd-person/fd2717f1-6294-4601-a027-8fc41195372c
+- name: Kay Kirkpatrick
+  role: vice chair
+  person_id: ocd-person/fc31ab02-026c-4173-86db-570c0b297c64
+- name: Bill Cowsert
+  role: ex officio
+  person_id: ocd-person/4dc87191-fa52-4c2f-bc9c-8823a8b4c882
+- name: Mike Hodges
+  role: ex officio
+  person_id: ocd-person/011995be-4dd0-43b2-ae75-57ae45f53576
+- name: Randy Robertson
+  role: ex officio
+  person_id: ocd-person/6da7fe11-4436-4854-8e1b-4c45dc4cdaac
+- name: Russ Goodman
+  role: ex officio
+  person_id: ocd-person/b90b899d-87f0-43a5-9d15-6e310187ac41
+- name: Ed Setzler
+  role: secretary
+  person_id: ocd-person/777f58bb-9d6b-4755-ab7b-b94d11629cb5
+- name: Bo Hatchett
+  role: member
+  person_id: ocd-person/60bb96c4-f20c-4918-b88b-d7857341e5f4
+- name: Brian Strickland
+  role: member
+  person_id: ocd-person/3a5721a0-d848-40d0-a48a-66b797e7d7d9
+- name: Chuck Hufstetler
+  role: member
+  person_id: ocd-person/b11d0191-cd84-4a93-add6-ee65494caff2
+- name: David Lucas
+  role: member
+  person_id: ocd-person/4b05e770-4423-4b64-8ae1-9600e8c73244
+- name: Matt Brass
+  role: member
+  person_id: ocd-person/81b84318-8c9f-467f-a7c1-776d9c415f51
+- name: Nan Orrock
+  role: member
+  person_id: ocd-person/bf2c1ec5-d995-4605-85ac-139adb037d99
+- name: Nikki Merritt
+  role: member
+  person_id: ocd-person/57ad1f65-9969-4be2-b262-684bf53123fb
+- name: Randal Mangham
+  role: member
+  person_id: ocd-person/8798a822-fee8-4546-bcdd-455f788bef44
+- name: Sally Harrell
+  role: member
+  person_id: ocd-person/218a4fc4-a568-4b78-b350-0d60c6b12d4c
+- name: Sonya Halpern
+  role: member
+  person_id: ocd-person/2abbbe23-8cb6-4f33-afaf-38ce88a4e10c
+other_names:
+- name: Senate Committee on Health and Human Services
+- name: Senate Health and Human Services
+- name: Senate Health and Human Services Committee
+extras:
+  address: 325-A CLOB  Atlanta, GA 30334
+  phone: '4046567880'

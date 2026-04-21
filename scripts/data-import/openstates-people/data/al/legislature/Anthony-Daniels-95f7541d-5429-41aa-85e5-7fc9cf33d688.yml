@@ -1,0 +1,50 @@
+id: ocd-person/95f7541d-5429-41aa-85e5-7fc9cf33d688
+name: Anthony Daniels
+given_name: Anthony
+family_name: Daniels
+birth_date: 1982-10-05
+gender: Male
+email: anthony.daniels@alhouse.gov
+image: https://www.legislature.state.al.us/pdf/house/members/Daniels_53.png
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '53'
+offices:
+- classification: capitol
+  address: Room 428, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0522
+- classification: district
+  address: 726 Madison St., Huntsville, AL 35801
+  voice: 256-539-5441
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100534&OID_PERSON=7711
+other_names:
+- name: A. Daniels
+- name: A.L. Daniels
+- name: Daniels, A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000156
+- scheme: legacy_openstates
+  identifier: ALL000459
+- scheme: legacy_openstates
+  identifier: ALL000191
+- scheme: legacy_openstates
+  identifier: ALL000512
+sources:
+- url: https://ballotpedia.org/Anthony_Daniels
+- url: https://en.wikipedia.org/wiki/Anthony_Daniels_(politician)
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/149925/anthony-daniels
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Daniels&OID_SPONSOR=100534&OID_PERSON=7711&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100534&OID_PERSON=7711
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+- url: https://www.linkedin.com/in/anthonyldaniels
+extras:
+  counties: Madison County

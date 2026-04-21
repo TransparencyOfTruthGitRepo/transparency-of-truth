@@ -1,0 +1,19 @@
+id: ocd-person/999129a0-13d8-4f45-b487-7c12238a17ec
+name: Francis T. Maher, Jr.
+given_name: Francis T.
+family_name: Maher
+party:
+- name: Republican
+roles:
+- start_date: '2012-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '34'
+links:
+- url: http://webserver.rilin.state.ri.us/Maher/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000034
+sources:
+- url: http://webserver.rilin.state.ri.us/Documents/Senators.xls

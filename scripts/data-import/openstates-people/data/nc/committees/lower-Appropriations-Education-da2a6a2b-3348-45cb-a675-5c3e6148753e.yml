@@ -1,0 +1,48 @@
+id: ocd-organization/da2a6a2b-3348-45cb-a675-5c3e6148753e
+jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+classification: committee
+name: Appropriations, Education
+chamber: lower
+sources:
+- url: https://www.ncleg.gov/committees
+  note: committees list page
+- url: https://www.ncleg.gov/Committees/CommitteeInfo/HouseStanding/7
+  note: committee details page
+links:
+- url: https://www.ncleg.gov/Committees/CommitteeInfo/HouseStanding/7
+  note: homepage
+members:
+- name: Brian Biggs
+  role: chair
+  person_id: ocd-person/c476ab83-c1f7-44a7-b7c9-4cfa4679bed8
+- name: David Willis
+  role: chair
+  person_id: ocd-person/6b06a564-763d-421d-bc9b-4779f4dbc1a4
+- name: Tricia Cotham
+  role: chair
+  person_id: ocd-person/6045737f-cc7a-4cf5-b7e6-12419deed77b
+- name: Hugh Blackwell
+  role: vice chair
+  person_id: ocd-person/f7ffa24f-4c1f-416f-bf1d-30d762d9c6c3
+- name: Cynthia Ball
+  role: member
+  person_id: ocd-person/a5d3d142-3601-429e-954c-fdb98b0e628a
+- name: Lindsey Prather
+  role: member
+  person_id: ocd-person/16a0c907-4efa-45a7-83d2-1c79cc541535
+- name: Monika Johnson-Hostler
+  role: member
+  person_id: ocd-person/018cd1c9-5b84-4f8e-8a1d-6f0326ce1f2f
+- name: Ray Pickett
+  role: member
+  person_id: ocd-person/27cea850-e6f2-4fe8-a02e-26f9867d00f1
+- name: Wyatt Gable
+  role: member
+  person_id: ocd-person/89065b80-ca15-43b3-bbe5-c7bb5e3a3843
+- name: Zack Hawkins
+  role: member
+  person_id: ocd-person/6dea5a89-20c8-4370-94c2-0dac7fe29d77
+other_names:
+- name: House Appropriations, Education
+- name: House Appropriations, Education Committee
+- name: House Committee on Appropriations, Education

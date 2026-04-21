@@ -1,0 +1,40 @@
+id: ocd-person/d09cb270-bb44-44e7-86d6-a880ce40d93d
+name: Greg Hembree
+given_name: Greg
+family_name: Hembree
+birth_date: 1960-08-21
+gender: Male
+email: greghembree@scsenate.gov
+image: https://scstatehouse.gov/images/members/0819318084.jpg
+party:
+- name: Republican
+roles:
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '28'
+offices:
+- classification: capitol
+  address: Room 402, Gressette Building P.O. Box 142, Columbia, SC 29201
+  voice: 803-212-6350
+links:
+- url: https://scstatehouse.gov/member.php?code=0819318084
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=0819318084
+  note: homepage
+other_names:
+- name: G. Hembree
+- name: Hembree, G.
+- name: Hembree, Greg
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000177
+sources:
+- url: https://ballotpedia.org/Greg_Hembree
+- url: https://justfacts.votesmart.org/candidate/139435/greg-hembree
+- url: https://scstatehouse.gov/member.php?chamber=S
+- url: https://scstatehouse.gov/member.php?code=0819318084
+- url: https://www.linkedin.com/in/greg-hembree-64b31632
+- url: https://www.scstatehouse.gov/member.php?chamber=S
+- url: https://www.scstatehouse.gov/member.php?code=0819318084
+extras:
+  counties represented: Dillon & Horry Counties

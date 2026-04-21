@@ -1,0 +1,20 @@
+id: ocd-person/daf0b52a-4ba6-4944-8c48-38a55048f540
+name: David S Robbins
+given_name: David
+family_name: Robbins
+middle_name: S
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 26
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377014
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000321
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members(Asterisk%20Delimited).txt

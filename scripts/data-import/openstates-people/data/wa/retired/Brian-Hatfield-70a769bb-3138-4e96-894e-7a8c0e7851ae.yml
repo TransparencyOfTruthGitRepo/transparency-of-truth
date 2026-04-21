@@ -1,0 +1,21 @@
+id: ocd-person/70a769bb-3138-4e96-894e-7a8c0e7851ae
+name: Brian Hatfield
+given_name: Brian
+family_name: Hatfield
+image: http://www.leg.wa.gov/Senate/Senators/PublishingImages/hatfield.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '19'
+links:
+- url: http://sdc.wastateleg.org/Hatfield/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000016
+sources:
+- url: http://www.leg.wa.gov/senate/senators/Pages/default.aspx
+- url: https://www.nwprogressive.org/weblog/2015/09/brian-hatfield-leaving-washington-state-senate-to-take-job-with-inslee-administration.html

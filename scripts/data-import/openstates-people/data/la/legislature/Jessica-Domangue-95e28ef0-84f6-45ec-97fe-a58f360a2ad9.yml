@@ -1,0 +1,31 @@
+id: ocd-person/95e28ef0-84f6-45ec-97fe-a58f360a2ad9
+name: Jessica Domangue
+given_name: Jessica
+family_name: Domangue
+gender: Female
+email: hse053@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics/rep53.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '53'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 7833 W. Main St., Houma, LA 70360
+  voice: 985-858-2970
+- classification: district-mail
+  address: P.O. Box 2365, Houma, LA 70361
+links:
+- url: https://house.louisiana.gov/H_Reps/members?ID=53
+other_names:
+- name: Domangue, J.
+- name: J. Domangue
+sources:
+- url: https://ballotpedia.org/Jessica_Domangue
+- url: https://house.louisiana.gov/H_Reps/members?ID=53

@@ -1,0 +1,53 @@
+id: ocd-person/20082672-8aa7-4d49-bad7-fe5a92d1720d
+name: Amy Arata
+given_name: Amy
+family_name: Arata
+gender: Female
+email: amy.arata@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/73657768-20f5-4692-8934-16f6b9a3cacd_arata.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '104'
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '104'
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '65'
+offices:
+- classification: capitol
+  address: Room 332, House Republican Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1356
+  note: homepage
+- url: https://mainehousegop.org/members/arata-amy/
+other_names:
+- name: A. Arata
+- name: A.B. Arata
+- name: Amy ARATA
+- name: Amy Bradstreet Arata
+- name: ARATA of New Gloucester
+- name: Arata, A.
+sources:
+- url: https://ballotpedia.org/Amy_Arata
+- url: https://en.wikipedia.org/wiki/Amy_Arata
+- url: https://justfacts.votesmart.org/candidate/biography/176845/amy-arata
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1356
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://mainehousegop.org/members/arata-amy
+- url: https://www.linkedin.com/in/amy-arata-a76b8340
+extras:
+  Seat Number: '22'
+  towns represented:
+  - New Gloucester
+  - Gray (Part)
+  occupation: Business Owner
+  education: Gordon College, University of California Davis

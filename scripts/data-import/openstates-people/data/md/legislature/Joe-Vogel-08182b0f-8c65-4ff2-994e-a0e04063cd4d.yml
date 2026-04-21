@@ -1,0 +1,32 @@
+id: ocd-person/08182b0f-8c65-4ff2-994e-a0e04063cd4d
+name: Joe Vogel
+given_name: Joe
+family_name: Vogel
+birth_date: 1997-01-04
+gender: Male
+email: joe.vogel@house.maryland.gov
+image: https://mgaleg.maryland.gov/2025RS/images/vogel01.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '17'
+offices:
+- classification: capitol
+  address: Room 224, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3103
+  fax: 410-841-3850
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/vogel01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18391.html
+other_names:
+- name: J. Vogel
+- name: Vogel, J.
+sources:
+- url: https://ballotpedia.org/Joe_Vogel
+- url: https://en.wikipedia.org/wiki/Joe_Vogel_(politician)
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/vogel01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18391.html
+- url: https://www.linkedin.com/in/vogeljoe

@@ -1,0 +1,20 @@
+id: ocd-person/5ae67896-6b16-4888-8d31-ce2fc65055fa
+name: Jonathan Miller
+given_name: Jonathan
+family_name: Miller
+image: http://www.legis.state.wv.us/images/members/2012/house/miller_jonathan.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '53'
+links:
+- url: http://www.legis.state.wv.us/House/Members/delmemview1.cfm?input=Delegate+Miller%2C+J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000129
+sources:
+- url: http://www.legis.state.wv.us/House/Members/delmemview1.cfm?input=Delegate+Miller%2C+J.

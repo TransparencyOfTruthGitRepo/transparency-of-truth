@@ -1,0 +1,21 @@
+id: ocd-person/ca34ba17-984d-4716-b3b0-0bff90e29dc1
+name: John J. Binienda
+given_name: John
+family_name: Binienda
+middle_name: J.
+image: https://malegislature.gov/Images/MemberProfile/Web/jbinienda.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 17th Worcester
+links:
+- url: http://www.malegislature.gov/People/Profile/JJB1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000055
+sources:
+- url: http://www.malegislature.gov/People/Profile/JJB1

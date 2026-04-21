@@ -1,0 +1,19 @@
+id: ocd-person/63f11bc0-1dbb-48c3-a2ec-635cf7f25a84
+name: Paul P. Dargie
+email: Paul.Dargie@leg.state.nh.us
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 23
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408957
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+extras:
+  first_name: Paul
+  last_name: Dargie
+  middle_name: P.

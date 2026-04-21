@@ -1,0 +1,17 @@
+id: ocd-person/fb774e66-35d6-4756-ab21-a707d9281106
+name: Al Juhnke
+given_name: Al
+family_name: Juhnke
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 13B
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000093
+sources:
+- url: http://www.house.leg.state.mn.us/members/meminfo.xls

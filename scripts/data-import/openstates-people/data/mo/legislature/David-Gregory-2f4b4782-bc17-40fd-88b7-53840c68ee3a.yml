@@ -1,0 +1,48 @@
+id: ocd-person/2f4b4782-bc17-40fd-88b7-53840c68ee3a
+name: David Gregory
+given_name: David
+family_name: Gregory
+gender: Male
+email: david.gregory@senate.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=1943
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '15'
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '96'
+offices:
+- classification: capitol
+  address: Room 331, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-5568
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=096
+- url: https://senate.mo.gov/Senators/Member/15
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=96
+- url: https://www.senate.mo.gov/Senators/Member?id=6371
+other_names:
+- name: D. Gregory
+- name: D.J. Gregory
+- name: Gregory (15)
+- name: Gregory, D.
+- name: Gregory, David
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MOL000459
+sources:
+- url: https://ballotpedia.org/David_Gregory
+- url: https://en.wikipedia.org/wiki/David_Gregory_(politician)
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=096
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://senate.mo.gov/Senators/Member/15
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=96
+- url: https://www.linkedin.com/in/david-gregory-86ab511aa
+- url: https://www.senate.mo.gov/Senators/Member?id=6371
+extras:
+  first_name: David
+  last_name: Gregory

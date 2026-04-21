@@ -1,0 +1,69 @@
+id: ocd-person/e9792114-e077-4663-96c4-94d679c66ace
+name: Mike Petersen
+given_name: Mike
+family_name: Petersen
+gender: Male
+email: mpetersen@le.utah.gov
+image: https://le.utah.gov/images/legislator/PETERM.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '2'
+- start_date: 2021-01-01
+  end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '3'
+offices:
+- classification: capitol
+  address: P.O. Box 145030 350 N. State St., Suite 350, Salt Lake City, UT 84114
+  voice: 801-538-1029
+- classification: district
+  address: UT
+  voice: 435-770-6925
+links:
+- url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415376
+  note: finance report
+- url: https://house.utah.gov/rep/PETERM
+- url: https://house.utah.gov/rep/PETERM/
+  note: homepage
+- url: https://house.utleg.gov/rep/PETERM/
+- url: https://le.utah.gov/asp/billsintro/RepResults.asp?Listbox3=PETERM
+  note: legislation
+- url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=PETERM
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2020/House_Dist03.pdf
+  note: district demographics
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/House_Dist02.pdf
+  note: district demographics
+other_names:
+- name: M. Petersen
+- name: M.J. Petersen
+- name: Michael J. Petersen
+- name: Mike J. Petersen
+- name: Mike Petersen
+- name: Petersen, M.
+- name: Petersen, Michael J.
+- name: Petersen, Mike
+- name: Petersen, Mike J.
+sources:
+- url: https://ballotpedia.org/Mike_Petersen_(Utah)
+- url: https://en.wikipedia.org/wiki/Mike_Petersen_(Utah_politician)
+- url: https://house.utah.gov/rep/PETERM
+- url: https://house.utah.gov/rep/PETERM/
+- url: https://house.utleg.gov/rep/PETERM
+- url: https://house.utleg.gov/rep/PETERM/
+- url: https://justfacts.votesmart.org/candidate/biography/192260/michael-petersen
+- url: https://le.utah.gov/data/legislators.json
+- url: https://www.linkedin.com/in/mike-petersen-phd-0b401a4
+extras:
+  service start: January 1, 2021
+  profession: Instructional Designer/Consultant
+  education: BS Psychology (BYU); MEd Counseling Psychology (BYU); PhD Instructional
+    Technology (USU)
+  counties represented:
+  - Cache
+  cell phone: 435-770-6925

@@ -1,0 +1,29 @@
+id: ocd-person/e10fd5d3-64c4-485a-89b3-69a70c63f199
+name: Brian M. Greene
+given_name: Brian
+family_name: Greene
+image: https://le.utah.gov/images/legislator/GREENBM.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '57'
+links:
+- url: http://house.utah.gov/rep/GREENBM
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: UTL000136
+- scheme: legacy_openstates
+  identifier: UTL000207
+sources:
+- url: http://le.utah.gov/data/legislators.json
+extras:
+  links:
+  - https://le.utah.gov/house2/CofI/COFIGREENBM.pdf
+  - http://le.utah.gov/house2/CofI/GREENBM1.pdf
+  - http://le.utah.gov/house2/CofI/bgreene2.pdf
+  - http://le.utah.gov/house2/CofI/bgreene.pdf
+  - http://le.utah.gov/house2/CofI/GREENBM.pdf
+  - http://www.disclosures.utah.gov/Search/PublicSearch/FolderDetails/1411374

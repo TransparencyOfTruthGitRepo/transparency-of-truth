@@ -1,0 +1,46 @@
+id: ocd-person/bfb76f36-00b6-47da-89da-e1db5421ff55
+name: Val Lawson
+given_name: Val
+family_name: Lawson
+birth_date: 1966-08-14
+gender: Female
+email: sen-lawson@rilegislature.gov
+image: https://www.rilegislature.gov/LegislationPictures/valarie_lawson.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '14'
+offices:
+- classification: capitol
+  address: Room 316, 82 Smith St., Providence, RI 02903
+  voice: 401-222-4901
+links:
+- url: https://www.rilegislature.gov/senators/algiere/default.aspx
+- url: https://www.rilegislature.gov/senators/Lawson/default.aspx
+- url: https://www.rilegislature.gov/senators/lawson/Pages/Biography.aspx
+- url: https://www.rilin.state.ri.us/senators/Algiere/
+other_names:
+- name: Lawson
+- name: Lawson, V.
+- name: V. Lawson
+- name: V.J. Lawson
+- name: Valarie J. Lawson
+sources:
+- url: https://ballotpedia.org/Valarie_Lawson
+- url: https://en.wikipedia.org/wiki/Valarie_Lawson
+- url: https://webserver.rilegislature.gov/Email/SenEmailListDistrict.asp
+- url: https://webserver.rilin.state.ri.us/Email/SenEmailListDistrict.asp
+- url: https://www.rilegislature.gov/senators/Lawson/default.aspx
+- url: https://www.rilegislature.gov/senators/lawson/default.aspx
+- url: https://www.rilegislature.gov/senators/lawson/Pages/Biography.aspx
+  note: Image Source
+- url: https://www.rilegislature.gov/SiteAssets/MailingLists/Representatives.xls
+- url: https://www.rilegislature.gov/SiteAssets/Representatives.xls
+  note: Detail Excel Source
+- url: https://www.rilin.state.ri.us/senators/Lawson
+- url: https://www.rilin.state.ri.us/senators/Lawson/
+extras:
+  City/Town Represented: Cranston, Providence

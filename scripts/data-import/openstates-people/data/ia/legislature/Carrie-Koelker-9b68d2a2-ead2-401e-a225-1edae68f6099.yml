@@ -1,0 +1,44 @@
+id: ocd-person/9b68d2a2-ead2-401e-a225-1edae68f6099
+name: Carrie Koelker
+given_name: Carrie
+family_name: Koelker
+gender: Female
+email: carrie.koelker@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27001
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '33'
+- end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '29'
+offices:
+- classification: capitol
+  address: 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3371
+links:
+- url: https://www.iowasenaterepublicans.com/senators/carrie-koelker/
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=27001
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=27001
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=27001
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=27001
+other_names:
+- name: C. Koelker
+- name: C.L. Koelker
+- name: Koelker, C.
+sources:
+- url: https://ballotpedia.org/Carrie_Koelker
+- url: https://en.wikipedia.org/wiki/Carrie_Koelker
+- url: https://justfacts.votesmart.org/candidate/biography/180162/carrie-koelker
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=27001
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=27001
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=27001
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=27001
+- url: https://www.legis.iowa.gov/legislators/senate
+- url: https://www.linkedin.com/in/carrie-koelker-3361541b
+extras:
+  occupation: Tourism/Economic Development

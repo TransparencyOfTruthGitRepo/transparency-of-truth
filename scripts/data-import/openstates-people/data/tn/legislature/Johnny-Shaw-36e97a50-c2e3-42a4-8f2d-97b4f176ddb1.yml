@@ -1,0 +1,55 @@
+id: ocd-person/36e97a50-c2e3-42a4-8f2d-97b4f176ddb1
+name: Johnny Shaw
+given_name: Johnny
+family_name: Shaw
+birth_date: 1942-01-05
+gender: Male
+email: rep.johnny.shaw@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h80.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2000-11-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '80'
+offices:
+- classification: capitol
+  address: Room 570, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-4538
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H80
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H80
+- url: https://www.capitol.tn.gov/house/members/h80.html
+other_names:
+- name: J. Shaw
+- name: Shaw, J
+- name: Shaw, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000112
+- scheme: legacy_openstates
+  identifier: TNL000242
+- scheme: legacy_openstates
+  identifier: TNL000301
+- scheme: legacy_openstates
+  identifier: TNL000357
+sources:
+- url: https://ballotpedia.org/Johnny_Shaw
+- url: https://en.wikipedia.org/wiki/Johnny_Shaw
+- url: https://justfacts.votesmart.org/candidate/biography/48857/johnny-shaw
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H80
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H80
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h80.html
+extras:
+  office: 570 CHB
+  personal info:
+  - Born January 5, Laconia, TN
+  - Married, five children
+  - Theology A.S., American Baptist College, Jackson, TN Campus
+  - Businessman/Minister

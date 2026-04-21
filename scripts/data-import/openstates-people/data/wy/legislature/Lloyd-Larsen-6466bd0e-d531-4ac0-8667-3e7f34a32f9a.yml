@@ -1,0 +1,61 @@
+id: ocd-person/6466bd0e-d531-4ac0-8667-3e7f34a32f9a
+name: Lloyd Larsen
+given_name: Lloyd
+family_name: Larsen
+gender: Male
+email: lloyd.larsen@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-LarsenLloyd.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '54'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district
+  address: 1076 S. 2nd St., Lander, WY 82520
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/H/1988
+- url: https://www.wyoleg.gov/Legislators/2025/H/1988
+- url: https://wyoleg.gov/Legislators/2019/R/1988
+- url: https://wyoleg.gov/Legislators/2021/R/1988
+other_names:
+- name: L. Larsen
+- name: L.C. Larsen
+- name: Larsen, L
+- name: Larsen, L.
+- name: Lloyd
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000104
+sources:
+- url: https://ballotpedia.org/Lloyd_Charles_Larsen
+- url: https://en.wikipedia.org/wiki/Lloyd_Larsen
+- url: https://justfacts.votesmart.org/candidate/biography/140069/lloyd-larsen
+- url: https://www.linkedin.com/in/lloyd-larsen-ab29647
+- url: https://www.wyoleg.gov/Legislators/2023/H/1988
+- url: https://www.wyoleg.gov/Legislators/2025/H/1988
+- url: https://wyoleg.gov/Legislators/2019/R/1988
+- url: https://wyoleg.gov/Legislators/2021/R/1988
+- url: https://wyoleg.gov/LsoService/api/legislator/1988
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
+extras:
+  county: Fremont County
+  religion: LDS
+  spouse name: Becky
+  number of children: '6'
+  number of grandchildren: '15'
+  birth place: Monticello, UT
+  occupation: Oil and Gas Construction
+  organizations:
+  - orgname: NRA
+  house years: 'House:  2013-Present'
+  prior service:
+  - chamber: House
+    startYear: 2013
+    endYear: Present
+    district: ' District 54, '

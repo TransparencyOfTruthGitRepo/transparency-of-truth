@@ -1,0 +1,37 @@
+id: ocd-organization/690a3fb5-41c1-4bc8-b8f5-d6a095bbe49b
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Public Property
+chamber: upper
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: homepage
+members:
+- name: Jason Barrett
+  role: chair
+  person_id: ocd-person/c664f98f-0d57-4d32-abf1-a95dcec7fa31
+- name: Albert Butler
+  role: vice chair
+  person_id: ocd-person/c012fed5-c753-4a01-9c3c-9924d178c24d
+- name: Bart Williams
+  role: member
+  person_id: ocd-person/5f65f3a3-db2a-4573-a5c8-59b6cc0dbf40
+- name: Bradford Blackmon
+  role: member
+  person_id: ocd-person/3b2b3cb2-3ef8-400d-b395-6b0895ea7631
+- name: Hob Bryan
+  role: member
+  person_id: ocd-person/717de4df-c8b0-4387-a767-4d37b577f370
+- name: Mike Seymour
+  role: member
+  person_id: ocd-person/70b45762-64ee-4a16-b15a-194e4e3c9bf6
+- name: Philman Ladner
+  role: member
+  person_id: ocd-person/7aef9236-de61-47cf-8243-b5a21fcac9dc
+other_names:
+- name: Senate Committee on Public Property
+- name: Senate Public Property
+- name: Senate Public Property Committee

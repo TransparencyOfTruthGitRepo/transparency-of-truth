@@ -1,0 +1,51 @@
+id: ocd-person/c40abbd9-220c-4081-9ad8-9559c10f9aae
+name: Ted Gorski
+given_name: Ted
+family_name: Gorski
+gender: Male
+email: ted.gorski@gc.nh.gov
+image: https://www.tedgorski.com/wp-content/uploads/sites/23/2020/08/ted-gorski-featured.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 2
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 2
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 7
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9898
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9898
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9898
+  note: member detail page
+other_names:
+- name: Gorski, T.
+- name: T. Gorski
+- name: Theodore Gorski
+sources:
+- url: https://ballotpedia.org/Ted_Gorski
+- url: https://en.wikipedia.org/wiki/Ted_Gorski
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9898
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9898
+- url: https://justfacts.votesmart.org/candidate/biography/194995/ted-gorski
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9898
+- url: https://www.linkedin.com/in/theodoregorski
+extras:
+  county: Hillsborough
+  elected status: Incumbent
+  gender code: M

@@ -1,0 +1,24 @@
+id: ocd-person/7fc8d416-593d-4fc3-bcb0-27d8941b4c92
+name: Kate D. Campanale
+given_name: Kate
+family_name: Campanale
+image: https://malegislature.gov/Legislators/Profile/170/KDC1.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2015-01-07'
+  end_date: '2019-01-02'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 17th Worcester
+links:
+- url: https://malegislature.gov/Legislators/Profile/KDC1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000358
+- scheme: legacy_openstates
+  identifier: MAL000430
+- scheme: openstates
+  identifier: ocd-person/6c334ded-75f7-4850-b727-0f9081125a18
+sources:
+- url: https://malegislature.gov/Legislators/Profile/KDC1

@@ -1,0 +1,28 @@
+id: ocd-person/4e998af9-35f0-457c-8f37-b2fdaa914dbd
+name: Dennis Nehring
+given_name: Dennis
+family_name: Nehring
+gender: Male
+email: denehring@ndlegis.gov
+party:
+- name: Republican
+roles:
+- start_date: 2024-05-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '23'
+offices:
+- classification: capitol
+  address: State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505
+- classification: district-mail
+  address: ND
+  voice: 701-875-4257
+links:
+- url: https://ndlegis.gov/biography/dennis-nehring
+other_names:
+- name: D. Nehring
+- name: Nehring, D.
+sources:
+- url: https://ballotpedia.org/Dennis_Nehring
+- url: https://en.wikipedia.org/wiki/Dennis_Nehring
+- url: https://ndlegis.gov/biography/dennis-nehring

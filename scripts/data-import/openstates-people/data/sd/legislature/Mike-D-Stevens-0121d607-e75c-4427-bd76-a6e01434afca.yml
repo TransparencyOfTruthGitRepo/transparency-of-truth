@@ -1,0 +1,43 @@
+id: ocd-person/0121d607-e75c-4427-bd76-a6e01434afca
+name: Mike Stevens
+given_name: Mike
+family_name: Stevens
+birth_date: 1953-01-24
+gender: Male
+email: mike.stevens@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/STEVENS_2017.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '18'
+- start_date: 2013-01-11
+  end_date: 2019-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '18'
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/3790/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4421/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4671/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4823/Detail
+other_names:
+- name: M. Stevens
+- name: Mike D. Stevens
+- name: Mike Stevens
+- name: Stevens, M.
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/29551e1b-d2f9-405b-9353-b15b6c85aa5a
+sources:
+- url: https://ballotpedia.org/Mike_Stevens_(South_Dakota)
+- url: https://en.wikipedia.org/wiki/Mike_Stevens_%28South_Dakota_politician%29
+- url: https://justfacts.votesmart.org/candidate/biography/137892/mike-stevens
+- url: https://sdlegislature.gov/Legislators/Profile/3790/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4421/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4671/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4823/Detail
+extras:
+  occupation: Attorney

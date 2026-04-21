@@ -1,0 +1,20 @@
+id: ocd-person/48979856-63c1-4564-adc9-820ba1158760
+name: Kelda Helen Roys
+given_name: Kelda Helen
+family_name: Roys
+image: http://legis.wisconsin.gov//Assembly/asm81/asm81.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '81'
+links:
+- url: http://legis.wi.gov/w3asp/contact/legislatorpages.aspx?house=Assembly&district=81
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000415
+sources:
+- url: http://legis.wi.gov/w3asp/contact/legislatorpages.aspx?house=Assembly&district=81

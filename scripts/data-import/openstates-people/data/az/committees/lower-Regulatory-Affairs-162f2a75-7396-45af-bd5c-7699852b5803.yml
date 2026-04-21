@@ -1,0 +1,43 @@
+id: ocd-organization/162f2a75-7396-45af-bd5c-7699852b5803
+jurisdiction: ocd-jurisdiction/country:us/state:az/government
+classification: committee
+name: Regulatory Oversight
+chamber: lower
+sources:
+- url: https://apps.azleg.gov/api/Committee/?sessionId=127&includeMembers=true
+- url: https://apps.azleg.gov/api/Committee/?sessionId=128&includeMembers=true
+  note: API with all committee details
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2237&sessionId=129
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView?SessionID=128
+links:
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2237&sessionId=129
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView?SessionID=128
+  note: homepage
+- url: https://www.azleg.gov/standing-committees/?committeeId=2014
+members:
+- name: Alex Kolodin
+  role: vice chair
+  person_id: ocd-person/102ffcb1-3028-401f-b74f-6f45db25e05e
+- name: Consuelo Hernandez
+  role: member
+  person_id: ocd-person/0a4e4b0a-a16e-475b-8aa1-75088657d8c1
+- name: Lupe Contreras
+  role: member
+  person_id: ocd-person/095a6754-d7ca-4f1f-b562-974d92e7eb3c
+- name: Rachel Keshel
+  role: member
+  person_id: ocd-person/11b313a8-0f20-4d81-8060-4ec7e65f1a29
+other_names:
+- name: Committee on Regulatory Affairs
+- name: House Committee on Regulatory Affairs
+- name: House Committee on Regulatory Oversight
+- name: House Regulatory Affairs
+- name: House Regulatory Affairs Committee
+- name: House Regulatory Oversight
+- name: House Regulatory Oversight Committee
+- name: Regulatory Affairs
+- name: Regulatory Affairs Committee
+extras:
+  Committee ID: 2014
+  Committee Short Name: RA
+  Committee Type: Standing

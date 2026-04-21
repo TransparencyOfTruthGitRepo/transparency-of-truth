@@ -1,0 +1,36 @@
+id: ocd-person/ad111cf3-f5f9-4e94-a087-dc39ce1fb136
+name: Kristin Bahner
+given_name: Kristin
+family_name: Bahner
+birth_date: 1972-08-15
+gender: Female
+email: rep.kristin.bahner@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/37B.gif
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 37B
+- start_date: 2019-01-08
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 34B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-5502
+links:
+- url: https://www.house.mn.gov/members/profile/15505
+other_names:
+- name: Bahner, K.
+- name: K. Bahner
+sources:
+- url: https://ballotpedia.org/Kristin_Bahner
+- url: https://en.wikipedia.org/wiki/Kristin_Bahner
+- url: https://justfacts.votesmart.org/candidate/biography/171548/kristin-bahner
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15505
+- url: https://www.linkedin.com/in/kristinbahner

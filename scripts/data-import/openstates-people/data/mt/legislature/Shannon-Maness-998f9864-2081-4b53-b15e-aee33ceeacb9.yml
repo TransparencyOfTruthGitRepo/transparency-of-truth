@@ -1,0 +1,33 @@
+id: ocd-person/998f9864-2081-4b53-b15e-aee33ceeacb9
+name: Shannon Maness
+given_name: Shannon
+family_name: Maness
+gender: Male
+email: shannon.maness@legmt.gov
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '70'
+offices:
+- classification: capitol
+  address: Capitol Building, 1301 E. 6th Ave. P.O. Box 200400, Helena, MT 59620
+  voice: 406-444-4800
+- classification: district-mail
+  address: P.O. Box 701, Dillon, MT 59725
+  voice: 406-925-3604
+links:
+- url: https://legislators.legmt.gov/#/legislator/158
+- url: https://www.legmt.gov/legislators/1290/
+other_names:
+- name: Maness, S.
+- name: Maness, Shannon
+- name: Rep Elect Shannon Maness
+- name: S. Maness
+sources:
+- url: https://ballotpedia.org/Shannon_Maness
+- url: https://en.wikipedia.org/wiki/Shannon_Maness
+- url: https://legislators.legmt.gov/#/legislator/158
+- url: https://www.legmt.gov/legislators/1290

@@ -1,0 +1,56 @@
+id: ocd-person/8f76af22-98dc-4e1e-ba99-75b87c1129d6
+name: Devan Seabaugh
+given_name: Devan
+family_name: Seabaugh
+birth_date: 1965-06-27
+gender: Male
+email: devan.seabaugh@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/seabaugh-devan-5009.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-07-21
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '34'
+offices:
+- classification: capitol
+  address: State Capitol Room 109, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-651-7737
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5009
+- url: https://www.legis.ga.gov/members/house/5009?session=1031
+  note: HTML member detail page
+other_names:
+- name: D. Seabaugh
+- name: D.L. Seabaugh
+- name: SEABAUGH, 34TH
+- name: Seabaugh, D.
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/408d7fb4-2898-4000-8d8f-f069ad239258
+sources:
+- url: https://ballotpedia.org/Devan_Seabaugh
+- url: https://en.wikipedia.org/wiki/Devan_Seabaugh
+- url: https://justfacts.votesmart.org/candidate/biography/196271/devan-seabaugh
+- url: https://www.legis.ga.gov/api/members/detail/5009?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/5009?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5009
+- url: https://www.legis.ga.gov/members/house/5009?session=1029
+  note: Initial list page (requires authorization token)
+- url: https://www.linkedin.com/in/devan-seabaugh-5498251
+extras:
+  residence: Marietta
+  city: Marietta
+  georgia_id: 5009
+  occupation: Healthcare - Emergency Medical Services
+  press: https://house-press.com/representative/Devan-Seabaugh
+  spouse: Elizabeth
+  staff: Shakirah Nash - Administrative Assistant
+  staff email: shakirah.nash@house.ga.gov

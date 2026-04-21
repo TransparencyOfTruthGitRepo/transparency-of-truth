@@ -1,0 +1,35 @@
+id: ocd-person/824532f7-8dc9-4a1a-a7b3-16b2d0e78941
+name: Estela Reyes
+given_name: Estela
+family_name: Reyes
+gender: Female
+email: estela.reyes@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/EAR1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 4th Essex
+offices:
+- classification: capitol
+  address: Room 156, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2240
+links:
+- url: https://malegislature.gov/Legislators/Profile/EAR1
+other_names:
+- name: E. Reyes
+- name: E.A. Reyes
+- name: Estela A. Reyes
+- name: Reyes, E.
+sources:
+- url: https://ballotpedia.org/Estela_Reyes
+- url: https://en.wikipedia.org/wiki/Estela_Reyes
+- url: https://justfacts.votesmart.org/candidate/biography/148762/estela-reyes
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/EAR1
+- url: https://malegislature.gov/Legislators/Profile/EAR1
+extras:
+  member code: EAR1

@@ -1,0 +1,24 @@
+id: ocd-person/26a7e6f6-f5f9-4f8d-9c62-2c11f0963e9c
+name: Robert L. Hedlund
+given_name: Robert
+family_name: Hedlund
+middle_name: L.
+image: https://malegislature.gov/Images/MemberProfile/Web/rhedlund.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Plymouth and Norfolk
+links:
+- url: http://www.malegislature.gov/People/Profile/RLH0
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000018
+- scheme: legacy_openstates
+  identifier: MAL000255
+sources:
+- url: http://www.malegislature.gov/People/Profile/RLH0
+- url: http://www.metrowestdailynews.com/article/20151224/NEWS/151227712

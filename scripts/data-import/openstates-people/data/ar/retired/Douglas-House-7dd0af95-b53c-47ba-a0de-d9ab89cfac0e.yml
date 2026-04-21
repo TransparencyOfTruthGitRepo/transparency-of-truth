@@ -1,0 +1,22 @@
+id: ocd-person/7dd0af95-b53c-47ba-a0de-d9ab89cfac0e
+name: Douglas House
+given_name: Douglas
+family_name: House
+email: housedouglas@gmail.com
+image: http://www.arkleg.state.ar.us/Content/photos/House/446_sm.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '40'
+links:
+- url: http://www.arkleg.state.ar.us/Legislators/Detail?member=House&ddBienniumSession=2019%2F2020F
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ARL000195
+sources:
+- url: http://www.arkleg.state.ar.us/Legislators/Detail?member=House&ddBienniumSession=2019%2F2020F
+extras:
+  occupation: Retired Colonel US Army, Attorney

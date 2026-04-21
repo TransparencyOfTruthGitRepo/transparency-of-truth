@@ -1,0 +1,40 @@
+id: ocd-person/65617e1a-1834-4ec8-9f19-4ac801ce9764
+name: Mindy Domb
+given_name: Mindy
+family_name: Domb
+gender: Female
+email: mindy.domb@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/M_D2.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 3rd Hampshire
+offices:
+- classification: capitol
+  address: Room 33, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2060
+- classification: district
+  address: MA
+  voice: 413-335-1362
+links:
+- url: https://malegislature.gov/Legislators/Profile/M_D2
+other_names:
+- name: Domb, M.
+- name: M. Domb
+sources:
+- url: https://ballotpedia.org/Mindy_Domb
+- url: https://en.wikipedia.org/wiki/Mindy_Domb
+- url: https://justfacts.votesmart.org/candidate/biography/184695/mindy-domb
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/M_D2
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/M_D2
+- url: https://malegislature.gov/Legislators/Profile/M_D2
+- url: https://www.linkedin.com/in/mindydomb
+extras:
+  member code: M_D2

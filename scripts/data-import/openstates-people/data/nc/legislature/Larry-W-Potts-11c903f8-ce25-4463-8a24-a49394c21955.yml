@@ -1,0 +1,50 @@
+id: ocd-person/11c903f8-ce25-4463-8a24-a49394c21955
+name: Larry Potts
+given_name: Larry
+family_name: Potts
+birth_date: 1948-09-14
+gender: Male
+email: larry.potts@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/724/Low
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '81'
+offices:
+- classification: capitol
+  address: Room 307B1, Legislative Office Building 300 N. Salisbury St., Raleigh,
+    NC 27603
+  voice: 919-715-0873
+- classification: district-mail
+  address: 373 Waitman Road, Lexington, NC 27295
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/724
+- url: https://www.ncleg.gov/Members/Committees/H/724
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/724
+- url: https://www.ncleg.gov/Members/Votes/H/724
+other_names:
+- name: L. Potts
+- name: L.W. Potts
+- name: Larry W. Potts
+- name: Potts, L.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000390
+sources:
+- url: https://ballotpedia.org/Larry_Potts
+- url: https://en.wikipedia.org/wiki/Larry_Potts
+- url: https://justfacts.votesmart.org/candidate/biography/41531/larry-potts
+- url: https://larrywpotts.com/bio
+- url: https://www.ncleg.gov/Members/Biography/H/724
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 300 N. Salisbury Street, Rm. 307B1; Raleigh, NC 27603-5925
+  terms in senate: 4 (0 in Senate)
+  represented counties: Davidson
+  legislative assistant: Caroline David
+  legislative assistant email: Caroline.David@ncleg.gov
+  occupation: Real Estate Investor; Building Contractor
+  military experience: US Air Force, 1966-1970

@@ -1,0 +1,24 @@
+id: ocd-person/03892a35-2340-487b-8630-6bfd5c4bee9a
+name: Isaac Latterell
+given_name: Isaac
+family_name: Latterell
+email: Isaac.Latterell@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Latterell_2017.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '6'
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1483&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1556&Session=2019
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000183
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1483&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1556&Session=2019
+extras:
+  occupation: Technology Consultant

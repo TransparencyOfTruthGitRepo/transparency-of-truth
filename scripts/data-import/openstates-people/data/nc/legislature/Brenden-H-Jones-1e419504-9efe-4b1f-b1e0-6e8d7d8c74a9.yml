@@ -1,0 +1,46 @@
+id: ocd-person/1e419504-9efe-4b1f-b1e0-6e8d7d8c74a9
+name: Brenden Jones
+given_name: Brenden
+family_name: Jones
+gender: Male
+email: brenden.jones@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/723/Low
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '46'
+offices:
+- classification: capitol
+  address: Room 301F, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-733-5821
+- classification: district-mail
+  address: P.O. Box 1, Tabor City, NC 28463
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/723
+- url: https://www.ncleg.gov/Members/Committees/H/723
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/723
+- url: https://www.ncleg.gov/Members/Votes/H/723
+other_names:
+- name: B. Jones
+- name: B.H. Jones
+- name: Brenden H. Jones
+- name: Jones, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000386
+sources:
+- url: https://ballotpedia.org/Brenden_Jones
+- url: https://www.linkedin.com/in/brenden-jones-9a493441
+- url: https://www.ncleg.gov/Members/Biography/H/723
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 16 West Jones Street, Rm. 1227; Raleigh, NC 27601-1096
+  terms in senate: 4 (0 in Senate)
+  represented counties: Columbus, Robeson
+  legislative assistant: Christian Rape
+  legislative assistant email: Christian.Rape@ncleg.gov
+  occupation: Small Business Owner

@@ -1,0 +1,51 @@
+id: ocd-person/9aae937c-2a6d-4654-a18e-d76e1b379e51
+name: Russ Dumais
+given_name: Russ
+family_name: Dumais
+gender: Male
+email: russell.dumais@gc.nh.gov
+image: https://bloximages.newyork1.vip.townnews.com/laconiadailysun.com/content/tncms/assets/v3/editorial/3/33/3330e0b6-5949-11ed-9877-0b2d40bf1fa8/636012e676cdb.image.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Belknap 6
+- end_date: 2016-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Belknap 6
+  start_date: 2022-12-07
+- start_date: 2015-01-01
+  end_date: 2016-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Belknap 2
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=377221
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377221
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=807
+  note: member detail page
+other_names:
+- name: Dumais, R.
+- name: R. Dumais
+- name: Russell Dumais
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001166
+sources:
+- url: https://ballotpedia.org/Russell_Dumais
+- url: https://en.wikipedia.org/wiki/Russell_Dumais
+- url: https://gc.nh.gov/house/members/member.aspx?member=377221
+- url: https://justfacts.votesmart.org/candidate/biography/154398/russell-dumais
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377221
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=807
+extras:
+  county: Belknap
+  elected status: new
+  gender code: M

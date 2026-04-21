@@ -1,0 +1,21 @@
+id: ocd-person/807d5302-2dfe-478b-8f64-d633e3cde795
+name: David E. Yancey
+given_name: David E.
+family_name: Yancey
+gender: Male
+image: http://memdata.virginiageneralassembly.gov/images/display_image/H0248
+party:
+- name: Republican
+roles:
+- end_date: '2019-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '94'
+links:
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H248
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000170
+sources:
+- url: http://lis.virginia.gov/191/mbr/MBR.HTM
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H248

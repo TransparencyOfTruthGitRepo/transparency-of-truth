@@ -1,0 +1,39 @@
+id: ocd-person/1fa69460-c910-4cf1-acfb-1d44c342e658
+name: Shea Backus
+given_name: Shea
+family_name: Backus
+gender: Female
+email: shea.backus@asm.state.nv.us
+image: http://www.leg.state.nv.us/Session/36th2025Special/legislators/Assembly/Images/Backus.Shea.368.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '37'
+- start_date: 2018-11-07
+  end_date: 2020-11-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '37'
+offices:
+- classification: capitol
+  address: Room 4109, Nevada Assembly 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-8505
+- classification: district
+  address: Room 348, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/37
+  note: homepage
+other_names:
+- name: Backus, S.
+- name: Backus, Shea
+- name: S. Backus
+- name: S.A. Backus
+sources:
+- url: https://ballotpedia.org/Shea_Backus
+- url: https://en.wikipedia.org/wiki/Shea_Backus
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/37
+- url: https://www.linkedin.com/in/shea-backus-7369231b

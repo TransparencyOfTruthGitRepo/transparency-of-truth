@@ -1,0 +1,37 @@
+id: ocd-person/c138ec96-0a6f-4dee-be06-be286b68cfbb
+name: Tawna Sanchez
+given_name: Tawna
+family_name: Sanchez
+gender: Female
+email: rep.tawnasanchez@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/sanchez/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '43'
+offices:
+- classification: capitol
+  address: Room H-273, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1443
+links:
+- url: https://www.oregonlegislature.gov/sanchez
+  note: homepage
+other_names:
+- name: Sanchez, T.
+- name: T. Sanchez
+- name: T.D. Sanchez
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000383
+- scheme: legacy_openstates
+  identifier: ORL000395
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Tawna_Sanchez
+- url: https://en.wikipedia.org/wiki/Tawna_Sanchez
+- url: https://www.linkedin.com/in/tawna-sanchez-440aa2b
+- url: https://www.oregonlegislature.gov/sanchez

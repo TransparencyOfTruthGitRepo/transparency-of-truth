@@ -1,0 +1,58 @@
+id: ocd-person/18127660-d04e-43c2-b931-084f0c87142c
+name: Gene Yaw
+given_name: Gene
+family_name: Yaw
+birth_date: 1943-02-26
+gender: Male
+email: gyaw@pasen.gov
+image: https://www.legis.state.pa.us/images/members/200/1186.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2009-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '23'
+offices:
+- classification: capitol
+  address: Room 362, Main Capitol Senate Box 203023, Harrisburg, PA 17120
+  voice: 717-787-3280
+- classification: district
+  address: 175 Pine St. Suite 105, Williamsport, PA 17701
+  voice: 570-322-6457
+- classification: district
+  address: 5 Main St., Wellsboro, PA 16901
+  voice: 570-724-5231
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1186
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.palegis.us/senate/members/bio/1186/sen-yaw
+- url: https://www.senatorgeneyaw.com/
+other_names:
+- name: E.E. Yaw
+- name: G. Yaw
+- name: Yaw, G.
+ids:
+  twitter: SenatorGeneYaw
+  youtube: UCfLs1ZD65qG1wGNc7xB9PBg
+  instagram: senatoryaw
+  facebook: SenatorGeneYaw
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000050
+- scheme: legacy_openstates
+  identifier: PAL000325
+sources:
+- url: https://ballotpedia.org/Gene_Yaw
+- url: https://en.wikipedia.org/wiki/Eugene_Yaw
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=S&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1186
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.palegis.us/senate/members/bio/1186/sen-yaw
+- url: https://www.senatorgeneyaw.com
+extras:
+  website: http://senatorgeneyaw.com
+  Education:
+  - Bucknell University 1961-63; graduated Lycoming College, B.A., 1970; American
+    University School of Law, J.D., 1973

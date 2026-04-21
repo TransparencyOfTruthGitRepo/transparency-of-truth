@@ -1,0 +1,48 @@
+id: ocd-person/025cca94-9d25-4bba-8a1b-6a70aa954451
+name: Holly J. Mitchell
+given_name: Holly
+family_name: Mitchell
+gender: Female
+image: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mitchell-holly.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2010-12-06
+  end_date: 2012-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/government
+  district: '47'
+- start_date: 2012-12-03
+  end_date: 2013-09-27
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/government
+  district: '54'
+- start_date: 2013-09-27
+  end_date: 2014-11-30
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/government
+  district: '26'
+- start_date: 2014-12-01
+  end_date: '2020-12-06'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/government
+  district: '30'
+links:
+- url: http://sd30.senate.ca.gov/
+other_names:
+- name: Holly Mitchell
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CAL000444
+- scheme: legacy_openstates
+  identifier: CAL000161
+- scheme: legacy_openstates
+  identifier: CAL000270
+- scheme: legacy_openstates
+  identifier: CAL000389
+- scheme: legacy_openstates
+  identifier: CAL000427
+- scheme: openstates
+  identifier: ocd-person/c5d9d4f4-79b3-4fee-81ea-e245390dd33c
+sources:
+- url: http://senate.ca.gov/senators

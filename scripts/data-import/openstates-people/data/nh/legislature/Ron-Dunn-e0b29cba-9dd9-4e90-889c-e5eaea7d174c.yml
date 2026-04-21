@@ -1,0 +1,37 @@
+id: ocd-person/e0b29cba-9dd9-4e90-889c-e5eaea7d174c
+name: Ron Dunn
+given_name: Ron
+family_name: Dunn
+gender: Male
+email: ron.dunn@gc.nh.gov
+image: https://www.voterondunn.com/images/109810/Ron_Dunn.png
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 16
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10693
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10693
+  note: member detail page
+other_names:
+- name: Dunn, R.
+- name: R. Dunn
+sources:
+- url: https://ballotpedia.org/Ron_Dunn
+- url: https://en.wikipedia.org/wiki/Ron_Dunn_(politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10693
+- url: https://justfacts.votesmart.org/candidate/209216/ron-dunn
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10693
+- url: https://www.linkedin.com/in/ron-dunn-05b13b8
+- url: https://www.voterondunn.com/meet_ron
+extras:
+  county: Rockingham
+  elected status: new
+  gender code: M

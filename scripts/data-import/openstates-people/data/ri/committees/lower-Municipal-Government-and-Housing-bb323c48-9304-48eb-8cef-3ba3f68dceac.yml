@@ -1,0 +1,66 @@
+id: ocd-organization/bb323c48-9304-48eb-8cef-3ba3f68dceac
+jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+classification: committee
+name: Municipal Government and Housing
+chamber: lower
+sources:
+- url: https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HMGH&CommitteeName=Municipal%20Government%20and%20Housing
+- url: https://webserver.rilegislature.gov/ComMembers/ComMemr.asp?ComChoiceR=HMGH
+- url: https://www.rilegislature.gov/pages/committees.aspx
+links:
+- url: https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HMGH&CommitteeName=Municipal%20Government%20and%20Housing
+- url: https://webserver.rilegislature.gov/ComMembers/ComMemr.asp?ComChoiceR=HMGH
+members:
+- name: Stephen Casey
+  role: chair
+  person_id: ocd-person/0b20a11e-e90b-4ff2-aa25-5334a8592071
+- name: Kathleen Fogarty
+  role: first vice chair
+  person_id: ocd-person/570c899e-34b2-4e30-93e2-79f588ff8aef
+- name: June Speakman
+  role: second vice chair
+  person_id: ocd-person/9386224e-9603-4695-8f46-a1033d8534a5
+- name: Anthony DeSimone
+  role: member
+  person_id: ocd-person/b9359c6a-fbb2-4165-af9b-a6c63290d851
+- name: Bob Quattrocchi
+  role: member
+  person_id: ocd-person/11bc8a51-bee7-422d-8bb7-6a9177e55735
+- name: Cherie Cruz
+  role: member
+  person_id: ocd-person/386a8117-95b5-441f-91d0-665effac1af4
+- name: David Morales
+  role: member
+  person_id: ocd-person/75bd1298-3fc9-42cc-87c6-23bdc20a7b56
+- name: Dick Fascia
+  role: member
+  person_id: ocd-person/0065fe7b-08cf-4d17-b358-c0c04ab45616
+- name: Jay Edwards
+  role: member
+  person_id: ocd-person/85b2ef21-1f02-4d9e-9f74-a40a2e942f7c
+- name: Jenni Furtado
+  role: member
+  person_id: ocd-person/c937560c-277e-4c48-9656-bb385a7910f3
+- name: Jose Batista
+  role: member
+  person_id: ocd-person/be85e7a9-0455-4e02-92f7-834710d0e401
+- name: Lauren Carson
+  role: member
+  person_id: ocd-person/320f08df-f7d3-4ebe-a696-9c2b8d98f75b
+- name: Matthew Dawson
+  role: member
+  person_id: ocd-person/bffdb553-5c5c-403e-8e2c-47b34a7b50f5
+- name: Raymond Hull
+  role: member
+  person_id: ocd-person/da9a4b15-1cbf-4645-bd98-58ce413b68e1
+- name: Tina Spears
+  role: member
+  person_id: ocd-person/2c3d82e7-8bdc-4da9-bbab-e42bb5e223fb
+other_names:
+- name: House Committee on Municipal Government and Housing
+- name: House Municipal Government and Housing
+- name: House Municipal Government and Housing Committee
+extras:
+  Clerk: Dawn Huntley
+  Phone: 222-2587
+  Email: HouseMunicipalGovernmentandHousing@rilegislature.gov

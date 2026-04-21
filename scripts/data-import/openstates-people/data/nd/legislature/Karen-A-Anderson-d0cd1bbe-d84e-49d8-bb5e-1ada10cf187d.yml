@@ -1,0 +1,36 @@
+id: ocd-person/d0cd1bbe-d84e-49d8-bb5e-1ada10cf187d
+name: Karen Anderson
+given_name: Karen
+family_name: Anderson
+gender: Female
+email: kanderson@ndlegis.gov
+image: https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/kanderson2023.jpg?itok=T9FfLnKE
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '19'
+offices:
+- classification: capitol
+  address: State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505
+links:
+- url: https://ndlegis.gov/biography/karen-a-anderson
+- url: https://www.ndlegis.gov/biography/karen-a-anderson
+other_names:
+- name: Anderson, K.
+- name: K. Anderson
+- name: K.A. Anderson
+- name: Karen A. Anderson
+sources:
+- url: https://ballotpedia.org/Karen_Anderson_(North_Dakota)
+- url: https://en.wikipedia.org/wiki/Karen_Anderson_(politician)
+- url: https://ndlegis.gov/biography/karen-a-anderson
+- url: https://votekarenanderson.com/meet-karen
+- url: https://www.ndlegis.gov/assembly/68-2023/regular/members
+  note: members list page
+- url: https://www.ndlegis.gov/biography/karen-a-anderson
+  note: member details page
+extras:
+  cell: 701-520-0559

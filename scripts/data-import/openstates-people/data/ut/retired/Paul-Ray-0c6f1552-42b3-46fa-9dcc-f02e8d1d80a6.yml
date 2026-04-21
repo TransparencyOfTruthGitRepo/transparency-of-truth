@@ -1,0 +1,59 @@
+id: ocd-person/0c6f1552-42b3-46fa-9dcc-f02e8d1d80a6
+name: Paul Ray
+given_name: Paul
+family_name: Ray
+email: pray@le.utah.gov
+image: https://le.utah.gov/images/legislator/RAYP.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2021-12-15'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '13'
+  end_reason: Resigned to take job as assistant director of legislative affairs for the Utah Department of Health and Human Services
+links:
+- url: http://house.utah.gov/rep/RAYP
+- url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=RAYP
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2020/House_Dist13.pdf
+  note: district demographics
+- url: https://le.utah.gov/house2/CofI/COFIRAYP1.pdf
+  note: conflict of interest 0
+- url: https://le.utah.gov/house2/CofI/COFIRAYP.pdf
+  note: conflict of interest 1
+- url: http://le.utah.gov/house2/CofI/RAYP1.pdf
+  note: conflict of interest 2
+- url: http://le.utah.gov/house2/CofI/pray4.pdf
+  note: conflict of interest 3
+- url: http://le.utah.gov/house2/CofI/pray3.pdf
+  note: conflict of interest 4
+- url: http://le.utah.gov/house2/CofI/pray2.pdf
+  note: conflict of interest 5
+- url: http://le.utah.gov/house2/CofI/pray.pdf
+  note: conflict of interest 6
+- url: http://le.utah.gov/house2/CofI/RAYP.pdf
+  note: conflict of interest 7
+- url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1068
+  note: finance report
+- url: http://house.utah.gov/rep/RAYP/
+  note: homepage
+other_names:
+- name: Ray, Paul
+- name: Ray, P.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: UTL000089
+- scheme: legacy_openstates
+  identifier: UTL000239
+sources:
+- url: http://le.utah.gov/data/legislators.json
+- url: https://le.utah.gov/data/legislators.json
+- url: http://house.utah.gov/rep/RAYP/
+extras:
+  service start: January 1, 2001 - December 31, 2002;  January 1, 2005
+  profession: Finance
+  education: Indiana University
+  counties represented:
+  - Davis
+  cell phone: 801-725-2719

@@ -1,0 +1,49 @@
+id: ocd-person/77d4130a-be8c-46a7-adc4-08ecd11ea6ee
+name: Mark Fisher
+given_name: Mark
+family_name: Fisher
+birth_date: 1962-08-03
+gender: Male
+email: mark.fisher@house.maryland.gov
+image: http://mgaleg.maryland.gov/2016RS/images/fisher.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 27C
+- start_date: 2011-01-12
+  end_date: 2015-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 27C
+offices:
+- classification: capitol
+  address: Room 422, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3231
+  fax: 301-858-3335
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/fisher
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=fisher&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa15454.html
+other_names:
+- name: Fisher, M.
+- name: M. Fisher
+- name: M.N. Fisher
+- name: Mark N. Fisher
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000394
+- scheme: legacy_openstates
+  identifier: MDL000508
+- scheme: legacy_openstates
+  identifier: MDL000654
+sources:
+- url: https://ballotpedia.org/Mark_Fisher_(Maryland)
+- url: https://en.wikipedia.org/wiki/Mark_N._Fisher
+- url: https://justfacts.votesmart.org/candidate/125911/mark-fisher
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/fisher
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=fisher&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa15454.html
+- url: https://www.linkedin.com/in/mark-fisher-28375537

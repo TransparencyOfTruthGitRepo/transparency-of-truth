@@ -1,0 +1,15 @@
+id: ocd-person/4a61afcc-83c3-459d-8e03-03bfbb68a5c8
+name: Greg Hines
+given_name: Greg
+family_name: Hines
+email: Mayor@rogersar.gov
+roles:
+- end_date: '2028-12-31'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/place:rogers/government
+offices:
+- classification: primary
+  address: 301 W Chestnut St.;Rogers, AR 72756
+  voice: 479-621-1117
+sources:
+- url: https://www.rogersar.gov/738/Mayors-Office

@@ -1,0 +1,40 @@
+id: ocd-person/c476ab83-c1f7-44a7-b7c9-4cfa4679bed8
+name: Brian Biggs
+given_name: Brian
+family_name: Biggs
+gender: Male
+email: brian.biggs@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/793/Low
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '70'
+offices:
+- classification: capitol
+  address: Room 416A, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-733-5865
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/793
+- url: https://www.ncleg.gov/Members/Committees/H/793
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/793
+- url: https://www.ncleg.gov/Members/Votes/H/793
+other_names:
+- name: B. Biggs
+- name: B.H. Biggs
+- name: Biggs, B.
+sources:
+- url: https://ballotpedia.org/Brian_Biggs
+- url: https://www.linkedin.com/in/brian-biggs-5062614a
+- url: https://www.ncleg.gov/Members/Biography/H/793
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 300 N. Salisbury Street, Rm. 533; Raleigh, NC 27603-5925
+  terms in senate: 1 (0 in Senate)
+  represented counties: Randolph
+  legislative assistant: Padraig Gibbons
+  legislative assistant email: Padraig.Gibbons@ncleg.gov
+  occupation: Realtor

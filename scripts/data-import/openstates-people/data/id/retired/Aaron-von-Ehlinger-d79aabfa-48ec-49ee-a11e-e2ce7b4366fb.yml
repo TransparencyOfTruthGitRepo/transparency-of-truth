@@ -1,0 +1,19 @@
+id: ocd-person/d79aabfa-48ec-49ee-a11e-e2ce7b4366fb
+name: Aaron von Ehlinger
+given_name: Aaron
+family_name: von Ehlinger
+email: AvonEhlinger@house.idaho.gov
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/vonEhlinger6525.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-06-03
+  end_date: '2021-04-29'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: '6'
+  end_reason: Resigned after recommendation of expulsion for alleged sexual assault
+links:
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2021&district=6
+sources:
+- url: https://legislature.idaho.gov/house/membership/

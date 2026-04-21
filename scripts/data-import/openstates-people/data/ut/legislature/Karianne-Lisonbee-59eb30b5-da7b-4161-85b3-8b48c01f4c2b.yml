@@ -1,0 +1,71 @@
+id: ocd-person/59eb30b5-da7b-4161-85b3-8b48c01f4c2b
+name: Karianne Lisonbee
+given_name: Karianne
+family_name: Lisonbee
+gender: Female
+email: karilisonbee@le.utah.gov
+image: https://le.utah.gov/images/legislator/LISONK.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '14'
+offices:
+- classification: capitol
+  address: P.O. Box 145030 350 N. State St., Suite 350, Salt Lake City, UT 84114
+  voice: 801-538-1029
+- classification: district-mail
+  address: P.O. Box 160152, Clearfield, UT 84016
+  voice: 801-589-2934
+links:
+- url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414516
+  note: finance report
+- url: https://house.utah.gov/rep/LISONK
+- url: https://house.utah.gov/rep/LISONK/
+  note: homepage
+- url: https://house.utleg.gov/rep/LISONK/
+- url: https://le.utah.gov/asp/billsintro/RepResults.asp?Listbox3=LISONK
+  note: legislation
+- url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=LISONK
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2020/House_Dist14.pdf
+  note: district demographics
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/House_Dist14.pdf
+  note: district demographics
+- url: https://le.utah.gov/house2/CofI/COFILISONK.pdf
+  note: conflict of interest 3
+- url: https://le.utah.gov/house2/CofI/COFILISONK1.pdf
+  note: conflict of interest 2
+- url: https://le.utah.gov/house2/CofI/COFILISONK2.pdf
+  note: conflict of interest 1
+- url: https://le.utah.gov/house2/CofI/COFILISONK3.pdf
+  note: conflict of interest 0
+- url: https://le.utah.gov/house2/CofI/LISONK.pdf
+  note: conflict of interest 4
+other_names:
+- name: K. Lisonbee
+- name: Lisonbee, K.
+- name: Lisonbee, Karianne
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: UTL000292
+sources:
+- url: https://ballotpedia.org/Karianne_Lisonbee
+- url: https://en.wikipedia.org/wiki/Karianne_Lisonbee
+- url: https://house.utah.gov/rep/LISONK
+- url: https://house.utah.gov/rep/LISONK/
+- url: https://house.utleg.gov/rep/LISONK
+- url: https://house.utleg.gov/rep/LISONK/
+- url: https://justfacts.votesmart.org/candidate/168623/karianne-lisonbee
+- url: https://le.utah.gov/data/legislators.json
+- url: https://www.linkedin.com/in/karianne-lisonbee-b618a35b
+extras:
+  service start: January 1, 2017
+  profession: Homemaker
+  education: Brigham Young University
+  counties represented:
+  - Davis
+  cell phone: 801-589-2934
+  title: Majority Whip

@@ -1,0 +1,51 @@
+id: ocd-person/faca0001-6681-450b-9577-6185f4f49a3d
+name: Frank Carroll
+given_name: Frank
+family_name: Carroll
+gender: Male
+email: fcarroll@azleg.gov
+image: https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/CARROLL.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '28'
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '22'
+offices:
+- classification: capitol
+  address: Room 212, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-3249
+links:
+- url: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1906
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2046
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2046
+- url: https://www.azleg.gov/senate-member/?legislature=56&legislator=2120
+- url: https://www.azleg.gov/senate-member/?legislature=57&legislator=2375
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2120
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2120
+- url: https://www.linkedin.com/in/frank-carroll-b1b2a821/
+  note: linkedin
+other_names:
+- name: Carroll, F.
+- name: F. Carroll
+- name: F.P. Carroll
+- name: Frank P Carroll
+- name: Frank P. Carroll
+ids:
+  twitter: repfrankcarroll
+  facebook: RepFrankCarroll
+sources:
+- url: https://ballotpedia.org/Frank_Carroll
+- url: https://en.wikipedia.org/wiki/Frank_Carroll_(Arizona_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/184604/frank-carroll
+- url: https://www.azleg.gov/MemberRoster/?body=H
+- url: https://www.azleg.gov/memberroster/?body=H
+- url: https://www.azleg.gov/memberroster/?body=S
+- url: https://www.azleg.gov/senate-member/?legislature=56&legislator=2120
+- url: https://www.azleg.gov/senate-member/?legislature=57&legislator=2375
+- url: https://www.linkedin.com/in/frank-carroll-b1b2a821

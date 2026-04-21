@@ -1,0 +1,50 @@
+id: ocd-person/dce6ec3a-7d62-4b33-8693-259364c85285
+name: John DiMaio
+given_name: John
+family_name: DiMaio
+birth_date: 1955-11-27
+gender: Male
+email: asmdimaio@njleg.org
+image: https://www.njleg.state.nj.us/members/memberphotos/dimaio_john_2020.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2009-03-16
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '23'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 208 Mountain Ave. Suite 3, Hackettstown, NJ 07840
+  voice: 908-684-9550
+links:
+- url: https://www.njassemblygop.com/211/John-DiMaio
+- url: https://www.njassemblygop.com/dimaio/
+- url: https://www.njleg.state.nj.us/legislative-roster/313/assemblyman-dimaio
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=313
+other_names:
+- name: DiMaio, J.
+- name: DiMaio, John
+- name: J. DiMaio
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000070
+sources:
+- url: https://ballotpedia.org/John_DiMaio
+- url: https://en.wikipedia.org/wiki/John_DiMaio
+- url: https://justfacts.votesmart.org/candidate/biography/58033/john-dimaio
+- url: https://www.linkedin.com/in/john-dimaio-46491048
+- url: https://www.njassemblygop.com/211/John-DiMaio
+- url: https://www.njassemblygop.com/dimaio
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/313
+- url: https://www.njleg.state.nj.us/downloads.asp
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/313/assemblyman-dimaio
+- url: https://www.njleg.state.nj.us/members/abcroster.asp
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=313
+- url: https://www.njleg.state.nj.us/members/BIO.asp?Leg=313
+extras:
+  position: Minority Leader

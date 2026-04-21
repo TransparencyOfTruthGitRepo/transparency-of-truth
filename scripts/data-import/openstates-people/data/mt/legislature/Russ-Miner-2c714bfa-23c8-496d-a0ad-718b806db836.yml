@@ -1,0 +1,48 @@
+id: ocd-person/2c714bfa-23c8-496d-a0ad-718b806db836
+name: Russ Miner
+given_name: Russ
+family_name: Miner
+gender: Male
+email: russel.miner@legmt.gov
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '26'
+- start_date: 2023-01-02
+  end_date: 2025-01-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '26'
+- start_date: 2023-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '19'
+  end_date: 2025-01-06
+offices:
+- classification: capitol
+  address: Capitol Building, 1301 E. 6th Ave. P.O. Box 200400, Helena, MT 59620
+  voice: 406-444-4800
+- classification: district
+  address: 1350 55th Ave. South, Great Falls, MT 59405
+  voice: 406-899-4514
+links:
+- url: https://leg.mt.gov/legislator-information/roster/individual/7637
+- url: https://legislators.legmt.gov/#/legislator/111
+- url: https://www.legmt.gov/legislators/1279/
+other_names:
+- name: Miner, R.
+- name: Miner, Russ
+- name: R. Miner
+- name: R.W. Miner
+- name: Russel Miner
+sources:
+- url: https://ballotpedia.org/Russ_Miner
+- url: https://en.wikipedia.org/wiki/Russ_Miner
+- url: https://leg.mt.gov/legislator-information/roster/individual/7637
+- url: https://legislators.legmt.gov/#/legislator/111
+- url: https://russminer.com/about-russ
+- url: https://www.legmt.gov/legislators/1279
+- url: https://www.linkedin.com/in/russ-miner-b8542486

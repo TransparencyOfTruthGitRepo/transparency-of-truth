@@ -1,0 +1,58 @@
+id: ocd-person/ad107e73-7e1e-45dd-ab19-52005a0b948c
+name: Creigh Deeds
+given_name: Creigh
+family_name: Deeds
+birth_date: 1958-01-04
+gender: Male
+email: senatordeeds@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/Deeds11
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '11'
+- start_date: 2001-12-27
+  end_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '25'
+offices:
+- classification: capitol
+  address: Room 612, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7511
+- classification: district-mail
+  address: P.O. Box 5462, Charlottesville, VA 22905
+  voice: 434-296-5491
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S62
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S62
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S62
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S62
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S62
+other_names:
+- name: C. Deeds
+- name: Deeds, C.
+- name: Deeds, R. Creigh
+- name: R. Creigh Deeds
+- name: R.C. Deeds
+- name: Robert Creigh Deeds
+ids:
+  twitter: CreighDeeds
+  facebook: creigh
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000004
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S62
+- url: https://ballotpedia.org/Creigh_Deeds
+- url: https://en.wikipedia.org/wiki/Creigh_Deeds
+- url: https://justfacts.votesmart.org/candidate/5140/creigh-deeds
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S62
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S62
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S62
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S62
+- url: https://www.linkedin.com/in/creigh-deeds-b976621

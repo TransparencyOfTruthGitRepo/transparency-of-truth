@@ -1,0 +1,32 @@
+id: ocd-person/05fb3c26-0704-49c8-8eb6-8c624b752434
+name: Bill Lieske
+given_name: Bill
+family_name: Lieske
+gender: Male
+email: sen.bill.lieske@senate.mn
+image: https://www.senate.mn/graphics/58Lieske.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '58'
+offices:
+- classification: capitol
+  address: Room 2327, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-5019
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1272
+- url: https://www.senate.mn/members/member_bio.html?member_id=1272
+other_names:
+- name: B. Lieske
+- name: Lieske, B.
+sources:
+- url: https://ballotpedia.org/Bill_Lieske
+- url: https://en.wikipedia.org/wiki/Bill_Lieske
+- url: https://justfacts.votesmart.org/candidate/207872/bill-lieske
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1272
+- url: https://www.senate.mn/members/member_bio.html?member_id=1272

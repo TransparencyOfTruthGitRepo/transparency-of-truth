@@ -1,0 +1,57 @@
+id: ocd-person/2c42e95c-0192-4910-9fc6-8a43b58c6467
+name: Peter Bixby
+given_name: Peter
+family_name: Bixby
+gender: Male
+email: peter.bixby@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/45125.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 13
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 13
+  start_date: 2022-12-07
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 17
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=377070
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377070
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=678
+  note: member detail page
+other_names:
+- name: Bixby, P.
+- name: P. Bixby
+- name: Peter W. Bixby
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000455
+- scheme: legacy_openstates
+  identifier: NHL000834
+sources:
+- url: https://ballotpedia.org/Peter_Bixby
+- url: https://en.wikipedia.org/wiki/Peter_Bixby
+- url: https://gc.nh.gov/house/members/member.aspx?member=377070
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/141796/peter-bixby
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377070
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=678
+extras:
+  county: Strafford
+  elected status: Incumbent
+  gender code: M

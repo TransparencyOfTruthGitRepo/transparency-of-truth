@@ -1,0 +1,23 @@
+id: ocd-person/94e8fdd7-a4c1-4772-8017-6cf31bf20015
+name: Eddie Fields
+given_name: Eddie
+family_name: Fields
+party:
+- name: Republican
+roles:
+- end_date: '2018-11-06'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ok/government
+  district: '10'
+links:
+- url: http://oksenate.gov/Senators/biographies/fields_bio.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OKL000019
+- scheme: legacy_openstates
+  identifier: OKL000237
+sources:
+- url: http://oksenate.gov/Senators/biographies/fields_bio.aspx
+- url: http://oksenate.gov/Senators/biographies/fields_bio.html
+extras:
+  email: efields@oksenate.gov

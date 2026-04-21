@@ -1,0 +1,40 @@
+id: ocd-person/4ed1ee96-ea0f-4fc6-9c74-14cea6328716
+name: Jake Fey
+given_name: Jake
+family_name: Fey
+gender: Male
+email: jake.fey@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/17241.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '27'
+offices:
+- classification: capitol
+  address: Room 415, John L. O'Brien Building P.O. Box 40600, Olympia, WA 98504
+  voice: 360-786-7974
+links:
+- url: https://housedemocrats.wa.gov/Fey/
+- url: https://housedemocrats.wa.gov/fey/
+- url: https://housedemocrats.wa.gov/legislators/Jake-Fey/
+- url: https://leg.wa.gov/legislators/member/jake-fey
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_names:
+- name: Fey, J.
+- name: J. Fey
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000174
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=House
+- url: https://ballotpedia.org/Jake_Fey
+- url: https://en.wikipedia.org/wiki/Jake_Fey
+- url: https://housedemocrats.wa.gov/fey
+- url: https://housedemocrats.wa.gov/fey/
+- url: https://housedemocrats.wa.gov/fey/biography
+- url: https://justfacts.votesmart.org/candidate/biography/80588/jake-fey
+- url: https://leg.wa.gov/legislators/member/jake-fey
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx

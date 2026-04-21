@@ -1,0 +1,47 @@
+id: ocd-person/10733ff7-ee19-4e86-9b5e-65619ddbf7bf
+name: Bill Reineke
+given_name: Bill
+family_name: Reineke
+birth_date: 1954-10-09
+gender: Male
+email: sd26@ohiosenate.gov
+image: https://www.legislature.ohio.gov/assets/people/bill-reineke/headshots/thumbnails/medium/bill-reineke-may-2023-headshot_medium.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '26'
+- start_date: 2015-01-01
+  end_date: 2020-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '88'
+offices:
+- classification: capitol
+  address: Room 220, Statehouse, 1 Capitol Square Second Floor, Columbus, OH 43215
+  voice: 614-466-8049
+links:
+- url: https://www.ohiohouse.gov/bill-reineke
+- url: https://www.ohiosenate.gov/members/bill-reineke
+- url: https://www.ohiosenate.gov/senators/reineke
+other_names:
+- name: B. Reineke
+- name: Reineke, B.
+- name: W.F. Reineke
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000276
+- scheme: openstates
+  identifier: ocd-person/c07cbd24-eaa2-41b8-b3c0-5231dbe2cdf4
+sources:
+- url: https://ballotpedia.org/Bill_Reineke
+- url: https://en.wikipedia.org/wiki/Bill_Reineke
+- url: https://ohiosenate.gov/members/bill-reineke
+  note: member details page
+- url: https://www.legislature.ohio.gov/legislators/senate-directory
+  note: member list page
+- url: https://www.ohiohouse.gov/members/member-directory
+- url: https://www.ohiosenate.gov/members/bill-reineke
+- url: https://www.ohiosenate.gov/senators

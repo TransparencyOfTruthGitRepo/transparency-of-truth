@@ -1,0 +1,51 @@
+id: ocd-person/94df7a3f-b27d-42c1-9ecc-1ebdc707c9ae
+name: Erica Layon
+given_name: Erica
+family_name: Layon
+gender: Female
+email: erica.layon@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/104187.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 13
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 13
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 6
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9935
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9935
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9935
+  note: member detail page
+other_names:
+- name: E. Layon
+- name: Erica J. Layon
+- name: Layon, E.
+sources:
+- url: https://ballotpedia.org/Erica_Layon
+- url: https://en.wikipedia.org/wiki/Erica_Layon
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9935
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9935
+- url: https://justfacts.votesmart.org/candidate/biography/195044/erica-layon
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9935
+- url: https://www.linkedin.com/in/erica-layon-b97292
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: F

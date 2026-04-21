@@ -1,0 +1,28 @@
+id: ocd-person/3cfbd175-c4ce-4381-b913-2702bdf77f4b
+name: Jason Frerichs
+given_name: Jason
+family_name: Frerichs
+image: http://legis.state.sd.us/sessions/2011/Frerichs.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '1'
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '1'
+links:
+- url: http://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=979&Session=2016
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000054
+- scheme: legacy_openstates
+  identifier: SDL000109
+sources:
+- url: http://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=979&Session=2016
+- url: http://legis.sd.gov/Legislators/Legislators/MemberCommittees.aspx?Member=979&Session=2016

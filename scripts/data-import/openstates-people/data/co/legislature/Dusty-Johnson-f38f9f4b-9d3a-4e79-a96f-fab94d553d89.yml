@@ -1,0 +1,30 @@
+id: ocd-person/f38f9f4b-9d3a-4e79-a96f-fab94d553d89
+name: Dusty Johnson
+given_name: Dusty
+family_name: Johnson
+gender: Female
+email: dustyforcolorado@gmail.com
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/DustyJohnsonCO.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '63'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-2398
+links:
+- url: https://leg.colorado.gov/legislators/dusty-johnson
+other_names:
+- name: D. Johnson
+- name: D.A. Johnson
+- name: Johnson D.
+- name: Johnson, D.
+sources:
+- url: https://ballotpedia.org/Dusty_Johnson_(Colorado)
+- url: https://leg.colorado.gov/legislators/dusty-johnson
+- url: https://www.linkedin.com/in/dusty-a-johnson-30a7b58b

@@ -1,0 +1,22 @@
+id: ocd-person/32b4370e-cbee-424c-9161-48d60ac6bbe0
+name: Sarah Capp
+given_name: Sarah
+family_name: Capp
+email: sarah.capp@arkansashouse.org
+image: http://www.arkleg.state.ar.us/Content/photos/House/521_sm.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '82'
+links:
+- url: http://www.arkleg.state.ar.us/Legislators/Detail?member=Capp&ddBienniumSession=2019%2F2020F
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ARL000366
+sources:
+- url: http://www.arkleg.state.ar.us/Legislators/Detail?member=Capp&ddBienniumSession=2019%2F2020F
+extras:
+  occupation: Attorney

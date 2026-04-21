@@ -1,0 +1,57 @@
+id: ocd-organization/c26dd609-be44-4943-b8da-0d42214b6c0c
+jurisdiction: ocd-jurisdiction/country:us/state:or/government
+classification: committee
+name: Legislative Counsel
+chamber: legislature
+sources:
+- url: https://olis.oregonlegislature.gov/liz/2023R1/Committees/JLCC/CommitteeMembers
+  note: Committee details page
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/JLCC/CommitteeMembers
+  note: Committee details page
+- url: https://olis.oregonlegislature.gov/liz/2025I1/Committees/JLCC/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025R1/Committees/JLCC/Overview
+- url: https://olis.oregonlegislature.gov/liz/2026R1/Committees/JLCC/Overview
+links:
+- url: https://olis.oregonlegislature.gov/liz/2023R1/Committees/JLCC/CommitteeMembers
+  note: homepage
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/JLCC/CommitteeMembers
+  note: homepage
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/JLCC/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025I1/Committees/JLCC/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025R1/Committees/JLCC/Overview
+- url: https://olis.oregonlegislature.gov/liz/2026R1/Committees/JLCC/Overview
+members:
+- name: Julie Fahey
+  role: co-chair
+  person_id: ocd-person/b523dd9a-d913-4a8e-95e2-c546016f2b1a
+- name: Rob Wagner
+  role: co-chair
+  person_id: ocd-person/e40f7f2c-4c6a-4064-9fde-e6b380dde2aa
+- name: Bruce Starr
+  role: member
+  person_id: ocd-person/e420fffb-7b56-42db-8cc4-531526ad6802
+- name: Floyd Prozanski
+  role: member
+  person_id: ocd-person/a36ed400-bbdd-4053-9ae4-576ba52e95ca
+- name: James Manning
+  role: member
+  person_id: ocd-person/f1be7436-8ea5-48b2-8997-53dd566633b9
+- name: Jason Kropf
+  role: member
+  person_id: ocd-person/47e270fe-abc4-4f5d-9bad-2b7979442f5d
+- name: Kim Wallan
+  role: member
+  person_id: ocd-person/a2e34475-ba6f-41af-bf61-83c7160d6c10
+- name: Lucetta Elmer
+  role: member
+  person_id: ocd-person/20f31b04-63fd-45a8-8075-5e6e1beae485
+- name: Mike McLane
+  role: member
+  person_id: ocd-person/f0091fb4-4207-4663-be23-7c9e77994048
+- name: Willy Chotzen
+  role: member
+  person_id: ocd-person/21e83410-a7f5-43f1-a4ef-7cdc1d41c6b6
+other_names:
+- name: Joint Committee on Legislative Counsel
+- name: Joint Legislative Counsel
+- name: Joint Legislative Counsel Committee

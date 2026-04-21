@@ -1,0 +1,59 @@
+id: ocd-person/f47878eb-66fe-4d01-92ea-4d3190c6183c
+name: Jean Jeudy
+given_name: Jean
+family_name: Jeudy
+gender: Male
+email: jean.jeudy@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/50492.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 23
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 23
+  start_date: 2022-12-07
+- end_date: 2022-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 10
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=376657
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376657
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=527
+  note: member detail page
+other_names:
+- name: J. Jeudy
+- name: J.L. Jeudy
+- name: Jean L. Jeudy
+- name: Jean Leniol Jeudy
+- name: Jeudy, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000188
+- scheme: legacy_openstates
+  identifier: NHL001030
+sources:
+- url: https://ballotpedia.org/Jean_Jeudy
+- url: https://en.wikipedia.org/wiki/Jean_Jeudy
+- url: https://gc.nh.gov/house/members/member.aspx?member=376657
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/42077/jean-jeudy
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376657
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=527
+extras:
+  county: Hillsborough
+  elected status: Incumbent
+  gender code: M

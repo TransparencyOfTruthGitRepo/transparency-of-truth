@@ -1,0 +1,18 @@
+id: ocd-person/a228c75d-944e-417a-8410-a6becf422910
+name: Dave Knudson
+given_name: Dave
+family_name: Knudson
+image: http://legis.state.sd.us/sessions/2010/Knudsond.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '14'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000022
+sources:
+- url: http://legis.state.sd.us/sessions/2010/MemberDetail.aspx?Member=42

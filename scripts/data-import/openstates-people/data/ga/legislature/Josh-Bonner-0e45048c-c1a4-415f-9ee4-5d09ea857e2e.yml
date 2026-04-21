@@ -1,0 +1,66 @@
+id: ocd-person/0e45048c-c1a4-415f-9ee4-5d09ea857e2e
+name: Josh Bonner
+given_name: Josh
+family_name: Bonner
+birth_date: 1974-05-04
+gender: Male
+email: josh.bonner@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/bonner-josh-4893.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '73'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '72'
+offices:
+- classification: capitol
+  address: State Capitol Room 401-F, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-463-7853
+- classification: district-mail
+  address: P.O. Box 3457, Peachtree City, GA 30269
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4893&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4893
+- url: https://www.legis.ga.gov/members/house/4893?session=1029
+- url: https://www.legis.ga.gov/members/house/4893?session=1031
+  note: HTML member detail page
+other_names:
+- name: BONNER, 73RD
+- name: Bonner, J.
+- name: J. Bonner
+- name: J.N. Bonner
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000471
+sources:
+- url: https://ballotpedia.org/Josh_Bonner
+- url: https://en.wikipedia.org/wiki/Josh_Bonner
+- url: https://justfacts.votesmart.org/candidate/biography/168331/josh-bonner
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4893&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4893?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4893?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4893
+- url: https://www.legis.ga.gov/members/house/4893?session=1029
+extras:
+  residence: Fayetteville
+  city: Fayetteville
+  georgia_id: 4893
+  birthday: May 4
+  occupation: Real Estate
+  press: https://house-press.com/representative/Josh-Bonner
+  spouse: Michelle
+  staff: a href="
+  staff email: ''
+  title: Chairman, Defense & Veterans Affairs

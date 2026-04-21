@@ -1,0 +1,36 @@
+id: ocd-person/dee454b1-6da0-4b1b-a232-033e7de8551f
+name: Nathan Johnson
+given_name: Nathan
+family_name: Johnson
+birth_date: 1968-02-12
+gender: Male
+email: nathan.johnson@senate.texas.gov
+image: https://senate.texas.gov/members/d16/img/SNJ-Headshot-2023-web.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '16'
+offices:
+- classification: capitol
+  address: Room 4E.2, 1100 Congress Ave., Austin, TX 78701
+  voice: 512-463-0116
+- classification: district
+  address: Merit Tower 12222 Merit Drive, Suite 1010, Dallas, TX 75251
+  voice: 972-701-0349
+- classification: district-mail
+  address: P.O. Box 12068 Capitol Station, Austin, TX 78711
+links:
+- url: https://senate.texas.gov/member.php?d=16
+other_names:
+- name: Johnson, N.
+- name: Johnson, Nathan
+- name: N. Johnson
+- name: N.M. Johnson
+sources:
+- url: https://ballotpedia.org/Nathan_Johnson_(Texas)
+- url: https://en.wikipedia.org/wiki/Nathan_M._Johnson
+- url: https://senate.texas.gov/member.php?d=16
+- url: https://www.linkedin.com/in/nathan-johnson-6034094

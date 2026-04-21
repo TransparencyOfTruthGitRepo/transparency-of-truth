@@ -1,0 +1,56 @@
+id: ocd-person/86d5ff12-369b-41a4-9626-237425063c1b
+name: Bo Watson
+given_name: Bo
+family_name: Watson
+birth_date: 1960-10-21
+gender: Male
+email: sen.bo.watson@capitol.tn.gov
+image: http://www.capitol.tn.gov/senate/members/images/s11.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2007-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '11'
+offices:
+- classification: capitol
+  address: Room 706, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-3227
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S11
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S11
+- url: https://www.capitol.tn.gov/senate/members/s11.html
+other_names:
+- name: B. Watson
+- name: F.W. Watson
+- name: Watson, B
+- name: Watson, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000032
+- scheme: legacy_openstates
+  identifier: TNL000164
+- scheme: legacy_openstates
+  identifier: TNL000371
+sources:
+- url: https://ballotpedia.org/Bo_Watson
+- url: https://en.wikipedia.org/wiki/Bo_Watson
+- url: https://justfacts.votesmart.org/candidate/biography/48696/bo-watson
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S11
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S11
+- url: https://www.capitol.tn.gov/senate/members
+- url: https://www.capitol.tn.gov/senate/members/
+- url: https://www.capitol.tn.gov/senate/members/s11.html
+- url: https://www.linkedin.com/in/bo-watson-a649695
+extras:
+  office: 706 CHB
+  personal info:
+  - Born October 21, 1960
+  - Physical Therapist - Parkridge Medical Center
+  - Methodist
+  - B.A., Biology, Magna Cum Laude, University of Tennessee at Chattanooga
+  - Physical Therapy, University of Tennessee Center for Health Sciences - Memphis

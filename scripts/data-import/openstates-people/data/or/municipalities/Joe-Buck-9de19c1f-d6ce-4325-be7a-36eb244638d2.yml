@@ -1,0 +1,14 @@
+id: ocd-person/9de19c1f-d6ce-4325-be7a-36eb244638d2
+name: Joe Buck
+given_name: Joe
+family_name: Buck
+email: jbuck@ci.oswego.or.us
+image: https://www.ci.oswego.or.us/sites/default/files/styles/primary/public/imageattachments/JBuck.jpg
+roles:
+- end_date: '2028-12-31'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:or/place:lake_oswego/government
+offices:
+- classification: primary
+  address: PO Box 369;380 A Avenue;Lake Oswego, OR 97034
+  voice: 503-635-0270

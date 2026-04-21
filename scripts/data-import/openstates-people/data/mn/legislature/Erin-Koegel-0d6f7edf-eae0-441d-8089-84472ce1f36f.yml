@@ -1,0 +1,40 @@
+id: ocd-person/0d6f7edf-eae0-441d-8089-84472ce1f36f
+name: Erin Koegel
+given_name: Erin
+family_name: Koegel
+birth_date: 1982-04-06
+gender: Female
+email: rep.erin.koegel@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/39A.gif?v=112221
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 39A
+- end_date: 2023-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 37A
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-5369
+links:
+- url: https://www.house.mn.gov/members/profile/15465
+other_names:
+- name: E. Koegel
+- name: E.A. Koegel
+- name: Erin Anderson Koegel
+- name: Koegel, E.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000734
+sources:
+- url: https://ballotpedia.org/Erin_Koegel
+- url: https://en.wikipedia.org/wiki/Erin_Koegel
+- url: https://justfacts.votesmart.org/candidate/biography/171555/erin-koegel
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15465
+- url: https://www.linkedin.com/in/erinkoegel

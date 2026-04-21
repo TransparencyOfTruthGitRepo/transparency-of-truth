@@ -1,0 +1,38 @@
+id: ocd-person/c8c1a9c5-c7c2-4894-8829-fc83251bcaf2
+name: Emily Sirota
+given_name: Emily
+family_name: Sirota
+birth_date: 1979-08-07
+gender: Female
+email: emily.sirota.house@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_sirota%2Cemily.jpg?itok=lU6YsziF
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '9'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-2910
+links:
+- url: https://leg.colorado.gov/legislators/emily-sirota
+  note: homepage
+other_names:
+- name: E. Sirota
+- name: E.L. Sirota
+- name: Sirota E.
+- name: Sirota, E.
+sources:
+- url: https://ballotpedia.org/Emily_Sirota
+- url: https://en.wikipedia.org/wiki/Emily_Sirota
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/emily-sirota
+- url: https://www.linkedin.com/in/emilysirota
+extras:
+  counties represented:
+  - Arapahoe
+  - Denver

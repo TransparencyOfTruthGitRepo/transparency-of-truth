@@ -1,0 +1,37 @@
+id: ocd-person/ce0bbcca-54b7-40f4-817f-4f17e7a212a1
+name: Dan LeClerc
+given_name: Dan
+family_name: LeClerc
+gender: Male
+email: daniel.leclerc@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123345.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 34
+offices:
+- classification: capitol
+  address: State House 107 N. State St., Concord, NH 03301
+  voice: 603-365-6006
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10814
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10814
+  note: member detail page
+other_names:
+- name: D. LeClerc
+- name: Daniel J LeClerc
+- name: Daniel LeClerc
+- name: LeClerc, D.
+sources:
+- url: https://ballotpedia.org/Daniel_LeClerc
+- url: https://en.wikipedia.org/wiki/Daniel_LeClerc
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10814
+- url: https://justfacts.votesmart.org/candidate/208838/daniel-leclerc
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10814
+extras:
+  county: Hillsborough
+  elected status: new
+  gender code: M

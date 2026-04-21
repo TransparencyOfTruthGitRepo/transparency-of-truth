@@ -1,0 +1,32 @@
+id: ocd-person/daa3d2db-d395-4c08-9020-b90d6bc2c498
+name: Jason DeWitt
+given_name: Jason
+family_name: DeWitt
+gender: Male
+email: hse025@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics/rep25.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '25'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district-mail
+  address: P.O. Box 1406, Tioga, LA 71477
+links:
+- url: https://house.louisiana.gov/H_Reps/members?ID=25
+other_names:
+- name: DeWitt, J.
+- name: J. DeWitt
+- name: J.B. DeWitt
+sources:
+- url: https://ballotpedia.org/Jason_DeWitt
+- url: https://dewittforla.com/about
+- url: https://en.wikipedia.org/wiki/Jason_Brian_DeWitt
+- url: https://house.louisiana.gov/H_Reps/members?ID=25
+- url: https://justfacts.votesmart.org/candidate/biography/212500/jason-dewitt

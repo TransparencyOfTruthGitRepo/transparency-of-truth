@@ -1,0 +1,67 @@
+id: ocd-person/17005404-0e78-5bcc-8a71-d67af0e033fd
+name: Harriet Hageman
+given_name: Harriet
+family_name: Hageman
+birth_date: 1962-10-18
+gender: Female
+email: https://hageman.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/H001096.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WY-AL
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WY-AL
+offices:
+- classification: capitol
+  address: 1227 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-2311
+- classification: district
+  address: 100 E. B St. Suite 4003, Casper, WY 82601
+  voice: 307-261-6595
+- classification: district
+  address: 2120 Capitol Ave. Suite 8005, Cheyenne, WY 82001
+  voice: 307-772-2595
+links:
+- url: https://hageman.house.gov
+  note: website
+- url: https://hageman.house.gov/
+other_names:
+- name: H. Hageman
+- name: H.M. Hageman
+- name: Hageman, H.
+- name: Harriet M. Hageman
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Harriet Hageman
+- scheme: bioguide
+  identifier: H001096
+- scheme: fec
+  identifier: H2WY00166
+- scheme: google_entity_id
+  identifier: kg:/g/11f77yffzm
+- scheme: govtrack
+  identifier: '456951'
+- scheme: opensecrets
+  identifier: N00049197
+- scheme: pictorial
+  identifier: '13332'
+- scheme: votesmart
+  identifier: '182961'
+- scheme: wikidata
+  identifier: Q110815967
+sources:
+- url: https://ballotpedia.org/Harriet_Hageman
+- url: https://en.wikipedia.org/wiki/Harriet_Hageman
+- url: https://hageman.house.gov
+- url: https://justfacts.votesmart.org/candidate/182961/harriet-hageman
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/harriet_hageman/456951

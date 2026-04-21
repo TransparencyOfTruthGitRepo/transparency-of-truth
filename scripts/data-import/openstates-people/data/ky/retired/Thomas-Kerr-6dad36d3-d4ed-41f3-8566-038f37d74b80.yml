@@ -1,0 +1,20 @@
+id: ocd-person/6dad36d3-d4ed-41f3-8566-038f37d74b80
+name: Thomas Kerr
+given_name: Thomas
+family_name: Kerr
+image: http://www.lrc.ky.gov/pubinfo/thumbnails/House64.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '64'
+links:
+- url: http://www.lrc.ky.gov/legislator/H064.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000086
+sources:
+- url: http://www.lrc.ky.gov/legislator/H064.htm

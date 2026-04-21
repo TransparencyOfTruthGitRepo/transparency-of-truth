@@ -1,0 +1,80 @@
+id: ocd-person/c344ed7a-6fea-4f17-9c48-4e27d67bebc8
+name: Mark McConkey
+given_name: Mark
+family_name: McConkey
+gender: Male
+email: mark.mcconkey@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/50148.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '3'
+- end_date: 2018-12-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '3'
+  start_date: 2024-12-04
+- start_date: 2022-12-07
+  end_date: 2024-12-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '3'
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '3'
+- start_date: 2022-12-07
+  end_date: 2024-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 8
+- end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 3
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 3
+offices:
+- classification: capitol
+  address: Room 107, State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-8631
+links:
+- url: https://gc.nh.gov/senate/members/webpages/district03.aspx
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=488
+- url: https://gencourt.state.nh.us/senate/members/webpages/district03.aspx
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=488
+  note: member detail page
+other_names:
+- name: M. McConkey
+- name: M.E. McConkey
+- name: Mark E. McConkey
+- name: McConkey, M.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000237
+- scheme: legacy_openstates
+  identifier: NHL000869
+sources:
+- url: https://ballotpedia.org/Mark_McConkey
+- url: https://gc.nh.gov/senate/members/webpages/district03.aspx
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=488
+- url: https://gencourt.state.nh.us/senate/members/webpages/district03.aspx
+- url: https://justfacts.votesmart.org/candidate/biography/42599/mark-mcconkey
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376495
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=488
+- url: https://www.linkedin.com/in/mark-mcconkey-44046b12
+extras:
+  county: Carroll
+  elected status: Incumbent
+  gender code: M

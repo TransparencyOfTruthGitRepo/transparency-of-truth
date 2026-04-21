@@ -1,0 +1,22 @@
+id: ocd-person/bf694f4f-d7d0-4eb0-80b8-79b8861d009f
+name: John W. Lyle, Jr
+gender: Male
+email: rep-lyle@rilegislature.gov
+image: http://www.rilin.state.ri.us/representatives/pictures/lyle.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '46'
+links:
+- url: http://www.rilin.state.ri.us/representatives/carson/
+sources:
+- url: http://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: http://www.rilin.state.ri.us/representatives/lyle/
+extras:
+  name_first: ''
+  name_last: ''
+  name_middle: ''
+  town_represented: Lincoln, Pawtucket

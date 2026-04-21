@@ -1,0 +1,42 @@
+id: ocd-person/a71cd621-aa1e-4338-b0bd-ca9f7a03f667
+name: Jonathan Pinson
+given_name: Jonathan
+family_name: Pinson
+gender: Male
+email: jonathan.pinson@wvhouse.gov
+image: https://www.wvlegislature.gov/images/members/2024/house/pinson_jonathan.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '17'
+- start_date: 2020-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '17'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '13'
+offices:
+- classification: capitol
+  address: State Capitol Room 219E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3146
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Pinson
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pinson
+other_names:
+- name: J. Pinson
+- name: J.A. Pinson
+- name: Pinson, J
+- name: Pinson, J.
+sources:
+- url: https://ballotpedia.org/Jonathan_Pinson
+- url: https://en.wikipedia.org/wiki/Jonathan_Pinson
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Pinson
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pinson
+- url: https://www.wvlegislature.gov/House/roster.cfm

@@ -1,0 +1,66 @@
+id: ocd-person/e2bd9b69-7425-5f80-b432-41b690306379
+name: Summer Lee
+given_name: Summer
+family_name: Lee
+birth_date: 1987-11-26
+gender: Female
+email: https://summerlee.house.gov/contact
+image: https://unitedstates.github.io/images/congress/450x550/L000602.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: PA-12
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: PA-12
+offices:
+- classification: capitol
+  address: 2437 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-2135
+- classification: district
+  address: 211 N. Whitfield St. Suite 802, Pittsburgh, PA 15206
+  voice: 412-214-5000
+  fax: 771-200-5826
+links:
+- url: https://summerlee.house.gov
+  note: website
+- url: https://summerlee.house.gov/
+other_names:
+- name: Lee, S.
+- name: S. Lee
+- name: S.L. Lee
+- name: Summer L. Lee
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Summer Lee
+- scheme: bioguide
+  identifier: L000602
+- scheme: fec
+  identifier: H2PA18200
+- scheme: google_entity_id
+  identifier: kg:/g/11f8p2q8bd
+- scheme: govtrack
+  identifier: '456935'
+- scheme: opensecrets
+  identifier: N00049757
+- scheme: pictorial
+  identifier: '13232'
+- scheme: votesmart
+  identifier: '179240'
+- scheme: wikidata
+  identifier: Q56222614
+sources:
+- url: https://ballotpedia.org/Summer_Lee
+- url: https://en.wikipedia.org/wiki/Summer_Lee
+- url: https://justfacts.votesmart.org/candidate/biography/179240/summer-lee
+- url: https://summerlee.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/summer_lee/456935
+- url: https://www.linkedin.com/in/summerlee23

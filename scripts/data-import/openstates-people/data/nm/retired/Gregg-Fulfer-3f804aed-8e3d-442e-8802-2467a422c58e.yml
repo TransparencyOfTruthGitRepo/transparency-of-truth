@@ -1,0 +1,22 @@
+id: ocd-person/3f804aed-8e3d-442e-8802-2467a422c58e
+name: Gregg Fulfer
+given_name: Gregg
+family_name: Fulfer
+email: gregg.fulfer@nmlegis.gov
+image: http://www.nmlegis.gov/Images/Legislators/Senate/SFULF.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '41'
+links:
+- url: http://www.nmlegis.gov/Members/Legislator?SponCode=SFULF
+- url: https://www.linkedin.com/in/gregg-fulfer-b4bbaa41/
+  note: linkedin
+ids:
+  twitter: gregg_fulfer
+  facebook: '395787650995554'
+sources:
+- url: http://www.nmlegis.gov/Members/Legislator?SponCode=SFULF

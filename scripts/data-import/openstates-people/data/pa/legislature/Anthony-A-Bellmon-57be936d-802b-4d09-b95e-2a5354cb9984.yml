@@ -1,0 +1,47 @@
+id: ocd-person/57be936d-802b-4d09-b95e-2a5354cb9984
+name: Anthony Bellmon
+given_name: Anthony
+family_name: Bellmon
+birth_date: 1990-04-12
+gender: Male
+email: repbellmon@pahouse.com
+image: https://www.legis.state.pa.us/images/members/200/1984.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '203'
+offices:
+- classification: capitol
+  address: Room 26B, East Wing P.O. Box 202203, Harrisburg, PA 17120
+  voice: 717-783-4111
+- classification: district
+  address: 7215-B Rising Sun Ave., Philadelphia, PA 19111
+  voice: 215-560-1315
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1984
+  note: homepage
+- url: https://www.pahouse.com/Bellmon/
+- url: https://www.palegis.us/house/members/bio/1984/rep-bellmon
+other_names:
+- name: A. Bellmon
+- name: A.A. Bellmon
+- name: Anthony A. Bellmon
+- name: Bellmon, A.
+ids:
+  twitter: RepBellmon
+  facebook: RepBellmon
+sources:
+- url: https://ballotpedia.org/Anthony_Bellmon
+- url: https://en.wikipedia.org/wiki/Anthony_A._Bellmon
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1984
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.linkedin.com/in/anthony-bellmon-b432ba33
+- url: https://www.pahouse.com/Bellmon
+- url: https://www.palegis.us/house/members/bio/1984/rep-bellmon
+extras:
+  Education:
+  - Mount Greylock Regional High School, 2008
+  - The George Washington University, 2012 Political Science

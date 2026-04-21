@@ -1,0 +1,66 @@
+id: ocd-person/3ff894cb-f2e4-47d0-9f67-b125245a10c3
+name: Chuck Efstration
+given_name: Chuck
+family_name: Efstration
+birth_date: 1983-04-24
+gender: Male
+email: chuck.efstration@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/efstration-chuck-846.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-12-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '104'
+offices:
+- classification: capitol
+  address: State Capitol Room 338, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-5052
+- classification: district-mail
+  address: P.O. Box 1656, Dacula, GA 30019
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=846&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/846
+- url: https://www.legis.ga.gov/members/house/846?session=1029
+- url: https://www.legis.ga.gov/members/house/846?session=1031
+  note: HTML member detail page
+other_names:
+- name: C. Efstration
+- name: C.P. Efstration
+- name: Charles P. Efstration
+- name: Chuck Efstration
+- name: EFSTRATION, 104TH
+- name: Efstration, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000389
+sources:
+- url: https://ballotpedia.org/Chuck_Efstration
+- url: https://en.wikipedia.org/wiki/Chuck_Efstration
+- url: https://justfacts.votesmart.org/candidate/biography/122243/chuck-efstration
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.attorneychuck.com/attorney-chuck-efstration
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=846&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/846?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/846?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/846
+- url: https://www.legis.ga.gov/members/house/846?session=1029
+- url: https://www.linkedin.com/in/chuck-efstration-a0415610
+extras:
+  residence: Auburn
+  city: Auburn
+  georgia_id: 846
+  birthday: April 24
+  occupation: Attorney
+  press: https://house-press.com/representative/Chuck-Efstration
+  spouse: Ashley
+  staff: a href="
+  staff email: ''
+  title: Majority Leader

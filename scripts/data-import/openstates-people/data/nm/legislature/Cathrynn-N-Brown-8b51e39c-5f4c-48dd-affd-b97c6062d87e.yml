@@ -1,0 +1,55 @@
+id: ocd-person/8b51e39c-5f4c-48dd-affd-b97c6062d87e
+name: Cathrynn Brown
+given_name: Cathrynn
+family_name: Brown
+gender: Female
+email: c.brown.nm55@gmail.com
+image: https://www.nmlegis.gov/Images/Legislators/House/HBROW.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-18
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '55'
+offices:
+- classification: capitol
+  address: State Capitol Room 203A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4227
+- classification: district-mail
+  address: P.O. Box 3072, Carlsbad, NM 88220
+links:
+- url: https://www.linkedin.com/in/cathrynnbrown/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HBROW
+  note: homepage
+other_names:
+- name: Brown, C.
+- name: Brown, Cathrynn
+- name: Brown, Cathrynn N.
+- name: C. Brown
+- name: C.N. Brown
+- name: Cathrynn N. Brown
+- name: Cathrynn Novich Brown
+ids:
+  twitter: cathrynnbrown
+  facebook: RepCathrynnBrown
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000097
+- scheme: legacy_openstates
+  identifier: NML000281
+- scheme: legacy_openstates
+  identifier: NML000387
+sources:
+- url: https://ballotpedia.org/Cathrynn_Brown
+- url: https://en.wikipedia.org/wiki/Cathrynn_Brown
+- url: https://justfacts.votesmart.org/candidate/biography/110625/cathrynn-brown
+- url: https://www.linkedin.com/in/cathrynnbrown
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HBROW
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Eddy & Lea
+  service: Representative since 2011
+  occupation: Attorney

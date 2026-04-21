@@ -1,0 +1,66 @@
+id: ocd-person/e6ae8d30-4b1b-4b06-8918-2be6fa7f8108
+name: Spencer Frye
+given_name: Spencer
+family_name: Frye
+birth_date: 1967-12-14
+gender: Male
+email: spencer.frye@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/frye-spencer-819.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '122'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '118'
+offices:
+- classification: capitol
+  address: Room 604-A, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0265
+- classification: district
+  address: 1000 Newton Bridge Road, Athens, GA 30606
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=819&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/819
+- url: https://www.legis.ga.gov/members/house/819?session=1029
+- url: https://www.legis.ga.gov/members/house/819?session=1031
+  note: HTML member detail page
+other_names:
+- name: FRYE, 122ND
+- name: Frye, S.
+- name: S. Frye
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000285
+sources:
+- url: https://ballotpedia.org/Spencer_Frye
+- url: https://en.wikipedia.org/wiki/Spencer_Frye
+- url: https://justfacts.votesmart.org/candidate/biography/142218/spencer-frye
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=819&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/819?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/819?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/819
+- url: https://www.legis.ga.gov/members/house/819?session=1029
+- url: https://www.linkedin.com/in/spencerfrye
+extras:
+  residence: Athens
+  city: Athens
+  georgia_id: 819
+  birthday: December 14
+  occupation: Executive
+  press: https://house-press.com/representative/Spencer-Frye
+  spouse: Gretchen
+  staff: a href="
+  staff email: ''

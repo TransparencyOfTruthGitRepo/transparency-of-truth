@@ -1,0 +1,56 @@
+id: ocd-organization/1d713897-1811-4eb4-a627-09b6b3f20148
+jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+classification: committee
+name: Management Council
+chamber: legislature
+sources:
+- url: https://web.wyoleg.gov/LsoService/api/committeeDetail/2023/SMC
+  note: Committee JSON from wyoleg.gov site
+- url: https://web.wyoleg.gov/LsoService/api/committeeDetail/2024/SMC
+  note: Committee JSON from wyoleg.gov site
+- url: https://www.wyoleg.gov/Committees/2023/SMC
+- url: https://www.wyoleg.gov/Committees/2024/SMC
+- url: https://www.wyoleg.gov/Committees/2025/SMC
+- url: https://www.wyoleg.gov/Committees/2026/SMC
+links:
+- url: https://www.wyoleg.gov/Committees/2023/SMC
+  note: homepage
+- url: https://www.wyoleg.gov/Committees/2024/SMC
+  note: homepage
+- url: https://www.wyoleg.gov/Committees/2025/SMC
+- url: https://www.wyoleg.gov/Committees/2026/SMC
+members:
+- name: Bo Biteman
+  role: chair
+  person_id: ocd-person/016465da-4d49-4ffc-8bb0-cf9528bc6d0e
+- name: Chip Neiman
+  role: vice chair
+  person_id: ocd-person/b9414bc4-f900-474b-b99c-8f2716419683
+- name: Barry Crago
+  role: member
+  person_id: ocd-person/c6578593-1ca0-4b7d-8635-67249df87c36
+- name: Jeremy Haroldson
+  role: member
+  person_id: ocd-person/b9bbea38-a84b-4173-a599-cd9f5500b181
+- name: John Bear
+  role: member
+  person_id: ocd-person/931a9e71-33a6-4e65-be91-703ad612447e
+- name: Mike Gierau
+  role: member
+  person_id: ocd-person/587874e4-f0c9-4679-aa08-a2442b7d33b1
+- name: Mike Yin
+  role: member
+  person_id: ocd-person/28649646-1108-4954-9381-4aa2d3b6f31b
+- name: Scott Heiner
+  role: member
+  person_id: ocd-person/232d6600-4cfd-40a1-abb9-8a1eecd84768
+- name: Tara Nethercott
+  role: member
+  person_id: ocd-person/f20c9c17-f2bd-4c88-9f6f-208af6a61f26
+- name: Tim Salazar
+  role: member
+  person_id: ocd-person/4f702d02-54ad-4143-837a-09be9a03ee6e
+other_names:
+- name: Joint Committee on Management Council
+- name: Joint Management Council
+- name: Joint Management Council Committee

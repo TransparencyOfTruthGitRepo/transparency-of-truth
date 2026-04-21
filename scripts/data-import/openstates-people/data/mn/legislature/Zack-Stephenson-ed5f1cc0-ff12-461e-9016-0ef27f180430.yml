@@ -1,0 +1,37 @@
+id: ocd-person/ed5f1cc0-ff12-461e-9016-0ef27f180430
+name: Zack Stephenson
+given_name: Zack
+family_name: Stephenson
+birth_date: 1984-07-18
+gender: Male
+email: rep.zack.stephenson@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/35A.gif?v=112221
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 35A
+- start_date: 2019-01-08
+  end_date: 2023-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 36A
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-5513
+links:
+- url: https://www.house.mn.gov/members/profile/15507
+other_names:
+- name: Stephenson, Z.
+- name: Z. Stephenson
+- name: Z.L. Stephenson
+sources:
+- url: https://ballotpedia.org/Zack_Stephenson
+- url: https://en.wikipedia.org/wiki/Zack_Stephenson
+- url: https://justfacts.votesmart.org/candidate/biography/183789/zack-stephenson
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15507
+- url: https://www.linkedin.com/in/zackstephenson

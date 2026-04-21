@@ -1,0 +1,137 @@
+id: ocd-person/612162b9-752c-50f4-b2e5-de10dae5c160
+name: Mike Rogers
+given_name: Mike
+family_name: Rogers
+birth_date: 1958-07-16
+gender: Male
+email: https://mikerogers.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/R000575.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2003-01-03
+  end_date: 2030-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-3
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-3
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-3
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-3
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-3
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-3
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-3
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-3
+- start_date: 2009-01-06
+  end_date: 2011-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-3
+- start_date: 2007-01-04
+  end_date: 2009-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-3
+- start_date: 2005-01-04
+  end_date: 2007-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-3
+- start_date: 2003-01-07
+  end_date: 2005-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-3
+offices:
+- classification: capitol
+  address: 2469 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-3261
+  fax: 202-226-8485
+- classification: district
+  address: 149 E. Hamric Drive Suite D, Oxford, AL 36203
+  voice: 256-236-5655
+  fax: 771-200-5538
+- classification: district
+  address: G.W. Andrews Federal Building 701 Avenue A, Suite 300, Opelika, AL 36801
+  voice: 334-745-6221
+  fax: 334-742-0109
+links:
+- url: https://mikerogers.house.gov
+  note: website
+- url: https://mikerogers.house.gov/
+other_names:
+- name: M. Rogers
+- name: M.D. Rogers
+- name: Rogers, M.
+ids:
+  twitter: RepMikeRogersAL
+  youtube: UCH-WUWuY0_dlKwJDSqKTJsg
+  facebook: CongressmanMikeDRogers
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Mike Rogers (Alabama)
+- scheme: bioguide
+  identifier: R000575
+- scheme: cspan
+  identifier: '1014740'
+- scheme: fec
+  identifier: H2AL03032
+- scheme: google_entity_id
+  identifier: kg:/m/024n_s
+- scheme: govtrack
+  identifier: '400341'
+- scheme: house_history
+  identifier: '20795'
+- scheme: icpsr
+  identifier: '20301'
+- scheme: maplight
+  identifier: '433'
+- scheme: opensecrets
+  identifier: N00024759
+- scheme: pictorial
+  identifier: '12896'
+- scheme: thomas
+  identifier: '01704'
+- scheme: votesmart
+  identifier: '5705'
+- scheme: wikidata
+  identifier: Q693238
+- scheme: wikipedia
+  identifier: Mike Rogers (Alabama politician)
+sources:
+- url: https://ballotpedia.org/Mike_Rogers_(Alabama)
+- url: https://en.wikipedia.org/wiki/Mike_D._Rogers
+- url: https://mikerogers.house.gov
+- url: https://mikerogers.house.gov/about
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/mike_rogers/400341
+- url: https://www.linkedin.com/in/repmikerogersal
+- url: https://www.mikerogersforcongress.com/about

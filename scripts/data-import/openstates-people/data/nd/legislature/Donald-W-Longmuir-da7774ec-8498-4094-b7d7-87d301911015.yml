@@ -1,0 +1,52 @@
+id: ocd-person/da7774ec-8498-4094-b7d7-87d301911015
+name: Donald Longmuir
+given_name: Donald
+family_name: Longmuir
+gender: Male
+email: dlongmuir@ndlegis.gov
+image: https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/dlongmuir2023.jpg?itok=p9sLxmtn
+party:
+- name: Republican
+roles:
+- start_date: 2016-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '2'
+offices:
+- classification: capitol
+  address: State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505
+- classification: district-mail
+  address: ND
+  voice: 701-628-2617
+links:
+- url: https://ndlegis.gov/biography/donald-w-longmuir
+- url: https://www.legis.nd.gov/assembly/65-2017/members/house/representative-donald-w-longmuir
+- url: https://www.legis.nd.gov/assembly/66-2019/members/house/representative-donald-w-longmuir
+- url: https://www.legis.nd.gov/assembly/67-2021/members/house/representative-donald-longmuir
+- url: https://www.ndlegis.gov/biography/donald-w-longmuir
+other_names:
+- name: D. Longmuir
+- name: D.W. Longmuir
+- name: Donald W. Longmuir
+- name: Longmuir, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NDL000479
+- scheme: openstates
+  identifier: ocd-person/cfb50b5f-bfbf-48b7-bae9-93188801292d
+sources:
+- url: https://ballotpedia.org/Donald_Longmuir
+- url: https://en.wikipedia.org/wiki/Donald_Longmuir
+- url: https://justfacts.votesmart.org/candidate/biography/170633/donald-longmuir
+- url: https://ndlegis.gov/biography/donald-w-longmuir
+- url: https://www.legis.nd.gov/assembly/65-2017/members/house/representative-donald-w-longmuir
+- url: https://www.legis.nd.gov/assembly/66-2019/members/house/representative-donald-w-longmuir
+- url: https://www.legis.nd.gov/assembly/67-2021/members/house/representative-donald-longmuir
+- url: https://www.legis.nd.gov/assembly/67-2021/members/members-by-district
+- url: https://www.linkedin.com/in/donald-longmuir-0898246
+- url: https://www.ndlegis.gov/assembly/68-2023/regular/members?combine=&field_legis_chamber_target_id=All&field_legis_district_target_id=All&field_legislator_party_target_id=All&page=4
+  note: members list page
+- url: https://www.ndlegis.gov/biography/donald-w-longmuir
+extras:
+  cell: 701-629-1632
+  home: 701-628-2617

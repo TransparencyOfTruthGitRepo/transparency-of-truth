@@ -1,0 +1,34 @@
+id: ocd-person/10e1b0b6-8c1d-4f2b-b29a-08770991b1d4
+name: Emily Dievendorf
+given_name: Emily
+family_name: Dievendorf
+gender: X
+email: emilydievendorf@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '77'
+offices:
+- classification: capitol
+  address: Room S-1096, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-2277
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/Emily-Dievendorf/
+other_names:
+- name: Dievendorf, E.
+- name: E. Dievendorf
+sources:
+- url: https://ballotpedia.org/Emily_Dievendorf
+- url: https://housedems.com/Emily-Dievendorf
+- url: https://housedems.com/Emily-Dievendorf/
+  note: Member Details Page
+- url: https://housedems.com/emily-dievendorf/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/emily-dievendorf-b078738a

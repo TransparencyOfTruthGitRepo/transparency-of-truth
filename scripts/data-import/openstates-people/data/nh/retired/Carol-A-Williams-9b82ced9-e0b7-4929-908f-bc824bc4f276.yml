@@ -1,0 +1,21 @@
+id: ocd-person/9b82ced9-e0b7-4929-908f-bc824bc4f276
+name: Carol A Williams
+given_name: Carol
+family_name: Williams
+middle_name: A
+image: http://www.livefreeordiealliance.org/Portals/0/images_candidates/CWilliamsHH14.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 14
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376179
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000798
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members.txt

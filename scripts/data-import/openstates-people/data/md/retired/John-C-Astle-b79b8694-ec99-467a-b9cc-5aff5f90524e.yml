@@ -1,0 +1,21 @@
+id: ocd-person/b79b8694-ec99-467a-b9cc-5aff5f90524e
+name: John C. Astle
+given_name: John
+family_name: Astle
+image: http://mgaleg.maryland.gov/2018RS/images/astle.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2019-01-08'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '30'
+links:
+- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=astle&stab=01
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000190
+- scheme: legacy_openstates
+  identifier: MDL000424
+sources:
+- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=astle&stab=01

@@ -1,0 +1,35 @@
+id: ocd-person/b0d93fc5-2efc-4908-aceb-7b2fc208b34d
+name: Luke Frederick
+given_name: Luke
+family_name: Frederick
+gender: Male
+email: rep.luke.frederick@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/18B.gif?v=112221
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 18B
+- start_date: 2021-01-05
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 19B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-3248
+links:
+- url: https://www.house.mn.gov/members/profile/15542
+other_names:
+- name: Frederick, L.
+- name: L. Frederick
+sources:
+- url: https://ballotpedia.org/Luke_Frederick
+- url: https://en.wikipedia.org/wiki/Luke_Frederick
+- url: https://justfacts.votesmart.org/candidate/biography/194250/luke-frederick
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15542
+- url: https://www.linkedin.com/in/luke-frederick-5354261b3

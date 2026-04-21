@@ -1,0 +1,22 @@
+id: ocd-person/86feda61-2f70-4018-bc3a-2500807a3d64
+name: Heather Dawes Fitzenhagen
+given_name: Heather
+family_name: Fitzenhagen
+middle_name: Dawes
+image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4574.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '78'
+links:
+- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4574&SessionId=75
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: FLL000238
+sources:
+- url: http://www.flhouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4574&SessionId=75

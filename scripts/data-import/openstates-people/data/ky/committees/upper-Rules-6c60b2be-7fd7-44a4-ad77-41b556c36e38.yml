@@ -1,0 +1,40 @@
+id: ocd-organization/6c60b2be-7fd7-44a4-ad77-41b556c36e38
+jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+classification: committee
+name: Rules
+chamber: upper
+sources:
+- url: https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=113&CommitteeType=Senate%20Standing%20Committee
+  note: homepage
+links:
+- url: https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=113&CommitteeType=Senate%20Standing%20Committee
+  note: homepage
+members:
+- name: Robert Stivers
+  role: chair
+  person_id: ocd-person/8659c7e3-ec01-4c40-b7ee-d21f37facff5
+- name: Cassie Armstrong
+  role: member
+  person_id: ocd-person/8dbecabb-ef15-4925-8e50-26331e738a05
+- name: David Givens
+  role: member
+  person_id: ocd-person/5594a97f-7358-427e-af84-43150a21c97e
+- name: Gerald Neal
+  role: member
+  person_id: ocd-person/0d92a09c-ce23-46cd-9582-b7d1b08d76dd
+- name: Max Wise
+  role: member
+  person_id: ocd-person/32b5035e-6d1a-44b8-9f7a-4173a1cdb940
+- name: Mike Wilson
+  role: member
+  person_id: ocd-person/64af8584-1675-47fd-acfb-1cec59dfdda5
+- name: Reggie Thomas
+  role: member
+  person_id: ocd-person/42b259db-9ddb-4588-a463-b1a38c944c66
+- name: Robby Mills
+  role: member
+  person_id: ocd-person/366daab1-a877-49b9-86b8-e3c497143bf0
+other_names:
+- name: Senate Committee on Rules
+- name: Senate Rules
+- name: Senate Rules Committee

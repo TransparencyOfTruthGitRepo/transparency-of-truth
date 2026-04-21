@@ -1,0 +1,53 @@
+id: ocd-person/f4133b43-f822-4d95-b1e0-a0a524de56f6
+name: Chris Pringle
+given_name: Chris
+family_name: Pringle
+birth_date: 1961-02-25
+gender: Male
+email: chris.pringle@alhouse.gov
+image: https://www.legislature.state.al.us/pdf/house/members/Pringle_101.png
+party:
+- name: Republican
+roles:
+- start_date: 2014-11-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '101'
+- start_date: 1994-11-09
+  end_date: 2002-11-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '101'
+offices:
+- classification: capitol
+  address: Room 519-G, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0489
+- classification: district
+  address: 4 Princess Anne Road, Mobile, AL 36608
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100583&OID_PERSON=1109
+other_names:
+- name: C. Pringle
+- name: C.P. Pringle
+- name: Pringle, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000171
+- scheme: legacy_openstates
+  identifier: ALL000291
+- scheme: legacy_openstates
+  identifier: ALL000327
+sources:
+- url: https://ballotpedia.org/Chris_Pringle
+- url: https://en.wikipedia.org/wiki/Chris_Pringle_(politician)
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/5701/chris-pringle
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Pringle&OID_SPONSOR=100583&OID_PERSON=1109&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100583&OID_PERSON=1109
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+- url: https://www.linkedin.com/in/chris-pringle-7a427727
+extras:
+  counties: Mobile County

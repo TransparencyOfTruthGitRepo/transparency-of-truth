@@ -1,0 +1,54 @@
+id: ocd-person/979ea568-4c43-41bd-ba1e-4c2da172bb82
+name: Brad Roae
+given_name: Brad
+family_name: Roae
+birth_date: 1967-04-06
+gender: Male
+email: broae@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1083.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2007-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '6'
+offices:
+- classification: capitol
+  address: Room 151, East Wing P.O. Box 202006, Harrisburg, PA 17120
+  voice: 717-787-2353
+- classification: district
+  address: 145 W. Erie St., Linesville, PA 16424
+  voice: 814-683-6031
+- classification: district
+  address: 18937 Park Avenue Plaza, Meadville, PA 16335
+  voice: 814-336-1136
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1083
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1083/rep-roae
+- url: https://www.reproae.com/
+other_names:
+- name: B. Roae
+- name: B.T. Roae
+- name: Roae, B.
+ids:
+  twitter: RepRoae
+  youtube: RepRoae
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000208
+- scheme: legacy_openstates
+  identifier: PAL000403
+sources:
+- url: https://ballotpedia.org/Bradley_Roae
+- url: https://en.wikipedia.org/wiki/Brad_Roae
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1083
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/brad-roae-8b786aa
+- url: https://www.palegis.us/house/members/bio/1083/rep-roae
+- url: https://www.reproae.com
+extras:
+  website: http://www.reproae.com

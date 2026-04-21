@@ -1,0 +1,17 @@
+id: ocd-person/35eccd53-303b-4a15-bae2-5c7f3ac079bc
+name: Pedro Colon
+given_name: Pedro
+family_name: Colon
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '8'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000358
+sources:
+- url: https://docs.legis.wisconsin.gov/legislatorpages.aspx?house=Assembly&district=8

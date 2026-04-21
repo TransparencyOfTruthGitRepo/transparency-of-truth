@@ -1,0 +1,119 @@
+id: ocd-person/793e5b46-2682-51ff-bfca-adf217ca9a65
+name: Shelley Moore Capito
+given_name: Shelley Moore
+family_name: Capito
+birth_date: 1953-11-26
+gender: Female
+email: https://www.capito.senate.gov/contact/contact-my-office
+image: https://unitedstates.github.io/images/congress/450x550/C001047.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-06
+  end_date: 2030-12-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: West Virginia
+- start_date: 2015-01-06
+  end_date: 2021-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: West Virginia
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WV-2
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WV-2
+- start_date: 2009-01-06
+  end_date: 2011-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WV-2
+- start_date: 2007-01-04
+  end_date: 2009-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WV-2
+- start_date: 2005-01-04
+  end_date: 2007-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WV-2
+- start_date: 2003-01-07
+  end_date: 2005-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WV-2
+- start_date: 2001-01-03
+  end_date: 2003-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: WV-2
+offices:
+- classification: capitol
+  address: 170 Russell Senate Office Building, Washington, DC 20510
+  voice: 202-224-6472
+- classification: district
+  address: 300 Foxcroft Ave. Suite 202A, Martinsburg, WV 25401
+  voice: 304-262-9285
+- classification: district
+  address: 48 Donley St. Suite 504, Morgantown, WV 26501
+  voice: 304-292-2310
+- classification: district
+  address: 500 Virginia St. East Suite 950, Charleston, WV 25301
+  voice: 304-347-5372
+links:
+- url: https://www.capito.senate.gov
+  note: website
+- url: https://www.capito.senate.gov/
+- url: https://www.capito.senate.gov/contact/contact-shelley
+  note: contact form
+other_names:
+- name: Capito, S.
+- name: S. Capito
+- name: S.W.M. Capito
+ids:
+  twitter: SenCapito
+  youtube: UCbiXdR4XQ3vD9Xp5lfR9QXw
+  facebook: senshelley
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Shelley Moore Capito
+- scheme: bioguide
+  identifier: C001047
+- scheme: cspan
+  identifier: '83737'
+- scheme: fec
+  identifier: H0WV02138
+- scheme: google_entity_id
+  identifier: kg:/m/024pwq
+- scheme: govtrack
+  identifier: '400061'
+- scheme: house_history
+  identifier: '11762'
+- scheme: icpsr
+  identifier: '20146'
+- scheme: lis
+  identifier: S372
+- scheme: maplight
+  identifier: '179'
+- scheme: opensecrets
+  identifier: N00009771
+- scheme: thomas
+  identifier: '01676'
+- scheme: votesmart
+  identifier: '11701'
+- scheme: wikidata
+  identifier: Q459618
+sources:
+- url: https://ballotpedia.org/Shelley_Moore_Capito
+- url: https://en.wikipedia.org/wiki/Shelley_Moore_Capito
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.capito.senate.gov
+- url: https://www.govtrack.us/congress/members/shelley_capito/400061

@@ -1,0 +1,39 @@
+id: ocd-person/5a333327-70bb-4b95-9cfd-fadd701e9348
+name: John Cronin
+given_name: John
+family_name: Cronin
+gender: Male
+email: john.cronin@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/JJC0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Worcester and Middlesex
+offices:
+- classification: capitol
+  address: Room 218, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1230
+links:
+- url: https://malegislature.gov/Legislators/Profile/JJC0
+other_names:
+- name: Cronin, J.
+- name: J. Cronin
+- name: J.J. Cronin
+- name: John Cronin
+- name: John J. Cronin
+sources:
+- url: https://ballotpedia.org/John_J._Cronin
+- url: https://en.wikipedia.org/wiki/John_Cronin_(Massachusetts_politician)
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/JJC0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/JJC0
+- url: https://malegislature.gov/Legislators/Profile/JJC0
+- url: https://www.linkedin.com/in/john-cronin-a243046b
+extras:
+  member code: JJC0

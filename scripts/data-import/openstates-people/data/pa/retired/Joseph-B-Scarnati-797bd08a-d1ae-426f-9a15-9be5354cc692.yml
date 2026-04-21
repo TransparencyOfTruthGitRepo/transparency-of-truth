@@ -1,0 +1,26 @@
+id: ocd-person/797bd08a-d1ae-426f-9a15-9be5354cc692
+name: Joseph B. Scarnati
+given_name: Joseph
+family_name: Scarnati
+email: jscarnati@pasen.gov
+image: https://www.legis.state.pa.us/images/members/200/283.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-11-30'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '25'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=283
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000035
+- scheme: legacy_openstates
+  identifier: PAL000323
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=283
+extras:
+  facebook: https://www.facebook.com/senatorscarnati
+  twitter: https://www.twitter.com/senatorscarnati

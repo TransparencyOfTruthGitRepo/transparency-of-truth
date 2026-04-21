@@ -1,0 +1,38 @@
+id: ocd-person/5d8ac115-4a2b-4f0f-b70a-c1df26184891
+name: John Huot
+given_name: John
+family_name: Huot
+birth_date: 1965-05-23
+gender: Male
+email: rep.john.huot@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/56B.gif?v=112221
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 56B
+- start_date: 2019-01-08
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 57B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-4306
+links:
+- url: https://www.house.mn.gov/members/profile/15527
+other_names:
+- name: Huot, J.
+- name: J. Huot
+- name: J.D. Huot
+- name: John D. Huot
+sources:
+- url: https://ballotpedia.org/John_Huot
+- url: https://en.wikipedia.org/wiki/John_Huot
+- url: https://justfacts.votesmart.org/candidate/biography/171622/john-huot
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15527
+- url: https://www.linkedin.com/in/john-d-huot-9684366

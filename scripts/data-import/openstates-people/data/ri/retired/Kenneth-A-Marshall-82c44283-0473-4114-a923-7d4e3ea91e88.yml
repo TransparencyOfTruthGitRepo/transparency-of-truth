@@ -1,0 +1,25 @@
+id: ocd-person/82c44283-0473-4114-a923-7d4e3ea91e88
+name: Kenneth A. Marshall
+given_name: Kenneth A.
+family_name: Marshall
+image: http://www.rilin.state.ri.us/representatives/pictures/marshall1.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '68'
+links:
+- url: http://www.rilin.state.ri.us/representatives/carson/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000136
+sources:
+- url: http://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: http://www.rilin.state.ri.us/representatives/Marshall/
+extras:
+  name_first: Kenneth
+  name_last: Marshall
+  name_middle: A.
+  town_represented: Bristol, Warren

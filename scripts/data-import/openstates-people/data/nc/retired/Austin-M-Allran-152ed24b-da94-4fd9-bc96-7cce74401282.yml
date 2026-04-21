@@ -1,0 +1,21 @@
+id: ocd-person/152ed24b-da94-4fd9-bc96-7cce74401282
+name: Austin M Allran
+given_name: Austin
+family_name: Allran
+middle_name: M
+image: http://www.ncga.state.nc.us/Senate/pictures/hiRes/2.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '42'
+links:
+- url: http://www.ncga.state.nc.us/gascripts/members/viewMember.pl?sChamber=Senate&nUserID=2
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000002
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/viewMember.pl?sChamber=Senate&nUserID=2

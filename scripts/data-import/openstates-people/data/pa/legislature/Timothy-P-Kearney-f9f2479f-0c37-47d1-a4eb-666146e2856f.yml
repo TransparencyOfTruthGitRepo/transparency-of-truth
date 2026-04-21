@@ -1,0 +1,52 @@
+id: ocd-person/f9f2479f-0c37-47d1-a4eb-666146e2856f
+name: Tim Kearney
+given_name: Tim
+family_name: Kearney
+birth_date: 1960-11-22
+gender: Male
+email: senatorkearney@pasenate.com
+image: https://www.legis.state.pa.us/images/members/200/1800.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2018-12-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room 463, Main Capitol Senate Box 203026, Harrisburg, PA 17120
+  voice: 717-787-1350
+- classification: district
+  address: 438 E. Baltimore Ave. 1st Floor, Media, PA 19063
+  voice: 610-544-6120
+- classification: district
+  address: 51 Long Lane, Upper Darby, PA 19082
+  voice: 610-352-3409
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1800
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.palegis.us/senate/members/bio/1800/sen-kearney
+- url: https://www.senatorkearney.com/
+other_names:
+- name: Kearney, T.
+- name: T. Kearney
+- name: T.P. Kearney
+- name: Timothy Kearney
+- name: Timothy P. Kearney
+ids:
+  twitter: SenTimKearney
+  instagram: sentimkearney
+  facebook: SenTimKearney
+sources:
+- url: https://ballotpedia.org/Timothy_Kearney
+- url: https://en.wikipedia.org/wiki/Tim_Kearney_(politician)
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=S&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1800
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: https://www.linkedin.com/in/tim-kearney-6b488b3
+- url: https://www.palegis.us/senate/members/bio/1800/sen-kearney
+- url: https://www.senatorkearney.com
+extras:
+  website: http://www.senatorkearney.com/

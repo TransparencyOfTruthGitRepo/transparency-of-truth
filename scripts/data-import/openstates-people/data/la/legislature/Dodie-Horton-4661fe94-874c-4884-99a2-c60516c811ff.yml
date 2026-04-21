@@ -1,0 +1,47 @@
+id: ocd-person/4661fe94-874c-4884-99a2-c60516c811ff
+name: Dodie Horton
+given_name: Dodie
+family_name: Horton
+gender: Female
+email: hortond@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep9.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '9'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 954 Highway 80 Suite 400, Haughton, LA 71037
+  voice: 318-949-2463
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=9
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=9
+other_names:
+- name: D. Horton
+- name: Horton, D.
+- name: S.D.M. Horton
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000840
+- scheme: legacy_openstates
+  identifier: LAL000954
+sources:
+- url: https://ballotpedia.org/Dodie_Horton
+- url: https://en.wikipedia.org/wiki/Dodie_Horton
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=9
+- url: https://house.louisiana.gov/H_Reps/members?ID=9
+- url: https://justfacts.votesmart.org/candidate/165610/dodie-horton
+- url: https://www.linkedin.com/in/dodie-horton-3a8136100
+extras:
+  legislative assistant: "Donna F. O\u2019Neal"
+  representing parishes:
+  - Bossier
+  education: Woodlawn High School

@@ -1,0 +1,28 @@
+id: ocd-person/98ba1778-693a-41a5-9f4a-94f10d1c9fcd
+name: Paul Honig
+given_name: Paul
+family_name: Honig
+gender: Male
+email: paul.honig@cga.ct.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/PaulHonig.jpeg
+party:
+- name: Democratic/Working Families
+roles:
+- start_date: 2025-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room 2302, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-0598
+links:
+- url: https://www.senatedems.ct.gov/senator/paul-honig
+other_names:
+- name: Honig, P.
+- name: P. Honig
+sources:
+- url: https://ballotpedia.org/Paul_Honig
+- url: https://en.wikipedia.org/wiki/Paul_Honig
+- url: https://www.linkedin.com/in/paul-honig-70b20116
+- url: https://www.senatedems.ct.gov/senator/paul-honig

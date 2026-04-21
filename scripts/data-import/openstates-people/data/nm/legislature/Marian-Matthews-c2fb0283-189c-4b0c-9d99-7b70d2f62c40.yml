@@ -1,0 +1,43 @@
+id: ocd-person/c2fb0283-189c-4b0c-9d99-7b70d2f62c40
+name: Marian Matthews
+given_name: Marian
+family_name: Matthews
+gender: Female
+email: marian.matthews@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HMATT.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '27'
+offices:
+- classification: capitol
+  address: State Capitol Room 206B, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4248
+- classification: district-mail
+  address: P.O. Box 20083, Albuquerque, NM 87154
+links:
+- url: https://www.linkedin.com/in/marianmatthews/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HMATT
+  note: homepage
+other_names:
+- name: M. Matthews
+- name: Matthews, M.
+- name: Matthews, Marian
+ids:
+  twitter: Hd27Marian
+  facebook: MarianMatthewsHD27
+sources:
+- url: https://ballotpedia.org/Marian_Matthews
+- url: https://en.wikipedia.org/wiki/Marian_Matthews
+- url: https://www.linkedin.com/in/marianmatthews
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HMATT
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Bernalillo
+  service: Representative since 2020
+  occupation: Retired

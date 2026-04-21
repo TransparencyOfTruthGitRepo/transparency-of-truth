@@ -1,0 +1,37 @@
+id: ocd-person/2dd65a68-0ea5-4c15-b5fe-bcde086eb357
+name: Marcus Vaughn
+given_name: Marcus
+family_name: Vaughn
+birth_date: 1985-12-04
+gender: Male
+email: marcus.vaughn@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/MSV1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 9th Norfolk
+offices:
+- classification: capitol
+  address: Room 473B, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2263
+links:
+- url: https://malegislature.gov/Legislators/Profile/MSV1
+other_names:
+- name: M. Vaughn
+- name: M.S. Vaughn
+- name: Marcus S. Vaughn
+- name: Vaughn, M.
+sources:
+- url: https://ballotpedia.org/Marcus_Vaughn
+- url: https://en.wikipedia.org/wiki/Marcus_Vaughn
+- url: https://justfacts.votesmart.org/candidate/209620/marcus-vaughn
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/MSV1
+- url: https://malegislature.gov/Legislators/Profile/MSV1
+- url: https://www.linkedin.com/in/marcussvaughn
+extras:
+  member code: MSV1

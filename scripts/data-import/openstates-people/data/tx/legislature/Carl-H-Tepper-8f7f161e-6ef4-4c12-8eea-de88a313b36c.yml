@@ -1,0 +1,38 @@
+id: ocd-person/8f7f161e-6ef4-4c12-8eea-de88a313b36c
+name: Carl Tepper
+given_name: Carl
+family_name: Tepper
+gender: Male
+email: carl.tepper@house.texas.gov
+image: https://house.texas.gov/images/members/4360.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '84'
+offices:
+- classification: capitol
+  address: Room E1.316, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0676
+- classification: district
+  address: 6515 68th St. Suite 200-7, Lubbock, TX 79424
+  voice: 806-407-5633
+links:
+- url: https://house.texas.gov/members/4360
+- url: https://house.texas.gov/members/member-page/?district=84
+other_names:
+- name: C. Tepper
+- name: C.H. Tepper
+- name: Carl H. Tepper
+- name: Tepper
+- name: Tepper, C.
+- name: Tepper, Carl
+sources:
+- url: https://ballotpedia.org/Carl_Tepper
+- url: https://en.wikipedia.org/wiki/Carl_Tepper
+- url: https://house.texas.gov/members/4360
+- url: https://house.texas.gov/members/4360/biography
+- url: https://house.texas.gov/members/member-page/?district=84
+- url: https://www.linkedin.com/in/carl-tepper-6ba995178

@@ -1,0 +1,20 @@
+id: ocd-person/b2399667-3525-4773-a91c-d15f06374868
+name: David Taylor
+given_name: David
+family_name: Taylor
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/taylor.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-13'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '15'
+links:
+- url: http://houserepublicans.wa.gov/David-Taylor/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000140
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx

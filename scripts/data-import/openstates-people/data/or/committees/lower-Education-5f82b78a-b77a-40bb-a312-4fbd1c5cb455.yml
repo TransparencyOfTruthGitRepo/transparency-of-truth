@@ -1,0 +1,49 @@
+id: ocd-organization/5f82b78a-b77a-40bb-a312-4fbd1c5cb455
+jurisdiction: ocd-jurisdiction/country:us/state:or/government
+classification: committee
+name: Education
+chamber: lower
+sources:
+- url: https://olis.oregonlegislature.gov/liz/2023R1/Committees/HED/CommitteeMembers
+  note: Committee details page
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/HED/CommitteeMembers
+  note: Committee details page
+- url: https://olis.oregonlegislature.gov/liz/2025I1/Committees/HED/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025R1/Committees/HED/Overview
+links:
+- url: https://olis.oregonlegislature.gov/liz/2023R1/Committees/HED/CommitteeMembers
+  note: homepage
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/HED/CommitteeMembers
+  note: homepage
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/HED/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025I1/Committees/HED/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025R1/Committees/HED/Overview
+members:
+- name: Zach Hudson
+  role: chair
+  person_id: ocd-person/83bbae41-6ba0-477e-a584-8ad7df1283d8
+- name: April Dobson
+  role: vice chair
+  person_id: ocd-person/571be1bf-e0ba-45a3-97be-d5df3bc98738
+- name: Emily McIntire
+  role: vice chair
+  person_id: ocd-person/2ef0c138-ff50-4a2b-9914-1a5edb506b49
+- name: Boomer Wright
+  role: member
+  person_id: ocd-person/a95c31b3-9bfa-4ab1-93d1-278082ead92a
+- name: Darin Harbick
+  role: member
+  person_id: ocd-person/69c394b0-4299-4776-82aa-f847907f5308
+- name: Lisa Fragala
+  role: member
+  person_id: ocd-person/d75fd48f-fff7-4ccb-a46e-93854b4de3eb
+- name: Sarah McDonald
+  role: member
+  person_id: ocd-person/77cbf3a1-387e-424d-87fc-51a46d770921
+- name: Sue Rieke Smith
+  role: member
+  person_id: ocd-person/0f296591-6b7e-40b0-8a92-9198dd72bd7e
+other_names:
+- name: House Committee on Education
+- name: House Education
+- name: House Education Committee

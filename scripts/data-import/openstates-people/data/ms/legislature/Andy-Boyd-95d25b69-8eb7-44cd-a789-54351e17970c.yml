@@ -1,0 +1,46 @@
+id: ocd-person/95d25b69-8eb7-44cd-a789-54351e17970c
+name: Andy Boyd
+given_name: Andy
+family_name: Boyd
+birth_date: 1957-06-26
+gender: Male
+email: aboyd@house.ms.gov
+image: http://billstatus.ls.state.ms.us/members/house/boyd_(37).jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-22
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '37'
+offices:
+- classification: capitol
+  address: State Capitol 400 High St., Jackson, MS 39201
+  voice: 601-359-3770
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/boyd_(37).xml
+  note: homepage
+- url: https://billstatus.ls.state.ms.us/members/house/boyd_(37th).xml
+  note: homepage
+other_names:
+- name: A. Boyd
+- name: Boyd (37th)
+- name: Boyd, A.
+- name: G.A. Boyd
+- name: George Andrew Boyd
+sources:
+- url: https://ballotpedia.org/Andy_Boyd
+- url: https://billstatus.ls.state.ms.us/members/house/boyd_(37).xml
+- url: https://billstatus.ls.state.ms.us/members/house/boyd_(37th).xml
+- url: https://billstatus.ls.state.ms.us/members/hr_membs.xml
+- url: https://en.wikipedia.org/wiki/Andy_Boyd
+- url: https://justfacts.votesmart.org/candidate/evaluations/211082/andy-boyd
+extras:
+  education:
+  - Bachelor of Science - Business Administration, Mississippi State University
+  counties represented:
+  - Clay
+  - Lowndes
+  - Oktibbeha

@@ -1,0 +1,36 @@
+id: ocd-person/583c130d-a97a-48c9-9a18-03e94aa93930
+name: Curtis Travis
+given_name: Curtis
+family_name: Travis
+gender: Male
+email: cltravis620@charter.net
+image: https://www.legislature.state.al.us/pdf/house/members/Travis_72.png
+party:
+- name: Democratic
+roles:
+- start_date: 2022-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '72'
+offices:
+- classification: capitol
+  address: Room 539-E, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0559
+- classification: district
+  address: 620 Haymarket Lane, Tuscaloosa, AL 35405
+  voice: 205-349-9183
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+other_names:
+- name: C. Travis
+- name: C.L. Travis
+- name: Travis, C.
+sources:
+- url: https://ballotpedia.org/Curtis_Travis
+- url: https://en.wikipedia.org/wiki/Curtis_Travis
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/201890/curtis-travis
+extras:
+  counties: Bibb County, Greene County, Hale County, Tuscaloosa County

@@ -1,0 +1,36 @@
+id: ocd-person/73fc9839-619a-4ad5-bbbd-dfaf7f308e09
+name: Kathleen Cates
+given_name: Kathleen
+family_name: Cates
+gender: Female
+email: kathleen.cates@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HCATE.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '44'
+offices:
+- classification: capitol
+  address: State Capitol Room 413F, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4432
+- classification: district-mail
+  address: P.O. Box 15631, Rio Rancho, NM 87124
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HCATE
+  note: homepage
+other_names:
+- name: Cates, K.
+- name: Cates, Kathleen
+- name: K. Cates
+sources:
+- url: https://ballotpedia.org/Kathleen_Cates
+- url: https://en.wikipedia.org/wiki/Kathleen_Cates
+- url: https://www.linkedin.com/in/kathleen-holmes-cates-b179831ab
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HCATE
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Bernalillo & Sandoval

@@ -1,0 +1,59 @@
+id: ocd-organization/bd5001b2-0490-4a0f-95f7-31e5514cf67a
+jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+classification: committee
+name: Agriculture and Livestock
+chamber: lower
+sources:
+- url: https://capitol.texas.gov/Committees/CommitteesMbrs.aspx?Chamber=H
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C020
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C020
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C020
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C020
+- url: https://house.texas.gov/committees/committee/020
+- url: https://house.texas.gov/committees/committee/?committee=C020
+links:
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C020
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C020
+  note: homepage
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C020
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C020
+- url: https://house.texas.gov/committees/committee/020
+- url: https://house.texas.gov/committees/committee/?committee=C020
+members:
+- name: Ryan Guillen
+  role: chair
+  person_id: ocd-person/f0ede995-2253-4f7b-a922-6da34e4de194
+- name: Bobby Guerra
+  role: vice chair
+  person_id: ocd-person/51591894-e9ff-48d3-81c5-897ec1c5e600
+- name: Andy Hopper
+  role: member
+  person_id: ocd-person/ee8cc382-84b7-47e3-824f-e05cf6455161
+- name: Brent Money
+  role: member
+  person_id: ocd-person/469f1932-49dc-4a46-8341-b2cd9bc0f96d
+- name: Briscoe Cain
+  role: member
+  person_id: ocd-person/065c24a0-401a-4dc5-a19c-e7d96dcbffc5
+- name: Don McLaughlin
+  role: member
+  person_id: ocd-person/0941f4bf-2ac8-48d0-8675-191514e06850
+- name: Janie Lopez
+  role: member
+  person_id: ocd-person/a732704e-9b03-449c-b24f-f4c567b5acdd
+- name: "Sergio Mu\xF1oz"
+  role: member
+  person_id: ocd-person/b7c4e0e7-4949-4dff-bc4c-fdaaada3f37d
+- name: Stan Kitzman
+  role: member
+  person_id: ocd-person/2662f888-95e0-4de3-be5b-3d023623c447
+other_names:
+- name: House Agriculture and Livestock
+- name: House Agriculture and Livestock Committee
+- name: House Committee on Agriculture and Livestock
+extras:
+  clerk: Justin Williamson
+  legislature: 88(R) - 2023
+  phone: (512) 463-0762
+  appointment date: 2/8/2023
+  room: EXT E2.114

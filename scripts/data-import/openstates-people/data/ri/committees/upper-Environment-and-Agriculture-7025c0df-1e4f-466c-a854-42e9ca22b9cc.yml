@@ -1,0 +1,45 @@
+id: ocd-organization/7025c0df-1e4f-466c-a854-42e9ca22b9cc
+jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+classification: committee
+name: Environment and Agriculture
+chamber: upper
+sources:
+- url: https://webserver.rilegislature.gov/ComMembers/ComMemS.asp?ComChoiceS=SEAA
+- url: https://www.rilegislature.gov/pages/committees.aspx
+- url: https://www.rilegislature.gov/Pages/SenateCommitteeMembers.aspx?ComChoiceS=SEAA&CommitteeName=Environment%20and%20Agriculture
+links:
+- url: https://webserver.rilegislature.gov/ComMembers/ComMemS.asp?ComChoiceS=SEAA
+- url: https://www.rilegislature.gov/Pages/SenateCommitteeMembers.aspx?ComChoiceS=SEAA&CommitteeName=Environment%20and%20Agriculture
+members:
+- name: Sue Sosnowski
+  role: chair
+  person_id: ocd-person/c5757781-d437-4b9b-b7a1-9bb96c9b74ab
+- name: Bob Britto
+  role: vice chair
+  person_id: ocd-person/01ddc920-772c-4098-b9f8-8704783940e5
+- name: Lammis Vargas
+  role: secretary
+  person_id: ocd-person/5ab817c5-d86c-4bf0-9a8f-78ca20cdc56b
+- name: Alana DiMario
+  role: member
+  person_id: ocd-person/9dbec823-aab4-40bb-a26a-e51a896dcc1f
+- name: Gordon Rogers
+  role: member
+  person_id: ocd-person/961061c2-4ce9-4ac4-85c4-28b20c800e9d
+- name: Lori Urso
+  role: member
+  person_id: ocd-person/e676d270-0470-40c2-ab57-e8ced3471005
+- name: Meghan Kallman
+  role: member
+  person_id: ocd-person/2cd8c21d-f576-4060-a311-0459e01ffef6
+- name: Victoria Gu
+  role: member
+  person_id: ocd-person/afeed427-2ef1-4197-840d-7ab06883e186
+other_names:
+- name: Senate Committee on Environment and Agriculture
+- name: Senate Environment and Agriculture
+- name: Senate Environment and Agriculture Committee
+extras:
+  Clerk: Gabrielle Brown
+  Phone: 222-2381
+  Email: Slegislation@rilegislature.gov

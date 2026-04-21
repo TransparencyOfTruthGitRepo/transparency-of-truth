@@ -1,0 +1,18 @@
+id: ocd-person/cbd8dc67-ace8-4476-92e6-3f6ac39956db
+name: Alberto Torrico
+given_name: Alberto
+family_name: Torrico
+image: http://votesmart.org/canphoto/29471.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/government
+  district: '20'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CAL000078
+sources:
+- url: ftp://www.leginfo.ca.gov/pub/bill/

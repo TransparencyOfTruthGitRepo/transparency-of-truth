@@ -1,0 +1,47 @@
+id: ocd-person/6c7fa52c-c313-4f10-aab9-ba9cc0269743
+name: Dana Ferrell
+given_name: Dana
+family_name: Ferrell
+birth_date: 1961-04-17
+gender: Male
+email: dana.ferrell@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/ferrell_dana.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '60'
+- start_date: 2020-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '60'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '39'
+offices:
+- classification: capitol
+  address: State Capitol Room 224E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3194
+- classification: district-mail
+  address: P.O. Box 13757, Charleston, WV 25360
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Ferrell
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ferrell
+other_names:
+- name: D. Ferrell
+- name: D.J. Ferrell
+- name: Ferrell, D
+- name: Ferrell, D.
+sources:
+- url: https://ballotpedia.org/Dana_Ferrell
+- url: https://en.wikipedia.org/wiki/Dana_Ferrell
+- url: https://justfacts.votesmart.org/candidate/184300/dana-ferrell
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Ferrell
+- url: https://www.linkedin.com/in/dana-ferrell-54469432
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ferrell
+- url: https://www.wvlegislature.gov/House/roster.cfm

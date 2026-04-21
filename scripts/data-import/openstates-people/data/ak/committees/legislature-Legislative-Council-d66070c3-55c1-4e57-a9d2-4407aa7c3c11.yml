@@ -1,0 +1,66 @@
+id: ocd-organization/d66070c3-55c1-4e57-a9d2-4407aa7c3c11
+jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+classification: committee
+name: Legislative Council
+chamber: legislature
+sources:
+- url: https://www.akleg.gov/basis/Committee/Details/34?code=SLEC
+links:
+- url: https://www.akleg.gov/basis/Committee/Details/33?code=SLEC
+  note: homepage
+- url: https://www.akleg.gov/basis/Committee/Details/34?code=SLEC
+members:
+- name: Sara Hannan
+  role: chair
+  person_id: ocd-person/6cec7228-ed13-47f6-b896-59f927789f6d
+- name: Gary Stevens
+  role: vice chair
+  person_id: ocd-person/f5c83068-a809-4f57-8b77-1e77c87ee93b
+- name: Donna Mears
+  role: alternate
+  person_id: ocd-person/fbe52f5e-1dd2-4d44-9205-b2ebbbe39eee
+- name: "L\xF6ki Tobin"
+  role: alternate
+  person_id: ocd-person/c66c309d-1612-4eab-863c-59e34b643e2c
+- name: Ashley Carrick
+  role: member
+  person_id: ocd-person/1ac31dd3-6e42-43b1-91b0-4da4a1399543
+- name: Bert Stedman
+  role: member
+  person_id: ocd-person/bfdc2ee2-7760-4119-9d68-4962f1e1a285
+- name: Bryce Edgmon
+  role: member
+  person_id: ocd-person/b097e069-345d-42da-b821-0c2c9747ccfc
+- name: Calvin Schrage
+  role: member
+  person_id: ocd-person/8ed150a0-45be-4844-abe5-d921c9f5a435
+- name: Cathy Giessel
+  role: member
+  person_id: ocd-person/4ac9a4bf-e2d9-4257-a360-9e91dc234deb
+- name: Chuck Kopp
+  role: member
+  person_id: ocd-person/7474d172-6c90-47f9-aae1-9f66c9518be2
+- name: DeLena Johnson
+  role: member
+  person_id: ocd-person/d7d4a21d-942e-46f7-92b6-237f1741b025
+- name: Elvi Gray-Jackson
+  role: member
+  person_id: ocd-person/2ba2d14f-a08a-4f05-a9d4-5ca63d09561e
+- name: Jesse Kiehl
+  role: member
+  person_id: ocd-person/1ae3974e-660d-4526-b351-fff9b689b51a
+- name: Louise Stutes
+  role: member
+  person_id: ocd-person/2d74c456-7818-42bc-a284-63026fbbfc56
+- name: Lyman Hoffman
+  role: member
+  person_id: ocd-person/e187d603-9202-4f64-80b0-6366702aec11
+- name: Matt Claman
+  role: member
+  person_id: ocd-person/0b2d5ec3-c1b2-4b09-8444-144c92125cc4
+other_names:
+- name: Committee on Legislative Council
+- name: Joint Committee on Legislative Council
+- name: Joint Legislative Council
+- name: Joint Legislative Council Committee
+- name: Legislative Council Committee

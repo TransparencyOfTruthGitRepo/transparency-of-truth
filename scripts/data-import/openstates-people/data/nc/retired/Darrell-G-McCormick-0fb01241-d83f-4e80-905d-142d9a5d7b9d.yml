@@ -1,0 +1,21 @@
+id: ocd-person/0fb01241-d83f-4e80-905d-142d9a5d7b9d
+name: Darrell G McCormick
+given_name: Darrell
+family_name: McCormick
+middle_name: G
+image: http://www.ncga.state.nc.us/House/pictures/hiRes/587.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '92'
+links:
+- url: http://www.ncga.state.nc.us/gascripts/members/viewMember.pl?sChamber=House&nUserID=587
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000136
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/viewMember.pl?sChamber=House&nUserID=587

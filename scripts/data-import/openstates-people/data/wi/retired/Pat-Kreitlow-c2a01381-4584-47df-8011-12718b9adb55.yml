@@ -1,0 +1,17 @@
+id: ocd-person/c2a01381-4584-47df-8011-12718b9adb55
+name: Pat Kreitlow
+given_name: Pat
+family_name: Kreitlow
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '23'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000333
+sources:
+- url: http://legis.wi.gov/w3asp/contact/legislatorpages.aspx?house=Senate&district=23

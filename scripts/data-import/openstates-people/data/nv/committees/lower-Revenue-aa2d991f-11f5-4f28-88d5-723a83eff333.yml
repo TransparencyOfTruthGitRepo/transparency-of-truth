@@ -1,0 +1,52 @@
+id: ocd-organization/aa2d991f-11f5-4f28-88d5-723a83eff333
+jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+classification: committee
+name: Revenue
+chamber: lower
+sources:
+- url: https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/400/Overview
+- url: https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/FillSelectedCommitteeTab?selectedTab=Overview&committeeOrSubCommitteeKey=400
+  note: Committee detail page
+- url: https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/HomeCommittee/LoadCommitteeListTab?selectedTab=List
+  note: Committees list page
+- url: https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/445/Overview
+links:
+- url: https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/400/Overview
+- url: https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/FillSelectedCommitteeTab?selectedTab=Overview&committeeOrSubCommitteeKey=400
+  note: homepage
+- url: https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/445/Overview
+members:
+- name: Shea Backus
+  role: chair
+  person_id: ocd-person/1fa69460-c910-4cf1-acfb-1d44c342e658
+- name: Venicia Considine
+  role: vice chair
+  person_id: ocd-person/00175071-948a-4814-b66e-b07b2ec7785d
+- name: Danielle Gallant
+  role: member
+  person_id: ocd-person/bf8b61a8-585a-4357-82f8-bd8de898262b
+- name: Duy Nguyen
+  role: member
+  person_id: ocd-person/fb919fa4-e37e-4268-9f5d-e4c3e9490475
+- name: Erica Roth
+  role: member
+  person_id: ocd-person/1555ff9d-7b4a-46d9-be19-6a4be444f574
+- name: Greg Hafen
+  role: member
+  person_id: ocd-person/33330e1e-b22d-49d7-bce8-6964b289683a
+- name: Heather Goulding
+  role: member
+  person_id: ocd-person/bedabc75-c6b4-4949-9e0e-76b9432e740f
+- name: P.K. O'Neill
+  role: member
+  person_id: ocd-person/a964be66-bd32-48ab-b6c4-9ede22177328
+- name: Reuben D'Silva
+  role: member
+  person_id: ocd-person/eae59702-f6de-431e-98f0-9c4bc5b6e059
+- name: Tanya Flanagan
+  role: member
+  person_id: ocd-person/1af6f404-0dfc-424a-b6df-227f45782504
+other_names:
+- name: Assembly Committee on Revenue
+- name: Assembly Revenue
+- name: Assembly Revenue Committee

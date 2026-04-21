@@ -1,0 +1,20 @@
+id: ocd-person/7dec7fbb-1b22-4335-af9e-ce153c4ba6d1
+name: S. Marshall Wilson
+given_name: S. Marshall
+family_name: Wilson
+email: marshall.wilson@wvhouse.gov
+image: http://www.legis.state.wv.us/images/members/2019/house/wilson_s.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '60'
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Wilson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000360
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Wilson

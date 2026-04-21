@@ -1,0 +1,55 @@
+id: ocd-person/b3064a65-976e-4324-a66d-dfd44a0f0e3e
+name: Steve Doyle
+given_name: Steve
+family_name: Doyle
+birth_date: 1958-05-21
+gender: Male
+email: rep.doyle@legis.wisconsin.gov
+image: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2461.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2011-05-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '94'
+links:
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1551
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1888
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/2133
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2461
+- url: https://docs.legis.wisconsin.gov/2025/legislators/assembly/2727
+- url: https://legis.wisconsin.gov/assembly/94/doyle
+other_names:
+- name: DOYLE, S
+- name: Doyle, S
+- name: Doyle, S.
+- name: S. Doyle
+- name: S.P. Doyle
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000485
+sources:
+- url: https://ballotpedia.org/Steve_Doyle
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1551
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1888
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/
+- url: https://docs.legis.wisconsin.gov/2021/legislators/assembly/2133
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/
+  note: members list page
+- url: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2461
+  note: member detail page
+- url: https://docs.legis.wisconsin.gov/2025/legislators/assembly/2727
+- url: https://en.wikipedia.org/wiki/Steve_Doyle_(Wisconsin_politician)
+- url: https://justfacts.votesmart.org/candidate/98453/steve-doyle
+- url: https://justfacts.votesmart.org/candidate/biography/98453/steve-doyle
+- url: https://legis.wisconsin.gov/assembly/94/doyle
+extras:
+  website: http://legis.wisconsin.gov/assembly/94/doyle
+  extra phone: (888) 534-0094
+  staff1: James Macken
+  staff_email1: James.Macken@legis.wisconsin.gov
+  staff2: Stephen Pienkos
+  staff_email2: Stephen.Pienkos@legis.wisconsin.gov

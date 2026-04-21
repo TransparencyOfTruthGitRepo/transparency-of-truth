@@ -1,0 +1,25 @@
+id: ocd-person/3644b77c-32af-4510-b5a5-f9a74b385941
+name: Dianne Miller Hamilton
+given_name: Dianne
+family_name: Hamilton
+middle_name: Miller
+image: http://www.nmlegis.gov/lcs/graphics/photos/HHAMI.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '38'
+links:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HHAMI
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000080
+- scheme: legacy_openstates
+  identifier: NML000249
+- scheme: legacy_openstates
+  identifier: NML000327
+sources:
+- url: http://www.nmlegis.gov/Members/Legislator?SponCode=HHAMI

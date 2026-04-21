@@ -1,0 +1,74 @@
+id: ocd-person/1f6a3489-e152-487f-852a-23fc40a22185
+name: Steve Harshman
+given_name: Steve
+family_name: Harshman
+gender: Male
+email: steve.harshman@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-HarshmanSteve.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2003-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '37'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district
+  address: 4286 Moonbeam Road, Casper, WY 82604
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/H/717
+- url: https://www.wyoleg.gov/Legislators/2025/H/717
+- url: https://wyoleg.gov/Legislators/2019/R/717
+- url: https://wyoleg.gov/Legislators/2021/R/717
+other_names:
+- name: Harshman, S
+- name: Harshman, S.
+- name: S. Harshman
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000057
+sources:
+- url: https://ballotpedia.org/Steve_Harshman
+- url: https://en.wikipedia.org/wiki/Steve_Harshman
+- url: https://justfacts.votesmart.org/candidate/52736/steve-harshman
+- url: https://www.wyoleg.gov/Legislators/2023/H/717
+- url: https://www.wyoleg.gov/Legislators/2025/H/717
+- url: https://wyoleg.gov/Legislators/2019/R/717
+- url: https://wyoleg.gov/Legislators/2021/R/717
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
+- url: https://wyoleg.gov/LsoService/api/legislator/717
+extras:
+  county: Natrona County
+  education:
+  - schoolName: Midwest High School
+    gradYear: ''
+    degree: ''
+  - schoolName: Black Hills State University
+    gradYear: ''
+    degree: BS Education
+  - schoolName: Oregon State University - M Ed
+    gradYear: ''
+    degree: ''
+  religion: Catholic
+  spouse name: Becky
+  number of children: '4'
+  birth place: Casper
+  occupation: Teacher/Coach
+  leadership:
+  - startYear: '2019'
+    endYear: '2020'
+    position: Speaker of the House
+    currentLeader: false
+  - startYear: '2017'
+    endYear: '2018'
+    position: Speaker of the House
+    currentLeader: false
+  house years: 'House:  2003-Present'
+  prior service:
+  - chamber: House
+    startYear: 2003
+    endYear: Present
+    district: ' District 37, '

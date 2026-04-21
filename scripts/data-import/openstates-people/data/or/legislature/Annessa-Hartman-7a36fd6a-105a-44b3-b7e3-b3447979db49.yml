@@ -1,0 +1,31 @@
+id: ocd-person/7a36fd6a-105a-44b3-b7e3-b3447979db49
+name: Annessa Hartman
+given_name: Annessa
+family_name: Hartman
+gender: Female
+email: rep.annessahartman@oregonlegislature.gov
+image: https://www.clackamas.us/sites/default/files/2021-12/annessa_hartman.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '40'
+offices:
+- classification: capitol
+  address: Room H-487, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1440
+links:
+- url: https://www.oregonlegislature.gov/hartman
+  note: homepage
+other_names:
+- name: A. Hartman
+- name: Hartman, A.
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Annessa_Hartman
+- url: https://en.wikipedia.org/wiki/Annessa_Hartman
+- url: https://www.linkedin.com/in/annessahartman
+- url: https://www.oregonlegislature.gov/hartman
+- url: https://www.oregonlegislature.gov/hartman/Pages/biography.aspx

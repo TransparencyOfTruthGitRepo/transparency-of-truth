@@ -1,0 +1,44 @@
+id: ocd-person/0a7675f8-869f-4d49-9a14-c44201e8a8dc
+name: Tracy Ehlert
+given_name: Tracy
+family_name: Ehlert
+gender: Female
+email: tracy.ehlert@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27032
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '79'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '70'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://eepurl.com/gXOgt9
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=27032
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=27032
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=27032
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=27032
+other_names:
+- name: Ehlert, T.
+- name: T. Ehlert
+- name: T.A. Ehlert
+sources:
+- url: https://ballotpedia.org/Tracy_Ehlert
+- url: https://en.wikipedia.org/wiki/Tracy_Ehlert
+- url: https://justfacts.votesmart.org/candidate/biography/180257/tracy-ehlert
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=27032
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=27032
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=27032
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=27032
+- url: https://www.linkedin.com/in/tracy-ehlert-76b29b41
+extras:
+  occupation: Early Childhood Educator/Business Owner

@@ -1,0 +1,45 @@
+id: ocd-person/a0553b6f-7142-4321-9e3a-c089447d3a78
+name: Skip Daly
+given_name: Skip
+family_name: Daly
+gender: Male
+email: skip.daly@sen.state.nv.us
+image: http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/Daly.Skip.155.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-11-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '13'
+- start_date: 2016-11-09
+  end_date: 2020-11-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '13'
+- start_date: 2010-11-03
+  end_date: 2014-11-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '13'
+offices:
+- classification: capitol
+  address: Room 2143, Nevada Senate 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-1433
+- classification: district
+  address: Room 340, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/13
+  note: homepage
+other_names:
+- name: Daly, S.
+- name: Daly, Skip
+- name: R. Daly
+- name: S. Daly
+sources:
+- url: https://ballotpedia.org/Skip_Daly
+- url: https://en.wikipedia.org/wiki/Skip_Daly
+- url: https://justfacts.votesmart.org/candidate/biography/121904/skip-daly
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/13
+- url: https://www.linkedin.com/in/skip-daly-01a69a84

@@ -1,0 +1,29 @@
+id: ocd-person/0587d512-af93-412c-af29-acac9c7029ee
+name: Joni M Cutler
+given_name: Joni
+family_name: Cutler
+middle_name: M
+image: http://legis.state.sd.us/sessions/2009/cutlerj.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '14'
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '14'
+links:
+- url: http://legis.state.sd.us/sessions/2011/MemberDetail.aspx?Member=108
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000045
+- scheme: legacy_openstates
+  identifier: SDL000108
+sources:
+- url: http://legis.state.sd.us/sessions/2011/MemberDetail.aspx?Member=108
+- url: http://legis.state.sd.us/sessions/2011/MemberCommittees.aspx?Member=108

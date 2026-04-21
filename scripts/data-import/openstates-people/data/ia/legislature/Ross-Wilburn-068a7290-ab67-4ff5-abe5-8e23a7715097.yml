@@ -1,0 +1,33 @@
+id: ocd-person/068a7290-ab67-4ff5-abe5-8e23a7715097
+name: Ross Wilburn
+given_name: Ross
+family_name: Wilburn
+gender: Male
+email: ross.wilburn@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=28701
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '50'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://eepurl.com/gXMQCb
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=28701
+other_names:
+- name: R. Wilburn
+- name: Wilburn, R.
+sources:
+- url: https://ballotpedia.org/Ross_Wilburn
+- url: https://en.wikipedia.org/wiki/Ross_Wilburn
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=28701
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=28701
+- url: https://www.linkedin.com/in/ross-wilburn-2266811b
+extras:
+  home email: rosswilburn4iowa@gmail.com

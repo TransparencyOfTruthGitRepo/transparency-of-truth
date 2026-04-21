@@ -1,0 +1,21 @@
+id: ocd-person/0facd9ae-be64-4780-a45e-4fa84737f550
+name: Algie T Howell Jr.
+given_name: Algie
+family_name: Howell
+middle_name: T
+image: http://virginiageneralassembly.gov/house/members/photos/90.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2010-01-01'
+  end_date: '2015-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '90'
+links:
+- url: http://leg6.state.va.us/cgi-bin/legp604.exe?142+mbr+H168
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000078
+sources:
+- url: http://leg6.state.va.us/cgi-bin/legp604.exe?142+mbr+H168

@@ -1,0 +1,20 @@
+id: ocd-person/cf3448cf-989e-43d1-a003-48ec8dbf6281
+name: Adrian Madaro
+given_name: Adrian
+family_name: Madaro
+image: https://malegislature.gov/Images/MemberProfile/Web/amadaro.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 1st Suffolk
+links:
+- url: http://www.malegislature.gov/People/Profile/ACM1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000388
+sources:
+- url: http://www.malegislature.gov/People/Profile/ACM1

@@ -1,0 +1,46 @@
+id: ocd-person/638d1d66-ccbe-4107-b7fb-f3d22cb2ec9c
+name: Liz Krueger
+given_name: Liz
+family_name: Krueger
+birth_date: 1957-11-20
+gender: Female
+email: lkrueger@nysenate.gov
+image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2803-05-09%29%20Liz%20Krueger8x10HS-002.jpg?itok=Uhcv13n6
+party:
+- name: Democratic/Working Families
+roles:
+- start_date: 2013-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '28'
+offices:
+- classification: capitol
+  address: Room 416, Capitol Building 172 State Street, Albany, NY 12247
+  voice: 518-455-2297
+- classification: district
+  address: 211 E. 43rd St. Suite 2000, New York, NY 10017
+  voice: 212-490-9535
+links:
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/liz-krueger
+- url: https://www.nysenate.gov/senators/liz-krueger/contact
+other_names:
+- name: E. Krueger
+- name: Elizabeth Krueger
+- name: Krueger, L.
+- name: L. Krueger
+ids:
+  twitter: LizKrueger
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000028
+- scheme: legacy_openstates
+  identifier: NYL000233
+- scheme: legacy_openstates
+  identifier: NYL000358
+sources:
+- url: https://ballotpedia.org/Liz_Krueger
+- url: https://en.wikipedia.org/wiki/Liz_Krueger
+- url: https://justfacts.votesmart.org/candidate/biography/55235/liz-krueger
+- url: https://www.nysenate.gov/senators/liz-krueger
+- url: https://www.nysenate.gov/senators/liz-krueger/contact

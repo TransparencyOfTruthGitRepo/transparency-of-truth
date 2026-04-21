@@ -1,0 +1,60 @@
+id: ocd-person/52e67ab6-2039-458e-b7a8-9bb5f3694e11
+name: Richard Stuart
+given_name: Richard
+family_name: Stuart
+birth_date: 1964-01-06
+gender: Male
+email: senatorstuart@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/Stuart25
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '25'
+- start_date: 2008-01-09
+  end_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '28'
+offices:
+- classification: capitol
+  address: Room 510, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7525
+- classification: district-mail
+  address: P.O. Box 1146, Montross, VA 22520
+  voice: 804-493-8892
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S78
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S78
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S78
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S78
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S78
+- url: https://www.stuartforsenate.com/
+other_names:
+- name: R. Stuart
+- name: R.H. Stuart
+- name: Richard H. Stuart
+- name: Richard Henry Stuart
+- name: Stuart, R.
+- name: Stuart, Richard H.
+ids:
+  twitter: RichardStuartVA
+  facebook: richardhstuart
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000034
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S78
+- url: https://ballotpedia.org/Richard_Stuart,_Virginia_Senator
+- url: https://en.wikipedia.org/wiki/Richard_Stuart
+- url: https://justfacts.votesmart.org/candidate/biography/90324/richard-stuart
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S78
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S78
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S78
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S78
+- url: https://www.linkedin.com/in/richard-h-stuart-4a3198b8
+- url: https://www.stuartforsenate.com

@@ -1,0 +1,42 @@
+id: ocd-person/4815983e-d0b9-4ebc-855f-bb9eac8aa5ae
+name: Mike Freiberg
+given_name: Mike
+family_name: Freiberg
+birth_date: 1976-09-23
+gender: Male
+email: rep.mike.freiberg@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/43B.gif?v=112221
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 43B
+- end_date: 2023-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 45B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-4176
+links:
+- url: https://www.house.mn.gov/members/profile/15398
+other_names:
+- name: Freiberg, M.
+- name: M. Freiberg
+- name: M.J. Freiberg
+- name: M.J.A. Freiberg
+- name: Michael J.A. Freiberg
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000405
+- scheme: legacy_openstates
+  identifier: MNL000598
+sources:
+- url: https://ballotpedia.org/Mike_Freiberg
+- url: https://en.wikipedia.org/wiki/Mike_Freiberg
+- url: https://justfacts.votesmart.org/candidate/141051/mike-freiberg
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15398

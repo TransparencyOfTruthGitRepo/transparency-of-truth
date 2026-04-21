@@ -1,0 +1,49 @@
+id: ocd-person/0353532c-93a0-41cb-9621-278c8ef19178
+name: Roy Adams
+given_name: Roy
+family_name: Adams
+gender: Male
+email: hse062@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep62.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-04-27
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '62'
+- start_date: 2019-04-08
+  end_date: 2023-04-26
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '62'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district-mail
+  address: P.O. Box 217, Jackson, LA 70748
+  voice: 225-634-7470
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=62
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=62
+other_names:
+- name: Adams, R.
+- name: Daryl Adams
+- name: R. Adams
+- name: R.D. Adams
+- name: Roy Daryl Adams
+sources:
+- url: https://ballotpedia.org/Roy_Adams
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=62
+- url: https://house.louisiana.gov/H_Reps/members?ID=62
+extras:
+  legislative assistant: Faye H. Talbot
+  representing parishes:
+  - East Baton Rouge
+  - East Feliciana
+  - and West Feliciana
+  education: "Jackson High School; \r\nSouthwest Mississippi College;\r\nNortheastern\
+    \ University in Monroe, LA"

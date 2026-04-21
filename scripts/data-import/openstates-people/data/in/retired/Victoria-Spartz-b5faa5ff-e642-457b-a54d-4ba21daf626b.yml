@@ -1,0 +1,25 @@
+id: ocd-person/b5faa5ff-e642-457b-a54d-4ba21daf626b
+name: Victoria Spartz
+given_name: Victoria
+family_name: Spartz
+email: Senator.Spartz@iga.in.gov
+image: http://iga.in.gov/legislative/2020/portraits/legislator_victoria_spartz_1
+party:
+- name: Republican
+roles:
+- end_date: '2020-11-04'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '20'
+links:
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_victoria_spartz_1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: INL000306
+sources:
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_victoria_spartz_1
+- url: https://api.iga.in.gov/2020/legislators/victoria_spartz_1
+offices:
+- address: 200 W. Washington Street;Indianapolis, IN 46204
+  voice: 800-382-9467
+  classification: capitol

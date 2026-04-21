@@ -1,0 +1,44 @@
+id: ocd-person/da8051b7-de05-4c30-9d37-5d7223906356
+name: John Barrett
+given_name: John
+family_name: Barrett
+birth_date: 1947-05-16
+gender: Male
+email: john.barrett@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/J_B1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-11-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 1st Berkshire
+offices:
+- classification: capitol
+  address: Room 277, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2012
+- classification: district
+  address: MA
+  voice: 413-743-8300
+links:
+- url: https://malegislature.gov/Legislators/Profile/J_B1
+other_names:
+- name: Barrett, J.
+- name: J. Barrett
+- name: John Barrett, III
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000579
+sources:
+- url: https://ballotpedia.org/John_Barrett_III
+- url: https://en.wikipedia.org/wiki/John_Barrett_(Massachusetts_politician)
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/J_B1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/J_B1
+- url: https://malegislature.gov/Legislators/Profile/J_B1
+- url: https://www.linkedin.com/in/john-barrett-iii-9b6b7a27
+extras:
+  member code: J_B1

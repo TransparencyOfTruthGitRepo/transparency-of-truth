@@ -1,0 +1,51 @@
+id: ocd-person/80928bd9-c963-4b21-954c-c62ee9373064
+name: Phil Olaleye
+given_name: Phil
+family_name: Olaleye
+gender: Male
+email: phil.olaleye@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/olaleye-phil-5028.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '59'
+offices:
+- classification: capitol
+  address: Room 509-F, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0220
+- classification: district-mail
+  address: P.O. Box 4104, Atlanta, GA 30302
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5028
+- url: https://www.legis.ga.gov/members/house/5028?session=1031
+  note: HTML member detail page
+other_names:
+- name: OLALEYE, 59TH
+- name: Olaleye, P.
+- name: P. Olaleye
+sources:
+- url: https://ballotpedia.org/Phil_Olaleye
+- url: https://en.wikipedia.org/wiki/Phil_Olaleye
+- url: https://justfacts.votesmart.org/candidate/biography/203413/phil-olaleye
+- url: https://www.legis.ga.gov/api/members/detail/5028?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5028
+- url: https://www.linkedin.com/in/phillipolaleye
+extras:
+  residence: Atlanta
+  city: Atlanta
+  georgia_id: 5028
+  birthday: June 4
+  occupation: Non-profit Executive (Education)
+  press: https://house-press.com/representative/Phil-Olaleye
+  spouse: Sabrina
+  staff: Josephine Lamar - Administrative Assistant
+  staff email: josephine.lamar@house.ga.gov

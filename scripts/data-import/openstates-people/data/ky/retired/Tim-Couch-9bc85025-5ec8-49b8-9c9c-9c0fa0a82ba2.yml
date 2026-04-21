@@ -1,0 +1,19 @@
+id: ocd-person/9bc85025-5ec8-49b8-9c9c-9c0fa0a82ba2
+name: Tim Couch
+given_name: Tim
+family_name: Couch
+image: http://www.lrc.ky.gov/pubinfo/thumbnails/House90.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '90'
+links:
+- url: http://www.lrc.ky.gov/legislator/H090.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000055
+sources:
+- url: http://www.lrc.ky.gov/legislator/H090.htm

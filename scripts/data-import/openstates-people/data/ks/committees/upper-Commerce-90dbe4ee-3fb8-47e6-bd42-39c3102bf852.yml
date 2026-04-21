@@ -1,0 +1,51 @@
+id: ocd-organization/90dbe4ee-3fb8-47e6-bd42-39c3102bf852
+jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+classification: committee
+name: Commerce
+chamber: upper
+sources:
+- url: https://www.kslegislature.gov/li/b2025_26/committees/ctte_s_cmrce_1
+- url: https://www.kslegislature.org/li/b2023_24/committees/ctte_s_cmrce_1/
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/committees/ctte_s_cmrce_1
+- url: https://www.kslegislature.org/li/b2023_24/committees/ctte_s_cmrce_1
+- url: https://www.kslegislature.org/li/b2023_24/committees/ctte_s_cmrce_1/
+  note: homepage
+members:
+- name: Larry Alley
+  role: chair
+  person_id: ocd-person/4c340817-c498-4df6-afe4-d3251ce6594b
+- name: Stephen Owens
+  role: vice chair
+  person_id: ocd-person/413cc3ff-a3b9-465b-827d-4aeb4b0b42c1
+- name: Oletha Faust-Goudeau
+  role: ranking member
+  person_id: ocd-person/9f48288b-b1a9-43a1-884b-5cc2abfa4e4f
+- name: Brenda Dietrich
+  role: member
+  person_id: ocd-person/57c530cc-4575-431e-9118-11f64fa3a573
+- name: Caryn Tyson
+  role: member
+  person_id: ocd-person/cc84252c-b7c6-484d-a036-dd38a90b1b04
+- name: Jeff Klemp
+  role: member
+  person_id: ocd-person/49a02bbc-55ad-456e-9175-d51041b583de
+- name: Kenny Titus
+  role: member
+  person_id: ocd-person/8a353296-bd2d-4fd6-b1b9-d8b3c8b3f771
+- name: Rick Kloos
+  role: member
+  person_id: ocd-person/5281ab3e-91a8-43be-bcc7-5d9d4c2a2545
+- name: Ron Ryckman
+  role: member
+  person_id: ocd-person/43caafd7-9177-40f4-b515-0681ef5930f3
+- name: Silas Miller
+  role: member
+  person_id: ocd-person/38e5e1b5-72d2-4968-be98-032e8320d475
+- name: Tory Marie Blew
+  role: member
+  person_id: ocd-person/80f9f23c-fa36-43ef-b97e-a9563bd4237b
+other_names:
+- name: Senate Commerce
+- name: Senate Commerce Committee
+- name: Senate Committee on Commerce

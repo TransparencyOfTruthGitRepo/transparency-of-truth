@@ -1,0 +1,46 @@
+id: ocd-person/0bdef1bb-ea31-4a27-937c-eb680ae67343
+name: Mary Washington
+given_name: Mary
+family_name: Washington
+birth_date: 1962-05-20
+gender: Female
+email: mary.washington@senate.maryland.gov
+image: http://mgaleg.maryland.gov/2016RS/images/washington.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '43'
+- end_date: 2019-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '43'
+  start_date: 2019-01-09
+offices:
+- classification: capitol
+  address: Room 104, James Senate Office Building 11 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3145
+  fax: 410-841-3135
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/washington01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=washington01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa15349.html
+other_names:
+- name: M. Washington
+- name: M.L. Washington
+- name: Mary L. Washington
+- name: Washington, M.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000415
+- scheme: legacy_openstates
+  identifier: MDL000606
+sources:
+- url: https://ballotpedia.org/Mary_Washington_(Maryland_State_Senate)
+- url: https://en.wikipedia.org/wiki/Mary_L._Washington
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/washington01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=washington01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa15349.html
+- url: https://www.linkedin.com/in/delmarywashington

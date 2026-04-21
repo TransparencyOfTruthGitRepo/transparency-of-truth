@@ -1,0 +1,55 @@
+id: ocd-person/8bb90ee9-e764-44da-b27f-b5bc3cdb394e
+name: "Jos\xE9 Men\xE9ndez"
+given_name: "Jos\xE9"
+family_name: "Men\xE9ndez"
+birth_date: 1969-03-11
+gender: Male
+email: jose.menendez@senate.texas.gov
+image: https://senate.texas.gov/members/d26/img/headshot.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2015-03-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '26'
+- start_date: 2001-01-09
+  end_date: 2015-03-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room E1.610, P.O. Box 12068 Capitol Station, Austin, TX 78711
+  voice: 512-463-0126
+- classification: district
+  address: 4522 Fredericksburg Road, A-22, San Antonio, TX 78201
+  voice: 210-733-6604
+links:
+- url: https://senate.texas.gov/member.php?d=26
+other_names:
+- name: "J. Men\xE9ndez"
+- name: "J.A. Men\xE9ndez"
+- name: Jose Menendez
+- name: "Jos\xC3\xA9 Men\xC3\xA9ndez"
+- name: "Men\xE9ndez, J."
+- name: "Men\xE9ndez, Jos\xE9"
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000312
+- scheme: legacy_openstates
+  identifier: TXL000130
+- scheme: legacy_openstates
+  identifier: TXL000448
+- scheme: legacy_openstates
+  identifier: TXL000518
+- scheme: legacy_openstates
+  identifier: TXL000701
+- scheme: legacy_openstates
+  identifier: TXL000718
+sources:
+- url: https://ballotpedia.org/Jose_Menendez
+- url: https://en.wikipedia.org/wiki/Jose_Menendez
+- url: https://justfacts.votesmart.org/candidate/biography/49908/jose-menendez
+- url: https://senate.texas.gov/member.php?d=26
+- url: https://www.linkedin.com/in/jose-menendez-5a75748

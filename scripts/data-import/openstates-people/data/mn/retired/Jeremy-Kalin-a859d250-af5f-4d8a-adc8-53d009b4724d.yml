@@ -1,0 +1,17 @@
+id: ocd-person/a859d250-af5f-4d8a-adc8-53d009b4724d
+name: Jeremy Kalin
+given_name: Jeremy
+family_name: Kalin
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 17B
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000101
+sources:
+- url: http://www.house.leg.state.mn.us/members/meminfo.xls

@@ -1,0 +1,42 @@
+id: ocd-person/a838e3b6-52ea-4ad0-a308-2337762a492b
+name: Tammy Phelps
+given_name: Tammy
+family_name: Phelps
+gender: Female
+email: hse003@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep3.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '3'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 810 E. 70th St. Suite A, Shreveport, LA 71106
+  voice: 318-862-3080
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=3
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=3
+other_names:
+- name: Phelps, T.
+- name: T. Phelps
+- name: T.T. Phelps
+- name: Tammy Phelps
+- name: Tammy T. Phelps
+sources:
+- url: https://ballotpedia.org/Tammy_Phelps
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=3
+- url: https://house.louisiana.gov/H_Reps/members?ID=3
+extras:
+  legislative assistant: Belinda Rose
+  representing parishes:
+  - Caddo
+  education: Captain Shreve High School; Amberton University, Strategic Leadership
+    M.B.A.; Louisiana Tech. University, Business Administration, B.S.

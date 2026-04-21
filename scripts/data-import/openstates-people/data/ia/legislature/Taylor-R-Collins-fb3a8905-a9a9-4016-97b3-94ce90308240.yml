@@ -1,0 +1,37 @@
+id: ocd-person/fb3a8905-a9a9-4016-97b3-94ce90308240
+name: Taylor Collins
+given_name: Taylor
+family_name: Collins
+gender: Male
+email: taylor.collins@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27618
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '95'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=27618&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=27618
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=27618
+other_names:
+- name: Collins, T.
+- name: T. Collins
+- name: T.R. Collins
+- name: Taylor R. Collins
+sources:
+- url: https://ballotpedia.org/Taylor_Collins
+- url: https://en.wikipedia.org/wiki/Taylor_Collins
+- url: https://justfacts.votesmart.org/candidate/biography/204023/taylor-collins
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=27618
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=27618
+- url: https://www.linkedin.com/in/rep-elect-taylor-collins-mpa-4234bb126
+extras:
+  occupation: Small Business Owner/Farm Manager

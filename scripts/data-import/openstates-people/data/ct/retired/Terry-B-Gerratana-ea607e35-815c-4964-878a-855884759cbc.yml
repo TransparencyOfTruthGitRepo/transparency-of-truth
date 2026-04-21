@@ -1,0 +1,18 @@
+id: ocd-person/ea607e35-815c-4964-878a-855884759cbc
+name: Terry B. Gerratana
+given_name: Terry B.
+family_name: Gerratana
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '6'
+links:
+- url: http://www.senatedems.ct.gov/Gerratana.php
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000006
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

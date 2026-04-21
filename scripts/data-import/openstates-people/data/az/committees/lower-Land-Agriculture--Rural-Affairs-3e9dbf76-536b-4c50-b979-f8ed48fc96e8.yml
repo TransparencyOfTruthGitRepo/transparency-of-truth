@@ -1,0 +1,55 @@
+id: ocd-organization/3e9dbf76-536b-4c50-b979-f8ed48fc96e8
+jurisdiction: ocd-jurisdiction/country:us/state:az/government
+classification: committee
+name: Land, Agriculture and Rural Affairs
+chamber: lower
+sources:
+- url: https://apps.azleg.gov/api/Committee/?sessionId=123&includeMembers=true
+- url: https://apps.azleg.gov/api/Committee/?sessionId=127&includeMembers=true
+- url: https://apps.azleg.gov/api/Committee/?sessionId=128&includeMembers=true
+  note: API with all committee details
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2187&sessionId=129
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView?SessionID=128
+links:
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=1888&sessionId=123
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2187&sessionId=129
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView?SessionID=128
+  note: homepage
+members:
+- name: Lupe Diaz
+  role: chair
+  person_id: ocd-person/bc52f516-a13b-4490-a12c-7b98fa3969e5
+- name: "Michele Pe\xF1a"
+  role: vice chair
+  person_id: ocd-person/68c38dfc-a12b-4c51-8b70-c4e02931cddf
+- name: Gail Griffin
+  role: member
+  person_id: ocd-person/1e39adcf-868d-4722-a07b-09fcd36ad9ed
+- name: Leo Biasiucci
+  role: member
+  person_id: ocd-person/433aab5d-35be-48cc-80a9-f468d5279022
+- name: Mae Peshlakai
+  role: member
+  person_id: ocd-person/bcc217f5-fe08-4213-b8a5-78d1e4d64184
+- name: Mariana Sandoval
+  role: member
+  person_id: ocd-person/3b6fa6b2-0a60-4f2e-9fd8-0882b04d9e0b
+- name: Rachel Keshel
+  role: member
+  person_id: ocd-person/11b313a8-0f20-4d81-8060-4ec7e65f1a29
+- name: Stephanie Stahl Hamilton
+  role: member
+  person_id: ocd-person/df482d8a-1ed9-41ae-b4ba-d73d4cd9aa39
+- name: Teresa Martinez
+  role: member
+  person_id: ocd-person/0fa874b7-acab-4f29-b800-56bd54f375fe
+other_names:
+- name: Committee on Land, Agriculture and Rural Affairs
+- name: House Committee on Land, Agriculture and Rural Affairs
+- name: House Land, Agriculture and Rural Affairs
+- name: House Land, Agriculture and Rural Affairs Committee
+- name: Land, Agriculture and Rural Affairs Committee
+extras:
+  Committee ID: 2010
+  Committee Short Name: LARA
+  Committee Type: Standing

@@ -1,0 +1,53 @@
+id: ocd-person/500ff29f-8ae7-4886-93ec-eec1ad91d299
+name: Jeremy McPike
+given_name: Jeremy
+family_name: McPike
+birth_date: 1975-09-19
+gender: Male
+email: senatormcpike@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/McPike29.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2016-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '29'
+offices:
+- classification: capitol
+  address: Room 607, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7529
+- classification: district-mail
+  address: P.O. Box 2819, Woodbridge, VA 22195
+  voice: 571-316-0581
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S98
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S98
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S98
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S98
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S98
+other_names:
+- name: J. McPike
+- name: J.S. McPike
+- name: Jeremy S. McPike
+- name: Jeremy Scott McPike
+- name: McPike, J.
+- name: McPike, Jeremy S.
+ids:
+  twitter: jeremymcpike
+  facebook: McPikeforSenate
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000242
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S98
+- url: https://ballotpedia.org/Jeremy_McPike
+- url: https://en.wikipedia.org/wiki/Jeremy_McPike
+- url: https://justfacts.votesmart.org/candidate/biography/144818/jeremy-mcpike
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S98
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S98
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S98
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S98
+- url: https://www.linkedin.com/in/jeremy-mcpike-a13bb4

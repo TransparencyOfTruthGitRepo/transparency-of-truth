@@ -1,0 +1,17 @@
+id: ocd-person/63526fb1-60ed-4ccc-bff6-e93dfa2d095d
+name: Chris Heagarty
+given_name: Chris
+family_name: Heagarty
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '41'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000109
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/memberList.pl?sChamber=House

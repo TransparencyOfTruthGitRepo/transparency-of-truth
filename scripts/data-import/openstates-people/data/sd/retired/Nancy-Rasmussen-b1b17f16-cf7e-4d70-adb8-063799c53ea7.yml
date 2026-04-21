@@ -1,0 +1,24 @@
+id: ocd-person/b1b17f16-cf7e-4d70-adb8-063799c53ea7
+name: Nancy Rasmussen
+given_name: Nancy
+family_name: Rasmussen
+email: Nancy.Rasmussen@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Rasmussen_2017.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '17'
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1489&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1626&Session=2019
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000191
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1489&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1626&Session=2019
+extras:
+  occupation: Retired

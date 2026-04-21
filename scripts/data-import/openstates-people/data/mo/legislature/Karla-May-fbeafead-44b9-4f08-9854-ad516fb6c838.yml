@@ -1,0 +1,48 @@
+id: ocd-person/fbeafead-44b9-4f08-9854-ad516fb6c838
+name: Karla May
+given_name: Karla
+family_name: May
+birth_date: 1970-06-12
+gender: Female
+email: karla.may@senate.mo.gov
+image: https://www.senate.mo.gov/19web/wp-content/uploads/2019/01/KarlaMay-200x300.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '4'
+- end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '84'
+offices:
+- classification: capitol
+  address: Room 225, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-3599
+links:
+- url: https://www.senate.mo.gov/mem04
+- url: https://www.senate.mo.gov/Senators/Member/04
+- url: https://www.senate.mo.gov/Senators/Member?id=18
+other_names:
+- name: K. May
+- name: May, K.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MOL000125
+- scheme: legacy_openstates
+  identifier: MOL000297
+sources:
+- url: https://ballotpedia.org/Karla_May
+- url: https://en.wikipedia.org/wiki/Karla_May
+- url: https://justfacts.votesmart.org/candidate/biography/66328/karla-may
+- url: https://www.linkedin.com/in/karla-may-00b754123
+- url: https://www.senate.mo.gov/mem04
+- url: https://www.senate.mo.gov/senators-listing
+- url: https://www.senate.mo.gov/senators-listing/
+- url: https://www.senate.mo.gov/Senators/Member/04
+- url: https://www.senate.mo.gov/Senators/Member?id=18
+extras:
+  first_name: Karla
+  last_name: May

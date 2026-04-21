@@ -1,0 +1,53 @@
+id: ocd-person/bdc621be-7296-4383-8c45-b4533d1c106c
+name: Esther Panitch
+given_name: Esther
+family_name: Panitch
+birth_date: 1971-10-14
+gender: Female
+email: esther.panitch@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/panitch-esther-5026.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '51'
+offices:
+- classification: capitol
+  address: Room 607-B, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0287
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5026
+- url: https://www.legis.ga.gov/members/house/5026?session=1031
+  note: HTML member detail page
+other_names:
+- name: E. Panitch
+- name: E.D.F. Panitch
+- name: Esther Dina Feuer Panitch
+- name: Esther Panitch
+- name: PANITCH, 51ST
+- name: Panitch, E.
+sources:
+- url: https://ballotpedia.org/Esther_Panitch
+- url: https://en.wikipedia.org/wiki/Esther_Panitch
+- url: https://justfacts.votesmart.org/candidate/biography/203404/esther-panitch
+- url: https://www.legis.ga.gov/api/members/detail/5026?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5026
+- url: https://www.linkedin.com/in/esther-panitch-49859a20
+extras:
+  residence: Sandy Springs
+  city: Sandy Springs
+  georgia_id: 5026
+  birthday: October 14
+  occupation: Attorney
+  press: https://house-press.com/representative/Esther-Panitch
+  spouse: Roger
+  staff: Jennifer Clark - Administrative Assistant
+  staff email: jennifer.clark@house.ga.gov

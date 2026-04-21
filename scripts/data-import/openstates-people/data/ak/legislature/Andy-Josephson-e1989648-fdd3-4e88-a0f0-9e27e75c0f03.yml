@@ -1,0 +1,68 @@
+id: ocd-person/e1989648-fdd3-4e88-a0f0-9e27e75c0f03
+name: Andy Josephson
+given_name: Andy
+family_name: Josephson
+birth_date: 1964-07-15
+gender: Male
+email: representative.andy.josephson@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/JOS.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '13'
+- start_date: 2013-01-28
+  end_date: 2023-01-16
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '13'
+- end_date: 2023-01-16
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '17'
+offices:
+- classification: capitol
+  address: State Capitol Room 505, 120 4th St., Juneau, AK 99801
+  voice: 907-465-4939
+- classification: district
+  address: 1500 W. Benson Blvd., Anchorage, AK 99503
+  voice: 907-269-0265
+links:
+- url: https://akhouse.org/rep_josephson/
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=jos
+- url: https://www.akleg.gov/basis/Member/Detail/31?code=jos
+- url: https://www.akleg.gov/basis/Member/Detail/32?code=jos
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=jos
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=jos
+other_names:
+- name: A. Josephson
+- name: A.L. Josephson
+- name: Andrew Josephson
+- name: Andrew L. Josephson
+- name: Andrew Lewis Josephson
+- name: Josephson, A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AKL000073
+- scheme: legacy_openstates
+  identifier: AKL000121
+- scheme: legacy_openstates
+  identifier: AKL000176
+sources:
+- url: https://akhouse.org/rep_josephson
+- url: https://ballotpedia.org/Andrew_L._Josephson
+- url: https://en.wikipedia.org/wiki/Andy_Josephson
+- url: https://justfacts.votesmart.org/candidate/140434/andy-josephson
+- url: https://w3.akleg.gov
+- url: https://w3.akleg.gov/
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=jos
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=JOS
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=jos
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=jos
+- url: https://www.linkedin.com/in/andrew-josephson-34157829
+extras:
+  toll_free_phone: 800-465-4939

@@ -1,0 +1,47 @@
+id: ocd-person/25a5746b-d7c3-425c-a5b4-a942f86576f2
+name: Drew Hansen
+given_name: Drew
+family_name: Hansen
+gender: Male
+email: drew.hansen@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/16499.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-09-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '23'
+- start_date: 2011-09-01
+  end_date: 2023-09-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '23'
+offices:
+- classification: capitol
+  address: Room 403, Legislative Building P.O. Box 40423, Olympia, WA 98504
+  voice: 360-786-7644
+links:
+- url: https://housedemocrats.wa.gov/Hansen/
+- url: https://housedemocrats.wa.gov/legislators/Drew-Hansen/
+- url: https://leg.wa.gov/legislators/member/drew-hansen
+- url: https://senatedemocrats.wa.gov/hansen/
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_names:
+- name: D. Hansen
+- name: D.D. Hansen
+- name: Drew Derrick Hansen
+- name: Hansen, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000150
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=House
+- url: https://ballotpedia.org/Drew_Hansen
+- url: https://en.wikipedia.org/wiki/Drew_Hansen
+- url: https://justfacts.votesmart.org/candidate/biography/135725/drew-hansen
+- url: https://leg.wa.gov/legislators/member/drew-hansen
+- url: https://senatedemocrats.wa.gov/hansen
+- url: https://senatedemocrats.wa.gov/hansen/
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+- url: https://www.linkedin.com/in/drewhansen1

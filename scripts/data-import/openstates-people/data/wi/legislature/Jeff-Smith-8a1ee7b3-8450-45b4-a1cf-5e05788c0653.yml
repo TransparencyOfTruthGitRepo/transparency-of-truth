@@ -1,0 +1,72 @@
+id: ocd-person/8a1ee7b3-8450-45b4-a1cf-5e05788c0653
+name: Jeff Smith
+given_name: Jeff
+family_name: Smith
+birth_date: 1955-03-15
+gender: Male
+email: sen.smith@legis.wisconsin.gov
+image: https://docs.legis.wisconsin.gov/2023/legislators/senate/2433.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '31'
+- end_date: 2010-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '93'
+offices:
+- classification: capitol
+  address: State Capitol Room 109 South, P.O. Box 7882 , 2 E. Main St., Madison, WI
+    53707
+  voice: 608-266-8546
+links:
+- url: https://docs.legis.wisconsin.gov/2019/legislators/senate/1944
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/2114
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/2433
+- url: https://docs.legis.wisconsin.gov/2025/legislators/senate/2826
+- url: https://legis.wisconsin.gov/senate/31/smith/
+- url: https://www.togetherwithjeff.com/
+other_names:
+- name: J. Smith
+- name: J.E. Smith
+- name: SMITH, J
+- name: Smith, J
+- name: Smith, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000421
+- scheme: openstates
+  identifier: ocd-person/51aa4699-b7c1-428a-a72d-2b90a6545409
+sources:
+- url: https://ballotpedia.org/Jeff_Smith_(Wisconsin)
+- url: https://docs.legis.wisconsin.gov/2019/legislators/senate/1944
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/2114
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/
+  note: members list page
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/2433
+  note: member detail page
+- url: https://docs.legis.wisconsin.gov/2025/legislators/senate/2826
+- url: https://en.wikipedia.org/wiki/Jeff_Smith_(Wisconsin_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/51946/jeffrey-smith
+- url: https://legis.wisconsin.gov/senate/31/smith
+- url: https://legis.wisconsin.gov/senate/31/smith/
+- url: https://www.togetherwithjeff.com
+- url: https://www.togetherwithjeff.com/meetjeff
+extras:
+  website: https://legis.wisconsin.gov/senate/31/smith/
+  title: Assistant Minority Leader
+  extra phone: (877) 763-6636
+  staff1: Beau Stafford
+  staff_email1: Beau.Stafford@legis.wisconsin.gov
+  staff2: Christian Plata
+  staff_email2: Christian.Plata@legis.wisconsin.gov
+  staff3: Joseph Splinter
+  staff_email3: Joseph.Splinter@legis.wisconsin.gov
+  staff4: Eleanor Thorman
+  staff_email4: Eleanor.Thorman@legis.wisconsin.gov

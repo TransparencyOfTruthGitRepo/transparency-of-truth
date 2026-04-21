@@ -1,0 +1,31 @@
+id: ocd-person/3b5abb0c-bfa9-4dfb-a84d-a60f7d3f8bc7
+name: Eleana Colby
+given_name: Eleana
+family_name: Colby
+gender: Female
+email: eleana.colby@gc.nh.gov
+image: https://images.squarespace-cdn.com/content/v1/663a2f1a05f40556a0069e03/a2255153-1aac-4e80-8553-b2b455647675/Front+Porch.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 9
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=11230
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=11230
+other_names:
+- name: Colby, E.
+- name: E. Colby
+- name: E.M. Colby
+sources:
+- url: https://ballotpedia.org/Eleana_Colby
+- url: https://en.wikipedia.org/wiki/Eleana_Colby
+- url: https://gc.nh.gov/house/members/member.aspx?pid=11230
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=11230
+- url: https://justfacts.votesmart.org/candidate/biography/219125/eleana-colby

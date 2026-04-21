@@ -1,0 +1,40 @@
+id: ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e
+name: Garlan Gudger
+given_name: Garlan
+family_name: Gudger
+gender: Male
+email: garlan.gudger@alsenate.gov
+image: https://www.legislature.state.al.us/pdf/senate/members/Gudger_4.png
+party:
+- name: Republican
+roles:
+- start_date: 2018-11-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '4'
+offices:
+- classification: capitol
+  address: Room 722, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0855
+links:
+- url: https://alison.legislature.state.al.us/senate-leaders-members
+  note: homepage
+- url: https://alsenaterepublicans.org/representatives/004-garlan-gudger/
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100447&OID_PERSON=8481
+other_names:
+- name: G. Gudger
+- name: G.E. Gudger
+- name: Gudger, G.
+sources:
+- url: https://alsenaterepublicans.org/representatives/004-garlan-gudger
+- url: https://ballotpedia.org/Garlan_Gudger
+- url: https://en.wikipedia.org/wiki/Garlan_Gudger
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/180619/garlan-gudger
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Gudger&OID_SPONSOR=100447&OID_PERSON=8481&SESSNAME=Regular%20Session%202022
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100447&OID_PERSON=8481
+- url: https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+- url: https://www.linkedin.com/in/garlan-gudger-939a3564
+extras:
+  counties: Cullman County, Marion County, Winston County

@@ -1,0 +1,51 @@
+id: ocd-person/5b8b4c48-b09c-4669-a145-c733ae32e293
+name: Leland Morgan
+given_name: Leland
+family_name: Morgan
+gender: Male
+email: lmorgan@leg.state.vt.us
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Leland_Morgan_2024.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Grand Isle-Chittenden
+- start_date: 2019-01-09
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Grand Isle-Chittenden
+- start_date: 2019-01-09
+  end_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Grand Isle-Chittenden
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+- classification: home
+  address: 23 Morgan Road, Milton, VT 05468
+links:
+- url: https://legislature.vermont.gov/Documents/SmallMaps/GI-CHI.pdf
+  note: district map
+- url: https://legislature.vermont.gov/people/single/2020/30960
+- url: https://legislature.vermont.gov/people/single/2022/30960
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2026/30960
+other_names:
+- name: L. Morgan
+- name: L.J. Morgan
+- name: Leland J. Morgan
+- name: Morgan, L.
+sources:
+- url: https://ballotpedia.org/Leland_Morgan
+- url: https://en.wikipedia.org/wiki/Leland_Morgan
+- url: https://justfacts.votesmart.org/candidate/biography/183973/leland-morgan
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/single/2020/30960
+- url: https://legislature.vermont.gov/people/single/2022/30960
+- url: https://legislature.vermont.gov/people/single/2026/30960

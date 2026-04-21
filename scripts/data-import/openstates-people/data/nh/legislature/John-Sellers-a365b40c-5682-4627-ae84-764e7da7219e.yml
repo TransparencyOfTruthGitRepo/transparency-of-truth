@@ -1,0 +1,47 @@
+id: ocd-person/a365b40c-5682-4627-ae84-764e7da7219e
+name: John Sellers
+given_name: John
+family_name: Sellers
+gender: Male
+email: john.sellers@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123422.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Grafton 10
+- start_date: 2022-12-07
+  end_date: 2024-12-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Grafton 10
+- start_date: 2022-12-07
+  end_date: 2024-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Grafton 18
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10620
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=10620
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10620
+  note: member detail page
+other_names:
+- name: J. Sellers
+- name: Sellers, J.
+sources:
+- url: https://ballotpedia.org/John_Sellers_(New_Hampshire)
+- url: https://en.wikipedia.org/wiki/John_Sellers_(New_Hampshire_politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10620
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=10620
+- url: https://justfacts.votesmart.org/candidate/biography/209005/john-sellers
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10620
+extras:
+  county: Grafton
+  elected status: new
+  gender code: M

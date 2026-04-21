@@ -1,0 +1,57 @@
+id: ocd-person/8274985f-2a84-4d59-a4e4-d1ba9555e64b
+name: Jedediah Hinkle
+given_name: Jedediah
+family_name: Hinkle
+gender: Male
+email: jedediah.hinkle@legmt.gov
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '67'
+- start_date: 2015-01-05
+  end_date: 2019-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '67'
+- start_date: 2015-01-05
+  end_date: 2019-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '32'
+offices:
+- classification: capitol
+  address: Capitol Building, 1301 E. 6th Ave. P.O. Box 200400, Helena, MT 59620
+  voice: 406-444-4800
+- classification: district
+  address: 1700 Drummond Blvd., Belgrade, MT 59714
+  voice: 406-992-1686
+links:
+- url: https://leg.mt.gov/legislator-information/roster/individual/4706
+  note: legislator page
+- url: https://leg.mt.gov/legislator-information/roster/individual/6919
+- url: https://leg.mt.gov/legislator-information/roster/individual/7531
+- url: https://legislators.legmt.gov/#/legislator/27
+- url: https://www.legmt.gov/legislators/1364/
+other_names:
+- name: Hinkle, J.
+- name: Hinkle, Jedediah
+- name: J. Hinkle
+- name: J.L. Hinkle
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MTL000248
+- scheme: openstates
+  identifier: ocd-person/8bc614c7-4280-4880-b68f-a0a29f4ad3ee
+sources:
+- url: https://ballotpedia.org/Jedediah_Hinkle
+- url: https://en.wikipedia.org/wiki/Jedediah_Hinkle
+- url: https://justfacts.votesmart.org/candidate/biography/120843/jedediah-hinkle
+- url: https://leg.mt.gov/legislator-information/?session_select=111
+  note: legislator list page
+- url: https://leg.mt.gov/legislator-information/roster/individual/6919
+- url: https://leg.mt.gov/legislator-information/roster/individual/7531
+- url: https://legislators.legmt.gov/#/legislator/27
+- url: https://www.legmt.gov/legislators/1364

@@ -1,0 +1,45 @@
+id: ocd-person/d79acfe3-5991-41ae-b245-f7b7f877febb
+name: Sam Creekmore
+given_name: Sam
+family_name: Creekmore
+birth_date: 1966-09-24
+gender: Male
+email: screekmore@house.ms.gov
+image: http://billstatus.ls.state.ms.us/members/house/creekmore_iv.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '14'
+offices:
+- classification: capitol
+  address: State Capitol 400 High St., Jackson, MS 39201
+  voice: 601-359-3770
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/creekmore_iv.xml
+  note: homepage
+other_names:
+- name: Creekmore
+- name: Creekmore IV
+- name: Creekmore, S.
+- name: S. Creekmore
+- name: S.J. Creekmore
+- name: Sam Creekmore IV
+- name: Samuel J. Creekmore
+sources:
+- url: https://ballotpedia.org/Sam_Creekmore_IV
+- url: https://billstatus.ls.state.ms.us/members/house/creekmore_iv.xml
+- url: https://billstatus.ls.state.ms.us/members/hr_membs.xml
+- url: https://en.wikipedia.org/wiki/Sam_Creekmore_IV
+- url: https://justfacts.votesmart.org/candidate/biography/186594/sam-creekmore-iv
+extras:
+  occupation: Landscape Architect
+  education:
+  - Mississippi State University
+  counties represented:
+  - Union
+  other phone: (662)534-9280

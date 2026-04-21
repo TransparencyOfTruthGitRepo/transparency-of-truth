@@ -1,0 +1,43 @@
+id: ocd-person/9d1ecabb-7f76-4f2e-9951-03599223ca4c
+name: Mark Smith
+given_name: Mark
+family_name: Smith
+birth_date: 1970-06-18
+gender: Male
+email: marksmith@schouse.gov
+image: https://scstatehouse.gov/images/members/1724999793.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '99'
+offices:
+- classification: capitol
+  address: Room 327A, Blatt Building P.O. Box 11867, Columbia, SC 29201
+  voice: 803-212-6719
+links:
+- url: https://scstatehouse.gov/member.php?code=1724999793
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=1724999793
+  note: homepage
+other_names:
+- name: M. Smith
+- name: M.M. Smith
+- name: Marvin "Mark" Smith
+- name: Smith, M.
+- name: Smith, Mark
+- name: Smith, Marvin
+sources:
+- url: https://ballotpedia.org/Mark_Smith_(South_Carolina)
+- url: https://en.wikipedia.org/wiki/Mark_Smith_(South_Carolina_politician)
+- url: https://justfacts.votesmart.org/candidate/160942/marvin-smith
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=1724999793
+- url: https://www.linkedin.com/in/mark-m-smith-cfsp-56a37824
+- url: https://www.scstatehouse.gov/member.php?chamber=H
+- url: https://www.scstatehouse.gov/member.php?code=1724999793
+extras:
+  Columbia Address Cell Phone: (843) 442-8371
+  counties represented: Berkeley County

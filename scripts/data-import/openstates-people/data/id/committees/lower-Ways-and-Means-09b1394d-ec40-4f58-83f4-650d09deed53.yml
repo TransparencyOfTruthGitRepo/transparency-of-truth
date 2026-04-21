@@ -1,0 +1,58 @@
+id: ocd-organization/09b1394d-ec40-4f58-83f4-650d09deed53
+jurisdiction: ocd-jurisdiction/country:us/state:id/government
+classification: committee
+name: Ways and Means
+chamber: lower
+sources:
+- url: https://legislature.idaho.gov/committees/
+  note: homepage
+- url: https://legislature.idaho.gov/committees/housecommittees/
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HWAY
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HWAY/
+- url: https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HWAY/#hcode-tab-style2members
+  note: Committee Details page
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HWAY/#hcode-tab-style2members
+  note: Committee Details page
+- url: https://legislature.idaho.gov/sessioninfo/2025/standingcommittees/HWAY
+- url: https://legislature.idaho.gov/sessioninfo/2026/standingcommittees/HWAY
+links:
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HWAY
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HWAY/
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HWAY/#hcode-tab-style2members
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HWAY
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HWAY/#hcode-tab-style2members
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2025/standingcommittees/HWAY
+- url: https://legislature.idaho.gov/sessioninfo/2026/standingcommittees/HWAY
+members:
+- name: Jeff Ehlers
+  role: chair
+  person_id: ocd-person/a0b66388-5039-4a2c-b022-ac2ece0ce865
+- name: Doug Pickett
+  role: member
+  person_id: ocd-person/6dbb9465-3ef5-4754-a482-08ae17c4cb9b
+- name: Ilana Rubel
+  role: member
+  person_id: ocd-person/8b37fbb7-bc05-4fd5-be33-a8940e489195
+- name: Jaron Crane
+  role: member
+  person_id: ocd-person/da5babc3-b974-4f3c-a750-8989ab3a122b
+- name: Jason Monks
+  role: member
+  person_id: ocd-person/9808edb1-15b0-4b9b-91d9-91a97ff7bb4b
+- name: Monica Church
+  role: member
+  person_id: ocd-person/b3878069-33ec-4ecc-8236-f9d0de68f5da
+- name: Steve Berch
+  role: member
+  person_id: ocd-person/0c413128-0ec7-4228-aa8b-93572d153c6f
+other_names:
+- name: House Committee on Ways and Means
+- name: House Ways and Means
+- name: House Ways and Means Committee
+extras:
+  secretary: "Jayne\_Feik"
+  email: hway@house.idaho.gov
+  phone: 332-1159

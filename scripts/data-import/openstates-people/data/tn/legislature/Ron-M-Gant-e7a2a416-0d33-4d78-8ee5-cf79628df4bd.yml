@@ -1,0 +1,52 @@
+id: ocd-person/e7a2a416-0d33-4d78-8ee5-cf79628df4bd
+name: Ron Gant
+given_name: Ron
+family_name: Gant
+birth_date: 1971-12-10
+gender: Male
+email: rep.ron.gant@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h94.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '94'
+offices:
+- classification: capitol
+  address: Room 618, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-6890
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H94
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h94.html
+other_names:
+- name: Gant, R
+- name: Gant, R.
+- name: R. Gant
+- name: R.M. Gant
+- name: Ron M. Gant
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000485
+sources:
+- url: https://ballotpedia.org/Ron_Gant
+- url: https://ballotpedia.org/Ron_M._Gant
+- url: https://en.wikipedia.org/wiki/Ron_Gant_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/98086/ron-gant
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H94
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h94.html
+- url: https://www.linkedin.com/in/ron-m-gant-94081b24
+extras:
+  office: 640 CHB
+  personal info:
+  - Born December 10th
+  - Baptist
+  - Insurance Agent
+  - UT Martin - WestStar Graduate
+  - Studied Business at Liberty University

@@ -1,0 +1,37 @@
+id: ocd-person/64221b86-e3ca-4b67-b2bb-3f4f9641e133
+name: Carrie Isaac
+given_name: Carrie
+family_name: Isaac
+gender: Female
+email: carrie.isaac@house.texas.gov
+image: https://house.texas.gov/images/members/4265.jpg?v=3
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '73'
+offices:
+- classification: capitol
+  address: Room E1.306, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0325
+- classification: district
+  address: 445 N. Seguin Ave., New Braunfels, TX 78130
+  voice: 830-730-6248
+links:
+- url: https://house.texas.gov/members/73
+- url: https://house.texas.gov/members/member-page/?district=73
+other_names:
+- name: C. Isaac
+- name: C.C. Isaac
+- name: Isaac, C.
+- name: Isaac, Carrie
+sources:
+- url: https://ballotpedia.org/Carrie_Isaac
+- url: https://en.wikipedia.org/wiki/Carrie_Isaac
+- url: https://house.texas.gov/members/4265/biography
+- url: https://house.texas.gov/members/73
+- url: https://house.texas.gov/members/member-page/?district=73
+- url: https://justfacts.votesmart.org/candidate/188387/carrie-isaac
+- url: https://www.linkedin.com/in/carrie-crain-isaac

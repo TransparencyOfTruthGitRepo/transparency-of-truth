@@ -1,0 +1,50 @@
+id: ocd-person/27331b48-e198-4de9-ac44-e30509c8c26b
+name: Jerome Moon
+given_name: Jerome
+family_name: Moon
+birth_date: 1947-06-20
+gender: Male
+email: rep.jerome.moon@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h8.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-12-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room 530, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-5481
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H8
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h8.html
+other_names:
+- name: J. Moon
+- name: Moon, J
+- name: Moon, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000494
+sources:
+- url: https://ballotpedia.org/Jerome_Moon
+- url: https://en.wikipedia.org/wiki/Jerome_Moon
+- url: https://justfacts.votesmart.org/candidate/biography/133193/jerome-moon
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H8
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h8.html
+extras:
+  office: 530 CHB
+  personal info:
+  - Born June 20, 1947
+  - Married, wife Deborah, two daughters, four grandchildren
+  - Member Piney Grove Baptist Church
+  - Retired Newspaper Publisher
+  - University of Tennessee Executive Development Program
+  - University of Tennessee
+  - Maryville High School

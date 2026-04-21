@@ -1,0 +1,25 @@
+id: ocd-person/381cb345-33c1-437d-b092-705a9055bed9
+name: John Ruckelshaus
+given_name: John
+family_name: Ruckelshaus
+email: Senator.Ruckelshaus@iga.in.gov
+image: http://iga.in.gov/legislative/2020/portraits/legislator_john_ruckelshaus_1
+party:
+- name: Republican
+roles:
+- end_date: '2020-11-04'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '30'
+links:
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_john_ruckelshaus_1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: INL000296
+sources:
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_john_ruckelshaus_1
+- url: https://api.iga.in.gov/2020/legislators/john_ruckelshaus_1
+offices:
+- address: 200 W. Washington Street;Indianapolis, IN 46204
+  voice: 800-382-9467
+  classification: capitol

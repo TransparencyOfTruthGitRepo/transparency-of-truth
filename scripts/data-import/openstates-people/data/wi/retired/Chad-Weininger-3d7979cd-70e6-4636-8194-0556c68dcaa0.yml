@@ -1,0 +1,20 @@
+id: ocd-person/3d7979cd-70e6-4636-8194-0556c68dcaa0
+name: Chad Weininger
+given_name: Chad
+family_name: Weininger
+image: http://legis.wisconsin.gov/sitecollectionimages/2013/asm04.jpeg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '4'
+links:
+- url: http://legis.wisconsin.gov/Pages/leg-info.aspx?d=4&h=A
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000481
+sources:
+- url: http://legis.wisconsin.gov/Pages/leg-info.aspx?d=4&h=A

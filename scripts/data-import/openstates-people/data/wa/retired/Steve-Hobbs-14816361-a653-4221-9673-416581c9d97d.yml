@@ -1,0 +1,22 @@
+id: ocd-person/14816361-a653-4221-9673-416581c9d97d
+name: Steve Hobbs
+given_name: Steve
+family_name: Hobbs
+email: steve.hobbs@leg.wa.gov
+image: http://www.leg.wa.gov/Senate/Senators/PublishingImages/hobbs.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2021-11-22'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '44'
+  end_reason: Appointed as Secretary of State of Washington
+links:
+- url: http://sdc.wastateleg.org/Hobbs/
+- url: http://www.leg.wa.gov/senate/senators/Pages/default.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000020
+sources:
+- url: http://www.leg.wa.gov/senate/senators/Pages/default.aspx

@@ -1,0 +1,17 @@
+id: ocd-person/2d119257-a74e-44a9-89ff-6d57e8effea4
+name: Pearl Burris-Floyd
+given_name: Pearl
+family_name: Burris-Floyd
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '110'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000074
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/memberList.pl?sChamber=House

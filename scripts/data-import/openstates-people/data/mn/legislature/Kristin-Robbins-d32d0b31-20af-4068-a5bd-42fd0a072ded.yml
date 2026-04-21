@@ -1,0 +1,35 @@
+id: ocd-person/d32d0b31-20af-4068-a5bd-42fd0a072ded
+name: Kristin Robbins
+given_name: Kristin
+family_name: Robbins
+birth_date: 1968-04-29
+gender: Female
+email: rep.kristin.robbins@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/37A.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 37A
+- start_date: 2019-01-08
+  end_date: 2023-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 34A
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-7806
+links:
+- url: https://www.house.mn.gov/members/profile/15504
+other_names:
+- name: K. Robbins
+- name: Robbins, K.
+sources:
+- url: https://ballotpedia.org/Kristin_Robbins
+- url: https://en.wikipedia.org/wiki/Kristin_Robbins
+- url: https://justfacts.votesmart.org/candidate/biography/183783/kristin-robbins
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15504

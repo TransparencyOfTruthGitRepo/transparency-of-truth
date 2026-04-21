@@ -1,0 +1,63 @@
+id: ocd-person/26b89cd1-55b7-49ef-b47b-d3b21ed81635
+name: Barbara Rachelson
+given_name: Barbara
+family_name: Rachelson
+birth_date: 1957-07-25
+gender: Female
+email: brachelson@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/Rachelson.Barb.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Chittenden-14
+- start_date: 2013-01-09
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Chittenden-14
+- end_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Chittenden-6-6
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+- classification: home
+  address: 208 State St., Montpelier, VT
+links:
+- url: https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-14.pdf
+  note: district map
+- url: https://legislature.vermont.gov/Documents/SmallMaps/CHI-6-6.pdf
+  note: district map
+- url: https://legislature.vermont.gov/people/single/2020/20377
+- url: https://legislature.vermont.gov/people/single/2022/20377
+- url: https://legislature.vermont.gov/people/single/2024/20377
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2026/20377
+other_names:
+- name: B. Rachelson
+- name: Rachelson, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000302
+sources:
+- url: https://ballotpedia.org/Barbara_Rachelson
+- url: https://en.wikipedia.org/wiki/Barbara_Rachelson
+- url: https://justfacts.votesmart.org/candidate/141387/barbara-rachelson
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/loadAll/2024
+- url: https://legislature.vermont.gov/people/single/2020/20377
+- url: https://legislature.vermont.gov/people/single/2022/20377
+- url: https://legislature.vermont.gov/people/single/2024/20377
+- url: https://legislature.vermont.gov/people/single/2026/20377
+- url: https://www.linkedin.com/in/barbara-rachelson-54b072a
+extras:
+  work address: Burlington, VT 05406
+  home address: Burlington, VT 05401
+  home phone: (802) 862-1290
+  state email: brachelson@leg.state.vt.us

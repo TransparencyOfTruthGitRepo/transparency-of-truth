@@ -1,0 +1,46 @@
+id: ocd-person/5b9af862-0f9f-42b2-a694-f80055129d6c
+name: Micaela Cadena
+given_name: Micaela
+family_name: Cadena
+gender: Female
+email: micaela.cadena@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HCADA.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '33'
+offices:
+- classification: capitol
+  address: State Capitol Room 204B, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4210
+- classification: district-mail
+  address: P.O. Box 1510, Mesilla, NM 88046
+links:
+- url: https://www.linkedin.com/in/micaela-cadena-95541a183/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HCADA
+  note: homepage
+other_names:
+- name: Cadena, M.
+- name: Cadena, Micaela
+- name: Cadena, Micaela Lara
+- name: M. Cadena
+- name: M.L. Cadena
+- name: Micaela L. Cadena
+- name: Micaela Lara Cadena
+ids:
+  facebook: laracadena4nm
+sources:
+- url: https://ballotpedia.org/Micaela_Lara_Cadena
+- url: https://en.wikipedia.org/wiki/Micaela_Lara_Cadena
+- url: https://www.linkedin.com/in/micaela-lara-cadena-95541a183
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HCADA
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: "Do\xF1a Ana"
+  service: Representative since 2019
+  occupation: Research Director

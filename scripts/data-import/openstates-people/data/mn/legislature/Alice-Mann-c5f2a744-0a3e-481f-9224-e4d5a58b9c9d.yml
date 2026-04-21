@@ -1,0 +1,30 @@
+id: ocd-person/c5f2a744-0a3e-481f-9224-e4d5a58b9c9d
+name: Alice Mann
+given_name: Alice
+family_name: Mann
+gender: Female
+email: sen.alice.mann@senate.mn
+image: https://www.senate.mn/graphics/50Mann.jpg
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '50'
+offices:
+- classification: capitol
+  address: Room 3225, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-6238
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1270
+other_names:
+- name: A. Mann
+- name: Mann, A.
+sources:
+- url: https://ballotpedia.org/Alice_Mann
+- url: https://en.wikipedia.org/wiki/Alice_Mann_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/183826/alice-mann
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1270

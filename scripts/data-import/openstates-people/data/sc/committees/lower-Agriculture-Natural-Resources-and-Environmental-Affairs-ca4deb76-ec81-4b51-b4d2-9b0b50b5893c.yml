@@ -1,0 +1,76 @@
+id: ocd-organization/ca4deb76-ec81-4b51-b4d2-9b0b50b5893c
+jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+classification: committee
+name: Agriculture, Natural Resources and Environmental Affairs
+chamber: lower
+sources:
+- url: https://www.scstatehouse.gov/committee.php?chamber=H
+  note: Committee list page
+- url: https://www.scstatehouse.gov/CommitteeInfo/houseagri.php
+  note: Committee details page
+- url: https://www.scstatehouse.gov/CommitteeInfo/HouseAgriculture
+links:
+- url: https://www.scstatehouse.gov/CommitteeInfo/houseagri.php
+  note: homepage
+- url: https://www.scstatehouse.gov/CommitteeInfo/HouseAgriculture
+members:
+- name: Bill Hixon
+  role: chair
+  person_id: ocd-person/d1f25d1c-bd0e-4d0d-be0e-f8f3edad8a3d
+- name: Patrick Haddon
+  role: first vice chair
+  person_id: ocd-person/08f0816c-5d19-47df-90fb-1249e3f50fae
+- name: Cal Forrest
+  role: second vice chair
+  person_id: ocd-person/bbff9a4c-7b59-4538-b869-64ba0c8431ff
+- name: Alan Morgan
+  role: member
+  person_id: ocd-person/10d51991-3dec-499f-8ed2-9c5685de9b00
+- name: Annie McDaniel
+  role: member
+  person_id: ocd-person/86e53967-3383-4df1-b3b6-49aa2b327110
+- name: April Cromer
+  role: member
+  person_id: ocd-person/dbb8fc98-5116-44c4-8009-8c91e514dec1
+- name: Bill Chumley
+  role: member
+  person_id: ocd-person/20240c0c-69e5-445f-b8ca-d33dd377e086
+- name: Charlie Hartz
+  role: member
+  person_id: ocd-person/08342d93-85d9-498e-a602-85ef9715ebf6
+- name: Daniel Gibson
+  role: member
+  person_id: ocd-person/fd827c3d-df23-4497-b39e-7c7ab43138fd
+- name: Doug Gilliam
+  role: member
+  person_id: ocd-person/3a09cbd2-aa21-4fa8-9511-d1f842816e49
+- name: Greg Ford
+  role: member
+  person_id: ocd-person/ef3c638d-4ad1-4d9d-abbb-1a87b5513a66
+- name: Heather Bauer
+  role: member
+  person_id: ocd-person/573c5456-8b53-4a00-9538-1013f0fc12c5
+- name: Lucas Atkinson
+  role: member
+  person_id: ocd-person/e3d0a679-af6a-4861-aac2-be366fda3210
+- name: Luke Rankin
+  role: member
+  person_id: ocd-person/94b1b04a-1be7-4128-b7ac-0c3b299b7d53
+- name: Mike Burns
+  role: member
+  person_id: ocd-person/6ffe4e57-021a-4424-bc36-b933c8e18477
+- name: Mike Neese
+  role: member
+  person_id: ocd-person/31e694fa-e3e1-4df4-8ca7-4977dbf6e321
+- name: Rob Harris
+  role: member
+  person_id: ocd-person/5bc3db4e-8055-4952-a217-1520e26c8929
+- name: Robert Reese
+  role: member
+  person_id: ocd-person/82c25564-6f95-4fbc-96b8-2ab8a5954a4b
+other_names:
+- name: Agriculture, Natural Resources and Environmental Affairs Committee
+- name: Committee on Agriculture, Natural Resources and Environmental Affairs
+- name: House Agriculture, Natural Resources and Environmental Affairs
+- name: House Agriculture, Natural Resources and Environmental Affairs Committee
+- name: House Committee on Agriculture, Natural Resources and Environmental Affairs

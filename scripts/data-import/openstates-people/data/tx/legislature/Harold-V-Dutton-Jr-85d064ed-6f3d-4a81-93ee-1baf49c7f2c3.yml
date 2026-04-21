@@ -1,0 +1,45 @@
+id: ocd-person/85d064ed-6f3d-4a81-93ee-1baf49c7f2c3
+name: Harold Dutton
+given_name: Harold
+family_name: Dutton
+birth_date: 1945-02-17
+gender: Male
+email: harold.dutton@house.texas.gov
+image: https://house.texas.gov/images/members/2650.jpg?v=3
+party:
+- name: Democratic
+roles:
+- start_date: 1985-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '142'
+offices:
+- classification: capitol
+  address: Room 3N.5, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0510
+- classification: district
+  address: 8799 N. Loop East Suite 200, Houston, TX 77029
+  voice: 713-692-9192
+links:
+- url: https://house.texas.gov/members/2650
+- url: https://house.texas.gov/members/member-page/?district=142
+other_names:
+- name: Dutton, H.
+- name: Dutton, Harold
+- name: H. Dutton
+- name: H.V. Dutton
+- name: Harold V. Dutton Jr.
+- name: Harold V. Dutton, Jr.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000249
+- scheme: legacy_openstates
+  identifier: TXL000067
+- scheme: legacy_openstates
+  identifier: TXL000529
+sources:
+- url: https://ballotpedia.org/Harold_Dutton_Jr.
+- url: https://en.wikipedia.org/wiki/Harold_Dutton_Jr.
+- url: https://house.texas.gov/members/2650
+- url: https://house.texas.gov/members/member-page/?district=142
+- url: https://justfacts.votesmart.org/candidate/biography/5498/harold-dutton-jr

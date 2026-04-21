@@ -1,0 +1,34 @@
+id: ocd-person/272db469-eb67-4752-8307-c46a95eaace0
+name: Sherri Gallick
+given_name: Sherri
+family_name: Gallick
+gender: Female
+email: sherri.gallick@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2359
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '62'
+offices:
+- classification: capitol
+  address: Room 300, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-1344
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=062
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=062
+other_names:
+- name: Gallick, S.
+- name: S. Gallick
+- name: S.E. Gallick
+sources:
+- url: https://ballotpedia.org/Sherri_Gallick
+- url: https://en.wikipedia.org/wiki/Sherri_Gallick
+- url: https://house.mo.gov/MemberDetails.aspx?district=062
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=062
+- url: https://justfacts.votesmart.org/candidate/biography/205733/sherri-gallick
+- url: https://www.linkedin.com/in/sherri-gallick-mba-b410014
+extras:
+  hometown: Belton

@@ -1,0 +1,40 @@
+id: ocd-person/df368e3b-72b7-4608-a291-9eb0c0b78eec
+name: Shomari Figures
+given_name: Shomari
+family_name: Figures
+birth_date: 1985-09-03
+gender: Male
+email: https://figures.house.gov/address_authentication?form=/contact/email-me
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AL-2
+offices:
+- classification: capitol
+  address: 225 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-4931
+- classification: district
+  address: 107 St. Francis St. Unit 1930, Mobile, AL 36602
+  voice: 251-283-6280
+- classification: district
+  address: Montgomery County Courthouse Annex 1 100 S. Lawrence St., Montgomery, AL
+    36104
+  voice: 334-777-5700
+links:
+- url: https://figures.house.gov
+other_names:
+- name: Figures, S.
+- name: S. Figures
+- name: S.C. Figures
+other_identifiers:
+- scheme: bioguide
+  identifier: F000481
+sources:
+- url: https://en.wikipedia.org/wiki/Shomari_Figures
+- url: https://figures.house.gov
+- url: https://www.figuresforcongress.com/meet-shomari
+- url: https://www.linkedin.com/in/shomari-figures-ab0a0961

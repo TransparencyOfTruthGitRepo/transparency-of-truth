@@ -1,0 +1,95 @@
+id: ocd-person/65d8b209-ce03-403c-8437-7c4d7a2e7185
+name: Terry Rice
+given_name: Terry
+family_name: Rice
+gender: Male
+email: terry.rice@senate.ar.gov
+image: https://www.arkleg.state.ar.us/Content/photos/2023/Senate/510_sm.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '5'
+- start_date: 2013-01-14
+  end_date: 2015-01-12
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '5'
+- start_date: 2015-01-12
+  end_date: 2023-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '5'
+- start_date: 2009-01-12
+  end_date: 2013-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '5'
+- end_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '9'
+offices:
+- classification: capitol
+  address: State Capitol Building 500 Woodlane St., Suite 320, Little Rock, AR 72201
+  voice: 501-682-2902
+- classification: district-mail
+  address: P.O. Box 2195, Waldron, AR 72958
+  voice: 479-637-3100
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Rice
+- url: https://senate.arkansas.gov/senators/510
+- url: https://senate.arkansas.gov/senators/terry-rice/
+- url: https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FAssembly%2F2021%2FMember%20Profiles%2FSenator+Rice+-+Senate+Bio.pdf
+  note: Biography
+- url: https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FAssembly%2F2023%2FMember%20Profiles%2FSenator+Rice+-+Senator+Bio.pdf
+  note: Biography
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Rice
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Rice&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Rice&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Document?id=&filename=Senator+Rice+-+Senate+Bio.pdf&source=Member+Profiles&ddBienniumSession=2021
+other_names:
+- name: Rice
+- name: Rice, T.
+- name: T. Rice
+- name: T.W. Rice
+ids:
+  twitter: TerryRice6
+  facebook: terry.rice.7906
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Terry_Rice_(Arkansas)
+- scheme: followthemoney
+  identifier: '6675331'
+- scheme: legacy_openstates
+  identifier: ARL000100
+- scheme: legacy_openstates
+  identifier: ARL000233
+- scheme: legacy_openstates
+  identifier: ARL000341
+- scheme: votesmart
+  identifier: '103785'
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Rice
+- url: https://ballotpedia.org/Terry_Rice_(Arkansas)
+- url: https://en.wikipedia.org/wiki/Terry_Rice
+- url: https://justfacts.votesmart.org/candidate/biography/103785/terry-rice
+- url: https://senate.arkansas.gov/senators/510
+- url: https://senate.arkansas.gov/senators/terry-rice
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Rice
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Rice&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Rice&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Rice&ddBienniumSession=2021%2F2021S1
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Rice&ddBienniumSession=2021%2F2022F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Rice&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2021%2F2021S1#SearchResults
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+extras:
+  seniority: '11'
+  occupation: Business Owner, Rice Furniture & Appliance, Inc.
+  church affiliation: Baptist
+  veteran: 'No'
+  public service: House 2009,  2011,  2013,  Senate 2015,  2017,  2019,  2021

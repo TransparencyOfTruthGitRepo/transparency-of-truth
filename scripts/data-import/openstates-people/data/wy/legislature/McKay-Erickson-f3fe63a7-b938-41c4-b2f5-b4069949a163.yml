@@ -1,0 +1,30 @@
+id: ocd-person/f3fe63a7-b938-41c4-b2f5-b4069949a163
+name: McKay Erickson
+given_name: McKay
+family_name: Erickson
+gender: Male
+email: mckay.erickson@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-EricksonMcKay.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '21'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district
+  address: 2886 Highway 241, Afton, WY 83110
+links:
+- url: https://wyoleg.gov/Legislators/2025/R/2122
+other_names:
+- name: Erickson, M
+- name: Erickson, M.
+- name: M. Erickson
+sources:
+- url: https://ballotpedia.org/McKay_Erickson
+- url: https://en.wikipedia.org/wiki/McKay_Erickson
+- url: https://justfacts.votesmart.org/candidate/biography/218324/mckay-erickson
+- url: https://wyoleg.gov/Legislators/2025/R/2122

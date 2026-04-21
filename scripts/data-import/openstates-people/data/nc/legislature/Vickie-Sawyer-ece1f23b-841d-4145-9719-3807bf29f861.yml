@@ -1,0 +1,51 @@
+id: ocd-person/ece1f23b-841d-4145-9719-3807bf29f861
+name: Vickie Sawyer
+given_name: Vickie
+family_name: Sawyer
+gender: Female
+email: vickie.sawyer@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/S/405/Low
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '37'
+- start_date: 2019-01-01
+  end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '34'
+- start_date: 2018-08-02
+  end_date: 2019-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '44'
+offices:
+- classification: capitol
+  address: Room 312, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-715-3038
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/405
+- url: https://www.ncleg.gov/Members/Committees/S/405
+- url: https://www.ncleg.gov/Members/IntroducedBills/S/405
+- url: https://www.ncleg.gov/Members/Votes/S/405
+other_names:
+- name: Sawyer, V.
+- name: V. Sawyer
+- name: V.B. Sawyer
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000398
+sources:
+- url: https://ballotpedia.org/Vickie_Sawyer
+- url: https://www.linkedin.com/in/vickie-sawyer-62705647
+- url: https://www.ncleg.gov/Members/Biography/S/405
+- url: https://www.ncleg.gov/Members/MemberTable/S
+extras:
+  terms in senate: 3+ (0 in House)
+  represented counties: Iredell, Mecklenburg
+  legislative assistant: Diana Xavier
+  legislative assistant email: Diana.Xavier@ncleg.gov

@@ -1,0 +1,50 @@
+id: ocd-person/57440e55-06ad-4f1f-8aa5-3bdd31a805dd
+name: Nathan Small
+given_name: Nathan
+family_name: Small
+gender: Male
+email: nathan.small@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HSMAL.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '36'
+offices:
+- classification: capitol
+  address: State Capitol Room 304B, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4319
+- classification: district
+  address: NM
+  voice: 575-496-9540
+links:
+- url: https://www.linkedin.com/in/nathan-small-20685816/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HSMAL
+  note: homepage
+other_names:
+- name: N. Small
+- name: N.P. Small
+- name: Nathan P. Small
+- name: Small, N.
+- name: Small, Nathan
+- name: Small, Nathan P.
+ids:
+  twitter: nathanlcnm
+  facebook: NathanForNM
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000427
+sources:
+- url: https://ballotpedia.org/Nathan_P._Small
+- url: https://en.wikipedia.org/wiki/Nathan_Small
+- url: https://www.linkedin.com/in/nathan-small-20685816
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HSMAL
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: "Do\xF1a Ana"
+  service: Representative since 2017
+  occupation: Conservation

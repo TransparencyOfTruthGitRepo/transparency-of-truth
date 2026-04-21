@@ -1,0 +1,50 @@
+id: ocd-person/5a475e6f-5277-425e-bb09-1c55facbc736
+name: Craig Hickman
+given_name: Craig
+family_name: Hickman
+birth_date: 1967-12-08
+gender: Male
+email: craig.hickman@legislature.maine.gov
+image: https://legislature.maine.gov/uploads/visual_edit/hickman-1024x1024.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-03-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '14'
+- start_date: 2012-12-05
+  end_date: 2020-12-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '14'
+offices:
+- classification: capitol
+  address: 3 State House Station, Augusta, ME 04333
+  voice: 207-287-1515
+links:
+- url: https://legislature.maine.gov/District-14
+- url: https://legislature.maine.gov/District14
+  note: homepage
+- url: https://www.mainesenate.org
+  note: website
+- url: https://www.mainesenate.org/senator/senator/craig-hickman/
+  note: website
+other_names:
+- name: C. Hickman
+- name: C.V. Hickman
+- name: Craig V. Hickman
+- name: HICKMAN of Kennebec
+- name: Hickman, C.
+sources:
+- url: https://ballotpedia.org/Craig_Hickman
+- url: https://en.wikipedia.org/wiki/Craig_Hickman
+- url: https://justfacts.votesmart.org/candidate/biography/121034/craig-hickman
+- url: https://legislature.maine.gov/District-14
+- url: https://legislature.maine.gov/District14
+- url: https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+- url: https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+- url: https://www.linkedin.com/in/craig-hickman-9854a641
+- url: https://www.mainesenate.org/senator/senator/craig-hickman
+extras:
+  county represented: Kennebec

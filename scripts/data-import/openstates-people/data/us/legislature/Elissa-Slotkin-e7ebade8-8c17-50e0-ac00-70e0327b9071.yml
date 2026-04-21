@@ -1,0 +1,93 @@
+id: ocd-person/e7ebade8-8c17-50e0-ac00-70e0327b9071
+name: Elissa Slotkin
+given_name: Elissa
+family_name: Slotkin
+birth_date: 1976-07-10
+gender: Female
+email: https://www.slotkin.senate.gov/contact/contact-senator-slotkin/
+image: https://unitedstates.github.io/images/congress/450x550/S001208.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Michigan
+- start_date: 2023-01-03
+  end_date: 2025-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MI-7
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MI-8
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MI-8
+offices:
+- classification: capitol
+  address: 291 Russell Senate Office Building, Washington, DC 20510
+  voice: 202-224-4822
+- classification: district
+  address: 110 Michigan St. NW Room 335, Grand Rapids, MI 49503
+  voice: 616-975-0052
+- classification: district
+  address: 315 W. Allegan St. Suite 207, Lansing, MI 48933
+  voice: 517-203-1760
+- classification: district
+  address: 3335 S. Airport Road West Suite 6B, Traverse City, MI 49684
+  voice: 231-929-1031
+- classification: district
+  address: 432 N. Saginaw St. Suite 301, Flint, MI 48502
+  voice: 810-720-4172
+- classification: district
+  address: 719 Griswold St. Suite 700, Detroit, MI 48226
+  voice: 313-961-4330
+links:
+- url: https://slotkin.house.gov
+  note: website
+- url: https://slotkin.house.gov/
+- url: https://www.slotkin.senate.gov/
+other_names:
+- name: E. Slotkin
+- name: E.B. Slotkin
+- name: Slotkin, E.
+ids:
+  twitter: RepSlotkin
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Elissa Slotkin
+- scheme: bioguide
+  identifier: S001208
+- scheme: fec
+  identifier: H8MI08102
+- scheme: google_entity_id
+  identifier: kg:/g/11dfr3z7r1
+- scheme: govtrack
+  identifier: '412784'
+- scheme: icpsr
+  identifier: '21965'
+- scheme: opensecrets
+  identifier: N00041357
+- scheme: pictorial
+  identifier: '13100'
+- scheme: votesmart
+  identifier: '181080'
+- scheme: wikidata
+  identifier: Q30323721
+sources:
+- url: https://ballotpedia.org/Elissa_Slotkin
+- url: https://elissaslotkin.org/meet-elissa-slotkin
+- url: https://en.wikipedia.org/wiki/Elissa_Slotkin
+- url: https://justfacts.votesmart.org/candidate/biography/181080/elissa-slotkin
+- url: https://slotkin.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/elissa_slotkin/412784
+- url: https://www.linkedin.com/in/elissa-slotkin-513554130
+- url: https://www.slotkin.senate.gov

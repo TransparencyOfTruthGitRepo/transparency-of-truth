@@ -1,0 +1,47 @@
+id: ocd-organization/cf1b77f7-adee-466a-9871-db1113553702
+jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+classification: committee
+name: Legislative Procedure
+chamber: lower
+sources:
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1161
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1199
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/68
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/69
+- url: https://sdlegislature.gov/Session/Committee/1161/Detail
+- url: https://sdlegislature.gov/Session/Committee/1199/Detail
+- url: https://sdlegislature.gov/Session/Committee/1233/Detail
+- url: https://sdlegislature.gov/Session/Committee/1268/Detail
+links:
+- url: https://sdlegislature.gov/Session/Committee/1161/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1199/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1233/Detail
+- url: https://sdlegislature.gov/Session/Committee/1268/Detail
+members:
+- name: Jon Hansen
+  role: chair
+  person_id: ocd-person/912b0c53-5674-42b0-8f22-8ccd01c3264c
+- name: Karla Lems
+  role: vice chair
+  person_id: ocd-person/0c864308-04a8-4b22-af5b-5d718046b99f
+- name: Erin Healy
+  role: member
+  person_id: ocd-person/85bda678-d416-4caa-b439-8a579288f2ec
+- name: Greg Jamison
+  role: member
+  person_id: ocd-person/fe9a44c7-7241-4395-98e3-8445b1bc2d54
+- name: Marty Overweg
+  role: member
+  person_id: ocd-person/7dc4b8d9-148b-4622-a6de-b27dc27030be
+- name: Scott Odenbach
+  role: member
+  person_id: ocd-person/18602d7b-fb7f-495b-bf94-2b0da2aae00f
+- name: Tina Mulally
+  role: member
+  person_id: ocd-person/ebadc687-f53a-4ec4-9c37-b362a2ea6842
+other_names:
+- name: House Committee on Legislative Procedure
+- name: House Legislative Procedure
+- name: House Legislative Procedure Committee

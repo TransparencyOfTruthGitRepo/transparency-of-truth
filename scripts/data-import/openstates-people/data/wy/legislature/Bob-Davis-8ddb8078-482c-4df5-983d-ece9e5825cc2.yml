@@ -1,0 +1,49 @@
+id: ocd-person/8ddb8078-482c-4df5-983d-ece9e5825cc2
+name: Bob Davis
+given_name: Bob
+family_name: Davis
+gender: Male
+email: bob.davis@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-DavisBob.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '47'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 369, Baggs, WY 82321
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/H/2110
+- url: https://www.wyoleg.gov/Legislators/2025/H/2110
+- url: https://wyoleg.gov/Legislators/2021/R/2110
+  note: homepage
+other_names:
+- name: B. Davis
+- name: Davis, B
+- name: Davis, B.
+- name: R. Davis
+sources:
+- url: https://ballotpedia.org/Robert_Davis_(Wyoming)
+- url: https://en.wikipedia.org/wiki/Bob_Davis_(Wyoming_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/207713/robert-davis
+- url: https://www.wyoleg.gov/Legislators/2023/H/2110
+- url: https://www.wyoleg.gov/Legislators/2025/H/2110
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2110
+extras:
+  county: Carbon, Sweetwater Counties
+  religion: Christian
+  number of children: '3'
+  number of grandchildren: '8'
+  birth place: Omaha, Nebraska
+  house years: 'House:  2023-Present'
+  prior service:
+  - chamber: House
+    startYear: 2023
+    endYear: Present
+    district: ' District 47, '

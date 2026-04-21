@@ -1,0 +1,44 @@
+id: ocd-person/9d60676d-f50e-4117-8d22-681927e43a01
+name: Skyler Wheeler
+given_name: Skyler
+family_name: Wheeler
+birth_date: 1993-04-24
+gender: Male
+email: skyler.wheeler@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18040
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '4'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://iowahouserepublicans.nationbuilder.com/reps
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=18040&ga=89
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=18040&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=18040
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=18040
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=18040
+other_names:
+- name: S. Wheeler
+- name: Wheeler, S.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IAL000545
+sources:
+- url: https://ballotpedia.org/Skyler_Wheeler
+- url: https://en.wikipedia.org/wiki/Skyler_Wheeler
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=18040
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=18040
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=18040
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=18040
+- url: https://www.linkedin.com/in/skyler-wheeler-3395a9b2
+extras:
+  cell phone: 712.441.7444
+  capitol phone: 515.281.3221

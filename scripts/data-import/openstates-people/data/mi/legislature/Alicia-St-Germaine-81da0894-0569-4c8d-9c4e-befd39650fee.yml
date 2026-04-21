@@ -1,0 +1,36 @@
+id: ocd-person/81da0894-0569-4c8d-9c4e-befd39650fee
+name: Alicia St. Germaine
+given_name: Alicia
+family_name: St. Germaine
+gender: Female
+email: aliciastgermaine@house.mi.gov
+image: https://www.house.mi.gov/media/Representatives/St. Germaine-062.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '62'
+offices:
+- classification: capitol
+  address: Room N-996, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0555
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/RepAliciaStGermaine/posts
+other_names:
+- name: A. St. Germaine
+- name: St. Germaine, A.
+sources:
+- url: https://ballotpedia.org/Alicia_St._Germaine
+- url: https://gophouse.org/member/RepAliciaStGermaine/posts
+- url: https://RepStGermaine.com
+  note: Member Details Page
+- url: https://www.aliciastgermaine.com/about-alicia
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.house.mi.gov/repdetail/repAliciaSt. Germaine
+  note: Member Details Page

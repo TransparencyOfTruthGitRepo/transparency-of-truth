@@ -1,0 +1,20 @@
+id: ocd-person/cc9cdec9-4472-42d9-8883-c5d9373b56ff
+name: Douglas Roulstone
+given_name: Douglas
+family_name: Roulstone
+image: http://www.leg.wa.gov/house/representatives/publishingimages/roulstone.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '44'
+links:
+- url: http://www.leg.wa.gov/house/representatives/Pages/roulstone.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000210
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/roulstone.aspx

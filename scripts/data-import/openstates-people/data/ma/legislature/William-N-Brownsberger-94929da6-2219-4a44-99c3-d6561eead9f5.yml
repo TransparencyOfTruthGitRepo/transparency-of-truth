@@ -1,0 +1,66 @@
+id: ocd-person/94929da6-2219-4a44-99c3-d6561eead9f5
+name: Will Brownsberger
+given_name: Will
+family_name: Brownsberger
+birth_date: 1957-03-21
+gender: Male
+email: william.brownsberger@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/WNB0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Suffolk and Middlesex
+- start_date: 2012-01-24
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Suffolk and Middlesex
+- start_date: 2007-01-03
+  end_date: 2012-01-24
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Suffolk and Middlesex
+- end_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Second Suffolk and Middlesex
+offices:
+- classification: capitol
+  address: Room 319, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1280
+links:
+- url: https://malegislature.gov/Legislators/Profile/WNB0
+- url: https://willbrownsberger.com/
+other_names:
+- name: Brownsberger, W.
+- name: W. Brownsberger
+- name: W.N. Brownsberger
+- name: William N. Brownsberger
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000060
+- scheme: legacy_openstates
+  identifier: MAL000205
+- scheme: legacy_openstates
+  identifier: MAL000206
+- scheme: legacy_openstates
+  identifier: MAL000247
+sources:
+- url: https://ballotpedia.org/William_Brownsberger
+- url: https://en.wikipedia.org/wiki/Will_Brownsberger
+- url: https://justfacts.votesmart.org/candidate/biography/66893/will-brownsberger
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/WNB0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/WNB0
+- url: https://malegislature.gov/Legislators/Profile/WNB0
+- url: https://willbrownsberger.com
+- url: https://www.linkedin.com/in/willbrownsberger
+extras:
+  leadership position: President Pro Tempore
+  member code: WNB0

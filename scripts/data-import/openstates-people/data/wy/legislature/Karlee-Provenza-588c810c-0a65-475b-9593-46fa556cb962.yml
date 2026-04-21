@@ -1,0 +1,66 @@
+id: ocd-person/588c810c-0a65-475b-9593-46fa556cb962
+name: Karlee Provenza
+given_name: Karlee
+family_name: Provenza
+birth_date: 1989-10-09
+gender: Female
+email: karlee.provenza@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-ProvenzaKarlee.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '45'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 1715, Laramie, WY 82073
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/H/2080
+- url: https://www.wyoleg.gov/Legislators/2025/H/2080
+- url: https://wyoleg.gov/Legislators/2021/D/2080
+other_names:
+- name: K. Provenza
+- name: K.R. Provenza
+- name: Provenza, K
+- name: Provenza, K.
+sources:
+- url: https://ballotpedia.org/Karlee_Provenza
+- url: https://en.wikipedia.org/wiki/Karlee_Provenza
+- url: https://justfacts.votesmart.org/candidate/194589/karlee-provenza
+- url: https://www.linkedin.com/in/karlee-provenza-ph-d-057303207
+- url: https://www.linkedin.com/in/karlee-r-provenza-717776122
+- url: https://www.wyoleg.gov/Legislators/2023/H/2080
+- url: https://www.wyoleg.gov/Legislators/2025/H/2080
+- url: https://wyoleg.gov/Legislators/2021/D/2080
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2080
+extras:
+  county: Albany County
+  education:
+  - schoolName: University of Wyoming
+    gradYear: '2021'
+    degree: Ph.D. Experimental Psychology and Law
+  - schoolName: University of Wyoming
+    gradYear: '2017'
+    degree: M.A. Experimental Psychology
+  - schoolName: University of Northern Colorado
+    gradYear: '2013'
+    degree: B.A. Psychology
+  title: Minority Whip
+  occupation: Research Scientist/ Consultant
+  leadership:
+  - startYear: '2023'
+    endYear: '2024'
+    position: 'House Minority Whip                               '
+    currentLeader: true
+  house years: 'House:  2021-Present'
+  prior service:
+  - chamber: House
+    startYear: 2021
+    endYear: Present
+    district: ' District 45, '

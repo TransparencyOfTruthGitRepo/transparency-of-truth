@@ -1,0 +1,30 @@
+id: ocd-person/9411a121-c47d-431a-b407-88ff5c891c5f
+name: Heather Gustafson
+given_name: Heather
+family_name: Gustafson
+gender: Female
+email: sen.heather.gustafson@senate.mn
+image: https://www.senate.mn/graphics/36Gustafson.jpg
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '36'
+offices:
+- classification: capitol
+  address: Room 3103, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-1253
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1263
+other_names:
+- name: Gustafson, H.
+- name: H. Gustafson
+sources:
+- url: https://ballotpedia.org/Heather_Gustafson
+- url: https://en.wikipedia.org/wiki/Heather_Gustafson
+- url: https://justfacts.votesmart.org/candidate/biography/207838/heather-gustafson
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1263

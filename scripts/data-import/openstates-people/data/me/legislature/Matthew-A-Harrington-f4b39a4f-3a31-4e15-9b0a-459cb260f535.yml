@@ -1,0 +1,59 @@
+id: ocd-person/f4b39a4f-3a31-4e15-9b0a-459cb260f535
+name: Matt Harrington
+given_name: Matt
+family_name: Harrington
+gender: Male
+email: matthew.harrington@legislature.maine.gov
+image: https://legislature.maine.gov/uploads/visual_edit/harrington-matt.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '33'
+- start_date: 2015-12-07
+  end_date: 2022-12-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '33'
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '19'
+offices:
+- classification: capitol
+  address: 3 State House Station, Augusta, ME 04333
+  voice: 207-287-1505
+links:
+- url: https://legislature.maine.gov/District33
+  note: homepage
+- url: https://legislature.maine.gov/district33
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/83
+- url: https://mesenategop.com/your-senators/senator-matt-harrington/
+  note: website
+other_names:
+- name: HARRINGTON of Sanford
+- name: HARRINGTON of York
+- name: Harrington, M.
+- name: M. Harrington
+- name: M.A. Harrington
+- name: Matthew A. Harrington
+- name: Matthew Harrington
+- name: Matthew HARRINGTON
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000466
+sources:
+- url: https://ballotpedia.org/Matthew_Harrington_(Maine)
+- url: https://en.wikipedia.org/wiki/Matthew_Harrington_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/155022/matt-harrington
+- url: https://legislature.maine.gov/district33
+- url: https://legislature.maine.gov/District33
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/83
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx
+- url: https://mesenategop.com/your-senators/senator-matt-harrington
+- url: https://www.linkedin.com/in/matt-harrington-9b593999
+extras:
+  Additional address: P.O.B. 457, Sanford, ME 04073

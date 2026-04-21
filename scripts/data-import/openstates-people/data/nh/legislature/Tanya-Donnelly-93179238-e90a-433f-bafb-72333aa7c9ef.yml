@@ -1,0 +1,36 @@
+id: ocd-person/93179238-e90a-433f-bafb-72333aa7c9ef
+name: Tanya Donnelly
+given_name: Tanya
+family_name: Donnelly
+gender: Female
+email: tanya.donnelly@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123133.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 25
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 978-482-7434
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10704
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10704
+  note: member detail page
+other_names:
+- name: Donnelly, T.
+- name: T. Donnelly
+sources:
+- url: https://ballotpedia.org/Tanya_Donnelly
+- url: https://canobielanding.com/speaker
+- url: https://en.wikipedia.org/wiki/Tanya_Donnelly_(politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10704
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10704
+- url: https://www.linkedin.com/in/tanyadonnelly
+extras:
+  county: Rockingham
+  elected status: new
+  gender code: F

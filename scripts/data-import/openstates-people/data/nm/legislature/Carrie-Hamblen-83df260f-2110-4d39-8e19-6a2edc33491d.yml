@@ -1,0 +1,39 @@
+id: ocd-person/83df260f-2110-4d39-8e19-6a2edc33491d
+name: Carrie Hamblen
+given_name: Carrie
+family_name: Hamblen
+gender: Female
+email: carrie.hamblen@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SHAMB.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '38'
+offices:
+- classification: capitol
+  address: State Capitol Room 323A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4310
+- classification: district-mail
+  address: P.O. Box 2072, Las Cruces, NM 88001
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SHAMB
+  note: homepage
+other_names:
+- name: C. Hamblen
+- name: Hamblen, C.
+- name: Hamblen, Carrie
+sources:
+- url: https://ballotpedia.org/Carrie_Hamblen
+- url: https://en.wikipedia.org/wiki/Carrie_Hamblen
+- url: https://hamblennmsenate38.com/about-carrie
+- url: https://www.linkedin.com/in/carrie-hamblen-87a4a7b
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SHAMB
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: "Do\xF1a Ana"
+  service: Senator since 2021
+  occupation: CEO- LC Green COC

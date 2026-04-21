@@ -1,0 +1,54 @@
+id: ocd-person/1d297b7e-2e51-4e1a-a208-2f5505e9f1f7
+name: Stephanie Chang
+given_name: Stephanie
+family_name: Chang
+birth_date: 1983-10-24
+gender: Female
+email: senschang@senate.michigan.gov
+image: https://senatedems.com/chang/wp-content/uploads/sites/9/2022/12/MDS_Chang_DSC5412.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '3'
+- end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '6'
+- end_date: 2022-12-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '1'
+offices:
+- classification: capitol
+  address: Room 4100, Binsfeld Building P.O. Box 30036, Lansing, MI 48909
+  voice: 517-373-7346
+- classification: district
+  address: 11521 Joseph Campau Ave., Hamtramck, MI 48212
+  voice: 313-922-6949
+links:
+- url: https://senatedems.com/chang
+  note: Member Page
+- url: https://senatedems.com/chang/
+- url: https://senatedems.com/chang/contact
+  note: Contact
+other_names:
+- name: Chang, S.
+- name: S. Chang
+- name: S.G. Chang
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000291
+sources:
+- url: https://ballotpedia.org/Stephanie_Chang
+- url: https://en.wikipedia.org/wiki/Stephanie_Chang
+- url: https://senate.michigan.gov/senatorinfo_list.html
+- url: https://senate.michigan.gov/senators/SenatorData.json
+  note: Members List JSON Data Page
+- url: https://senate.michigan.gov/senators/senatorinfo_list.html
+  note: Members List HTML page
+- url: https://senatedems.com/chang
+- url: https://senatedems.com/chang/
+- url: https://www.linkedin.com/in/stephanie-chang-a2286019

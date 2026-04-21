@@ -1,0 +1,29 @@
+id: ocd-person/cbcbdd14-34bd-4138-ba5f-be1305990763
+name: Sharon Runner
+given_name: Sharon
+family_name: Runner
+image: http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sharonrunner.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/government
+  district: '17'
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/government
+  district: '21'
+links:
+- url: http://district21.cssrc.us/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CAL000169
+- scheme: legacy_openstates
+  identifier: CAL000203
+- scheme: legacy_openstates
+  identifier: CAL000493
+sources:
+- url: http://senate.ca.gov/senators

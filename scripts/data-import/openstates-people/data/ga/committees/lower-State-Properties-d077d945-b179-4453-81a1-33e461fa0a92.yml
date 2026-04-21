@@ -1,0 +1,62 @@
+id: ocd-organization/d077d945-b179-4453-81a1-33e461fa0a92
+jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+classification: committee
+name: State Properties
+chamber: lower
+sources:
+- url: https://www.legis.ga.gov/api/committees/details/182/1029
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/details/182/1031
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1029
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1031
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/committees/house/182
+links:
+- url: https://www.legis.ga.gov/committees/house/182
+  note: homepage
+members:
+- name: Gerald Greene
+  role: chair
+  person_id: ocd-person/570a213a-a475-4fd3-ac36-23e1bd1190be
+- name: Emory Dunahoo
+  role: vice chair
+  person_id: ocd-person/3b2b9f31-6859-4582-8d82-581597c0c178
+- name: Michael Smith
+  role: secretary
+  person_id: ocd-person/68185f1d-fa54-4571-b305-fcd6c7dc024e
+- name: Arlene Beckles
+  role: member
+  person_id: ocd-person/3b3da57c-2f96-4a94-a7bc-eb6a814cc627
+- name: Bill Werkheiser
+  role: member
+  person_id: ocd-person/adefd0ba-43cd-4aae-9321-12f67e57ac8a
+- name: Debbie Buckner
+  role: member
+  person_id: ocd-person/5061bc6b-83af-46d0-a78d-30ebe10a63db
+- name: James Burchett
+  role: member
+  person_id: ocd-person/dbce462d-74e3-42d3-bd6c-3b9f8eeb69fe
+- name: Mary Ann Santos
+  role: member
+  person_id: ocd-person/7deae3f1-5548-4afe-9018-e8112945fd8d
+- name: Robert Flournoy
+  role: member
+  person_id: ocd-person/32c3fbdd-4034-47d0-b7ab-0411bd200737
+- name: Scott Hilton
+  role: member
+  person_id: ocd-person/91abe321-5ea4-4f17-b8d8-573d7cb913e6
+- name: Steven Sainz
+  role: member
+  person_id: ocd-person/99082062-acd6-4c6b-bb45-2cfa071f19fc
+- name: Terry Cummings
+  role: member
+  person_id: ocd-person/aa7405f9-5c37-4ce8-a7eb-ac5949a6e776
+other_names:
+- name: House Committee on State Properties
+- name: House State Properties
+- name: House State Properties Committee
+extras:
+  address: 416-A State Capitol  Atlanta, GA 30334
+  phone: '4046569210'

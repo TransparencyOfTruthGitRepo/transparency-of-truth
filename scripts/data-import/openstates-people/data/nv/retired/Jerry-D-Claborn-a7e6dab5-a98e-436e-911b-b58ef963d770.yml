@@ -1,0 +1,21 @@
+id: ocd-person/a7e6dab5-a98e-436e-911b-b58ef963d770
+name: Jerry D Claborn
+given_name: Jerry
+family_name: Claborn
+middle_name: D
+image: http://www.leg.state.nv.us/73rd/legislators/assembly/Images/Claborn.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '19'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NVL000072
+- scheme: legacy_openstates
+  identifier: NVL000030
+sources:
+- url: http://www.leg.state.nv.us/Session/75th2009/legislators/Assembly/alist.cfm

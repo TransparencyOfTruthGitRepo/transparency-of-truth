@@ -1,0 +1,22 @@
+id: ocd-person/a23c4a91-50af-450e-8434-93aa4ea7ab6c
+name: Phillip M. Archuleta
+given_name: Phillip M.
+family_name: Archuleta
+image: http://www.nmlegis.gov/lcs/graphics/photos/HARCH.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '36'
+links:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HARCH
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000156
+- scheme: legacy_openstates
+  identifier: NML000247
+sources:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HARCH

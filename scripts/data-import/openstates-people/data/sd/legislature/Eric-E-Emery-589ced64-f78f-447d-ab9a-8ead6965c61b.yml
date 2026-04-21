@@ -1,0 +1,39 @@
+id: ocd-person/589ced64-f78f-447d-ab9a-8ead6965c61b
+name: Eric Emery
+given_name: Eric
+family_name: Emery
+gender: Male
+email: eric.emery@sdlegislature.gov
+image: https://www.sfsimplified.com/content/images/2022/09/Eric-Emery.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: 26A
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3851
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/4471/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4499/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4606/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4749/Detail
+other_names:
+- name: E. Emery
+- name: E.E. Emery
+- name: Emery, E.
+- name: Eric E. Emery
+sources:
+- url: https://ballotpedia.org/Eric_Emery
+- url: https://en.wikipedia.org/wiki/Eric_Emery
+- url: https://justfacts.votesmart.org/candidate/biography/205149/eric-emery
+- url: https://sdlegislature.gov/Legislators/Profile/4471/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4499/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4606/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4749/Detail
+- url: https://www.linkedin.com/in/eric-emery-946b0310a
+extras:
+  occupation: Paramedic

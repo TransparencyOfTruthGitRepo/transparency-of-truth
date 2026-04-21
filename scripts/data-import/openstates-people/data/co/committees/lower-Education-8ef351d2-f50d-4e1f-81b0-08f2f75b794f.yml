@@ -1,0 +1,62 @@
+id: ocd-organization/8ef351d2-f50d-4e1f-81b0-08f2f75b794f
+jurisdiction: ocd-jurisdiction/country:us/state:co/government
+classification: committee
+name: Education
+chamber: lower
+sources:
+- url: https://leg.colorado.gov/committees/2026A/house/Education
+- url: https://leg.colorado.gov/committees/education/2021-regular-session-0
+- url: https://leg.colorado.gov/committees/education/2023-regular-session-0
+- url: https://leg.colorado.gov/committees/education/2025-regular-session
+links:
+- url: https://leg.colorado.gov/committees/2026A/house/Education
+- url: https://leg.colorado.gov/committees/education/2021-regular-session-0
+  note: homepage
+- url: https://leg.colorado.gov/committees/education/2023-regular-session-0
+  note: homepage
+- url: https://leg.colorado.gov/committees/education/2024-regular-session-0
+- url: https://leg.colorado.gov/committees/education/2025-regular-session
+members:
+- name: Meghan Lukens
+  role: chair
+  person_id: ocd-person/c1a18202-08ad-487f-99bb-b1a606c15a22
+- name: Matt Martinez
+  role: vice chair
+  person_id: ocd-person/27716b46-14de-4097-a29c-1a882ae3cd3a
+- name: Ava Flanell
+  role: member
+  person_id: ocd-person/af9e96aa-fb8b-49bb-96d8-e6c2c1ceb2b5
+- name: Dusty Johnson
+  role: member
+  person_id: ocd-person/f38f9f4b-9d3a-4e79-a96f-fab94d553d89
+- name: Eliza Hamrick
+  role: member
+  person_id: ocd-person/c02b7bf5-a583-43c0-b6d6-2e757c7d42b7
+- name: Jacque Phillips
+  role: member
+  person_id: ocd-person/48d0af72-b21b-44a5-afc2-325b80f1c551
+- name: Jennifer Bacon
+  role: member
+  person_id: ocd-person/4aba3e11-9554-405d-b926-5435eb77fa26
+- name: Katie Stewart
+  role: member
+  person_id: ocd-person/fa06bf42-5305-4b04-95d0-a63f94ae8913
+- name: Lindsay Gilchrist
+  role: member
+  person_id: ocd-person/d5ec869e-db7a-480f-b270-428805b90cee
+- name: Lori Garcia Sander
+  role: member
+  person_id: ocd-person/d450c0d3-b829-4855-ad0d-1228c5284a4f
+- name: Mary Bradfield
+  role: member
+  person_id: ocd-person/9e1ed481-cc42-4186-a8fe-891abba60162
+- name: Tammy Story
+  role: member
+  person_id: ocd-person/489b3afa-1e08-40f4-918a-f01c186b6f73
+- name: Tony Hartsook
+  role: member
+  person_id: ocd-person/561892b1-c618-43cb-9767-9237514f0a92
+other_names:
+- name: House Committee on Education
+- name: House Education
+- name: House Education Committee

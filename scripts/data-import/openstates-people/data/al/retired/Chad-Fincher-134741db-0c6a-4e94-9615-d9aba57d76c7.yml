@@ -1,0 +1,21 @@
+id: ocd-person/134741db-0c6a-4e94-9615-d9aba57d76c7
+name: Chad Fincher
+given_name: Chad
+family_name: Fincher
+image: http://www.legislature.state.al.us/graphics/housepics/fincher_c.jpeg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '102'
+links:
+- url: http://www.legislature.state.al.us/house/representatives/housebios/hd102.html
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000065
+sources:
+- url: http://www.legislature.state.al.us/house/representatives/housebios/hd102.html
+- url: http://www.legislature.state.al.us/house/representatives/houseroster_alpha.html

@@ -1,0 +1,64 @@
+id: ocd-person/96307d79-07d4-4f59-9dd3-b7f994d566d5
+name: Billy Mitchell
+given_name: Billy
+family_name: Mitchell
+birth_date: 1956-11-12
+gender: Male
+email: billy.mitchell@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/mitchell-billy-172.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2003-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '88'
+offices:
+- classification: capitol
+  address: Room 607-D, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0287
+- classification: district-mail
+  address: P.O. Box 88, Stone Mountain, GA 30086
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=172&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/172
+- url: https://www.legis.ga.gov/members/house/172?session=1029
+- url: https://www.legis.ga.gov/members/house/172?session=1031
+  note: HTML member detail page
+other_names:
+- name: B. Mitchell
+- name: MITCHELL, 88TH
+- name: Mitchell, B.
+- name: W.W. Mitchell
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000167
+sources:
+- url: https://ballotpedia.org/Billy_Mitchell
+- url: https://en.wikipedia.org/wiki/Billy_Mitchell_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/17460/billy-mitchell
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=172&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/172?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/172?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/172
+- url: https://www.legis.ga.gov/members/house/172?session=1029
+- url: https://www.linkedin.com/in/billy-mitchell-290b744
+extras:
+  residence: Stone Mountain
+  city: Stone Mountain
+  georgia_id: 172
+  birthday: November 12
+  occupation: Businessman
+  press: https://house-press.com/representative/Billy-Mitchell
+  spouse: Shawn
+  staff: Marjorie Woods - Administrative Assistant
+  staff email: marjorie.woods@house.ga.gov
+  title: Minority Caucus Chairman

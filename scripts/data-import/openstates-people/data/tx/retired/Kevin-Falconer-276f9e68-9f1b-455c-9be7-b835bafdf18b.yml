@@ -1,0 +1,13 @@
+id: ocd-person/276f9e68-9f1b-455c-9be7-b835bafdf18b
+name: Kevin Falconer
+given_name: Kevin
+family_name: Falconer
+email: kevin.falconer@cityofcarrollton.com
+roles:
+- end_date: '2023-11-07'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/place:carrollton/government
+offices:
+- classification: primary
+  address: P.O. Box 110535;Carrollton, TX 75011-0535
+  voice: 972-466-3001

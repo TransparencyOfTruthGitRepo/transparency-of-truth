@@ -1,0 +1,43 @@
+id: ocd-person/7dc4b8d9-148b-4622-a6de-b27dc27030be
+name: Marty Overweg
+given_name: Marty
+family_name: Overweg
+gender: Male
+email: marty.overweg@sdlegislature.gov
+image: http://sdlegislature.gov/inc/img/Legislators/overweg_2020.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '21'
+- start_date: 2020-01-06
+  end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '21'
+- end_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '19'
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/1832/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4400/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4542/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4648/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4799/Detail
+other_names:
+- name: M. Overweg
+- name: Overweg, M.
+sources:
+- url: https://ballotpedia.org/Marty_Overweg
+- url: https://en.wikipedia.org/wiki/Marty_Overweg
+- url: https://justfacts.votesmart.org/candidate/biography/188905/marty-overweg
+- url: https://sdlegislature.gov/Legislators/Profile/1832/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4400/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4542/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4648/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4799/Detail
+extras:
+  occupation: Ag Businessman/Farmer

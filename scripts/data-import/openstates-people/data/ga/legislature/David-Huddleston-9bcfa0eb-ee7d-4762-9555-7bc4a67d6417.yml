@@ -1,0 +1,47 @@
+id: ocd-person/9bcfa0eb-ee7d-4762-9555-7bc4a67d6417
+name: David Huddleston
+given_name: David
+family_name: Huddleston
+gender: Male
+email: david.huddleston@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/huddleston-david-5033.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '72'
+offices:
+- classification: capitol
+  address: Room 612-G, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0325
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5033
+- url: https://www.legis.ga.gov/members/house/5033?session=1031
+  note: HTML member detail page
+other_names:
+- name: D. Huddleston
+- name: HUDDLESTON, 72ND
+- name: Huddleston, D.
+sources:
+- url: https://ballotpedia.org/David_Huddleston
+- url: https://en.wikipedia.org/wiki/David_Huddleston_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/203434/david-huddleston
+- url: https://www.legis.ga.gov/api/members/detail/5033?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5033
+extras:
+  residence: Roopville
+  city: Roopville
+  georgia_id: 5033
+  birthday: May 30
+  press: https://house-press.com/representative/David-Huddleston
+  spouse: Farmer
+  staff: Chelsea Bell - Administrative Assistant
+  staff email: chelsea.bell@house.ga.gov

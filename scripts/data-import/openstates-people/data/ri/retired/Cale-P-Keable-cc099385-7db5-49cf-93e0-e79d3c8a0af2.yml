@@ -1,0 +1,25 @@
+id: ocd-person/cc099385-7db5-49cf-93e0-e79d3c8a0af2
+name: Cale P. Keable
+given_name: Cale P.
+family_name: Keable
+image: http://www.rilin.state.ri.us/representatives/pictures/keable1.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '47'
+links:
+- url: http://www.rilin.state.ri.us/representatives/carson/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000086
+sources:
+- url: http://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: http://www.rilin.state.ri.us/representatives/Keable/
+extras:
+  name_first: Cale
+  name_last: Keable
+  name_middle: P.
+  town_represented: Burrillville, Glocester

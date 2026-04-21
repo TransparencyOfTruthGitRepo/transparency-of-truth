@@ -1,0 +1,118 @@
+id: ocd-organization/1b4c8042-794d-5f20-bfb9-114bf565df17
+jurisdiction: ocd-jurisdiction/country:us/government
+classification: committee
+name: Homeland Security
+chamber: lower
+sources:
+- url: https://homeland.house.gov
+- url: https://republicans-homeland.house.gov
+- url: https://unitedstates.github.io/
+links:
+- url: https://homeland.house.gov
+- url: https://homeland.house.gov/
+  note: homepage
+- url: https://republicans-homeland.house.gov
+- url: https://republicans-homeland.house.gov/
+  note: homepage
+members:
+- name: Andrew Garbarino
+  role: chair
+  person_id: ocd-person/4ec1dbc4-ea21-5f61-92b1-fa55b47a4c61
+- name: Michael McCaul
+  role: vice chair
+  person_id: ocd-person/15d37180-ddd2-5bb6-8dd4-cdd2690eca86
+- name: Bennie Thompson
+  role: ranking member
+  person_id: ocd-person/c171d352-db84-5c96-8260-1fcd7eab2575
+- name: Julie Johnson
+  role: vice ranking member
+  person_id: ocd-person/ea06a401-ba19-4028-8986-38e950a657b6
+- name: Al Green
+  role: member
+  person_id: ocd-person/2ad84a53-f957-5a9c-861b-413aac608201
+- name: Andy Ogles
+  role: member
+  person_id: ocd-person/5916e23e-c486-5d60-88c8-56bb65c23763
+- name: August Pfluger
+  role: member
+  person_id: ocd-person/2519c079-f97e-532b-b53e-167398fd7398
+- name: Brad Knott
+  role: member
+  person_id: ocd-person/c4c7954c-f559-4dc5-8660-36bb53499283
+- name: "Carlos Gim\xE9nez"
+  role: member
+  person_id: ocd-person/9db37a87-2ba9-56a0-9b42-89697222e044
+- name: Dale Strong
+  role: member
+  person_id: ocd-person/e54a4532-aa1e-5e2d-b630-4f35ef10a46f
+- name: Dan Goldman
+  role: member
+  person_id: ocd-person/4c77555b-f35d-53ca-8c7d-7950b90a1b60
+- name: Delia Ramirez
+  role: member
+  person_id: ocd-person/34d76857-187b-5f62-a2d1-ddfcd13494cf
+- name: Eli Crane
+  role: member
+  person_id: ocd-person/e59ccc1e-b5f0-5b86-9b5b-a8fbf6038665
+- name: Gabe Evans
+  role: member
+  person_id: ocd-person/592f328f-6338-45ea-aea8-c996eba98b37
+- name: James Walkinshaw
+  role: member
+  person_id: ocd-person/1e692f82-663e-46f8-aa96-88207dab107f
+- name: Josh Brecheen
+  role: member
+  person_id: ocd-person/68651247-63fc-5dad-8071-4efef949f7fd
+- name: LaMonica McIver
+  role: member
+  person_id: ocd-person/026068b4-d78d-4221-80cb-27c17bd1d46f
+- name: Lou Correa
+  role: member
+  person_id: ocd-person/86b65fd7-4549-51fa-80e8-eaf3daf3e60e
+- name: Matt Van Epps
+  role: member
+  person_id: ocd-person/c0c63ecc-b8fe-42d9-97a5-63f5d65c9c7d
+- name: Michael Guest
+  role: member
+  person_id: ocd-person/6b015607-c3dd-5867-a1bb-733bf84fe091
+- name: Morgan Luttrell
+  role: member
+  person_id: ocd-person/868d6300-e9e7-5df4-bfe1-2e7fd1a632ac
+- name: Nellie Pou
+  role: member
+  person_id: ocd-person/8bbf0452-cf85-4f36-9cf6-20f232746407
+- name: Nick LaLota
+  role: member
+  person_id: ocd-person/30fe5d74-0224-5d11-92d2-5766471e6cc5
+- name: "Pablo Jos\xE9 Hern\xE1ndez"
+  role: member
+  person_id: ocd-person/1d2ca024-3e33-4da9-b759-0d4bfdec43e9
+- name: Ryan Mackenzie
+  role: member
+  person_id: ocd-person/3e096adc-8b9b-4be4-b642-c323cbf80022
+- name: Seth Magaziner
+  role: member
+  person_id: ocd-person/2b7e8cfa-f37a-5155-ac79-e769b3cf71da
+- name: Sheri Biggs
+  role: member
+  person_id: ocd-person/295e47f2-b86f-4b98-a111-7f05b57427c6
+- name: Shri Thanedar
+  role: member
+  person_id: ocd-person/cca4b382-1b0b-5872-86a8-abe74e9f6e3a
+- name: Tim Kennedy
+  role: member
+  person_id: ocd-person/7d860788-e85f-5f23-a7dc-133364f9d4e9
+- name: Troy Carter
+  role: member
+  person_id: ocd-person/5e3dc0b5-2afe-5b83-ab42-9352225b2235
+- name: Vince Fong
+  role: member
+  person_id: ocd-person/2d6b7f7f-a241-5064-9812-9506beb2b76e
+other_names:
+- name: House Committee on Homeland Security
+- name: House Homeland Security
+- name: House Homeland Security Committee
+extras:
+  address: 176 FHOB; Washington, DC 20515-6480
+  phone: (202) 226-8417
+  type: house

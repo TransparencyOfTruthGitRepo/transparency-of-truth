@@ -1,0 +1,38 @@
+id: ocd-person/075f264c-efcf-408f-baf8-b3f9306bae36
+name: Susan Estes
+given_name: Susan
+family_name: Estes
+gender: Female
+email: susan.estes@house.ks.gov
+image: https://www.kslegislature.gov/li/s/images/pics/rep_estes_susan_2.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '87'
+offices:
+- classification: capitol
+  address: State Capitol Room 286-N, Kansas  Building 300 SW 10th St., Topeka, KS
+    66612
+  voice: 785-296-7388
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_estes_susan_2/
+- url: https://www.kslegislature.org/li/b2021_22/members/rep_estes_susan_2/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_estes_susan_2/
+other_names:
+- name: Estes
+- name: Estes, S.
+- name: S. Estes
+- name: S.O. Estes
+sources:
+- url: https://ballotpedia.org/Susan_Estes
+- url: https://en.wikipedia.org/wiki/Susan_Estes_(politician)
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_estes_susan_2
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_estes_susan_2
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_estes_susan_2/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_estes_susan_2
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_estes_susan_2/
+extras:
+  occupation: ''

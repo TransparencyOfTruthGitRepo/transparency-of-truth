@@ -1,0 +1,67 @@
+id: ocd-person/e0c25487-a7fb-406b-b637-c3a4de3c6770
+name: Bill Landen
+given_name: Bill
+family_name: Landen
+birth_date: 1956-02-21
+gender: Male
+email: bill.landen@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-LandenBill.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2007-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '27'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district
+  address: 2010 Kingsbury Drive, Casper, WY 82609
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/S/434
+- url: https://www.wyoleg.gov/Legislators/2026/S/434
+- url: https://wyoleg.gov/Legislators/2019/R/434
+- url: https://wyoleg.gov/Legislators/2021/R/434
+other_names:
+- name: B. Landen
+- name: Landen, B
+- name: Landen, B.
+- name: W.R. Landen
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000019
+sources:
+- url: https://ballotpedia.org/Bill_Landen
+- url: https://en.wikipedia.org/wiki/Bill_Landen
+- url: https://justfacts.votesmart.org/candidate/93366/bill-landen
+- url: https://www.linkedin.com/in/william-r-landen-80838021
+- url: https://www.wyoleg.gov/Legislators/2023/S/434
+- url: https://www.wyoleg.gov/Legislators/2026/S/434
+- url: https://wyoleg.gov/Legislators/2019/R/434
+- url: https://wyoleg.gov/Legislators/2021/R/434
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+- url: https://wyoleg.gov/LsoService/api/legislator/434
+extras:
+  county: Natrona County
+  education:
+  - schoolName: Casper College
+    gradYear: ''
+    degree: A.A.
+  - schoolName: University of Wyoming
+    gradYear: ''
+    degree: B.S. & M.P.A.
+  - schoolName: Colorado State
+    gradYear: ''
+    degree: Graduate Study
+  spouse name: Robyn
+  number of children: '3'
+  number of grandchildren: '1'
+  birth place: Riverton, WY
+  senate years: 'Senate: 2007-Present'
+  prior service:
+  - chamber: Senate
+    startYear: 2007
+    endYear: Present
+    district: ' District 27, '

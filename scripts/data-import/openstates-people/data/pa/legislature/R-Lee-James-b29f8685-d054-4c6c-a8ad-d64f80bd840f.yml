@@ -1,0 +1,54 @@
+id: ocd-person/b29f8685-d054-4c6c-a8ad-d64f80bd840f
+name: Lee James
+given_name: Lee
+family_name: James
+birth_date: 1948-11-20
+gender: Male
+email: rljames@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1634.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '64'
+offices:
+- classification: capitol
+  address: Room 41A, East Wing P.O. Box 202064, Harrisburg, PA 17120
+  voice: 717-783-8188
+- classification: district
+  address: 104 N. Washington Ave. Suite 2, Titusville, PA 16354
+  voice: 814-827-6054
+- classification: district-mail
+  address: P.O. Box 547 3220 State Route 257, Suite 8, Seneca, PA 16346
+  voice: 814-677-6413
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1634
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1634/rep-james
+- url: https://www.repjames.com/
+other_names:
+- name: James, L.
+- name: L. James
+- name: R. Lee James
+- name: R.L. James
+ids:
+  youtube: RepLeeJames
+  facebook: RepLeeJames
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000453
+sources:
+- url: https://ballotpedia.org/R._Lee_James
+- url: https://en.wikipedia.org/wiki/Lee_James_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/136325/lee-james
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1634
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/r-lee-james-13aba7a
+- url: https://www.palegis.us/house/members/bio/1634/rep-james
+- url: https://www.repjames.com
+extras:
+  website: http://repjames.com/

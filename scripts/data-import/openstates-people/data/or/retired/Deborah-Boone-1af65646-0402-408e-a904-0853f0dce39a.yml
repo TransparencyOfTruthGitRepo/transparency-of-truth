@@ -1,0 +1,25 @@
+id: ocd-person/1af65646-0402-408e-a904-0853f0dce39a
+name: Deborah Boone
+given_name: Deborah
+family_name: Boone
+image: https://www.oregonlegislature.gov/house/MemberPhotos/boone.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '32'
+links:
+- url: https://www.oregonlegislature.gov/boone
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000037
+- scheme: legacy_openstates
+  identifier: ORL000161
+- scheme: legacy_openstates
+  identifier: ORL000256
+- scheme: legacy_openstates
+  identifier: ORL000278
+sources:
+- url: https://www.oregonlegislature.gov/boone

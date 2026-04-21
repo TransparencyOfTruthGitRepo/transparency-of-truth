@@ -1,0 +1,37 @@
+id: ocd-person/45c957a4-0017-4c0c-8650-393d656fc5a0
+name: Alex Valdez
+given_name: Alex
+family_name: Valdez
+birth_date: 1981-06-03
+gender: Male
+email: alex.valdez.house@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_valdez%2Calex.jpg?itok=NsEe2BaG
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '5'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-2925
+links:
+- url: https://leg.colorado.gov/legislators/alex-valdez
+  note: homepage
+other_names:
+- name: A. Valdez
+- name: A.J. Valdez
+- name: Valdez A.
+- name: Valdez, A.
+sources:
+- url: https://ballotpedia.org/Alex_Valdez_(Colorado)
+- url: https://en.wikipedia.org/wiki/Alex_Valdez
+- url: https://justfacts.votesmart.org/candidate/biography/181727/alex-valdez
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/alex-valdez
+extras:
+  counties represented:
+  - Denver

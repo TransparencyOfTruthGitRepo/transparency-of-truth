@@ -1,0 +1,62 @@
+id: ocd-person/6d11944d-f19f-4697-811c-0c9dca750c57
+name: Aric Nesbitt
+given_name: Aric
+family_name: Nesbitt
+birth_date: 1980-01-25
+gender: Male
+email: senanesbitt@senate.michigan.gov
+image: https://www.misenategop.com/wp-content/uploads/2019/01/Nesbitt-580x770.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '20'
+- start_date: 2011-01-01
+  end_date: 2012-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '80'
+- start_date: 2013-01-01
+  end_date: 2016-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '66'
+- end_date: 2022-12-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room S-105, Capitol Building P.O. Box 30036, Lansing, MI 48909
+  voice: 517-373-0793
+links:
+- url: https://www.senatoraricnesbitt.com
+  note: Member Page
+- url: https://www.senatoraricnesbitt.com/
+- url: https://www.senatoraricnesbitt.com/contact
+  note: Contact
+other_names:
+- name: A. Nesbitt
+- name: A.Y. Nesbitt
+- name: Nesbitt, A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000118
+- scheme: legacy_openstates
+  identifier: MIL000226
+- scheme: openstates
+  identifier: ocd-person/8ceafa66-da4a-4bd6-82e1-9587a7180ce2
+sources:
+- url: https://ballotpedia.org/Aric_Nesbitt
+- url: https://en.wikipedia.org/wiki/Aric_Nesbitt
+- url: https://justfacts.votesmart.org/candidate/biography/124278/aric-nesbitt
+- url: https://senate.michigan.gov/senatorinfo_list.html
+- url: https://senate.michigan.gov/senators/SenatorData.json
+  note: Members List JSON Data Page
+- url: https://senate.michigan.gov/senators/senatorinfo_list.html
+  note: Members List HTML page
+- url: https://www.linkedin.com/in/aric-nesbitt-9b5ab82
+- url: https://www.senatoraricnesbitt.com
+- url: https://www.senatoraricnesbitt.com/

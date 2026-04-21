@@ -1,0 +1,22 @@
+id: ocd-person/543d64fc-8759-47e8-888b-2a66550b1c82
+name: Gary R Chiusano
+given_name: Gary
+family_name: Chiusano
+middle_name: R
+image: http://www.njleg.state.nj.us/members/memberphotos/chiusano_color.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2008-01-01'
+  end_date: '2013-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '24'
+links:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=282
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000073
+sources:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=282
+- url: ftp://www.njleg.state.nj.us/ag/2012data/ROSTER.DBF

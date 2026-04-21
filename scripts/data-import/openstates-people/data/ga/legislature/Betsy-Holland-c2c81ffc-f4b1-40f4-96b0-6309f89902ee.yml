@@ -1,0 +1,59 @@
+id: ocd-person/c2c81ffc-f4b1-40f4-96b0-6309f89902ee
+name: Betsy Holland
+given_name: Betsy
+family_name: Holland
+birth_date: 1976-01-10
+gender: Female
+email: betsy.holland@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/holland-betsy-4943.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '54'
+offices:
+- classification: capitol
+  address: Room 409-B, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0116
+- classification: district
+  address: 535 Pine Tree Drive NE, Atlanta, GA 30305
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4943&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4943
+- url: https://www.legis.ga.gov/members/house/4943?session=1029
+- url: https://www.legis.ga.gov/members/house/4943?session=1031
+  note: HTML member detail page
+other_names:
+- name: B. Holland
+- name: HOLLAND, 54TH
+- name: Holland, B.
+sources:
+- url: https://ballotpedia.org/Betsy_Holland
+- url: https://en.wikipedia.org/wiki/Betsy_Holland
+- url: https://justfacts.votesmart.org/candidate/biography/178801/betsy-holland
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4943&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4943?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4943?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4943
+- url: https://www.legis.ga.gov/members/house/4943?session=1029
+- url: https://www.linkedin.com/in/betsy-holland-5b875b3
+extras:
+  residence: Atlanta
+  city: Atlanta
+  georgia_id: 4943
+  birthday: January 10
+  occupation: Director, Culture & Engagement at Turner
+  press: https://house-press.com/representative/Betsy-Holland
+  spouse: Jason
+  staff: Jackie Hicks Rowe - Administrative Assistant
+  staff email: jacquelyn.rowe@house.ga.gov

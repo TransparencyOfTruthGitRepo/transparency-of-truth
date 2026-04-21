@@ -1,0 +1,60 @@
+id: ocd-person/01d85172-f83f-48ee-8c35-8979a95c9190
+name: Gaby Grossman
+given_name: Gaby
+family_name: Grossman
+gender: Female
+email: gaby.grossman@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/73218.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 11
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 11
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 18
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-418-4685
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9218
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9218
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9218
+  note: member detail page
+other_names:
+- name: G. Grossman
+- name: G.S. Grossman
+- name: Gabrielle Smith Grossman
+- name: Gaby Grossman
+- name: Gaby M. Grossman
+- name: Grossman, G.
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/6ca6f9b4-bb07-4802-b8f9-b13e95f8c112
+sources:
+- url: https://ballotpedia.org/Gaby_Grossman
+- url: https://en.wikipedia.org/wiki/Gaby_Grossman
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9218
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9218
+- url: https://justfacts.votesmart.org/candidate/biography/185601/gaby-grossman
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408918
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9218
+- url: https://www.linkedin.com/in/gaby-grossman-4023112a
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: F

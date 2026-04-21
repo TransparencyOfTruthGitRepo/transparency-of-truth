@@ -1,0 +1,35 @@
+id: ocd-person/c30f76b4-73d6-4795-be75-c46973d17f59
+name: Chris Flanagan
+given_name: Chris
+family_name: Flanagan
+gender: Male
+email: christopher.flanagan@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/CRF1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 1st Barnstable
+offices:
+- classification: capitol
+  address: Room 26, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2080
+links:
+- url: https://malegislature.gov/Legislators/Profile/CRF1
+other_names:
+- name: C. Flanagan
+- name: C.R. Flanagan
+- name: Christopher Richard Flanagan
+- name: Flanagan, C.
+sources:
+- url: https://ballotpedia.org/Chris_Flanagan
+- url: https://en.wikipedia.org/wiki/Chris_Flanagan_(politician)
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/CRF1
+- url: https://malegislature.gov/Legislators/Profile/CRF1
+- url: https://www.linkedin.com/in/flanaganchristopher
+extras:
+  member code: CRF1

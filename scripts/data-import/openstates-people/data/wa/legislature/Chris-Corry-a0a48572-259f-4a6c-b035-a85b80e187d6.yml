@@ -1,0 +1,51 @@
+id: ocd-person/a0a48572-259f-4a6c-b035-a85b80e187d6
+name: Chris Corry
+given_name: Chris
+family_name: Corry
+birth_date: 1982-08-19
+gender: Male
+email: chris.corry@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/29097.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '15'
+- start_date: 2019-01-14
+  end_date: 2025-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '15'
+- start_date: 2019-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '14'
+  end_date: 2025-01-06
+offices:
+- classification: capitol
+  address: Room 335A, Legislative Building P.O. Box 40600, Olympia, WA 98504
+  voice: 360-786-7810
+links:
+- url: https://ChrisCorry.houserepublicans.wa.gov/
+- url: https://chriscorry.houserepublicans.wa.gov/
+- url: https://houserepublicans.wa.gov/Chris-Corry/
+- url: https://leg.wa.gov/legislators/member/chris-corry
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_names:
+- name: C. Corry
+- name: Corry, C.
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=House
+- url: https://ballotpedia.org/Chris_Corry
+- url: https://chriscorry.houserepublicans.wa.gov
+- url: https://chriscorry.houserepublicans.wa.gov/
+- url: https://chriscorry.houserepublicans.wa.gov/about
+- url: https://en.wikipedia.org/wiki/Chris_Corry
+- url: https://justfacts.votesmart.org/candidate/biography/182997/chris-corry
+- url: https://leg.wa.gov/legislators/member/chris-corry
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+- url: https://www.linkedin.com/in/chris-corry
+extras:
+  title: Assistant Minority Floor Leader

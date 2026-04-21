@@ -1,0 +1,30 @@
+id: ocd-person/f5597924-50c0-4bfc-bd63-3d3b814274f8
+name: Ben Davis
+given_name: Ben
+family_name: Davis
+birth_date: 1977-05-24
+gender: Male
+email: rep.ben.davis@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/06A.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 6A
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-0172
+links:
+- url: https://www.house.mn.gov/members/profile/15594
+other_names:
+- name: B. Davis
+- name: Davis, B.
+sources:
+- url: https://ballotpedia.org/Ben_Davis
+- url: https://en.wikipedia.org/wiki/Ben_Davis_(Minnesota_politician)
+- url: https://justfacts.votesmart.org/candidate/207769/ben-davis
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15594

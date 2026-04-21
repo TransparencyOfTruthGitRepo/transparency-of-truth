@@ -1,0 +1,53 @@
+id: ocd-person/e4811e7a-7df7-4275-917d-8bdcc2778fb1
+name: Rick Brattin
+given_name: Rick
+family_name: Brattin
+birth_date: 1980-07-22
+gender: Male
+email: rick.brattin@senate.mo.gov
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '31'
+- end_date: 2019-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '55'
+offices:
+- classification: capitol
+  address: Room 221, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-2108
+links:
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=55
+- url: https://www.senate.mo.gov/mem31
+- url: https://www.senate.mo.gov/Senators/Member/31
+- url: https://www.senate.mo.gov/Senators/Member?id=5
+other_names:
+- name: Brattin, R.
+- name: R. Brattin
+- name: R.R. Brattin
+- name: Richard Ray Brattin
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MOL000046
+- scheme: legacy_openstates
+  identifier: MOL000220
+- scheme: openstates
+  identifier: ocd-person/7a058666-7a60-4ce1-b155-4ae3c7fdd80b
+sources:
+- url: https://ballotpedia.org/Rick_Brattin
+- url: https://en.wikipedia.org/wiki/Rick_Brattin
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://justfacts.votesmart.org/candidate/biography/124815/rick-brattin-jr
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=55
+- url: https://www.senate.mo.gov/mem31
+- url: https://www.senate.mo.gov/senators-listing
+- url: https://www.senate.mo.gov/senators-listing/
+- url: https://www.senate.mo.gov/Senators/Member/31
+- url: https://www.senate.mo.gov/Senators/Member?id=5
+extras:
+  first_name: Rick
+  last_name: Brattin

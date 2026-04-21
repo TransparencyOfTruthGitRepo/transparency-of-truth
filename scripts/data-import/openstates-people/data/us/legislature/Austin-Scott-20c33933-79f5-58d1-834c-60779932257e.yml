@@ -1,0 +1,116 @@
+id: ocd-person/20c33933-79f5-58d1-834c-60779932257e
+name: Austin Scott
+given_name: Austin
+family_name: Scott
+birth_date: 1969-12-10
+gender: Male
+email: https://austinscott.house.gov/contact-austin
+image: https://unitedstates.github.io/images/congress/450x550/S001189.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-8
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-8
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-8
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-8
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-8
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-8
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-8
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-8
+offices:
+- classification: capitol
+  address: 2185 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-6531
+  fax: 202-225-3013
+- classification: district
+  address: 120 Byrd Way Suite 100, Warner Robins, GA 31088
+  voice: 478-971-1776
+  fax: 478-971-1778
+- classification: district
+  address: 127-B N. Central Ave., Tifton, GA 31794
+  voice: 229-396-5175
+  fax: 229-396-5179
+links:
+- url: https://austinscott.house.gov
+  note: website
+- url: https://austinscott.house.gov/
+other_names:
+- name: A. Scott
+- name: J.A. Scott
+- name: Scott, A.
+ids:
+  twitter: AustinScottGA08
+  youtube: UC5M7eKHKQStktMyjieiHYZQ
+  facebook: RepAustinScott
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Austin Scott
+- scheme: bioguide
+  identifier: S001189
+- scheme: cspan
+  identifier: '623344'
+- scheme: fec
+  identifier: H0GA08099
+- scheme: google_entity_id
+  identifier: kg:/m/076zn3y
+- scheme: govtrack
+  identifier: '412417'
+- scheme: house_history
+  identifier: '22631'
+- scheme: icpsr
+  identifier: '21123'
+- scheme: maplight
+  identifier: '1429'
+- scheme: opensecrets
+  identifier: N00032457
+- scheme: pictorial
+  identifier: '13017'
+- scheme: thomas
+  identifier: 02009
+- scheme: votesmart
+  identifier: '11812'
+- scheme: wikidata
+  identifier: Q781167
+- scheme: wikipedia
+  identifier: Austin Scott (politician)
+sources:
+- url: https://austinscott.house.gov
+- url: https://austinscott.house.gov/biography
+- url: https://ballotpedia.org/Austin_Scott
+- url: https://en.wikipedia.org/wiki/Austin_Scott_%28politician%29
+- url: https://justfacts.votesmart.org/candidate/11812/austin-scott
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/austin_scott/412417

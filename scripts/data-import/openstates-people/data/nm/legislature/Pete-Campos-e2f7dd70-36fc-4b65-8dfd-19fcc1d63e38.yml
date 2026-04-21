@@ -1,0 +1,50 @@
+id: ocd-person/e2f7dd70-36fc-4b65-8dfd-19fcc1d63e38
+name: Pete Campos
+given_name: Pete
+family_name: Campos
+gender: Male
+email: pete.campos@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SCAMP.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1991-01-15
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '8'
+offices:
+- classification: capitol
+  address: State Capitol Room 302B, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4267
+links:
+- url: https://petecampos.com
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SCAMP
+  note: homepage
+other_names:
+- name: Campos, P.
+- name: Campos, Pete
+- name: P. Campos
+ids:
+  twitter: senpetecampos
+  facebook: pete.campos.1426
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000008
+- scheme: legacy_openstates
+  identifier: NML000177
+- scheme: legacy_openstates
+  identifier: NML000313
+- scheme: legacy_openstates
+  identifier: NML000404
+sources:
+- url: https://ballotpedia.org/Pete_Campos
+- url: https://en.wikipedia.org/wiki/Pete_Campos
+- url: https://justfacts.votesmart.org/candidate/biography/5789/pete-campos
+- url: https://petecampos.com
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SCAMP
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: Colfax, Guadalupe, Harding, Mora, Quay, San Miguel & Taos
+  service: Senator since 1991
+  occupation: Education

@@ -1,0 +1,24 @@
+id: ocd-person/72354c6b-937f-49eb-900f-2800210c14c6
+name: Andrew Cuomo
+given_name: Andrew
+family_name: Cuomo
+birth_date: 1957-12-06
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2021-08-23'
+  type: governor
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+offices:
+- classification: capitol
+  address: The Honorable Andrew M. Cuomo; Governor of New York State; NYS State Capitol Building; Albany, NY 12224
+  voice: 518-474-8390
+links:
+- url: https://www.governor.ny.gov/
+- url: https://www.governor.ny.gov/content/governor-contact-form
+  note: webform
+ids:
+  twitter: NYGovCuomo
+sources:
+- url: https://www.governor.ny.gov/

@@ -1,0 +1,49 @@
+id: ocd-organization/ac3f17ee-4d18-4795-aa12-e869bec622f1
+jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+classification: committee
+name: Government Oversight
+chamber: lower
+sources:
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=58&CteeBody=H&SessYear=2021
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=66&CteeBody=H&SessYear=2023
+  note: Committee homepage
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/StandingCommittees.cfm?CteeBody=H
+  note: Committee list page
+- url: https://www.palegis.us/house/committees/66/government-oversight
+links:
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=58&CteeBody=H&SessYear=2021
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=66&CteeBody=H&SessYear=2023
+  note: homepage
+- url: https://www.palegis.us/house/committees/66/government-oversight
+members:
+- name: Morgan Cephas
+  role: chair
+  person_id: ocd-person/05326e52-202a-46cd-bbbe-cc8d01d9a44b
+- name: Craig Williams
+  role: republican chair
+  person_id: ocd-person/e17c51da-556e-4afe-aad4-137ee3a0881e
+- name: Ben Sanchez
+  role: member
+  person_id: ocd-person/b64463e2-41f6-4d58-a725-03db71798c1c
+- name: Charity Krupa
+  role: member
+  person_id: ocd-person/d5bd036c-03f5-4111-b770-15cb2dbe3278
+- name: Dallas Kephart
+  role: member
+  person_id: ocd-person/70d0ff46-746e-47a0-8c5f-cbe73dbf72ce
+- name: Danielle Otten
+  role: member
+  person_id: ocd-person/6678bcaf-292f-408a-aa36-90ed8bc8fd08
+- name: Kyle Mullins
+  role: member
+  person_id: ocd-person/625784c9-4cd0-417c-9c44-1acd53b34307
+- name: Tim Bonner
+  role: member
+  person_id: ocd-person/105c6361-0cb6-46f4-9222-ff0ffb727d29
+other_names:
+- name: Committee on Government Oversight
+- name: Government Oversight Committee
+- name: House Committee on Government Oversight
+- name: House Government Oversight
+- name: House Government Oversight Committee

@@ -1,0 +1,30 @@
+id: ocd-person/fe11081d-5ca9-4f88-a143-04aed94e45f9
+name: Max Brooks
+given_name: Max
+family_name: Brooks
+gender: Male
+email: max.brooks.house@coleg.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MaxBrooks2024.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '45'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-2948
+links:
+- url: https://leg.colorado.gov/legislators/max-brooks
+other_names:
+- name: Brooks M.
+- name: Brooks, M.
+- name: M. Brooks
+sources:
+- url: https://ballotpedia.org/Max_Brooks
+- url: https://en.wikipedia.org/wiki/Max_Brooks_(politician)
+- url: https://leg.colorado.gov/legislators/max-brooks
+- url: https://www.linkedin.com/in/maxbrooksmarketing

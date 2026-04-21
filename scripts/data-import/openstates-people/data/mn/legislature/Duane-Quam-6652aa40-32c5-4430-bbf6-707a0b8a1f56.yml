@@ -1,0 +1,44 @@
+id: ocd-person/6652aa40-32c5-4430-bbf6-707a0b8a1f56
+name: Duane Quam
+given_name: Duane
+family_name: Quam
+birth_date: 1960-07-02
+gender: Male
+email: rep.duane.quam@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/24A.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 24A
+- end_date: 2023-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 25A
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-9236
+links:
+- url: https://www.house.mn.gov/members/profile/15366
+other_names:
+- name: D. Quam
+- name: D.R. Quam
+- name: Duane Robert Quam
+- name: Quam, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000333
+- scheme: legacy_openstates
+  identifier: MNL000464
+- scheme: legacy_openstates
+  identifier: MNL000674
+sources:
+- url: https://ballotpedia.org/Duane_Quam
+- url: https://en.wikipedia.org/wiki/Duane_Quam
+- url: https://justfacts.votesmart.org/candidate/biography/123232/duane-quam
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15366
+- url: https://www.linkedin.com/in/drquam

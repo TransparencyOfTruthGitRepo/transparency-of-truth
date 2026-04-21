@@ -1,0 +1,60 @@
+id: ocd-person/5342eafc-7f58-4ebe-ad1e-0ec4aefe82fe
+name: Jim Masland
+given_name: Jim
+family_name: Masland
+birth_date: 1948-12-07
+gender: Male
+email: jmasland@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/Masland,James.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1999-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Windsor-Orange-2
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+- classification: home
+  address: 714 Pero Hill Road, Thetford Center, VT 05075
+  voice: 802-785-4146
+links:
+- url: https://legislature.vermont.gov/Documents/SmallMaps/WDR-ORA-2.pdf
+  note: district map
+- url: https://legislature.vermont.gov/people/single/2020/14523
+- url: https://legislature.vermont.gov/people/single/2022/14523
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2024/14523
+- url: https://legislature.vermont.gov/people/single/2026/14523
+other_names:
+- name: J. Masland
+- name: J.W. Masland
+- name: James Masland
+- name: James W. Masland
+- name: Masland, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000117
+- scheme: legacy_openstates
+  identifier: VTL000666
+- scheme: legacy_openstates
+  identifier: VTL000402
+- scheme: legacy_openstates
+  identifier: VTL000756
+- scheme: legacy_openstates
+  identifier: VTL000800
+sources:
+- url: https://ballotpedia.org/James_Masland
+- url: https://en.wikipedia.org/wiki/Jim_Masland
+- url: https://justfacts.votesmart.org/candidate/biography/25906/james-masland
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/single/2020/14523
+- url: https://legislature.vermont.gov/people/single/2022/14523
+- url: https://legislature.vermont.gov/people/single/2024/14523
+- url: https://legislature.vermont.gov/people/single/2026/14523
+- url: https://www.linkedin.com/in/jim-masland-1310a314
+extras:
+  state email: jmasland@leg.state.vt.us

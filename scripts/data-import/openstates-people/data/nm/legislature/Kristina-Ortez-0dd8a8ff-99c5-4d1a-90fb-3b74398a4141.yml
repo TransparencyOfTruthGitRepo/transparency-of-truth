@@ -1,0 +1,35 @@
+id: ocd-person/0dd8a8ff-99c5-4d1a-90fb-3b74398a4141
+name: Kristina Ortez
+given_name: Kristina
+family_name: Ortez
+gender: Female
+email: kristina.ortez@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HORTE.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-19
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '42'
+offices:
+- classification: capitol
+  address: State Capitol Room 312B, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4840
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HORTE
+  note: homepage
+other_names:
+- name: K. Ortez
+- name: Ortez, K.
+- name: Ortez, Kristina
+sources:
+- url: https://ballotpedia.org/Kristina_Ortez
+- url: https://en.wikipedia.org/wiki/Kristina_Ortez
+- url: https://www.linkedin.com/in/kristina-ortez-703b3b43
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HORTE
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Taos
+  service: Representative since 2021

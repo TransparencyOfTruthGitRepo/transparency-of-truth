@@ -1,0 +1,53 @@
+id: ocd-person/23a2b079-dc91-49b0-b08e-f3ae80fba11f
+name: Jonathan Fritz
+given_name: Jonathan
+family_name: Fritz
+birth_date: 1976-11-30
+gender: Male
+email: jfritz@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1752.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2016-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '111'
+offices:
+- classification: capitol
+  address: Room 414, Irvis Office Building P.O. Box 202111, Harrisburg, PA 17120
+  voice: 717-783-2910
+- classification: district
+  address: 32 Commercial St. Suite 300, Honesdale, PA 18431
+  voice: 570-253-5533
+- classification: district
+  address: 821 Main St., New Milford, PA 18834
+  voice: 570-782-2264
+- classification: district
+  address: Preston Township Building 1515 Crosstown Highway, Lakewood, PA 18439
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1752
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1752/rep-fritz
+- url: https://www.repfritz.com/
+other_names:
+- name: Fritz, J.
+- name: J. Fritz
+- name: J.A. Fritz
+ids:
+  facebook: repfritz
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000562
+sources:
+- url: https://ballotpedia.org/Jonathan_Fritz
+- url: https://en.wikipedia.org/wiki/Jonathan_Fritz
+- url: https://justfacts.votesmart.org/candidate/biography/163100/jonathan-fritz
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1752
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1752/rep-fritz
+- url: https://www.repfritz.com
+extras:
+  website: http://www.repfritz.com

@@ -1,0 +1,71 @@
+id: ocd-person/33867761-33c6-5036-b3da-43fb485b65c9
+name: Don Davis
+given_name: Don
+family_name: Davis
+birth_date: 1971-08-29
+gender: Male
+email: https://dondavis.house.gov/contact
+image: https://unitedstates.github.io/images/congress/450x550/D000230.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NC-1
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NC-1
+offices:
+- classification: capitol
+  address: 1123 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-3101
+- classification: district
+  address: 1151 Falls Road Suite 2002, Rocky Mount, NC 27804
+  voice: 252-999-7600
+- classification: district
+  address: 2803 Cashwell Drive Suite B, Goldsboro, NC 27534
+  voice: 252-999-7600
+- classification: district
+  address: 306 E. Colonial Ave., Elizabeth City, NC 27909
+  voice: 252-999-7600
+links:
+- url: https://dondavis.house.gov
+  note: website
+- url: https://dondavis.house.gov/
+other_names:
+- name: D. Davis
+- name: D.G. Davis
+- name: Davis, D.
+- name: Donald G. Davis
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Donald Davis
+- scheme: bioguide
+  identifier: D000230
+- scheme: fec
+  identifier: H2NC02287
+- scheme: govtrack
+  identifier: '456912'
+- scheme: opensecrets
+  identifier: N00049636
+- scheme: pictorial
+  identifier: '13130'
+- scheme: votesmart
+  identifier: '102950'
+- scheme: wikidata
+  identifier: Q5294403
+- scheme: wikipedia
+  identifier: Don Davis (North Carolina politician)
+sources:
+- url: https://ballotpedia.org/Donald_Davis
+- url: https://dondavis.house.gov
+- url: https://en.wikipedia.org/wiki/Donald_G._Davis
+- url: https://justfacts.votesmart.org/candidate/biography/102950/don-davis
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/donald_davis/456912
+- url: https://www.linkedin.com/in/votedondavis

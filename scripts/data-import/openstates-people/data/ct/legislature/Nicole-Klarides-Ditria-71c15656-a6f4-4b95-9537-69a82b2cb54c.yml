@@ -1,0 +1,45 @@
+id: ocd-person/71c15656-a6f4-4b95-9537-69a82b2cb54c
+name: Nicole Klarides-Ditria
+given_name: Nicole
+family_name: Klarides-Ditria
+birth_date: 1968-11-17
+gender: Female
+email: nicole.klarides-ditria@housegop.ct.gov
+image: https://cga.ct.gov/legpics/105.png?ver=
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '105'
+offices:
+- classification: capitol
+  address: Room 4200, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8700
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27105%27&dist_name=Klarides-Ditria,%20Nicole
+- url: https://www.cthousegop.com/Klarides-Ditria/
+- url: https://www.cthousegop.com/Klarides-Ditria/main/
+other_names:
+- name: Klarides-Ditria, N.
+- name: Klarides-ditria, Nicole
+- name: N. Klarides-Ditria
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000343
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Nicole_Klarides-Ditria
+- url: https://en.wikipedia.org/wiki/Nicole_Klarides-Ditria
+- url: https://justfacts.votesmart.org/candidate/biography/172269/nicole-klarides-ditria
+- url: https://www.cthousegop.com/Klarides-Ditria/main
+- url: https://www.cthousegop.com/Klarides-Ditria/main/
+- url: https://www.linkedin.com/in/nicole-klarides-ditria-476083a0
+extras:
+  gender: Female
+  title: House Republican Whip
+  committees: Public Health (Ranking Member); Finance, Revenue and Bonding; Regulation
+    Review
+  committee codes: ;FIN;PH;RR;
+  prison: '0'

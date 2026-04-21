@@ -1,0 +1,32 @@
+id: ocd-person/586f002d-71da-4836-a306-6e8a3d485263
+name: Sylvia Taylor
+given_name: Sylvia
+family_name: Taylor
+gender: Female
+email: hse057@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics/rep57.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '57'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 2013 W. Airline Highway, Laplace, LA 70068
+- classification: district-mail
+  address: P. O. Box 421, Reserve, LA 70084
+links:
+- url: https://house.louisiana.gov/H_Reps/members?ID=57
+other_names:
+- name: S. Taylor
+- name: S.E. Taylor
+- name: Taylor, S.
+sources:
+- url: https://ballotpedia.org/Sylvia_Taylor
+- url: https://house.louisiana.gov/H_Reps/members?ID=57
+- url: https://www.sylviataylorforstaterepresentative.com/meet-sylvia

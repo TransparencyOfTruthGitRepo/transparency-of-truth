@@ -1,0 +1,59 @@
+id: ocd-person/6ac8933e-8dde-4902-8eec-61cc5a91c844
+name: Trey Kelley
+given_name: Trey
+family_name: Kelley
+gender: Male
+email: trey.kelley@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/kelley-trey-825.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '16'
+offices:
+- classification: capitol
+  address: Room 504-G, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0188
+- classification: district-mail
+  address: P.O. Box 206, Cedartown, GA 30125
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=825&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/825
+- url: https://www.legis.ga.gov/members/house/825?session=1029
+- url: https://www.legis.ga.gov/members/house/825?session=1031
+  note: HTML member detail page
+other_names:
+- name: KELLEY, 16TH
+- name: Kelley, T.
+- name: O.D. Kelley
+- name: T. Kelley
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000317
+sources:
+- url: https://ballotpedia.org/Trey_Kelley
+- url: https://en.wikipedia.org/wiki/Trey_Kelley
+- url: https://justfacts.votesmart.org/candidate/140293/trey-kelley
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=825&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/825?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/825?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/825
+- url: https://www.legis.ga.gov/members/house/825?session=1029
+- url: https://www.linkedin.com/in/trey-kelley-43391016
+extras:
+  residence: Cedartown
+  city: Cedartown
+  georgia_id: 825
+  press: https://house-press.com/representative/Trey-Kelley
+  staff: a href="
+  staff email: ''

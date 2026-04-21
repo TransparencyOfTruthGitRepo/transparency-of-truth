@@ -1,0 +1,40 @@
+id: ocd-person/29b248e1-4033-41f6-ba30-136f2aa55045
+name: Richard White
+given_name: Richard
+family_name: White
+birth_date: 1952-11-04
+gender: Male
+email: richard.white@kylegislature.gov
+image: https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house99.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-03-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '99'
+offices:
+- classification: capitol-mail
+  address: Room Annex 329, 702 Capital Ave., Frankfort, KY 40601
+  voice: 502-564-8100
+links:
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=99
+  note: homepage
+other_names:
+- name: R. White
+- name: R.L. White
+- name: White, R.
+ids:
+  twitter: RichardWhiteKY
+sources:
+- url: https://ballotpedia.org/Richard_White_(Kentucky)
+- url: https://en.wikipedia.org/wiki/Richard_White_(Kentucky_politician)
+- url: https://legislature.ky.gov/Legislators/house-of-representatives
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=99
+extras:
+  counties represented:
+  - Elliott
+  - Morgan
+  - Rowan
+  mailing address: 702 Capital Ave Annex Room 329 Frankfort, KY 40601
+  home city: Morehead

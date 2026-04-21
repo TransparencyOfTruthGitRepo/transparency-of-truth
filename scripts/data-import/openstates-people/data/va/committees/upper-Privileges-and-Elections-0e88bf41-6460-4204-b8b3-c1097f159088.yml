@@ -1,0 +1,66 @@
+id: ocd-organization/0e88bf41-6460-4204-b8b3-c1097f159088
+jurisdiction: ocd-jurisdiction/country:us/state:va/government
+classification: committee
+name: Privileges and Elections
+chamber: upper
+sources:
+- url: https://lis.virginia.gov/241/com/COM.HTM
+  note: homepage
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+com+S8
+- url: https://lis.virginia.gov/session-details/20251/committee-information/S08/committee-details
+- url: https://lis.virginia.gov/session-details/20261/committee-information/S08/committee-details
+links:
+- url: https://lis.virginia.gov/241/com/COM.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+com+S8
+- url: https://lis.virginia.gov/session-details/20251/committee-information/S08/committee-details
+- url: https://lis.virginia.gov/session-details/20261/committee-information/S08/committee-details
+members:
+- name: Aaron Rouse
+  role: chair
+  person_id: ocd-person/4a329580-86d3-4db3-915e-9f1af71e0a5a
+- name: Angelia Graves
+  role: member
+  person_id: ocd-person/f747c790-f609-4da1-b125-73f1807e1430
+- name: Bill DeSteph
+  role: member
+  person_id: ocd-person/ec14a514-ce1c-4fba-b053-fcf133793445
+- name: Creigh Deeds
+  role: member
+  person_id: ocd-person/ad107e73-7e1e-45dd-ab19-52005a0b948c
+- name: Danny Diggs
+  role: member
+  person_id: ocd-person/ebdc449e-b987-4c44-895b-5047e343c0a0
+- name: Elizabeth Bennett-Parker
+  role: member
+  person_id: ocd-person/c3b0c2fc-c7bf-45f8-8ee3-50d5a57bad08
+- name: Emily Jordan
+  role: member
+  person_id: ocd-person/f1a906cd-6602-492c-88dc-61887401c346
+- name: Jennifer Carroll Foy
+  role: member
+  person_id: ocd-person/32dae8e8-9901-4705-b012-f8ce186f8403
+- name: Luther Cifers
+  role: member
+  person_id: ocd-person/e58b604d-0c92-489e-8d03-7d0126d07eeb
+- name: Mike Jones
+  role: member
+  person_id: ocd-person/3ceca66a-bf31-47c8-a1a6-e2f789b41be3
+- name: Russet Perry
+  role: member
+  person_id: ocd-person/bf0211bf-d8ac-4343-bcd8-181e2d2e58a6
+- name: Saddam Salim
+  role: member
+  person_id: ocd-person/8a50ceeb-1ded-4586-a04a-19115fddc3c5
+- name: Tammy Mulchi
+  role: member
+  person_id: ocd-person/c3391ffd-a783-4d34-81ca-ecad4cd6d16a
+- name: Tara Durant
+  role: member
+  person_id: ocd-person/e142c869-a7a9-411a-8d73-563403f6ddd4
+- name: Travis Hackworth
+  role: member
+  person_id: ocd-person/3605a4dd-d800-4820-a50c-6cd3b0ab4511
+other_names:
+- name: Senate Committee on Privileges and Elections
+- name: Senate Privileges and Elections
+- name: Senate Privileges and Elections Committee

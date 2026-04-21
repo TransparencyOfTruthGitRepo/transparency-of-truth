@@ -1,0 +1,35 @@
+id: ocd-person/9e1ed481-cc42-4186-a8fe-891abba60162
+name: Mary Bradfield
+given_name: Mary
+family_name: Bradfield
+gender: Female
+email: mary.bradfield.house@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_bradfield%2Cmary.jpg?itok=QsKqEtTp
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '21'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-2946
+links:
+- url: https://leg.colorado.gov/legislators/mary-bradfield
+other_names:
+- name: Bradfield M.
+- name: Bradfield, M.
+- name: M. Bradfield
+sources:
+- url: https://ballotpedia.org/Mary_Bradfield
+- url: https://en.wikipedia.org/wiki/Mary_Bradfield
+- url: https://justfacts.votesmart.org/candidate/biography/191847/mary-bradfield
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/mary-bradfield
+extras:
+  title: Minority Caucus Chair
+  counties represented:
+  - El Paso

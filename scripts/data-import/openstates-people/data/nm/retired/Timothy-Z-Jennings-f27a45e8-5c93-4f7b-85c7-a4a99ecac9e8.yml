@@ -1,0 +1,21 @@
+id: ocd-person/f27a45e8-5c93-4f7b-85c7-a4a99ecac9e8
+name: Timothy Z. Jennings
+given_name: Timothy
+family_name: Jennings
+middle_name: Z.
+image: http://www.nmlegis.gov/lcs/graphics/photos/SJENT.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '32'
+links:
+- url: http://www.nmlegis.gov/lcs/legdetails.aspx?SPONCODE=SJENT
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000032
+sources:
+- url: http://www.nmlegis.gov/lcs/legdetails.aspx?SPONCODE=SJENT

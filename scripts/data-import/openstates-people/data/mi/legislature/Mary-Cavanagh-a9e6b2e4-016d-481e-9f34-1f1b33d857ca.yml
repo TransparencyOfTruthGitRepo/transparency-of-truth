@@ -1,0 +1,48 @@
+id: ocd-person/a9e6b2e4-016d-481e-9f34-1f1b33d857ca
+name: Mary Cavanagh
+given_name: Mary
+family_name: Cavanagh
+birth_date: 1991-07-01
+gender: Female
+email: senmcavanagh@senate.michigan.gov
+image: https://senatedems.com/cavanagh/wp-content/uploads/sites/12/2022/12/Cavanaugh_Web.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '6'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '10'
+offices:
+- classification: capitol
+  address: Room 6500, Binsfeld Building P.O. Box 30036, Lansing, MI 48909
+  voice: 517-373-7748
+links:
+- url: https://housedems.com/mary-cavanagh/
+- url: https://senatedems.com/cavanagh
+  note: Member Page
+- url: https://senatedems.com/cavanagh/
+- url: https://senatedems.com/cavanagh/contact
+  note: Member Contact Page
+other_names:
+- name: Cavanagh, M.
+- name: M. Cavanagh
+- name: M.S. Cavanagh
+sources:
+- url: https://ballotpedia.org/Mary_Cavanagh
+- url: https://en.wikipedia.org/wiki/Mary_Cavanagh
+- url: https://justfacts.votesmart.org/candidate/biography/170222/mary-cavanagh
+- url: https://senate.michigan.gov/senators/SenatorData.json
+  note: Members List JSON Data Page
+- url: https://senate.michigan.gov/senators/senatorinfo_list.html
+  note: Members List HTML page
+- url: https://senatedems.com/cavanagh
+- url: https://senatedems.com/cavanagh/
+- url: https://senatedems.com/cavanagh/bio
+- url: https://www.house.mi.gov/AllRepresentatives
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
+- url: https://www.linkedin.com/in/mary-cavanagh-21254a56

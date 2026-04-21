@@ -1,0 +1,26 @@
+id: ocd-person/43b9cb7b-a913-4624-859b-6f28e10d871a
+name: B Patrick Bauer
+given_name: B Patrick
+family_name: Bauer
+image: http://iga.in.gov/legislative/2020/portraits/legislator_b_patrick_bauer_178
+party:
+- name: Democratic
+roles:
+- end_date: '2020-11-04'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '6'
+links:
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_b_patrick_bauer_178
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: INL000057
+- scheme: legacy_openstates
+  identifier: INL000246
+sources:
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_b_patrick_bauer_178
+- url: https://api.iga.in.gov/2020/legislators/b_patrick_bauer_178
+offices:
+- address: 200 W. Washington Street;Indianapolis, IN 46204
+  voice: 800-382-9842
+  classification: capitol

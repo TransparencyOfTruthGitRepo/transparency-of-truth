@@ -1,0 +1,46 @@
+id: ocd-person/c0fc4283-3ed5-4165-a066-80de16f492b7
+name: Ramon Romero
+given_name: Ramon
+family_name: Romero
+birth_date: 1975-07-15
+gender: Male
+email: ramon.romero@house.texas.gov
+image: https://house.texas.gov/images/members/3060.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '90'
+offices:
+- classification: capitol
+  address: Room 4S.6, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0740
+- classification: district
+  address: 1500 N. Main St. Suite 212, Fort Worth, TX 76164
+  voice: 817-924-6788
+links:
+- url: https://house.texas.gov/members/3060
+- url: https://house.texas.gov/members/member-page/?district=90
+other_names:
+- name: R. Romero
+- name: Ramon Romero
+- name: Ramon Romero Jr.
+- name: Ramon Romero, Jr.
+- name: Romero, Jr.
+- name: Romero, R.
+- name: Romero, Ramon
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000509
+- scheme: legacy_openstates
+  identifier: TXL000656
+sources:
+- url: https://ballotpedia.org/Ramon_Romero,_Jr.
+- url: https://en.wikipedia.org/wiki/Ramon_Romero_Jr.
+- url: https://house.texas.gov/members/3060
+- url: https://house.texas.gov/members/3060/biography
+- url: https://house.texas.gov/members/member-page/?district=90
+- url: https://justfacts.votesmart.org/candidate/biography/147669/ramon-romero-jr
+- url: https://www.linkedin.com/in/ramon-romero-jr-6109b912

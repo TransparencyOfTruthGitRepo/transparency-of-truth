@@ -1,0 +1,50 @@
+id: ocd-person/0d191683-0d9c-408f-812b-5d986a3030a6
+name: Bryant Clark
+given_name: Bryant
+family_name: Clark
+birth_date: 1974-10-31
+gender: Male
+email: bclark@house.ms.gov
+image: http://billstatus.ls.state.ms.us/members/house/clark.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2004-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '47'
+offices:
+- classification: capitol
+  address: State Capitol Room Basement-B, 400 High St., Jackson, MS 39201
+  voice: 601-359-2845
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/clark.xml
+  note: homepage
+other_names:
+- name: B. Clark
+- name: B.W. Clark
+- name: Bryant W. Clark
+- name: Clark, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000053
+sources:
+- url: https://ballotpedia.org/Bryant_Clark
+- url: https://billstatus.ls.state.ms.us/members/house/clark.xml
+- url: https://billstatus.ls.state.ms.us/members/hr_membs.xml
+- url: https://en.wikipedia.org/wiki/Bryant_Clark#cite_note-Bio-1
+- url: https://justfacts.votesmart.org/candidate/biography/40102/bryant-clark
+- url: https://www.linkedin.com/in/bryant-clark-1a5b50aa
+extras:
+  occupation: Attorney
+  education:
+  - Holmes Community College; AA
+  - Mississippi Valley State; BS
+  - Mississippi college School of Law; JD
+  counties represented:
+  - Attala
+  - Holmes
+  - Yazoo
+  other phone: (662)834-6133

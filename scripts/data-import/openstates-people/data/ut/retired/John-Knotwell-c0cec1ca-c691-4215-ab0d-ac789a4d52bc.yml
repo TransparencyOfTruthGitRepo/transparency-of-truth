@@ -1,0 +1,30 @@
+id: ocd-person/c0cec1ca-c691-4215-ab0d-ac789a4d52bc
+name: John Knotwell
+given_name: John
+family_name: Knotwell
+email: jknotwell@le.utah.gov
+image: https://le.utah.gov/images/legislator/KNOTWJ.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-10-30'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '52'
+links:
+- url: http://house.utah.gov/rep/KNOTWJ
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: UTL000134
+- scheme: legacy_openstates
+  identifier: UTL000222
+sources:
+- url: http://le.utah.gov/data/legislators.json
+extras:
+  links:
+  - http://le.utah.gov/house2/CofI/KNOTWJ.pdf
+  - http://le.utah.gov/house2/CofI/knotwell3.pdf
+  - http://le.utah.gov/house2/CofI/jknotwell2.pdf
+  - http://le.utah.gov/house2/CofI/jknotwell.pdf
+  - http://le.utah.gov/house2/CofI/KNOTWJ.pdf
+  - http://www.disclosures.utah.gov/Search/PublicSearch/FolderDetails/1411614

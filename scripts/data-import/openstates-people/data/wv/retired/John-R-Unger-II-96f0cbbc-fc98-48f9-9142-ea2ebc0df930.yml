@@ -1,0 +1,23 @@
+id: ocd-person/96f0cbbc-fc98-48f9-9142-ea2ebc0df930
+name: John R. Unger II
+given_name: John
+family_name: Unger
+email: john.unger@wvsenate.gov
+image: http://www.legis.state.wv.us/images/members/2021/senate/unger_john.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2021-08-20'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '16'
+  end_reason: Appointed to Berkeley County Magistrate Court
+links:
+- url: http://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Unger
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000034
+- scheme: legacy_openstates
+  identifier: WVL000236
+sources:
+- url: http://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Unger

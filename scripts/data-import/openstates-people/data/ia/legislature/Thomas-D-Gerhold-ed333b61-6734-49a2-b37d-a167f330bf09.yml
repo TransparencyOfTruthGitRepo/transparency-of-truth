@@ -1,0 +1,46 @@
+id: ocd-person/ed333b61-6734-49a2-b37d-a167f330bf09
+name: Tom Gerhold
+given_name: Tom
+family_name: Gerhold
+gender: Male
+email: thomas.gerhold@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27033
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '84'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '75'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://iowahouserepublicans.nationbuilder.com/reps
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=27033&ga=89
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=27033&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=27033
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=27033
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=27033
+other_names:
+- name: Gerhold, T.
+- name: T. Gerhold
+- name: T.D. Gerhold
+- name: Thomas D. Gerhold
+sources:
+- url: https://ballotpedia.org/Thomas_Gerhold
+- url: https://en.wikipedia.org/wiki/Thomas_Gerhold
+- url: https://justfacts.votesmart.org/candidate/biography/180263/thomas-gerhold
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=27033
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=27033
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=27033
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=27033
+extras:
+  home email: tdgerhold@netins.net
+  occupation: Research Associate

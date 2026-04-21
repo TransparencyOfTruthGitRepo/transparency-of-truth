@@ -1,0 +1,46 @@
+id: ocd-organization/c8763a6e-9ccb-4e11-97aa-2d1ba7b5155b
+jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+classification: committee
+name: Rules
+chamber: lower
+sources:
+- url: https://gc.nh.gov/house/committees/committeedetails.aspx?id=14
+- url: https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=14
+  note: Committee details page
+- url: https://www.gencourt.state.nh.us/house/committees/standingcommittees.aspx
+  note: Committees list page
+links:
+- url: https://gc.nh.gov/house/committees/committeedetails.aspx?id=14
+- url: https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=14
+members:
+- name: Sherm Packard
+  role: chair
+  person_id: ocd-person/e94c1d98-5454-40a2-8293-ee0998fee8ca
+- name: Steven Smith
+  role: vice chair
+  person_id: ocd-person/129a2970-07b9-4136-aae1-15c689edca40
+- name: Alexis Simpson
+  role: member
+  person_id: ocd-person/3ab49eaa-77a6-4e6e-85a5-24812e78ae7a
+- name: Brian Sullivan
+  role: member
+  person_id: ocd-person/4c78e7fc-43a2-467b-abe3-6ba04ad8853e
+- name: Jason Osborne
+  role: member
+  person_id: ocd-person/6e2bc564-5cd1-4f96-a265-4753b7f12ee1
+- name: Jim Kofalt
+  role: member
+  person_id: ocd-person/fa8b39ea-006f-420a-9a3f-fe36d0db8776
+- name: Joe Sweeney
+  role: member
+  person_id: ocd-person/568a287b-89c6-44b7-a8e6-a5188ef7f9bc
+- name: Karen Ebel
+  role: member
+  person_id: ocd-person/947e2e2b-04eb-4f92-9f83-aef8760517e0
+- name: Lucy Weber
+  role: member
+  person_id: ocd-person/a6790cd1-6b7a-48f9-b48c-b298929578a4
+other_names:
+- name: House Committee on Rules
+- name: House Rules
+- name: House Rules Committee

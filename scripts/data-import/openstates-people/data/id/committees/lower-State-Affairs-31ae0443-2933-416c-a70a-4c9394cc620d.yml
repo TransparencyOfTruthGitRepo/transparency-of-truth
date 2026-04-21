@@ -1,0 +1,79 @@
+id: ocd-organization/31ae0443-2933-416c-a70a-4c9394cc620d
+jurisdiction: ocd-jurisdiction/country:us/state:id/government
+classification: committee
+name: State Affairs
+chamber: lower
+sources:
+- url: https://legislature.idaho.gov/committees/
+  note: homepage
+- url: https://legislature.idaho.gov/committees/housecommittees/
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HSTA
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HSTA/
+- url: https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HSTA/#hcode-tab-style2members
+  note: Committee Details page
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HSTA/#hcode-tab-style2members
+  note: Committee Details page
+- url: https://legislature.idaho.gov/sessioninfo/2025/standingcommittees/HSTA
+- url: https://legislature.idaho.gov/sessioninfo/2026/standingcommittees/HSTA
+links:
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HSTA
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HSTA/
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HSTA/#hcode-tab-style2members
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HSTA
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HSTA/#hcode-tab-style2members
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2025/standingcommittees/HSTA
+- url: https://legislature.idaho.gov/sessioninfo/2026/standingcommittees/HSTA
+members:
+- name: Brent Crane
+  role: chair
+  person_id: ocd-person/81d4b890-9bf4-44e0-99b2-eda866f02d48
+- name: Heather Scott
+  role: vice chair
+  person_id: ocd-person/bd967aaf-a9d5-4bec-bf7c-cf0aa19d72ca
+- name: Annie Henderson Haws
+  role: member
+  person_id: ocd-person/a0ccdf84-6300-4f9d-bca3-30b3299fece5
+- name: Bruce Skaug
+  role: member
+  person_id: ocd-person/e8eea4c8-b669-4609-b991-13ef3a6ff10b
+- name: Erin Bingham
+  role: member
+  person_id: ocd-person/13b5078f-aaaf-4222-a0ae-c8afcbdf3757
+- name: James Holtzclaw
+  role: member
+  person_id: ocd-person/28827442-9341-4768-86ea-a9186d718be0
+- name: Jaron Crane
+  role: member
+  person_id: ocd-person/da5babc3-b974-4f3c-a750-8989ab3a122b
+- name: Joe Alfieri
+  role: member
+  person_id: ocd-person/561516c4-4e4f-45bc-b1d0-6ed359006597
+- name: Joe Palmer
+  role: member
+  person_id: ocd-person/ed09bbbc-7b10-4ee8-be6b-a4dfcd7330ec
+- name: Judy Boyle
+  role: member
+  person_id: ocd-person/bcaace10-c9c4-4018-a87c-6112eeb33346
+- name: Mike Pohanka
+  role: member
+  person_id: ocd-person/d8c564c8-3499-4e44-b4b9-df1c0bb52ab4
+- name: Monica Church
+  role: member
+  person_id: ocd-person/b3878069-33ec-4ecc-8236-f9d0de68f5da
+- name: Shawn Dygert
+  role: member
+  person_id: ocd-person/0ad2781c-7d8f-4e19-9fb2-74c8f9033ef9
+- name: Stephanie Mickelsen
+  role: member
+  person_id: ocd-person/94248975-397a-4e5c-a544-40cb7a3f06d0
+other_names:
+- name: House Committee on State Affairs
+- name: House State Affairs
+- name: House State Affairs Committee
+extras:
+  secretary: "Kelly\_Staskey"
+  email: hstaf@house.idaho.gov
+  phone: 332-1145

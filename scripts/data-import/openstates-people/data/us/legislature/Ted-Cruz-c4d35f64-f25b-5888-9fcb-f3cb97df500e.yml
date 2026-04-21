@@ -1,0 +1,102 @@
+id: ocd-person/c4d35f64-f25b-5888-9fcb-f3cb97df500e
+name: Ted Cruz
+given_name: Ted
+family_name: Cruz
+birth_date: 1970-12-22
+gender: Male
+email: https://www.cruz.senate.gov/contact/write-ted
+image: https://unitedstates.github.io/images/congress/450x550/C001098.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Texas
+- start_date: 2019-01-03
+  end_date: 2025-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Texas
+- start_date: 2013-01-03
+  end_date: 2019-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Texas
+offices:
+- classification: capitol
+  address: 167 Russell Senate Office Building, Washington, DC 20510
+  voice: 202-224-5922
+  fax: 202-228-0755
+- classification: district
+  address: 200 S. 10th St. Suite 1107, McAllen, TX 78501
+  voice: 956-686-7339
+- classification: district
+  address: 300 E. 8th St. Suite 961, Austin, TX 78701
+  voice: 512-916-5834
+- classification: district
+  address: 305 S. Broadway Suite 501, Tyler, TX 75702
+  voice: 903-593-5130
+- classification: district
+  address: 9901 Interstate Highway 10 West Suite 950, San Antonio, TX 78230
+  voice: 210-340-2885
+- classification: district
+  address: Lee Park Tower II 3626 N. Hall St., Suite 410, Dallas, TX 75219
+  voice: 214-599-8749
+- classification: district
+  address: The Mickey Leland Federal Building 1919 Smith St., Suite 9047, Houston,
+    TX 77002
+  voice: 713-718-3057
+links:
+- url: https://www.cruz.senate.gov
+  note: website
+- url: https://www.cruz.senate.gov/?p=form&id=16
+  note: contact form
+other_names:
+- name: Cruz, T.
+- name: R.E. Cruz
+- name: T. Cruz
+ids:
+  twitter: SenTedCruz
+  youtube: UCOTZ-6H1rri1lSsj6IzhUyw
+  facebook: SenatorTedCruz
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Ted Cruz
+- scheme: bioguide
+  identifier: C001098
+- scheme: cspan
+  identifier: '1019953'
+- scheme: fec
+  identifier: S2TX00312
+- scheme: google_entity_id
+  identifier: kg:/m/07j6ty
+- scheme: govtrack
+  identifier: '412573'
+- scheme: icpsr
+  identifier: '41304'
+- scheme: lis
+  identifier: S355
+- scheme: maplight
+  identifier: '1797'
+- scheme: opensecrets
+  identifier: N00033085
+- scheme: pictorial
+  identifier: '13402'
+- scheme: thomas
+  identifier: '02175'
+- scheme: votesmart
+  identifier: '135705'
+- scheme: wikidata
+  identifier: Q2036942
+sources:
+- url: https://ballotpedia.org/Ted_Cruz
+- url: https://en.wikipedia.org/wiki/Ted_Cruz
+- url: https://justfacts.votesmart.org/candidate/biography/135705/ted-cruz
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.cruz.senate.gov
+- url: https://www.cruz.senate.gov/about-ted
+- url: https://www.linkedin.com/in/cruzted/en
+- url: https://www.tedcruz.org/meet-ted

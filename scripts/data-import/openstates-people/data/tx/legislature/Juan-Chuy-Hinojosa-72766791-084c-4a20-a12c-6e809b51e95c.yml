@@ -1,0 +1,64 @@
+id: ocd-person/72766791-084c-4a20-a12c-6e809b51e95c
+name: Chuy Hinojosa
+given_name: Chuy
+family_name: Hinojosa
+birth_date: 1946-03-07
+gender: Male
+email: juan.hinojosa@senate.texas.gov
+image: https://senate.texas.gov/members/d20/img/Hinojosa_84-0784D-006.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2003-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '20'
+- start_date: 1997-01-14
+  end_date: 2003-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '20'
+- start_date: 1983-01-11
+  end_date: 1991-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '20'
+- start_date: 1981-01-13
+  end_date: 1983-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Room 3E.6, P.O. Box 12068 Capitol Station, Austin, TX 78711
+  voice: 512-463-0120
+- classification: district
+  address: 1508 S. Lone Star Way Suite 6A, Edinburg, TX 78539
+  voice: 956-318-0725
+- classification: district
+  address: 602 N. Staples St. Suite 200, Corpus Christi, TX 78401
+  voice: 361-882-0900
+links:
+- url: https://senate.texas.gov/member.php?d=20
+other_names:
+- name: C. Hinojosa
+- name: Hinojosa, C.
+- name: Hinojosa, Chuy
+- name: Hinojosa, Juan "Chuy"
+- name: J.J. Hinojosa
+- name: Juan "Chuy" Hinojosa
+- name: Juan Hinojosa
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000195
+- scheme: legacy_openstates
+  identifier: TXL000013
+- scheme: legacy_openstates
+  identifier: TXL000600
+sources:
+- url: https://ballotpedia.org/Juan_Hinojosa
+- url: https://ballotpedia.org/Juan_Hinojosa_(Texas)
+- url: https://en.wikipedia.org/wiki/Juan_Hinojosa
+- url: https://justfacts.votesmart.org/candidate/biography/10049/juan-hinojosa
+- url: https://senate.texas.gov/member.php?d=20
+- url: https://www.linkedin.com/in/senator-juan-chuy-hinojosa-7541b064

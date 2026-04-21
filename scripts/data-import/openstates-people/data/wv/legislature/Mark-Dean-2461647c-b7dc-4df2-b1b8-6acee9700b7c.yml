@@ -1,0 +1,49 @@
+id: ocd-person/2461647c-b7dc-4df2-b1b8-6acee9700b7c
+name: Mark Dean
+given_name: Mark
+family_name: Dean
+birth_date: 1980-06-18
+gender: Male
+email: mark.dean@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/dean_mark.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '34'
+- start_date: 2016-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '34'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '21'
+offices:
+- classification: capitol
+  address: State Capitol Room 212E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3304
+- classification: district-mail
+  address: P.O. Box 15, Verner, WV 25650
+  voice: 304-601-3425
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Dean
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Dean
+other_names:
+- name: Dean, M
+- name: Dean, M.
+- name: M. Dean
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000363
+sources:
+- url: https://ballotpedia.org/Mark_Dean
+- url: https://en.wikipedia.org/wiki/Mark_Dean_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/167333/mark-dean
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Dean
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Dean
+- url: https://www.wvlegislature.gov/House/roster.cfm

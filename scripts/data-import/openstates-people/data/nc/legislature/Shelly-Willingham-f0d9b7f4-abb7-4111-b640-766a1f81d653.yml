@@ -1,0 +1,53 @@
+id: ocd-person/f0d9b7f4-abb7-4111-b640-766a1f81d653
+name: Shelly Willingham
+given_name: Shelly
+family_name: Willingham
+birth_date: 1943-11-27
+gender: Male
+email: shelly.willingham@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/700/Low
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '23'
+- start_date: 2002-01-28
+  end_date: 2003-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '70'
+offices:
+- classification: capitol
+  address: Room 513, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-715-3024
+- classification: district-mail
+  address: 916 Hill St., Rocky Mount, NC 27801
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/700
+- url: https://www.ncleg.gov/Members/Committees/H/700
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/700
+- url: https://www.ncleg.gov/Members/Votes/H/700
+other_names:
+- name: S. Willingham
+- name: Willingham, S.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000344
+sources:
+- url: https://ballotpedia.org/Shelly_Willingham
+- url: https://en.wikipedia.org/wiki/Shelly_Willingham
+- url: https://justfacts.votesmart.org/candidate/biography/41293/shelly-willingham
+- url: https://www.linkedin.com/in/shelly-willingham-92930662
+- url: https://www.ncleg.gov/Members/Biography/H/700
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 300 N. Salisbury Street, Rm. 513; Raleigh, NC 27603-5925
+  main phone: 252-442-8659
+  terms in senate: 5.5 (0 in Senate)
+  represented counties: Bertie, Edgecombe, Martin
+  legislative assistant: Johnna Smith
+  legislative assistant email: Johnna.Smith@ncleg.gov
+  occupation: Real Estate Consultant

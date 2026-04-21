@@ -1,0 +1,46 @@
+id: ocd-person/bfea6436-5d17-4d26-bc37-15f1a975575e
+name: Rex Rice
+given_name: Rex
+family_name: Rice
+birth_date: 1957-05-09
+gender: Male
+email: rexrice@scsenate.gov
+image: https://scstatehouse.gov/images/members/1547727087.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-11-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '2'
+offices:
+- classification: capitol
+  address: Room 601, Gressette Building P.O. Box 142, Columbia, SC 29201
+  voice: 803-212-6116
+links:
+- url: https://scstatehouse.gov/member.php?code=1547727087
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=1547727087
+  note: homepage
+other_names:
+- name: R. Rice
+- name: R.F. Rice
+- name: Rex F. Rice
+- name: Rice, R.
+- name: Rice, Rex
+- name: Rice, Rex F.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000259
+sources:
+- url: https://ballotpedia.org/Rex_Rice
+- url: https://justfacts.votesmart.org/candidate/biography/8939/rex-rice
+- url: https://scstatehouse.gov/member.php?chamber=S
+- url: https://scstatehouse.gov/member.php?code=1547727087
+- url: https://www.linkedin.com/in/rex-rice-39b84570
+- url: https://www.rexrice.com/bio
+- url: https://www.scstatehouse.gov/member.php?chamber=S
+- url: https://www.scstatehouse.gov/member.php?code=1547727087
+extras:
+  Columbia Address Cell Phone: (864) 884-0408
+  counties represented: Pickens County

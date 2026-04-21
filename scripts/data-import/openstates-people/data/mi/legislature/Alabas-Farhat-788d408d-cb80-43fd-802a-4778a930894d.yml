@@ -1,0 +1,34 @@
+id: ocd-person/788d408d-cb80-43fd-802a-4778a930894d
+name: Alabas Farhat
+given_name: Alabas
+family_name: Farhat
+gender: Male
+email: alabasfarhat@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '3'
+offices:
+- classification: capitol
+  address: Room S-587, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0144
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/Alabas-Farhat/
+other_names:
+- name: A. Farhat
+- name: Farhat, A.
+sources:
+- url: https://ballotpedia.org/Alabas_Farhat
+- url: https://housedems.com/Alabas-Farhat
+- url: https://housedems.com/Alabas-Farhat/
+  note: Member Details Page
+- url: https://housedems.com/alabas-farhat/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/alabasf

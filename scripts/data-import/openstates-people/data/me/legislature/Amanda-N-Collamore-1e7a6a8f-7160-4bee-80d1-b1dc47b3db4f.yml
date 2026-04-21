@@ -1,0 +1,53 @@
+id: ocd-person/1e7a6a8f-7160-4bee-80d1-b1dc47b3db4f
+name: Amanda Collamore
+given_name: Amanda
+family_name: Collamore
+gender: Female
+email: amanda.collamore@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/24f65326-81e9-48f3-a7cc-a5dc8e7d74e6_Collamore.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '68'
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '68'
+- start_date: 2020-12-02
+  end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '106'
+offices:
+- classification: capitol
+  address: Room 332, House Republican Office 2 State House Station, Augusta, ME 04333
+  voice: 207-287-1440
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1432
+  note: homepage
+- url: https://mainehousegop.org/members/collamore-amanda/
+other_names:
+- name: A. Collamore
+- name: A.N. Collamore
+- name: Amanda COLLAMORE
+- name: Amanda N. Collamore
+- name: COLLAMORE of Pittsfield
+- name: Collamore, A.
+sources:
+- url: https://ballotpedia.org/Amanda_Collamore
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1432
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://mainehousegop.org/members/collamore-amanda
+- url: https://www.linkedin.com/in/amanda-collamore-191a32b6
+extras:
+  Seat Number: '81'
+  towns represented:
+  - Clinton
+  - Pittsfield
+  - Burnham
+  - Troy
+  occupation: TIDC Education & Outreach Manager, University of Maine

@@ -1,0 +1,51 @@
+id: ocd-organization/0c313c83-0226-4e02-8244-d31f7298b18e
+jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+classification: committee
+name: Workforce
+chamber: upper
+sources:
+- url: https://www.wvlegislature.gov/committees/senate/SenateCommittee.cfm?Chart=wf
+  note: Committee detail page
+- url: https://www.wvlegislature.gov/committees/senate/SenateCommittee.cfm?Chart=wrk
+links:
+- url: https://www.wvlegislature.gov/committees/senate/SenateCommittee.cfm?Chart=wf
+  note: homepage
+- url: https://www.wvlegislature.gov/committees/senate/SenateCommittee.cfm?Chart=wrk
+members:
+- name: Rollan Roberts
+  role: chair
+  person_id: ocd-person/e0166da1-e7d4-42ed-bf99-fe2a9cd3e82e
+- name: Jack Woodrum
+  role: vice chair
+  person_id: ocd-person/b4df4940-ac0e-4e1a-ba3c-940d604b4ad2
+- name: Ben Queen
+  role: member
+  person_id: ocd-person/de50d28d-6a58-4244-8c74-36ca3f41767a
+- name: Bill Hamilton
+  role: member
+  person_id: ocd-person/8bd21671-34c1-4ba3-aced-0dcaa110029c
+- name: Chris Rose
+  role: member
+  person_id: ocd-person/9c82f11d-28f2-4167-b10c-26815533f73a
+- name: Darren Thorne
+  role: member
+  person_id: ocd-person/60b7f294-2c42-40ab-ab7d-2a639e5be5e5
+- name: Eric Tarr
+  role: member
+  person_id: ocd-person/18d03332-9bd9-4070-9101-6cf93ab2105e
+- name: Mike Woelfel
+  role: member
+  person_id: ocd-person/500ddd59-2fb2-406a-869c-2b06f6cc2385
+- name: Ryan Weld
+  role: member
+  person_id: ocd-person/680aa2ce-6408-4047-a36b-0b3badc82851
+- name: Scott Fuller
+  role: member
+  person_id: ocd-person/7a94bf35-24ea-49ba-bf09-b53c1465ffa7
+- name: Vince Deeds
+  role: member
+  person_id: ocd-person/147a2b54-846b-4fec-b394-be4b50827f5f
+other_names:
+- name: Senate Committee on Workforce
+- name: Senate Workforce
+- name: Senate Workforce Committee

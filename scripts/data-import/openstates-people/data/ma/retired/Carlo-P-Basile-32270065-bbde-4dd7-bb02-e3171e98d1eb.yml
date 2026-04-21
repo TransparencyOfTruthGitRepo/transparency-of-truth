@@ -1,0 +1,23 @@
+id: ocd-person/32270065-bbde-4dd7-bb02-e3171e98d1eb
+name: Carlo P. Basile
+given_name: Carlo
+family_name: Basile
+middle_name: P.
+image: https://malegislature.gov/Images/MemberProfile/Web/cbasile.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 1st Suffolk
+links:
+- url: http://www.malegislature.gov/People/Profile/CPB1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000051
+- scheme: legacy_openstates
+  identifier: MAL000321
+sources:
+- url: http://www.malegislature.gov/People/Profile/CPB1

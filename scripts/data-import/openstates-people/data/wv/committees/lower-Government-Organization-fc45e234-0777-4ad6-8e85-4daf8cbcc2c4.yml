@@ -1,0 +1,96 @@
+id: ocd-organization/fc45e234-0777-4ad6-8e85-4daf8cbcc2c4
+jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+classification: committee
+name: Government Organization
+chamber: lower
+sources:
+- url: https://www.wvlegislature.gov/committees/house/HouseCommittee.cfm?Chart=go
+  note: Committee detail page
+- url: https://www.wvlegislature.gov/committees/house/HouseCommittee.cfm?Chart=gov
+links:
+- url: https://www.wvlegislature.gov/committees/house/HouseCommittee.cfm?Chart=go
+  note: homepage
+- url: https://www.wvlegislature.gov/committees/house/HouseCommittee.cfm?Chart=gov
+members:
+- name: Chris Phillips
+  role: chair
+  person_id: ocd-person/eb6d633a-5526-413b-872d-bd36f4d9a906
+- name: Doug Smith
+  role: vice chair
+  person_id: ocd-person/70ac0a53-79d8-426b-950b-83e9be022bf3
+- name: Kayla Young
+  role: democratic chair
+  person_id: ocd-person/3317959e-9fbd-40dc-aa7a-0f0a9cc06c3f
+- name: Hollis Lewis
+  role: democratic vice chair
+  person_id: ocd-person/68163122-16de-4528-8eda-fd1f9783c45d
+- name: Adam Burkhammer
+  role: member
+  person_id: ocd-person/76544899-58ec-4065-a3e8-4a4d8a12b4eb
+- name: Bryan Smith
+  role: member
+  person_id: ocd-person/9cdbf48f-3fd5-4147-9f26-a78632d99929
+- name: Chuck Sheedy
+  role: member
+  person_id: ocd-person/338acc2a-d910-4c29-aa94-bf39fbebdeec
+- name: Dana Ferrell
+  role: member
+  person_id: ocd-person/6c7fa52c-c313-4f10-aab9-ba9cc0269743
+- name: Dave Foggin
+  role: member
+  person_id: ocd-person/9ad2e11c-daf4-4f33-9c2d-0075beaeada8
+- name: Dave McCormick
+  role: member
+  person_id: ocd-person/297732cd-3e12-4ce1-b6ca-7e046d8b3e46
+- name: Donald Bennett
+  role: member
+  person_id: ocd-person/43f0eeae-cf06-4d8b-a568-03e63c72b796
+- name: Eric Brooks
+  role: member
+  person_id: ocd-person/db5d813b-3cd2-4a6d-b656-b48624f61094
+- name: George Street
+  role: member
+  person_id: ocd-person/2ee0335d-f067-4ca3-99ce-e10944fa8875
+- name: Jarred Cannon
+  role: member
+  person_id: ocd-person/e617259d-e2c9-4043-a759-321c7e3ff7f0
+- name: John Paul Hott
+  role: member
+  person_id: ocd-person/06c041be-0a45-4bfe-8e2d-49055af1205f
+- name: Jonathan Kyle
+  role: member
+  person_id: ocd-person/e83c168f-6725-47ea-ac8d-7dbadc6736c7
+- name: Jonathan Pinson
+  role: member
+  person_id: ocd-person/a71cd621-aa1e-4338-b0bd-ca9f7a03f667
+- name: Mark Dean
+  role: member
+  person_id: ocd-person/2461647c-b7dc-4df2-b1b8-6acee9700b7c
+- name: Marshall Clay
+  role: member
+  person_id: ocd-person/6a8371d3-32ba-4997-9cd4-ad26bafab694
+- name: Patrick Lucas
+  role: member
+  person_id: ocd-person/9a7c2d4d-002a-439e-b095-e7b86329fc1c
+- name: Ryan Browning
+  role: member
+  person_id: ocd-person/c95f5292-14c3-4e79-8465-05cca13242b6
+- name: Sarah Drennan
+  role: member
+  person_id: ocd-person/003871b4-bf51-4bba-bacc-bf1ead7a9947
+- name: Stan Adkins
+  role: member
+  person_id: ocd-person/4b7f8925-344a-4ce2-b70c-76bb9127c4fa
+- name: Tresa Howell
+  role: member
+  person_id: ocd-person/a6ad12cd-7040-4cf0-83b5-9de1fd835fa8
+- name: Tristan Leavitt
+  role: member
+  person_id: ocd-person/8b2ff1b1-618d-47c4-8b20-8388c53eb412
+- name: Wayne Clark
+  role: member
+  person_id: ocd-person/de66a26a-0d5d-44d4-a687-58cffa1a2512
+other_names:
+- name: House Committee on Government Organization
+- name: House Government Organization
+- name: House Government Organization Committee

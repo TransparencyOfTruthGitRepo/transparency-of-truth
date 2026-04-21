@@ -1,0 +1,59 @@
+id: ocd-organization/9a2c9035-b980-4ca3-a7b5-dc0ecf80470c
+jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+classification: committee
+name: Insurance
+chamber: lower
+sources:
+- url: https://capitol.texas.gov/Committees/CommitteesMbrs.aspx?Chamber=H
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C320
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C320
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C320
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C320
+- url: https://house.texas.gov/committees/committee/320
+- url: https://house.texas.gov/committees/committee/?committee=C320
+links:
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C320
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C320
+  note: homepage
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C320
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C320
+- url: https://house.texas.gov/committees/committee/320
+- url: https://house.texas.gov/committees/committee/?committee=C320
+members:
+- name: Jay Dean
+  role: chair
+  person_id: ocd-person/37886d81-901f-43b4-841b-f3ffbfeeb257
+- name: Hubert Vo
+  role: vice chair
+  person_id: ocd-person/5c2743d2-fe0e-41d6-969d-de830d5787f8
+- name: Andy Hopper
+  role: member
+  person_id: ocd-person/ee8cc382-84b7-47e3-824f-e05cf6455161
+- name: David Spiller
+  role: member
+  person_id: ocd-person/36338558-c2b0-4b43-b656-261dccbee871
+- name: Dennis Paul
+  role: member
+  person_id: ocd-person/e05f502a-0d27-4c51-8cad-d3b5eca585b1
+- name: "Jessica Gonz\xE1lez"
+  role: member
+  person_id: ocd-person/8eeb1aad-24b6-487b-bbc0-31c2238b1ccd
+- name: Matt Morgan
+  role: member
+  person_id: ocd-person/07951419-b5d5-430b-a3e6-678e1d4aec21
+- name: Trey Wharton
+  role: member
+  person_id: ocd-person/afd236d4-4266-4777-8d3d-be7616a7e43f
+- name: Vikki Goodwin
+  role: member
+  person_id: ocd-person/25157308-7474-4600-8b83-173d79e16a21
+other_names:
+- name: House Committee on Insurance
+- name: House Insurance
+- name: House Insurance Committee
+extras:
+  clerk: Scott Crownover
+  legislature: 88(R) - 2023
+  phone: (512) 463-0788
+  appointment date: 2/8/2023
+  room: EXT E2.150

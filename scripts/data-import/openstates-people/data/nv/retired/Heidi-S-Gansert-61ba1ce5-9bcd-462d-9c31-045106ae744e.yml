@@ -1,0 +1,21 @@
+id: ocd-person/61ba1ce5-9bcd-462d-9c31-045106ae744e
+name: Heidi S Gansert
+given_name: Heidi
+family_name: Gansert
+middle_name: S
+image: http://www.leg.state.nv.us/Session/74th2007/Legislators/Assembly/Images/Gansert.gif
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '25'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NVL000077
+- scheme: legacy_openstates
+  identifier: NVL000035
+sources:
+- url: http://www.leg.state.nv.us/Session/75th2009/legislators/Assembly/alist.cfm

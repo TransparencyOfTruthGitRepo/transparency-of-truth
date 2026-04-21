@@ -1,0 +1,66 @@
+id: ocd-organization/7635f95b-a18c-4621-a25b-09bd0aea295a
+jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+classification: committee
+name: Legislative Procedure
+chamber: legislature
+sources:
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1170
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1207
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/68
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/69
+- url: https://sdlegislature.gov/Session/Committee/1241/Detail
+- url: https://sdlegislature.gov/Session/Committee/1276/Detail
+links:
+- url: https://sdlegislature.gov/Session/Committee/1170/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1207/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1241/Detail
+- url: https://sdlegislature.gov/Session/Committee/1276/Detail
+members:
+- name: Chris Karr
+  role: chair
+  person_id: ocd-person/85616a5d-63b7-4794-8eb0-63ab7b121761
+- name: Jon Hansen
+  role: vice chair
+  person_id: ocd-person/912b0c53-5674-42b0-8f22-8ccd01c3264c
+- name: Carl Perry
+  role: member
+  person_id: ocd-person/5a5c92d7-0b2c-418e-a0ce-8ba0a6e4790a
+- name: Erin Healy
+  role: member
+  person_id: ocd-person/85bda678-d416-4caa-b439-8a579288f2ec
+- name: Greg Jamison
+  role: member
+  person_id: ocd-person/fe9a44c7-7241-4395-98e3-8445b1bc2d54
+- name: Jim Mehlhaff
+  role: member
+  person_id: ocd-person/c8ca77f5-97e7-4604-aec3-fe4ee5e7dc31
+- name: Karla Lems
+  role: member
+  person_id: ocd-person/0c864308-04a8-4b22-af5b-5d718046b99f
+- name: Liz Larson
+  role: member
+  person_id: ocd-person/81df3498-7677-4749-9753-c1ae9799e444
+- name: Marty Overweg
+  role: member
+  person_id: ocd-person/7dc4b8d9-148b-4622-a6de-b27dc27030be
+- name: Randy Deibert
+  role: member
+  person_id: ocd-person/73f418c4-6d07-4ef5-924f-1664738d2b46
+- name: Scott Odenbach
+  role: member
+  person_id: ocd-person/18602d7b-fb7f-495b-bf94-2b0da2aae00f
+- name: Sue Peterson
+  role: member
+  person_id: ocd-person/10c3de09-4e65-4885-bbbb-78b2903a36e2
+- name: Tina Mulally
+  role: member
+  person_id: ocd-person/ebadc687-f53a-4ec4-9c37-b362a2ea6842
+- name: Tom Pischke
+  role: member
+  person_id: ocd-person/f6b50a35-18e6-4e0c-bdd9-071f4a99bbed
+other_names:
+- name: Joint Committee on Legislative Procedure
+- name: Joint Legislative Procedure
+- name: Joint Legislative Procedure Committee

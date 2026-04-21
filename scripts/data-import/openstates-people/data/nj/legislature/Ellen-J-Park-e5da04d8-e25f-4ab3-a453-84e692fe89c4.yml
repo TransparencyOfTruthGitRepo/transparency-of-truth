@@ -1,0 +1,40 @@
+id: ocd-person/e5da04d8-e25f-4ab3-a453-84e692fe89c4
+name: Ellen Park
+given_name: Ellen
+family_name: Park
+birth_date: 1972-03-06
+gender: Female
+email: aswpark@njleg.org
+party:
+- name: Democratic
+roles:
+- start_date: 2022-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '37'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 96 Engle St., Englewood, NJ 07631
+  voice: 201-308-7062
+links:
+- url: https://www.assemblydems.com/206/Ellen-Park---District-37
+- url: https://www.assemblydems.com/ellen-j-park/
+- url: https://www.njleg.state.nj.us/legislative-roster/453/assemblywoman-park
+other_names:
+- name: E. Park
+- name: E.J. Park
+- name: Ellen J. Park
+- name: Park, E.
+- name: Park, Ellen J.
+sources:
+- url: https://ballotpedia.org/Ellen_Park
+- url: https://en.wikipedia.org/wiki/Ellen_Park
+- url: https://www.assemblydems.com/206/Ellen-Park---District-37
+- url: https://www.assemblydems.com/ellen-j-park
+- url: https://www.assemblydems.com/ellen-j-park/
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/453
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/453/assemblywoman-park

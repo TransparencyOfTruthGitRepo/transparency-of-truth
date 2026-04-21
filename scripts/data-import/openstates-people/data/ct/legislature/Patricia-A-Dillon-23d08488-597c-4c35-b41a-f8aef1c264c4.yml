@@ -1,0 +1,44 @@
+id: ocd-person/23d08488-597c-4c35-b41a-f8aef1c264c4
+name: Pat Dillon
+given_name: Pat
+family_name: Dillon
+birth_date: 1948-07-09
+gender: Female
+email: patricia.dillon@cga.ct.gov
+image: http://www2.housedems.ct.gov/Dillon/images/Dillon_HS.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1985-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '92'
+offices:
+- classification: capitol
+  address: Room 4019, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 800-842-8267
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27092%27&dist_name=Dillon,%20Patricia%20A.
+- url: https://www.housedems.ct.gov/Dillon
+other_names:
+- name: Dillon, P.
+- name: Dillon, Patricia A.
+- name: P. Dillon
+- name: P.A. Dillon
+- name: Patricia A. Dillon
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000128
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Patricia_Dillon
+- url: https://en.wikipedia.org/wiki/Patricia_Dillon
+- url: https://justfacts.votesmart.org/candidate/biography/7169/patricia-dillon
+- url: https://www.housedems.ct.gov/Dillon
+- url: https://www.linkedin.com/in/patricia-dillon-8b7ab914
+extras:
+  gender: Female
+  title: Deputy Majority Leader
+  committees: Appropriations; Environment; Judiciary
+  committee codes: ;APP;ENV;JUD;
+  prison: '0'

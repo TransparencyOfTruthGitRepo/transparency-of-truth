@@ -1,0 +1,55 @@
+id: ocd-person/df3f9935-b7e2-4f76-a461-115487c57721
+name: Ryan Williams
+given_name: Ryan
+family_name: Williams
+birth_date: 1974-06-01
+gender: Male
+email: rep.ryan.williams@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h42.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '42'
+offices:
+- classification: capitol
+  address: Room 612, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-1875
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H42
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H42
+- url: https://www.capitol.tn.gov/house/members/h42.html
+other_names:
+- name: R. Williams
+- name: Williams, R
+- name: Williams, R.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000129
+- scheme: legacy_openstates
+  identifier: TNL000261
+- scheme: legacy_openstates
+  identifier: TNL000339
+sources:
+- url: https://ballotpedia.org/Ryan_Williams_(Tennessee)
+- url: https://en.wikipedia.org/wiki/Ryan_Williams_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/113713/ryan-williams
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H42
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H42
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h42.html
+- url: https://www.linkedin.com/in/rep-ryan-williams-b32a346
+extras:
+  office: 644 CHB
+  personal info:
+  - Born June 1
+  - Married, two children
+  - Baptist
+  - Construction - Business Development
+  - B.S. Biology, Carson-Newman College

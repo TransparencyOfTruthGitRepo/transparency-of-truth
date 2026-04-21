@@ -1,0 +1,53 @@
+id: ocd-person/abda0ae5-9ecb-4363-9a6a-487f1cf8899e
+name: David Friess
+given_name: David
+family_name: Friess
+gender: Male
+email: friess@ilhousegop.org
+image: https://cdn.ilga.gov/assets/img/members/{C1F3982E-6DA7-4AE6-96B9-77E9FBC87A2A}.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '115'
+- end_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '116'
+offices:
+- classification: capitol
+  address: Room 216-N, Stratton Office Building, Springfield, IL 62706
+  voice: 217-782-1018
+- classification: district
+  address: 143 S. Main St., Red Bud, IL 62278
+  voice: 618-282-7284
+links:
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=3004
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3192
+  note: homepage
+- url: https://repfriess.com/
+- url: https://www.ilga.gov/House/Members/Details/3395
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3192
+- url: https://www.ilga.gov/house/Rep.asp?GA=104&MemberID=3395
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3395
+other_names:
+- name: D. Friess
+- name: D.H. Friess
+- name: Friess, D.
+- name: Friess, David
+sources:
+- url: https://ballotpedia.org/David_Friess
+- url: https://en.wikipedia.org/wiki/David_Friess
+- url: https://ilga.gov/house/default.asp?GA=102
+- url: https://ilga.gov/house/default.asp?GA=103
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=3004
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3192
+- url: https://justfacts.votesmart.org/candidate/biography/177245/david-friess
+- url: https://repfriess.com
+- url: https://www.ilga.gov/House/Members/Details/3395
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3192
+- url: https://www.ilga.gov/house/Rep.asp?GA=104&MemberID=3395
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3395
+- url: https://www.linkedin.com/in/david-friess-8b349275

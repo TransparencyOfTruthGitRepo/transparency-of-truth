@@ -1,0 +1,65 @@
+id: ocd-organization/4ac204d0-d9fe-443f-ba22-3c1028be918f
+jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+classification: committee
+name: Health and Human Services
+chamber: lower
+sources:
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1158
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1196
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/68
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/69
+- url: https://sdlegislature.gov/Session/Committee/1158/Detail
+- url: https://sdlegislature.gov/Session/Committee/1196/Detail
+- url: https://sdlegislature.gov/Session/Committee/1230/Detail
+- url: https://sdlegislature.gov/Session/Committee/1265/Detail
+links:
+- url: https://sdlegislature.gov/Session/Committee/1158/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1196/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1230/Detail
+- url: https://sdlegislature.gov/Session/Committee/1265/Detail
+members:
+- name: Brian Mulder
+  role: chair
+  person_id: ocd-person/d9d8a84f-96df-4dbf-b638-d63e216166d4
+- name: Les Heinemann
+  role: vice chair
+  person_id: ocd-person/950b0ec2-1c69-4c81-ab1d-c61464519e26
+- name: Bobbi Andera
+  role: member
+  person_id: ocd-person/1e3d4ebf-2669-4b20-acd4-e339d24f73c3
+- name: Brandei Schaefbauer
+  role: member
+  person_id: ocd-person/713ca571-304b-48f0-a853-b49fa859134e
+- name: Dylan Jordan
+  role: member
+  person_id: ocd-person/d458ae29-45a8-4406-a5c0-c256ec743172
+- name: Eric Emery
+  role: member
+  person_id: ocd-person/589ced64-f78f-447d-ab9a-8ead6965c61b
+- name: Heather Baxter
+  role: member
+  person_id: ocd-person/229c5337-951c-41d2-9e76-dc74878bcf89
+- name: Jim Halverson
+  role: member
+  person_id: ocd-person/98281de1-c8bc-4c3a-9a5b-6a45c96c6087
+- name: Josephine Garcia
+  role: member
+  person_id: ocd-person/6ca3c0b7-e0d2-4d68-8b33-725c378ff130
+- name: Logan Manhart
+  role: member
+  person_id: ocd-person/533da64d-d703-4d56-9d65-8bf3b730d552
+- name: Nick Fosness
+  role: member
+  person_id: ocd-person/1f9d8833-6a73-4985-b33e-635b6bc194b7
+- name: Taylor Rehfeldt
+  role: member
+  person_id: ocd-person/ba249bd9-5b3e-42f3-a367-061bf63d620a
+- name: Tony Kayser
+  role: member
+  person_id: ocd-person/a0e95faf-3b79-4657-bdd2-3a496d04e03c
+other_names:
+- name: House Committee on Health and Human Services
+- name: House Health and Human Services
+- name: House Health and Human Services Committee

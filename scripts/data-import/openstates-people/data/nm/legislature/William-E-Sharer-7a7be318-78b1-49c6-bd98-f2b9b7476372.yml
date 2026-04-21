@@ -1,0 +1,57 @@
+id: ocd-person/7a7be318-78b1-49c6-bd98-f2b9b7476372
+name: Bill Sharer
+given_name: Bill
+family_name: Sharer
+birth_date: 1959-09-22
+gender: Male
+email: bill@williamsharer.com
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SSHAR.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2001-01-16
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '1'
+offices:
+- classification: capitol
+  address: State Capitol Room 109A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4877
+- classification: district-mail
+  address: P.O. Box 203, Farmington, NM 87499
+links:
+- url: https://www.linkedin.com/in/william-sharer-71248033/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SSHAR
+  note: homepage
+other_names:
+- name: B. Sharer
+- name: Sharer, B.
+- name: Sharer, Bill
+- name: Sharer, William E.
+- name: W.E. Sharer
+- name: William E. Sharer
+ids:
+  twitter: billsharer
+  facebook: bill.sharer.9
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000001
+- scheme: legacy_openstates
+  identifier: NML000170
+- scheme: legacy_openstates
+  identifier: NML000341
+- scheme: legacy_openstates
+  identifier: NML000405
+sources:
+- url: https://ballotpedia.org/William_Sharer
+- url: https://en.wikipedia.org/wiki/William_Sharer
+- url: https://justfacts.votesmart.org/candidate/biography/43442/bill-sharer
+- url: https://www.linkedin.com/in/william-sharer-71248033
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SSHAR
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: San Juan
+  service: Senator since 2001
+  occupation: Small Business Owner

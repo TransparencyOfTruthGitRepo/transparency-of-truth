@@ -1,0 +1,20 @@
+id: ocd-person/ca6b2d12-bd4d-4bc2-8766-e4801ecbabf4
+name: Todd Courser
+given_name: Todd
+family_name: Courser
+party:
+- name: Republican
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '82'
+links:
+- url: http://gophouse.org/representatives/thumb/courser/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MIL000316
+sources:
+- url: http://www.house.mi.gov/mhrpublic/frmRepList.aspx
+- url: http://www.mlive.com/lansing-news/index.ssf/2015/09/rep_todd_courser_resigns_ahead.html

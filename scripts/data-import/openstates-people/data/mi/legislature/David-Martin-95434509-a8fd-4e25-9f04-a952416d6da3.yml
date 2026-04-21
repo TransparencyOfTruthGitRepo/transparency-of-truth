@@ -1,0 +1,39 @@
+id: ocd-person/95434509-a8fd-4e25-9f04-a952416d6da3
+name: David Martin
+given_name: David
+family_name: Martin
+gender: Male
+email: davidmartin@house.mi.gov
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '68'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '48'
+offices:
+- classification: capitol
+  address: Room N-1087, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0826
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/repdavidmartin/posts
+- url: https://repmartin.com
+other_names:
+- name: D. Martin
+- name: David Martin
+- name: David W. Martin
+- name: Martin, D.
+sources:
+- url: https://ballotpedia.org/David_Martin_(Michigan)
+- url: https://gophouse.org/member/repdavidmartin/posts
+- url: https://repmartin.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true

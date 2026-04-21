@@ -1,0 +1,52 @@
+id: ocd-person/14f0186e-bf9b-46aa-aa00-1ccc8f58490b
+name: Joe Cervantes
+given_name: Joe
+family_name: Cervantes
+birth_date: 1961-01-19
+gender: Male
+email: joseph.cervantes@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SCERV.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-15
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '31'
+offices:
+- classification: capitol
+  address: State Capitol Room 319A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4861
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SCERV
+  note: homepage
+other_names:
+- name: Cervantes, J.
+- name: Cervantes, Joe
+- name: Cervantes, Joseph
+- name: J. Cervantes
+- name: Joseph Cervantes
+ids:
+  twitter: senjoecervantes
+  facebook: joe4nm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000094
+- scheme: legacy_openstates
+  identifier: NML000139
+- scheme: legacy_openstates
+  identifier: NML000200
+- scheme: legacy_openstates
+  identifier: NML000289
+sources:
+- url: https://ballotpedia.org/Joseph_Cervantes
+- url: https://en.wikipedia.org/wiki/Joe_Cervantes
+- url: https://justfacts.votesmart.org/candidate/biography/55143/joe-cervantes
+- url: https://www.linkedin.com/in/joseph-cervantes-82846821
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SCERV
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: "Do\xF1a Ana"
+  service: Representative from 2001-2012; Senator since 2013
+  occupation: Attorney

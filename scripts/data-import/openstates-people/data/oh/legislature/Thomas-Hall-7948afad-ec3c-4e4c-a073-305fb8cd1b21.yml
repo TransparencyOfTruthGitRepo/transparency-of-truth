@@ -1,0 +1,38 @@
+id: ocd-person/7948afad-ec3c-4e4c-a073-305fb8cd1b21
+name: Thomas Hall
+given_name: Thomas
+family_name: Hall
+gender: Male
+email: rep46@ohiohouse.gov
+image: https://www.legislature.ohio.gov/assets/people/thomas-hall/headshots/thumbnails/medium/thomas-hall-january-2021-headshot_medium.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '46'
+- end_date: 2022-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '53'
+offices:
+- classification: capitol
+  address: 77 S. High St. 12th Floor, Columbus, OH 43215
+  voice: 614-644-5094
+links:
+- url: https://ohiohouse.gov/members/thomas-hall
+- url: https://ohiohouse.gov/thomas-hall
+other_names:
+- name: Hall, T.
+- name: T. Hall
+- name: Thomas Hall, T.
+sources:
+- url: https://ballotpedia.org/Thomas_Hall
+- url: https://justfacts.votesmart.org/candidate/189462/thomas-hall
+- url: https://ohiohouse.gov/members/thomas-hall
+  note: member details page
+- url: https://ohiohouse.gov/thomas-hall
+- url: https://www.legislature.ohio.gov/legislators/house-directory
+  note: member list page
+- url: https://www.linkedin.com/in/thomas-hall-513a2215a

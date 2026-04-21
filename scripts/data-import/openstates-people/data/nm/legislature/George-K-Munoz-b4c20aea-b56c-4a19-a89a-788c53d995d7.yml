@@ -1,0 +1,54 @@
+id: ocd-person/b4c20aea-b56c-4a19-a89a-788c53d995d7
+name: "George Mu\xF1oz"
+given_name: George
+family_name: "Mu\xF1oz"
+gender: Male
+email: george.munoz@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SMUNO.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2009-01-20
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '4'
+offices:
+- classification: capitol
+  address: State Capitol Room 325B, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4371
+- classification: district-mail
+  address: P.O. Box 2679, Gallup, NM 87305
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SMUNO
+  note: homepage
+other_names:
+- name: "G. Mu\xF1oz"
+- name: "G.K. Mu\xF1oz"
+- name: George K. Munoz
+- name: "George K. Mu\xF1oz"
+- name: "Mu\xF1oz, G."
+- name: "Mu\xF1oz, George"
+- name: "Mu\xF1oz, George K."
+ids:
+  twitter: munozfornm
+  facebook: nmsenatormunoz
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000004
+- scheme: legacy_openstates
+  identifier: NML000173
+- scheme: legacy_openstates
+  identifier: NML000294
+- scheme: legacy_openstates
+  identifier: NML000412
+sources:
+- url: https://ballotpedia.org/George_Munoz
+- url: https://en.wikipedia.org/wiki/George_Mu%C3%B1oz_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/103938/george-munoz
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SMUNO
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: Cibola, McKinley & San Juan
+  service: Senator since 2009
+  occupation: Businessman

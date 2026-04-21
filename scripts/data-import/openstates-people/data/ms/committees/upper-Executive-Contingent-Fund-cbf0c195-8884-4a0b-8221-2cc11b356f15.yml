@@ -1,0 +1,31 @@
+id: ocd-organization/cbf0c195-8884-4a0b-8221-2cc11b356f15
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Executive Contingent Fund
+chamber: upper
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: homepage
+members:
+- name: Joseph Thomas
+  role: chair
+  person_id: ocd-person/13131d55-19a4-49cd-aba9-e8eef7aedb06
+- name: Angela Turner-Ford
+  role: vice chair
+  person_id: ocd-person/74d0c9b2-58a2-41a7-b2a0-582924a45adf
+- name: Ben Suber
+  role: member
+  person_id: ocd-person/ba13036f-790b-4745-b008-eeb74f1c86a1
+- name: Brice Wiggins
+  role: member
+  person_id: ocd-person/7e27e9e0-fe62-4fc0-b8b0-c2ac9c9ce28d
+- name: Kathy Chism
+  role: member
+  person_id: ocd-person/cc7b9351-ea3c-4436-8cc7-9ec0f34b3e0a
+other_names:
+- name: Senate Committee on Executive Contingent Fund
+- name: Senate Executive Contingent Fund
+- name: Senate Executive Contingent Fund Committee

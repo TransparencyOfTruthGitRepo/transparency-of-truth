@@ -1,0 +1,30 @@
+id: ocd-person/367b4fbd-ec1e-43b4-a4e5-c045674eee58
+name: Jim Davis
+given_name: Jim
+family_name: Davis
+email: Jim.Davis@ncleg.net
+image: http://www.ncleg.net/Senate/pictures/hiRes/357.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '50'
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/357
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000183
+sources:
+- url: https://www.ncleg.gov/Members/Biography/S/357
+extras:
+  counties:
+  - Cherokee
+  - Clay
+  - Graham
+  - Haywood
+  - Jackson
+  - Macon
+  - Swain
+  notice: null

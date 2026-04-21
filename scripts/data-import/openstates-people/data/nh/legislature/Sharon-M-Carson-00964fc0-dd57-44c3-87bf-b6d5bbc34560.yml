@@ -1,0 +1,59 @@
+id: ocd-person/00964fc0-dd57-44c3-87bf-b6d5bbc34560
+name: Sharon Carson
+given_name: Sharon
+family_name: Carson
+birth_date: 1957-11-11
+gender: Female
+email: sharon.carson@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/21900.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2008-12-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '14'
+- start_date: 2000-12-06
+  end_date: 2008-12-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '14'
+offices:
+- classification: capitol
+  address: Room 302, State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3266
+links:
+- url: https://gc.nh.gov/Senate/members/webpages/district14.aspx
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/Senate/members/webpages/district14.aspx
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/Senate/members/webpages/district14.aspx
+  note: homepage
+other_names:
+- name: Carson, S.
+- name: S. Carson
+- name: S.M. Carson
+- name: Sharon M Carson
+- name: Sharon M. Carson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001467
+- scheme: legacy_openstates
+  identifier: NHL000005
+- scheme: legacy_openstates
+  identifier: NHL001289
+- scheme: openstates
+  identifier: ocd-person/2d0aaf0e-69ed-450d-93e0-353b4e58c4a5
+sources:
+- url: https://ballotpedia.org/Sharon_Carson
+- url: https://en.wikipedia.org/wiki/Sharon_Carson
+- url: https://gc.nh.gov/Senate/members/webpages/district14.aspx
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/Senate/members/webpages/district14.aspx
+- url: https://justfacts.votesmart.org/candidate/biography/42537/sharon-carson
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/Senate/members/webpages/district14.aspx
+extras:
+  elected status: Incumbent
+  gender code: F

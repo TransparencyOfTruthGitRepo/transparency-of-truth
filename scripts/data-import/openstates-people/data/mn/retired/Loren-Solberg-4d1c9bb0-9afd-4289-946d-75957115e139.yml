@@ -1,0 +1,17 @@
+id: ocd-person/4d1c9bb0-9afd-4289-946d-75957115e139
+name: Loren Solberg
+given_name: Loren
+family_name: Solberg
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 3B
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000073
+sources:
+- url: http://www.house.leg.state.mn.us/members/meminfo.xls

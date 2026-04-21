@@ -1,0 +1,15 @@
+id: ocd-person/07f4ce6f-9858-41c3-b6c3-27f403bf1494
+name: Barrett Pedersen
+given_name: Barrett
+family_name: Pedersen
+email: dhenriquez@vofp.com
+roles:
+- end_date: '2025-05-04'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:il/place:franklin_park/government
+offices:
+- classification: primary
+  address: 9500 Belmont Avenue;Franklin Park, IL 60131
+  voice: 847-671-8236
+sources:
+- url: https://www.villageoffranklinpark.com/gov/elected_officials/

@@ -1,0 +1,58 @@
+id: ocd-person/2abbbe23-8cb6-4f33-afaf-38ce88a4e10c
+name: Sonya Halpern
+given_name: Sonya
+family_name: Halpern
+birth_date: 1967-10-11
+gender: Female
+email: sonya.halpern@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/halpern-sonya-4985.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '39'
+offices:
+- classification: capitol
+  address: Room 303-B, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-9644
+- classification: district-mail
+  address: P.O. Box 13142, Atlanta, GA 30324
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/4985
+- url: https://www.legis.ga.gov/members/senate/4985?session=1029
+- url: https://www.legis.ga.gov/members/senate/4985?session=1031
+  note: HTML member detail page
+- url: https://www.legis.ga.gov/members/senate/4985?session=1032
+other_names:
+- name: HALPERN, 39TH
+- name: Halpern, S.
+- name: S. Halpern
+- name: S.M. Halpern
+- name: Sonya Halpern
+- name: Sonya McLaughlin Halpern
+sources:
+- url: https://ballotpedia.org/Sonya_Halpern
+- url: https://en.wikipedia.org/wiki/Sonya_Halpern
+- url: https://justfacts.votesmart.org/candidate/195315/sonya-halpern
+- url: https://www.legis.ga.gov/api/members/detail/4985?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4985?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/4985
+- url: https://www.legis.ga.gov/members/senate/4985?session=1029
+- url: https://www.legis.ga.gov/members/senate/4985?session=1031
+- url: https://www.linkedin.com/in/sonyahalpern
+extras:
+  residence: Atlanta
+  city: Atlanta
+  georgia_id: 4985
+  staff: Paige McKenna
+  staff email: paige.mckenna@senate.ga.gov
+  title: Minority Caucus Vice Chair

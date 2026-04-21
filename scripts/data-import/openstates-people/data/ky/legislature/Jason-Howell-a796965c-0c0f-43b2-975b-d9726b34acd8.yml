@@ -1,0 +1,46 @@
+id: ocd-person/a796965c-0c0f-43b2-975b-d9726b34acd8
+name: Jason Howell
+given_name: Jason
+family_name: Howell
+birth_date: 1970-12-19
+gender: Male
+email: jason.howell@kylegislature.gov
+image: https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate101.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '1'
+offices:
+- classification: capitol-mail
+  address: Room Annex 290, 702 Capital Ave., Frankfort, KY 40601
+  voice: 502-564-8100
+links:
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=101
+  note: homepage
+other_names:
+- name: Howell, J.
+- name: J. Howell
+- name: J.G. Howell
+- name: Jason Glenn Howell
+ids:
+  twitter: jasonghowell
+sources:
+- url: https://ballotpedia.org/Jason_Howell_(Kentucky)
+- url: https://en.wikipedia.org/wiki/Jason_Howell
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=101
+- url: https://legislature.ky.gov/Legislators/senate
+- url: https://www.linkedin.com/in/jason-howell-509682
+extras:
+  counties represented:
+  - Calloway
+  - Crittenden
+  - Fulton
+  - Graves
+  - Hickman
+  - Lyon
+  - Trigg
+  mailing address: 702 Capital Ave Annex Room 290 Frankfort, KY 40601
+  home city: Murray

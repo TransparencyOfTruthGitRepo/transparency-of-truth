@@ -1,0 +1,25 @@
+id: ocd-person/61899b6d-9724-4633-ae3a-cd914355744d
+name: "Luis D. Mu\xF1iz Cortes"
+given_name: Luis
+family_name: "Mu\xF1iz Cortes"
+middle_name: D.
+image: http://www.senadopr.us/Fotos%20Senadores/sen_lmuniz.jpg
+party:
+- name: Partido Nuevo Progresista
+roles:
+- start_date: '2009-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: '4'
+links:
+- url: http://www.senadopr.us/Pages/Senadores%20Distrito%20IV.aspx
+other_names:
+- name: "Luis D. Mu\xF1iz Cort\xE9s"
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PRL000022
+- scheme: legacy_openstates
+  identifier: PRL000105
+sources:
+- url: http://www.senadopr.us/Pages/Senadores%20Distrito%20IV.aspx

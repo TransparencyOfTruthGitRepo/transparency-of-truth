@@ -1,0 +1,30 @@
+id: ocd-person/b722dd05-587d-4b70-90b2-37f1e75be01f
+name: Chris Tomlinson
+given_name: Chris
+family_name: Tomlinson
+birth_date: 1986-08-29
+gender: Male
+email: chris.tomlinson@house.maryland.gov
+image: https://mgaleg.maryland.gov/2023RS/images/tomlinson01.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '5'
+offices:
+- classification: capitol
+  address: Room 321, Lowe House Office Bldg. 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3359
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/tomlinson01
+other_names:
+- name: C. Tomlinson
+- name: C.L. Tomlinson
+- name: Tomlinson, C.
+sources:
+- url: https://ballotpedia.org/Chris_Tomlinson_(Maryland)
+- url: https://en.wikipedia.org/wiki/Chris_Tomlinson_(politician)
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/tomlinson01
+- url: https://www.linkedin.com/in/christopher-tomlinson-70429090

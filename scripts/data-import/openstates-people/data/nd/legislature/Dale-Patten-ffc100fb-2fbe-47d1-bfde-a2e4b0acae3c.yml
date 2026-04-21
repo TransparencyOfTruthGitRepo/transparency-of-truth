@@ -1,0 +1,49 @@
+id: ocd-person/ffc100fb-2fbe-47d1-bfde-a2e4b0acae3c
+name: Dale Patten
+given_name: Dale
+family_name: Patten
+gender: Male
+email: dpatten@ndlegis.gov
+image: https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/dpatten2023.jpg?itok=wc6NP5DG
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '26'
+- start_date: 2018-12-01
+  end_date: 2022-11-30
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '26'
+- end_date: 2022-12-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '39'
+offices:
+- classification: capitol-mail
+  address: State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505
+links:
+- url: https://ndlegis.gov/biography/dale-patten
+- url: https://www.legis.nd.gov/assembly/66-2019/members/senate/senator-dale-patten
+- url: https://www.legis.nd.gov/assembly/67-2021/members/senate/senator-dale-patten
+- url: https://www.ndlegis.gov/biography/dale-patten
+other_names:
+- name: D. Patten
+- name: Patten, D.
+sources:
+- url: https://ballotpedia.org/Dale_Patten
+- url: https://en.wikipedia.org/wiki/Dale_Patten
+- url: https://justfacts.votesmart.org/candidate/biography/93619/dale-patten
+- url: https://ndlegis.gov/biography/dale-patten
+- url: https://www.legis.nd.gov/assembly/66-2019/members/senate/senator-dale-patten
+- url: https://www.legis.nd.gov/assembly/67-2021/members/members-by-district
+- url: https://www.legis.nd.gov/assembly/67-2021/members/senate/senator-dale-patten
+- url: https://www.linkedin.com/in/dale-patten-96631319
+- url: https://www.ndlegis.gov/assembly/68-2023/regular/members?page=6
+  note: members list page
+- url: https://www.ndlegis.gov/biography/dale-patten
+  note: member details page
+extras:
+  cell: 701-570-4908

@@ -1,0 +1,45 @@
+id: ocd-person/6e4977fe-2ed9-4e1c-93ce-c837766d2896
+name: Bobby Gibson
+given_name: Bobby
+family_name: Gibson
+gender: Male
+email: bobby.gibson@cga.ct.gov
+image: http://www2.housedems.ct.gov/Gibson/images/Gibson_HS.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2018-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '15'
+offices:
+- classification: capitol
+  address: Room 4038, Legislative Office Building 300 Capitol Ave., Hartford, CT 06107
+  voice: 860-240-8585
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27015%27&dist_name=Gibson,%20Bobby%20G.
+- url: https://www.housedems.ct.gov/gibson
+- url: https://www.housedems.ct.gov/Gibson
+other_names:
+- name: B. Gibson
+- name: B.G. Gibson
+- name: Bobby G. Gibson
+- name: Bobby G. Gibson Jr.
+- name: Gibson, B.
+- name: Gibson, Bobby G.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000364
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Bobby_Gibson
+- url: https://en.wikipedia.org/wiki/Bobby_Gibson
+- url: https://justfacts.votesmart.org/candidate/biography/177595/bobby-gibson
+- url: https://www.housedems.ct.gov/Gibson
+- url: https://www.linkedin.com/in/bobby-gibson-80334959
+extras:
+  gender: Male
+  title: Assistant Deputy Speaker of the House
+  committees: Appropriations; Education; General Law
+  committee codes: ;APP;ED;GL;
+  prison: '0'

@@ -1,0 +1,44 @@
+id: ocd-person/1b83cb36-84ea-44b1-b234-14ca1151c7a4
+name: Robert Williams
+given_name: Robert
+family_name: Williams
+birth_date: 1964-07-12
+gender: Male
+email: robertwilliams@schouse.gov
+image: https://scstatehouse.gov/images/members/1942045222.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '62'
+offices:
+- classification: capitol
+  address: Room 328C, Blatt Building P.O. Box 11867, Columbia, SC 29201
+  voice: 803-734-3142
+links:
+- url: https://scstatehouse.gov/member.php?code=1942045222
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=1942045222
+  note: homepage
+other_names:
+- name: R. Williams
+- name: R.Q. Williams
+- name: Robert Q. Williams
+- name: Williams, R.
+- name: Williams, Robert
+- name: Williams, Robert Q.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000168
+sources:
+- url: https://ballotpedia.org/Robert_Williams_(South_Carolina_Representative)
+- url: https://en.wikipedia.org/wiki/Robert_Q._Williams
+- url: https://justfacts.votesmart.org/candidate/biography/56499/robert-williams
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=1942045222
+- url: https://www.scstatehouse.gov/member.php?chamber=H
+- url: https://www.scstatehouse.gov/member.php?code=1942045222
+extras:
+  Home Address Home Phone: (843) 395-9408
+  counties represented: Darlington & Florence Counties

@@ -1,0 +1,20 @@
+id: ocd-person/5c7bcd48-c2b2-432f-9f57-2be0d275e72c
+name: Tommy Merritt
+given_name: Tommy
+family_name: Merritt
+image: http://www.legdir.legis.state.tx.us/FlashCardDocs/images/House/small/A3840.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '7'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000313
+- scheme: legacy_openstates
+  identifier: TXL000131
+sources:
+- url: http://www.legdir.legis.state.tx.us/MemberInfo.aspx?Chamber=H&Code=A3840

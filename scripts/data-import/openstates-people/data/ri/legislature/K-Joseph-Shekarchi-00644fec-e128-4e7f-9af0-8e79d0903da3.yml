@@ -1,0 +1,49 @@
+id: ocd-person/00644fec-e128-4e7f-9af0-8e79d0903da3
+name: Joe Shekarchi
+given_name: Joe
+family_name: Shekarchi
+birth_date: 1962-05-17
+gender: Male
+email: rep-shekarchi@rilegislature.gov
+image: http://www.rilegislature.gov/representatives/pictures/shekarchi.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '23'
+offices:
+- classification: capitol
+  address: Room 323, 82 Smith St., Providence, RI 02903
+  voice: 401-222-2447
+links:
+- url: https://joeshekarchi.com/
+- url: https://www.rilegislature.gov/representatives/carson/default.aspx
+- url: https://www.rilegislature.gov/representatives/shekarchi/default.aspx
+- url: https://www.rilegislature.gov/representatives/shekarchi/Pages/Biography.aspx
+- url: https://www.rilin.state.ri.us/representatives/carson/
+other_names:
+- name: J. Shekarchi
+- name: K. Joseph Shekarchi
+- name: K.J. Shekarchi
+- name: Shekarchi, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000126
+sources:
+- url: https://ballotpedia.org/K._Joseph_Shekarchi
+- url: https://en.wikipedia.org/wiki/K._Joseph_Shekarchi
+- url: https://joeshekarchi.com
+- url: https://joeshekarchi.com/meet-joe
+- url: https://justfacts.votesmart.org/candidate/biography/142089/k-joseph-shekarchi
+- url: https://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: https://www.linkedin.com/in/joe-shekarchi-874b2aa
+- url: https://www.rilegislature.gov/representatives/shekarchi/default.aspx
+- url: https://www.rilegislature.gov/representatives/shekarchi/Pages/Biography.aspx
+  note: Image Source
+- url: https://www.rilegislature.gov/SiteAssets/MailingLists/Representatives.xls
+- url: https://www.rilegislature.gov/SiteAssets/Representatives.xls
+  note: Detail Excel Source
+- url: https://www.rilin.state.ri.us/representatives/shekarchi
+extras:
+  City/Town Represented: Warwick

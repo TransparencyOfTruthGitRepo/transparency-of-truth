@@ -1,0 +1,50 @@
+id: ocd-person/3d1f7d21-9a20-4245-b51f-03ca0d2b14eb
+name: Jose Cambrils
+given_name: Jose
+family_name: Cambrils
+gender: Male
+email: jose4nh@comcast.net
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/93925.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 4
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 4
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 9
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9925
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9925
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9925
+  note: member detail page
+other_names:
+- name: Cambrils, J.
+- name: J. Cambrils
+- name: Jose E. Cambrils
+sources:
+- url: https://ballotpedia.org/Jose_Cambrils
+- url: https://en.wikipedia.org/wiki/Jose_Cambrils
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9925
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9925
+- url: https://justfacts.votesmart.org/candidate/biography/185500/jose-cambrils
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9925
+extras:
+  county: Merrimack
+  elected status: Incumbent
+  gender code: M

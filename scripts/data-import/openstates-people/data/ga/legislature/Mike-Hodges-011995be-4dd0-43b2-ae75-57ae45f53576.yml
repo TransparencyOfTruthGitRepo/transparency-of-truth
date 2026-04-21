@@ -1,0 +1,54 @@
+id: ocd-person/011995be-4dd0-43b2-ae75-57ae45f53576
+name: Mike Hodges
+given_name: Mike
+family_name: Hodges
+gender: Male
+email: mike.hodges@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/hodges-mike-5013.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '3'
+offices:
+- classification: capitol
+  address: Room 305-A, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-7127
+- classification: district
+  address: 3410 Cypress Mill Road Box 101, Brunswick, GA 31525
+  voice: 912-464-1989
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/5013
+- url: https://www.legis.ga.gov/members/senate/5013?session=1031
+  note: HTML member detail page
+- url: https://www.legis.ga.gov/members/senate/5013?session=1032
+other_names:
+- name: HODGES, 3RD
+- name: Hodges, M.
+- name: M. Hodges
+- name: M.D. Hodges
+- name: Michael D. Hodges
+- name: Mike Hodges
+sources:
+- url: https://ballotpedia.org/Mike_Hodges
+- url: https://en.wikipedia.org/wiki/Mike_Hodges_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/203298/mike-hodges
+- url: https://www.legis.ga.gov/api/members/detail/5013?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/5013
+- url: https://www.legis.ga.gov/members/senate/5013?session=1031
+- url: https://www.linkedin.com/in/michael-d-hodges-176929111
+extras:
+  residence: Brunswick
+  city: Brunswick
+  georgia_id: 5013
+  staff: Brenita Simmons
+  staff email: brenita.simmons@senate.ga.gov
+  title: Governor's Floor Leader

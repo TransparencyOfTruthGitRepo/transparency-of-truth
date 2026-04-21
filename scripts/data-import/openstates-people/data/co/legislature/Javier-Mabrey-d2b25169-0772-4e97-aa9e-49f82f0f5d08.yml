@@ -1,0 +1,36 @@
+id: ocd-person/d2b25169-0772-4e97-aa9e-49f82f0f5d08
+name: Javier Mabrey
+given_name: Javier
+family_name: Mabrey
+gender: Male
+email: javier.mabrey.house@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_mabrey%2Cjavier-.jpg?itok=nfzx9teU
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '1'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-2966
+links:
+- url: https://leg.colorado.gov/legislators/javier-mabrey
+  note: homepage
+other_names:
+- name: J. Mabrey
+- name: Mabrey J.
+- name: Mabrey, J.
+sources:
+- url: https://ballotpedia.org/Javier_Mabrey
+- url: https://justfacts.votesmart.org/candidate/biography/206129/javier-mabrey
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/javier-mabrey
+- url: https://www.linkedin.com/in/javier-mabrey-70571162
+extras:
+  counties represented:
+  - Denver
+  - Jefferson

@@ -1,0 +1,56 @@
+id: ocd-person/807f5a72-fe61-460c-86a3-c65a6b9eaca1
+name: Karen Camper
+given_name: Karen
+family_name: Camper
+birth_date: 1958-01-15
+gender: Female
+email: rep.karen.camper@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h87.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2008-03-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '87'
+offices:
+- classification: capitol
+  address: Room 664, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-1898
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H87
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h87.html
+other_names:
+- name: Camper, K
+- name: Camper, K.
+- name: K. Camper
+- name: K.D. Camper
+- name: Karen D. Camper
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000042
+- scheme: legacy_openstates
+  identifier: TNL000172
+- scheme: legacy_openstates
+  identifier: TNL000338
+sources:
+- url: https://ballotpedia.org/Karen_Camper
+- url: https://en.wikipedia.org/wiki/Karen_Camper
+- url: https://justfacts.votesmart.org/candidate/biography/104685/karen-camper
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H87
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h87.html
+extras:
+  office: 664 CHB
+  personal info:
+  - Born January 15, 1958
+  - Divorced, 1 child - Bruce, Jr.
+  - Baptist
+  - Chief Warrant Officer Three, US Army Retired
+  - Attended University of Tennessee at Knoxville
+  - 'Graduate: Primary, Basic and Advanced Leadership Development Courses, University
+    of the State of New York, Albany, NY'

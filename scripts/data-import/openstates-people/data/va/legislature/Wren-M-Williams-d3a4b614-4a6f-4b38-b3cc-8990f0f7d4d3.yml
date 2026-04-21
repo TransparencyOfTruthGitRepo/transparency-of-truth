@@ -1,0 +1,48 @@
+id: ocd-person/d3a4b614-4a6f-4b38-b3cc-8990f0f7d4d3
+name: Wren Williams
+given_name: Wren
+family_name: Williams
+gender: Male
+email: delwwilliams@house.virginia.gov
+image: https://memdata.virginiageneralassembly.gov/images/display_image/H0348
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '47'
+- start_date: 2022-01-12
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '9'
+offices:
+- classification: capitol
+  address: Room 705, General Assembly Building 201 N. 9th St., Richmond, VA 23219
+  voice: 804-698-1047
+- classification: district-mail
+  address: P.O. Box 396, Stuart, VA 24171
+  voice: 276-200-4089
+links:
+- url: https://house.vga.virginia.gov/members/H0348
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H348
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H348
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0348
+other_names:
+- name: W. Williams
+- name: W.M. Williams
+- name: Williams, W.
+- name: Williams, Wren M.
+- name: Wren M. Williams
+- name: Wren Montgomery Williams
+sources:
+- url: https://ballotpedia.org/Wren_Williams
+- url: https://en.wikipedia.org/wiki/Wren_Williams
+- url: https://house.vga.virginia.gov/members/H0348
+- url: https://justfacts.votesmart.org/candidate/biography/195947/wren-williams
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H348
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H348
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0348
+- url: https://www.linkedin.com/in/wrenmwilliams
+- url: https://www.wrenwilliamsva.com

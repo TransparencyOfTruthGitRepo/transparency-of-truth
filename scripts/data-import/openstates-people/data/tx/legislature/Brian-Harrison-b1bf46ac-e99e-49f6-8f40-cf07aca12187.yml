@@ -1,0 +1,35 @@
+id: ocd-person/b1bf46ac-e99e-49f6-8f40-cf07aca12187
+name: Brian Harrison
+given_name: Brian
+family_name: Harrison
+gender: Male
+email: brian.harrison@house.texas.gov
+image: https://house.texas.gov/images/members/4085.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2021-10-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '10'
+offices:
+- classification: capitol
+  address: Room E1.414, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0516
+- classification: district
+  address: 100 N. College St. Suite 306, Waxahachie, TX 75165
+  voice: 972-923-0264
+links:
+- url: https://house.texas.gov/members/4085
+- url: https://house.texas.gov/members/member-page/?district=10
+other_names:
+- name: B. Harrison
+- name: B.E. Harrison
+- name: Harrison, B.
+- name: Harrison, Brian
+sources:
+- url: https://ballotpedia.org/Brian_E._Harrison_(Texas)
+- url: https://en.wikipedia.org/wiki/Brian_Harrison_(government_official)
+- url: https://house.texas.gov/members/4085
+- url: https://house.texas.gov/members/4085/biography
+- url: https://house.texas.gov/members/member-page/?district=10

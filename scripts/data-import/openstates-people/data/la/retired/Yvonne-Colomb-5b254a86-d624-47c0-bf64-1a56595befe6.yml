@@ -1,0 +1,18 @@
+id: ocd-person/5b254a86-d624-47c0-bf64-1a56595befe6
+name: Yvonne Colomb
+given_name: Yvonne
+family_name: Colomb
+party:
+- name: Democratic
+roles:
+- end_date: '2020-01-13'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '14'
+links:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=14
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000824
+sources:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=14

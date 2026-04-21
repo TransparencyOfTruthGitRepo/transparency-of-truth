@@ -1,0 +1,24 @@
+id: ocd-person/ac388e7d-1b9e-442a-89c0-566b1b9d1946
+name: "Jos\xE9 Javier Rodr\xEDguez"
+given_name: "Jos\xE9"
+family_name: "Rodr\xEDguez"
+middle_name: Javier
+image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4563.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '112'
+links:
+- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4563&LegislativeTermId=86
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: FLL000295
+- scheme: legacy_openstates
+  identifier: FLL000327
+sources:
+- url: http://www.flhouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4563&LegislativeTermId=86

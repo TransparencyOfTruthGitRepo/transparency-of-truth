@@ -1,0 +1,31 @@
+id: ocd-person/ef7b8c3c-3cd0-4f95-8b4f-9e4daa061479
+name: Kara Warme
+given_name: Kara
+family_name: Warme
+gender: Female
+email: kara.warme@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37462
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '26'
+offices:
+- classification: capitol
+  address: 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3371
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37462
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37462
+other_names:
+- name: K. Warme
+- name: K.D. Warme
+- name: Warme, K.
+sources:
+- url: https://ballotpedia.org/Kara_Warme
+- url: https://justfacts.votesmart.org/candidate/biography/215553/kara-warme
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37462
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37462
+- url: https://www.linkedin.com/in/kara-warme-a82b512b

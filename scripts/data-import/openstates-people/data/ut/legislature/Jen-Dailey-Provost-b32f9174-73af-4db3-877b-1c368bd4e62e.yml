@@ -1,0 +1,70 @@
+id: ocd-person/b32f9174-73af-4db3-877b-1c368bd4e62e
+name: Jen Dailey-Provost
+given_name: Jen
+family_name: Dailey-Provost
+gender: Female
+email: jdprovost@le.utah.gov
+image: https://le.utah.gov/images/legislator/DAILEJ.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '22'
+- start_date: 2019-01-01
+  end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '24'
+offices:
+- classification: capitol
+  address: P.O. Box 145030 350 N. State St., Suite 350, Salt Lake City, UT 84114
+  voice: 801-538-1029
+- classification: district
+  address: UT
+  voice: 385-321-7827
+links:
+- url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414811
+  note: finance report
+- url: https://house.utah.gov/rep/DAILEJ
+- url: https://house.utah.gov/rep/DAILEJ/
+  note: homepage
+- url: https://house.utleg.gov/rep/DAILEJ/
+- url: https://le.utah.gov/asp/billsintro/RepResults.asp?Listbox3=DAILEJ
+  note: legislation
+- url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=DAILEJ
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2020/House_Dist24.pdf
+  note: district demographics
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/House_Dist22.pdf
+  note: district demographics
+- url: https://le.utah.gov/house2/CofI/COFIDAILEJ.pdf
+  note: conflict of interest 1
+- url: https://le.utah.gov/house2/CofI/COFIDAILEJ1.pdf
+  note: conflict of interest 0
+other_names:
+- name: Dailey-Provost, J.
+- name: Dailey-Provost, Jen
+- name: Dailey-Provost, Jennifer
+- name: J. Dailey-Provost
+- name: Jen Dailey-Provost
+- name: Jennifer Dailey-Provost
+sources:
+- url: https://ballotpedia.org/Jen_Dailey-Provost
+- url: https://en.wikipedia.org/wiki/Jennifer_Dailey-Provost
+- url: https://house.utah.gov/rep/DAILEJ
+- url: https://house.utah.gov/rep/DAILEJ/
+- url: https://house.utleg.gov/rep/DAILEJ
+- url: https://house.utleg.gov/rep/DAILEJ/
+- url: https://justfacts.votesmart.org/candidate/biography/182159/jen-dailey-provost
+- url: https://le.utah.gov/data/legislators.json
+- url: https://www.linkedin.com/in/jenniferdaileyprovost
+extras:
+  service start: January 1, 2019
+  profession: Nonprofit Executive
+  education: B.S., Marketing, University of Utah; M.B.A., Westminster College
+  counties represented:
+  - Salt Lake
+  cell phone: 385-321-7827
+  title: Minority Whip

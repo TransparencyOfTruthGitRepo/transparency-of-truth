@@ -1,0 +1,27 @@
+id: ocd-person/ba758446-c582-49fb-9ab5-bd4407ef48f1
+name: Brian Clem
+given_name: Brian
+family_name: Clem
+email: Rep.BrianClem@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/house/MemberPhotos/clem.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2021-12-01'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '21'
+  end_reason: Resigned to care for mother
+links:
+- url: https://www.oregonlegislature.gov/clem
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000042
+- scheme: legacy_openstates
+  identifier: ORL000135
+- scheme: legacy_openstates
+  identifier: ORL000213
+- scheme: legacy_openstates
+  identifier: ORL000331
+sources:
+- url: https://www.oregonlegislature.gov/clem

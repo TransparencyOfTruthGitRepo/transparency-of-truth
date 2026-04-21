@@ -1,0 +1,51 @@
+id: ocd-person/4edb53d2-f5a1-447d-ac37-36da75a7a4ed
+name: Kelly Hastings
+given_name: Kelly
+family_name: Hastings
+birth_date: 1961-06-16
+gender: Male
+email: kelly.hastings@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/618/Low
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '110'
+offices:
+- classification: capitol
+  address: Room 2208, North Carolina Legislative Building 16 W. Jones St., Raleigh,
+    NC 27601
+  voice: 919-715-2002
+- classification: district-mail
+  address: P.O. Box 488, Cherryville, NC 28021
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/618
+- url: https://www.ncleg.gov/Members/Committees/H/618
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/618
+- url: https://www.ncleg.gov/Members/Votes/H/618
+other_names:
+- name: Hastings, K.
+- name: K. Hastings
+- name: K.E. Hastings
+- name: Kelly E. Hastings
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000209
+sources:
+- url: https://ballotpedia.org/Kelly_Hastings
+- url: https://en.wikipedia.org/wiki/Kelly_Hastings
+- url: https://justfacts.votesmart.org/candidate/biography/103078/kelly-hastings
+- url: https://www.linkedin.com/in/kelly-hastings-95421719
+- url: https://www.ncleg.gov/Members/Biography/H/618
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 16 West Jones Street, Rm. 2208; Raleigh, NC 27601-1096
+  main phone: 704-473-3468
+  terms in senate: 7 (0 in Senate)
+  represented counties: Cleveland, Gaston
+  legislative assistant: Jan Copeland
+  legislative assistant email: Jan.Copeland@ncleg.gov
+  occupation: Realtor
+  military experience: US Marine Corps and Reserve

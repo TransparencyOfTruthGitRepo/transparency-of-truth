@@ -1,0 +1,50 @@
+id: ocd-person/c674060b-4568-43fa-b72d-0921f4876713
+name: Peter Durant
+given_name: Peter
+family_name: Durant
+gender: Male
+email: peter.durant@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/PJD0.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-11-29
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Worcester and Hampshire
+- start_date: 2011-05-25
+  end_date: 2023-11-29
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Worcester and Hampshire
+- type: lower
+  start_date: 2011-05-10
+  end_date: 2023-11-28
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 6th Worcester
+offices:
+- classification: capitol
+  address: Room 520, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1540
+links:
+- url: https://malegislature.gov/Legislators/Profile/PJD0
+other_names:
+- name: Durant, P.
+- name: P. Durant
+- name: P.J. Durant
+- name: Peter J. Durant
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/db47013a-7653-4b44-8e11-9dbe4b85fec2
+sources:
+- url: https://ballotpedia.org/Peter_Durant
+- url: https://en.wikipedia.org/wiki/Peter_Durant
+- url: https://justfacts.votesmart.org/candidate/biography/124927/peter-durant
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/PJD0
+- url: https://malegislature.gov/Legislators/Profile/PJD0
+- url: https://www.linkedin.com/in/peter-durant-21904a35
+extras:
+  leadership position: Assistant Minority Leader
+  member code: PJD0

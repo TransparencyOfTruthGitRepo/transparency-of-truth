@@ -1,0 +1,20 @@
+id: ocd-person/1f7d4d16-4ce0-4cab-b8ab-c0e1066363b8
+name: Rodney A. Pyles
+given_name: Rodney
+family_name: Pyles
+email: rodney.pyles@wvhouse.gov
+image: http://www.legis.state.wv.us/images/members/2019/house/pyles_rodney.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '51'
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Pyles
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000364
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Pyles

@@ -1,0 +1,77 @@
+id: ocd-organization/db3097b2-8317-4de9-9d55-e95f9c739ec9
+jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+classification: committee
+name: Public Education
+chamber: lower
+sources:
+- url: https://capitol.texas.gov/Committees/CommitteesMbrs.aspx?Chamber=H
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C400
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C400
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C400
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C400
+- url: https://house.texas.gov/committees/committee/400
+- url: https://house.texas.gov/committees/committee/?committee=C400
+links:
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C400
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C400
+  note: homepage
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C400
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C400
+- url: https://house.texas.gov/committees/committee/400
+- url: https://house.texas.gov/committees/committee/?committee=C400
+members:
+- name: Brad Buckley
+  role: chair
+  person_id: ocd-person/e3533cbc-f3ab-46bc-a591-c68657f82527
+- name: Diego Bernal
+  role: vice chair
+  person_id: ocd-person/7847295c-78f3-4f8c-adb6-3536fca2782e
+- name: Alan Schoolcraft
+  role: member
+  person_id: ocd-person/1493b76f-b77d-48db-9ecd-26d0e2dfc843
+- name: Alma Allen
+  role: member
+  person_id: ocd-person/2fd6fcd3-9676-42a4-b879-e317576ff18f
+- name: Charles Cunningham
+  role: member
+  person_id: ocd-person/41f4a5e2-a2d5-4e54-aae3-9c99f9ea5eba
+- name: Gina Hinojosa
+  role: member
+  person_id: ocd-person/1f9ed42e-27de-4cd1-b2bf-f890ee33cb49
+- name: Harold Dutton
+  role: member
+  person_id: ocd-person/85d064ed-6f3d-4a81-93ee-1baf49c7f2c3
+- name: Helen Kerwin
+  role: member
+  person_id: ocd-person/92b45572-c15c-4270-8356-6c3db1846c7b
+- name: James Frank
+  role: member
+  person_id: ocd-person/6cbb02e6-5876-47a1-86aa-98566fe0073a
+- name: James Talarico
+  role: member
+  person_id: ocd-person/5e4e2fd2-e8a9-46f3-aab5-ffbc782afa8b
+- name: Jeff Leach
+  role: member
+  person_id: ocd-person/40a678a3-7d85-486e-bf38-5d070142aa83
+- name: John Bryant
+  role: member
+  person_id: ocd-person/4e07d8dc-f5b5-47e7-a1de-83f36d3b734f
+- name: Terri Leo-Wilson
+  role: member
+  person_id: ocd-person/cee6cb7a-8d88-4c34-be27-dd10d1f31768
+- name: Todd Hunter
+  role: member
+  person_id: ocd-person/9447575b-d8a1-45dd-bd68-77b12fe347ab
+- name: Trent Ashby
+  role: member
+  person_id: ocd-person/68f05872-16c8-4d3a-ab5f-ea667ca52b27
+other_names:
+- name: House Committee on Public Education
+- name: House Public Education
+- name: House Public Education Committee
+extras:
+  clerk: Jack Reed
+  legislature: 88(R) - 2023
+  phone: (512) 463-0804
+  appointment date: 2/8/2023
+  room: EXT E2.124

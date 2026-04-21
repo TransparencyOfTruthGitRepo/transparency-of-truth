@@ -1,0 +1,51 @@
+id: ocd-person/cf955c60-cbda-4414-9266-3d8dca3553fe
+name: Tim Fleming
+given_name: Tim
+family_name: Fleming
+birth_date: 1982-08-19
+gender: Male
+email: tim.fleming@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/fleming-tim-5046.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '114'
+offices:
+- classification: capitol
+  address: Room 504-D, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0188
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5046
+- url: https://www.legis.ga.gov/members/house/5046?session=1031
+  note: HTML member detail page
+other_names:
+- name: Fleming
+- name: FLEMING, 114TH
+- name: Fleming, T.
+- name: T. Fleming
+- name: T.K. Fleming
+sources:
+- url: https://ballotpedia.org/Tim_Fleming
+- url: https://en.wikipedia.org/wiki/Tim_Fleming_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/116385/tim-fleming
+- url: https://www.legis.ga.gov/api/members/detail/5046?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5046
+extras:
+  residence: Covington
+  city: Covington
+  georgia_id: 5046
+  birthday: August 19
+  occupation: Businessman
+  press: https://house-press.com/representative/Tim-Fleming
+  spouse: Lacey
+  staff: LaTricia Howard - Administrative Assistant
+  staff email: latricia.howard@house.ga.gov

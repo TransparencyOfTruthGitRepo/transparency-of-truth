@@ -1,0 +1,20 @@
+id: ocd-person/935f99aa-8cd1-4416-ae71-f5cb2626eb50
+name: Vickie Perea
+given_name: Vickie
+family_name: Perea
+image: http://www.nmlegis.gov/lcs/graphics/photos/HPEVI.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '50'
+links:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HPEVI
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000282
+sources:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HPEVI

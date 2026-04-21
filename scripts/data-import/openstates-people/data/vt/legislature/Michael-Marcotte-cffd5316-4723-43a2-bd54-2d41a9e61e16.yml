@@ -1,0 +1,65 @@
+id: ocd-person/cffd5316-4723-43a2-bd54-2d41a9e61e16
+name: Michael Marcotte
+given_name: Michael
+family_name: Marcotte
+birth_date: 1958-05-31
+gender: Male
+email: mmarcotte@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/Marcotte.Michael.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Orleans-Lamoille
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Orleans-Lamoille
+  start_date: 2023-01-04
+- end_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Orleans-2
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+- classification: home
+  address: 106 Private Pond Road, Newport, VT 05855
+  voice: 802-334-6302
+links:
+- url: https://legislature.vermont.gov/Documents/SmallMaps/ORL-2.pdf
+  note: district map
+- url: https://legislature.vermont.gov/people/single/2020/14568
+- url: https://legislature.vermont.gov/people/single/2022/14568
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2024/14568
+- url: https://legislature.vermont.gov/people/single/2026/14568
+other_names:
+- name: M. Marcotte
+- name: M.J. Marcotte
+- name: Marcotte, M.
+- name: Michael J. Marcotte
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000113
+- scheme: legacy_openstates
+  identifier: VTL000650
+- scheme: legacy_openstates
+  identifier: VTL000470
+- scheme: legacy_openstates
+  identifier: VTL000753
+sources:
+- url: https://ballotpedia.org/Michael_Marcotte_(Vermont)
+- url: https://en.wikipedia.org/wiki/Michael_Marcotte
+- url: https://justfacts.votesmart.org/candidate/biography/51285/michael-marcotte
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/single/2020/14568
+- url: https://legislature.vermont.gov/people/single/2022/14568
+- url: https://legislature.vermont.gov/people/single/2024/14568
+- url: https://legislature.vermont.gov/people/single/2026/14568
+extras:
+  state email: mmarcotte@leg.state.vt.us

@@ -1,0 +1,45 @@
+id: ocd-person/9564298b-dc55-4037-8205-5eca1c2063dc
+name: Gail Armstrong
+given_name: Gail
+family_name: Armstrong
+gender: Female
+email: gail@gailfornewmexico.com
+image: https://www.nmlegis.gov/Images/Legislators/House/HARMG.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '49'
+offices:
+- classification: capitol
+  address: State Capitol Room 125C, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4758
+- classification: district-mail
+  address: P.O. Box 326, Magdalena, NM 87825
+  voice: 505-269-2364
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HARMG
+  note: homepage
+other_names:
+- name: Armstrong, G.
+- name: Armstrong, Gail
+- name: G. Armstrong
+ids:
+  twitter: gail4nm
+  instagram: gail4nm
+  facebook: Gail4NM
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000434
+sources:
+- url: https://ballotpedia.org/Gail_Armstrong
+- url: https://en.wikipedia.org/wiki/Gail_Armstrong_(politician)
+- url: https://www.linkedin.com/in/gail-armstrong-03029b63
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HARMG
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Catron, Sierra, Socorro & Valencia
+  service: Representative since 2017

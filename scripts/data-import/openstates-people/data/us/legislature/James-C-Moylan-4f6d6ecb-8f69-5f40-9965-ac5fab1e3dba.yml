@@ -1,0 +1,62 @@
+id: ocd-person/4f6d6ecb-8f69-5f40-9965-ac5fab1e3dba
+name: Jim Moylan
+given_name: Jim
+family_name: Moylan
+birth_date: 1962-07-18
+gender: Male
+email: https://moylan.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/M001219.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GU-AL
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GU-AL
+offices:
+- classification: capitol
+  address: 228 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-1188
+- classification: district
+  address: 330 Hernan Cortez Ave. Suite 300, Hagatna, GU 96910
+  voice: 671-922-6673
+links:
+- url: https://moylan.house.gov
+  note: website
+- url: https://moylan.house.gov/
+other_names:
+- name: J. Moylan
+- name: J.C. Moylan
+- name: James C. Moylan
+- name: Moylan, J.
+other_identifiers:
+- scheme: ballotpedia
+  identifier: James Moylan
+- scheme: bioguide
+  identifier: M001219
+- scheme: fec
+  identifier: H2GU01031
+- scheme: google_entity_id
+  identifier: kg:/g/11kl4fdd3q
+- scheme: govtrack
+  identifier: '456896'
+- scheme: opensecrets
+  identifier: N00050604
+- scheme: pictorial
+  identifier: '13024'
+- scheme: wikidata
+  identifier: Q114108969
+sources:
+- url: https://ballotpedia.org/James_Moylan
+- url: https://en.wikipedia.org/wiki/James_Moylan
+- url: https://justfacts.votesmart.org/candidate/biography/209781/james-moylan
+- url: https://moylan.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/james_jim_moylan/456896

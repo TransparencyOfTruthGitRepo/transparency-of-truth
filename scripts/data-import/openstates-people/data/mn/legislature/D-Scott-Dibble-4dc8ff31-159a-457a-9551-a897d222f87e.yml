@@ -1,0 +1,42 @@
+id: ocd-person/4dc8ff31-159a-457a-9551-a897d222f87e
+name: Scott Dibble
+given_name: Scott
+family_name: Dibble
+birth_date: 1965-08-27
+gender: Male
+email: sen.scott.dibble@senate.mn
+image: https://www.senate.mn/graphics/61Dibble.jpg
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2013-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '61'
+offices:
+- classification: capitol
+  address: Room 3107, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-4191
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1010
+other_names:
+- name: D. Scott Dibble
+- name: D.S. Dibble
+- name: David Scott Dibble
+- name: Dibble, S.
+- name: S. Dibble
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000011
+- scheme: legacy_openstates
+  identifier: MNL000504
+sources:
+- url: https://ballotpedia.org/Scott_Dibble
+- url: https://en.wikipedia.org/wiki/Scott_Dibble_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/54751/scott-dibble
+- url: https://www.linkedin.com/in/scott-dibble-b352585
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/index.php
+- url: https://www.senate.mn/members/list.csv
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1010

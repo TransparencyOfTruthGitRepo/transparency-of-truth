@@ -1,0 +1,34 @@
+id: ocd-person/89e814c4-6091-4156-b3b5-42a7980f8b4d
+name: Shelley Luther
+given_name: Shelley
+family_name: Luther
+birth_date: 1973-05-10
+gender: Female
+email: shelley.luther@house.texas.gov
+image: https://www.house.texas.gov/images/members/4645.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '62'
+offices:
+- classification: capitol
+  address: Room E2.404, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0297
+- classification: district
+  address: 'Room #201, 100 N. Travis St., Sherman, TX 75090'
+links:
+- url: https://www.house.texas.gov/members/62
+other_names:
+- name: Luther, S.
+- name: Luther, Shelley
+- name: S. Luther
+sources:
+- url: https://ballotpedia.org/Shelley_Luther
+- url: https://en.wikipedia.org/wiki/Shelley_Luther
+- url: https://justfacts.votesmart.org/candidate/biography/195312/shelley-luther
+- url: https://www.house.texas.gov/members/4645/biography
+- url: https://www.house.texas.gov/members/62
+- url: https://www.linkedin.com/in/shelley-luther-879b2420

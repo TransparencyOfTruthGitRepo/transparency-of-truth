@@ -1,0 +1,42 @@
+id: ocd-person/5226ebdd-0710-49da-b446-61fac19765ce
+name: Lisa Cutter
+given_name: Lisa
+family_name: Cutter
+birth_date: 1963-10-14
+gender: Female
+email: lisa.cutter.senate@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_cutter%2Clisa.jpg?itok=9pY76BLB
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '20'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '25'
+offices:
+- classification: capitol
+  address: State Capitol Room 346, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-4859
+links:
+- url: https://leg.colorado.gov/legislators/lisa-cutter
+  note: homepage
+other_names:
+- name: Cutter L.
+- name: Cutter, L.
+- name: L. Cutter
+- name: L.A. Cutter
+sources:
+- url: https://ballotpedia.org/Lisa_Cutter
+- url: https://en.wikipedia.org/wiki/Lisa_Cutter
+- url: https://justfacts.votesmart.org/candidate/biography/181764/lisa-cutter
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/lisa-cutter
+- url: https://www.linkedin.com/in/lisa-cutter-8525413
+extras:
+  counties represented:
+  - Jefferson

@@ -1,0 +1,44 @@
+id: ocd-person/cdc9f705-514e-4445-ac17-9aeac8f67e97
+name: Bob Peterson
+given_name: Bob
+family_name: Peterson
+birth_date: 1962-03-15
+gender: Male
+email: rep91@ohiohouse.gov
+image: https://www.legislature.ohio.gov/assets/people/bob-peterson/headshots/thumbnails/medium/bob-peterson-november-2023-headshot_medium.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '91'
+- end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '17'
+offices:
+- classification: capitol
+  address: 77 S. High St. 11th Floor, Columbus, OH 43215
+  voice: 614-466-3506
+links:
+- url: https://ohiohouse.gov/members/bob-peterson
+- url: https://www.ohiosenate.gov/senators/peterson
+other_names:
+- name: B. Peterson
+- name: Peterson, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000118
+- scheme: legacy_openstates
+  identifier: OHL000159
+sources:
+- url: https://ballotpedia.org/Bob_Peterson_(Ohio)
+- url: https://en.wikipedia.org/wiki/Bob_Peterson_(Ohio_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/95755/bob-peterson
+- url: https://ohiohouse.gov/members/bob-peterson
+  note: member details page
+- url: https://www.legislature.ohio.gov/legislators/house-directory
+  note: member list page
+- url: https://www.linkedin.com/in/bob-peterson-80952b12
+- url: https://www.ohiosenate.gov/senators

@@ -1,0 +1,18 @@
+id: ocd-person/10bec173-c326-4270-a4cd-178bb4c00b6f
+name: Timothy B. LeGeyt
+given_name: Timothy B.
+family_name: LeGeyt
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '17'
+links:
+- url: http://www.cthousegop.com/LeGeyt/main/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000053
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

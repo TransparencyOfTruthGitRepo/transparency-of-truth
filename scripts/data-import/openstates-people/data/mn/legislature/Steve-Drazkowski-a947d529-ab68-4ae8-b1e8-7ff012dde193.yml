@@ -1,0 +1,47 @@
+id: ocd-person/a947d529-ab68-4ae8-b1e8-7ff012dde193
+name: Steve Drazkowski
+given_name: Steve
+family_name: Drazkowski
+birth_date: 1964-11-27
+gender: Male
+email: sen.steve.drazkowski@senate.mn
+image: https://www.senate.mn/graphics/20Drazkowski.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '20'
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 21B
+offices:
+- classification: capitol
+  address: Room 2411, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-5612
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1258
+other_names:
+- name: Drazkowski, S.
+- name: S. Drazkowski
+- name: S.J. Drazkowski
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000123
+- scheme: legacy_openstates
+  identifier: MNL000255
+- scheme: legacy_openstates
+  identifier: MNL000396
+- scheme: legacy_openstates
+  identifier: MNL000645
+sources:
+- url: https://ballotpedia.org/Steve_Drazkowski
+- url: https://en.wikipedia.org/wiki/Steve_Drazkowski
+- url: https://justfacts.votesmart.org/candidate/biography/65586/steve-drazkowski
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.linkedin.com/in/stevedrazkowski
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1258

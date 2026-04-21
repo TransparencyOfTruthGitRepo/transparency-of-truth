@@ -1,0 +1,31 @@
+id: ocd-person/3e9d09bd-1271-4ed3-8bb5-0ecaac81454f
+name: Verla Insko
+given_name: Verla
+family_name: Insko
+email: Verla.Insko@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/46/Low
+party:
+- name: Democratic
+roles:
+- end_date: '2022-05-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '56'
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/46
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/46
+- url: https://www.ncleg.gov/Members/Votes/H/46
+- url: https://www.ncleg.gov/Members/Committees/H/46
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000119
+sources:
+- url: https://www.ncleg.gov/Members/Biography/H/46
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 300 N. Salisbury Street, Rm. 503; Raleigh, NC 27603-5925
+  terms in senate: 13 (0 in Senate)
+  represented counties: Orange
+  legislative assistant: Young Bae
+  legislative assistant email: Young.Bae@ncleg.gov
+  occupation: Retired Health Program Administrator

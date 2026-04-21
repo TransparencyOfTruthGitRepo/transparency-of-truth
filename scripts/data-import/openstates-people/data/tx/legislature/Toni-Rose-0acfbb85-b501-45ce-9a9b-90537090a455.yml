@@ -1,0 +1,44 @@
+id: ocd-person/0acfbb85-b501-45ce-9a9b-90537090a455
+name: Toni Rose
+given_name: Toni
+family_name: Rose
+birth_date: 1968-02-03
+gender: Female
+email: toni.rose@house.texas.gov
+image: https://house.texas.gov/images/members/2555.jpg?v=3
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '110'
+offices:
+- classification: capitol
+  address: Room 4N.5, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0664
+- classification: district
+  address: 12450 Elam Road, Balch Springs, TX 75180
+- classification: district
+  address: 3155 S. Lancaster Road Suite 220, Dallas, TX 75216
+  voice: 214-371-3300
+links:
+- url: https://house.texas.gov/members/2555
+- url: https://house.texas.gov/members/member-page/?district=110
+other_names:
+- name: Rose, T.
+- name: Rose, Toni
+- name: T. Rose
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000458
+- scheme: legacy_openstates
+  identifier: TXL000642
+sources:
+- url: https://ballotpedia.org/Toni_Rose
+- url: https://en.wikipedia.org/wiki/Toni_Rose_(politician)
+- url: https://house.texas.gov/members/2555
+- url: https://house.texas.gov/members/2555/biography
+- url: https://house.texas.gov/members/member-page/?district=110
+- url: https://justfacts.votesmart.org/candidate/biography/137784/toni-rose
+- url: https://www.linkedin.com/in/toni-rose-3a80b99

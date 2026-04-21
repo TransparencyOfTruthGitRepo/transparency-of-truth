@@ -1,0 +1,33 @@
+id: ocd-person/13a851e4-7ecb-4609-bd19-3bd4ff7fbc1c
+name: Keith Marple
+given_name: Keith
+family_name: Marple
+gender: Male
+email: keith.marple@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/marple_keith.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '69'
+offices:
+- classification: capitol
+  address: State Capitol Room 204E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3141
+- classification: district
+  address: 4069 Johnstown Road, Lost Creek, WV 26385
+  voice: 304-622-8492
+links:
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Marple
+other_names:
+- name: K. Marple
+- name: Marple, K
+- name: Marple, K.
+sources:
+- url: https://ballotpedia.org/Keith_Marple
+- url: https://en.wikipedia.org/wiki/Keith_Marple
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Marple
+- url: https://www.wvlegislature.gov/House/roster.cfm

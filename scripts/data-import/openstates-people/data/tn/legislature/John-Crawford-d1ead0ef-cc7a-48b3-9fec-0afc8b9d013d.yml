@@ -1,0 +1,53 @@
+id: ocd-person/d1ead0ef-cc7a-48b3-9fec-0afc8b9d013d
+name: John Crawford
+given_name: John
+family_name: Crawford
+birth_date: 1967-11-29
+gender: Male
+email: rep.john.crawford@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '1'
+offices:
+- classification: capitol
+  address: Room 540, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-7623
+links:
+- url: https://tnhousegop.org/members/representative-john-crawford/
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H1
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h1.html
+other_names:
+- name: Crawford, J
+- name: Crawford, J.
+- name: J. Crawford
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000479
+sources:
+- url: https://ballotpedia.org/John_Crawford_(Tennessee)
+- url: https://en.wikipedia.org/wiki/John_Crawford_(Tennessee_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/66050/john-crawford
+- url: https://tnhousegop.org/members/representative-john-crawford
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H1
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h1.html
+- url: https://www.linkedin.com/in/john-crawford-83335547
+extras:
+  office: 540 CHB
+  personal info:
+  - November 29, 1967
+  - Married, wife LeAnn, daughter Jessica
+  - Baptist
+  - Plaques Etc., Owner
+  - Able Printers, CFO
+  - East Tennessee State University, Studied Business and Psychology
+  - Kingsport Christian School

@@ -1,0 +1,20 @@
+id: ocd-person/8a2b89df-bf96-4f72-ac9f-879b1f798495
+name: Mark Hargrove
+given_name: Mark
+family_name: Hargrove
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/hargrove.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-13'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '47'
+links:
+- url: http://houserepublicans.wa.gov/Mark-Hargrove/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000083
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx

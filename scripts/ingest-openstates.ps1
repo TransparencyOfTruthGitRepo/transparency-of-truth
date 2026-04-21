@@ -120,19 +120,18 @@ foreach ($stateDir in $stateDirs) {
     }
 
     $official = [ordered]@{
-      person_id        = $personId
-      openstates_id    = "$($p.id)"
-      full_name        = $fullName
-      office_title     = $officeTitle
-      chamber          = $chamber
-      district         = $district
-      party            = $party
-      status           = "active"
-      photo_url        = $photoUrl
-      phone            = $phone
-      email            = $email
-      address          = $address
-      official_website = $officialUrl
+    source_urls: ["https://www.senate.ga.gov"]
+
+- person_id: "ga-sen-pro-tem-miller-blake"
+  full_name: "Vacant"
+  office_title: "Senate President Pro Tempore"
+  chamber: "senate"
+  party: null
+  status: "vacant"
+  phone: null
+  email: null
+  official_website: "https://www.senate.ga.gov"
+  office_page_url: "https://www.senate.ga.gov"
       twitter          = $twitter
       source_urls      = $sourceUrls
       bio_short        = $bioShort

@@ -1,0 +1,25 @@
+id: ocd-person/9320487b-7592-4e4c-aea1-11232676e36b
+name: Joyce Peppin
+given_name: Joyce
+family_name: Peppin
+image: https://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_34A.jpg?v=2018
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-07'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 34A
+links:
+- url: http://www.house.leg.state.mn.us/members/members.asp?id=12273
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000130
+- scheme: legacy_openstates
+  identifier: MNL000328
+- scheme: legacy_openstates
+  identifier: MNL000460
+- scheme: legacy_openstates
+  identifier: MNL000666
+sources:
+- url: http://www.house.leg.state.mn.us/members/hmem.asp

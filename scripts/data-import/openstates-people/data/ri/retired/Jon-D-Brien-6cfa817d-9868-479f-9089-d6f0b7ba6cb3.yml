@@ -1,0 +1,19 @@
+id: ocd-person/6cfa817d-9868-479f-9089-d6f0b7ba6cb3
+name: Jon D. Brien
+given_name: Jon D.
+family_name: Brien
+party:
+- name: Democratic
+roles:
+- start_date: '2012-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '50'
+links:
+- url: http://webserver.rilin.state.ri.us/Brien/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000089
+sources:
+- url: http://webserver.rilin.state.ri.us/Documents/Representatives.xls

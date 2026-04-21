@@ -1,0 +1,52 @@
+id: ocd-person/908379de-8759-4a6f-97ee-7dbcf2f32fcc
+name: Drew MacEwen
+given_name: Drew
+family_name: MacEwen
+birth_date: 1973-06-12
+gender: Male
+email: drew.macewen@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/17221.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '35'
+- start_date: 2013-01-14
+  end_date: 2023-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '35'
+offices:
+- classification: capitol
+  address: Room 321A, Irv Newhouse Building P.O. Box 40435, Olympia, WA 98504
+  voice: 360-786-7668
+links:
+- url: https://DrewMacEwen.houserepublicans.wa.gov/
+- url: https://DrewMacEwen.src.wastateleg.org/
+- url: https://drewmacewen.src.wastateleg.org/
+- url: https://houserepublicans.wa.gov/Drew-MacEwen/
+- url: https://leg.wa.gov/legislators/member/drew-macewen
+- url: https://src.wastateleg.org/drew-macewen/
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_names:
+- name: D. MacEwen
+- name: D.C. MacEwen
+- name: MacEwen, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000181
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=House
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=Senate
+- url: https://ballotpedia.org/Drew_MacEwen
+- url: https://drewmacewen.src.wastateleg.org
+- url: https://drewmacewen.src.wastateleg.org/
+- url: https://en.wikipedia.org/wiki/Drew_C._MacEwen
+- url: https://justfacts.votesmart.org/candidate/key-votes/140147/drew-macewen
+- url: https://leg.wa.gov/legislators/member/drew-macewen
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+- url: https://www.linkedin.com/in/drew-macewen-611bba19
+extras:
+  title: Assistant Minority Floor Leader

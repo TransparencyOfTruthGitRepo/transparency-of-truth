@@ -1,0 +1,37 @@
+id: ocd-person/e4ac4259-d405-4839-af31-6c409719065c
+name: Cy Aures
+given_name: Cy
+family_name: Aures
+gender: Male
+email: cyril.aures@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123156.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 13
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-715-4580
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10677
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10677
+  note: member detail page
+other_names:
+- name: Aures, C.
+- name: C. Aures
+- name: C.N. Aures
+- name: Cyril Nicholas Aures
+sources:
+- url: https://ballotpedia.org/Cyril_Aures
+- url: https://en.wikipedia.org/wiki/Cyril_Aures
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10677
+- url: https://justfacts.votesmart.org/candidate/biography/209182/cyril-aures
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10677
+extras:
+  county: Merrimack
+  elected status: new
+  gender code: M

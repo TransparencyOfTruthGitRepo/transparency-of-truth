@@ -1,0 +1,47 @@
+id: ocd-organization/0f43772d-7f39-459b-ba27-3f51e6d1ddcf
+jurisdiction: ocd-jurisdiction/country:us/state:de/government
+classification: committee
+name: Corrections
+chamber: lower
+sources:
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=585
+  note: Member list page
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=627
+- url: https://legis.delaware.gov/json/Committees/GetCommitteesByTypeId?ga=
+  note: Committee json data
+links:
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=585
+  note: homepage
+- url: https://legis.delaware.gov/CommitteeDetail?committeeId=627
+members:
+- name: Larry Lambert
+  role: chair
+  person_id: ocd-person/1e6f6e97-5c95-4351-afe2-d8843f7897bc
+- name: Frank Cooke
+  role: vice chair
+  person_id: ocd-person/0cac3293-534b-4188-93e3-37ef6cd333ae
+- name: DeShanna Neal
+  role: member
+  person_id: ocd-person/5c5f5bf8-d155-4911-8e06-eb6cc664859e
+- name: Eric Morrison
+  role: member
+  person_id: ocd-person/bfab3b33-30ff-45fc-a45f-ae796d43de68
+- name: Jesse Vanderwende
+  role: member
+  person_id: ocd-person/4932afab-9381-40d2-837f-f735d1c14b88
+- name: Mara Gorman
+  role: member
+  person_id: ocd-person/1f51da39-f7e2-4489-9307-f2121e9e8adf
+- name: Nnamdi Chukwuocha
+  role: member
+  person_id: ocd-person/fdf8cd7b-933f-469b-b1b7-119b39ba5e86
+- name: Shannon Morris
+  role: member
+  person_id: ocd-person/1952d6d2-3cd8-4a2c-b663-f16052b948c3
+- name: Valerie Giltner
+  role: member
+  person_id: ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0
+other_names:
+- name: House Committee on Corrections
+- name: House Corrections
+- name: House Corrections Committee

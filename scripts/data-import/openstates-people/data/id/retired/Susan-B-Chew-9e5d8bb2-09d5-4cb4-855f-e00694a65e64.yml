@@ -1,0 +1,25 @@
+id: ocd-person/9e5d8bb2-09d5-4cb4-855f-e00694a65e64
+name: Susan B. Chew
+given_name: Susan
+family_name: Chew
+middle_name: B.
+image: http://legislature.idaho.gov/images/Chew18.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: '17'
+links:
+- url: http://legislature.idaho.gov/house/membershipSingle.cfm?ID=18
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IDL000052
+- scheme: legacy_openstates
+  identifier: IDL000147
+- scheme: legacy_openstates
+  identifier: IDL000215
+sources:
+- url: http://legislature.idaho.gov/house/membership.cfm

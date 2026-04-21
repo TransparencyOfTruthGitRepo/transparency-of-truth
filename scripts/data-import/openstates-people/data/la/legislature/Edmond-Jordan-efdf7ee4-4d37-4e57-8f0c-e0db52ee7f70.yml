@@ -1,0 +1,47 @@
+id: ocd-person/efdf7ee4-4d37-4e57-8f0c-e0db52ee7f70
+name: Edmond Jordan
+given_name: Edmond
+family_name: Jordan
+gender: Male
+email: jordane@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep29.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2016-05-23
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '29'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 2370 Towne Center Blvd., Baton Rouge, LA 70806
+  voice: 225-925-3700
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=29
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=29
+other_names:
+- name: E. Jordan
+- name: E.D. Jordan
+- name: Jordan, E.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000844
+- scheme: legacy_openstates
+  identifier: LAL000869
+sources:
+- url: https://ballotpedia.org/Edmond_Jordan
+- url: https://en.wikipedia.org/wiki/Edmond_Jordan
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=29
+- url: https://house.louisiana.gov/H_Reps/members?ID=29
+- url: https://justfacts.votesmart.org/candidate/biography/134729/edmond-jordan
+extras:
+  legislative assistant: Tanner Colson
+  representing parishes:
+  - East Baton Rouge and West Baton Rouge
+  education: "Brusly High School; \r\nSouthern University A&M College; \r\nSouthern\
+    \ University Law Center"

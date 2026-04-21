@@ -1,0 +1,18 @@
+id: ocd-person/156dc7fb-31e4-436a-9cc0-57795ea1c285
+name: Joseph L Krawczyk
+given_name: Joseph
+family_name: Krawczyk
+middle_name: L
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Bennington-2-1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000098
+sources:
+- url: http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W

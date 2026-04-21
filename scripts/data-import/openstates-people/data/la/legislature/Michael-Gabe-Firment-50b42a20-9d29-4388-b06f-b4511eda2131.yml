@@ -1,0 +1,51 @@
+id: ocd-person/50b42a20-9d29-4388-b06f-b4511eda2131
+name: Gabe Firment
+given_name: Gabe
+family_name: Firment
+gender: Male
+email: hse022@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep22.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '22'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 181 Barron Road, Pollock, LA 71467
+  voice: 318-765-9606
+- classification: district-mail
+  address: P.O. Box 660, Pollock, LA 71467
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=22
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=22
+other_names:
+- name: Firment, G.
+- name: G. Firment
+- name: Gabe Firment
+- name: M. Firment
+- name: M.G. Firment
+- name: Michael "Gabe" Firment
+sources:
+- url: https://ballotpedia.org/Gabe_Firment
+- url: https://en.wikipedia.org/wiki/Gabe_Firment
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=22
+- url: https://house.louisiana.gov/H_Reps/members?ID=22
+- url: https://justfacts.votesmart.org/candidate/biography/186949/gabe-firment
+extras:
+  legislative assistant: Myrtle Lasyone
+  representing parishes:
+  - Grant
+  - LaSalle
+  - Natchitoches
+  - Red River
+  - and Winn
+  education: Tioga High School, 1989; Louisiana College, B.S., Public Administration,
+    1994; Louisiana Tech University, Masters, Business Administration, 1996

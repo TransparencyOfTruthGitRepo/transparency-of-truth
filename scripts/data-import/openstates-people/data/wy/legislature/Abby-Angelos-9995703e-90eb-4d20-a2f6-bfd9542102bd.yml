@@ -1,0 +1,53 @@
+id: ocd-person/9995703e-90eb-4d20-a2f6-bfd9542102bd
+name: Abby Angelos
+given_name: Abby
+family_name: Angelos
+gender: Female
+email: abby.angelos@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-AngelosAbby.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '3'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 633, Gillette, WY 82717
+links:
+- url: https://en.wikipedia.org/wiki/Abby_Angelos
+- url: https://www.wyoleg.gov/Legislators/2023/H/2091
+- url: https://www.wyoleg.gov/Legislators/2025/H/2091
+- url: https://wyoleg.gov/Legislators/2021/R/2091
+  note: homepage
+other_names:
+- name: A. Angelos
+- name: Angelos, A
+- name: Angelos, A.
+sources:
+- url: https://ballotpedia.org/Abby_Angelos
+- url: https://en.wikipedia.org/wiki/Abby_Angelos
+- url: https://justfacts.votesmart.org/candidate/biography/207662/abby-angelos
+- url: https://www.wyoleg.gov/Legislators/2023/H/2091
+- url: https://www.wyoleg.gov/Legislators/2025/H/2091
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2091
+extras:
+  county: Campbell County
+  education:
+  - schoolName: 'Wright Jr Sr High School '
+    gradYear: '1998'
+    degree: ''
+  religion: Christian
+  number of children: '3'
+  birth place: Buffalo, WY
+  occupation: "Women\u2019s Ministry Director "
+  house years: 'House:  2023-Present'
+  prior service:
+  - chamber: House
+    startYear: 2023
+    endYear: Present
+    district: ' District 03, '

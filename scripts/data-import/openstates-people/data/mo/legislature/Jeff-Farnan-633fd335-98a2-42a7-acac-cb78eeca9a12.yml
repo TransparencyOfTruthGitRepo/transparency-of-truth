@@ -1,0 +1,34 @@
+id: ocd-person/633fd335-98a2-42a7-acac-cb78eeca9a12
+name: Jeff Farnan
+given_name: Jeff
+family_name: Farnan
+gender: Male
+email: jeff.farnan@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2354
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '1'
+offices:
+- classification: capitol
+  address: Room 410-A, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-9465
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=1
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=001
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=1
+other_names:
+- name: Farnan, J.
+- name: J. Farnan
+sources:
+- url: https://ballotpedia.org/Jeff_Farnan
+- url: https://en.wikipedia.org/wiki/Jeff_Farnan
+- url: https://house.mo.gov/MemberDetails.aspx?district=1
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=001
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=1
+- url: https://justfacts.votesmart.org/candidate/biography/205673/jeff-farnan
+extras:
+  hometown: Stanberry

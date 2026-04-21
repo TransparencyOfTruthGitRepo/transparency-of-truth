@@ -1,0 +1,20 @@
+id: ocd-person/e43e2a26-4229-4672-abc7-971200f29848
+name: Robert L. Ridgeway, III
+given_name: Robert
+family_name: Ridgeway
+image: http://www.scstatehouse.gov/images/members/1553408905.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-11-08'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '64'
+links:
+- url: http://www.scstatehouse.gov/member.php?code=1553408905
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000197
+sources:
+- url: http://www.scstatehouse.gov/member.php?chamber=H
+- url: http://www.scstatehouse.gov/member.php?code=1553408905

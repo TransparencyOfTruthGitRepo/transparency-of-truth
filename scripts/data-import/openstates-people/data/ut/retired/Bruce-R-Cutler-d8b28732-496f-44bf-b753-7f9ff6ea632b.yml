@@ -1,0 +1,29 @@
+id: ocd-person/d8b28732-496f-44bf-b753-7f9ff6ea632b
+name: Bruce R. Cutler
+given_name: Bruce R.
+family_name: Cutler
+image: https://le.utah.gov/images/legislator/CUTLEBR.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '44'
+links:
+- url: http://house.utah.gov/rep/CUTLEBR
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: UTL000165
+- scheme: legacy_openstates
+  identifier: UTL000171
+sources:
+- url: http://le.utah.gov/data/legislators.json
+extras:
+  links:
+  - https://le.utah.gov/house2/CofI/COFICUTLEBR.pdf
+  - http://le.utah.gov/house2/CofI/CUTLEBR.pdf
+  - http://le.utah.gov/house2/CofI/bcutler3.pdf
+  - http://le.utah.gov/house2/CofI/bcutler2.pdf
+  - http://le.utah.gov/house2/CofI/bcutler.pdf
+  - http://www.disclosures.utah.gov/Search/PublicSearch/FolderDetails/1412491

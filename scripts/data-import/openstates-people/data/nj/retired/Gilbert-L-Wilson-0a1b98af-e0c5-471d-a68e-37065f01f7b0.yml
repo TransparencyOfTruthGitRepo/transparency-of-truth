@@ -1,0 +1,23 @@
+id: ocd-person/0a1b98af-e0c5-471d-a68e-37065f01f7b0
+name: Gilbert L. Wilson
+given_name: Gilbert
+family_name: Wilson
+middle_name: L.
+image: http://www.njleg.state.nj.us/members/memberphotos/wilson_color.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2010-01-01'
+  end_date: '2015-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '5'
+links:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=325
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000014
+sources:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=325
+- url: http://www.njleg.state.nj.us/downloads.asp
+- url: http://www.nj.com/politics/index.ssf/2015/03/nj_assemblyman_to_run_for_camden_county_sheriff_in.html

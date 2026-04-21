@@ -1,0 +1,25 @@
+id: ocd-organization/c4d174ac-d45c-4c40-a0a4-7aab5ac53a01
+jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+classification: committee
+name: Legislative Expense Oversight
+chamber: upper
+sources:
+- url: https://le.utah.gov/committee/committee.jsp?year=2025&com=SPESEO
+- url: https://le.utah.gov/committee/committee.jsp?year=2026&com=SPESEO
+links:
+- url: https://le.utah.gov/committee/committee.jsp?year=2025&com=SPESEO
+- url: https://le.utah.gov/committee/committee.jsp?year=2026&com=SPESEO
+members:
+- name: Stuart Adams
+  role: chair
+  person_id: ocd-person/5b47c889-e555-4d3c-9b30-97d52ee02960
+- name: Kirk Cullimore
+  role: member
+  person_id: ocd-person/c421a26f-c1c1-4398-be94-d77d312ea3fe
+- name: Luz Escamilla
+  role: member
+  person_id: ocd-person/6983c74c-3687-4e48-b462-38a80caeb260
+other_names:
+- name: Senate Committee on Legislative Expense Oversight
+- name: Senate Legislative Expense Oversight
+- name: Senate Legislative Expense Oversight Committee

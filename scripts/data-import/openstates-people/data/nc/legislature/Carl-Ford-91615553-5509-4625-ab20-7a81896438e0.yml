@@ -1,0 +1,49 @@
+id: ocd-person/91615553-5509-4625-ab20-7a81896438e0
+name: Carl Ford
+given_name: Carl
+family_name: Ford
+birth_date: 1957-07-11
+gender: Male
+email: carl.ford@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/S/410/Low
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '33'
+- start_date: 2013-01-01
+  end_date: 2019-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '76'
+offices:
+- classification: capitol
+  address: Room 625, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-733-5665
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/410
+- url: https://www.ncleg.gov/Members/Committees/S/410
+- url: https://www.ncleg.gov/Members/IntroducedBills/S/410
+- url: https://www.ncleg.gov/Members/Votes/S/410
+other_names:
+- name: C. Ford
+- name: C.L. Ford
+- name: Ford, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000277
+sources:
+- url: https://ballotpedia.org/Carl_Ford_(North_Carolina)
+- url: https://en.wikipedia.org/wiki/Carl_Ford_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/114823/carl-ford
+- url: https://www.linkedin.com/in/carl-ford-97957a78
+- url: https://www.ncleg.gov/Members/Biography/S/410
+- url: https://www.ncleg.gov/Members/MemberTable/S
+extras:
+  terms in senate: 3 (3 in House)
+  represented counties: Rowan, Stanly
+  legislative assistant: Angela Ford
+  legislative assistant email: Angela.Ford@ncleg.gov

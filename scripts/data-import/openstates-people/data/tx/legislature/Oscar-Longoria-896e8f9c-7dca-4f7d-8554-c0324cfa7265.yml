@@ -1,0 +1,51 @@
+id: ocd-person/896e8f9c-7dca-4f7d-8554-c0324cfa7265
+name: Oscar Longoria
+given_name: Oscar
+family_name: Longoria
+birth_date: 1981-10-02
+gender: Male
+email: oscar.longoria@house.texas.gov
+image: https://house.texas.gov/images/members/2485.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '35'
+offices:
+- classification: capitol
+  address: Room 4N.4, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0645
+- classification: district
+  address: 126 E. Commercial Ave., La Feria, TX 78559
+  voice: 956-797-2101
+- classification: district-mail
+  address: P.O. Box 1029 2001 Mile 3 Road, Penitas, TX 78576
+  voice: 956-580-6944
+links:
+- url: https://house.texas.gov/members/2485
+- url: https://house.texas.gov/members/35
+- url: https://house.texas.gov/members/member-page/?district=35
+- url: https://legdir.capitol.texas.gov/MemberInfo.aspx?Chamber=H&Code=A2485
+other_names:
+- name: Longoria, O.
+- name: Longoria, Oscar
+- name: O. Longoria
+- name: O.L. Longoria
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000446
+- scheme: legacy_openstates
+  identifier: TXL000520
+sources:
+- url: https://ballotpedia.org/Oscar_Longoria
+- url: https://en.wikipedia.org/wiki/Oscar_Longoria
+- url: https://house.texas.gov/members/2485
+- url: https://house.texas.gov/members/2485/biography
+- url: https://house.texas.gov/members/35
+- url: https://house.texas.gov/members/member-page/?district=35
+- url: https://justfacts.votesmart.org/candidate/biography/137738/oscar-longoria
+- url: https://legdir.capitol.texas.gov/MemberInfo.aspx?Chamber=H&Code=A2485
+- url: https://www.linkedin.com/in/oscar-longoria-1338878
+- url: https://www.oscarlongorialaw.com/attorney/oscar-lee-longoria-jr

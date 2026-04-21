@@ -1,0 +1,22 @@
+id: ocd-person/8add06ef-90ef-430d-a68e-7f0f83bf92d0
+name: Phillip D. Hinkle
+given_name: Phillip D.
+family_name: Hinkle
+image: http://www.in.gov/legislative/house_republicans/images/r92thumb.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '92'
+links:
+- url: http://www.in.gov/h92
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: INL000095
+sources:
+- url: http://www.in.gov/cgi-bin/legislative/listing/listing-2.pl?data=alpha&chamber=House
+- url: http://www.in.gov/h92
+- url: http://www.in.gov/legislative/house_republicans/members.html

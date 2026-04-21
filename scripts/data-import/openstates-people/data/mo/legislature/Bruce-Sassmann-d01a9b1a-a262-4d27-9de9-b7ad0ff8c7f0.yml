@@ -1,0 +1,39 @@
+id: ocd-person/d01a9b1a-a262-4d27-9de9-b7ad0ff8c7f0
+name: Bruce Sassmann
+given_name: Bruce
+family_name: Sassmann
+birth_date: 1950-08-11
+gender: Male
+email: bruce.sassmann@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2222
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '61'
+- end_date: 2022-12-29
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '62'
+offices:
+- classification: capitol
+  address: Room 207-A, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-6668
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=061
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=062
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=061
+other_names:
+- name: B. Sassmann
+- name: Sassmann, B.
+- name: Sassmann, Bruce
+sources:
+- url: https://ballotpedia.org/Bruce_Sassmann
+- url: https://house.mo.gov/MemberDetails.aspx?district=061
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=062
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=061
+- url: https://justfacts.votesmart.org/candidate/biography/139198/bruce-sassmann
+extras:
+  hometown: Bland

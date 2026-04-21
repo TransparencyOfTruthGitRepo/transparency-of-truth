@@ -1,0 +1,61 @@
+id: ocd-person/a1c9ec59-4127-4973-b100-f35c30bb817c
+name: Troy Singleton
+given_name: Troy
+family_name: Singleton
+gender: Male
+email: sensingleton@njleg.org
+image: https://www.njleg.state.nj.us/members/memberphotos/singleton_troy_2019.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2018-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '7'
+- start_date: 2011-11-21
+  end_date: 2018-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '7'
+- start_date: 2010-01-01
+  end_date: 2017-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '7'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 400 N. Church St. Suite 260, Moorestown, NJ 08057
+  voice: 856-234-2790
+links:
+- url: https://www.njleg.state.nj.us/legislative-roster/395/senator-singleton
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=395
+- url: https://www.njsendems.org/176/Troy-Singleton
+other_names:
+- name: Singleton, T.
+- name: Singleton, Troy
+- name: T. Singleton
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000218
+- scheme: legacy_openstates
+  identifier: NJL000129
+- scheme: openstates
+  identifier: ocd-person/186fd811-86e9-4621-9791-bb9a73832ba7
+sources:
+- url: https://ballotpedia.org/Troy_Singleton
+- url: https://en.wikipedia.org/wiki/Troy_Singleton
+- url: https://justfacts.votesmart.org/candidate/129802/troy-singleton
+- url: https://www.linkedin.com/in/troy-singleton-a686976
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/395
+- url: https://www.njleg.state.nj.us/downloads.asp
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/395/senator-singleton
+- url: https://www.njleg.state.nj.us/members/abcroster.asp
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=395
+- url: https://www.njleg.state.nj.us/members/BIO.asp?Leg=395
+- url: https://www.njsendems.org/176/Troy-Singleton
+extras:
+  position: Majority Whip

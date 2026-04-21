@@ -1,0 +1,31 @@
+id: ocd-person/1e9dcfd4-a93c-49e3-9099-fa4a85f732d0
+name: Dave Rollins
+given_name: Dave
+family_name: Rollins
+gender: Male
+email: david.rollins@legislature.maine.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/David_Rollins.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-12-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '59'
+offices:
+- classification: capitol
+  address: Room 333, House Democratic Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/3118
+- url: https://www.maine.gov/housedems/node/4089
+other_names:
+- name: D. Rollins
+- name: D.M. Rollins
+- name: David ROLLINS
+- name: ROLLINS of Augusta
+- name: Rollins, D.
+sources:
+- url: https://ballotpedia.org/David_Rollins
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/3118
+- url: https://www.maine.gov/housedems/node/4089

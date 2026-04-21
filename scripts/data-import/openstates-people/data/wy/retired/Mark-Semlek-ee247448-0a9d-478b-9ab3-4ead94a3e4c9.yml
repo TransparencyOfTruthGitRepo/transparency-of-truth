@@ -1,0 +1,21 @@
+id: ocd-person/ee247448-0a9d-478b-9ab3-4ead94a3e4c9
+name: Mark Semlek
+given_name: Mark
+family_name: Semlek
+image: http://legisweb.state.wy.us/LegislatorSummary/photos/SemlekMH01.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '1'
+links:
+- url: http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=304
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000082
+sources:
+- url: http://legisweb.state.wy.us/LegislatorSummary/LegislatorList.aspx?strHouse=H&strStatus=N
+- url: http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=304

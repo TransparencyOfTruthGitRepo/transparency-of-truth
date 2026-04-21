@@ -1,0 +1,40 @@
+id: ocd-person/edfd562d-ebac-46bb-abac-8d64346d4dec
+name: Alonzo Baldonado
+given_name: Alonzo
+family_name: Baldonado
+email: alonzo.baldonado@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HBALA.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2021-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '8'
+  end_reason: Time to step aside for new blood
+links:
+- url: http://www.nmlegis.gov/Members/Legislator?SponCode=HBALA
+- url: https://www.linkedin.com/in/alonzo-baldonado-97534610/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HBALA
+  note: homepage
+ids:
+  twitter: votealonzo
+  facebook: VoteAlonzo
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000050
+- scheme: legacy_openstates
+  identifier: NML000219
+- scheme: legacy_openstates
+  identifier: NML000351
+- scheme: legacy_openstates
+  identifier: NML000413
+sources:
+- url: http://www.nmlegis.gov/Members/Legislator?SponCode=HBALA
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HBALA
+extras:
+  counties represented: Valencia
+  service: Representative since 2011
+  occupation: Real Estate Broker

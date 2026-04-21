@@ -1,0 +1,21 @@
+id: ocd-person/2ee7c340-00b9-4db2-b110-34c77c00b3a8
+name: John Will Stacy
+given_name: John
+family_name: Stacy
+middle_name: Will
+image: http://www.lrc.ky.gov/pubinfo/thumbnails/House71.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '71'
+links:
+- url: http://www.lrc.ky.gov/legislator/H071.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000123
+sources:
+- url: http://www.lrc.ky.gov/legislator/H071.htm

@@ -1,0 +1,56 @@
+id: ocd-person/8bc14822-ff62-4ffe-bf42-4114bd5bd99b
+name: Dean Cray
+given_name: Dean
+family_name: Cray
+birth_date: 1958-03-05
+gender: Male
+email: dean.cray@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/898a0677-23f7-4936-a1a4-c913ae94227c_CRAY.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '69'
+- start_date: 2011-01-01
+  end_date: 2014-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '28'
+offices:
+- classification: capitol
+  address: Room 332, House Republican Office 2 State House Station, Augusta, ME 04333
+  voice: 207-287-1440
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/249
+  note: homepage
+- url: https://mainehousegop.org/members/cray-dean/
+- url: https://www.maine.gov/legis/house/hsebios/crayda.htm
+other_names:
+- name: CRAY of Palmyra
+- name: Cray, D.
+- name: D. Cray
+- name: D.A. Cray
+- name: Dean A. Cray
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000063
+sources:
+- url: https://ballotpedia.org/Dean_Cray
+- url: https://en.wikipedia.org/wiki/Dean_Cray
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/249
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://mainehousegop.org/members/cray-dean
+- url: https://www.linkedin.com/in/dean-cray-b4a58b33
+- url: https://www.maine.gov/legis/house/dist_mem.htm
+- url: https://www.maine.gov/legis/house/hsebios/crayda.htm
+extras:
+  Seat Number: '109'
+  towns represented:
+  - Canaan
+  - Detroit
+  - Palmyra
+  - Hartland
+  - St. Albans
+  occupation: Farmer/School Bus Driver/Transportation Director

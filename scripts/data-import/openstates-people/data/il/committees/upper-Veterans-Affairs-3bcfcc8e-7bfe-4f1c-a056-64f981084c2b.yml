@@ -1,0 +1,46 @@
+id: ocd-organization/3bcfcc8e-7bfe-4f1c-a056-64f981084c2b
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: Veterans Affairs
+chamber: upper
+sources:
+- url: https://www.ilga.gov/senate/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=2932
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=3099
+- url: https://www.ilga.gov/Senate/Committees/Members/3099
+links:
+- url: https://www.ilga.gov/senate/committees/default.asp
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=2932
+  note: homepage
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=3099
+- url: https://www.ilga.gov/Senate/Committees/Members/3099
+members:
+- name: Mike Porfirio
+  role: chair
+  person_id: ocd-person/4666ba31-e78b-48f5-9d88-f4823527df6b
+- name: Doris Turner
+  role: vice chair
+  person_id: ocd-person/5db8d260-f850-406c-8e26-d618762c10cd
+- name: Craig Wilcox
+  role: republican spokesperson
+  person_id: ocd-person/07e2527a-ae7d-4c58-b20b-ea2266a03a9e
+- name: Erica Harriss
+  role: member
+  person_id: ocd-person/4dadb374-d534-4ba0-8323-6e41a19933f5
+- name: "Graciela Guzm\xE1n"
+  role: member
+  person_id: ocd-person/95d8f5ae-4cc9-483b-913f-ccd07aa73e13
+- name: Julie Morrison
+  role: member
+  person_id: ocd-person/1e106d7c-5aba-40d1-932b-760b599c70ae
+- name: Li Arellano
+  role: member
+  person_id: ocd-person/8f61ddbc-3976-49b0-8c80-1d24cca80dc0
+- name: Mike Halpin
+  role: member
+  person_id: ocd-person/8021b51f-4acc-459e-a038-786ebaca8666
+other_names:
+- name: Senate Committee on Veterans Affairs
+- name: Senate Veterans Affairs
+- name: Senate Veterans Affairs Committee

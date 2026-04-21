@@ -1,0 +1,21 @@
+id: ocd-person/5814c9b6-03ec-48f2-967f-364414113fda
+name: Tracy Kraft-Tharp
+given_name: Tracy
+family_name: Kraft-Tharp
+email: reptracy29@gmail.com
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2020a_kraft-tharp%2C%20tracy.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '29'
+links:
+- url: http://leg.colorado.gov/legislators/tracy-kraft-tharp
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: COL000115
+sources:
+- url: http://leg.colorado.gov/legislators/tracy-kraft-tharp
+- url: http://leg.colorado.gov/legislators

@@ -1,0 +1,37 @@
+id: ocd-person/260ddf78-7100-4fee-a353-0ebf1a0615ec
+name: Loren Foxx
+given_name: Loren
+family_name: Foxx
+gender: Male
+email: loren.foxx@gc.nh.gov
+image: https://tcbagency.com/wp-content/uploads/2021/10/10_52_50-400x547.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 2
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10773
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10773
+  note: member detail page
+other_names:
+- name: Foxx, L.
+- name: L. Foxx
+- name: Loren E Foxx
+sources:
+- url: https://ballotpedia.org/Loren_Foxx
+- url: https://en.wikipedia.org/wiki/Loren_Foxx
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10773
+- url: https://justfacts.votesmart.org/candidate/biography/208801/loren-foxx
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10773
+- url: https://www.linkedin.com/in/lofoxx
+extras:
+  county: Hillsborough
+  elected status: new
+  gender code: M

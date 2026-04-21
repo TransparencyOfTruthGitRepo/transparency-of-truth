@@ -1,0 +1,19 @@
+id: ocd-person/b6fce1b4-fecf-4983-a015-08a49fb9c41c
+name: Joe Aresimowicz
+given_name: Joe
+family_name: Aresimowicz
+email: Joe.Aresimowicz@cga.ct.gov
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '30'
+links:
+- url: http://www.housedems.ct.gov/Aresimowicz
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000066
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

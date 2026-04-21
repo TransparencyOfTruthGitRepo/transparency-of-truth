@@ -1,0 +1,20 @@
+id: ocd-person/9222f8d6-e4cb-4926-bd5d-6af837e4d763
+name: David P Miller
+given_name: David
+family_name: Miller
+middle_name: P
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Strafford 23
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377146
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000652
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members.txt

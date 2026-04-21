@@ -1,0 +1,33 @@
+id: ocd-person/bd086574-4116-4b0a-ad6b-7c0352293f06
+name: Susan Pha
+given_name: Susan
+family_name: Pha
+gender: Female
+email: sen.susan.pha@senate.mn
+image: https://www.senate.mn/graphics/38Pha.jpg
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '38'
+offices:
+- classification: capitol
+  address: Room 3233, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-2556
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1264
+other_names:
+- name: Pha, S.
+- name: S. Pha
+- name: S.K. Pha
+- name: Susan Kaying Pha
+sources:
+- url: https://ballotpedia.org/Susan_Pha
+- url: https://en.wikipedia.org/wiki/Susan_Pha
+- url: https://justfacts.votesmart.org/candidate/199097/susan-pha
+- url: https://www.linkedin.com/in/susan-kaying-pha-0b01588
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1264

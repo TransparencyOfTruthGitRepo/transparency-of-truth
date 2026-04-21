@@ -1,0 +1,20 @@
+id: ocd-person/b657e58c-1020-4e6a-a06c-4a2d4819b4e6
+name: Steven W Lindsey
+given_name: Steven
+family_name: Lindsey
+middle_name: W
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 3
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376835
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000218
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members(Asterisk%20Delimited).txt

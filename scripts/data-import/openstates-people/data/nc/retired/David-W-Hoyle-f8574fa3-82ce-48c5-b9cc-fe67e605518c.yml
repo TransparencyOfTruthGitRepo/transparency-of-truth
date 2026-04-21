@@ -1,0 +1,18 @@
+id: ocd-person/f8574fa3-82ce-48c5-b9cc-fe67e605518c
+name: David W Hoyle
+given_name: David
+family_name: Hoyle
+middle_name: W
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '43'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000029
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/memberList.pl?sChamber=Senate

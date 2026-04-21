@@ -1,0 +1,62 @@
+id: ocd-person/52d745c3-ccb7-41db-9b4a-624c757b678a
+name: Mike Gambrell
+given_name: Mike
+family_name: Gambrell
+birth_date: 1958-01-10
+gender: Male
+email: mwgambrell@bellsouth.net
+image: https://scstatehouse.gov/images/members/0635227197.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-05-24
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '4'
+- start_date: 2006-12-05
+  end_date: 2016-05-24
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '4'
+- start_date: 2006-11-13
+  end_date: 2016-05-24
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '7'
+offices:
+- classification: capitol
+  address: Room 504, Gressette Building P.O. Box 142, Columbia, SC 29202
+  voice: 803-212-6032
+links:
+- url: https://scstatehouse.gov/member.php?code=0635227197
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=0635227197
+  note: homepage
+other_names:
+- name: Gambrell Michael W.
+- name: Gambrell, M.
+- name: Gambrell, Michael W.
+- name: Gambrell, Mike
+- name: M. Gambrell
+- name: M.W. Gambrell
+- name: Michael W. Gambrell
+- name: Mike Gambrell
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000088
+- scheme: legacy_openstates
+  identifier: SCL000262
+- scheme: openstates
+  identifier: ocd-person/010828ab-6c5b-45e8-93eb-7aa862396686
+sources:
+- url: https://ballotpedia.org/Michael_Gambrell
+- url: https://en.wikipedia.org/wiki/Michael_Gambrell
+- url: https://justfacts.votesmart.org/candidate/biography/56638/mike-gambrell
+- url: https://scstatehouse.gov/member.php?chamber=S
+- url: https://scstatehouse.gov/member.php?code=0635227197
+- url: https://www.scstatehouse.gov/member.php?chamber=H
+- url: https://www.scstatehouse.gov/member.php?chamber=S
+- url: https://www.scstatehouse.gov/member.php?code=0635227197
+extras:
+  Home Address Home Phone: (864) 369-0613
+  counties represented: Abbeville, Anderson & Greenwood Counties

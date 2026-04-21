@@ -1,0 +1,92 @@
+id: ocd-person/62fd9e8b-80ea-5484-b1f1-3f3b4c350cc3
+name: Richard Blumenthal
+given_name: Richard
+family_name: Blumenthal
+birth_date: 1946-02-13
+gender: Male
+email: https://www.blumenthal.senate.gov/contact/write-to-senator-blumenthal
+image: https://unitedstates.github.io/images/congress/450x550/B001277.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2011-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Connecticut
+- start_date: 2017-01-03
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Connecticut
+- start_date: 2011-01-05
+  end_date: 2017-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Connecticut
+offices:
+- classification: capitol
+  address: 503 Hart Senate Office Building, Washington, DC 20510
+  voice: 202-224-2823
+  fax: 202-224-9673
+- classification: capitol
+  address: 90 State House Square 10th Floor, Hartford, CT 06103
+  voice: 860-258-6940
+  fax: 860-258-6958
+- classification: district
+  address: Brien McMahon Federal Building 915 Lafayette Blvd., Suite 304, Bridgeport,
+    CT 06604
+  voice: 203-330-0598
+  fax: 203-330-0608
+links:
+- url: https://www.blumenthal.senate.gov
+  note: website
+- url: https://www.blumenthal.senate.gov/
+- url: https://www.blumenthal.senate.gov/contact/
+  note: contact form
+other_names:
+- name: Blumenthal, R.
+- name: R. Blumenthal
+ids:
+  twitter: SenBlumenthal
+  youtube: UCHH-fn3_LVt0Q4od56rOi5g
+  facebook: SenBlumenthal
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Richard Blumenthal
+- scheme: bioguide
+  identifier: B001277
+- scheme: cspan
+  identifier: '21799'
+- scheme: fec
+  identifier: S0CT00177
+- scheme: google_entity_id
+  identifier: kg:/m/03tg8m
+- scheme: govtrack
+  identifier: '412490'
+- scheme: icpsr
+  identifier: '41101'
+- scheme: lis
+  identifier: S341
+- scheme: maplight
+  identifier: '1495'
+- scheme: opensecrets
+  identifier: N00031685
+- scheme: pictorial
+  identifier: '13417'
+- scheme: thomas
+  identifier: '02076'
+- scheme: votesmart
+  identifier: '1568'
+- scheme: wikidata
+  identifier: Q2023708
+sources:
+- url: https://ballotpedia.org/Richard_Blumenthal
+- url: https://en.wikipedia.org/wiki/Richard_Blumenthal
+- url: https://justfacts.votesmart.org/candidate/biography/1568/richard-blumenthal
+- url: https://richardblumenthal.com/about
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.blumenthal.senate.gov
+- url: https://www.blumenthal.senate.gov/about/biography
+- url: https://www.govtrack.us/congress/members/richard_blumenthal/412490

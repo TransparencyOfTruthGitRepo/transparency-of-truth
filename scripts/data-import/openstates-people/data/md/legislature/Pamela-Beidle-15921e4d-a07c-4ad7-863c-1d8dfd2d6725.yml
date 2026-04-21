@@ -1,0 +1,47 @@
+id: ocd-person/15921e4d-a07c-4ad7-863c-1d8dfd2d6725
+name: Pam Beidle
+given_name: Pam
+family_name: Beidle
+birth_date: 1951-07-21
+gender: Female
+email: pamela.beidle@senate.maryland.gov
+image: https://mgaleg.maryland.gov/2025RS/images/beidle01.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '32'
+- start_date: 2007-01-10
+  end_date: 2019-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '32'
+offices:
+- classification: capitol
+  address: Room 3 East, Miller Senate Office Building 11 Bladen St., Annapolis, MD
+    21401
+  voice: 410-841-3593
+  fax: 410-841-3589
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/beidle01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=beidle01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa14495.html
+other_names:
+- name: Beidle, P.
+- name: P. Beidle
+- name: P.G. Beidle
+- name: Pamela Beidle
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000246
+- scheme: legacy_openstates
+  identifier: MDL000479
+sources:
+- url: https://ballotpedia.org/Pamela_Beidle
+- url: https://en.wikipedia.org/wiki/Pamela_Beidle
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/beidle01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=beidle01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa14495.html
+- url: https://www.linkedin.com/in/pam-beidle-410ab51

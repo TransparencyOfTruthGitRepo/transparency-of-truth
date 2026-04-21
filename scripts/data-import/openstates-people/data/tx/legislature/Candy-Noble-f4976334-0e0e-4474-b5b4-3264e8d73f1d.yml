@@ -1,0 +1,38 @@
+id: ocd-person/f4976334-0e0e-4474-b5b4-3264e8d73f1d
+name: Candy Noble
+given_name: Candy
+family_name: Noble
+birth_date: 1961-10-10
+gender: Female
+email: candy.noble@house.texas.gov
+image: https://house.texas.gov/images/members/3740.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '89'
+offices:
+- classification: capitol
+  address: Room E1.508, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0186
+- classification: district
+  address: 206 N. Murphy Road, Murphy, TX 75094
+  voice: 972-423-6542
+links:
+- url: https://house.texas.gov/members/3740
+- url: https://house.texas.gov/members/member-page/?district=89
+other_names:
+- name: C. Noble
+- name: C.T. Noble
+- name: Noble, C.
+- name: Noble, Candy
+sources:
+- url: https://ballotpedia.org/Candy_Noble
+- url: https://en.wikipedia.org/wiki/Candy_Noble
+- url: https://house.texas.gov/members/3740
+- url: https://house.texas.gov/members/3740/biography
+- url: https://house.texas.gov/members/member-page/?district=89
+- url: https://justfacts.votesmart.org/candidate/biography/177495/candy-noble
+- url: https://www.linkedin.com/in/candy-noble-9557976

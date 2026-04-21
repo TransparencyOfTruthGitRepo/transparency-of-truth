@@ -1,0 +1,47 @@
+id: ocd-person/bede8bef-3c7b-469d-809d-98ee3be92630
+name: Tiffany Alston
+given_name: Tiffany
+family_name: Alston
+gender: Female
+email: tiffany.alston@house.maryland.gov
+image: https://mgaleg.maryland.gov/2023RS/images/alston01.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '24'
+- end_date: 2012-10-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '24'
+  start_date: 2023-01-11
+- start_date: 2011-01-01
+  end_date: 2014-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '24'
+offices:
+- classification: capitol
+  address: Room 219, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3139
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/alston01
+- url: https://www.msa.md.gov/msa/mdmanual/06hse/html/msa15348.html
+other_names:
+- name: Alston, T.
+- name: T. Alston
+- name: T.T. Alston
+- name: Tiffany T. Alston
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000389
+- scheme: legacy_openstates
+  identifier: MDL000419
+sources:
+- url: https://ballotpedia.org/Tiffany_Alston
+- url: https://en.wikipedia.org/wiki/Tiffany_Alston
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/alston01
+- url: https://www.linkedin.com/in/tiffany-alston-1572a23b
+- url: https://www.msa.md.gov/msa/mdmanual/06hse/html/msa15348.html

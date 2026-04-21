@@ -1,0 +1,53 @@
+id: ocd-person/5be2e2f9-b644-4fb4-bfbf-d4c38e858ee2
+name: Louise Lucas
+given_name: Louise
+family_name: Lucas
+birth_date: 1944-01-22
+gender: Female
+email: senatorlucas@senate.virginia.gov
+image: https://apps.dlas.virginia.gov/senatepics/newbiopics/Lucas2018.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1992-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '18'
+offices:
+- classification: capitol
+  address: Room 1404, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7518
+- classification: district-mail
+  address: P.O. Box 700, Portsmouth, VA 23705
+  voice: 757-397-8209
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S19
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S19
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S19
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S19
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S19
+other_names:
+- name: L. Louise Lucas
+- name: L. Lucas
+- name: L.L.B. Lucas
+- name: Lillie Louise Boone Lucas
+- name: Lucas, L.
+- name: Lucas, L. Louise
+ids:
+  twitter: SenLouiseLucas
+  facebook: SenLouiseLucas
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000012
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S19
+- url: https://ballotpedia.org/Louise_Lucas
+- url: https://en.wikipedia.org/wiki/Louise_Lucas
+- url: https://justfacts.votesmart.org/candidate/biography/5105/louise-lucas
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S19
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S19
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S19
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S19
+- url: https://www.linkedin.com/in/senator-l-louise-lucas-72880624

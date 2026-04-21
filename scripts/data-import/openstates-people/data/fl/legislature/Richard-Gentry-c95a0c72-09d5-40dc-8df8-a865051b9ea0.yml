@@ -1,0 +1,34 @@
+id: ocd-person/c95a0c72-09d5-40dc-8df8-a865051b9ea0
+name: Richard Gentry
+given_name: Richard
+family_name: Gentry
+birth_date: 1951-05-01
+gender: Male
+email: richard.gentry@flhouse.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Richard_Gentry_20240811_121405.png
+party:
+- name: Republican
+roles:
+- start_date: 2024-11-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '27'
+offices:
+- classification: capitol
+  address: Room 1302, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5027
+- classification: district
+  address: 275 S. Charles Richard Beall Blvd. Unit 108, DeBary, FL 32713
+  voice: 386-251-1100
+links:
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4911
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4911&LegislativeTermId=91
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4911&SessionId=105
+other_names:
+- name: Gentry, R.
+- name: R. Gentry
+sources:
+- url: https://ballotpedia.org/Richard_Gentry
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4911
+- url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4911&LegislativeTermId=91
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4911&SessionId=105

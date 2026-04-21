@@ -1,0 +1,73 @@
+id: ocd-person/d7828297-0ad0-491b-88a6-93369de7acca
+name: Steve Magie
+given_name: Steve
+family_name: Magie
+birth_date: 1953-08-21
+gender: Male
+email: stephen.magie@arkansashouse.org
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/421_sm.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '56'
+- start_date: 2013-01-14
+  end_date: 2023-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '56'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '72'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+- classification: district-mail
+  address: P.O. Box 1506, Conway, AR 72033
+  voice: 501-327-4444
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Magie
+- url: https://www.arkansashouse.org/district/56
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Magie
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Magie&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Magie&ddBienniumSession=2021%2F2021R
+other_names:
+- name: Magie
+- name: Magie, S.
+- name: S. Magie
+- name: Stephen Magie
+ids:
+  twitter: stevemagie
+  facebook: stevemagie
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Steve_Magie
+- scheme: followthemoney
+  identifier: '6500736'
+- scheme: legacy_openstates
+  identifier: ARL000215
+- scheme: votesmart
+  identifier: '119133'
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Magie
+- url: https://ballotpedia.org/Steve_Magie
+- url: https://en.wikipedia.org/wiki/Stephen_Magie
+- url: https://justfacts.votesmart.org/candidate/biography/119133/steve-magie
+- url: https://www.arkansashouse.org/district/56
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Magie
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Magie&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Magie&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Magie&ddBienniumSession=2021%2F2021S1
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Magie&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2021%2F2021S1#SearchResults
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+extras:
+  seniority: '7'
+  occupation: Physician
+  church affiliation: Catholic
+  veteran: 'No'
+  public service: First Term House 2013,  2015,  2017

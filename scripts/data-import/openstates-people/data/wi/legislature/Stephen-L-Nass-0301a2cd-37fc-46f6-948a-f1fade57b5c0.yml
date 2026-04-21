@@ -1,0 +1,78 @@
+id: ocd-person/0301a2cd-37fc-46f6-948a-f1fade57b5c0
+name: Steve Nass
+given_name: Steve
+family_name: Nass
+birth_date: 1952-10-07
+gender: Male
+email: sen.nass@legis.wisconsin.gov
+image: https://docs.legis.wisconsin.gov/2023/legislators/senate/2427.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '11'
+- start_date: 1993-01-04
+  end_date: 2013-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '31'
+- start_date: 2013-01-07
+  end_date: 2015-01-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '33'
+offices:
+- classification: capitol
+  address: State Capitol Room 10 South, P.O. Box 7882 , 2 E. Main St., Madison, WI
+    53707
+  voice: 608-266-2635
+links:
+- url: https://docs.legis.wisconsin.gov/2017/legislators/senate/1519
+- url: https://docs.legis.wisconsin.gov/2019/legislators/senate/1911
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/2107
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/2427
+- url: https://docs.legis.wisconsin.gov/2025/legislators/senate/2822
+- url: https://legis.wisconsin.gov/Pages/leg-info.aspx?d=33&h=A
+- url: https://legis.wisconsin.gov/senate/11/nass
+other_names:
+- name: NASS, S
+- name: Nass, S
+- name: Nass, S.
+- name: S. Nass
+- name: S.L. Nass
+- name: Stephen L. Nass
+- name: Stephen Nass
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000396
+- scheme: legacy_openstates
+  identifier: WIL000526
+- scheme: legacy_openstates
+  identifier: WIL000577
+- scheme: openstates
+  identifier: ocd-person/38bf8590-330c-4aff-8e3e-9579443bda9f
+sources:
+- url: https://ballotpedia.org/Stephen_Nass
+- url: https://docs.legis.wisconsin.gov/2017/legislators/senate/1519
+- url: https://docs.legis.wisconsin.gov/2019/legislators/senate/1911
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/
+- url: https://docs.legis.wisconsin.gov/2021/legislators/senate/2107
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/
+  note: members list page
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/2427
+  note: member detail page
+- url: https://docs.legis.wisconsin.gov/2025/legislators/senate/2822
+- url: https://en.wikipedia.org/wiki/Stephen_Nass
+- url: https://legis.wisconsin.gov/Pages/leg-info.aspx?d=33&h=A
+- url: https://legis.wisconsin.gov/senate/11/nass
+extras:
+  website: http://legis.wisconsin.gov/senate/11/nass
+  extra phone: ''
+  staff1: Mike Mikalsen
+  staff_email1: Mike.Mikalsen@legis.wisconsin.gov
+  staff2: Adam Field
+  staff_email2: Adam.Field@legis.wisconsin.gov

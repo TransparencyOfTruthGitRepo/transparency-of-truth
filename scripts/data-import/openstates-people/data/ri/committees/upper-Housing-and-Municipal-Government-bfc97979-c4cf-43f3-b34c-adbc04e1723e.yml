@@ -1,0 +1,48 @@
+id: ocd-organization/bfc97979-c4cf-43f3-b34c-adbc04e1723e
+jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+classification: committee
+name: Housing and Municipal Government
+chamber: upper
+sources:
+- url: https://webserver.rilegislature.gov/ComMembers/ComMemS.asp?ComChoiceS=SCHM
+- url: https://www.rilegislature.gov/pages/committees.aspx
+- url: https://www.rilegislature.gov/Pages/SenateCommitteeMembers.aspx?ComChoiceS=SCHM&CommitteeName=Housing%20and%20Municipal%20Government
+links:
+- url: https://webserver.rilegislature.gov/ComMembers/ComMemS.asp?ComChoiceS=SCHM
+- url: https://www.rilegislature.gov/Pages/SenateCommitteeMembers.aspx?ComChoiceS=SCHM&CommitteeName=Housing%20and%20Municipal%20Government
+members:
+- name: Jake Bissaillon
+  role: chair
+  person_id: ocd-person/e9b6ecf5-de39-4026-83fa-3766ed43cc49
+- name: Alana DiMario
+  role: vice chair
+  person_id: ocd-person/9dbec823-aab4-40bb-a26a-e51a896dcc1f
+- name: Gordon Rogers
+  role: member
+  person_id: ocd-person/961061c2-4ce9-4ac4-85c4-28b20c800e9d
+- name: John Burke
+  role: member
+  person_id: ocd-person/a5f646b2-0370-494c-aebc-25869f019a1b
+- name: Meghan Kallman
+  role: member
+  person_id: ocd-person/2cd8c21d-f576-4060-a311-0459e01ffef6
+- name: Melissa Murray
+  role: member
+  person_id: ocd-person/e7d41b59-5619-4a67-a1ec-221fdc24e6c3
+- name: Stefano Famiglietti
+  role: member
+  person_id: ocd-person/a2ff0de0-40d1-4ac1-a347-e1e9dedb6d30
+- name: Tiara Mack
+  role: member
+  person_id: ocd-person/b3d5296c-05df-46f5-9a93-4caf96121a84
+- name: Victoria Gu
+  role: member
+  person_id: ocd-person/afeed427-2ef1-4197-840d-7ab06883e186
+other_names:
+- name: Senate Committee on Housing and Municipal Government
+- name: Senate Housing and Municipal Government
+- name: Senate Housing and Municipal Government Committee
+extras:
+  Clerk: Robert Rebussini
+  Phone: 222-2381
+  Email: Slegislation@rilegislature.gov

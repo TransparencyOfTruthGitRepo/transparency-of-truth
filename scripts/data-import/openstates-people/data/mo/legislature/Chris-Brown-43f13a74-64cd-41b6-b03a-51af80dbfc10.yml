@@ -1,0 +1,35 @@
+id: ocd-person/43f13a74-64cd-41b6-b03a-51af80dbfc10
+name: Chris Brown
+given_name: Chris
+family_name: Brown
+gender: Male
+email: chris.brown@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2212
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '16'
+offices:
+- classification: capitol
+  address: Room 302-1, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-9458
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=016
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=016
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=016
+other_names:
+- name: Brown, C.
+- name: Brown, Chris
+- name: C. Brown
+sources:
+- url: https://ballotpedia.org/Chris_Brown_(Missouri_House_of_Representatives_District_16_candidate)
+- url: https://en.wikipedia.org/wiki/Chris_Brown_(Missouri_politician)
+- url: https://house.mo.gov/MemberDetails.aspx?district=016
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=016
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=016
+- url: https://justfacts.votesmart.org/candidate/biography/193276/chris-brown
+extras:
+  hometown: Kansas City

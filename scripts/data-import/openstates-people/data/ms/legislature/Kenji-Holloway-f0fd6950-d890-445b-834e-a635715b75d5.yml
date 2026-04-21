@@ -1,0 +1,34 @@
+id: ocd-person/f0fd6950-d890-445b-834e-a635715b75d5
+name: Kenji Holloway
+given_name: Kenji
+family_name: Holloway
+birth_date: 1978-12-23
+gender: Male
+email: holloway@house.ms.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/KenjiHolloway.jpeg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '27'
+offices:
+- classification: capitol
+  address: State Capitol 400 High St., Jackson, MS 39201
+  voice: 601-359-3770
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/holloway_(27th).xml
+other_names:
+- name: Holloway (27th)
+- name: Holloway, K.
+- name: K. Holloway
+- name: K.L. Holloway
+sources:
+- url: https://ballotpedia.org/Kenji_Holloway
+- url: https://billstatus.ls.state.ms.us/members/house/holloway_(27th).xml
+- url: https://en.wikipedia.org/wiki/Kenji_Holloway
+- url: https://justfacts.votesmart.org/candidate/biography/211407/kenji-holloway
+- url: https://www.linkedin.com/in/kenji-holloway-26a499159

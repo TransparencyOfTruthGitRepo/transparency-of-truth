@@ -1,0 +1,26 @@
+id: ocd-person/65974668-d586-44b8-ac42-c3d0866f00e0
+name: Chris Birch
+given_name: Chris
+family_name: Birch
+email: Senator.Chris.Birch@akleg.gov
+image: http://akleg.gov/images/legislators/bir.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '26'
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: M
+links:
+- url: http://www.akleg.gov/basis/Member/Detail/30?code=bir
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=bir
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AKL000194
+sources:
+- url: http://www.akleg.gov/basis/Member/Detail/30?code=bir
+- url: http://w3.akleg.gov/

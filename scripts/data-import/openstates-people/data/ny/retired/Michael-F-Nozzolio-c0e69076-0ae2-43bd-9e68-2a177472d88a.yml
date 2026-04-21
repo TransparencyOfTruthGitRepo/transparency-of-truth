@@ -1,0 +1,24 @@
+id: ocd-person/c0e69076-0ae2-43bd-9e68-2a177472d88a
+name: Michael F Nozzolio
+given_name: Michael
+family_name: Nozzolio
+middle_name: F
+image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/Senator%20Nozzolio%20Tight%20Color%20Headshot.jpg?itok=JtCr6Qw5
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2018-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '54'
+links:
+- url: http://www.nysenate.gov/senators/michael-f-nozzolio
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000040
+- scheme: legacy_openstates
+  identifier: NYL000387
+sources:
+- url: http://www.nysenate.gov/senators-committees
+- url: http://www.nysenate.gov/senators/michael-f-nozzolio/contact

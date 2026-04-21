@@ -1,0 +1,36 @@
+id: ocd-person/9aa42801-ba2e-4f2e-9448-cf5e6114fba7
+name: Austin Baeth
+given_name: Austin
+family_name: Baeth
+birth_date: 1984-10-19
+gender: Male
+email: austin.baeth@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33976
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '36'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://eepurl.com/ihfkvT
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33976
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=33976
+other_names:
+- name: A. Baeth
+- name: Baeth, A.
+sources:
+- url: https://ballotpedia.org/Austin_Baeth
+- url: https://en.wikipedia.org/wiki/Austin_Baeth
+- url: https://justfacts.votesmart.org/candidate/biography/203958/austin-baeth
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33976
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=33976
+- url: https://www.linkedin.com/in/austin-baeth-0b0877a5
+extras:
+  occupation: Physician

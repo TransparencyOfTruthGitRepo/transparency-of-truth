@@ -1,0 +1,26 @@
+id: ocd-person/445ac849-5e68-4714-adda-759425ad72cf
+name: Aaron Vega
+given_name: Aaron
+family_name: Vega
+gender: Male
+email: Aaron.Vega@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/A_V1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-01
+  end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 5th Hampden
+links:
+- url: https://malegislature.gov/Legislators/Profile/A_V1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000450
+- scheme: legacy_openstates
+  identifier: MAL000224
+- scheme: openstates
+  identifier: ocd-person/ddb47af7-41e6-49b5-a915-610f0341ec82
+sources:
+- url: https://malegislature.gov/Legislators/Profile/A_V1

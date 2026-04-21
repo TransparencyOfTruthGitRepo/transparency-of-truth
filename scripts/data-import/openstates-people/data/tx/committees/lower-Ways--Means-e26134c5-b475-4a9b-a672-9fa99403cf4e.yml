@@ -1,0 +1,71 @@
+id: ocd-organization/e26134c5-b475-4a9b-a672-9fa99403cf4e
+jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+classification: committee
+name: Ways and Means
+chamber: lower
+sources:
+- url: https://capitol.texas.gov/Committees/CommitteesMbrs.aspx?Chamber=H
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C490
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C490
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C490
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C490
+- url: https://house.texas.gov/committees/committee/490
+- url: https://house.texas.gov/committees/committee/?committee=C490
+links:
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C490
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C490
+  note: homepage
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C490
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C490
+- url: https://house.texas.gov/committees/committee/490
+- url: https://house.texas.gov/committees/committee/?committee=C490
+members:
+- name: Morgan Meyer
+  role: chair
+  person_id: ocd-person/2639e096-d327-4c4d-823f-759b1ce373e0
+- name: Trey Martinez Fischer
+  role: vice chair
+  person_id: ocd-person/07f5e898-8d5d-435a-bf97-7bfb26fce5ac
+- name: Angie Button
+  role: member
+  person_id: ocd-person/2a9478ef-b573-4de6-ab96-bb3f6091346f
+- name: Barbara Gervin-Hawkins
+  role: member
+  person_id: ocd-person/9c37e80d-af10-4433-a78a-408b2b798fb6
+- name: Candy Noble
+  role: member
+  person_id: ocd-person/f4976334-0e0e-4474-b5b4-3264e8d73f1d
+- name: Chris Turner
+  role: member
+  person_id: ocd-person/a5e2021c-8221-41ba-b45c-cc89d13b2af2
+- name: Cody Vasut
+  role: member
+  person_id: ocd-person/3194ee5e-f4d8-4449-8ff6-ec47c0822a3d
+- name: Diego Bernal
+  role: member
+  person_id: ocd-person/7847295c-78f3-4f8c-adb6-3536fca2782e
+- name: Ellen Troxclair
+  role: member
+  person_id: ocd-person/34590156-1109-4ab6-84bc-bbe07764f365
+- name: Giovanni Capriglione
+  role: member
+  person_id: ocd-person/40ecf6ee-92a4-4daf-b950-ac70b6cdfeee
+- name: Hillary Hickland
+  role: member
+  person_id: ocd-person/ef5a2ea8-61b0-484c-bbe1-b52c5ad2f075
+- name: "Sergio Mu\xF1oz"
+  role: member
+  person_id: ocd-person/b7c4e0e7-4949-4dff-bc4c-fdaaada3f37d
+- name: Vince Perez
+  role: member
+  person_id: ocd-person/5236ee6e-a57c-4d81-90b4-50a9abde8e5e
+other_names:
+- name: House Committee on Ways and Means
+- name: House Ways and Means
+- name: House Ways and Means Committee
+extras:
+  clerk: Ryan Marquess
+  legislature: 88(R) - 2023
+  phone: (512) 463-0822
+  appointment date: 2/8/2023
+  room: EXT E2.116

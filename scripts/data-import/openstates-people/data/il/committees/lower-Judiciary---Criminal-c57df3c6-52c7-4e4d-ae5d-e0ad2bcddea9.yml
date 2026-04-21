@@ -1,0 +1,67 @@
+id: ocd-organization/c57df3c6-52c7-4e4d-ae5d-e0ad2bcddea9
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: 'Judiciary: Criminal'
+chamber: lower
+sources:
+- url: https://www.ilga.gov/house/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2931&GA=103
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3098&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3098
+links:
+- url: https://www.ilga.gov/house/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2931&GA=103
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3098&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3098
+members:
+- name: Justin Slaughter
+  role: chair
+  person_id: ocd-person/c296134a-f9b3-4c65-9ed5-3ecccde59386
+- name: Kelly Cassidy
+  role: vice chair
+  person_id: ocd-person/e1652f78-fa2e-46de-8630-f3e1e69040a3
+- name: Patrick Windhorst
+  role: republican spokesperson
+  person_id: ocd-person/6cb9bc2c-97b3-4dd1-b5ba-36a644360057
+- name: Angie Guerrero-Cuellar
+  role: member
+  person_id: ocd-person/8b2bc102-d62b-47b2-91d8-5f9b3a172cea
+- name: Bob Morgan
+  role: member
+  person_id: ocd-person/55a824f4-04c7-4834-8a5d-d204ca3bece5
+- name: Dave Vella
+  role: member
+  person_id: ocd-person/5da7b2ff-c086-49cd-80bc-9802e426cc00
+- name: David Friess
+  role: member
+  person_id: ocd-person/abda0ae5-9ecb-4363-9a6a-487f1cf8899e
+- name: Dennis Tipsword
+  role: member
+  person_id: ocd-person/13dc4688-95d1-4a5d-abc7-fb9a46a432c8
+- name: "Edgar Gonz\xE1lez"
+  role: member
+  person_id: ocd-person/e8bba8fb-50a8-4ddd-9bed-785c5f1bb70d
+- name: John Cabello
+  role: member
+  person_id: ocd-person/b442db35-fab4-4318-a07b-0e88c314fbaa
+- name: Kevin Olickal
+  role: member
+  person_id: ocd-person/c2c8c6a1-ef1b-4a38-92fa-bde7563b7f23
+- name: Lisa Davis
+  role: member
+  person_id: ocd-person/607e0b8f-4f4a-46ae-bfac-24b179d67542
+- name: Patrick Sheehan
+  role: member
+  person_id: ocd-person/075c5ab4-12bf-4573-8091-1539a081256e
+- name: Rick Ryan
+  role: member
+  person_id: ocd-person/749cc87c-81a8-48ba-9cee-a6be77e1d333
+- name: Will Guzzardi
+  role: member
+  person_id: ocd-person/df11068d-eb77-4eb8-90c8-95056891e633
+other_names:
+- name: 'House Committee on Judiciary: Criminal'
+- name: 'House Judiciary: Criminal'
+- name: 'House Judiciary: Criminal Committee'

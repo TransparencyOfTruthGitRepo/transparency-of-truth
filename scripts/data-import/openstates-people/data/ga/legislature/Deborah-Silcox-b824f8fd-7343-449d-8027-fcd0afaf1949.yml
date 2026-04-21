@@ -1,0 +1,64 @@
+id: ocd-person/b824f8fd-7343-449d-8027-fcd0afaf1949
+name: Deborah Silcox
+given_name: Deborah
+family_name: Silcox
+gender: Female
+email: deborah.silcox@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/silcox-deborah-4887.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '53'
+- end_date: 2020-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '52'
+offices:
+- classification: capitol
+  address: Room 408-A, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-657-1803
+- classification: district
+  address: '6300 Powers Ferry Road Suite 600, #177, Atlanta, GA 30339'
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4887&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4887
+- url: https://www.legis.ga.gov/members/house/4887?session=1031
+  note: HTML member detail page
+other_names:
+- name: D. Silcox
+- name: D.D. Silcox
+- name: Deborah D. Silcox
+- name: Deborah Silcox
+- name: SILCOX, 53RD
+- name: Silcox, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000463
+sources:
+- url: https://ballotpedia.org/Deborah_Silcox
+- url: https://en.wikipedia.org/wiki/Deborah_Silcox
+- url: https://justfacts.votesmart.org/candidate/biography/168240/deborah-silcox
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4887&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4887?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4887
+extras:
+  residence: Sandy Springs
+  city: Sandy Springs
+  georgia_id: 4887
+  birthday: October 31
+  occupation: Attorney
+  press: https://house-press.com/representative/Deborah-Silcox
+  spouse: Daniel
+  staff: a href="
+  staff email: ''
+  title: Chairman, MARTOC

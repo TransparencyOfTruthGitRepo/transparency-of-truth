@@ -1,0 +1,49 @@
+id: ocd-organization/c4c0a0bf-f5bb-4f7d-8850-ae0e2aeac977
+jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+classification: committee
+name: State and Local Government
+chamber: upper
+sources:
+- url: https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=82&CommitteeType=Senate%20Standing%20Committee
+  note: homepage
+links:
+- url: https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=82&CommitteeType=Senate%20Standing%20Committee
+  note: homepage
+members:
+- name: Mike Nemes
+  role: chair
+  person_id: ocd-person/230c230d-7313-4a94-8eb3-60f57a86543c
+- name: Greg Elkins
+  role: vice chair
+  person_id: ocd-person/139d004c-7a19-4153-a58b-919a1b70180e
+- name: Amanda Bledsoe
+  role: member
+  person_id: ocd-person/7c03bd44-8541-49b0-9794-a9e606c292ce
+- name: Cassie Armstrong
+  role: member
+  person_id: ocd-person/8dbecabb-ef15-4925-8e50-26331e738a05
+- name: Chris McDaniel
+  role: member
+  person_id: ocd-person/b32a95c9-42ba-449b-8581-97b9cef73c6a
+- name: Julie Adams
+  role: member
+  person_id: ocd-person/38ae421f-f4fa-40f6-b025-a75bc6b42f35
+- name: Keturah Herron
+  role: member
+  person_id: ocd-person/15b970f1-bd55-4876-80d5-13570b8f1a1a
+- name: Lindsey Tichenor
+  role: member
+  person_id: ocd-person/db2324a8-1ae2-4e3a-81e5-ac83cb7bbb05
+- name: Robby Mills
+  role: member
+  person_id: ocd-person/366daab1-a877-49b9-86b8-e3c497143bf0
+- name: Scott Madon
+  role: member
+  person_id: ocd-person/d7adea26-9f4f-477f-a0bd-4b29ae9072b4
+- name: Steve Rawlings
+  role: member
+  person_id: ocd-person/b702771e-135c-4444-b148-a321ee8088b2
+other_names:
+- name: Senate Committee on State and Local Government
+- name: Senate State and Local Government
+- name: Senate State and Local Government Committee

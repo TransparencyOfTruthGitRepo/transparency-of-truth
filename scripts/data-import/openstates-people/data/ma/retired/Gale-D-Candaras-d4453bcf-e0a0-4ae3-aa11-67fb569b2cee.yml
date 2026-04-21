@@ -1,0 +1,23 @@
+id: ocd-person/d4453bcf-e0a0-4ae3-aa11-67fb569b2cee
+name: Gale D. Candaras
+given_name: Gale
+family_name: Candaras
+middle_name: D.
+image: https://malegislature.gov/Images/MemberProfile/Web/gcandaras.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: First Hampden and Hampshire
+links:
+- url: http://www.malegislature.gov/People/Profile/GDC0
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000004
+- scheme: legacy_openstates
+  identifier: MAL000248
+sources:
+- url: http://www.malegislature.gov/People/Profile/GDC0

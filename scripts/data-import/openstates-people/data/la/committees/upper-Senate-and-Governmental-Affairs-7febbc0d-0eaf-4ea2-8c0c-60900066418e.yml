@@ -1,0 +1,47 @@
+id: ocd-organization/7febbc0d-0eaf-4ea2-8c0c-60900066418e
+jurisdiction: ocd-jurisdiction/country:us/state:la/government
+classification: committee
+name: Senate and Governmental Affairs
+chamber: upper
+sources:
+- url: https://senate.la.gov/Sen_Committees/SenateGovAffairs
+  note: Committee Detail Page
+- url: https://www.legis.la.gov/legis/Committees.aspx?c=S
+  note: Committees List Page
+- url: https://www.senate.la.gov/Sen_Committees/SenateGovAffairs
+links:
+- url: https://senate.la.gov/Sen_Committees/SenateGovAffairs
+  note: homepage
+- url: https://www.senate.la.gov/Sen_Committees/SenateGovAffairs
+members:
+- name: Caleb Kleinpeter
+  role: chair
+  person_id: ocd-person/75f165af-66d1-464e-99b0-4176b8636501
+- name: Blake Miguez
+  role: vice chair
+  person_id: ocd-person/8574f94d-93ed-49b0-a5f6-aa1832b5542a
+- name: Gary Carter
+  role: member
+  person_id: ocd-person/60ffe8d0-0469-4eca-a69a-deec93c203b3
+- name: Glen Womack
+  role: member
+  person_id: ocd-person/25923053-3679-443e-bbb1-e2f63a50585c
+- name: Greg Miller
+  role: member
+  person_id: ocd-person/77166b5f-e299-431c-869d-ab2fff79cd33
+- name: Larry Selders
+  role: member
+  person_id: ocd-person/52035a94-6995-4ea4-b463-1109d683048b
+- name: "Mike F\xE9si"
+  role: member
+  person_id: ocd-person/750a2868-c9b0-4124-95c7-3516f93ff087
+- name: Mike Reese
+  role: member
+  person_id: ocd-person/723f3444-f927-44b0-8659-7ac00370aa92
+- name: Sam Jenkins
+  role: member
+  person_id: ocd-person/fc43b9e1-5e0d-4767-a12e-b2e801444d22
+other_names:
+- name: Senate Committee on Senate and Governmental Affairs
+- name: Senate Senate and Governmental Affairs
+- name: Senate Senate and Governmental Affairs Committee

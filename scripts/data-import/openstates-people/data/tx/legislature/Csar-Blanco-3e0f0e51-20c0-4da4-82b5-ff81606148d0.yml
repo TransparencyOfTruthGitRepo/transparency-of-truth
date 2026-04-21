@@ -1,0 +1,53 @@
+id: ocd-person/3e0f0e51-20c0-4da4-82b5-ff81606148d0
+name: "C\xE9sar Blanco"
+given_name: "C\xE9sar"
+family_name: Blanco
+birth_date: 1976-04-23
+gender: Male
+email: cesar.blanco@senate.texas.gov
+image: https://senate.texas.gov/members/d29/img/SCBBio88th-web.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-12
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '29'
+- start_date: 2015-01-13
+  end_date: 2021-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '76'
+offices:
+- classification: capitol
+  address: Room 3E.2, 1100 Congress Ave., Austin, TX 78701
+  voice: 512-463-0129
+- classification: district
+  address: 416 N. Stanton St. Suite 700, El Paso, TX 79901
+  voice: 915-577-0029
+- classification: district-mail
+  address: P.O. Box 12068 Capitol Station, Austin, TX 78711
+links:
+- url: https://house.texas.gov/members/member-page/?district=76
+- url: https://senate.texas.gov/member.php?d=29
+other_names:
+- name: Blanco, C.
+- name: "Blanco, C\xE9sar"
+- name: C. Blanco
+- name: C.J. Blanco
+- name: Cesar Blanco
+- name: "C\xC3\xA9sar Blanco"
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000497
+- scheme: legacy_openstates
+  identifier: TXL000636
+- scheme: openstates
+  identifier: ocd-person/59d40546-dec7-4f69-813b-183d9925e6b7
+sources:
+- url: https://ballotpedia.org/Cesar_Blanco
+- url: https://en.wikipedia.org/wiki/Cesar_Blanco
+- url: https://house.texas.gov/members/member-page/?district=76
+- url: https://justfacts.votesmart.org/candidate/biography/147274/cesar-blanco
+- url: https://senate.texas.gov/member.php?d=29
+- url: https://www.linkedin.com/in/cesar-blanco-94a43a2b

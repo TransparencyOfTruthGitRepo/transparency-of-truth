@@ -1,0 +1,29 @@
+id: ocd-person/f38156dd-7140-4251-ae29-fff708e5c904
+name: Toby Herald
+given_name: Toby
+family_name: Herald
+image: http://www.lrc.ky.gov/pubinfo/thumbnails/House91.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '91'
+- start_date: 2017-01-01
+  end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '91'
+links:
+- url: http://www.lrc.ky.gov/legislator/H091.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000158
+- scheme: legacy_openstates
+  identifier: KYL000258
+- scheme: openstates
+  identifier: ocd-person/7501f496-1aaa-4936-a833-b7ba4071703f
+sources:
+- url: http://www.lrc.ky.gov/legislator/H091.htm

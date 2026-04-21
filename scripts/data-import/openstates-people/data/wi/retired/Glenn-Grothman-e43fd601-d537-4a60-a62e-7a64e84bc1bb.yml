@@ -1,0 +1,20 @@
+id: ocd-person/e43fd601-d537-4a60-a62e-7a64e84bc1bb
+name: Glenn Grothman
+given_name: Glenn
+family_name: Grothman
+image: http://legis.wisconsin.gov/sitecollectionimages/2013/sen20.jpeg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '20'
+links:
+- url: http://legis.wisconsin.gov/Pages/leg-info.aspx?d=20&h=S
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000324
+sources:
+- url: http://legis.wisconsin.gov/Pages/leg-info.aspx?d=20&h=S

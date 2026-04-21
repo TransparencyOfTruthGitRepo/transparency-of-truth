@@ -1,0 +1,32 @@
+id: ocd-person/4a6e4da5-0cbd-4033-89a3-5bd749b37108
+name: Del Taylor
+given_name: Del
+family_name: Taylor
+gender: Male
+email: del.taylor@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2400
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '84'
+offices:
+- classification: capitol
+  address: Room 130-DA, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-2198
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=084
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=084
+other_names:
+- name: D. Taylor
+- name: Delbret Taylor
+- name: Taylor, D.
+sources:
+- url: https://ballotpedia.org/Del_Taylor
+- url: https://house.mo.gov/MemberDetails.aspx?district=084
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=084
+- url: https://www.linkedin.com/in/delbret-taylor-27b02152
+extras:
+  hometown: St. Louis

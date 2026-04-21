@@ -1,0 +1,58 @@
+id: ocd-person/d40576ac-fbc0-4b42-98ee-f6362063784d
+name: Buddy DeLoach
+given_name: Buddy
+family_name: DeLoach
+birth_date: 1942-02-27
+gender: Male
+email: buddy.deloach@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/deloach-buddy-303.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '167'
+offices:
+- classification: capitol
+  address: State Capitol Room 401-H, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-7857
+- classification: district
+  address: 2689 Sutherland Bluff Drive NE, Townsend, GA 31331
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/303
+- url: https://www.legis.ga.gov/members/house/303?session=1029
+- url: https://www.legis.ga.gov/members/house/303?session=1031
+  note: HTML member detail page
+other_names:
+- name: B. DeLoach
+- name: Buddy DeLoach
+- name: DELOACH, 167TH
+- name: DeLoach, B.
+- name: H.M. DeLoach
+- name: Homer M. DeLoach
+sources:
+- url: https://ballotpedia.org/Buddy_DeLoach
+- url: https://en.wikipedia.org/wiki/Buddy_DeLoach
+- url: https://justfacts.votesmart.org/candidate/biography/7875/buddy-deloach
+- url: https://www.legis.ga.gov/api/members/detail/303?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/303?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/303
+- url: https://www.legis.ga.gov/members/house/303?session=1029
+extras:
+  residence: Townsend
+  city: Townsend
+  georgia_id: 303
+  birthday: February 27
+  occupation: Business Owner
+  press: https://house-press.com/representative/Buddy-DeLoach
+  spouse: Linda
+  staff: Shaniqua Johnson - Administrative Assistant
+  staff email: shaniqua.johnson@house.ga.gov
+  title: Chairman, Ethics

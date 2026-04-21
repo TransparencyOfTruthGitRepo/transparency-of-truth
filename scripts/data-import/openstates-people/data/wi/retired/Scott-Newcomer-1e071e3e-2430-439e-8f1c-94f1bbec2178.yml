@@ -1,0 +1,17 @@
+id: ocd-person/1e071e3e-2430-439e-8f1c-94f1bbec2178
+name: Scott Newcomer
+given_name: Scott
+family_name: Newcomer
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '33'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000399
+sources:
+- url: http://legis.wi.gov/w3asp/contact/legislatorpages.aspx?house=Assembly&district=33

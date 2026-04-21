@@ -1,0 +1,36 @@
+id: ocd-person/76812cdb-3d6d-458a-b864-feb72f363a8e
+name: April Rose
+given_name: April
+family_name: Rose
+gender: Female
+email: april.rose@house.maryland.gov
+image: https://mgaleg.maryland.gov/2025RS/images/rose01.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-03-16
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '5'
+offices:
+- classification: capitol
+  address: Room 213, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3070
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/rose01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=rose01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa17126.html
+other_names:
+- name: A. Rose
+- name: A.R. Rose
+- name: Rose, A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000718
+sources:
+- url: https://ballotpedia.org/April_Rose
+- url: https://en.wikipedia.org/wiki/April_Rose_(politician)
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/rose01
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=rose01&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa17126.html
+- url: https://www.linkedin.com/in/aprilrose1

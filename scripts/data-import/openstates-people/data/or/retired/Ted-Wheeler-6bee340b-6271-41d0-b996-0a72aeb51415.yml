@@ -1,0 +1,12 @@
+id: ocd-person/6bee340b-6271-41d0-b996-0a72aeb51415
+name: Ted Wheeler
+given_name: Ted
+family_name: Wheeler
+roles:
+- end_date: '2020-05-19'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:or/place:portland/government
+links:
+- url: https://beta.portland.gov/wheeler
+sources:
+- url: https://beta.portland.gov/wheeler

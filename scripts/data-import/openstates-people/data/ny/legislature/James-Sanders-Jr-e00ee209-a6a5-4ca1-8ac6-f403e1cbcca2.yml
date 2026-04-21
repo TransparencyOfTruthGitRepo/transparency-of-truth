@@ -1,0 +1,49 @@
+id: ocd-person/e00ee209-a6a5-4ca1-8ac6-f403e1cbcca2
+name: James Sanders
+given_name: James
+family_name: Sanders
+birth_date: 1957-08-14
+gender: Male
+email: sanders@nysenate.gov
+image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/2021sandersbio.jpg?itok=tKIC3Ymf
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '10'
+offices:
+- classification: capitol
+  address: Room 711, Legislative Office Building, Albany, NY 12247
+  voice: 518-455-3531
+- classification: district
+  address: 142-01 Rockaway Blvd., South Ozone Park, NY 11436
+  voice: 718-523-3069
+- classification: district
+  address: 1931 Mott Ave. Suite 305, Far Rockaway, NY 11691
+  voice: 718-327-7017
+links:
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/james-sanders-jr
+- url: https://www.nysenate.gov/senators/james-sanders-jr/contact
+other_names:
+- name: J. Sanders
+- name: James Sanders Jr.
+- name: Sanders, J.
+ids:
+  twitter: JSandersNYC
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000239
+- scheme: legacy_openstates
+  identifier: NYL000379
+sources:
+- url: https://ballotpedia.org/James_Sanders,_Jr.
+- url: https://ballotpedia.org/James_Sanders_Jr.
+- url: https://en.wikipedia.org/wiki/James_Sanders_Jr.
+- url: https://justfacts.votesmart.org/candidate/biography/80367/james-sanders-jr
+- url: https://www.linkedin.com/in/james-sanders-jr-0973ab319
+- url: https://www.linkedin.com/in/james-sanders-jr-58724623
+- url: https://www.nysenate.gov/senators/james-sanders-jr
+- url: https://www.nysenate.gov/senators/james-sanders-jr/contact

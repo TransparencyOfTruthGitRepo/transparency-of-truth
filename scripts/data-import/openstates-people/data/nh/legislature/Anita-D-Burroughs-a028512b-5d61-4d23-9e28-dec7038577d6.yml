@@ -1,0 +1,55 @@
+id: ocd-person/a028512b-5d61-4d23-9e28-dec7038577d6
+name: Anita Burroughs
+given_name: Anita
+family_name: Burroughs
+gender: Female
+email: anitadburr@gmail.com
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/73100.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 2
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 2
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 1
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=408822
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?member=408822
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9044
+  note: member detail page
+other_names:
+- name: A. Burroughs
+- name: A.L. Burroughs
+- name: Anita D. Burroughs
+- name: Anita Lang Burroughs
+- name: Burroughs, A.
+sources:
+- url: https://ballotpedia.org/Anita_Burroughs
+- url: https://gc.nh.gov/house/members/member.aspx?member=408822
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?member=408822
+- url: https://justfacts.votesmart.org/candidate/biography/185226/anita-burroughs
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408822
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9044
+- url: https://www.linkedin.com/in/anitadburroughs
+extras:
+  county: Carroll
+  elected status: Incumbent
+  gender code: F

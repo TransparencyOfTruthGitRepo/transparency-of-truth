@@ -1,0 +1,34 @@
+id: ocd-person/3d6727ea-1a91-414d-aac4-ba312cbfaabc
+name: Erin Byrnes
+given_name: Erin
+family_name: Byrnes
+gender: Female
+email: erinbyrnes@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '15'
+offices:
+- classification: capitol
+  address: Room N-694, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0847
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/Erin-Byrnes/
+other_names:
+- name: Byrnes, E.
+- name: E. Byrnes
+sources:
+- url: https://ballotpedia.org/Erin_Byrnes
+- url: https://housedems.com/Erin-Byrnes
+- url: https://housedems.com/Erin-Byrnes/
+  note: Member Details Page
+- url: https://housedems.com/erin-byrnes/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/erin-byrnes

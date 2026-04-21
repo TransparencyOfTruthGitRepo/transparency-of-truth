@@ -1,0 +1,31 @@
+id: ocd-organization/88b75a5d-b239-4b64-b07a-5f7f23f76d0a
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Rules
+chamber: upper
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/s_cmtememb.xml
+  note: homepage
+members:
+- name: Dean Kirby
+  role: chair
+  person_id: ocd-person/d1572354-a456-47fa-aa21-58be9884a3bb
+- name: Walter Michel
+  role: vice chair
+  person_id: ocd-person/61c65e25-07c9-445c-8cef-1e6d53cbbfb3
+- name: Dennis DeBar
+  role: member
+  person_id: ocd-person/8c139a04-43ed-48c5-98cc-e2d308efa65b
+- name: Hillman Frazier
+  role: member
+  person_id: ocd-person/92659a52-eda2-41a1-9300-40ca7fc3a46b
+- name: Neil Whaley
+  role: member
+  person_id: ocd-person/60cdec6e-abad-4d5c-97ca-83da67ed7a67
+other_names:
+- name: Senate Committee on Rules
+- name: Senate Rules
+- name: Senate Rules Committee

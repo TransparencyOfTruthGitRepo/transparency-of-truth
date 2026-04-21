@@ -1,0 +1,23 @@
+id: ocd-person/10d4991e-61ed-4d06-aa8f-88dc2fafe40f
+name: Louise Williams Bishop
+given_name: Louise
+family_name: Bishop
+middle_name: Williams
+image: http://www.legis.state.pa.us/images/members/200/192.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '192'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=192
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000059
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=192
+- url: http://www.phillyvoice.com/state-rep-louise-bishop-resigns-seat-pleads-no-contest-failing-report-1500-gift/

@@ -1,0 +1,21 @@
+id: ocd-person/45eaa005-f340-4c85-8007-257e697c45db
+name: Elizabeth B Burtis
+given_name: Elizabeth
+family_name: Burtis
+middle_name: B
+image: http://www.gencourt.state.nh.us/house/images/memberpics/377077.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 6
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377077
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000471
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members.txt

@@ -1,0 +1,44 @@
+id: ocd-person/0ce05d4e-e231-4d3e-8ba5-179499230adc
+name: John McDonald
+given_name: John
+family_name: McDonald
+birth_date: 1962-04-05
+gender: Male
+email: mcdonaldj@nyassembly.gov
+image: https://assembly.state.ny.us/write/upload/member_files/108/headshot/108.jpg?hst=1660074489
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '108'
+offices:
+- classification: capitol
+  address: Room 625, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-4474
+links:
+- url: https://assembly.state.ny.us/mem/?sh=email
+- url: https://assembly.state.ny.us/mem/John-T-McDonald-III
+- url: https://nyassembly.gov/mem/John-T-McDonald-III
+other_names:
+- name: J. McDonald
+- name: J.T. McDonald
+- name: John McDonald, III
+- name: John T. McDonald
+- name: John T. McDonald III
+- name: McDonald, J.
+ids:
+  twitter: johnmcdonald108
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000286
+sources:
+- url: https://assembly.state.ny.us/mem/John-T-McDonald-III
+- url: https://ballotpedia.org/John_T._McDonald_III
+- url: https://ballotpedia.org/John_T._McDonald_III_(New_York)
+- url: https://en.wikipedia.org/wiki/John_T._McDonald_III
+- url: https://justfacts.votesmart.org/candidate/biography/142711/john-mcdonald-iii
+- url: https://nyassembly.gov/mem/John-T-McDonald-III
+- url: https://www.linkedin.com/in/john-t-mcdonald-iii-a1b9b2b
+- url: https://www.linkedin.com/in/john-t-mcdonald-iii-rph-a1b9b2b

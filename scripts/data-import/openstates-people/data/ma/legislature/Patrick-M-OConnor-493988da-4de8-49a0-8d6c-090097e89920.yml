@@ -1,0 +1,57 @@
+id: ocd-person/493988da-4de8-49a0-8d6c-090097e89920
+name: Patrick O'Connor
+given_name: Patrick
+family_name: O'Connor
+birth_date: 1984-08-13
+gender: Male
+email: patrick.oconnor@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/PMO.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: First Plymouth and Norfolk
+- start_date: 2016-05-18
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: First Plymouth and Norfolk
+- end_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Plymouth and Norfolk
+offices:
+- classification: capitol
+  address: Room 419, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1646
+links:
+- url: https://malegislature.gov/Legislators/Profile/PMO
+- url: https://www.senatoroconnor.com/
+other_names:
+- name: O'Connor, P.
+- name: P. O'Connor
+- name: P.M. O'Connor
+- name: Patrick M. O'Connor
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000527
+- scheme: legacy_openstates
+  identifier: MAL000569
+sources:
+- url: https://ballotpedia.org/Patrick_O%27Connor_(Massachusetts)
+- url: https://en.wikipedia.org/wiki/Patrick_O%27Connor_(Massachusetts_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/75467/patrick-oconnor
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/PMO
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/PMO
+- url: https://malegislature.gov/Legislators/Profile/PMO
+- url: https://www.linkedin.com/in/patrick-o-connor-29b3b29
+- url: https://www.senatoroconnor.com
+extras:
+  leadership position: Assistant Minority Leader
+  member code: PMO

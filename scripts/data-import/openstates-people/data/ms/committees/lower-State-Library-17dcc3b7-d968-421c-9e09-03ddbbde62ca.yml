@@ -1,0 +1,33 @@
+id: ocd-organization/17dcc3b7-d968-421c-9e09-03ddbbde62ca
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: State Library
+chamber: lower
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/h_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/h_cmtememb.xml
+  note: homepage
+members:
+- name: Karl Gibbs
+  role: chair
+  person_id: ocd-person/38d590c5-20ff-42d5-b9dd-af77664213cf
+- name: Stephanie Foster
+  role: vice chair
+  person_id: ocd-person/1253bd3e-36dd-4f23-a671-ab24dc4aed12
+- name: Greg Haney
+  role: member
+  person_id: ocd-person/c38f3e52-9594-4580-a280-bdaa11a33b66
+- name: Kabir Karriem
+  role: member
+  person_id: ocd-person/a1fef221-e3ca-4598-a7f9-cf6862b3007a
+- name: Steve Horne
+  role: member
+  person_id: ocd-person/f1e7e5ba-29b7-42e2-bb70-5ab4c7923c77
+other_names:
+- name: Committee on State Library
+- name: House Committee on State Library
+- name: House State Library
+- name: House State Library Committee
+- name: State Library Committee

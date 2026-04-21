@@ -1,0 +1,43 @@
+id: ocd-person/a5bb89cb-ac42-47c0-bcc8-96bf18e4d865
+name: Mark Tisdel
+given_name: Mark
+family_name: Tisdel
+birth_date: 1955-09-21
+gender: Male
+email: marktisdel@house.mi.gov
+image: https://dtj5wlj7ond0z.cloudfront.net/uploads/2021/01/HS_TISDEL_0121_NSC_7619-scaled.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '55'
+- end_date: 2022-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '45'
+offices:
+- classification: capitol
+  address: Room N-989, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-1792
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/repmarktisdel/about
+- url: https://reptisdel.com
+other_names:
+- name: M. Tisdel
+- name: M.A. Tisdel
+- name: Tisdel, M.
+sources:
+- url: https://ballotpedia.org/Mark_Tisdel
+- url: https://en.wikipedia.org/wiki/Mark_Tisdel
+- url: https://gophouse.org/member/repmarktisdel/about
+- url: https://justfacts.votesmart.org/candidate/biography/146854/mark-tisdel
+- url: https://reptisdel.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
+- url: https://www.linkedin.com/in/mark-tisdel-64335636

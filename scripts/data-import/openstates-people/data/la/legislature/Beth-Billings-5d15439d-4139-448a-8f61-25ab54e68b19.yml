@@ -1,0 +1,31 @@
+id: ocd-person/5d15439d-4139-448a-8f61-25ab54e68b19
+name: Beth Billings
+given_name: Beth
+family_name: Billings
+gender: Female
+email: hse056@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics/rep56.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '56'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 104 Campus Drive East Suite 201, Destrehan, LA 70047
+  voice: 985-764-0203
+links:
+- url: https://house.louisiana.gov/H_Reps/members?ID=56
+other_names:
+- name: B. Billings
+- name: B.A. Billings
+- name: Billings, B.
+sources:
+- url: https://ballotpedia.org/Beth_Billings
+- url: https://house.louisiana.gov/H_Reps/members?ID=56
+- url: https://www.linkedin.com/in/beth-billings-70047

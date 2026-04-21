@@ -1,0 +1,20 @@
+id: ocd-person/08806eaa-f8ac-4cd5-8883-d5bef37b87b5
+name: "Christopher\t Piper"
+given_name: Christopher
+family_name: Piper
+email: chris.piper@elections.virginia.gov
+party:
+- name: Independent
+roles:
+- end_date: '2022-03-11'
+  type: chief election officer
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+links:
+- url: https://www.elections.virginia.gov/contact-us/
+sources:
+- url: https://www.elections.virginia.gov/contact-us/
+offices:
+- address: Washington Building, First Floor; 1100 Bank Street; Richmond, VA 23219-
+  voice: 804-864-8901
+  fax: 804-371-0194
+  classification: capitol

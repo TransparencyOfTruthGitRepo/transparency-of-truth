@@ -1,0 +1,34 @@
+id: ocd-person/84eb7371-a332-4534-b3b3-542500c798f8
+name: Rob Clifton
+given_name: Rob
+family_name: Clifton
+gender: Male
+email: rob.clifton@house.ga.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/RobClifton2024.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '131'
+offices:
+- classification: capitol
+  address: Room 408-B, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-657-1803
+- classification: district
+  address: 4324 Wheeler Road, Augusta, GA 30907
+links:
+- url: https://www.legis.ga.gov/members/house/5080
+other_names:
+- name: CLIFTON, 131ST
+- name: Clifton, R.
+- name: R. Clifton
+- name: R.S. Clifton
+sources:
+- url: https://ballotpedia.org/Rob_Clifton_(Georgia)
+- url: https://en.wikipedia.org/wiki/Rob_Clifton
+- url: https://justfacts.votesmart.org/candidate/biography/215280/rob-clifton
+- url: https://www.legis.ga.gov/members/house/5080
+- url: https://www.linkedin.com/in/rob-clifton-579b2a57

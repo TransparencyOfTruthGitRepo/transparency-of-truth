@@ -1,0 +1,46 @@
+id: ocd-person/eb6d633a-5526-413b-872d-bd36f4d9a906
+name: Chris Phillips
+given_name: Chris
+family_name: Phillips
+birth_date: 1969-10-08
+gender: Male
+email: chris.phillips@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2019/house/phillips_chris.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '68'
+- start_date: 2018-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '68'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '47'
+offices:
+- classification: capitol
+  address: State Capitol Room 213E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3192
+- classification: district
+  address: 742 Sawmill Road, Buckhannon, WV 26201
+  voice: 304-614-3246
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Phillips
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Phillips
+other_names:
+- name: C. Phillips
+- name: Phillips, C
+- name: Phillips, C.
+sources:
+- url: https://ballotpedia.org/Chris_Phillips_(West_Virginia)
+- url: https://en.wikipedia.org/wiki/Chris_Phillips_(West_Virginia_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/177776/chris-phillips
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Phillips
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Phillips
+- url: https://www.wvlegislature.gov/House/roster.cfm

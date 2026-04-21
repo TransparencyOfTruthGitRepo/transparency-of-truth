@@ -1,0 +1,43 @@
+id: ocd-person/a3140c7f-befe-4b83-bc54-1451b5fe00f5
+name: Vikki Breese Iverson
+given_name: Vikki
+family_name: Breese Iverson
+birth_date: 1974-07-03
+gender: Female
+email: rep.vikkibreeseiverson@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/breese-iverson/PublishingImages/member_photo.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '59'
+- start_date: 2019-08-13
+  end_date: 2023-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '59'
+- start_date: 2019-08-13
+  end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '55'
+offices:
+- classification: capitol
+  address: Room H-386, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1459
+links:
+- url: https://www.oregonlegislature.gov/breese-iverson
+  note: homepage
+other_names:
+- name: Breese Iverson, V.
+- name: V. Breese Iverson
+- name: Vikki Breese-Iverson
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Vikki_Breese-Iverson
+- url: https://en.wikipedia.org/wiki/Vikki_Breese-Iverson
+- url: https://vikkib.withwre.com
+- url: https://www.oregonlegislature.gov/breese-iverson

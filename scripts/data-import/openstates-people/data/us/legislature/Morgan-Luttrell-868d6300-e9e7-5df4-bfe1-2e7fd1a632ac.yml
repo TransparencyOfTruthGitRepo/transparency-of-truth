@@ -1,0 +1,66 @@
+id: ocd-person/868d6300-e9e7-5df4-bfe1-2e7fd1a632ac
+name: Morgan Luttrell
+given_name: Morgan
+family_name: Luttrell
+birth_date: 1975-11-07
+gender: Male
+email: https://luttrell.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/L000603.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-8
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-8
+offices:
+- classification: capitol
+  address: 444 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-4901
+- classification: district
+  address: 18230 Farm to Market Road 1488 Suite 308, Magnolia, TX 77354
+  voice: 281-305-7890
+links:
+- url: https://luttrell.house.gov
+  note: website
+- url: https://luttrell.house.gov/
+other_names:
+- name: Luttrell, M.
+- name: M. Luttrell
+- name: M.J. Luttrell
+ids:
+  twitter: RepLuttrell
+other_identifiers:
+- scheme: bioguide
+  identifier: L000603
+- scheme: fec
+  identifier: H2TX08182
+- scheme: google_entity_id
+  identifier: kg:/g/11rg60_s4f
+- scheme: govtrack
+  identifier: '456942'
+- scheme: opensecrets
+  identifier: N00048776
+- scheme: pictorial
+  identifier: '13265'
+- scheme: votesmart
+  identifier: '200930'
+- scheme: wikidata
+  identifier: Q115137460
+- scheme: wikipedia
+  identifier: Morgan Luttrell
+sources:
+- url: https://ballotpedia.org/Morgan_Luttrell
+- url: https://en.wikipedia.org/wiki/Marcus_Luttrell
+- url: https://justfacts.votesmart.org/candidate/biography/200930/morgan-luttrell
+- url: https://luttrell.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/morgan_luttrell/456942
+- url: https://www.linkedin.com/in/morgan-luttrell-169623195

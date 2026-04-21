@@ -1,0 +1,40 @@
+id: ocd-person/f72691ec-a5a0-413b-a344-e452009551a2
+name: Chris Kolker
+given_name: Chris
+family_name: Kolker
+gender: Male
+email: chris.kolker.senate@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_kolker%2Cchris.jpg?itok=DVQOTDRw
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '16'
+- end_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '27'
+offices:
+- classification: capitol
+  address: State Capitol Room 346, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-4883
+links:
+- url: https://leg.colorado.gov/legislators/chris-kolker
+other_names:
+- name: C. Kolker
+- name: Kolker C.
+- name: Kolker, C.
+sources:
+- url: https://ballotpedia.org/Chris_Kolker
+- url: https://en.wikipedia.org/wiki/Chris_Kolker
+- url: https://justfacts.votesmart.org/candidate/biography/181774/chris-kolker
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/chris-kolker
+- url: https://www.linkedin.com/in/christopher-kolker-7a07214
+extras:
+  counties represented:
+  - Arapahoe
+  - Jefferson

@@ -1,0 +1,32 @@
+id: ocd-person/4e1e9eb7-700c-4ecb-9752-39e5c1a97634
+name: Jose L. Dalmau Santiago
+given_name: Jose
+family_name: Dalmau Santiago
+middle_name: L.
+image: http://www.senadopr.us/Fotos%20Senadores/sen_jdalmau.jpg
+party:
+- name: "Partido Popular Democr\xE1tico"
+roles:
+- start_date: '2013-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: VII
+- start_date: '2009-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: At-Large
+links:
+- url: http://www.senadopr.us/Pages/Senadores%20Distrito%20VII.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PRL000007
+- scheme: legacy_openstates
+  identifier: PRL000090
+- scheme: legacy_openstates
+  identifier: PRL000158
+- scheme: legacy_openstates
+  identifier: PRL000207
+sources:
+- url: http://www.senadopr.us/Pages/Senadores%20Distrito%20VII.aspx

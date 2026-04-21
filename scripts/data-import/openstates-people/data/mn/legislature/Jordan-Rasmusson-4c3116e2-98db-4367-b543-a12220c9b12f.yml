@@ -1,0 +1,40 @@
+id: ocd-person/4c3116e2-98db-4367-b543-a12220c9b12f
+name: Jordan Rasmusson
+given_name: Jordan
+family_name: Rasmusson
+birth_date: 1993-04-23
+gender: Male
+email: sen.jordan.rasmusson@senate.mn
+image: https://www.senate.mn/graphics/09Rasmusson.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '9'
+- start_date: 2021-01-05
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 8A
+offices:
+- classification: capitol
+  address: Room 2409, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-4875
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1255
+other_names:
+- name: J. Rasmusson
+- name: J.C. Rasmusson
+- name: Jordan C. Rasmusson
+- name: Rasmusson, J.
+sources:
+- url: https://ballotpedia.org/Jordan_Rasmusson
+- url: https://en.wikipedia.org/wiki/Jordan_Rasmusson
+- url: https://justfacts.votesmart.org/candidate/194138/jordan-rasmusson
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.linkedin.com/in/jordan-rasmusson-57134710
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1255

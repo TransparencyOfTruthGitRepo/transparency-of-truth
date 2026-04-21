@@ -1,0 +1,118 @@
+id: ocd-person/8addb5a8-a569-54b2-811b-b5d091350411
+name: Peter Welch
+given_name: Peter
+family_name: Welch
+birth_date: 1947-05-02
+gender: Male
+email: https://www.welch.senate.gov/email-peter/#email-peter
+image: https://unitedstates.github.io/images/congress/450x550/W000800.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Vermont
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VT-AL
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VT-AL
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VT-AL
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VT-AL
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VT-AL
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VT-AL
+- start_date: 2009-01-06
+  end_date: 2011-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VT-AL
+- start_date: 2007-01-04
+  end_date: 2009-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VT-AL
+offices:
+- classification: capitol
+  address: 115 Russell Senate Office Building, Washington, DC 20510
+  voice: 202-224-4242
+  fax: 802-651-1674
+- classification: district
+  address: 199 Main St. 4th Floor, Burlington, VT 05401
+  voice: 802-863-2525
+  fax: 202-228-7575
+links:
+- url: https://www.welch.senate.gov
+  note: website
+- url: https://www.welch.senate.gov/
+- url: https://www.welch.senate.gov/email-peter/
+  note: contact form
+other_names:
+- name: P. Welch
+- name: P.F. Welch
+- name: Welch, P.
+ids:
+  twitter: PeterWelch
+  youtube: UC0YfApJx6qNaAQ-ir93U8xA
+  facebook: PeterWelch
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Peter Welch
+- scheme: bioguide
+  identifier: W000800
+- scheme: cspan
+  identifier: '1019990'
+- scheme: fec
+  identifier: H6VT00160
+- scheme: google_entity_id
+  identifier: kg:/m/0db4gl
+- scheme: govtrack
+  identifier: '412239'
+- scheme: house_history
+  identifier: '24183'
+- scheme: icpsr
+  identifier: '20750'
+- scheme: lis
+  identifier: S422
+- scheme: maplight
+  identifier: '722'
+- scheme: opensecrets
+  identifier: N00000515
+- scheme: pictorial
+  identifier: '13355'
+- scheme: thomas
+  identifier: 01879
+- scheme: votesmart
+  identifier: '51272'
+- scheme: wikidata
+  identifier: Q1112656
+sources:
+- url: https://ballotpedia.org/Peter_Welch
+- url: https://en.wikipedia.org/wiki/Peter_Welch
+- url: https://justfacts.votesmart.org/candidate/51272/peter-welch
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/peter_welch/412239
+- url: https://www.welch.senate.gov

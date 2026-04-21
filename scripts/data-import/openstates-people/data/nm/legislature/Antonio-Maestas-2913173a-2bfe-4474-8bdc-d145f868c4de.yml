@@ -1,0 +1,68 @@
+id: ocd-person/2913173a-2bfe-4474-8bdc-d145f868c4de
+name: Moe Maestas
+given_name: Moe
+family_name: Maestas
+birth_date: 1968-07-06
+gender: Male
+email: antonio.maestas@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SMAEM.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-11-16
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '26'
+- end_date: 2022-11-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '16'
+offices:
+- classification: capitol
+  address: State Capitol Room 300C, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4373
+links:
+- url: https://nmlegis.gov/Members/Legislator?SponCode=smaem
+- url: https://www.linkedin.com/in/antonio-moe%E2%80%8B-maestas-1262466/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HMAES
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SMAEM
+  note: homepage
+- url: https://www.youtube.com/channel/UC7G5hJOY0O8otO1RpJtszSQ
+  note: youtube
+other_names:
+- name: A. Maestas
+- name: Antonio Maestas
+- name: M. Maestas
+- name: Maestas, Antonio
+- name: Maestas, M.
+- name: Maestas, Moe
+ids:
+  twitter: RepMoe
+  facebook: repmoe
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000058
+- scheme: legacy_openstates
+  identifier: NML000227
+- scheme: legacy_openstates
+  identifier: NML000344
+- scheme: legacy_openstates
+  identifier: NML000417
+- scheme: legacy_openstates
+  identifier: NML000418
+sources:
+- url: https://ballotpedia.org/Antonio_Maestas
+- url: https://en.wikipedia.org/wiki/Moe_Maestas
+- url: https://moejustice.com
+- url: https://nmlegis.gov/Members/Legislator?SponCode=smaem
+- url: "https://www.linkedin.com/in/antonio-moe\u200B-maestas-1262466"
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HMAES
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SMAEM
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: Bernalillo
+  service: Representative since 2007; Senator since 2022
+  occupation: Lawyer

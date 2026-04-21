@@ -1,0 +1,45 @@
+id: ocd-person/4fa41145-35bf-442b-bdfe-cf54ea53da69
+name: Earle Banks
+given_name: Earle
+family_name: Banks
+birth_date: 1954-06-25
+gender: Male
+email: ebankslaw@aol.com
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/banks.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1993-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '67'
+offices:
+- classification: capitol
+  address: State Capitol Room 102-C, 400 High St., Jackson, MS 39201
+  voice: 601-359-3399
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/banks.xml
+  note: homepage
+other_names:
+- name: Banks, E.
+- name: E. Banks
+- name: E.S. Banks
+- name: Earle S. Banks
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000082
+sources:
+- url: https://ballotpedia.org/Earle_Banks
+- url: https://billstatus.ls.state.ms.us/members/house/banks.xml
+- url: https://billstatus.ls.state.ms.us/members/hr_membs.xml
+- url: https://en.wikipedia.org/wiki/Earle_S._Banks
+- url: https://justfacts.votesmart.org/candidate/biography/3664/earle-banks
+extras:
+  education:
+  - Jackson State University
+  - Mississippi College School of Law
+  counties represented:
+  - Hinds
+  other phone: (601)969-3040

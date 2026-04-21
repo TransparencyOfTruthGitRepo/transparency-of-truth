@@ -1,0 +1,55 @@
+id: ocd-person/4d68b7bf-e7fb-4c6d-ac12-526aba53e65e
+name: Lino Avellani
+given_name: Lino
+family_name: Avellani
+gender: Male
+email: lino.avellani@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/49496.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 4
+- start_date: 2014-12-03
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 4
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 5
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=377205
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377205
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=815
+  note: member detail page
+other_names:
+- name: Avellani, L.
+- name: L. Avellani
+- name: Lino M. Avellani
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001067
+sources:
+- url: https://ballotpedia.org/Lino_Avellani
+- url: https://en.wikipedia.org/wiki/Lino_Avellani
+- url: https://gc.nh.gov/house/members/member.aspx?member=377205
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377205
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=815
+- url: https://www.linkedin.com/in/lino-avellani-4268a040
+extras:
+  county: Carroll
+  elected status: Incumbent
+  gender code: M

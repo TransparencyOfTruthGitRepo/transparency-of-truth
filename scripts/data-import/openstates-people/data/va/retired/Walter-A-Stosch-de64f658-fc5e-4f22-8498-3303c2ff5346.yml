@@ -1,0 +1,21 @@
+id: ocd-person/de64f658-fc5e-4f22-8498-3303c2ff5346
+name: Walter A Stosch
+given_name: Walter
+family_name: Stosch
+middle_name: A
+image: http://sov.state.va.us/images/Stosch12.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2010-01-01'
+  end_date: '2015-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '12'
+links:
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?151+mbr+S35
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000033
+sources:
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?151+mbr+S35

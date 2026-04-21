@@ -1,0 +1,37 @@
+id: ocd-organization/3d7c28e5-33fa-464f-8ba7-e138874f5c33
+jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+classification: committee
+name: Ethics
+chamber: upper
+sources:
+- url: https://malegislature.gov/Committees/Detail/S56
+  note: Committee Details Page
+links:
+- url: https://malegislature.gov/Committees/Detail/S56
+  note: homepage
+members:
+- name: Jason Lewis
+  role: chair
+  person_id: ocd-person/92a770ae-a348-4f86-92ad-c4a8ebc568f6
+- name: Sal DiDomenico
+  role: vice chair
+  person_id: ocd-person/d691b834-a68d-44da-8140-9582ee37d8a6
+- name: Patrick O'Connor
+  role: ranking  member
+  person_id: ocd-person/493988da-4de8-49a0-8d6c-090097e89920
+- name: Brendan Crighton
+  role: member
+  person_id: ocd-person/77994b2c-f88c-4a5f-bf9d-7abd1875d8dc
+- name: Bruce Tarr
+  role: member
+  person_id: ocd-person/429f87cf-f7a1-4201-ade4-9efeb9149d03
+- name: Cindy Friedman
+  role: member
+  person_id: ocd-person/456b0061-febd-4ff7-8547-42be0685526f
+- name: Cynthia Creem
+  role: member
+  person_id: ocd-person/ece82669-b6f6-4f0f-ae5d-7b238b1cd1dd
+other_names:
+- name: Senate Committee on Ethics
+- name: Senate Ethics
+- name: Senate Ethics Committee

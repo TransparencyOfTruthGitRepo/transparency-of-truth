@@ -1,0 +1,60 @@
+id: ocd-person/230c230d-7313-4a94-8eb3-60f57a86543c
+name: Mike Nemes
+given_name: Mike
+family_name: Nemes
+birth_date: 1954-02-20
+gender: Male
+email: mike.nemes@kylegislature.gov
+image: https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate138.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-28
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '38'
+- start_date: 2011-01-01
+  end_date: 2013-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '38'
+- start_date: 2011-01-01
+  end_date: 2012-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '38'
+offices:
+- classification: capitol-mail
+  address: Room Annex 252, 702 Capitol Ave., Frankfort, KY 40601
+  voice: 502-564-8100
+links:
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=138
+  note: homepage
+- url: https://www.lrc.ky.gov/legislator/H038.htm
+other_names:
+- name: M. Nemes
+- name: M.J. Nemes
+- name: Michael J. Nemes
+- name: Michael Nemes
+- name: Nemes, M.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000103
+- scheme: legacy_openstates
+  identifier: KYL000139
+- scheme: openstates
+  identifier: ocd-person/e5925c88-c457-4b00-9d30-fd6755f1099e
+sources:
+- url: https://ballotpedia.org/Mike_Nemes
+- url: https://en.wikipedia.org/wiki/Michael_J._Nemes
+- url: https://en.wikipedia.org/wiki/Mike_Nemes
+- url: https://justfacts.votesmart.org/candidate/biography/117321/michael-nemes
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=138
+- url: https://legislature.ky.gov/Legislators/senate
+- url: https://www.lrc.ky.gov/legislator/H038.htm
+extras:
+  counties represented:
+  - Bullitt
+  - Jefferson
+  mailing address: 209 Sandy Dr Shepherdsville, KY 40165
+  home city: Shepherdsville

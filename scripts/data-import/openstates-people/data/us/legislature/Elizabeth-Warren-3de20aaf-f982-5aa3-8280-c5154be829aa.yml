@@ -1,0 +1,91 @@
+id: ocd-person/3de20aaf-f982-5aa3-8280-c5154be829aa
+name: Elizabeth Warren
+given_name: Elizabeth
+family_name: Warren
+birth_date: 1949-06-22
+gender: Female
+email: https://www.warren.senate.gov/contact/shareyouropinion
+image: https://unitedstates.github.io/images/congress/450x550/W000817.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Massachusetts
+- start_date: 2019-01-03
+  end_date: 2025-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Massachusetts
+- start_date: 2013-01-03
+  end_date: 2019-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Massachusetts
+offices:
+- classification: capitol
+  address: 311 Hart Senate Office Building, Washington, DC 20510
+  voice: 202-224-4543
+- classification: capitol
+  address: John F. Kennedy Federal Building 15 New Sudbury St., Suite 2400, Boston,
+    MA 02203
+  voice: 617-565-3170
+- classification: district
+  address: 1550 Main St. Suite 406, Springfield, MA 01103
+  voice: 413-788-2690
+links:
+- url: https://www.warren.senate.gov
+  note: website
+- url: https://www.warren.senate.gov/
+- url: https://www.warren.senate.gov/?p=email_senator
+  note: contact form
+other_names:
+- name: E. Warren
+- name: E.A. Warren
+- name: Elizabeth A. Warren
+- name: Warren, E.
+ids:
+  twitter: SenWarren
+  youtube: UCTH9zV8Imw09J5bOoTR18_A
+  facebook: senatorelizabethwarren
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Elizabeth Warren
+- scheme: bioguide
+  identifier: W000817
+- scheme: cspan
+  identifier: '1023023'
+- scheme: fec
+  identifier: S2MA00170
+- scheme: google_entity_id
+  identifier: kg:/m/01qh39
+- scheme: govtrack
+  identifier: '412542'
+- scheme: house_history
+  identifier: '15032390639'
+- scheme: icpsr
+  identifier: '41301'
+- scheme: lis
+  identifier: S366
+- scheme: maplight
+  identifier: '1766'
+- scheme: opensecrets
+  identifier: N00033492
+- scheme: pictorial
+  identifier: '13378'
+- scheme: thomas
+  identifier: 02182
+- scheme: votesmart
+  identifier: '141272'
+- scheme: wikidata
+  identifier: Q434706
+sources:
+- url: https://ballotpedia.org/Elizabeth_Warren
+- url: https://en.wikipedia.org/wiki/Elizabeth_Warren
+- url: https://justfacts.votesmart.org/candidate/biography/141272/elizabeth-warren
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/elizabeth_warren/412542
+- url: https://www.warren.senate.gov

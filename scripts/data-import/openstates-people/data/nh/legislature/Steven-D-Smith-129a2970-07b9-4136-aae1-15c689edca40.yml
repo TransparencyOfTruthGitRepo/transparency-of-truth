@@ -1,0 +1,65 @@
+id: ocd-person/129a2970-07b9-4136-aae1-15c689edca40
+name: Steven Smith
+given_name: Steven
+family_name: Smith
+birth_date: 1964-06-23
+gender: Male
+email: steven.smith@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/21894.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Sullivan 3
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Sullivan 3
+  start_date: 2022-12-07
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Sullivan 11
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=377031
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377031
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=656
+  note: member detail page
+other_names:
+- name: S. Smith
+- name: S.D. Smith
+- name: Smith, S.
+- name: Steven D. Smith
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000356
+- scheme: legacy_openstates
+  identifier: NHL000736
+- scheme: legacy_openstates
+  identifier: NHL000953
+- scheme: legacy_openstates
+  identifier: NHL001144
+sources:
+- url: https://ballotpedia.org/Steven_Smith,_New_Hampshire_Politician
+- url: https://en.wikipedia.org/wiki/Steven_D._Smith
+- url: https://gc.nh.gov/house/members/member.aspx?member=377031
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/110851/steve-smith
+- url: https://steve4nh.com/about
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377031
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=656
+- url: https://www.linkedin.com/in/steven-smith-01a0236
+extras:
+  county: Sullivan
+  elected status: Incumbent
+  gender code: M

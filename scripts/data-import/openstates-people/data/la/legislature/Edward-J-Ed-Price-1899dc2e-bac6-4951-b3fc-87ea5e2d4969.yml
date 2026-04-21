@@ -1,0 +1,59 @@
+id: ocd-person/1899dc2e-bac6-4951-b3fc-87ea5e2d4969
+name: Ed Price
+given_name: Ed
+family_name: Price
+gender: Male
+email: pricee@legis.la.gov
+image: https://senate.la.gov/SenatorPics/Sen2.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-06-16
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '2'
+- start_date: 2012-01-09
+  end_date: 2017-06-15
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '2'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 2115 S. Burnside Ave. Suite B, Gonzales, LA 70737
+  voice: 225-644-6738
+links:
+- url: https://senate.la.gov/smembers.aspx?ID=2
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=2
+other_names:
+- name: E. Price
+- name: E.J. Price
+- name: Ed Price
+- name: Edward J. "Ed" Price
+- name: Edward J. Price
+- name: Price, E.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000955
+sources:
+- url: https://ballotpedia.org/Ed_Price
+- url: https://justfacts.votesmart.org/candidate/biography/134641/ed-price
+- url: https://senate.la.gov/Senators_FullInfo
+- url: https://senate.la.gov/smembers.aspx?ID=2
+- url: https://senate.la.gov/smembers?ID=2
+extras:
+  second phone: (855)844-1430
+  legislative assistant: Delania Bergeron
+  representing parishes:
+  - Ascension
+  - Assumption
+  - Iberville
+  - Lafourche
+  - St. Charles
+  - St. James
+  - St. John the Baptist
+  - West Baton Rouge
+  education: Grambling State University, B.A., 1975

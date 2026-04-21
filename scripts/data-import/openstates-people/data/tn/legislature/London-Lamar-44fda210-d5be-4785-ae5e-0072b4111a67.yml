@@ -1,0 +1,64 @@
+id: ocd-person/44fda210-d5be-4785-ae5e-0072b4111a67
+name: London Lamar
+given_name: London
+family_name: Lamar
+birth_date: 1990-12-29
+gender: Female
+email: sen.london.lamar@capitol.tn.gov
+image: https://www.capitol.tn.gov/senate/members/images/s33.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-03-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '33'
+- start_date: 2018-11-06
+  end_date: 2022-03-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '33'
+- start_date: 2018-11-06
+  end_date: 2022-03-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '91'
+  end_reason: Appointed to fill Senate vacancy by Shelby County Commissioners
+offices:
+- classification: capitol
+  address: Room 762, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-2509
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S33
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S33&ga=114
+- url: https://www.capitol.tn.gov/house/members/h91.html
+- url: https://www.capitol.tn.gov/senate/members/s33.html
+  note: homepage
+other_names:
+- name: L. Lamar
+- name: Lamar, L
+- name: Lamar, L.
+sources:
+- url: https://ballotpedia.org/London_Lamar
+- url: https://en.wikipedia.org/wiki/London_Lamar
+- url: https://justfacts.votesmart.org/candidate/182530/london-lamar
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S33
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=S33&ga=114
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h91.html
+- url: https://www.capitol.tn.gov/senate/members
+- url: https://www.capitol.tn.gov/senate/members/
+- url: https://www.capitol.tn.gov/senate/members/s33.html
+- url: https://www.linkedin.com/in/london-lamar-b052b929
+extras:
+  office: 762 CHB
+  personal info:
+  - Born December 29, 1990
+  - Single
+  - Christian
+  - "B.A. Political Science with double minors in Sociology and Intercultural Studies,\
+    \ Saint Mary\u2019s College, Notre Dame, IN"

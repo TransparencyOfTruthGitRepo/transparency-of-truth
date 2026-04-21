@@ -1,0 +1,62 @@
+id: ocd-person/ac1cac30-3fec-4c56-b172-b483db465a6b
+name: John Albers
+given_name: John
+family_name: Albers
+birth_date: 1972-08-18
+gender: Male
+email: john.albers@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/albers-john-754.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '56'
+offices:
+- classification: capitol
+  address: State Capitol Room 421-C, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-463-8055
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/754
+- url: https://www.legis.ga.gov/members/senate/754?session=1029
+- url: https://www.legis.ga.gov/members/senate/754?session=1031
+  note: HTML member detail page
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=754&Session=27
+other_names:
+- name: ALBERS, 56TH
+- name: Albers, J.
+- name: J. Albers
+- name: J.E. Albers
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000001
+sources:
+- url: https://ballotpedia.org/John_Albers
+- url: https://en.wikipedia.org/wiki/John_Albers
+- url: https://justfacts.votesmart.org/candidate/biography/122715/john-albers
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.legis.ga.gov/api/members/detail/754?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/754?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/754
+- url: https://www.legis.ga.gov/members/senate/754?session=1029
+- url: https://www.legis.ga.gov/members/senate/754?session=1031
+- url: https://www.linkedin.com/in/johnalbers
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=754&Session=27
+extras:
+  residence: 'Roswell '
+  city: Roswell
+  georgia_id: 754
+  birthday: August 18
+  occupation: Executive & Business Owner
+  press: https://senatepress.net/category/senate-press/john-albers
+  religion: Christian - Methodist
+  spouse: Kari
+  staff: Allison Bailey
+  staff email: allison.bailey@senate.ga.gov

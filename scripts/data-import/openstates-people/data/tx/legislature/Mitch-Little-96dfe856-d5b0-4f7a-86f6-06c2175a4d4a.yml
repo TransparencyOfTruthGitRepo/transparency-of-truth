@@ -1,0 +1,31 @@
+id: ocd-person/96dfe856-d5b0-4f7a-86f6-06c2175a4d4a
+name: Mitch Little
+given_name: Mitch
+family_name: Little
+gender: Male
+email: mitch.little@house.texas.gov
+image: https://house.texas.gov/images/members/4615.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '65'
+offices:
+- classification: capitol
+  address: Room E2.420, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0478
+links:
+- url: https://house.texas.gov/members/4615
+other_names:
+- name: J.M. Little
+- name: Little, M.
+- name: Little, Mitch
+- name: M. Little
+sources:
+- url: https://ballotpedia.org/Mitch_Little
+- url: https://en.wikipedia.org/wiki/Mitch_Little
+- url: https://house.texas.gov/members/4615
+- url: https://justfacts.votesmart.org/candidate/biography/213436/mitch-little
+- url: https://www.linkedin.com/in/mitchlittle

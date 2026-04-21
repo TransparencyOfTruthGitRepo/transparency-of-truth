@@ -1,0 +1,35 @@
+id: ocd-person/73f418c4-6d07-4ef5-924f-1664738d2b46
+name: Randy Deibert
+given_name: Randy
+family_name: Deibert
+gender: Male
+email: randy.deibert@sdlegislature.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/RandyDeibert.png
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '31'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3821
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/4448/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4597/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4745/Detail
+other_names:
+- name: Deibert, R.
+- name: R. Deibert
+sources:
+- url: https://ballotpedia.org/Randy_Deibert
+- url: https://en.wikipedia.org/wiki/Randy_Deibert
+- url: https://justfacts.votesmart.org/candidate/biography/205085/randy-deibert
+- url: https://sdlegislature.gov/Legislators/Profile/4448/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4597/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4745/Detail
+- url: https://www.linkedin.com/in/randy-deibert-0b54a794
+extras:
+  occupation: Professional Land Surveyor

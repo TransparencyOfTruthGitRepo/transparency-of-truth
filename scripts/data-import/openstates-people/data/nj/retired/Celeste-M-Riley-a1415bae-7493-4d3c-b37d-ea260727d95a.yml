@@ -1,0 +1,22 @@
+id: ocd-person/a1415bae-7493-4d3c-b37d-ea260727d95a
+name: Celeste M Riley
+given_name: Celeste
+family_name: Riley
+middle_name: M
+image: http://www.njleg.state.nj.us/members/memberphotos/riley_color.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2015-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '3'
+links:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=312
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000009
+sources:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=312
+- url: http://www.njleg.state.nj.us/downloads.asp

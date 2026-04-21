@@ -1,0 +1,40 @@
+id: ocd-person/1bc1818f-49fd-478a-affa-1f167adcfb51
+name: Tim Longest
+given_name: Tim
+family_name: Longest
+birth_date: 1991-05-14
+gender: Male
+email: tim.longest@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/818/Low
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '34'
+offices:
+- classification: capitol
+  address: Room 1315, North Carolina Legislative Building 16 W. Jones St., Raleigh,
+    NC 27601
+  voice: 919-733-5773
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/818
+- url: https://www.ncleg.gov/Members/Committees/H/818
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/818
+- url: https://www.ncleg.gov/Members/Votes/H/818
+other_names:
+- name: Longest, T.
+- name: T. Longest
+sources:
+- url: https://ballotpedia.org/Tim_Longest
+- url: https://www.linkedin.com/in/tim-longest-66889045
+- url: https://www.ncleg.gov/Members/Biography/H/818
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 16 West Jones Street, Rm. 1421; Raleigh, NC 27601-1096
+  terms in senate: 1 (0 in Senate)
+  represented counties: Wake
+  legislative assistant: Cora Martin
+  legislative assistant email: Cora.Martin@ncleg.gov
+  occupation: Attorney

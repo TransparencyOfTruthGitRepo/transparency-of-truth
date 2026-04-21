@@ -1,0 +1,46 @@
+id: ocd-person/21577fbd-e06f-4bc3-8717-e050ff165a74
+name: Lisa Barnes
+given_name: Lisa
+family_name: Barnes
+birth_date: 1966-07-16
+gender: Female
+email: lisa.barnes@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/S/427/Low
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '11'
+- end_date: 2021-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '7'
+offices:
+- classification: capitol
+  address: Room 628, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-715-3030
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/427
+- url: https://www.ncleg.gov/Members/Committees/S/427
+- url: https://www.ncleg.gov/Members/IntroducedBills/S/427
+- url: https://www.ncleg.gov/Members/Votes/S/427
+other_names:
+- name: Barnes, L.
+- name: L. Barnes
+- name: L.S. Barnes
+- name: Lisa S. Barnes
+- name: Lisa Stone Barnes
+sources:
+- url: https://ballotpedia.org/Lisa_Barnes
+- url: https://en.wikipedia.org/wiki/Lisa_Stone_Barnes
+- url: https://justfacts.votesmart.org/candidate/biography/163025/lisa-barnes
+- url: https://www.ncleg.gov/Members/Biography/S/427
+- url: https://www.ncleg.gov/Members/MemberTable/S
+extras:
+  terms in senate: 2 (1 in House)
+  represented counties: Franklin, Nash, Vance
+  legislative assistant: Suzanna Lee
+  legislative assistant email: Suzanna.Lee@ncleg.gov

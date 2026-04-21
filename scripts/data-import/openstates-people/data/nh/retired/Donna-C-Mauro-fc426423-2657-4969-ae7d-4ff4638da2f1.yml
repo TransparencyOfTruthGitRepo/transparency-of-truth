@@ -1,0 +1,20 @@
+id: ocd-person/fc426423-2657-4969-ae7d-4ff4638da2f1
+name: Donna C Mauro
+given_name: Donna
+family_name: Mauro
+middle_name: C
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 4
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376979
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000233
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members(Asterisk%20Delimited).txt

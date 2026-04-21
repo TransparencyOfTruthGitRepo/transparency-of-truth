@@ -1,0 +1,38 @@
+id: ocd-person/65469c71-edc2-4c9f-87da-bcf4d3277591
+name: Scott Sharp
+given_name: Scott
+family_name: Sharp
+birth_date: 1963-09-25
+gender: Male
+email: scott.sharp@kylegislature.gov
+image: https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house100.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '100'
+offices:
+- classification: capitol-mail
+  address: Room Annex 432B, 702 Capital Ave., Frankfort, KY 40601
+  voice: 502-564-8100
+links:
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=100
+  note: homepage
+other_names:
+- name: S. Sharp
+- name: S.L. Sharp
+- name: Scott L. Sharp
+- name: Sharp, S.
+sources:
+- url: https://ballotpedia.org/Scott_Sharp
+- url: https://en.wikipedia.org/wiki/Scott_Sharp_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/178054/scott-sharp
+- url: https://legislature.ky.gov/Legislators/house-of-representatives
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=100
+extras:
+  counties represented:
+  - Boyd
+  mailing address: 702 Capital Ave Annex Room 432B Frankfort, KY 40601
+  home city: Ashland

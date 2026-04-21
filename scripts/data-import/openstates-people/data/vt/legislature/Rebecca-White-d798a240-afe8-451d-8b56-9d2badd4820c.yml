@@ -1,0 +1,62 @@
+id: ocd-person/d798a240-afe8-451d-8b56-9d2badd4820c
+name: Becca White
+given_name: Becca
+family_name: White
+gender: Female
+email: rwhite@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/White,Rebecca.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Windsor
+- start_date: 2019-01-09
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Windsor
+- start_date: 2019-01-09
+  end_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Windsor-4-2
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+- classification: home
+  address: VT
+  voice: 802-777-4517
+links:
+- url: https://legislature.vermont.gov/Documents/SmallMaps/WDR-4-2.pdf
+  note: district map
+- url: https://legislature.vermont.gov/people/single/2020/30976
+- url: https://legislature.vermont.gov/people/single/2022/30976
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2024/37414
+- url: https://legislature.vermont.gov/people/single/2026/37414
+other_names:
+- name: B. White
+- name: Becca E. White
+- name: R. White
+- name: Rebecca E. White
+- name: Rebecca White
+- name: White, B.
+sources:
+- url: https://ballotpedia.org/Rebecca_White
+- url: https://en.wikipedia.org/wiki/Rebecca_White_(Vermont_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/184061/becca-white
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/single/2020/30976
+- url: https://legislature.vermont.gov/people/single/2022/30976
+- url: https://legislature.vermont.gov/people/single/2024/37414
+- url: https://legislature.vermont.gov/people/single/2026/37414
+- url: https://www.linkedin.com/in/rebeccavt
+extras:
+  work address: Waterbury, VT 05677
+  home address: White River Jct., VT 05001
+  home phone: (802) 777-4517
+  state email: rwhite@leg.state.vt.us

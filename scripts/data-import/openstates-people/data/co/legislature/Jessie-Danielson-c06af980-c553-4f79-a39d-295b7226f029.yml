@@ -1,0 +1,48 @@
+id: ocd-person/c06af980-c553-4f79-a39d-295b7226f029
+name: Jessie Danielson
+given_name: Jessie
+family_name: Danielson
+gender: Female
+email: jessie.danielson.senate@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_danielson%2Cjessie.jpg?itok=PNVRiYDq
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '22'
+- end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '24'
+- start_date: 2019-01-04
+  end_date: 2023-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '20'
+offices:
+- classification: capitol
+  address: State Capitol Room 346, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-4856
+links:
+- url: https://leg.colorado.gov/legislators/jessie-danielson
+  note: homepage
+other_names:
+- name: Danielson J.
+- name: Danielson, J.
+- name: J. Danielson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: COL000183
+- scheme: openstates
+  identifier: ocd-person/ed95a811-9d25-4769-90a0-4a48d1240f83
+sources:
+- url: https://ballotpedia.org/Jessie_Danielson
+- url: https://en.wikipedia.org/wiki/Jessie_Danielson
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/jessie-danielson
+extras:
+  counties represented:
+  - Jefferson

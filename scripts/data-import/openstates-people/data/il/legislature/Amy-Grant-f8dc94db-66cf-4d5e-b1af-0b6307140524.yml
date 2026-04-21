@@ -1,0 +1,60 @@
+id: ocd-person/f8dc94db-66cf-4d5e-b1af-0b6307140524
+name: Amy Grant
+given_name: Amy
+family_name: Grant
+gender: Female
+email: grant@ilhousegop.org
+image: https://cdn.ilga.gov/assets/img/members/{41DCC207-977E-45DC-BD10-A8AFDCEB673E}.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '47'
+- end_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '42'
+offices:
+- classification: capitol
+  address: Room 210-N, Stratton Office Building, Springfield, IL 62706
+  voice: 217-558-1037
+- classification: district
+  address: 416 E. Roosevelt Road Suite 104, Wheaton, IL 60187
+  voice: 331-218-4182
+links:
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2754
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2955
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3150
+  note: homepage
+- url: https://repgrant.com/
+- url: https://www.ilga.gov/House/Members/Details/3360
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3150
+- url: https://www.ilga.gov/house/Rep.asp?GA=104&MemberID=3360
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3360
+other_names:
+- name: A. Grant
+- name: A.H. Grant
+- name: Amy Grant
+- name: Amy L. Grant
+- name: Grant, A.
+- name: Grant, Amy
+- name: Grant, Amy L
+sources:
+- url: https://ballotpedia.org/Amy_Grant_(Illinois)
+- url: https://en.wikipedia.org/wiki/Amy_Grant_(politician)
+- url: https://ilga.gov/house/default.asp?GA=101
+- url: https://ilga.gov/house/default.asp?GA=102
+- url: https://ilga.gov/house/default.asp?GA=103
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2754
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2955
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3150
+- url: https://justfacts.votesmart.org/candidate/biography/158519/amy-grant
+- url: https://repgrant.com
+- url: https://www.ilga.gov/House/Members/Details/3360
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3150
+- url: https://www.ilga.gov/house/Rep.asp?GA=104&MemberID=3360
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3360
+- url: https://www.linkedin.com/in/amy-grant-87389932
+- url: https://www.linkedin.com/in/amy-l-grant-39917a65

@@ -1,0 +1,65 @@
+id: ocd-person/bf2c1ec5-d995-4605-85ac-139adb037d99
+name: Nan Orrock
+given_name: Nan
+family_name: Orrock
+birth_date: 1943-11-08
+gender: Female
+email: nan.orrock@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/orrock-nan-33.jpg
+party:
+- name: Democratic
+roles:
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '36'
+  start_date: 2007-01-08
+offices:
+- classification: capitol
+  address: State Capitol Room 420-B, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-463-8054
+- classification: district
+  address: 1070 Delaware Ave. SE, Atlanta, GA 30316
+  voice: 404-524-5999
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/33
+- url: https://www.legis.ga.gov/members/senate/33?session=1029
+- url: https://www.legis.ga.gov/members/senate/33?session=1031
+  note: HTML member detail page
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=33&Session=27
+other_names:
+- name: N. Orrock
+- name: N.G. Orrock
+- name: Nan Orrock
+- name: Nancy Grogan Orrock
+- name: ORROCK, 36TH
+- name: Orrock, N.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000038
+sources:
+- url: https://ballotpedia.org/Nan_Orrock
+- url: https://en.wikipedia.org/wiki/Nan_Grogan_Orrock
+- url: https://justfacts.votesmart.org/candidate/biography/7940/nan-orrock
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.legis.ga.gov/api/members/detail/33?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/33?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/33
+- url: https://www.legis.ga.gov/members/senate/33?session=1029
+- url: https://www.linkedin.com/in/nan-grogan-orrock-2b30487
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=33&Session=27
+extras:
+  residence: Atlanta
+  city: Atlanta
+  georgia_id: 33
+  birthday: November 8
+  occupation: Non-Profit Director
+  press: 'https://senatepress.net/category/senate-press/nan-orrock '
+  staff: Kristy Walker
+  staff email: Kristy.Walker@senate.ga.gov
+  title: Minority Caucus Secretary

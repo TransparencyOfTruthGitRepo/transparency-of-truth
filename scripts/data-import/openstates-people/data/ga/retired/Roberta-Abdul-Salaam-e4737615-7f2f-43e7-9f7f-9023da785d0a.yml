@@ -1,0 +1,19 @@
+id: ocd-person/e4737615-7f2f-43e7-9f7f-9023da785d0a
+name: Roberta Abdul-Salaam
+given_name: Roberta
+family_name: Abdul-Salaam
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '74'
+links:
+- url: http://www1.legis.ga.gov/legis/2011_12/house/bios/abdulsalaamRoberta.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000055
+sources:
+- url: http://www1.legis.ga.gov/legis/2011_12/house/bios/abdulsalaamRoberta.htm

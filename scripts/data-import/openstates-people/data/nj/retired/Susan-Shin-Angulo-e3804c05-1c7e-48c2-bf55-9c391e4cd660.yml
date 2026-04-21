@@ -1,0 +1,13 @@
+id: ocd-person/e3804c05-1c7e-48c2-bf55-9c391e4cd660
+name: Susan Shin Angulo
+given_name: Susan Shin
+family_name: Angulo
+email: mayor@chtownship.com
+roles:
+- end_date: '2024-01-01'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/place:cherry_hill/government
+offices:
+- classification: primary
+  address: 820 Mercer Street;Cherry Hill, NJ 08002
+  voice: 856-488-7878

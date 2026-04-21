@@ -1,0 +1,30 @@
+id: ocd-person/28891c40-a850-4e37-a339-4f60976ab515
+name: Artie Mingo
+given_name: Artie
+family_name: Mingo
+gender: Male
+email: arthur.mingo@legislature.maine.gov
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '9'
+offices:
+- classification: capitol
+  address: Room 332, House Republican Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/3107
+- url: https://mainehousegop.org/members/mingo-arthur/
+other_names:
+- name: A. Mingo
+- name: A.K. Mingo
+- name: Arthur MINGO
+- name: Mingo, A.
+sources:
+- url: https://ballotpedia.org/Arthur_Mingo
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/3107
+- url: https://mainehousegop.org/members/mingo-arthur
+- url: https://www.linkedin.com/in/arthur-mingo-54253840

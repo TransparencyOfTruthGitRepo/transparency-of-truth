@@ -1,0 +1,66 @@
+id: ocd-person/e2c141e9-9e04-4e2b-8e5b-57db594c7abc
+name: Steve Gooch
+given_name: Steve
+family_name: Gooch
+birth_date: 1967-02-25
+gender: Male
+email: steve.gooch@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/gooch-steve-752.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '51'
+offices:
+- classification: capitol
+  address: Room 301-B, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-9221
+- classification: district-mail
+  address: P.O. Box 600, Dahlonega, GA 30533
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/752
+- url: https://www.legis.ga.gov/members/senate/752?session=1029
+- url: https://www.legis.ga.gov/members/senate/752?session=1031
+  note: HTML member detail page
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=752&Session=27
+other_names:
+- name: GOOCH, 51ST
+- name: Gooch, S.
+- name: S. Gooch
+- name: S.W. Gooch
+- name: Stephen Wade Gooch
+- name: Steve Gooch
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000017
+sources:
+- url: https://ballotpedia.org/Steve_Gooch
+- url: https://en.wikipedia.org/wiki/Steve_Gooch
+- url: https://justfacts.votesmart.org/candidate/biography/82557/steve-gooch
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.legis.ga.gov/api/members/detail/752?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/752?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/752
+- url: https://www.legis.ga.gov/members/senate/752?session=1029
+- url: https://www.legis.ga.gov/members/senate/752?session=1031
+- url: https://www.linkedin.com/in/steve-gooch-64618b18
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=752&Session=27
+extras:
+  residence: Dahlonega
+  city: Dahlonega
+  georgia_id: 752
+  birthday: February 25
+  press: https://senatepress.net/category/senate-press/steve-gooch
+  spouse: Shannon
+  staff: Chloe Satterfield
+  staff email: chloe.satterfield@senate.ga.gov
+  title: Majority Leader

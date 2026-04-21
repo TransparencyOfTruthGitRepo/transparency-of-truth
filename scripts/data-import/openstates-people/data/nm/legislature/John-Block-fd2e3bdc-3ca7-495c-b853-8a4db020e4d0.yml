@@ -1,0 +1,37 @@
+id: ocd-person/fd2e3bdc-3ca7-495c-b853-8a4db020e4d0
+name: John Block
+given_name: John
+family_name: Block
+gender: Male
+email: john.block@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HBLOC.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '51'
+offices:
+- classification: capitol
+  address: Room 203H, New Mexico Capitol Annex 325 Don Gaspar Ave., Santa Fe, NM 87501
+  voice: 505-986-4453
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HBLOC
+  note: homepage
+other_names:
+- name: Block, J.
+- name: Block, John
+- name: J. Block
+- name: J.P. Block
+- name: John P. Block
+- name: John Peter Block
+sources:
+- url: https://ballotpedia.org/John_Block
+- url: https://en.wikipedia.org/wiki/John_Block_(New_Mexico_politician)
+- url: https://pinonpost.com/about
+- url: https://www.linkedin.com/in/johnfornm
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HBLOC
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Otero

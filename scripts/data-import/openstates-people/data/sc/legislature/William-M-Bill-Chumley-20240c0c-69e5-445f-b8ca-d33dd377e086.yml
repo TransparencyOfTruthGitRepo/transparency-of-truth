@@ -1,0 +1,45 @@
+id: ocd-person/20240c0c-69e5-445f-b8ca-d33dd377e086
+name: Bill Chumley
+given_name: Bill
+family_name: Chumley
+birth_date: 1947-09-24
+gender: Male
+email: billchumley@schouse.gov
+image: https://scstatehouse.gov/images/members/0351704504.jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '35'
+offices:
+- classification: capitol
+  address: Room 326A, Blatt Building P.O. Box 11867, Columbia, SC 29201
+  voice: 803-212-6894
+links:
+- url: https://scstatehouse.gov/member.php?code=0351704504
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=0351704504
+  note: homepage
+other_names:
+- name: B. Chumley
+- name: Chumley, B.
+- name: Chumley, Bill
+- name: Chumley, William M.
+- name: W.M. Chumley
+- name: William M. "Bill" Chumley
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000072
+sources:
+- url: https://ballotpedia.org/Bill_Chumley
+- url: https://en.wikipedia.org/wiki/Bill_Chumley
+- url: https://justfacts.votesmart.org/candidate/biography/48119/bill-chumley
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=0351704504
+- url: https://www.linkedin.com/in/bill-chumley-511151bb
+- url: https://www.scstatehouse.gov/member.php?chamber=H
+- url: https://www.scstatehouse.gov/member.php?code=0351704504
+extras:
+  Home Address Home Phone: (864) 303-2726
+  counties represented: Greenville & Spartanburg Counties

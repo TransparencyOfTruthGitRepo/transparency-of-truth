@@ -1,0 +1,32 @@
+id: ocd-person/d699ae32-c8ba-43d2-a127-fdc38e722bc7
+name: Samantha Jacobs
+given_name: Samantha
+family_name: Jacobs
+gender: Female
+email: samantha.jacobs@gc.nh.gov
+image: https://www.citizenscount.org/sites/default/files/2024-08/samantha-jacobs.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 15
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=11170
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=11170
+other_names:
+- name: Jacobs, S.
+- name: S. Jacobs
+- name: S.J. Jacobs
+sources:
+- url: https://ballotpedia.org/Samantha_Jacobs
+- url: https://en.wikipedia.org/wiki/Samantha_Jacobs
+- url: https://gc.nh.gov/house/members/member.aspx?pid=11170
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=11170
+- url: https://justfacts.votesmart.org/candidate/biography/218881/samantha-jacobs
+- url: https://www.linkedin.com/in/samantha-jacobs-92a63b133

@@ -1,0 +1,31 @@
+id: ocd-person/22be6e69-17be-43cf-aba3-bf06d4c7b54c
+name: Renea Jones
+given_name: Renea
+family_name: Jones
+gender: Female
+email: rep.renea.jones@capitol.tn.gov
+image: https://reneajones.com/wp-content/uploads/2023/12/aboutimage.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-11-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '4'
+offices:
+- classification: capitol
+  address: Room 584, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-7450
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H4
+other_names:
+- name: Jones R
+- name: Jones, R
+- name: Jones, R.
+- name: R. Jones
+sources:
+- url: https://ballotpedia.org/Renea_Jones
+- url: https://en.wikipedia.org/wiki/Renea_Jones
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H4
+- url: https://www.linkedin.com/in/renea-jones-09613647

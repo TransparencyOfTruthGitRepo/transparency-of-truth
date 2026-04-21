@@ -1,0 +1,52 @@
+id: ocd-person/b23d4ed5-1994-4355-a102-cdf15ae57230
+name: Jeff Roy
+given_name: Jeff
+family_name: Roy
+birth_date: 1961-09-08
+gender: Male
+email: jeffrey.roy@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/JNR1.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 10th Norfolk
+  start_date: 2013-01-01
+offices:
+- classification: capitol
+  address: Room 7, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2040
+  fax: 617-626-0279
+- classification: district
+  address: 124 Grove St. Suite 220, Franklin, MA 02038
+  voice: 508-520-3100
+  fax: 508-618-7126
+links:
+- url: https://malegislature.gov/Legislators/Profile/JNR1
+other_names:
+- name: J. Roy
+- name: J.N. Roy
+- name: Jeffrey N. Roy
+- name: Roy, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000478
+- scheme: legacy_openstates
+  identifier: MAL000222
+- scheme: openstates
+  identifier: ocd-person/173f7a0d-c31b-481d-8315-45686a325878
+sources:
+- url: https://ballotpedia.org/Jeffrey_Roy
+- url: https://en.wikipedia.org/wiki/Jeffrey_Roy
+- url: https://justfacts.votesmart.org/candidate/biography/141607/jeffrey-roy
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/JNR1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/JNR1
+- url: https://malegislature.gov/Legislators/Profile/JNR1
+- url: https://www.linkedin.com/in/jeffreyroy
+extras:
+  member code: JNR1

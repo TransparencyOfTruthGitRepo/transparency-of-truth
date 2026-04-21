@@ -1,0 +1,28 @@
+id: ocd-person/5e679073-fe97-4dbd-a4d8-5cf4a9e75a57
+name: Gregory Cromer
+given_name: Gregory
+family_name: Cromer
+image: http://house.louisiana.gov/h_reps/RepPics09/rep90.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2012-01-01'
+  end_date: '2015-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '90'
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=90
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000195
+- scheme: legacy_openstates
+  identifier: LAL000344
+- scheme: legacy_openstates
+  identifier: LAL000547
+- scheme: legacy_openstates
+  identifier: LAL000663
+- scheme: legacy_openstates
+  identifier: LAL000911
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=90

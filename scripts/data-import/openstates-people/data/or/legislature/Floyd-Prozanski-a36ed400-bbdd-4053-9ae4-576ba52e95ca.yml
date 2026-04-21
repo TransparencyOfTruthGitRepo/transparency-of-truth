@@ -1,0 +1,37 @@
+id: ocd-person/a36ed400-bbdd-4053-9ae4-576ba52e95ca
+name: Floyd Prozanski
+given_name: Floyd
+family_name: Prozanski
+gender: Male
+email: sen.floydprozanski@oregonlegislature.gov
+image: http://www.oregonlegislature.gov/senate/MemberPhotos/prozanski.jpg
+party:
+- name: Democratic
+roles:
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '4'
+offices:
+- classification: capitol
+  address: Room S-413, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1704
+links:
+- url: https://www.oregonlegislature.gov/prozanski
+  note: homepage
+other_names:
+- name: F. Prozanski
+- name: Prozanski, F.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000022
+- scheme: legacy_openstates
+  identifier: ORL000124
+- scheme: legacy_openstates
+  identifier: ORL000356
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Floyd_Prozanski
+- url: https://en.wikipedia.org/wiki/Floyd_Prozanski
+- url: https://justfacts.votesmart.org/candidate/biography/3024/floyd-prozanski-jr
+- url: https://www.oregonlegislature.gov/prozanski

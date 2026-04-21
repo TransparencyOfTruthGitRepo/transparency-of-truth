@@ -1,0 +1,28 @@
+id: ocd-person/40c49980-211e-4cf8-8ea1-3c6214989f9e
+name: "Ensol Rodr\xEDguez"
+given_name: Ensol
+family_name: "Rodr\xEDguez"
+gender: Male
+email: enrodriguez@camara.pr.gov
+party:
+- name: Partido Nuevo Progresista
+roles:
+- start_date: 2025-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: '23'
+offices:
+- classification: capitol
+  address: "El Capitolio, Avenida Constituci\xF3n P.O. Box 9022228, San Juan, PR 00902"
+  voice: 787-722-3539
+links:
+- url: https://camara.registrok12.com/team/ensol-a-rodriguez-torres/
+- url: https://www.camara.pr.gov/team/ensol-a-rodriguez-torres/
+other_names:
+- name: "E. Rodr\xEDguez"
+- name: "E.A. Rodr\xEDguez"
+- name: "Rodr\xEDguez, E."
+sources:
+- url: https://ballotpedia.org/Ensol_Rodriguez_Yorres
+- url: https://camara.registrok12.com/team/ensol-a-rodriguez-torres
+- url: https://www.camara.pr.gov/team/ensol-a-rodriguez-torres

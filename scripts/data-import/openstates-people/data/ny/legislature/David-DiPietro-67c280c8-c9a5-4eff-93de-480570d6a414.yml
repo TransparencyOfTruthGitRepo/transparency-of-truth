@@ -1,0 +1,44 @@
+id: ocd-person/67c280c8-c9a5-4eff-93de-480570d6a414
+name: Dave DiPietro
+given_name: Dave
+family_name: DiPietro
+birth_date: 1960-06-22
+gender: Male
+email: dipietrod@nyassembly.gov
+image: https://assembly.state.ny.us/write/upload/member_files/147/headshot/147.jpg?hst=1660075005
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '147'
+offices:
+- classification: capitol
+  address: Room 546, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-5314
+- classification: district
+  address: 411 Main St., East Aurora, NY 14052
+  voice: 716-655-0951
+links:
+- url: https://assembly.state.ny.us/mem/?sh=email
+- url: https://assembly.state.ny.us/mem/David-DiPietro
+- url: https://nyassembly.gov/mem/David-DiPietro
+other_names:
+- name: D. DiPietro
+- name: D.J. DiPietro
+- name: David DiPietro
+- name: David J. DiPietro
+- name: DiPietro, D.
+ids:
+  twitter: DiPietro4NY
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000257
+sources:
+- url: https://assembly.state.ny.us/mem/David-DiPietro
+- url: https://ballotpedia.org/David_DiPietro
+- url: https://en.wikipedia.org/wiki/David_DiPietro
+- url: https://justfacts.votesmart.org/candidate/biography/110411/dave-dipietro
+- url: https://nyassembly.gov/mem/David-DiPietro
+- url: https://www.linkedin.com/in/david-dipietro-a395889

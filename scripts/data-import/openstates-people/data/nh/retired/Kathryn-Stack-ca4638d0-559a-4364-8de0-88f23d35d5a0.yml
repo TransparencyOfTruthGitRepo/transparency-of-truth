@@ -1,0 +1,21 @@
+id: ocd-person/ca4638d0-559a-4364-8de0-88f23d35d5a0
+name: Kathryn Stack
+given_name: Kathryn
+family_name: Stack
+email: Kathryn.Stack@leg.state.nh.us
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 21
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408863
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+extras:
+  first_name: Kathryn
+  last_name: Stack
+  middle_name: ''

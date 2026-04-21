@@ -1,0 +1,22 @@
+id: ocd-person/cf3bf580-fa83-4529-b63b-20a5134bcefd
+name: Lon Burnam
+given_name: Lon
+family_name: Burnam
+image: http://www.legdir.legis.state.tx.us/FlashCardDocs/images/House/small/A2255.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '90'
+links:
+- url: http://www.legdir.legis.state.tx.us/MemberInfo.aspx?Chamber=H&Code=A2255
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000227
+- scheme: legacy_openstates
+  identifier: TXL000045
+sources:
+- url: http://www.legdir.legis.state.tx.us/MemberInfo.aspx?Chamber=H&Code=A2255

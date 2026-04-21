@@ -1,0 +1,57 @@
+id: ocd-organization/e52fd765-db55-48c1-8c3a-0e2441f9170f
+jurisdiction: ocd-jurisdiction/country:us/state:or/government
+classification: committee
+name: Legislative Audits
+chamber: legislature
+sources:
+- url: https://olis.oregonlegislature.gov/liz/2023R1/Committees/JLAUD/CommitteeMembers
+  note: Committee details page
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/JLAUD/CommitteeMembers
+  note: Committee details page
+- url: https://olis.oregonlegislature.gov/liz/2025I1/Committees/JLAUD/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025R1/Committees/JLAUD/Overview
+- url: https://olis.oregonlegislature.gov/liz/2026R1/Committees/JLAUD/Overview
+links:
+- url: https://olis.oregonlegislature.gov/liz/2023R1/Committees/JLAUD/CommitteeMembers
+  note: homepage
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/JLAUD/CommitteeMembers
+  note: homepage
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/JLAUD/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025I1/Committees/JLAUD/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025R1/Committees/JLAUD/Overview
+- url: https://olis.oregonlegislature.gov/liz/2026R1/Committees/JLAUD/Overview
+members:
+- name: Noah Robinson
+  role: vice chair
+  person_id: ocd-person/15862ba2-3cdd-4a2e-a22e-28acdea73055
+- name: Kate Lieber
+  role: co-chair
+  person_id: ocd-person/cc87cb36-e12e-42e1-ac5e-c2d50e1d2018
+- name: Tawna Sanchez
+  role: co-chair
+  person_id: ocd-person/c138ec96-0a6f-4dee-be06-be286b68cfbb
+- name: Anthony Broadman
+  role: member
+  person_id: ocd-person/305e1426-2193-4e49-accf-6b26d224e92b
+- name: Bruce Starr
+  role: member
+  person_id: ocd-person/e420fffb-7b56-42db-8cc4-531526ad6802
+- name: Dacia Grayber
+  role: member
+  person_id: ocd-person/f08a3b2f-8e56-41e4-bf5f-84a43fd5aab5
+- name: David Gomberg
+  role: member
+  person_id: ocd-person/db52dfee-b099-4ec9-800c-075d09710ca6
+- name: Kathleen Taylor
+  role: member
+  person_id: ocd-person/97c2b8fd-9e87-43b7-b202-6541af36bab7
+- name: Kim Wallan
+  role: member
+  person_id: ocd-person/a2e34475-ba6f-41af-bf61-83c7160d6c10
+- name: Matt Bunch
+  role: member
+  person_id: ocd-person/fe73a3b7-97cd-43cc-bf41-26a952a9ee8f
+other_names:
+- name: Joint Committee on Legislative Audits
+- name: Joint Legislative Audits
+- name: Joint Legislative Audits Committee

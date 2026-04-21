@@ -1,0 +1,52 @@
+id: ocd-organization/79769a79-ff7b-4e10-84db-460210dc627b
+jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+classification: committee
+name: Technology
+chamber: upper
+sources:
+- url: https://www.legis.iowa.gov/committees
+  note: Committee list page
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=38073
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=38073
+links:
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=38073
+  note: homepage
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=38073
+members:
+- name: Charlie McClintock
+  role: chair
+  person_id: ocd-person/006bcadf-1173-4661-a28e-25fbf1a5c423
+- name: Tim Kraayenbrink
+  role: vice chair
+  person_id: ocd-person/293487d6-a28b-48a2-8cfc-c3daabb8abbe
+- name: Liz Bennett
+  role: ranking member
+  person_id: ocd-person/a5bbbe7f-202c-4427-89e1-da8d2786d1dc
+- name: Annette Sweeney
+  role: member
+  person_id: ocd-person/79eacd35-8caf-466e-b75f-0d878dcf5221
+- name: Art Staed
+  role: member
+  person_id: ocd-person/57925a0b-3010-440d-a012-c8465535c13e
+- name: Catelin Drey
+  role: member
+  person_id: ocd-person/96941816-29ce-4c03-ab43-efa1ef2930ab
+- name: Dave Sires
+  role: member
+  person_id: ocd-person/b261b6a8-cb30-4808-b750-df2e7963d6c8
+- name: Izaah Knox
+  role: member
+  person_id: ocd-person/0af01ef4-f982-4239-9ffc-56d33cee3b7b
+- name: Jeff Taylor
+  role: member
+  person_id: ocd-person/cc1cff7e-82d6-4947-a906-f467b4017285
+- name: Kara Warme
+  role: member
+  person_id: ocd-person/ef7b8c3c-3cd0-4f95-8b4f-9e4daa061479
+- name: Kevin Alons
+  role: member
+  person_id: ocd-person/abad9c61-6eb9-484a-bf07-94cb9040a639
+other_names:
+- name: Senate Committee on Technology
+- name: Senate Technology
+- name: Senate Technology Committee

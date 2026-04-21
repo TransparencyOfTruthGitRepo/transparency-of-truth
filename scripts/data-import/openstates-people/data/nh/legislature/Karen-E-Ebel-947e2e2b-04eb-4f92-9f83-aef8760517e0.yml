@@ -1,0 +1,57 @@
+id: ocd-person/947e2e2b-04eb-4f92-9f83-aef8760517e0
+name: Karen Ebel
+given_name: Karen
+family_name: Ebel
+gender: Female
+email: karen.ebel@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/49900.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 7
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 7
+  start_date: 2022-12-07
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 5
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=377093
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377093
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=700
+  note: member detail page
+other_names:
+- name: Ebel, K.
+- name: K. Ebel
+- name: Karen E. Ebel
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000516
+- scheme: legacy_openstates
+  identifier: NHL000878
+sources:
+- url: https://ballotpedia.org/Karen_Ebel
+- url: https://en.wikipedia.org/wiki/Karen_Ebel
+- url: https://gc.nh.gov/house/members/member.aspx?member=377093
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/141759/karen-ebel
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377093
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=700
+extras:
+  county: Merrimack
+  elected status: Incumbent
+  gender code: F

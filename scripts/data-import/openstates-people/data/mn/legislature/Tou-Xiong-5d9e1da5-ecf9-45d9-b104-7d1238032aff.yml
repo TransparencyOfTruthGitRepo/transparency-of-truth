@@ -1,0 +1,38 @@
+id: ocd-person/5d9e1da5-ecf9-45d9-b104-7d1238032aff
+name: Tou Xiong
+given_name: Tou
+family_name: Xiong
+gender: Male
+email: sen.tou.xiong@senate.mn
+image: https://www.senate.mn/graphics/44Xiong.jpg
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '44'
+- start_date: 2019-01-08
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 53A
+offices:
+- classification: capitol
+  address: Room 3203, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-6820
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1267
+other_names:
+- name: T. Xiong
+- name: Xiong, T.
+sources:
+- url: https://ballotpedia.org/Tou_Xiong
+- url: https://en.wikipedia.org/wiki/Tou_Xiong
+- url: https://justfacts.votesmart.org/candidate/biography/173949/tou-xiong
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.linkedin.com/in/tou-xiong-159b0475
+- url: https://www.linkedin.com/in/tou-xiong-b03b731a7
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1267

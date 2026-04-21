@@ -1,0 +1,37 @@
+id: ocd-person/5dae0c7f-430e-42a2-906d-9e177782f91b
+name: Rick Taggart
+given_name: Rick
+family_name: Taggart
+birth_date: 1950-09-28
+gender: Male
+email: rick.taggart.house@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_taggartrick.jpg?itok=nCWfv2vG
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '55'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-3068
+links:
+- url: https://leg.colorado.gov/legislators/rick-taggart
+  note: homepage
+other_names:
+- name: J.M. Taggart
+- name: R. Taggart
+- name: Taggart R.
+- name: Taggart, R.
+sources:
+- url: https://ballotpedia.org/Rick_Taggart
+- url: https://en.wikipedia.org/wiki/Rick_Taggart
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/rick-taggart
+- url: https://www.linkedin.com/in/rick-taggart-b3b44128
+extras:
+  counties represented:
+  - Mesa

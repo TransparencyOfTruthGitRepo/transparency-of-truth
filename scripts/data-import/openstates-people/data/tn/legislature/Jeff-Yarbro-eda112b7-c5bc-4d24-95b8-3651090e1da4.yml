@@ -1,0 +1,53 @@
+id: ocd-person/eda112b7-c5bc-4d24-95b8-3651090e1da4
+name: Jeff Yarbro
+given_name: Jeff
+family_name: Yarbro
+birth_date: 1977-02-16
+gender: Male
+email: sen.jeff.yarbro@capitol.tn.gov
+image: http://www.capitol.tn.gov/senate/members/images/s21.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2014-11-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '21'
+offices:
+- classification: capitol
+  address: Room 768, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-3291
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S21
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S21
+- url: https://www.capitol.tn.gov/senate/members/s21.html
+other_names:
+- name: J. Yarbro
+- name: J.P. Yarbro
+- name: Yarbro, J
+- name: Yarbro, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000458
+sources:
+- url: https://ballotpedia.org/Jeff_Yarbro
+- url: https://en.wikipedia.org/wiki/Jeff_Yarbro
+- url: https://justfacts.votesmart.org/candidate/biography/125593/jeff-yarbro
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S21
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=S21
+- url: https://www.capitol.tn.gov/senate/members
+- url: https://www.capitol.tn.gov/senate/members/
+- url: https://www.capitol.tn.gov/senate/members/s21.html
+- url: https://www.linkedin.com/in/jeff-yarbro-61a4122
+extras:
+  office: 768 CHB
+  personal info:
+  - Born on February 16, 1977
+  - Married, wife Tyler Chance Yarbro, son Jack and daughter Kate
+  - Episcopalian
+  - Attorney
+  - Harvard University, B.A.
+  - University of Virginia, J.D.

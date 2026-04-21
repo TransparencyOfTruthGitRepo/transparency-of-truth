@@ -1,0 +1,63 @@
+id: ocd-person/8326538c-c907-43b2-a6db-76434036afd7
+name: Bryan Hughes
+given_name: Bryan
+family_name: Hughes
+birth_date: 1969-07-21
+gender: Male
+email: bryan.hughes@senate.texas.gov
+image: https://senate.texas.gov/members/d01/img/Hughes_86-0702D-030-web.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '1'
+- start_date: 2003-01-14
+  end_date: 2017-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '5'
+offices:
+- classification: capitol
+  address: Room 3E.8, P.O. Box 12068 Capitol Station, Austin, TX 78711
+  voice: 512-463-0101
+- classification: district
+  address: 110 N. College Ave. Suite 208, Tyler, TX 75702
+  voice: 903-581-1776
+- classification: district
+  address: 115 N. Wellington St. Suite 201, Marshall, TX 75670
+  voice: 903-923-0404
+- classification: district
+  address: 701 N. Pacific St, Mineola, TX 75773
+  voice: 903-569-8880
+- classification: district
+  address: Gregg County Courthouse 101 E. Methvin, Suite 301, Longview, TX 75601
+  voice: 903-753-8137
+- classification: district
+  address: Texarkana College 2500 N. Robinson Road, Suite 190, Texarkana, TX 75599
+  voice: 903-223-7958
+links:
+- url: https://senate.texas.gov/member.php?d=1
+other_names:
+- name: B. Hughes
+- name: D.B. Hughes
+- name: Hughes, B.
+- name: Hughes, Bryan
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000716
+- scheme: legacy_openstates
+  identifier: TXL000285
+- scheme: legacy_openstates
+  identifier: TXL000103
+- scheme: legacy_openstates
+  identifier: TXL000630
+- scheme: openstates
+  identifier: ocd-person/0b0da34f-1c89-4a82-a00a-4975695ec367
+sources:
+- url: https://ballotpedia.org/Bryan_Hughes
+- url: https://en.wikipedia.org/wiki/Bryan_Hughes_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/50173/bryan-hughes
+- url: https://senate.texas.gov/member.php?d=1
+- url: https://www.linkedin.com/in/bryan-hughes-87085346

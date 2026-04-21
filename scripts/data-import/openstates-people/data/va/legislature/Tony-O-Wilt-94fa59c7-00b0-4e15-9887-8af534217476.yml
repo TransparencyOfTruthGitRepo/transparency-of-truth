@@ -1,0 +1,61 @@
+id: ocd-person/94fa59c7-00b0-4e15-9887-8af534217476
+name: Tony Wilt
+given_name: Tony
+family_name: Wilt
+birth_date: 1961-09-18
+gender: Male
+email: deltwilt@house.virginia.gov
+image: https://memdata.virginiageneralassembly.gov/images/display_image/H0231
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '34'
+- start_date: 2010-06-24
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room 814, General Assembly Building 201 N. 9th St., Richmond, VA 23219
+  voice: 804-698-1034
+- classification: district-mail
+  address: P.O. Box 1425, Harrisonburg, VA 22803
+  voice: 540-208-0735
+links:
+- url: https://house.vga.virginia.gov/members/H0231
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H231
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H231
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H231
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H231
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0231
+other_names:
+- name: T. Wilt
+- name: T.O. Wilt
+- name: Tony O. Wilt
+- name: Wilt, T.
+- name: Wilt, Tony O.
+ids:
+  twitter: DelTonyWilt
+  facebook: DelTonyWilt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000141
+- scheme: legacy_openstates
+  identifier: VAL000147
+sources:
+- url: https://ballotpedia.org/Tony_Wilt
+- url: https://en.wikipedia.org/wiki/Tony_Wilt
+- url: https://house.vga.virginia.gov/members/H0231
+- url: https://justfacts.votesmart.org/candidate/biography/127379/tony-wilt
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H231
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H231
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H231
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H231
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0231
+- url: https://www.linkedin.com/in/tony-wilt-b41a0110

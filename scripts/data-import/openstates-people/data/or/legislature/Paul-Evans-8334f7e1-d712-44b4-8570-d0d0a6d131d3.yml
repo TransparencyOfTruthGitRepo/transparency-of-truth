@@ -1,0 +1,37 @@
+id: ocd-person/8334f7e1-d712-44b4-8570-d0d0a6d131d3
+name: Paul Evans
+given_name: Paul
+family_name: Evans
+gender: Male
+email: rep.paulevans@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/evans/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Room H-471, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1420
+links:
+- url: https://www.oregonlegislature.gov/evans
+  note: homepage
+other_names:
+- name: Evans, P.
+- name: P. Evans
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000260
+- scheme: legacy_openstates
+  identifier: ORL000360
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Paul_Evans_(Oregon)
+- url: https://en.wikipedia.org/wiki/Paul_Evans_(Oregon_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/57891/paul-evans
+- url: https://paulevans.org
+- url: https://www.linkedin.com/in/paul-evans-1260968
+- url: https://www.oregonlegislature.gov/evans

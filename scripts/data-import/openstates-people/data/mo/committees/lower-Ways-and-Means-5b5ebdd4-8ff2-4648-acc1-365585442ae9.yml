@@ -1,0 +1,61 @@
+id: ocd-organization/5b5ebdd4-8ff2-4648-acc1-365585442ae9
+jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+classification: committee
+name: Ways and Means
+chamber: lower
+sources:
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=2995&year=2024&code=R
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=3059&year=2025&code=R
+- url: https://www.house.mo.gov/CommitteeHierarchy.aspx
+  note: Committees List Page
+- url: https://www.house.mo.gov/Committees.aspx?category=all&committee=2521&year=2021&code=R
+- url: https://www.house.mo.gov/Committees.aspx?category=all&committee=2726&year=2022&code=R
+- url: https://www.house.mo.gov/Committees.aspx?category=all&committee=2886&year=2023&code=R
+- url: https://www.house.mo.gov/MemberGridCluster.aspx?filter=compage&category=committee&Committees.aspx?category=all&committee=2521&year=2021&code=R
+- url: https://www.house.mo.gov/MemberGridCluster.aspx?filter=compage&category=committee&Committees.aspx?category=all&committee=2726&year=2022&code=R
+- url: https://www.house.mo.gov/MemberGridCluster.aspx?filter=compage&category=committee&Committees.aspx?category=all&committee=2886&year=2023&code=R
+  note: Committee Details Page
+links:
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=2995&year=2024&code=R
+- url: https://house.mo.gov/Committees.aspx?category=all&committee=3059&year=2025&code=R
+- url: https://www.house.mo.gov/Committees.aspx?category=all&committee=2521&year=2021&code=R
+  note: homepage
+- url: https://www.house.mo.gov/Committees.aspx?category=all&committee=2726&year=2022&code=R
+  note: homepage
+- url: https://www.house.mo.gov/Committees.aspx?category=all&committee=2886&year=2023&code=R
+  note: homepage
+members:
+- name: Mike McGirl
+  role: chair
+  person_id: ocd-person/1a644e87-8691-4e86-af73-6a2af0f56c82
+- name: Michael Davis
+  role: vice chair
+  person_id: ocd-person/dc271660-9483-4b46-8c96-4794078b130f
+- name: Del Taylor
+  role: ranking democratic member
+  person_id: ocd-person/4a6e4da5-0cbd-4033-89a3-5bd749b37108
+- name: Chanel Mosley
+  role: member
+  person_id: ocd-person/ef435f26-5456-4e1b-9d53-16d972983db0
+- name: Dale Wright
+  role: member
+  person_id: ocd-person/616dd247-4438-44de-97b4-cd3a5a3e554d
+- name: Deanna Self
+  role: member
+  person_id: ocd-person/b24e59bc-bc91-456f-9b96-bd1f501c1d49
+- name: Holly Jones
+  role: member
+  person_id: ocd-person/c47d84db-02de-4687-bd5b-c6dbc71cc8c4
+- name: Jeff Coleman
+  role: member
+  person_id: ocd-person/100ec26e-d90f-4707-822c-db61c8f1b370
+- name: Kemp Strickler
+  role: member
+  person_id: ocd-person/c140221e-dfad-45d7-9371-faf3cc12ff17
+- name: Mark Matthiesen
+  role: member
+  person_id: ocd-person/661f49f4-e075-491e-aad8-4dde65ecb6df
+other_names:
+- name: House Committee on Ways and Means
+- name: House Ways and Means
+- name: House Ways and Means Committee

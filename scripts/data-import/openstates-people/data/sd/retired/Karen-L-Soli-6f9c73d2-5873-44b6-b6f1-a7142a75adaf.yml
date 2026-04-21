@@ -1,0 +1,22 @@
+id: ocd-person/6f9c73d2-5873-44b6-b6f1-a7142a75adaf
+name: Karen L. Soli
+given_name: Karen
+family_name: Soli
+middle_name: L.
+image: http://legis.sd.gov/img/Legislators/soliK.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '15'
+links:
+- url: http://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=510
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000196
+sources:
+- url: http://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=510
+- url: http://legis.sd.gov/Legislators/Legislators/MemberCommittees.aspx?Member=510

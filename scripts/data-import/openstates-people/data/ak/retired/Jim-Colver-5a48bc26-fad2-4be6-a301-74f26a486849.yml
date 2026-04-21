@@ -1,0 +1,18 @@
+id: ocd-person/5a48bc26-fad2-4be6-a301-74f26a486849
+name: Jim Colver
+given_name: Jim
+family_name: Colver
+image: http://akleg.gov/images/legislators/COV.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '9'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AKL000129
+sources:
+- url: http://akleg.gov/legislator.php?id=cov

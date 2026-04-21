@@ -1,0 +1,68 @@
+id: ocd-organization/479af9ab-dbd2-4b33-b06a-ac5dfa3d4ff0
+jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+classification: committee
+name: Judiciary
+chamber: legislature
+sources:
+- url: https://web.wyoleg.gov/LsoService/api/committeeDetail/2023/J01
+  note: Committee JSON from wyoleg.gov site
+- url: https://web.wyoleg.gov/LsoService/api/committeeDetail/2024/J01
+  note: Committee JSON from wyoleg.gov site
+- url: https://www.wyoleg.gov/Committees/2023/J01
+- url: https://www.wyoleg.gov/Committees/2024/J01
+- url: https://www.wyoleg.gov/Committees/2025/J01
+- url: https://www.wyoleg.gov/Committees/2026/J01
+links:
+- url: https://www.wyoleg.gov/Committees/2023/J01
+  note: homepage
+- url: https://www.wyoleg.gov/Committees/2024/J01
+  note: homepage
+- url: https://www.wyoleg.gov/Committees/2025/J01
+- url: https://www.wyoleg.gov/Committees/2026/J01
+members:
+- name: Art Washut
+  role: chair
+  person_id: ocd-person/394ba273-63d7-409d-90cd-5d183e750ea4
+- name: Jared Olsen
+  role: chair
+  person_id: ocd-person/63e25ff3-1832-45c8-a9af-669bb74a3aa4
+- name: Barry Crago
+  role: member
+  person_id: ocd-person/c6578593-1ca0-4b7d-8635-67249df87c36
+- name: Daniel Singh
+  role: member
+  person_id: ocd-person/0a177e23-5f49-46dd-bc32-b2403ea7124c
+- name: Gary Crum
+  role: member
+  person_id: ocd-person/84464d31-bdbb-4687-9757-27794e64d319
+- name: Jayme Lien
+  role: member
+  person_id: ocd-person/89408a3a-ae27-4a8d-aa93-0050a48cf93d
+- name: Joe Webb
+  role: member
+  person_id: ocd-person/19e421d2-03a4-4a0a-86e8-b18b63d13822
+- name: John Kolb
+  role: member
+  person_id: ocd-person/a8a05d47-8306-4f20-a848-02c92db1fffe
+- name: Ken Chestek
+  role: member
+  person_id: ocd-person/dcc60e43-41b3-44ef-976c-0604a295b9cd
+- name: Larry Hicks
+  role: member
+  person_id: ocd-person/286af01e-ace3-4de2-b1c3-44756370d932
+- name: Laurie Bratten
+  role: member
+  person_id: ocd-person/5eabff67-a57e-4fd5-b62c-3072d0374d56
+- name: Lee Filer
+  role: member
+  person_id: ocd-person/be3b0a04-4e00-42e4-9202-5c8f68aacedd
+- name: Marlene Brady
+  role: member
+  person_id: ocd-person/b2d0dc89-4104-4f6e-a1eb-bbc9dafbefa9
+- name: Tom Kelly
+  role: member
+  person_id: ocd-person/312edf5d-1dad-475a-b3bd-4b58f5f98ad4
+other_names:
+- name: Joint Committee on Judiciary
+- name: Joint Judiciary
+- name: Joint Judiciary Committee

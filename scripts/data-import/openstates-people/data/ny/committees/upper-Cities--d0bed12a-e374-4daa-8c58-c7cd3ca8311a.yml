@@ -1,0 +1,37 @@
+id: ocd-organization/d0bed12a-e374-4daa-8c58-c7cd3ca8311a
+jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+classification: committee
+name: Cities 1
+chamber: upper
+sources:
+- url: https://www.nysenate.gov/committees/cities-1
+- url: https://www.nysenate.gov/senators-committees
+links:
+- url: https://www.nysenate.gov/committees/cities-1
+  note: homepage
+members:
+- name: Erik Bottcher
+  role: chair
+  person_id: ocd-person/d55adf3d-ba23-47c8-a844-ee28227983c0
+- name: Steve Chan
+  role: ranking member
+  person_id: ocd-person/8a923d97-c689-4fb5-ac61-7b5e4ee950dd
+- name: Andrew Lanza
+  role: member
+  person_id: ocd-person/8dd98240-93c9-486a-b6c6-3a794b232090
+- name: Cordell Cleare
+  role: member
+  person_id: ocd-person/c5c492e5-7c34-4b6f-862e-185248e89f18
+- name: Joe Addabbo
+  role: member
+  person_id: ocd-person/f3a41618-3c28-4bab-9a56-ef49c9cafcec
+- name: Julia Salazar
+  role: member
+  person_id: ocd-person/6c410f28-9316-45db-935d-52764c90b4ae
+- name: Roxanne Persaud
+  role: member
+  person_id: ocd-person/aa80fb3b-9add-463b-bfba-fe51e3409212
+other_names:
+- name: Senate Cities 1
+- name: Senate Cities 1 Committee
+- name: Senate Committee on Cities 1

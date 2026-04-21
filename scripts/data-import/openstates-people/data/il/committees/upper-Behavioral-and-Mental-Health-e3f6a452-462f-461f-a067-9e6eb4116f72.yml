@@ -1,0 +1,49 @@
+id: ocd-organization/e3f6a452-462f-461f-a067-9e6eb4116f72
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: Behavioral and Mental Health
+chamber: upper
+sources:
+- url: https://www.ilga.gov/senate/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=2941
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=3107
+- url: https://www.ilga.gov/Senate/Committees/Members/3107
+links:
+- url: https://www.ilga.gov/senate/committees/default.asp
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=2941
+  note: homepage
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=3107
+- url: https://www.ilga.gov/Senate/Committees/Members/3107
+members:
+- name: Laura Fine
+  role: chair
+  person_id: ocd-person/0ce44c13-37aa-4560-8489-67c309da913a
+- name: Mike Simmons-Gessesse
+  role: vice chair
+  person_id: ocd-person/0125b0ac-65ba-443e-b418-53cdf42b9f85
+- name: Terri Bryant
+  role: republican spokesperson
+  person_id: ocd-person/372be8dc-8177-47e7-b128-1e6a81621f3a
+- name: Andrew Chesney
+  role: member
+  person_id: ocd-person/9def23d3-81e9-4baf-b0c8-eeb4e5587778
+- name: Chris Balkema
+  role: member
+  person_id: ocd-person/fe9dc27f-4e47-4cb0-a008-df80642f6be0
+- name: Karina Villa
+  role: member
+  person_id: ocd-person/ca80672a-9d02-4287-9cd2-d2a7d08f604a
+- name: Lakesia Collins
+  role: member
+  person_id: ocd-person/37f0e4e6-fd0c-4bae-8def-f0ab80f722ff
+- name: Meg Loughran Cappel
+  role: member
+  person_id: ocd-person/d218f82f-ce03-4277-9408-119857d1e61f
+- name: Sara Feigenholtz
+  role: member
+  person_id: ocd-person/6c0069de-c064-412e-ae45-9e87d6ee3dae
+other_names:
+- name: Senate Behavioral and Mental Health
+- name: Senate Behavioral and Mental Health Committee
+- name: Senate Committee on Behavioral and Mental Health

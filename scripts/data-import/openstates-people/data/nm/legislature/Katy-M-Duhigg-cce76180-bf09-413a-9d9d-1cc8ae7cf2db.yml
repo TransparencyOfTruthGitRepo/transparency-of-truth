@@ -1,0 +1,42 @@
+id: ocd-person/cce76180-bf09-413a-9d9d-1cc8ae7cf2db
+name: Katy Duhigg
+given_name: Katy
+family_name: Duhigg
+gender: Female
+email: katy.duhigg@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SDUHI.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '10'
+offices:
+- classification: capitol
+  address: State Capitol Room 320A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4270
+- classification: district-mail
+  address: P.O. Box 527, Albuquerque, NM 87103
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SDUHI
+  note: homepage
+other_names:
+- name: Duhigg, K.
+- name: Duhigg, Katy
+- name: Duhigg, Katy M.
+- name: K. Duhigg
+- name: K.M. Duhigg
+- name: Katy M. Duhigg
+sources:
+- url: https://ballotpedia.org/Katy_Duhigg
+- url: https://en.wikipedia.org/wiki/Katy_Duhigg
+- url: https://sutinfirm.com/lawyers/katy-m-duhigg
+- url: https://www.linkedin.com/in/katyduhigg
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SDUHI
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: Bernalillo & Sandoval
+  service: Senator since 2021
+  occupation: Attorney

@@ -1,0 +1,64 @@
+id: ocd-organization/a46f83cb-7a71-42f2-8ef0-b976a668e8e6
+jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+classification: committee
+name: Higher Education
+chamber: legislature
+sources:
+- url: https://malegislature.gov/Committees/Detail/J29
+  note: Committee Details Page
+links:
+- url: https://malegislature.gov/Committees/Detail/J29
+  note: homepage
+members:
+- name: Dave Rogers
+  role: chair
+  person_id: ocd-person/51adc4d9-23d8-442f-b692-c4e4204f552e
+- name: Jo Comerford
+  role: chair
+  person_id: ocd-person/2998b05b-b83e-4a9b-9659-a609ddc63a34
+- name: Carmine Gentile
+  role: vice chair
+  person_id: ocd-person/b9a91cec-bad7-43a7-8fd2-60cd704bd7ab
+- name: Vanna Howard
+  role: vice chair
+  person_id: ocd-person/053aae1e-ae76-41b0-912c-39f27f3f6d6f
+- name: Kelly Dooner
+  role: ranking republican member
+  person_id: ocd-person/062618e6-3ba4-4170-8b4f-9d0fa325a9ab
+- name: Mike Soter
+  role: ranking republican member
+  person_id: ocd-person/4cec2aa4-c17b-4749-b0e9-58a25695bf2f
+- name: Joan Meschino
+  role: member
+  person_id: ocd-person/03d1f31d-1431-41d2-88b7-67b57d50f323
+- name: Kelly Pease
+  role: member
+  person_id: ocd-person/72eea330-24b4-4207-a016-0b1e568e0b6e
+- name: Michelle Badger
+  role: member
+  person_id: ocd-person/a0c80d02-beb0-42c3-b7ff-31fc0d5351f5
+- name: Mike Moore
+  role: member
+  person_id: ocd-person/7b48bd48-8d27-4dd8-958d-703571efe150
+- name: Paul Mark
+  role: member
+  person_id: ocd-person/fd5aaac8-48f5-42c2-82a8-abaf6c5de650
+- name: Pavel Payano
+  role: member
+  person_id: ocd-person/1d33d1e7-dae9-4e98-aa9e-626b0d711d9a
+- name: Richard Wells
+  role: member
+  person_id: ocd-person/e988f332-eba5-40a4-b55f-554728360e6c
+- name: Shirley Arriaga
+  role: member
+  person_id: ocd-person/ff433cf6-2895-4e01-b143-26747500f8a4
+- name: Susannah Whipps
+  role: member
+  person_id: ocd-person/76b07f35-1876-4259-9c0a-bdf595541c39
+- name: Tara Hong
+  role: member
+  person_id: ocd-person/e5b9b2d0-1626-4151-93cf-73c16035a584
+other_names:
+- name: Joint Committee on Higher Education
+- name: Joint Higher Education
+- name: Joint Higher Education Committee

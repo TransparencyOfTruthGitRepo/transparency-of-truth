@@ -1,0 +1,49 @@
+id: ocd-person/aa7bf09a-ce90-4e58-a893-42c813a16434
+name: Pat McGeehan
+given_name: Pat
+family_name: McGeehan
+birth_date: 1979-10-22
+gender: Male
+email: pat.mcgeehan@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/mcgeehan_pat.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2014-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '1'
+- start_date: 2008-12-01
+  end_date: 2010-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '1'
+offices:
+- classification: capitol
+  address: State Capitol Room 228M, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3220
+- classification: district
+  address: 532 River St., Chester, WV 26034
+  voice: 304-374-7018
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+McGeehan
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20McGeehan
+  note: homepage
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+McGeehan
+other_names:
+- name: McGeehan, P
+- name: McGeehan, P.
+- name: P. McGeehan
+- name: P.R. McGeehan
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000291
+sources:
+- url: https://ballotpedia.org/Patrick_McGeehan
+- url: https://en.wikipedia.org/wiki/Pat_McGeehan
+- url: https://justfacts.votesmart.org/candidate/biography/102190/patrick-mcgeehan
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+McGeehan
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20McGeehan
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+McGeehan
+- url: https://www.wvlegislature.gov/House/roster.cfm

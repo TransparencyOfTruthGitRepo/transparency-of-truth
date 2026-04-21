@@ -1,0 +1,39 @@
+id: ocd-person/a7665bc0-b03c-419e-976c-b3a25ebf358e
+name: Leon Howard
+given_name: Leon
+family_name: Howard
+gender: Male
+email: leonhoward@schouse.gov
+image: https://scstatehouse.gov/images/members/0879545349.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '76'
+offices:
+- classification: capitol
+  address: Room 530B, Blatt Building P.O. Box 11867, Columbia, SC 29201
+  voice: 803-734-3049
+links:
+- url: https://scstatehouse.gov/member.php?code=0879545349
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=0879545349
+  note: homepage
+other_names:
+- name: Howard, L.
+- name: Howard, Leon
+- name: L. Howard
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000105
+sources:
+- url: https://ballotpedia.org/Leon_Howard
+- url: https://en.wikipedia.org/wiki/Leon_Howard_(South_Carolina_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/8610/leon-howard
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=0879545349
+- url: https://www.scstatehouse.gov/member.php?chamber=H
+- url: https://www.scstatehouse.gov/member.php?code=0879545349
+extras:
+  counties represented: Richland County

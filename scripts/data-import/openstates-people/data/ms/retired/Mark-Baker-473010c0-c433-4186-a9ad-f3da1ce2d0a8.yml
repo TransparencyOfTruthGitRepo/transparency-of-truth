@@ -1,0 +1,32 @@
+id: ocd-person/473010c0-c433-4186-a9ad-f3da1ce2d0a8
+name: Mark Baker
+given_name: Mark
+family_name: Baker
+image: http://billstatus.ls.state.ms.us/members/house/baker.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-01-07'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '74'
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/baker.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000077
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/baker.xml
+extras:
+  org_info: |
+    Representative Baker is an attorney in private practice in Brandon.  He
+    was admitted to the Mississippi Bar in 1987 and is admitted to practice in all
+    state and federal courts in the state of Mississippi, the United States Court
+    of Appeals for the Fifth Circuit and the United States Supreme Court.  Representative
+    Baker is a member and past president of the Rankin County Bar Association and
+    the Rankin County Rotary Club.  Representative Baker previously served as the
+    prosecutor for Brandon and the municipal judge for Pelahatchie and currently serves
+    as the board attorney for Brandon and Puckett.  Representative Baker is a former
+    member of the Rankin County Republican Executive Committee.  Representative Baker
+    was elected Republican Leader of the Mississippi House Republican Conference from
+    2008 to 2012.

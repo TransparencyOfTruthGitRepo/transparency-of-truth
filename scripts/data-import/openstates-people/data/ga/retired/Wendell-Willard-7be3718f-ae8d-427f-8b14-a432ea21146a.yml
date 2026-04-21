@@ -1,0 +1,24 @@
+id: ocd-person/7be3718f-ae8d-427f-8b14-a432ea21146a
+name: Wendell Willard
+given_name: Wendell
+family_name: Willard
+image: http://www.house.ga.gov/SiteCollectionImages/WillardWendell229.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '51'
+links:
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=229&Session=25
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000227
+- scheme: legacy_openstates
+  identifier: GAL000372
+sources:
+- url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=229&Session=25
+extras:
+  guid: 229

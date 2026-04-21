@@ -1,0 +1,31 @@
+id: ocd-person/63c59e95-ff5f-40b3-871e-3569f6ad8425
+name: Dan Gosa
+given_name: Dan
+family_name: Gosa
+gender: Male
+email: daniel.gosa@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37391
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '81'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37391
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37391
+other_names:
+- name: D. Gosa
+- name: Gosa, D.
+sources:
+- url: https://ballotpedia.org/Daniel_Gosa
+- url: https://en.wikipedia.org/wiki/Daniel_Gosa
+- url: https://justfacts.votesmart.org/candidate/biography/215643/daniel-gosa
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37391
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37391
+- url: https://www.linkedin.com/in/daniel-gosa-8b67b973

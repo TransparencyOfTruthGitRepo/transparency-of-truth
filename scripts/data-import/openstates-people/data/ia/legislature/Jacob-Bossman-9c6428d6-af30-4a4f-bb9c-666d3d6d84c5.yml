@@ -1,0 +1,49 @@
+id: ocd-person/9c6428d6-af30-4a4f-bb9c-666d3d6d84c5
+name: Jacob Bossman
+given_name: Jacob
+family_name: Bossman
+birth_date: 1980-04-23
+gender: Male
+email: jacob.bossman@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=25497
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '14'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '6'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://iowahouserepublicans.nationbuilder.com/reps
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=25497&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=25497
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=25497
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=25497
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=25497
+other_names:
+- name: Bossman, J.
+- name: J. Bossman
+- name: J.I. Bossman
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IAL000555
+sources:
+- url: https://ballotpedia.org/Jacob_Bossman
+- url: https://en.wikipedia.org/wiki/Jacob_Bossman
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=25497
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=25497
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=25497
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=25497
+- url: https://www.linkedin.com/in/jacob-bossman-6937137
+extras:
+  home email: bossman80@gmail.com
+  occupation: Staff of U.S. Senator Chuck Grassley

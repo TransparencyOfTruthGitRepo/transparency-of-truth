@@ -1,0 +1,51 @@
+id: ocd-person/a5e2021c-8221-41ba-b45c-cc89d13b2af2
+name: Chris Turner
+given_name: Chris
+family_name: Turner
+birth_date: 1972-10-10
+gender: Male
+email: chris.turner@house.texas.gov
+image: https://house.texas.gov/images/members/4680.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '101'
+- start_date: 2009-01-13
+  end_date: 2011-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '101'
+offices:
+- classification: capitol
+  address: Room 1N.5, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0574
+- classification: district
+  address: 320 Westway Place Suite 501, Arlington, TX 76018
+  voice: 817-459-2800
+links:
+- url: https://house.texas.gov/members/4680
+- url: https://house.texas.gov/members/member-page/?district=101
+other_names:
+- name: C. Turner
+- name: Turner, C.
+- name: Turner, Chris
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000354
+- scheme: legacy_openstates
+  identifier: TXL000172
+- scheme: legacy_openstates
+  identifier: TXL000469
+- scheme: legacy_openstates
+  identifier: TXL000625
+sources:
+- url: https://ballotpedia.org/Chris_Turner_(Texas)
+- url: https://en.wikipedia.org/wiki/Chris_Turner_(Texas_politician)
+- url: https://house.texas.gov/members/4680
+- url: https://house.texas.gov/members/4680/biography
+- url: https://house.texas.gov/members/member-page/?district=101
+- url: https://justfacts.votesmart.org/candidate/102270/chris-turner
+- url: https://www.linkedin.com/in/chrisgturner

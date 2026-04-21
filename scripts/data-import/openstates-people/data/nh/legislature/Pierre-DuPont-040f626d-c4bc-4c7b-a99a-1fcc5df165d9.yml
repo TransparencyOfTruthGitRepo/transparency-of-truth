@@ -1,0 +1,31 @@
+id: ocd-person/040f626d-c4bc-4c7b-a99a-1fcc5df165d9
+name: Pierre DuPont
+given_name: Pierre
+family_name: DuPont
+gender: Male
+email: pierre.dupont@gc.nh.gov
+image: https://www.manchestergop.com/wp-content/uploads/2024/07/Pierre_Dupont.png
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 20
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10644
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=10644
+other_names:
+- name: DuPont, P.
+- name: P. DuPont
+sources:
+- url: https://ballotpedia.org/Pierre_Dupont
+- url: https://en.wikipedia.org/wiki/Pierre_Dupont_(New_Hampshire_politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10644
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=10644
+- url: https://justfacts.votesmart.org/candidate/209036/pierre-dupont
+- url: https://www.linkedin.com/in/pierre-dupont-12b7959

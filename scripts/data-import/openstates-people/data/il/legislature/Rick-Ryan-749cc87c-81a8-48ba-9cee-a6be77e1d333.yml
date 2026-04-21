@@ -1,0 +1,34 @@
+id: ocd-person/749cc87c-81a8-48ba-9cee-a6be77e1d333
+name: Rick Ryan
+given_name: Rick
+family_name: Ryan
+gender: Male
+email: ryanrep36@gmail.com
+image: https://cdn.ilga.gov/assets/img/members/{D636B7BF-6A7A-4F82-8429-018FF5E1CE36}.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '36'
+offices:
+- classification: capitol
+  address: Room 523-C, Stratton Building, Springfield, IL 62706
+  voice: 217-782-0515
+- classification: district
+  address: 3900 W. 95th St. Unit 7A, Evergreen Park, IL 60805
+  voice: 708-682-4880
+links:
+- url: https://www.ilga.gov/House/Members/Details/3457
+- url: https://www.ilga.gov/house/Rep.asp?GA=104&MemberID=3457
+other_names:
+- name: R. Ryan
+- name: R.J. Ryan
+- name: Ryan, R.
+- name: Ryan, Rick
+sources:
+- url: https://ballotpedia.org/Rick_Ryan
+- url: https://justfacts.votesmart.org/candidate/biography/33833/rick-ryan
+- url: https://www.ilga.gov/House/Members/Details/3457
+- url: https://www.ilga.gov/house/Rep.asp?GA=104&MemberID=3457

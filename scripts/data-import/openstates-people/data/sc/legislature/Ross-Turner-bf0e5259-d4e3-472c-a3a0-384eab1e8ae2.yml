@@ -1,0 +1,44 @@
+id: ocd-person/bf0e5259-d4e3-472c-a3a0-384eab1e8ae2
+name: Ross Turner
+given_name: Ross
+family_name: Turner
+birth_date: 1964-05-15
+gender: Male
+email: rossturner@scsenate.gov
+image: https://scstatehouse.gov/images/members/1847727051.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2012-11-12
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room 512, Gressette Building P.O. Box 142, Columbia, SC 29201
+  voice: 803-212-6148
+links:
+- url: https://scstatehouse.gov/member.php?code=1847727051
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=1847727051
+  note: homepage
+other_names:
+- name: C.R. Turner
+- name: R. Turner
+- name: Turner, R.
+- name: Turner, Ross
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000182
+sources:
+- url: https://ballotpedia.org/Ross_Turner
+- url: https://en.wikipedia.org/wiki/Ross_Turner
+- url: https://justfacts.votesmart.org/candidate/biography/139420/ross-turner
+- url: https://scstatehouse.gov/member.php?chamber=S
+- url: https://scstatehouse.gov/member.php?code=1847727051
+- url: https://www.linkedin.com/in/senator-ross-turner-59707048
+- url: https://www.scstatehouse.gov/member.php?chamber=S
+- url: https://www.scstatehouse.gov/member.php?code=1847727051
+extras:
+  Home Address Home Phone: (864) 987-0596
+  counties represented: Greenville County

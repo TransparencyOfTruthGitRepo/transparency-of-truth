@@ -1,0 +1,70 @@
+id: ocd-organization/a7181a15-d00d-450a-8bcc-fdd7f5e15bf1
+jurisdiction: ocd-jurisdiction/country:us/state:al/government
+classification: committee
+name: State Government
+chamber: lower
+sources:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: Committee list api call
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/HouseCommittees.aspx
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=2337&COMMITTEE=State%20Government
+links:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=2337&COMMITTEE=State%20Government
+  note: homepage
+members:
+- name: Chris Sells
+  role: chair
+  person_id: ocd-person/39a26498-6bb6-4627-8c49-d9c453c9aab8
+- name: Russell Bedsole
+  role: vice chair
+  person_id: ocd-person/af4e689f-d9f8-4a90-a883-1ed68e476aa9
+- name: Barbara Boyd
+  role: ranking democratic member
+  person_id: ocd-person/a1033b9f-f53e-46b8-ab4e-508d87e0d8e8
+- name: Ernie Yarbrough
+  role: member
+  person_id: ocd-person/5658aa05-6ffa-4774-a8a4-f49c169769d2
+- name: Jamie Kiel
+  role: member
+  person_id: ocd-person/390ee0ed-0b5e-4f45-a740-63511c4fa3fd
+- name: Kelvin Lawrence
+  role: member
+  person_id: ocd-person/0e1643ee-370a-499d-80df-96116d63c216
+- name: Mack Butler
+  role: member
+  person_id: ocd-person/5071243c-3e2d-4acb-ac8d-0d3a8af3eb8a
+- name: Marcus Paramore
+  role: member
+  person_id: ocd-person/723a971e-91d9-4717-8f19-45f16e18690f
+- name: Marilyn Lands
+  role: member
+  person_id: ocd-person/eb947430-2674-4158-8290-0d973c59e834
+- name: Mike Kirkland
+  role: member
+  person_id: ocd-person/c2e0fa74-36df-4d34-8203-962c546442fa
+- name: Mike Shaw
+  role: member
+  person_id: ocd-person/cff09a3a-b81e-433d-80f5-45f6472f4642
+- name: Prince Chestnut
+  role: member
+  person_id: ocd-person/b1e60061-fb98-4c20-8532-b734d08cdbc3
+- name: Randy Wood
+  role: member
+  person_id: ocd-person/451a4cb7-3585-46d3-86c7-61b345f7a601
+- name: Scott Stadthagen
+  role: member
+  person_id: ocd-person/9877dd5b-c3ee-459f-bb8d-d9d954ae343c
+other_names:
+- name: Committee on State Government
+- name: House Committee on State Government
+- name: House State Government
+- name: House State Government Committee
+- name: State Government Committee
+extras:
+  Clerk: Jacqueline Tymes
+  Phone: (334) 261-0431
+  Email: jacqueline.tymes@alhouse.gov
+  Room: Room 431

@@ -1,0 +1,28 @@
+id: ocd-person/987d726c-366d-4b11-8049-bd9086a2b3c8
+name: Betsy Johnson
+given_name: Betsy
+family_name: Johnson
+email: Sen.BetsyJohnson@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/johnson/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2021-12-15'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '16'
+  end_reason: Resigned to focus on gubernatorial campaign
+links:
+- url: https://www.oregonlegislature.gov/johnson
+- url: https://www.oregonlegislature.gov/johnson
+  note: homepage
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000015
+- scheme: legacy_openstates
+  identifier: ORL000122
+- scheme: legacy_openstates
+  identifier: ORL000347
+sources:
+- url: https://www.oregonlegislature.gov/johnson
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2021R1')/Legislators

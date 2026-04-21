@@ -1,0 +1,17 @@
+id: ocd-person/5d724fe6-d337-4eae-820a-37ce92dd363c
+name: Jerry Weiers
+given_name: Jerry
+family_name: Weiers
+email: mayorweiers@glendaleaz.com
+roles:
+- end_date: '2020-12-31'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:az/place:glendale/government
+offices:
+- classification: primary
+  address: 5850 West Glendale Avenue;Glendale, AZ 85301
+  voice: 623-930-2260
+links:
+- url: http://www.glendaleaz.com/
+sources:
+- url: http://www.glendaleaz.com/

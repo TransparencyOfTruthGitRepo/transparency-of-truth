@@ -1,0 +1,46 @@
+id: ocd-person/071e391f-da3d-4e66-ae78-61a63bc23729
+name: John Damoose
+given_name: John
+family_name: Damoose
+gender: Male
+email: senjdamoose@senate.michigan.gov
+image: https://www.misenategop.com/wp-content/uploads/2023/01/Damoose-580x770.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '37'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '107'
+offices:
+- classification: capitol
+  address: Room 4300, Binsfeld Building P.O. Box 30036, Lansing, MI 48909
+  voice: 517-373-2413
+  fax: 517-373-5144
+links:
+- url: https://repdamoose.com
+- url: https://www.senatorjohndamoose.com/
+  note: Member Page
+- url: https://www.senatorjohndamoose.com/contact
+  note: Member Contact Page
+other_names:
+- name: Damoose, J.
+- name: J. Damoose
+- name: J.N. Damoose
+sources:
+- url: https://ballotpedia.org/John_Damoose
+- url: https://en.wikipedia.org/wiki/John_Damoose
+- url: https://senate.michigan.gov/senators/SenatorData.json
+  note: Members List JSON Data Page
+- url: https://senate.michigan.gov/senators/senatorinfo_list.html
+  note: Members List HTML page
+- url: https://www.house.mi.gov/AllRepresentatives
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
+- url: https://www.linkedin.com/in/johndamoose
+- url: https://www.senatorjohndamoose.com
+- url: https://www.senatorjohndamoose.com/
+- url: https://www.senatorjohndamoose.com/meet-your-senator

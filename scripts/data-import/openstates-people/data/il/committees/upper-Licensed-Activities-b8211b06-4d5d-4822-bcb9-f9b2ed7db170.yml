@@ -1,0 +1,49 @@
+id: ocd-organization/b8211b06-4d5d-4822-bcb9-f9b2ed7db170
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: Licensed Activities
+chamber: upper
+sources:
+- url: https://www.ilga.gov/senate/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=2907
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=3077
+- url: https://www.ilga.gov/Senate/Committees/Members/3077
+links:
+- url: https://www.ilga.gov/senate/committees/default.asp
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=2907
+  note: homepage
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=3077
+- url: https://www.ilga.gov/Senate/Committees/Members/3077
+members:
+- name: Suzy Glowiak Hilton
+  role: chair
+  person_id: ocd-person/16483678-e06e-4551-8cec-266335b56fff
+- name: Javier Cervantes
+  role: vice chair
+  person_id: ocd-person/caf27c44-2fec-4e26-a102-e6a30ca56be0
+- name: Steve McClure
+  role: republican spokesperson
+  person_id: ocd-person/d3450848-4552-4b8f-97dc-fb3c26c2566c
+- name: Christopher Belt
+  role: member
+  person_id: ocd-person/ce79408a-9923-4ab4-9c3a-805a2b4162d5
+- name: Dave Syverson
+  role: member
+  person_id: ocd-person/d02beb7e-1f30-48f2-8418-4c9287452562
+- name: Emil Jones
+  role: member
+  person_id: ocd-person/05030c23-9600-4d1c-ab77-46c17aec2059
+- name: Erica Harriss
+  role: member
+  person_id: ocd-person/4dadb374-d534-4ba0-8323-6e41a19933f5
+- name: Mike Hastings
+  role: member
+  person_id: ocd-person/fb433923-65ca-475a-b106-7293c3483c57
+- name: Ram Villivalam
+  role: member
+  person_id: ocd-person/d01a10b0-e391-4c65-ba1f-304ee6130f5c
+other_names:
+- name: Senate Committee on Licensed Activities
+- name: Senate Licensed Activities
+- name: Senate Licensed Activities Committee

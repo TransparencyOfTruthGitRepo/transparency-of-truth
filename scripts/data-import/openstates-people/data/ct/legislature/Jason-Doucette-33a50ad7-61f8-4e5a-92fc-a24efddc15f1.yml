@@ -1,0 +1,41 @@
+id: ocd-person/33a50ad7-61f8-4e5a-92fc-a24efddc15f1
+name: Jason Doucette
+given_name: Jason
+family_name: Doucette
+birth_date: 1977-01-23
+gender: Male
+email: jason.doucette@cga.ct.gov
+image: http://www2.housedems.ct.gov/Doucette/images/Doucette_HS.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '13'
+offices:
+- classification: capitol
+  address: Room 2403, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 800-842-8267
+links:
+- url: https://housedems.ct.gov/doucette
+- url: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27013%27&dist_name=013%20-%Doucette,%Jason
+- url: https://www.housedems.ct.gov/doucette
+other_names:
+- name: Doucette, J.
+- name: Doucette, Jason
+- name: J. Doucette
+- name: J.E. Doucette
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Jason_Doucette
+- url: https://en.wikipedia.org/wiki/Jason_Edward_Doucette
+- url: https://justfacts.votesmart.org/candidate/72359/jason-doucette
+- url: https://www.housedems.ct.gov/doucette
+- url: https://www.linkedin.com/in/jason-doucette-5779818
+extras:
+  gender: Male
+  committees: Banking (Chair); Finance, Revenue and Bonding; Judiciary
+  committee codes: ;BA;FIN;JUD;
+  business phone: 860-648-0041
+  prison: '0'

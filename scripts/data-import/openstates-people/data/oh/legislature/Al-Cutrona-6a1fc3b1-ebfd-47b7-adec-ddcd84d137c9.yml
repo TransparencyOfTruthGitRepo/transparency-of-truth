@@ -1,0 +1,46 @@
+id: ocd-person/6a1fc3b1-ebfd-47b7-adec-ddcd84d137c9
+name: Al Cutrona
+given_name: Al
+family_name: Cutrona
+gender: Male
+email: sd33@ohiosenate.gov
+image: https://www.legislature.ohio.gov/assets/people/al-cutrona/headshots/thumbnails/medium/al-cutrona-february-2023-headshot_medium.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-06-26
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '33'
+- start_date: 2023-01-01
+  end_date: 2024-06-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '58'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '59'
+offices:
+- classification: capitol
+  address: Room 41, Statehouse, 1 Capitol Square Ground Floor, Columbus, OH 43215
+  voice: 614-466-8285
+links:
+- url: https://ohiohouse.gov/al-cutrona
+- url: https://www.ohiohouse.gov/members/al-cutrona
+- url: https://www.ohiosenate.gov/members/al-cutrona
+other_names:
+- name: A. Cutrona
+- name: A.B. Cutrona
+- name: Alessandro Cutrona
+- name: Cutrona, A.
+sources:
+- url: https://ballotpedia.org/Alessandro_Cutrona
+- url: https://en.wikipedia.org/wiki/Alessandro_Cutrona
+- url: https://ohiohouse.gov/al-cutrona
+- url: https://ohiohouse.gov/members/al-cutrona
+  note: member details page
+- url: https://www.legislature.ohio.gov/legislators/house-directory
+  note: member list page
+- url: https://www.ohiohouse.gov/members/al-cutrona
+- url: https://www.ohiosenate.gov/members/al-cutrona

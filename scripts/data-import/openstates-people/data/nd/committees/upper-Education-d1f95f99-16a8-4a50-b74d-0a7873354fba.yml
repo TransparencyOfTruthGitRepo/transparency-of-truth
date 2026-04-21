@@ -1,0 +1,39 @@
+id: ocd-organization/d1f95f99-16a8-4a50-b74d-0a7873354fba
+jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+classification: committee
+name: Education
+chamber: upper
+sources:
+- url: https://ndlegis.gov/assembly/69-2025/committees/senate/education
+- url: https://www.ndlegis.gov/assembly/68-2023/committees
+  note: Committee List page of ndlegis gov site
+- url: https://www.ndlegis.gov/assembly/68-2023/committees/senate/education
+  note: Committee Details page
+links:
+- url: https://ndlegis.gov/assembly/68-2023/committees/senate/education
+- url: https://ndlegis.gov/assembly/69-2025/committees/senate/education
+- url: https://www.ndlegis.gov/assembly/68-2023/committees/senate/education
+  note: homepage
+members:
+- name: Todd Beard
+  role: chair
+  person_id: ocd-person/f01e3e40-01d3-4290-a85b-760683d4292e
+- name: Randy Lemm
+  role: vice chair
+  person_id: ocd-person/c8e63920-e054-4bb3-aff3-e9caeb012d2c
+- name: Josh Boschee
+  role: member
+  person_id: ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0
+- name: Justin Gerhardt
+  role: member
+  person_id: ocd-person/17f0bfb4-083b-460d-9b3f-483079df42c6
+- name: Michelle Axtman
+  role: member
+  person_id: ocd-person/281253e2-e075-4cde-92dd-20d097bc2b3b
+- name: Mike Wobbema
+  role: member
+  person_id: ocd-person/a5665c05-d239-4297-a3dc-08557280d5f8
+other_names:
+- name: Senate Committee on Education
+- name: Senate Education
+- name: Senate Education Committee

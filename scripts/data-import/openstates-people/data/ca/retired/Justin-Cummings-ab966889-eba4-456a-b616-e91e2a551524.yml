@@ -1,0 +1,13 @@
+id: ocd-person/ab966889-eba4-456a-b616-e91e2a551524
+name: Justin Cummings
+given_name: Justin
+family_name: Cummings
+email: jcummings@cityofsantacruz.com
+roles:
+- end_date: '2020-12-01'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/place:santa_cruz/government
+offices:
+- classification: primary
+  address: 809 Center Street;Santa Cruz, CA 95060
+  voice: 831-420-5020

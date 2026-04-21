@@ -1,0 +1,20 @@
+id: ocd-person/24b21ba3-eead-494c-aeb5-9397af29b1b4
+name: James A Waddell
+given_name: James
+family_name: Waddell
+middle_name: A
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 15
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377047
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000402
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members(Asterisk%20Delimited).txt

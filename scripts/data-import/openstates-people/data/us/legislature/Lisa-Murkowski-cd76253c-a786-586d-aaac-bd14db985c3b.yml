@@ -1,0 +1,119 @@
+id: ocd-person/cd76253c-a786-586d-aaac-bd14db985c3b
+name: Lisa Murkowski
+given_name: Lisa
+family_name: Murkowski
+birth_date: 1957-05-22
+gender: Female
+email: https://www.murkowski.senate.gov/contact/email
+image: https://unitedstates.github.io/images/congress/450x550/M001153.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2002-12-20
+  end_date: 2030-12-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Alaska
+- start_date: 2017-01-03
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Alaska
+- start_date: 2011-01-05
+  end_date: 2017-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Alaska
+- start_date: 2005-01-04
+  end_date: 2011-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Alaska
+- start_date: 2003-01-07
+  end_date: 2005-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Alaska
+offices:
+- classification: capitol
+  address: 522 Hart Senate Office Building, Washington, DC 20510
+  voice: 202-224-6665
+  fax: 202-224-5301
+- classification: district
+  address: 1900 1st Ave. Suite 225, Ketchikan, AK 99901
+  voice: 907-225-6880
+  fax: 877-857-0322
+- classification: district
+  address: 44539 Sterling Highway Suite 203, Soldotna, AK 99669
+  voice: 907-262-4220
+  fax: 877-857-0322
+- classification: district
+  address: 510 L St. Suite 600, Anchorage, AK 99501
+  voice: 907-271-3735
+  fax: 877-857-0322
+- classification: district
+  address: 800 Glacier Ave. Suite 101, Juneau, AK 99801
+  voice: 907-586-7277
+  fax: 202-228-0363
+- classification: district
+  address: 851 E. Westpoint Drive Suite 307, Wasilla, AK 99654
+  voice: 907-376-7665
+  fax: 877-857-0322
+- classification: district
+  address: Fairbanks Federal Building 101 12th Ave., Room 172, Fairbanks, AK 99701
+  voice: 907-456-0233
+  fax: 877-857-0322
+links:
+- url: https://www.murkowski.senate.gov
+  note: website
+- url: https://www.murkowski.senate.gov/
+- url: https://www.murkowski.senate.gov/public/index.cfm/contact
+  note: contact form
+other_names:
+- name: L. Murkowski
+- name: L.A. Murkowski
+- name: Murkowski, L.
+ids:
+  twitter: LisaMurkowski
+  youtube: UCaigku16AErqvD0wRuwGb9A
+  facebook: SenLisaMurkowski
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Lisa Murkowski
+- scheme: bioguide
+  identifier: M001153
+- scheme: cspan
+  identifier: '1004138'
+- scheme: fec
+  identifier: S4AK00099
+- scheme: google_entity_id
+  identifier: kg:/m/0202kt
+- scheme: govtrack
+  identifier: '300075'
+- scheme: house_history
+  identifier: '18778'
+- scheme: icpsr
+  identifier: '40300'
+- scheme: lis
+  identifier: S288
+- scheme: maplight
+  identifier: '595'
+- scheme: opensecrets
+  identifier: N00026050
+- scheme: pictorial
+  identifier: '13345'
+- scheme: thomas
+  identifier: 01694
+- scheme: votesmart
+  identifier: '15841'
+- scheme: wikidata
+  identifier: Q22360
+sources:
+- url: https://ballotpedia.org/Lisa_Murkowski
+- url: https://en.wikipedia.org/wiki/Lisa_Murkowski
+- url: https://justfacts.votesmart.org/candidate/15841/lisa-murkowski
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/lisa_murkowski/300075
+- url: https://www.murkowski.senate.gov
+- url: https://www.murkowski.senate.gov/about-lisa

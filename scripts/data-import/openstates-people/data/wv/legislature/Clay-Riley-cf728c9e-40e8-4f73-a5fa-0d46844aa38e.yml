@@ -1,0 +1,47 @@
+id: ocd-person/cf728c9e-40e8-4f73-a5fa-0d46844aa38e
+name: Clay Riley
+given_name: Clay
+family_name: Riley
+birth_date: 1975-12-21
+gender: Male
+email: clay.riley@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2021/house/riley_clay.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '72'
+- start_date: 2020-12-01
+  end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '72'
+- end_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '48'
+offices:
+- classification: capitol
+  address: State Capitol Room 472M, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3144
+- classification: district
+  address: 66 Spring Haven Trail, Shinnston, WV 26431
+  voice: 304-844-5679
+links:
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Riley
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Riley
+other_names:
+- name: C. Riley
+- name: Riley, C
+- name: Riley, C.
+sources:
+- url: https://ballotpedia.org/Clay_Riley
+- url: https://en.wikipedia.org/wiki/Clay_Riley
+- url: https://justfacts.votesmart.org/candidate/184303/clay-riley
+- url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Riley
+- url: https://www.linkedin.com/in/clay-riley-1198925b
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Riley
+- url: https://www.wvlegislature.gov/House/roster.cfm

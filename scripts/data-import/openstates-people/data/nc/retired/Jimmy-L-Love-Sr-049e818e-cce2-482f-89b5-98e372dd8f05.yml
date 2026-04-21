@@ -1,0 +1,18 @@
+id: ocd-person/049e818e-cce2-482f-89b5-98e372dd8f05
+name: Jimmy L Love Sr.
+given_name: Jimmy
+family_name: Love
+middle_name: L
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '51'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000129
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/memberList.pl?sChamber=House

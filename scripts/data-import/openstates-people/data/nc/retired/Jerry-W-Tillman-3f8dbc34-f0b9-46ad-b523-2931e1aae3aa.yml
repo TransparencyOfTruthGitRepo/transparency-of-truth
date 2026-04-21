@@ -1,0 +1,30 @@
+id: ocd-person/3f8dbc34-f0b9-46ad-b523-2931e1aae3aa
+name: Jerry W. Tillman
+given_name: Jerry W.
+family_name: Tillman
+email: Jerry.Tillman@ncleg.net
+image: http://www.ncleg.net/Senate/pictures/hiRes/99.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '29'
+- end_date: '2020-06-30'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '26'
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/99
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000050
+sources:
+- url: https://www.ncleg.gov/Members/Biography/S/99
+extras:
+  counties:
+  - Moore
+  - Randolph
+  - Guilford
+  notice: null

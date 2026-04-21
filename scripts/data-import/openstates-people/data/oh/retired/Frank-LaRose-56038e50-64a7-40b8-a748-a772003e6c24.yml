@@ -1,0 +1,19 @@
+id: ocd-person/56038e50-64a7-40b8-a748-a772003e6c24
+name: Frank LaRose
+given_name: Frank
+family_name: LaRose
+image: http://www.ohiosenate.gov/Assets/Members/Headshots/Medium/1640.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '27'
+links:
+- url: http://www.ohiosenate.gov/senators/larose
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000027
+sources:
+- url: http://www.ohiosenate.gov/senators

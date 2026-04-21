@@ -1,0 +1,54 @@
+id: ocd-person/1ed4e059-94c6-4404-b28e-0dc572112d03
+name: Liz Stefanics
+given_name: Liz
+family_name: Stefanics
+birth_date: 1950-11-09
+gender: Female
+email: lstefanics@msn.com
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SSTEF.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-17
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '39'
+offices:
+- classification: capitol
+  address: State Capitol Room 328B, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4377
+- classification: district-mail
+  address: P.O. Box 720, Cerrillos, NM 87010
+  voice: 505-699-4808
+links:
+- url: https://www.linkedin.com/in/liz-stefanics-140488151/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEF
+  note: homepage
+other_names:
+- name: E.T. Stefanics
+- name: Elizabeth "Liz" Stefanics
+- name: Elizabeth T. Stefanics
+- name: L. Stefanics
+- name: Liz T. Stefanics
+- name: Stefanics, Elizabeth "Liz"
+- name: Stefanics, L.
+- name: Stefanics, Liz
+ids:
+  facebook: SenatorLizStefanics
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000421
+sources:
+- url: https://ballotpedia.org/Liz_Stefanics
+- url: https://en.wikipedia.org/wiki/Liz_Stefanics
+- url: https://justfacts.votesmart.org/candidate/biography/11985/elizabeth-stefanics
+- url: https://www.linkedin.com/in/liz-stefanics-0487b56
+- url: https://www.linkedin.com/in/liz-stefanics-140488151
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEF
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: Bernalillo, Lincoln, San Miguel, Santa Fe, Torrance & Valencia
+  service: Senator from 1993-1996; Senator since 2017
+  occupation: Retired

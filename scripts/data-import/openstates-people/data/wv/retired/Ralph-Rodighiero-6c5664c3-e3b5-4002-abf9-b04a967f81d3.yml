@@ -1,0 +1,22 @@
+id: ocd-person/6c5664c3-e3b5-4002-abf9-b04a967f81d3
+name: Ralph Rodighiero
+given_name: Ralph
+family_name: Rodighiero
+email: ralph.rodighiero@wvhouse.gov
+image: http://www.legis.state.wv.us/images/members/2019/house/rodighiero_ralph.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '24'
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Rodighiero
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000068
+- scheme: legacy_openstates
+  identifier: WVL000302
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Rodighiero

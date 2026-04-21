@@ -1,0 +1,40 @@
+id: ocd-person/76d729c5-1b4d-4966-8c99-5ac8b74d8719
+name: Ethan Corson
+given_name: Ethan
+family_name: Corson
+birth_date: 1982-05-28
+gender: Male
+email: ethan.corson@senate.ks.gov
+image: https://www.kslegislature.gov/li/s/images/pics/sen_corson_ethan_1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '7'
+offices:
+- classification: capitol
+  address: State Capitol Room 125-E, Kansas  Building 300 SW 10th St., Topeka, KS
+    66612
+  voice: 785-296-7390
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/sen_corson_ethan_1/
+- url: https://www.kslegislature.org/li/b2021_22/members/sen_corson_ethan_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/sen_corson_ethan_1/
+other_names:
+- name: Corson, E.
+- name: E. Corson
+- name: E.J. Corson
+sources:
+- url: https://ballotpedia.org/Ethan_Corson
+- url: https://en.wikipedia.org/wiki/Ethan_Corson
+- url: https://justfacts.votesmart.org/candidate/biography/192899/ethan-corson
+- url: https://www.kslegislature.gov/li/b2025_26/members/sen_corson_ethan_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/sen_corson_ethan_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/sen_corson_ethan_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/sen_corson_ethan_1
+- url: https://www.kslegislature.org/li/b2023_24/members/sen_corson_ethan_1/
+- url: https://www.linkedin.com/in/ethancorson
+extras:
+  occupation: Attorney

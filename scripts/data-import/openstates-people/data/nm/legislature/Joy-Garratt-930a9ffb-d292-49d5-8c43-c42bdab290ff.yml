@@ -1,0 +1,49 @@
+id: ocd-person/930a9ffb-d292-49d5-8c43-c42bdab290ff
+name: Joy Garratt
+given_name: Joy
+family_name: Garratt
+birth_date: 1952-04-11
+gender: Female
+email: joy.garratt@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HGARR.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '29'
+offices:
+- classification: capitol
+  address: State Capitol Room 313A, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4341
+- classification: district
+  address: NM
+  voice: 505-977-5039
+links:
+- url: https://www.linkedin.com/in/joygarratt/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HGARR
+  note: homepage
+other_names:
+- name: Garratt, J.
+- name: Garratt, Joy
+- name: J. Garratt
+- name: J.I. Garratt
+- name: Joy I. Garratt
+ids:
+  twitter: joyousgarratt
+  instagram: jigarratt
+  facebook: Joy4NewMexico
+sources:
+- url: https://ballotpedia.org/Joy_I._Garratt
+- url: https://en.wikipedia.org/wiki/Joy_Garratt
+- url: https://justfacts.votesmart.org/candidate/biography/168124/joy-garratt
+- url: https://www.linkedin.com/in/joygarratt
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HGARR
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Bernalillo
+  service: Representative since 2019
+  occupation: Retired Educator

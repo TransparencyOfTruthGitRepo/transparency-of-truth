@@ -1,0 +1,40 @@
+id: ocd-person/5637be3f-7a59-48cc-8f8a-ad7a8bac8ee9
+name: Rebecca Himschoot
+given_name: Rebecca
+family_name: Himschoot
+gender: Female
+email: representative.rebecca.himschoot@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/HMS.jpg
+party:
+- name: Independent
+roles:
+- start_date: 2023-01-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '2'
+offices:
+- classification: capitol
+  address: State Capitol Room 411, 120 4th St., Juneau, AK 99801
+  voice: 907-465-3732
+- classification: district-mail
+  address: P.O. Box 844, Sitka, AK 99835
+  voice: 907-747-4665
+links:
+- url: https://akhouse.org/rep-himschoot/
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=hms
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=hms
+other_names:
+- name: Himschoot, R.
+- name: R. Himschoot
+sources:
+- url: https://akhouse.org/rep-himschoot
+- url: https://ballotpedia.org/Rebecca_Himschoot
+- url: https://en.wikipedia.org/wiki/Rebecca_Himschoot
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=HMS
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=hms
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=hms
+- url: https://www.linkedin.com/in/rebecca-himschoot-64937b132
+extras:
+  toll_free_phone: 888-461-3732

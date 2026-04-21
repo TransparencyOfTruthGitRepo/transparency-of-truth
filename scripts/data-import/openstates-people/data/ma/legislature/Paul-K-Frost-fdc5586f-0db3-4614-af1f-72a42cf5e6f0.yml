@@ -1,0 +1,46 @@
+id: ocd-person/fdc5586f-0db3-4614-af1f-72a42cf5e6f0
+name: Paul Frost
+given_name: Paul
+family_name: Frost
+gender: Male
+email: paul.frost@mahouse.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Paul-Frost.jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 7th Worcester
+  start_date: 2011-01-01
+offices:
+- classification: capitol
+  address: Room 124, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2100
+links:
+- url: https://malegislature.gov/Legislators/Profile/PKF1
+other_names:
+- name: Frost, P.
+- name: P. Frost
+- name: P.K. Frost
+- name: Paul K. Frost
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000413
+- scheme: legacy_openstates
+  identifier: MAL000098
+- scheme: openstates
+  identifier: ocd-person/41193d72-4cf5-47b8-9fee-2c869bbdf813
+sources:
+- url: https://ballotpedia.org/Paul_Frost
+- url: https://en.wikipedia.org/wiki/Paul_Frost
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/PKF1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/PKF1
+- url: https://malegislature.gov/Legislators/Profile/PKF1
+- url: https://www.linkedin.com/in/paul-frost-74784aa
+extras:
+  leadership position: Second Assistant Minority Leader
+  member code: PKF1

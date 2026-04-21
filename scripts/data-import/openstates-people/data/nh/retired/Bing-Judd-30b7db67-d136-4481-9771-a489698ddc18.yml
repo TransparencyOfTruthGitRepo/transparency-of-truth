@@ -1,0 +1,24 @@
+id: ocd-person/30b7db67-d136-4481-9771-a489698ddc18
+name: Bing Judd
+given_name: Bing
+family_name: Judd
+image: http://www.gencourt.state.nh.us/house/images/memberpics/802595.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Coos 1
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001361
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=802595
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+extras:
+  first_name: Bing
+  last_name: Judd
+  middle_name: ''

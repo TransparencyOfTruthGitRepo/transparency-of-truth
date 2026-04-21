@@ -1,0 +1,36 @@
+id: ocd-person/a0e90d7c-cc41-469e-a27a-7efa009ef801
+name: Seth Bronko
+given_name: Seth
+family_name: Bronko
+gender: Male
+email: seth.bronko@housegop.ct.gov
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '70'
+offices:
+- classification: capitol
+  address: Room 4200, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8700
+links:
+- url: https://www.cthousegop.com/Bronko/
+other_names:
+- name: Bronko, S.
+- name: S. Bronko
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Seth_Bronko
+- url: https://en.wikipedia.org/wiki/Seth_Bronko
+- url: https://justfacts.votesmart.org/candidate/biography/208608/seth-bronko
+- url: https://www.cthousegop.com/Bronko
+- url: https://www.cthousegop.com/Bronko/
+- url: https://www.linkedin.com/in/sethbronko
+extras:
+  gender: Male
+  committees: Finance, Revenue and Bonding; Government Administration and Elections;
+    Transportation
+  committee codes: ;FIN;GAE;TRA;
+  prison: '0'

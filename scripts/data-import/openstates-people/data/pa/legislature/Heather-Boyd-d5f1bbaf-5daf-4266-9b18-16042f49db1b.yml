@@ -1,0 +1,45 @@
+id: ocd-person/d5f1bbaf-5daf-4266-9b18-16042f49db1b
+name: Heather Boyd
+given_name: Heather
+family_name: Boyd
+gender: Female
+email: hboyd@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/2015.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2023-06-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '163'
+offices:
+- classification: capitol
+  address: Room 106A, East Wing P.O. Box 202163, Harrisburg, PA 17120
+  voice: 717-783-8099
+- classification: district
+  address: 6 S. Springfield Road Unit 1, Clifton Heights, PA 19018
+  voice: 484-200-1563
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2015
+  note: homepage
+- url: https://www.pahouse.com/boyd/
+- url: https://www.palegis.us/house/members/bio/2015/rep-boyd
+other_names:
+- name: Boyd, H.
+- name: H. Boyd
+- name: H.L. Boyd
+sources:
+- url: https://ballotpedia.org/Heather_Boyd
+- url: https://en.wikipedia.org/wiki/Heather_Boyd
+- url: https://heatherboydforpa.com/about
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2015
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.linkedin.com/in/heboyd
+- url: https://www.pahouse.com/boyd
+- url: https://www.palegis.us/house/members/bio/2015/rep-boyd
+extras:
+  Education:
+  - University of Michigan, 1988 BA - History
+  - James Madison University, 2000 MA - Art History
+  - University of Delaware, 2003 MA - History of American Civilization
+  - University of Delaware, 2006 ABD - History of American Civilization

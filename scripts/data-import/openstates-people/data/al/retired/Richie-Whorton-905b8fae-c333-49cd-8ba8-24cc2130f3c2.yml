@@ -1,0 +1,20 @@
+id: ocd-person/905b8fae-c333-49cd-8ba8-24cc2130f3c2
+name: Richie Whorton
+given_name: Richie
+family_name: Whorton
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '22'
+links:
+- url: http://www.legislature.state.al.us/house/representatives/housebios/hd022.html
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000180
+sources:
+- url: http://www.legislature.state.al.us/house/representatives/housebios/hd022.html
+- url: http://www.legislature.state.al.us/house/representatives/houseroster_alpha.html

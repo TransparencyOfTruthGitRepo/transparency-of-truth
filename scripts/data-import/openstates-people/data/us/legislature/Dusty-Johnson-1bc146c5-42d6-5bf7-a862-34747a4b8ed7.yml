@@ -1,0 +1,83 @@
+id: ocd-person/1bc146c5-42d6-5bf7-a862-34747a4b8ed7
+name: Dusty Johnson
+given_name: Dusty
+family_name: Johnson
+birth_date: 1976-09-30
+gender: Male
+email: https://dustyjohnson.house.gov/address_authentication?form=/contact/email-me
+image: https://unitedstates.github.io/images/congress/450x550/J000301.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: SD-AL
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: SD-AL
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: SD-AL
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: SD-AL
+offices:
+- classification: capitol
+  address: 1714 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-2801
+- classification: district
+  address: 115 4th Ave. SE Suite 107A, Aberdeen, SD 57401
+  voice: 605-622-1060
+- classification: district
+  address: 230 S. Philips Ave. Suite 307, Sioux Falls, SD 57104
+  voice: 605-275-2868
+- classification: district
+  address: 2525 W. Main St. Suite 310, Rapid City, SD 57702
+  voice: 605-646-6454
+links:
+- url: https://dustyjohnson.house.gov
+  note: website
+- url: https://dustyjohnson.house.gov/
+other_names:
+- name: D. Johnson
+- name: D.M. Johnson
+- name: Johnson, D.
+ids:
+  twitter: RepDustyJohnson
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Dusty Johnson
+- scheme: bioguide
+  identifier: J000301
+- scheme: fec
+  identifier: H8SD01055
+- scheme: google_entity_id
+  identifier: kg:/g/11dyzlcnbr
+- scheme: govtrack
+  identifier: '412816'
+- scheme: icpsr
+  identifier: '21935'
+- scheme: opensecrets
+  identifier: N00040559
+- scheme: pictorial
+  identifier: '13248'
+- scheme: votesmart
+  identifier: '48307'
+- scheme: wikidata
+  identifier: Q30015838
+sources:
+- url: https://ballotpedia.org/Dusty_Johnson
+- url: https://dustyjohnson.house.gov
+- url: https://en.wikipedia.org/wiki/Dusty_Johnson
+- url: https://justfacts.votesmart.org/candidate/biography/48307/dusty-johnson
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/dusty_johnson/412816

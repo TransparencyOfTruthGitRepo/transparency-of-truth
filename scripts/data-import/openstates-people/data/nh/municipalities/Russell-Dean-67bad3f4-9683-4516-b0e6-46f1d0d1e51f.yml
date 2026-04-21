@@ -1,0 +1,15 @@
+id: ocd-person/67bad3f4-9683-4516-b0e6-46f1d0d1e51f
+name: Russell Dean
+given_name: Russell
+family_name: Dean
+email: rdean@town.exeter.nh.us
+roles:
+- end_date: '2025-12-31'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/place:exeter/government
+offices:
+- classification: primary
+  address: 10 Front Street;Exeter, NH 03833
+  voice: 603-778-0591
+sources:
+- url: https://www.exeternh.gov/townmanager

@@ -1,0 +1,51 @@
+id: ocd-person/dbe67894-e4cd-46ea-bb59-877a8b4f26d0
+name: Jay Webber
+given_name: Jay
+family_name: Webber
+birth_date: 1972-02-29
+gender: Male
+email: asmwebber@njleg.org
+image: https://www.njleg.state.nj.us/members/memberphotos/webber_jay_2019.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2008-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '26'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 160 Littleton Road Suite 204, Parsippany, NJ 07054
+  voice: 973-917-3420
+links:
+- url: https://www.njassemblygop.com/238/Jay-Webber
+- url: https://www.njassemblygop.com/webber/
+- url: https://www.njleg.state.nj.us/legislative-roster/283/assemblyman-webber
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=283
+other_names:
+- name: J. Webber
+- name: J.K. Webber
+- name: Webber, J.
+- name: Webber, Jay
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000080
+sources:
+- url: https://ballotpedia.org/Jay_Webber
+- url: https://en.wikipedia.org/wiki/Jay_Webber
+- url: https://justfacts.votesmart.org/candidate/biography/43279/jay-webber
+- url: https://www.linkedin.com/in/jay-webber-614b3989
+- url: https://www.njassemblygop.com/238/Jay-Webber
+- url: https://www.njassemblygop.com/webber
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/283
+- url: https://www.njleg.state.nj.us/downloads.asp
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/283/assemblyman-webber
+- url: https://www.njleg.state.nj.us/members/abcroster.asp
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=283
+- url: https://www.njleg.state.nj.us/members/BIO.asp?Leg=283
+extras:
+  position: Minority Appropriations Officer

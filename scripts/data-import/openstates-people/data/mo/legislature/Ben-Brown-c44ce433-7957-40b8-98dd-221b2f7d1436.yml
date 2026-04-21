@@ -1,0 +1,34 @@
+id: ocd-person/c44ce433-7957-40b8-98dd-221b2f7d1436
+name: Ben Brown
+given_name: Ben
+family_name: Brown
+gender: Male
+email: ben.brown@senate.mo.gov
+image: https://www.senate.mo.gov/WebPhotos/SenatorPortraits/Brown26.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room 430, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-3678
+links:
+- url: https://www.senate.mo.gov/Senators/Member/26
+- url: https://www.senate.mo.gov/Senators/Member?id=271
+other_names:
+- name: B. Brown
+- name: Ben Brown (26)
+- name: Benjamin Brown
+- name: Brown, B.
+sources:
+- url: https://ballotpedia.org/Ben_Brown_(Missouri)
+- url: https://en.wikipedia.org/wiki/Ben_Brown_(politician)
+- url: https://justfacts.votesmart.org/candidate/205662/ben-brown
+- url: https://www.linkedin.com/in/benjamin-brown-88474328
+- url: https://www.senate.mo.gov/senators/index
+- url: https://www.senate.mo.gov/Senators/Member/26
+- url: https://www.senate.mo.gov/Senators/Member?id=271

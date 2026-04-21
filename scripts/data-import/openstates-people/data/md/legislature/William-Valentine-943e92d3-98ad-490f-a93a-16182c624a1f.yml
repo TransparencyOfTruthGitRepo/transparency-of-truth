@@ -1,0 +1,28 @@
+id: ocd-person/943e92d3-98ad-490f-a93a-16182c624a1f
+name: William Valentine
+given_name: William
+family_name: Valentine
+gender: Male
+email: william.valentine@house.maryland.gov
+image: https://bloximages.newyork1.vip.townnews.com/fredericknewspost.com/content/tncms/assets/v3/editorial/a/7a/a7adf4f6-64f2-5123-82bc-5d65e10bda6e/62b95a9a20374.image.jpg?crop=815%2C1208%2C356%2C15&resize=200%2C296&order=crop%2Cresize
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 2A
+offices:
+- classification: capitol
+  address: Room 324, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3636
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/valentine01
+other_names:
+- name: Valentine, W.
+- name: W. Valentine
+- name: W.M. Valentine
+sources:
+- url: https://ballotpedia.org/William_Valentine
+- url: https://en.wikipedia.org/wiki/William_Valentine_(politician)
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/valentine01

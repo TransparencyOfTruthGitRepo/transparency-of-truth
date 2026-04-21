@@ -1,0 +1,46 @@
+id: ocd-person/de68158e-3cc9-4651-b3a1-71f5e77b7dab
+name: Tim Brennan
+given_name: Tim
+family_name: Brennan
+gender: Male
+email: repbrennan@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/1943.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '29'
+offices:
+- classification: capitol
+  address: Room 27B, East Wing P.O. Box 202029, Harrisburg, PA 17120
+  voice: 717-772-2361
+- classification: district
+  address: 80 N. Main St. Suite 1A, Doylestown, PA 18901
+  voice: 267-884-0395
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1943
+  note: homepage
+- url: https://www.pahouse.com/brennan/
+- url: https://www.palegis.us/house/members/bio/1943/rep-brennan
+other_names:
+- name: Brennan, T.
+- name: T. Brennan
+- name: T.P. Brennan
+ids:
+  twitter: RepTimBrennan
+  facebook: RepTimBrennan
+sources:
+- url: https://ballotpedia.org/Tim_Brennan
+- url: https://en.wikipedia.org/wiki/Tim_Brennan_(politician)
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1943
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.linkedin.com/in/timothy-brennan-8bb6026
+- url: https://www.pahouse.com/brennan
+- url: https://www.palegis.us/house/members/bio/1943/rep-brennan
+extras:
+  Education:
+  - Nativity B.V.M. High School, Pottsville
+  - Ursinus College, 2000
+  - Widener University School of Law, 2003

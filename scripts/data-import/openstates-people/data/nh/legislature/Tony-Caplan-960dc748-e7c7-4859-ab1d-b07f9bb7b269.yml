@@ -1,0 +1,54 @@
+id: ocd-person/960dc748-e7c7-4859-ab1d-b07f9bb7b269
+name: Tony Caplan
+given_name: Tony
+family_name: Caplan
+gender: Male
+email: tony.caplan@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/93771.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 8
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 8
+- start_date: 2022-12-07
+  end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 6
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9923
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9923
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9923
+  note: member detail page
+other_names:
+- name: A. Caplan
+- name: Anthony Caplan
+- name: Caplan, T.
+- name: T. Caplan
+sources:
+- url: https://anthonycaplanwrites.blogspot.com
+- url: https://ballotpedia.org/Tony_Caplan
+- url: https://en.wikipedia.org/wiki/Tony_Caplan
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9923
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9923
+- url: https://justfacts.votesmart.org/candidate/biography/194923/tony-caplan
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9923
+- url: https://www.linkedin.com/in/anthony-caplan-09b1a27
+extras:
+  county: Merrimack
+  elected status: Incumbent
+  gender code: M

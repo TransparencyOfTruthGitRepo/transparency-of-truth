@@ -1,0 +1,41 @@
+id: ocd-person/b0cf2626-c728-4970-bf18-bb30ea91c229
+name: Nick Begich
+given_name: Nick
+family_name: Begich
+birth_date: 1977-10-21
+gender: Male
+email: https://begich.house.gov/address_authentication?form=/contact/email-me
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AK-AL
+offices:
+- classification: capitol
+  address: 153 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-5765
+- classification: district
+  address: 1016 W. 6th Ave. Suite 406, Anchorage, AK 99501
+  voice: 907-921-6575
+- classification: district
+  address: 542 4th Ave. Suite 210, Fairbanks, AK 99701
+  voice: 907-251-4560
+links:
+- url: https://begich.house.gov/
+other_names:
+- name: Begich, N.
+- name: N. Begich
+- name: N.J. Begich
+other_identifiers:
+- scheme: bioguide
+  identifier: B001323
+sources:
+- url: https://ballotpedia.org/Nicholas_Begich
+- url: https://begich.house.gov
+- url: https://en.wikipedia.org/wiki/Nick_Begich_III
+- url: https://justfacts.votesmart.org/candidate/207684/nick-begich-iii
+- url: https://www.alaskansfornickbegich.com
+- url: https://www.linkedin.com/in/nbegich

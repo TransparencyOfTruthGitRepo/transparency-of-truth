@@ -1,0 +1,23 @@
+id: ocd-person/7ffd25b4-46f7-42fb-8346-fb3fc88059e3
+name: Jon S Cardin
+given_name: Jon
+family_name: Cardin
+middle_name: S
+image: http://mgaleg.maryland.gov/2014RS/images/cardin.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2007-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '11'
+links:
+- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=cardin&stab=01
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000259
+- scheme: legacy_openstates
+  identifier: MDL000490
+sources:
+- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=cardin&stab=01

@@ -1,0 +1,69 @@
+id: ocd-person/3e53830a-108c-5864-92f1-9f9c8f7b1d0f
+name: Glenn Ivey
+given_name: Glenn
+family_name: Ivey
+birth_date: 1961-02-27
+gender: Male
+email: https://ivey.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/I000058.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MD-4
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MD-4
+offices:
+- classification: capitol
+  address: 1610 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-8699
+  fax: 202-225-2848
+- classification: district
+  address: 4301 Garden City Drive, Landover, MD 20785
+  voice: 240-906-6262
+links:
+- url: https://ivey.house.gov
+  note: website
+- url: https://ivey.house.gov/
+other_names:
+- name: G. Ivey
+- name: G.F. Ivey
+- name: Ivey, G.
+ids:
+  twitter: RepGlennIvey
+other_identifiers:
+- scheme: bioguide
+  identifier: I000058
+- scheme: fec
+  identifier: H2MD04315
+- scheme: google_entity_id
+  identifier: kg:/g/11bxfgrf12
+- scheme: govtrack
+  identifier: '456905'
+- scheme: opensecrets
+  identifier: N00033749
+- scheme: pictorial
+  identifier: '13087'
+- scheme: votesmart
+  identifier: '166279'
+- scheme: wikidata
+  identifier: Q22004572
+- scheme: wikipedia
+  identifier: Glenn Ivey
+sources:
+- url: https://ballotpedia.org/Glenn_Ivey
+- url: https://en.wikipedia.org/wiki/Glenn_Ivey
+- url: https://glennivey.com/meetglenn
+- url: https://ivey.house.gov
+- url: https://ivey.house.gov/about
+- url: https://justfacts.votesmart.org/candidate/biography/166279/glenn-ivey
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/glenn_ivey/456905
+- url: https://www.linkedin.com/in/glennivey

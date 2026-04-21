@@ -1,0 +1,20 @@
+id: ocd-person/162db5fe-4608-4b50-8172-9f6aa6dd391a
+name: Tommy Thompson
+given_name: Tommy
+family_name: Thompson
+image: http://www.lrc.ky.gov/pubinfo/thumbnails/House14.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '14'
+links:
+- url: http://www.lrc.ky.gov/legislator/H014.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000128
+sources:
+- url: http://www.lrc.ky.gov/legislator/H014.htm

@@ -1,0 +1,57 @@
+id: ocd-person/785aed65-3e87-42fe-8e71-307ce08f44ae
+name: Antonio Parkinson
+given_name: Antonio
+family_name: Parkinson
+gender: Male
+email: rep.antonio.parkinson@capitol.tn.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Antonio_Parkinson.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2011-03-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '98'
+offices:
+- classification: capitol
+  address: Room 419, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-4575
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H98
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h98.html
+other_names:
+- name: A. Parkinson
+- name: Parkinson, A
+- name: Parkinson, A.
+- name: Rep. Antonio Parkinson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000099
+- scheme: legacy_openstates
+  identifier: TNL000229
+- scheme: legacy_openstates
+  identifier: TNL000398
+- scheme: legacy_openstates
+  identifier: TNL000468
+- scheme: legacy_openstates
+  identifier: TNL000490
+- scheme: legacy_openstates
+  identifier: TNL000491
+sources:
+- url: https://ballotpedia.org/Antonio_Parkinson
+- url: https://en.wikipedia.org/wiki/Antonio_Parkinson
+- url: https://justfacts.votesmart.org/candidate/128741/antonio-parkinson
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H98
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h98.html
+- url: https://www.linkedin.com/in/antonio-parkinson-60102421
+extras:
+  office: 419 CHB
+  personal info:
+  - Born July 14
+  - Retired Firefighter, Lieutenant, Shelby County Fire Dept.
+  - Retired U.S. Marine

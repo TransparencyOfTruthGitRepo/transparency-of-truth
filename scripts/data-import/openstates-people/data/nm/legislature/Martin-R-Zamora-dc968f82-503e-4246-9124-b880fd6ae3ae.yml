@@ -1,0 +1,44 @@
+id: ocd-person/dc968f82-503e-4246-9124-b880fd6ae3ae
+name: Martin Zamora
+given_name: Martin
+family_name: Zamora
+gender: Male
+email: martin.zamora@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HZAMO.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '63'
+offices:
+- classification: capitol
+  address: Room 203E, New Mexico Capitol Annex 325 Don Gaspar Ave., Santa Fe, NM 87501
+  voice: 505-986-4211
+- classification: district
+  address: NM
+  voice: 575-309-2334
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HZAMO
+  note: homepage
+other_names:
+- name: M. Zamora
+- name: M.R. Zamora
+- name: Martin R. Zamora
+- name: Martin Ruben Zamora
+- name: Zamora, M.
+- name: Zamora, Martin
+- name: Zamora, Martin R.
+ids:
+  twitter: repmartinzamora
+sources:
+- url: https://ballotpedia.org/Martin_Ruben_Zamora
+- url: https://en.wikipedia.org/wiki/Martin_R._Zamora
+- url: https://justfacts.votesmart.org/candidate/biography/180813/martin-zamora
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HZAMO
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: Curry, DeBaca, Guadalupe, Roosevelt & San Miguel
+  service: Representative since 2019
+  occupation: Farmer

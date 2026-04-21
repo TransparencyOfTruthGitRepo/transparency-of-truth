@@ -1,0 +1,49 @@
+id: ocd-person/46b660af-1c4c-46a1-905e-ffd89a9cc32f
+name: Shane Mack
+given_name: Shane
+family_name: Mack
+gender: Male
+email: hse095@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep95.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '95'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district-mail
+  address: P.O. Box 1354, Livingston, LA 70754
+  voice: 225-686-7500
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=95
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=95
+other_names:
+- name: Mack, S.
+- name: S. Mack
+- name: Sherman Q. Mack
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000466
+- scheme: legacy_openstates
+  identifier: LAL000592
+- scheme: legacy_openstates
+  identifier: LAL000708
+- scheme: legacy_openstates
+  identifier: LAL000855
+sources:
+- url: https://ballotpedia.org/Shane_Mack
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=95
+- url: https://house.louisiana.gov/H_Reps/members?ID=95
+extras:
+  legislative assistant: Katelynn Mclin
+  representing parishes:
+  - Livingston
+  education: Holden High School, 1990; Southeastern Louisiana University, 1995; Southern
+    University Law School, 1999

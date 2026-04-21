@@ -1,0 +1,22 @@
+id: ocd-person/26169c3c-3132-49db-a0f7-397a53ff27b2
+name: Terry W Brown
+given_name: Terry
+family_name: Brown
+middle_name: W
+image: http://billstatus.ls.state.ms.us/members/senate/brown.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2008-01-01'
+  end_date: '2015-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '17'
+links:
+- url: http://billstatus.ls.state.ms.us/members/senate/Brown.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000013
+sources:
+- url: http://billstatus.ls.state.ms.us/members/senate/Brown.xml
+- url: http://www.clarionledger.com/story/politicalledger/2014/09/04/brown-hospitalized-senate/15066047/

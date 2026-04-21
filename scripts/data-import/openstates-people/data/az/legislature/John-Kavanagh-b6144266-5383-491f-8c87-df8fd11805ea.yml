@@ -1,0 +1,59 @@
+id: ocd-person/b6144266-5383-491f-8c87-df8fd11805ea
+name: John Kavanagh
+given_name: John
+family_name: Kavanagh
+birth_date: 1950-06-05
+gender: Male
+email: jkavanagh@azleg.gov
+image: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/KAVANAGH.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '3'
+- end_date: 2018-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '23'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '23'
+offices:
+- classification: capitol
+  address: Room 200, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-5170
+links:
+- url: https://www.azleg.gov/house-member/?legislature=55&legislator=2056
+- url: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1916
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2056
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2056
+- url: https://www.azleg.gov/senate-member/?legislature=57&legislator=2386
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2132
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2132
+other_names:
+- name: J. Kavanagh
+- name: Kavanagh, J.
+ids:
+  twitter: johnkavanagh_az
+  facebook: John.KavanaghAZ
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AZL000063
+- scheme: legacy_openstates
+  identifier: AZL000158
+- scheme: legacy_openstates
+  identifier: AZL000263
+- scheme: legacy_openstates
+  identifier: AZL000338
+sources:
+- url: https://ballotpedia.org/John_Kavanagh
+- url: https://en.wikipedia.org/wiki/John_Kavanagh_(Arizona_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/68209/john-kavanagh
+- url: https://www.azleg.gov/house-member/?legislature=55&legislator=2056
+- url: https://www.azleg.gov/MemberRoster/?body=H
+- url: https://www.azleg.gov/memberroster/?body=H
+- url: https://www.azleg.gov/memberroster/?body=S
+- url: https://www.azleg.gov/senate-member/?legislature=57&legislator=2386

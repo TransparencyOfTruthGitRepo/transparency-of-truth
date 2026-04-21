@@ -1,0 +1,93 @@
+id: ocd-person/9b2b75b5-2641-51be-91c3-9d14d40e4d1a
+name: Ralph Norman
+given_name: Ralph
+family_name: Norman
+birth_date: 1953-06-20
+gender: Male
+email: https://norman.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/N000190.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-06-26
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: SC-5
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: SC-5
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: SC-5
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: SC-5
+- start_date: 2017-06-26
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: SC-5
+offices:
+- classification: capitol
+  address: 569 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-5501
+  fax: 202-225-0464
+- classification: district
+  address: 516 Oakland Ave., Rock Hill, SC 29730
+  voice: 803-327-1114
+  fax: 803-327-4330
+links:
+- url: https://norman.house.gov
+  note: website
+- url: https://norman.house.gov/
+other_names:
+- name: Norman, R.
+- name: R. Norman
+- name: R.W. Norman
+ids:
+  twitter: RepRalphNorman
+  facebook: RepRalphNorman
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Ralph Norman
+- scheme: bioguide
+  identifier: N000190
+- scheme: cspan
+  identifier: '61996'
+- scheme: fec
+  identifier: H8SC05158
+- scheme: google_entity_id
+  identifier: kg:/m/0f9kbx
+- scheme: govtrack
+  identifier: '412738'
+- scheme: house_history
+  identifier: '15032448994'
+- scheme: icpsr
+  identifier: '21753'
+- scheme: maplight
+  identifier: '2248'
+- scheme: opensecrets
+  identifier: N00027783
+- scheme: pictorial
+  identifier: '13245'
+- scheme: votesmart
+  identifier: '47930'
+- scheme: wikidata
+  identifier: Q7287914
+sources:
+- url: https://ballotpedia.org/Ralph_W._Norman
+- url: https://en.wikipedia.org/wiki/Ralph_Norman
+- url: https://justfacts.votesmart.org/candidate/47930/ralph-norman-jr
+- url: https://norman.house.gov
+- url: https://norman.house.gov/meet-ralph
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.electralphnorman.com/meet-ralph
+- url: https://www.govtrack.us/congress/members/ralph_norman/412738

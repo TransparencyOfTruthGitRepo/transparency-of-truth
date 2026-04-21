@@ -1,0 +1,55 @@
+id: ocd-person/33aa9a6b-b106-4216-8ea5-82d85cd2250a
+name: Bill Soules
+given_name: Bill
+family_name: Soules
+birth_date: 1955-12-06
+gender: Male
+email: bill.soules@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/Senate/SSOUL.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-15
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '37'
+offices:
+- classification: capitol
+  address: State Capitol Room 328C, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4834
+links:
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SSOUL
+  note: homepage
+other_names:
+- name: B. Soules
+- name: Soules, B.
+- name: Soules, Bill
+- name: Soules, William P.
+- name: W.P. Soules
+- name: William P. Soules
+- name: William Soules
+ids:
+  twitter: senatorsoules
+  instagram: soules_bill
+  facebook: Soules4Senate37
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000144
+- scheme: legacy_openstates
+  identifier: NML000168
+- scheme: legacy_openstates
+  identifier: NML000206
+- scheme: legacy_openstates
+  identifier: NML000285
+sources:
+- url: https://ballotpedia.org/William_P._Soules
+- url: https://en.wikipedia.org/wiki/William_Soules
+- url: https://justfacts.votesmart.org/candidate/biography/139118/bill-soules
+- url: https://www.linkedin.com/in/bill-soules-76792b7a
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=SSOUL
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=S
+extras:
+  counties represented: "Do\xF1a Ana"
+  service: Senator since 2013
+  occupation: Teacher

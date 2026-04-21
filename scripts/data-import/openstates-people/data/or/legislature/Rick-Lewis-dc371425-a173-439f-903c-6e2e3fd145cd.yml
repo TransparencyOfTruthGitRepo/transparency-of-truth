@@ -1,0 +1,35 @@
+id: ocd-person/dc371425-a173-439f-903c-6e2e3fd145cd
+name: Rick Lewis
+given_name: Rick
+family_name: Lewis
+gender: Male
+email: rep.ricklewis@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/lewis/PublishingImages/member_photo.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-02-22
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '18'
+offices:
+- classification: capitol
+  address: Room H-382, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1418
+links:
+- url: https://www.oregonlegislature.gov/lewis
+  note: homepage
+other_names:
+- name: Lewis, R.
+- name: R. Lewis
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000389
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Rick_Lewis_(Oregon)
+- url: https://en.wikipedia.org/wiki/Rick_Lewis_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/176436/rick-lewis
+- url: https://www.linkedin.com/in/rick-lewis-14695956
+- url: https://www.oregonlegislature.gov/lewis

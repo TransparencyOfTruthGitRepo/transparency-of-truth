@@ -1,0 +1,46 @@
+id: ocd-person/cc410819-75a4-46dd-a3d5-edbd80d9f861
+name: John Bell
+given_name: John
+family_name: Bell
+birth_date: 1979-05-18
+gender: Male
+email: john.bell@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/661/Low
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '10'
+offices:
+- classification: capitol
+  address: Room 2301, North Carolina Legislative Building 16 W. Jones St., Raleigh,
+    NC 27601
+  voice: 919-715-3017
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/661
+- url: https://www.ncleg.gov/Members/Committees/H/661
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/661
+- url: https://www.ncleg.gov/Members/Votes/H/661
+other_names:
+- name: Bell, J.
+- name: J. Bell
+- name: J.R. Bell
+- name: John R. Bell IV
+- name: John R. Bell, IV
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000267
+sources:
+- url: https://ballotpedia.org/John_Bell_(North_Carolina)
+- url: https://en.wikipedia.org/wiki/John_R._Bell_IV
+- url: https://www.ncleg.gov/Members/Biography/H/661
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 300 N. Salisbury Street, Rm. 301F; Raleigh, NC 27603-5925
+  terms in senate: 6 (0 in Senate)
+  represented counties: Wayne
+  legislative assistant: Susan W. Horne
+  legislative assistant email: Susan.Horne@ncleg.gov
+  occupation: RISE Capital

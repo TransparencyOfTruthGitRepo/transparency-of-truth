@@ -1,0 +1,32 @@
+id: ocd-person/9a5a1e33-a7d4-45c2-93cb-3c1bc630fbe2
+name: Joseph A. Boncore
+given_name: Joseph
+family_name: Boncore
+gender: Male
+email: Joseph.Boncore@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/JAB0.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2021-09-10'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: First Suffolk and Middlesex
+  end_reason: Resigned to become CEO of MassBio
+offices:
+- classification: capitol
+  address: 24 Beacon St., Room 112; Boston, MA 02133
+  voice: 617-722-1634
+links:
+- url: https://malegislature.gov/Legislators/Profile/JAB0
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000396
+- scheme: legacy_openstates
+  identifier: MAL000399
+sources:
+- url: https://malegislature.gov/Legislators/Profile/JAB0
+- url: http://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/JAB0
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+extras:
+  member code: JAB0

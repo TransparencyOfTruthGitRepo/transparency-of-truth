@@ -1,0 +1,72 @@
+id: ocd-person/3ab49eaa-77a6-4e6e-85a5-24812e78ae7a
+name: Alexis Simpson
+given_name: Alexis
+family_name: Simpson
+gender: Female
+email: ahksimpson@gmail.com
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/50343.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 33
+- end_date: 2016-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 33
+  start_date: 2022-12-07
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 33
+- start_date: 2015-01-01
+  end_date: 2016-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 18
+- start_date: 2020-12-02
+  end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 36
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=904
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=904
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377314
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=904
+  note: member detail page
+other_names:
+- name: A. Simpson
+- name: A.K. Simpson
+- name: Alexis H Simpson
+- name: Alexis Kemmler Simpson
+- name: Alexis Simpson
+- name: Simpson, A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001131
+- scheme: openstates
+  identifier: ocd-person/8ed52545-3ca8-441b-a564-37ddf68cc407
+sources:
+- url: https://ballotpedia.org/Alexis_Simpson
+- url: https://en.wikipedia.org/wiki/Alexis_Simpson
+- url: https://gc.nh.gov/house/members/member.aspx?pid=904
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=904
+- url: https://justfacts.votesmart.org/candidate/biography/154348/alexis-simpson
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377314
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=904
+- url: https://www.linkedin.com/in/alexis-simpson-705630133
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: F

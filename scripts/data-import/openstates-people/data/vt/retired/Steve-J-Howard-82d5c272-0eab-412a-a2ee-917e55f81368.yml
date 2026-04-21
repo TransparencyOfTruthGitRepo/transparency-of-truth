@@ -1,0 +1,18 @@
+id: ocd-person/82d5c272-0eab-412a-a2ee-917e55f81368
+name: Steve J Howard
+given_name: Steve
+family_name: Howard
+middle_name: J
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Rutland-5-3
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000085
+sources:
+- url: http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W

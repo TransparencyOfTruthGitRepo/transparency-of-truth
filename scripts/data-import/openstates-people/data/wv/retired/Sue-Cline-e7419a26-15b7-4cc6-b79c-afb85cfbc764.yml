@@ -1,0 +1,20 @@
+id: ocd-person/e7419a26-15b7-4cc6-b79c-afb85cfbc764
+name: Sue Cline
+given_name: Sue
+family_name: Cline
+email: sue.cline@wvsenate.gov
+image: http://www.legis.state.wv.us/images/members/2019/senate/cline_sue.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '9'
+links:
+- url: http://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Cline
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000345
+sources:
+- url: http://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Cline

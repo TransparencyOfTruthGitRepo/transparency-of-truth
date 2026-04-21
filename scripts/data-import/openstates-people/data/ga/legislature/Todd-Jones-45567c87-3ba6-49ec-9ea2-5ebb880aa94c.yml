@@ -1,0 +1,62 @@
+id: ocd-person/45567c87-3ba6-49ec-9ea2-5ebb880aa94c
+name: Todd Jones
+given_name: Todd
+family_name: Jones
+birth_date: 1967-08-15
+gender: Male
+email: todd.jones@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/jones-todd-4885.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '25'
+offices:
+- classification: capitol
+  address: State Capitol Room 416-B, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-9210
+- classification: district
+  address: 8175 Majors Ridge Way, Cumming, GA 30041
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4885&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4885
+- url: https://www.legis.ga.gov/members/house/4885?session=1029
+- url: https://www.legis.ga.gov/members/house/4885?session=1031
+  note: HTML member detail page
+other_names:
+- name: JONES, 25TH
+- name: Jones, T.
+- name: R.T. Jones
+- name: T. Jones
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000468
+sources:
+- url: https://ballotpedia.org/Todd_Jones
+- url: https://en.wikipedia.org/wiki/Todd_Jones_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/168219/todd-jones
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4885&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4885?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4885?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4885
+- url: https://www.legis.ga.gov/members/house/4885?session=1029
+extras:
+  residence: South Forsyth
+  city: South Forsyth
+  georgia_id: 4885
+  birthday: August 15
+  occupation: Technology Executive
+  press: https://house-press.com/representative/Todd-Jones
+  spouse: Tracey
+  staff: a href="stacy.williams@house.ga.gov"
+  staff email: ''
+  title: Chairman, Technology & Infrastructure Innovation

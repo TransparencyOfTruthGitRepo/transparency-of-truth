@@ -1,0 +1,55 @@
+id: ocd-organization/0b41bb6d-fd28-40e8-b64a-3145f97f0658
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: Counties and Townships
+chamber: lower
+sources:
+- url: https://www.ilga.gov/house/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2923&GA=103
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3091&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3091
+links:
+- url: https://www.ilga.gov/house/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2923&GA=103
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3091&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3091
+members:
+- name: "Aar\xF3n Ort\xEDz"
+  role: chair
+  person_id: ocd-person/a76e0c0e-81d3-4f3b-8cc8-b8360d3cecb4
+- name: Kevin Olickal
+  role: vice chair
+  person_id: ocd-person/c2c8c6a1-ef1b-4a38-92fa-bde7563b7f23
+- name: Brad Halbrook
+  role: republican spokesperson
+  person_id: ocd-person/e05f1a87-b75d-450e-9cd1-3b7a66cb703e
+- name: Jason Bunting
+  role: member
+  person_id: ocd-person/4a588ccf-b32f-4b66-978a-3415f71d2774
+- name: Jay Hoffman
+  role: member
+  person_id: ocd-person/21e2f7d1-8073-4ee1-a5b5-b32ccdd321d5
+- name: Larry Walsh
+  role: member
+  person_id: ocd-person/9eda7be9-b2c6-45e6-bea6-098bd7f47595
+- name: Marty McLaughlin
+  role: member
+  person_id: ocd-person/eb9a9c6e-1173-4c03-848e-167eb2762673
+- name: Murri Briel
+  role: member
+  person_id: ocd-person/d717abc0-a4ec-4ce9-bd24-cbda0a48c361
+- name: Natalie Manley
+  role: member
+  person_id: ocd-person/d7b735a6-3b70-4a3d-ae53-948fde86e4e7
+- name: Regan Deering
+  role: member
+  person_id: ocd-person/8d81a4e9-f895-4a60-8064-2ddd2bd785c8
+- name: Suzanne Ness
+  role: member
+  person_id: ocd-person/68505842-e93c-42ce-adc8-9354f4a0db7a
+other_names:
+- name: House Committee on Counties and Townships
+- name: House Counties and Townships
+- name: House Counties and Townships Committee

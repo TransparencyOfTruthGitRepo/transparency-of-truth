@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+.coverage
+htmlcov
+incoming/
+_data/
+_scrapes/
+.DS_Store
+spatula-cache.db
+.idea/
+.pre-commit-config.yaml
+env/

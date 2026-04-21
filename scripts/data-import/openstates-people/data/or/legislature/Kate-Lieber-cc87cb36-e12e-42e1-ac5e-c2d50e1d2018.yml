@@ -1,0 +1,32 @@
+id: ocd-person/cc87cb36-e12e-42e1-ac5e-c2d50e1d2018
+name: Kate Lieber
+given_name: Kate
+family_name: Lieber
+gender: Female
+email: sen.katelieber@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/lieber/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '14'
+offices:
+- classification: capitol
+  address: Room S-205, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1714
+links:
+- url: https://www.oregonlegislature.gov/lieber
+  note: homepage
+other_names:
+- name: K. Lieber
+- name: K.B. Lieber
+- name: Lieber, K.
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Kate_Lieber
+- url: https://en.wikipedia.org/wiki/Kate_Lieber
+- url: https://www.linkedin.com/in/kate-b-lieber-947867132
+- url: https://www.oregonlegislature.gov/lieber

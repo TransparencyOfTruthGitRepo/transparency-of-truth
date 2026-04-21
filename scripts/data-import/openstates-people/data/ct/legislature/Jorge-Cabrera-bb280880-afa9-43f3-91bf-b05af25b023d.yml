@@ -1,0 +1,41 @@
+id: ocd-person/bb280880-afa9-43f3-91bf-b05af25b023d
+name: Jorge Cabrera
+given_name: Jorge
+family_name: Cabrera
+gender: Male
+email: jorge.cabrera@cga.ct.gov
+image: http://www.senatedems.ct.gov/templates/cabrera/images/cabrera-hi.png
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '17'
+offices:
+- classification: capitol
+  address: Room 2800, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-0050
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S17%27&dist_name=Cabrera,%20Jorge
+- url: https://www.senatedems.ct.gov/cabrera
+- url: https://www.senatedems.ct.gov/senator/jorge-cabrera
+other_names:
+- name: Cabrera, J.
+- name: Cabrera, Jorge
+- name: J. Cabrera
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Jorge_Cabrera
+- url: https://en.wikipedia.org/wiki/Jorge_Cabrera_(politician)
+- url: https://www.senatedems.ct.gov/cabrera
+- url: https://www.senatedems.ct.gov/senator/jorge-cabrera
+- url: https://www.senatedems.ct.gov/senator/jorge-cabrera/bio
+extras:
+  gender: Male
+  title: Deputy President Pro Tempore
+  committees: Insurance and Real Estate (Chair); Labor and Public Employees (Vice
+    Chair); Energy and Technology; Finance, Revenue and Bonding; Public Health; Transportation
+  committee codes: ;ET;FIN;INS;LAB;PH;TRA;
+  business phone: 203-726-0768
+  prison: '0'

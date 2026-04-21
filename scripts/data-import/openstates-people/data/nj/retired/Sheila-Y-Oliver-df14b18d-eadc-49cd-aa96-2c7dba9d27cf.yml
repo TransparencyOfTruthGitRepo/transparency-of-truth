@@ -1,0 +1,22 @@
+id: ocd-person/df14b18d-eadc-49cd-aa96-2c7dba9d27cf
+name: Sheila Y Oliver
+given_name: Sheila Y.
+family_name: Oliver
+middle_name: Y
+image: http://www.njleg.state.nj.us/members/memberphotos/oliver_color.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2017-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '34'
+links:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=242
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000104
+sources:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=242
+- url: http://www.njleg.state.nj.us/downloads.asp

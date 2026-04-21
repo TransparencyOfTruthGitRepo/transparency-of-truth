@@ -1,0 +1,47 @@
+id: ocd-person/dd47283c-c202-461f-b56a-8cc2c0b14f15
+name: Stewart Cathey
+given_name: Stewart
+family_name: Cathey
+gender: Male
+email: sen33@legis.la.gov
+image: https://senate.la.gov/SenatorPics/Sen33.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-13
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '33'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 209 N. Park Drive, Monroe, LA 71203
+  voice: 318-582-5524
+links:
+- url: https://senate.la.gov/smembers.aspx?ID=33
+  note: homepage
+- url: https://senate.la.gov/smembers?ID=33
+other_names:
+- name: Cathey, S.
+- name: S. Cathey
+- name: Stewart Cathey , Jr.
+- name: Stewart Cathey Jr.
+sources:
+- url: https://ballotpedia.org/Stewart_Cathey
+- url: https://en.wikipedia.org/wiki/Stewart_Cathey_Jr.
+- url: https://justfacts.votesmart.org/candidate/biography/165589/stewart-cathey-jr
+- url: https://senate.la.gov/Senators_FullInfo
+- url: https://senate.la.gov/smembers.aspx?ID=33
+- url: https://senate.la.gov/smembers?ID=33
+- url: https://www.linkedin.com/in/stewart-cathey-jr-6707682b
+extras:
+  legislative assistant: Cynthia Nyquist
+  representing parishes:
+  - Claiborne
+  - Lincoln
+  - Morehouse
+  - Ouachita
+  - Union
+  - West Carroll

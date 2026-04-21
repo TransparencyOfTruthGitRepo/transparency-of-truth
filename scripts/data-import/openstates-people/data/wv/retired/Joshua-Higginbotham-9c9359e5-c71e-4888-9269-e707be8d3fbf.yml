@@ -1,0 +1,21 @@
+id: ocd-person/9c9359e5-c71e-4888-9269-e707be8d3fbf
+name: Joshua Higginbotham
+given_name: Joshua
+family_name: Higginbotham
+email: joshua.higginbotham@wvhouse.gov
+image: http://www.legis.state.wv.us/images/members/2021/house/higginbotham_joshua.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2021-11-05'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '13'
+  end_reason: Moved out of district
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Higginbotham
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000350
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Higginbotham

@@ -1,0 +1,23 @@
+id: ocd-person/63526df9-1d2d-4b5b-8f37-de61b4143ca9
+name: Philip Spagnuolo
+given_name: Philip
+family_name: Spagnuolo
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Belknap 3
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001516
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408815
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+extras:
+  first_name: Philip
+  last_name: Spagnuolo
+  middle_name: ''

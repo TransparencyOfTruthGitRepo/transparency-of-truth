@@ -1,0 +1,66 @@
+id: ocd-person/49d245a5-ad19-46cf-9857-581573c0b99b
+name: Rob Hutton
+given_name: Rob
+family_name: Hutton
+birth_date: 1967-04-07
+gender: Male
+email: sen.hutton@legis.wisconsin.gov
+image: https://docs.legis.wisconsin.gov/2023/legislators/senate/2560.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '5'
+- end_date: 2020-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '13'
+offices:
+- classification: capitol
+  address: State Capitol Room 313 South, P.O. Box 7882 , 2 E. Main St., Madison, WI
+    53707
+  voice: 608-266-2512
+links:
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1562
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1807
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/2560
+- url: https://docs.legis.wisconsin.gov/2025/legislators/senate/2812
+- url: https://legis.wisconsin.gov/senate/05/hutton/
+- url: https://rob-hutton.com/
+other_names:
+- name: HUTTON, R
+- name: Hutton, R
+- name: Hutton, R.
+- name: R. Hutton
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000513
+sources:
+- url: https://ballotpedia.org/Rob_Hutton
+- url: https://docs.legis.wisconsin.gov/2017/legislators/assembly/1562
+- url: https://docs.legis.wisconsin.gov/2019/legislators/assembly/1807
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/
+  note: members list page
+- url: https://docs.legis.wisconsin.gov/2023/legislators/senate/2560
+  note: member detail page
+- url: https://docs.legis.wisconsin.gov/2025/legislators/senate/2812
+- url: https://en.wikipedia.org/wiki/Rob_Hutton
+- url: https://justfacts.votesmart.org/candidate/99011/rob-hutton
+- url: https://legis.wisconsin.gov/senate/05/hutton
+- url: https://rob-hutton.com
+- url: https://rob-hutton.com/robs-story
+- url: https://www.linkedin.com/in/rob-hutton-a8451828
+extras:
+  website: https://legis.wisconsin.gov/senate/05/hutton/
+  extra phone: ''
+  staff1: Sandy Lonergan
+  staff_email1: Sandy.Lonergan@legis.wisconsin.gov
+  staff2: Edward Eberle
+  staff_email2: Edward.Eberle@legis.wisconsin.gov
+  staff3: Patrick Kanarowski
+  staff_email3: Patrick.Kanarowski@legis.wisconsin.gov
+  staff4: Chris Rochester
+  staff_email4: Chris.Rochester@legis.wisconsin.gov

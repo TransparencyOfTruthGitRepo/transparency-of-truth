@@ -1,0 +1,60 @@
+id: ocd-person/69493144-3e3e-49a8-9e1f-f9a948fd0ff3
+name: Lee Hawkins
+given_name: Lee
+family_name: Hawkins
+gender: Male
+email: lee.hawkins@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/hawkins-lee-19.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '27'
+offices:
+- classification: capitol
+  address: State Capitol Room 401-C, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-7855
+- classification: district
+  address: Gainesville, GA
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=19&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/19
+- url: https://www.legis.ga.gov/members/house/19?session=1029
+- url: https://www.legis.ga.gov/members/house/19?session=1031
+  note: HTML member detail page
+other_names:
+- name: HAWKINS, 27TH
+- name: Hawkins, L.
+- name: L. Hawkins
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000299
+sources:
+- url: https://ballotpedia.org/Lee_Hawkins
+- url: https://en.wikipedia.org/wiki/Lee_Hawkins
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=19&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/19?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/19?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/19
+- url: https://www.legis.ga.gov/members/house/19?session=1029
+- url: https://www.linkedin.com/in/lee-hawkins-10514a15
+extras:
+  residence: Gainesville
+  city: Gainesville
+  georgia_id: 19
+  birthday: August 22
+  occupation: Dentist
+  press: https://house-press.com/representative/Lee-Hawkins
+  spouse: Sharon
+  staff: Dendrick Atkins - Administrative Assistant
+  staff email: dendrick.atkins@house.ga.gov
+  title: Chairman, Health

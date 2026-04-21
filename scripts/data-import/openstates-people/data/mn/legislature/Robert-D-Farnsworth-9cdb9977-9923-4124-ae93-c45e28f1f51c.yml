@@ -1,0 +1,32 @@
+id: ocd-person/9cdb9977-9923-4124-ae93-c45e28f1f51c
+name: Rob Farnsworth
+given_name: Rob
+family_name: Farnsworth
+gender: Male
+email: sen.robert.farnsworth@senate.mn
+image: https://www.senate.mn/graphics/07Farnsworth.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '7'
+offices:
+- classification: capitol
+  address: Room 2323, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-8436
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1254
+other_names:
+- name: Farnsworth, R.
+- name: R. Farnsworth
+- name: R.D. Farnsworth
+- name: Robert D. Farnsworth
+sources:
+- url: https://ballotpedia.org/Robert_Farnsworth
+- url: https://en.wikipedia.org/wiki/Robert_Farnsworth_(politician)
+- url: https://justfacts.votesmart.org/candidate/171450/robert-farnsworth
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1254

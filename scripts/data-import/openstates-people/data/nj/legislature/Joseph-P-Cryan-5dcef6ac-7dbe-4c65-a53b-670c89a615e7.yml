@@ -1,0 +1,54 @@
+id: ocd-person/5dcef6ac-7dbe-4c65-a53b-670c89a615e7
+name: Joe Cryan
+given_name: Joe
+family_name: Cryan
+birth_date: 1961-09-01
+gender: Male
+email: sencryan@njleg.org
+image: https://www.njleg.state.nj.us/members/memberphotos/cryan_joseph_2017.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2018-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '20'
+- end_date: 2015-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '20'
+  start_date: 2018-01-09
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 1585 Morris Ave., 1st Floor, Union, NJ 07083
+  voice: 908-624-0880
+  fax: 908-624-0587
+links:
+- url: https://www.njleg.state.nj.us/legislative-roster/406/senator-cryan
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=406
+- url: https://www.njsendems.org/senators/joseph-cryan/
+other_names:
+- name: Cryan, J.
+- name: Cryan, Joseph P.
+- name: J. Cryan
+- name: J.P. Cryan
+- name: Joseph P. Cryan
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000224
+sources:
+- url: https://ballotpedia.org/Joseph_Cryan
+- url: https://en.wikipedia.org/wiki/Joseph_Cryan
+- url: https://justfacts.votesmart.org/candidate/biography/55122/joe-cryan
+- url: https://www.linkedin.com/in/joecryan
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/406
+- url: https://www.njleg.state.nj.us/downloads.asp
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/406/senator-cryan
+- url: https://www.njleg.state.nj.us/members/abcroster.asp
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=406
+- url: https://www.njleg.state.nj.us/members/BIO.asp?Leg=406
+- url: https://www.njsendems.org/senators/joseph-cryan

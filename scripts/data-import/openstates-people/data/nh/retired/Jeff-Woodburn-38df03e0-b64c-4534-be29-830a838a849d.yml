@@ -1,0 +1,27 @@
+id: ocd-person/38df03e0-b64c-4534-be29-830a838a849d
+name: Jeff Woodburn
+given_name: Jeff
+family_name: Woodburn
+image: http://www.gencourt.state.nh.us/Senate/images/senators/01.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2012-12-05'
+  end_date: '2018-12-05'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '1'
+links:
+- url: http://www.gencourt.state.nh.us/Senate/members/webpages/district01.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000815
+- scheme: legacy_openstates
+  identifier: NHL001283
+- scheme: legacy_openstates
+  identifier: NHL001352
+- scheme: openstates
+  identifier: ocd-person/1c9fe995-f7fe-4ff7-b199-0d5bbcd92a43
+sources:
+- url: http://www.gencourt.state.nh.us/Senate/members/webpages/district01.aspx
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt

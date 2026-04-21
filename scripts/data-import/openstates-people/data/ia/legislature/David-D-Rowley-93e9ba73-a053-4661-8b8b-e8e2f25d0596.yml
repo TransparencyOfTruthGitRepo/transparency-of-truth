@@ -1,0 +1,39 @@
+id: ocd-person/93e9ba73-a053-4661-8b8b-e8e2f25d0596
+name: Dave Rowley
+given_name: Dave
+family_name: Rowley
+gender: Male
+email: david.rowley@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=32458
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '5'
+offices:
+- classification: capitol
+  address: 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3371
+links:
+- url: https://iowasenaterepublicans.com/senators/dave-rowley/
+- url: https://www.iowasenaterepublicans.com/senators/dave-rowley/
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=32458
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=32458
+other_names:
+- name: D. Rowley
+- name: D.D. Rowley
+- name: David D. Rowley
+- name: Rowley, D.
+sources:
+- url: https://ballotpedia.org/Dave_Rowley
+- url: https://en.wikipedia.org/wiki/Dave_Rowley
+- url: https://iowasenaterepublicans.com/senators/dave-rowley
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=32458
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=32458
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=32458
+- url: https://www.legis.iowa.gov/legislators/senate
+- url: https://www.linkedin.com/in/david-rowley-cpcu-cic-au-506b6841
+extras:
+  occupation: Insurance Agent

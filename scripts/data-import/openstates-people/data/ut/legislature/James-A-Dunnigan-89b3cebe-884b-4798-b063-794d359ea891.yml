@@ -1,0 +1,85 @@
+id: ocd-person/89b3cebe-884b-4798-b063-794d359ea891
+name: Jim Dunnigan
+given_name: Jim
+family_name: Dunnigan
+birth_date: 1953-03-31
+gender: Male
+email: jdunnigan@le.utah.gov
+image: https://le.utah.gov/images/legislator/DUNNIJA.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '36'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '39'
+offices:
+- classification: capitol
+  address: P.O. Box 145030 350 N. State St., Suite 350, Salt Lake City, UT 84114
+  voice: 801-538-1029
+- classification: district
+  address: 3105 W. 5400 South Suite 6, Taylorsville, UT 84129
+  voice: 801-538-1029
+links:
+- url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1389
+  note: finance report
+- url: https://house.utah.gov/rep/DUNNIJA
+- url: https://house.utah.gov/rep/DUNNIJA/
+  note: homepage
+- url: https://house.utleg.gov/rep/DUNNIJA/
+- url: https://le.utah.gov/asp/billsintro/RepResults.asp?Listbox3=DUNNIJA
+  note: legislation
+- url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=DUNNIJA
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2020/House_Dist39.pdf
+  note: district demographics
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/House_Dist36.pdf
+  note: district demographics
+- url: https://le.utah.gov/house2/CofI/COFIDUNNIJA.pdf
+  note: conflict of interest 1
+- url: https://le.utah.gov/house2/CofI/COFIDUNNIJA1.pdf
+  note: conflict of interest 0
+- url: https://le.utah.gov/house2/CofI/DUNNIJA.pdf
+  note: conflict of interest 7
+- url: https://le.utah.gov/house2/CofI/DUNNIJA1.pdf
+  note: conflict of interest 4
+- url: https://le.utah.gov/house2/CofI/DUNNIJA2.pdf
+  note: conflict of interest 3
+- url: https://le.utah.gov/house2/CofI/DUNNIJA3.pdf
+  note: conflict of interest 2
+- url: https://le.utah.gov/house2/CofI/jdunnigan.pdf
+  note: conflict of interest 6
+- url: https://le.utah.gov/house2/CofI/jdunnigan2.pdf
+  note: conflict of interest 5
+other_names:
+- name: Dunnigan, J.
+- name: Dunnigan, James A.
+- name: Dunnigan, Jim
+- name: J. Dunnigan
+- name: J.A. Dunnigan
+- name: James A. Dunnigan
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: UTL000049
+- scheme: legacy_openstates
+  identifier: UTL000238
+sources:
+- url: https://ballotpedia.org/Jim_Dunnigan
+- url: https://en.wikipedia.org/wiki/James_Dunnigan_(politician)
+- url: https://house.utah.gov/rep/DUNNIJA
+- url: https://house.utah.gov/rep/DUNNIJA/
+- url: https://house.utleg.gov/rep/DUNNIJA
+- url: https://house.utleg.gov/rep/DUNNIJA/
+- url: https://justfacts.votesmart.org/candidate/biography/50739/james-dunnigan
+- url: https://le.utah.gov/data/legislators.json
+extras:
+  service start: January 1, 2003
+  profession: Insurance Agency Owner
+  education: B.S., Business Management, University of Utah
+  counties represented:
+  - Salt Lake
+  title: House Parliamentarian

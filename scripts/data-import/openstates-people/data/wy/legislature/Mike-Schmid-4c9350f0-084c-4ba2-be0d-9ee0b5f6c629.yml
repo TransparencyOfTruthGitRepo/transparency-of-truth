@@ -1,0 +1,31 @@
+id: ocd-person/4c9350f0-084c-4ba2-be0d-9ee0b5f6c629
+name: Mike Schmid
+given_name: Mike
+family_name: Schmid
+gender: Male
+email: mike.schmid@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-SchmidMike.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '20'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 14, La Barge, WY 83123
+links:
+- url: https://wyoleg.gov/Legislators/2025/H/2121
+other_names:
+- name: M. Schmid
+- name: Schmid, M
+- name: Schmid, M.
+sources:
+- url: https://ballotpedia.org/Michael_Schmid
+- url: https://en.wikipedia.org/wiki/Mike_Schmid_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/207683/michael-schmid
+- url: https://www.linkedin.com/in/mike-schmid-5335a91a
+- url: https://wyoleg.gov/Legislators/2025/H/2121

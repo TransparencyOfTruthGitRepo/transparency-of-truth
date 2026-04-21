@@ -1,0 +1,45 @@
+id: ocd-person/1cfc824d-740a-4e35-a4e2-3728e2d43056
+name: Ken Rozenboom
+given_name: Ken
+family_name: Rozenboom
+gender: Male
+email: ken.rozenboom@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10731
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '19'
+- end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '40'
+offices:
+- classification: capitol
+  address: 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3371
+links:
+- url: https://www.iowasenaterepublicans.com/senators/ken-rozenboom/
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10731
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=10731
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=10731
+other_names:
+- name: K. Rozenboom
+- name: Rozenboom, K.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IAL000210
+sources:
+- url: https://ballotpedia.org/Ken_Rozenboom
+- url: https://en.wikipedia.org/wiki/Ken_Rozenboom
+- url: https://iowasenaterepublicans.com/senators/ken-rozenboom
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10731
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=10731
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=10731
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=10731
+- url: https://www.legis.iowa.gov/legislators/senate
+- url: https://www.linkedin.com/in/ken-becky-rozenboom-a113b286
+extras:
+  occupation: Farming/Ag Business

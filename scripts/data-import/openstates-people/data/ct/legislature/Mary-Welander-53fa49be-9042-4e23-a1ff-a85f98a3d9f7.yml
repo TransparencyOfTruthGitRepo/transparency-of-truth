@@ -1,0 +1,37 @@
+id: ocd-person/53fa49be-9042-4e23-a1ff-a85f98a3d9f7
+name: Mary Welander
+given_name: Mary
+family_name: Welander
+gender: Female
+email: mary.welander@cga.ct.gov
+image: http://www2.housedems.ct.gov/Welander/images/Welander_HS.jpg
+party:
+- name: Democratic/Working Families
+roles:
+- start_date: 2021-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '114'
+offices:
+- classification: capitol
+  address: Room 4002, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27114%27&dist_name=114%20-%Welander,%Mary
+- url: https://www.housedems.ct.gov/Welander
+other_names:
+- name: M. Welander
+- name: M.B. Welander
+- name: Welander, M.
+- name: Welander, Mary
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Mary_Welander
+- url: https://en.wikipedia.org/wiki/Mary_Welander
+- url: https://justfacts.votesmart.org/candidate/biography/185750/mary-welander
+- url: https://www.housedems.ct.gov/Welander
+extras:
+  gender: Female
+  committees: Internship (Chair); Education; Committee on Children; Public Health
+  committee codes: ;ED;ISC;KID;PH;
+  prison: '0'

@@ -1,0 +1,20 @@
+id: ocd-person/cc9527de-ca22-4d94-9855-597fd204318c
+name: Peggy Sayers
+given_name: Peggy
+family_name: Sayers
+image: http://www.housedems.ct.gov/Sayers/images/Sayers24.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '60'
+links:
+- url: http://www.housedems.ct.gov/Sayers
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000096
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

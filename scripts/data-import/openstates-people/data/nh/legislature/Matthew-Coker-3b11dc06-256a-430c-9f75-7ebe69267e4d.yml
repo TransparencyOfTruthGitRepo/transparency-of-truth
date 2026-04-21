@@ -1,0 +1,42 @@
+id: ocd-person/3b11dc06-256a-430c-9f75-7ebe69267e4d
+name: Matt Coker
+given_name: Matt
+family_name: Coker
+gender: Male
+email: matthew.coker@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123196.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-02-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Belknap 2
+- start_date: 2022-12-07
+  end_date: 2024-02-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Belknap 2
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10733
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10733
+  note: member detail page
+other_names:
+- name: Coker, M.
+- name: M. Coker
+- name: Matthew Coker
+sources:
+- url: https://ballotpedia.org/Matt_Coker
+- url: https://ballotpedia.org/Matthew_Coker
+- url: https://en.wikipedia.org/wiki/Matthew_Coker
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10733
+- url: https://justfacts.votesmart.org/candidate/biography/208641/matthew-coker
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10733
+extras:
+  county: Belknap
+  elected status: new
+  gender code: M

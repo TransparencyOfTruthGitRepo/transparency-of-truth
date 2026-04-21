@@ -1,0 +1,21 @@
+id: ocd-person/66fda760-b19d-4627-97c0-77014f0d2f16
+name: Perry Buck
+given_name: Perry
+family_name: Buck
+email: perrybuck49@gmail.com
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2020a_buck%2C%20perry.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '49'
+links:
+- url: http://leg.colorado.gov/legislators/perry-buck
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: COL000131
+sources:
+- url: http://leg.colorado.gov/legislators/perry-buck
+- url: http://leg.colorado.gov/legislators

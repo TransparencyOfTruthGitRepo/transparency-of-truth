@@ -1,0 +1,21 @@
+id: ocd-person/4842e4ef-89fc-43f5-ac21-3fa0f54543b2
+name: Paul Workman
+given_name: Paul
+family_name: Workman
+image: https://house.texas.gov/photos/members/2075.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-07'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '47'
+links:
+- url: https://house.texas.gov/members/member-page/?district=47
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000411
+- scheme: legacy_openstates
+  identifier: TXL000586
+sources:
+- url: https://house.texas.gov/members/member-page/?district=47

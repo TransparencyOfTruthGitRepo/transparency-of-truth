@@ -1,0 +1,56 @@
+id: ocd-person/6e2bc564-5cd1-4f96-a265-4753b7f12ee1
+name: Jason Osborne
+given_name: Jason
+family_name: Osborne
+gender: Male
+email: jason@osborne4nh.com
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/49460.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 2
+- start_date: 2014-12-03
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 2
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 4
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=901
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=901
+  note: member detail page
+other_names:
+- name: J. Osborne
+- name: J.M. Osborne
+- name: Jason M. Osborne
+- name: Osborne, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001119
+sources:
+- url: https://ballotpedia.org/Jason_Osborne_(New_Hampshire)
+- url: https://en.wikipedia.org/wiki/Jason_Osborne_(politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=901
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/154541/jessie-osborne
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=377253
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=901
+- url: https://www.linkedin.com/in/jason-osborne-7bb8b1316
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: M

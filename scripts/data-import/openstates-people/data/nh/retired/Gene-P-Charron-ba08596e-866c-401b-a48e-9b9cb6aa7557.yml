@@ -1,0 +1,29 @@
+id: ocd-person/ba08596e-866c-401b-a48e-9b9cb6aa7557
+name: Gene P Charron
+given_name: Gene
+family_name: Charron
+middle_name: P.
+party:
+- name: Republican
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 4
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 7
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376562
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000079
+- scheme: legacy_openstates
+  identifier: NHL000483
+- scheme: legacy_openstates
+  identifier: NHL000904
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members.txt

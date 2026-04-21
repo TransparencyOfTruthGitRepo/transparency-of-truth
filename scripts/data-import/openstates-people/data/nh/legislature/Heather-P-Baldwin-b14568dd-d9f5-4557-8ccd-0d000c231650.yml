@@ -1,0 +1,39 @@
+id: ocd-person/b14568dd-d9f5-4557-8ccd-0d000c231650
+name: Heather Baldwin
+given_name: Heather
+family_name: Baldwin
+gender: Female
+email: heather.baldwin@gc.nh.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Heather_Baldwin.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Grafton 4
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10762
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10762
+  note: member detail page
+other_names:
+- name: Baldwin, H.
+- name: H. Baldwin
+- name: H.P. Baldwin
+- name: Heather P Baldwin
+- name: Heather P. Baldwin
+sources:
+- url: https://ballotpedia.org/Heather_Baldwin
+- url: https://en.wikipedia.org/wiki/Heather_Baldwin
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10762
+- url: https://justfacts.votesmart.org/candidate/biography/208681/heather-baldwin
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10762
+- url: https://www.heatherpbaldwin.com/meet-heather
+extras:
+  county: Grafton
+  elected status: new
+  gender code: F

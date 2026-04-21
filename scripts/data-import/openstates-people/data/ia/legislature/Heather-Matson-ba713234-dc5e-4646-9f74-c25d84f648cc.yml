@@ -1,0 +1,36 @@
+id: ocd-person/ba713234-dc5e-4646-9f74-c25d84f648cc
+name: Heather Matson
+given_name: Heather
+family_name: Matson
+gender: Female
+email: heather.matson@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27023
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '42'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://eepurl.com/ihfkwz
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=27023
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=27023
+other_names:
+- name: H. Matson
+- name: H.A. Matson
+- name: Matson, H.
+sources:
+- url: https://ballotpedia.org/Heather_Matson
+- url: https://en.wikipedia.org/wiki/Heather_Matson
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=27023
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=27023
+- url: https://www.linkedin.com/in/heather-matson-1698565
+extras:
+  home email: hamatson@gmail.com
+  occupation: Self-Employed

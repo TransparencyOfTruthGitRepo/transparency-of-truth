@@ -1,0 +1,36 @@
+id: ocd-person/42c40e86-b355-4724-8582-995125377240
+name: Denise Villalobos
+given_name: Denise
+family_name: Villalobos
+gender: Female
+email: denise.villalobos@house.texas.gov
+image: https://house.texas.gov/images/members/4770.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '34'
+offices:
+- classification: capitol
+  address: Room E2.812, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0462
+- classification: district
+  address: 101 E. Main Ave., Robstown, TX 78380
+  voice: 361-265-4601
+links:
+- url: https://house.texas.gov/members/34
+- url: https://house.texas.gov/members/4770
+other_names:
+- name: D. Villalobos
+- name: Villalobos, D.
+- name: Villalobos, Denise
+sources:
+- url: https://ballotpedia.org/Denise_Villalobos
+- url: https://en.wikipedia.org/wiki/Denise_Villalobos
+- url: https://house.texas.gov/members/34
+- url: https://house.texas.gov/members/4770
+- url: https://house.texas.gov/members/4770/biography
+- url: https://justfacts.votesmart.org/candidate/biography/213362/denise-villalobos
+- url: https://www.linkedin.com/in/denise-villalobos-pmp

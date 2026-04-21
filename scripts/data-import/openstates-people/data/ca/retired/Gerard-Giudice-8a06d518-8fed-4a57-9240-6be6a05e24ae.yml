@@ -1,0 +1,15 @@
+id: ocd-person/8a06d518-8fed-4a57-9240-6be6a05e24ae
+name: Gerard Giudice
+given_name: Gerard
+family_name: Giudice
+email: ggiudice@rpcity.org
+roles:
+- end_date: 2021-12-31
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/place:rohnert_park/government
+offices:
+- classification: primary
+  address: City Hall, 130 Avram Avenue;Rohnert Park, CA 94928
+  voice: 707-665-9472
+sources:
+- url: https://www.rpcity.org

@@ -1,0 +1,34 @@
+id: ocd-person/4d753f6e-b7e3-420d-a684-e9a27f7ab27b
+name: Nick Hinrichsen
+given_name: Nick
+family_name: Hinrichsen
+gender: Male
+email: nick.hinrichsen.senate@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_hinrichsen%2Cnick.jpg?itok=dwNkn_3k
+party:
+- name: Democratic
+roles:
+- start_date: 2022-02-28
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '3'
+offices:
+- classification: capitol
+  address: State Capitol Room 346, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-4878
+links:
+- url: https://leg.colorado.gov/legislators/nick-hinrichsen
+other_names:
+- name: Hinrichsen N.
+- name: Hinrichsen, N.
+- name: N. Hinrichsen
+sources:
+- url: https://ballotpedia.org/Nick_Hinrichsen
+- url: https://en.wikipedia.org/wiki/Nick_Hinrichsen
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/nick-hinrichsen
+- url: https://www.linkedin.com/in/nick-hinrichsen-b1722468
+extras:
+  counties represented:
+  - Pueblo

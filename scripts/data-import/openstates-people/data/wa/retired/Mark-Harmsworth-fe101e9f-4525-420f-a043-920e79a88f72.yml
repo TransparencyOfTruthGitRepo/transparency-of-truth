@@ -1,0 +1,20 @@
+id: ocd-person/fe101e9f-4525-420f-a043-920e79a88f72
+name: Mark Harmsworth
+given_name: Mark
+family_name: Harmsworth
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/harmsworth.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-13'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '44'
+links:
+- url: http://houserepublicans.wa.gov/Mark-Harmsworth/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000222
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx

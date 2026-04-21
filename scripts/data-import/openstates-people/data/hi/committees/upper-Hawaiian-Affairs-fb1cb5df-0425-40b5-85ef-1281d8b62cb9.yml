@@ -1,0 +1,37 @@
+id: ocd-organization/fb1cb5df-0425-40b5-85ef-1281d8b62cb9
+jurisdiction: ocd-jurisdiction/country:us/state:hi/government
+classification: committee
+name: Hawaiian Affairs
+chamber: upper
+sources:
+- url: https://www.capitol.hawaii.gov/comminfolist.aspx
+  note: Committee list page
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=HWN
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=HWN&year=2023
+  note: Committee member list
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=HWN&year=2024
+links:
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=HWN
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=HWN&year=2023
+  note: homepage
+- url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=HWN&year=2024
+members:
+- name: Tim Richards
+  role: chair
+  person_id: ocd-person/ff0ea974-b3aa-4261-aa1b-fa9cf74b3728
+- name: Rachele Lamosao
+  role: vice chair
+  person_id: ocd-person/19b5116e-d2b7-4f4b-8d7d-f4dfcbcbe1d6
+- name: Jarrett Keohokalole
+  role: member
+  person_id: ocd-person/07ed1559-820e-4ea1-803e-024ce5359a87
+- name: Les Ihara
+  role: member
+  person_id: ocd-person/94e42ecd-2e4d-4502-8b50-c1c6324617f1
+- name: Samantha DeCorte
+  role: member
+  person_id: ocd-person/8a60db8b-b07f-45da-8169-46ddd043ce02
+other_names:
+- name: Senate Committee on Hawaiian Affairs
+- name: Senate Hawaiian Affairs
+- name: Senate Hawaiian Affairs Committee

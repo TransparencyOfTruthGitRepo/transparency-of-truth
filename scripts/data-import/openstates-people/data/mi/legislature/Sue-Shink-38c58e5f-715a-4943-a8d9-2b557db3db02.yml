@@ -1,0 +1,39 @@
+id: ocd-person/38c58e5f-715a-4943-a8d9-2b557db3db02
+name: Sue Shink
+given_name: Sue
+family_name: Shink
+gender: Female
+email: sensshink@senate.michigan.gov
+image: https://senatedems.com/shink/wp-content/uploads/sites/18/2022/12/Portrait_Shink_Web.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '14'
+offices:
+- classification: capitol
+  address: Room 4200, Binsfeld Building P.O. Box 30036, Lansing, MI 48909
+  voice: 517-373-2426
+links:
+- url: https://senatedems.com/shink
+  note: Member Page
+- url: https://senatedems.com/shink/
+- url: https://senatedems.com/shink/contact
+  note: Member Contact Page
+other_names:
+- name: S. Shink
+- name: S.E. Shink
+- name: Shink, S.
+sources:
+- url: https://ballotpedia.org/Sue_Shink
+- url: https://en.wikipedia.org/wiki/Sue_Shink
+- url: https://senate.michigan.gov/senators/SenatorData.json
+  note: Members List JSON Data Page
+- url: https://senate.michigan.gov/senators/senatorinfo_list.html
+  note: Members List HTML page
+- url: https://senatedems.com/shink
+- url: https://senatedems.com/shink/
+- url: https://senatedems.com/shink/bio
+- url: https://www.linkedin.com/in/sue-shink-521a80158

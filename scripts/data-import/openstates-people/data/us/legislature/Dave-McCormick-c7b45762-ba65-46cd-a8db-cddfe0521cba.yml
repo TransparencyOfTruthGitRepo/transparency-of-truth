@@ -1,0 +1,57 @@
+id: ocd-person/c7b45762-ba65-46cd-a8db-cddfe0521cba
+name: Dave McCormick
+given_name: Dave
+family_name: McCormick
+birth_date: 1965-08-17
+gender: Male
+email: https://www.mccormick.senate.gov/contact/contact-dave/
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Pennsylvania
+offices:
+- classification: capitol
+  address: 702 Hart Senate Office Building, Washington, DC 20510
+  voice: 202-224-6324
+- classification: district
+  address: 17 S. Park Row Suite B-150, Erie, PA 16501
+  voice: 814-240-5213
+- classification: district
+  address: 200 N. 3rd St. 14th Floor, Suite 14A, Harrisburg, PA 17101
+  voice: 717-231-7540
+- classification: district
+  address: 2000 Market St. Suite 610, Philadelphia, PA 19103
+  voice: 215-405-9660
+- classification: district
+  address: 310 Grant St. Suite 2415, Pittsburgh, PA 15219
+  voice: 412-803-7370
+- classification: district
+  address: 329 Innovation Blvd. Suite 226, State College, PA 16803
+  voice: 814-357-0314
+- classification: district
+  address: 417 Lackawanna Ave. Suite 303, Scranton, PA 18503
+  voice: 570-941-0930
+- classification: district
+  address: 840 W. Hamilton St. Suite 301, Allentown, PA 18101
+  voice: 610-782-9470
+links:
+- url: https://www.mccormick.senate.gov/
+other_names:
+- name: D. McCormick
+- name: D.H. McCormick
+- name: David H. McCormick
+- name: McCormick, D.
+other_identifiers:
+- scheme: bioguide
+  identifier: M001243
+sources:
+- url: https://ballotpedia.org/David_McCormick_(Pennsylvania)
+- url: https://en.wikipedia.org/wiki/David_McCormick
+- url: https://georgewbush-whitehouse.archives.gov/government/mccormick-bio.html
+- url: https://www.davemccormickpa.com/meet-david
+- url: https://www.linkedin.com/in/davemccormickpa
+- url: https://www.mccormick.senate.gov

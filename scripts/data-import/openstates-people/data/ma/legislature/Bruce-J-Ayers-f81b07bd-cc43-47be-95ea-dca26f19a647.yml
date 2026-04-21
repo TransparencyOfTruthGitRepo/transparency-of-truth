@@ -1,0 +1,46 @@
+id: ocd-person/f81b07bd-cc43-47be-95ea-dca26f19a647
+name: Bruce Ayers
+given_name: Bruce
+family_name: Ayers
+birth_date: 1962-04-17
+gender: Male
+email: bruce.ayers@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/BJA1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1999-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 1st Norfolk
+offices:
+- classification: capitol
+  address: Room 473-C, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2070
+links:
+- url: https://malegislature.gov/Legislators/Profile/BJA1
+other_names:
+- name: Ayers, B.
+- name: B. Ayers
+- name: B.J. Ayers
+- name: Bruce J. Ayers
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000485
+- scheme: legacy_openstates
+  identifier: MAL000048
+- scheme: openstates
+  identifier: ocd-person/78df089d-a1f9-4cf3-9b1c-aaef4ddbefa9
+sources:
+- url: https://ballotpedia.org/Bruce_Ayers
+- url: https://en.wikipedia.org/wiki/Bruce_Ayers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/BJA1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/BJA1
+- url: https://malegislature.gov/Legislators/Profile/BJA1
+- url: https://www.linkedin.com/in/bruce-ayers-8aab5066
+extras:
+  member code: BJA1

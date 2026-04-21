@@ -1,0 +1,63 @@
+id: ocd-organization/7d2e7783-4101-41b6-9636-2a33d503264e
+jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+classification: committee
+name: Military Affairs
+chamber: lower
+sources:
+- url: https://billstatus.ls.state.ms.us/htms/h_cmtememb.xml
+  note: Committees List Page
+links:
+- url: https://billstatus.ls.state.ms.us/htms/h_cmtememb.xml
+  note: homepage
+members:
+- name: Bubba Carpenter
+  role: chair
+  person_id: ocd-person/dcc9906b-9a0a-4503-9128-006317d5ff3f
+- name: Rodney Hall
+  role: vice chair
+  person_id: ocd-person/6d293363-c72f-479b-81fc-225071ac4913
+- name: Bill Pigott
+  role: member
+  person_id: ocd-person/2fed984f-0f51-40d2-9881-ec16131a6a2f
+- name: Doc Harris
+  role: member
+  person_id: ocd-person/7051aea6-71cf-4c6e-a3f7-5eebe826aa44
+- name: Gene Newman
+  role: member
+  person_id: ocd-person/2fe9c09d-6213-4576-b0e4-6e89330f41bc
+- name: Jeffrey Hulum
+  role: member
+  person_id: ocd-person/249c4603-1fce-4c28-84be-5fa6fc5420b4
+- name: John Faulkner
+  role: member
+  person_id: ocd-person/26c38427-62d3-440b-9253-c3e485fbd8ea
+- name: Kabir Karriem
+  role: member
+  person_id: ocd-person/a1fef221-e3ca-4598-a7f9-cf6862b3007a
+- name: Karl Gibbs
+  role: member
+  person_id: ocd-person/38d590c5-20ff-42d5-b9dd-af77664213cf
+- name: Ken Morgan
+  role: member
+  person_id: ocd-person/da8a0173-20dc-4979-949d-57d902e744e0
+- name: Larry Byrd
+  role: member
+  person_id: ocd-person/57419404-003c-4a1d-93c0-dce987b11c00
+- name: Manly Barton
+  role: member
+  person_id: ocd-person/c3ea3d93-cd2d-48f4-babd-a47bbd951108
+- name: Mark Tullos
+  role: member
+  person_id: ocd-person/3439bb59-6632-4653-83e1-031422ad832f
+- name: Randy Rushing
+  role: member
+  person_id: ocd-person/af2a8aef-177c-49d2-9b77-f1f19f7b8eaa
+- name: Stephanie Foster
+  role: member
+  person_id: ocd-person/1253bd3e-36dd-4f23-a671-ab24dc4aed12
+other_names:
+- name: Committee on Military Affairs
+- name: House Committee on Military Affairs
+- name: House Military Affairs
+- name: House Military Affairs Committee
+- name: Military Affairs Committee

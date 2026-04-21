@@ -1,0 +1,31 @@
+id: ocd-person/e988f332-eba5-40a4-b55f-554728360e6c
+name: Richard Wells
+given_name: Richard
+family_name: Wells
+gender: Male
+email: richard.wells@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/RGW1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 7th Norfolk
+offices:
+- classification: capitol
+  address: Room 448, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2582
+links:
+- url: https://malegislature.gov/Legislators/Profile/RGW1
+other_names:
+- name: R. Wells
+- name: R.G. Wells
+- name: Richard G. Wells, Jr.
+- name: Wells, R.
+sources:
+- url: https://ballotpedia.org/Richard_Wells_Jr.
+- url: https://malegislature.gov/Legislators/Profile/RGW1
+- url: https://www.linkedin.com/in/richard-wells-a375aa69
+extras:
+  member code: RGW1

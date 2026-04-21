@@ -1,0 +1,35 @@
+id: ocd-person/5a396024-8dcf-438c-beca-a730e972d9d8
+name: Brandi Bradley
+given_name: Brandi
+family_name: Bradley
+gender: Female
+email: brandi.bradley.house@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_bradley%2Cbrandi.jpg?itok=gkSqfLu8
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '39'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-2935
+links:
+- url: https://leg.colorado.gov/legislators/brandi-bradley
+  note: homepage
+- url: https://www.coloradohouserepublicans.com/brandi-bradley/
+other_names:
+- name: B. Bradley
+- name: Bradley B.
+- name: Bradley, B.
+sources:
+- url: https://ballotpedia.org/Brandi_Bradley
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/brandi-bradley
+- url: https://www.coloradohouserepublicans.com/brandi-bradley
+extras:
+  counties represented:
+  - Douglas

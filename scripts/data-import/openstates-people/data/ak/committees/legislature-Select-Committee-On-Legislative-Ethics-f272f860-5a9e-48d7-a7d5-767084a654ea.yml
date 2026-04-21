@@ -1,0 +1,44 @@
+id: ocd-organization/f272f860-5a9e-48d7-a7d5-767084a654ea
+jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+classification: committee
+name: Select Committee on Legislative Ethics
+chamber: legislature
+sources:
+- url: https://www.akleg.gov/basis/Committee/Details/33?code=SETH
+- url: https://www.akleg.gov/basis/Committee/Details/34?code=SETH
+- url: https://www.akleg.gov/basis/Committee/List/33
+links:
+- url: https://www.akleg.gov/basis/Committee/Details/33?code=SETH
+  note: homepage
+- url: https://www.akleg.gov/basis/Committee/Details/34?code=SETH
+members:
+- name: Jeremy Bynum
+  role: alternate
+  person_id: ocd-person/b2eaa848-d651-4521-9abb-21b68da5d5c6
+- name: Matt Claman
+  role: alternate
+  person_id: ocd-person/0b2d5ec3-c1b2-4b09-8444-144c92125cc4
+- name: Mike Cronk
+  role: alternate
+  person_id: ocd-person/c50de9c3-90a3-4c6d-9003-50e12c6c5246
+- name: Sara Hannan
+  role: alternate
+  person_id: ocd-person/6cec7228-ed13-47f6-b896-59f927789f6d
+- name: Alyse Galvin
+  role: member
+  person_id: ocd-person/2a1a6b8f-1f9c-4a1b-9059-7b2f8cc93ed9
+- name: Gary Stevens
+  role: member
+  person_id: ocd-person/f5c83068-a809-4f57-8b77-1e77c87ee93b
+- name: Kevin McCabe
+  role: member
+  person_id: ocd-person/0160c6d2-4090-4143-8e23-f8501501bdd0
+- name: Rob Yundt
+  role: member
+  person_id: ocd-person/82334f7b-8119-4494-bf3e-a7ddb09536bd
+other_names:
+- name: Committee on Select Committee on Legislative Ethics
+- name: Joint Committee on Select Committee on Legislative Ethics
+- name: Joint Select Committee on Legislative Ethics
+- name: Joint Select Committee on Legislative Ethics Committee
+- name: Select Committee on Legislative Ethics Committee

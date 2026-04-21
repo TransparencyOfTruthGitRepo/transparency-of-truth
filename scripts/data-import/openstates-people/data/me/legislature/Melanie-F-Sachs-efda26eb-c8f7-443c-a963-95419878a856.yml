@@ -1,0 +1,51 @@
+id: ocd-person/efda26eb-c8f7-443c-a963-95419878a856
+name: Melanie Sachs
+given_name: Melanie
+family_name: Sachs
+gender: Female
+email: melanie.sachs@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/5e4515a3-52f4-43e9-beaa-2fe8ac45c90d_Sachs.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '102'
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '102'
+- start_date: 2020-12-02
+  end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '48'
+offices:
+- classification: capitol
+  address: Room 333, House Democratic Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1420
+  note: homepage
+- url: https://legislature.maine.gov/housedems/sachsm/index.html
+- url: https://www.maine.gov/housedems/sachsm
+other_names:
+- name: M. Sachs
+- name: Melanie F. Sachs
+- name: Melanie SACHS
+- name: SACHS of Freeport
+- name: Sachs, M.
+sources:
+- url: https://ballotpedia.org/Melanie_Sachs
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1420
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/housedems/sachsm/index.html
+- url: https://www.maine.gov/housedems/sachsm
+extras:
+  Seat Number: '3'
+  towns represented:
+  - Freeport
+  occupation: Social Work
+  education: Bates College, Case Western Reserve University

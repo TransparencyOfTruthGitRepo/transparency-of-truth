@@ -1,0 +1,21 @@
+id: ocd-person/41fd8c5e-6751-45f5-8f5b-b198159ebb0f
+name: Cindy A. Weed
+given_name: Cindy
+family_name: Weed
+middle_name: A
+image: http://ballotpedia.org/wiki/images/c/c2/Cindy_Weed.jpg
+party:
+- name: Progressive
+roles:
+- start_date: '2013-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Franklin-7
+links:
+- url: http://www.leg.state.vt.us/legdir/LegDirMain.cfm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000324
+sources:
+- url: http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W

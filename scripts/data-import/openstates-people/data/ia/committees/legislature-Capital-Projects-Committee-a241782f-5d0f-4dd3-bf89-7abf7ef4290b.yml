@@ -1,0 +1,49 @@
+id: ocd-organization/a241782f-5d0f-4dd3-bf89-7abf7ef4290b
+jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+classification: committee
+name: Capital Projects
+chamber: legislature
+sources:
+- url: https://www.legis.iowa.gov/committees
+  note: Committee list page
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=672
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=672
+links:
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=672
+  note: homepage
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=672
+members:
+- name: Gary Mohr
+  role: co-chair
+  person_id: ocd-person/98672aab-5ba5-4994-964a-f53d8bcdd108
+- name: Tim Kraayenbrink
+  role: co-chair
+  person_id: ocd-person/293487d6-a28b-48a2-8cfc-c3daabb8abbe
+- name: Brian Meyer
+  role: member
+  person_id: ocd-person/141dec61-26f0-4155-a86b-9b2179c9546c
+- name: Bubba Sorensen
+  role: member
+  person_id: ocd-person/97a4ef03-4b50-4fcd-9ebc-3d76482f2150
+- name: Carrie Koelker
+  role: member
+  person_id: ocd-person/9b68d2a2-ead2-401e-a225-1edae68f6099
+- name: Dan Zumbach
+  role: member
+  person_id: ocd-person/3fa8bceb-666f-4480-a957-1928e2b5fec6
+- name: Izaah Knox
+  role: member
+  person_id: ocd-person/0af01ef4-f982-4239-9ffc-56d33cee3b7b
+- name: Jacob Bossman
+  role: member
+  person_id: ocd-person/9c6428d6-af30-4a4f-bb9c-666d3d6d84c5
+- name: Janet Petersen
+  role: member
+  person_id: ocd-person/3089e8af-0071-4298-822c-2d16ac01fe9f
+- name: Sean Bagniewski
+  role: member
+  person_id: ocd-person/8ee06272-1977-4810-8c40-5d007fb31ac8
+other_names:
+- name: Joint Capital Projects
+- name: Joint Capital Projects Committee
+- name: Joint Committee on Capital Projects

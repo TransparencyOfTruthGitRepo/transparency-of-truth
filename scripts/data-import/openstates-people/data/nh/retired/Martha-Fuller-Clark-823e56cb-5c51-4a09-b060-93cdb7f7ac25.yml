@@ -1,0 +1,37 @@
+id: ocd-person/823e56cb-5c51-4a09-b060-93cdb7f7ac25
+name: Martha Fuller Clark
+given_name: Martha Fuller
+family_name: Clark
+email: Martha.FullerClark@leg.state.nh.us
+image: http://www.gencourt.state.nh.us/Senate/images/senators/21.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-01
+  end_date: 2014-12-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '21'
+- start_date: 2015-01-01
+  end_date: '2020-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '21'
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001475
+- scheme: legacy_openstates
+  identifier: NHL000806
+- scheme: legacy_openstates
+  identifier: NHL001308
+- scheme: openstates
+  identifier: ocd-person/00bd9ed7-ecdb-4a74-8328-9093b614c6b6
+sources:
+- url: http://www.gencourt.state.nh.us/Senate/members/webpages/district21.aspx
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+extras:
+  first_name: Martha
+  last_name: Fuller Clark
+  middle_name: ''

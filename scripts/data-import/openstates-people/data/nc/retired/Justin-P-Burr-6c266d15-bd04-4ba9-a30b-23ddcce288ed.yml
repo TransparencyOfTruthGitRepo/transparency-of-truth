@@ -1,0 +1,24 @@
+id: ocd-person/6c266d15-bd04-4ba9-a30b-23ddcce288ed
+name: Justin P. Burr
+given_name: Justin P.
+family_name: Burr
+image: http://www.ncleg.net/House/pictures/hiRes/582.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '67'
+links:
+- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=House&nUserID=582
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000073
+sources:
+- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=House&nUserID=582
+extras:
+  counties:
+  - Montgomery
+  - Stanly
+  notice: null

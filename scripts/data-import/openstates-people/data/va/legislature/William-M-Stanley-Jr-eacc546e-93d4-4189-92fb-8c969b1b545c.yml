@@ -1,0 +1,63 @@
+id: ocd-person/eacc546e-93d4-4189-92fb-8c969b1b545c
+name: Bill Stanley
+given_name: Bill
+family_name: Stanley
+birth_date: 1967-07-21
+gender: Male
+email: senatorstanley@senate.virginia.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Bill_Stanley.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '7'
+- start_date: 2012-01-11
+  end_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Room 514, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7507
+- classification: district
+  address: 13508 Booker T. Washington Highway, Moneta, VA 24121
+  voice: 540-821-3066
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S82
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S82
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S82
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S82
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S82
+- url: https://senatorbillstanley.com/
+other_names:
+- name: B. Stanley
+- name: Stanley, B.
+- name: Stanley, William M., Jr.
+- name: W.M. Stanley
+- name: William M. Stanley
+- name: William M. Stanley, Jr.
+ids:
+  twitter: BillStanley
+  facebook: stanleyforsenate
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000143
+- scheme: legacy_openstates
+  identifier: VAL000155
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S82
+- url: https://ballotpedia.org/Bill_Stanley
+- url: https://en.wikipedia.org/wiki/Bill_Stanley_(politician)
+- url: https://justfacts.votesmart.org/candidate/key-votes/128559/bill-stanley-jr
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S82
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S82
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S82
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S82
+- url: https://senatorbillstanley.com
+- url: https://senatorbillstanley.com/about-bill
+- url: https://www.linkedin.com/in/stanleylaw

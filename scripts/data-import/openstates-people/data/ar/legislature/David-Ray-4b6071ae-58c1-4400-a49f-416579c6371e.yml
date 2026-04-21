@@ -1,0 +1,69 @@
+id: ocd-person/4b6071ae-58c1-4400-a49f-416579c6371e
+name: David Ray
+given_name: David
+family_name: Ray
+gender: Male
+email: david.ray@arkansashouse.org
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/589_sm.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '69'
+- start_date: 2021-01-11
+  end_date: 2023-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '69'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '40'
+offices:
+- classification: capitol
+  address: State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201
+  voice: 501-682-6211
+- classification: district
+  address: 137 Summit Valley Circle, Maumelle, AR 72113
+  voice: 501-916-0286
+links:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Ray
+- url: https://rayforarkansas.com/
+  note: Campaign Website
+- url: https://www.arkansashouse.org/district/69
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Ray
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Ray&ddBienniumSession=2021%2F2021R
+other_names:
+- name: D. Ray
+- name: D.A. Ray
+- name: Ray
+- name: Ray, D.
+ids:
+  twitter: DavidARay
+  facebook: RayforArkansas
+other_identifiers:
+- scheme: ballotpedia
+  identifier: David_Ray_(Arkansas)
+- scheme: followthemoney
+  identifier: '48412319'
+- scheme: votesmart
+  identifier: '187769'
+sources:
+- url: https://arkleg.state.ar.us/Legislators/Detail?member=Ray
+- url: https://ballotpedia.org/David_Ray_(Arkansas)
+- url: https://en.wikipedia.org/wiki/David_Ray_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/187769/david-ray
+- url: https://www.arkansashouse.org/district/69
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Ray
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Ray&ddBienniumSession=2021%2F2021R
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Ray&ddBienniumSession=2021%2F2021S1
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Ray&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2021%2F2021S1#SearchResults
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
+extras:
+  seniority: '63'
+  occupation: Consultant/Communications Strategist
+  veteran: 'No'
+  public service: Majority Leader (or designee) 2021

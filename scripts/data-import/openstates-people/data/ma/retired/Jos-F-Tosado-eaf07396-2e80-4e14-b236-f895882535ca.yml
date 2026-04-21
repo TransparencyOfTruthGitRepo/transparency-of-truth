@@ -1,0 +1,25 @@
+id: ocd-person/eaf07396-2e80-4e14-b236-f895882535ca
+name: "Jos\xE9 F. Tosado"
+given_name: Jose
+family_name: Tosado
+gender: Male
+email: Jose.Tosado@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/JFT1.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 9th Hampden
+links:
+- url: https://malegislature.gov/Legislators/Profile/JFT1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000349
+- scheme: legacy_openstates
+  identifier: MAL000434
+- scheme: legacy_openstates
+  identifier: MAL000576
+sources:
+- url: https://malegislature.gov/Legislators/Profile/JFT1

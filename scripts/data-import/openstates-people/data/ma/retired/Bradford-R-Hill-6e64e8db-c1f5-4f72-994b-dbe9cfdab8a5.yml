@@ -1,0 +1,37 @@
+id: ocd-person/6e64e8db-c1f5-4f72-994b-dbe9cfdab8a5
+name: Bradford Hill
+given_name: Bradford
+family_name: Hill
+gender: Male
+email: Brad.Hill@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/BRH1.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-01
+  end_date: '2021-09-15'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 4th Essex
+  end_reason: Appointed to Massachusetts Gaming Commission
+offices:
+- classification: capitol
+  address: 24 Beacon St., Room 128; Boston, MA 02133
+  voice: 617-722-2100
+links:
+- url: https://malegislature.gov/Legislators/Profile/BRH1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000550
+- scheme: legacy_openstates
+  identifier: MAL000110
+- scheme: legacy_openstates
+  identifier: MAL000383
+- scheme: openstates
+  identifier: ocd-person/e3a58717-2344-4382-b641-39571f06a487
+sources:
+- url: https://malegislature.gov/Legislators/Profile/BRH1
+- url: http://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/BRH1
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+extras:
+  member code: BRH1

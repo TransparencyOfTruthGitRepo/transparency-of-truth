@@ -1,0 +1,76 @@
+id: ocd-person/c50627f5-6447-55e3-9ca9-183daf188b58
+name: Nancy Mace
+given_name: Nancy
+family_name: Mace
+birth_date: 1977-12-04
+gender: Female
+email: https://mace.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/M000194.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: SC-1
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: SC-1
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: SC-1
+offices:
+- classification: capitol
+  address: 1728 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-3176
+- classification: district
+  address: 710 Boundary St., Beaufort, SC 29902
+  voice: 843-521-2530
+- classification: district
+  address: 900 Island Park Drive Suite 260, Daniel Island, SC 29492
+  voice: 843-352-7572
+links:
+- url: https://mace.house.gov
+  note: website
+- url: https://mace.house.gov/
+- url: https://www.scstatehouse.gov/member.php?code=1127840774
+other_names:
+- name: Mace, N.
+- name: N. Mace
+- name: N.R. Mace
+ids:
+  twitter: RepNancyMace
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Nancy Mace
+- scheme: bioguide
+  identifier: M000194
+- scheme: fec
+  identifier: H0SC01394
+- scheme: google_entity_id
+  identifier: kg:/m/048nls
+- scheme: govtrack
+  identifier: '456843'
+- scheme: opensecrets
+  identifier: N00035670
+- scheme: pictorial
+  identifier: '13241'
+- scheme: votesmart
+  identifier: '146076'
+- scheme: wikidata
+  identifier: Q6962831
+sources:
+- url: https://ballotpedia.org/Nancy_Mace
+- url: https://en.wikipedia.org/wiki/Nancy_Mace
+- url: https://justfacts.votesmart.org/candidate/biography/146076/nancy-mace
+- url: https://mace.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/nancy_mace/456843
+- url: https://www.linkedin.com/in/macenancy
+- url: https://www.scstatehouse.gov/member.php?code=1127840774

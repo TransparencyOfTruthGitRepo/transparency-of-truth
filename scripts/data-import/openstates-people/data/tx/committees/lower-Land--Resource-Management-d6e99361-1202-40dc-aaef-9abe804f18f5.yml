@@ -1,0 +1,59 @@
+id: ocd-organization/d6e99361-1202-40dc-aaef-9abe804f18f5
+jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+classification: committee
+name: Land and Resource Management
+chamber: lower
+sources:
+- url: https://capitol.texas.gov/Committees/CommitteesMbrs.aspx?Chamber=H
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C360
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C360
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C360
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C360
+- url: https://house.texas.gov/committees/committee/360
+- url: https://house.texas.gov/committees/committee/?committee=C360
+links:
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C360
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C360
+  note: homepage
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C360
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C360
+- url: https://house.texas.gov/committees/committee/360
+- url: https://house.texas.gov/committees/committee/?committee=C360
+members:
+- name: Gary Gates
+  role: chair
+  person_id: ocd-person/5ff88048-ebd8-4ac3-af9c-d02e1305ef37
+- name: Suleman Lalani
+  role: vice chair
+  person_id: ocd-person/51927936-c6fc-453b-8afd-5f0b53de7d46
+- name: Daniel Alders
+  role: member
+  person_id: ocd-person/f602a657-8951-4dcb-9bd8-c04bcce4ba56
+- name: Gina Hinojosa
+  role: member
+  person_id: ocd-person/1f9ed42e-27de-4cd1-b2bf-f890ee33cb49
+- name: Matt Morgan
+  role: member
+  person_id: ocd-person/07951419-b5d5-430b-a3e6-678e1d4aec21
+- name: Ray Lopez
+  role: member
+  person_id: ocd-person/01ce2f6b-0500-4baa-a47f-386f9c6286b0
+- name: Todd Hunter
+  role: member
+  person_id: ocd-person/9447575b-d8a1-45dd-bd68-77b12fe347ab
+- name: Wes Virdell
+  role: member
+  person_id: ocd-person/436ab2a5-12ca-4a9c-b8ec-73b1bae4ee68
+- name: Yvonne Davis
+  role: member
+  person_id: ocd-person/3f38bf62-86ba-4833-9737-2e084ae6255d
+other_names:
+- name: House Committee on Land and Resource Management
+- name: House Land and Resource Management
+- name: House Land and Resource Management Committee
+extras:
+  clerk: Dalton Moore
+  legislature: 88(R) - 2023
+  phone: (512) 463-1623
+  appointment date: 2/8/2023
+  room: EXT E2.136

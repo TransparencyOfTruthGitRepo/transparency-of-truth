@@ -1,0 +1,29 @@
+id: ocd-person/e4ee574a-8df3-46b3-93cb-3ec24cb49144
+name: Bill Heffernan
+given_name: Bill
+family_name: Heffernan
+gender: Male
+email: bill.heffernan@cga.ct.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '115'
+offices:
+- classification: capitol
+  address: Room 4017, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 800-842-8267
+links:
+- url: https://www.housedems.ct.gov/heffernan
+other_names:
+- name: B. Heffernan
+- name: Heffernan, B.
+- name: W.J. Heffernan
+- name: William Heffernan
+sources:
+- url: https://ballotpedia.org/William_Heffernan_III
+- url: https://en.wikipedia.org/wiki/William_Heffernan_III
+- url: https://justfacts.votesmart.org/candidate/biography/214105/bill-heffernan-iii
+- url: https://www.housedems.ct.gov/heffernan

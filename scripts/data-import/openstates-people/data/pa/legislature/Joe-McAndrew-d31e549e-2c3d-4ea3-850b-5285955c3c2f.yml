@@ -1,0 +1,39 @@
+id: ocd-person/d31e549e-2c3d-4ea3-850b-5285955c3c2f
+name: Joe McAndrew
+given_name: Joe
+family_name: McAndrew
+birth_date: 1990-08-01
+gender: Male
+email: repmcandrew@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/2011.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2023-02-21
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '32'
+offices:
+- classification: capitol
+  address: Room 5C, East Wing P.O. Box 202032, Harrisburg, PA 17120
+  voice: 717-783-1011
+- classification: district
+  address: 77 Universal Road Suite 1, Penn Hills, PA 15235
+  voice: 412-793-2448
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2011
+  note: homepage
+- url: https://www.pahouse.com/mcandrew
+- url: https://www.palegis.us/house/members/bio/2011/rep-mcandrew
+other_names:
+- name: J. McAndrew
+- name: J.M. McAndrew
+- name: McAndrew, J.
+sources:
+- url: https://ballotpedia.org/Joe_McAndrew
+- url: https://en.wikipedia.org/wiki/Joe_McAndrew_(politician)
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2011
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.linkedin.com/in/joemcandrew1
+- url: https://www.pahouse.com/mcandrew
+- url: https://www.palegis.us/house/members/bio/2011/rep-mcandrew

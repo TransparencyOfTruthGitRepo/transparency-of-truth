@@ -1,0 +1,63 @@
+id: ocd-organization/cfa1090f-1454-4782-97c6-f66e70dff1df
+jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+classification: committee
+name: Business and Commerce
+chamber: upper
+sources:
+- url: https://capitol.texas.gov/Committees/CommitteesMbrs.aspx?Chamber=S
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C510
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C510
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C510
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C510
+- url: https://senate.texas.gov/cmte.php?c=510
+links:
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C510
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C510
+  note: homepage
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C510
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C510
+- url: https://senate.texas.gov/cmte.php?c=510
+members:
+- name: Charles Schwertner
+  role: chair
+  person_id: ocd-person/d7d0bd69-2615-4d0c-84df-4cdb75809343
+- name: Phil King
+  role: vice chair
+  person_id: ocd-person/98bef50a-73c7-4139-9b8e-628d0e89d659
+- name: Adam Hinojosa
+  role: member
+  person_id: ocd-person/7f748f58-e6f2-4c86-ad01-52c7ca3435ca
+- name: Brent Hagenbuch
+  role: member
+  person_id: ocd-person/c15c9bf3-f28a-4c01-9a10-383bc7a05cb9
+- name: "C\xE9sar Blanco"
+  role: member
+  person_id: ocd-person/3e0f0e51-20c0-4da4-82b5-ff81606148d0
+- name: Donna Campbell
+  role: member
+  person_id: ocd-person/9f80cd7f-1067-4322-8777-62bc129cd6f2
+- name: "Jos\xE9 Men\xE9ndez"
+  role: member
+  person_id: ocd-person/8bb90ee9-e764-44da-b27f-b5bc3cdb394e
+- name: Judith Zaffirini
+  role: member
+  person_id: ocd-person/c7aad3b7-ca16-4989-bf68-87ed72498a6b
+- name: Kevin Sparks
+  role: member
+  person_id: ocd-person/aa6deb86-b21b-4ed2-ad67-bd6217238afc
+- name: Lois Kolkhorst
+  role: member
+  person_id: ocd-person/28eb71be-bce7-4b32-908d-289ecc265c3c
+- name: Nathan Johnson
+  role: member
+  person_id: ocd-person/dee454b1-6da0-4b1b-a232-033e7de8551f
+other_names:
+- name: Senate Business and Commerce
+- name: Senate Business and Commerce Committee
+- name: Senate Committee on Business and Commerce
+extras:
+  clerk: Annika Vandayar
+  legislature: 88(R) - 2023
+  phone: (512) 463-0365
+  appointment date: 1/11/2023
+  room: SHB 370

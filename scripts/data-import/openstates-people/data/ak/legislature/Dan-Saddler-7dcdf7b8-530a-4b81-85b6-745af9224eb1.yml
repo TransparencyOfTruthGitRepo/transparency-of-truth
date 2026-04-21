@@ -1,0 +1,55 @@
+id: ocd-person/7dcdf7b8-530a-4b81-85b6-745af9224eb1
+name: Dan Saddler
+given_name: Dan
+family_name: Saddler
+gender: Male
+email: representative.dan.saddler@akleg.gov
+image: http://akleg.gov/images/legislators/450x600/SAD.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '24'
+- end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '13'
+offices:
+- classification: capitol
+  address: State Capitol Room 104, 120 4th St., Juneau, AK 99801
+  voice: 907-465-3783
+- classification: district
+  address: 1500 W. Benson Blvd., Anchorage, AK 99503
+  voice: 907-334-2630
+links:
+- url: https://akhousemajority.com/rep-saddler/
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=sad
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=SAD
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=sad
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=sad
+other_names:
+- name: D. Saddler
+- name: Saddler, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AKL000052
+- scheme: legacy_openstates
+  identifier: AKL000113
+- scheme: legacy_openstates
+  identifier: AKL000146
+sources:
+- url: https://akhousemajority.com/rep-saddler
+- url: https://ballotpedia.org/Dan_Saddler
+- url: https://en.wikipedia.org/wiki/Dan_Saddler
+- url: https://www.akleg.gov/basis/mbr_info.asp?session=33
+  note: member list page
+- url: https://www.akleg.gov/basis/Member/Detail/30?code=sad
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=SAD
+- url: https://www.akleg.gov/basis/Member/Detail/33?code=sad
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=sad
+- url: https://www.linkedin.com/in/dan-saddler-420a9aa5
+extras:
+  title: Majority Leader
+  toll_free_phone: 877-460-3783

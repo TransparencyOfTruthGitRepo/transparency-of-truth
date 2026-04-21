@@ -1,0 +1,46 @@
+id: ocd-person/95e63d6f-1815-4364-8817-0d26e360013f
+name: Parker Moore
+given_name: Parker
+family_name: Moore
+birth_date: 1989-03-08
+gender: Male
+email: parker.moore@alhouse.gov
+image: https://www.legislature.state.al.us/pdf/house/members/Moore_4.png
+party:
+- name: Republican
+roles:
+- start_date: 2018-05-16
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '4'
+offices:
+- classification: capitol
+  address: Room 417-E, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0579
+- classification: district
+  address: 2124 6th Ave. SE Suite 400, Decatur, AL 35601
+  voice: 256-227-6674
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100484&OID_PERSON=8461
+other_names:
+- name: Moore (P)
+- name: Moore, P.
+- name: P. Moore
+- name: P.D. Moore
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000558
+sources:
+- url: https://ballotpedia.org/Parker_Moore
+- url: https://en.wikipedia.org/wiki/Parker_Moore
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/176839/parker-moore
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Moore&OID_SPONSOR=100484&OID_PERSON=8461&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100484&OID_PERSON=8461
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+- url: https://www.linkedin.com/in/parker-moore-21823197
+extras:
+  counties: Limestone County, Madison County, Morgan County

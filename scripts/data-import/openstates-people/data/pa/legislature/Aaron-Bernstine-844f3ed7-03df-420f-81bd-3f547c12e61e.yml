@@ -1,0 +1,56 @@
+id: ocd-person/844f3ed7-03df-420f-81bd-3f547c12e61e
+name: Aaron Bernstine
+given_name: Aaron
+family_name: Bernstine
+birth_date: 1984-07-02
+gender: Male
+email: abernstine@pahousegop.com
+image: https://www.legis.state.pa.us/images/members/200/1742.jpg?1703415645672
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '8'
+- end_date: 2022-11-30
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '10'
+offices:
+- classification: capitol
+  address: Room 211, Ryan Office Building P.O. Box 202008, Harrisburg, PA 17120
+  voice: 717-783-8322
+- classification: district
+  address: 438 Line Ave., Ellwood City, PA 16117
+  voice: 724-752-2120
+- classification: district
+  address: 790 Pittsburgh Road Suite 3, Butler, PA 16002
+  voice: 724-847-5291
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1742
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.palegis.us/house/members/bio/1742/rep-bernstine
+- url: https://www.repbernstine.com/
+other_names:
+- name: A. Bernstine
+- name: A.J. Bernstine
+- name: Bernstine, A.
+ids:
+  facebook: repbernstine
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000540
+sources:
+- url: https://ballotpedia.org/Aaron_Bernstine
+- url: https://en.wikipedia.org/wiki/Aaron_Bernstine
+- url: https://justfacts.votesmart.org/candidate/biography/167743/aaron-bernstine
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1742
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.linkedin.com/in/aaronbernstine
+- url: https://www.palegis.us/house/members/bio/1742/rep-bernstine
+- url: https://www.repbernstine.com
+extras:
+  website: http://www.repbernstine.com

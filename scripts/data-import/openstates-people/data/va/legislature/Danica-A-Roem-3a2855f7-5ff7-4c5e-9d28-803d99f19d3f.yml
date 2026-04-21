@@ -1,0 +1,57 @@
+id: ocd-person/3a2855f7-5ff7-4c5e-9d28-803d99f19d3f
+name: Danica Roem
+given_name: Danica
+family_name: Roem
+birth_date: 1984-09-30
+gender: Female
+email: senatorroem@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/Roem30
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '30'
+- start_date: 2018-01-10
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '13'
+offices:
+- classification: capitol
+  address: Room 520, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7530
+- classification: district-mail
+  address: P.O. Box 726, Manassas, VA 20113
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S126
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H303
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H303
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H303
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S126
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0303
+other_names:
+- name: D. Roem
+- name: D.A. Roem
+- name: Danica A. Roem
+- name: Roem, D.
+- name: Roem, Danica A.
+ids:
+  twitter: pwcdanica
+  facebook: danicafordelegate
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000269
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S126
+- url: https://ballotpedia.org/Danica_Roem
+- url: https://en.wikipedia.org/wiki/Danica_Roem
+- url: https://justfacts.votesmart.org/candidate/biography/176351/danica-roem
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H303
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H303
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H303
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S126
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0303

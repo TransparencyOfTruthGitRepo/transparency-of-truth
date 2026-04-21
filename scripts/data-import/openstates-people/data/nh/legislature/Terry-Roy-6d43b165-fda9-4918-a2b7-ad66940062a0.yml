@@ -1,0 +1,53 @@
+id: ocd-person/6d43b165-fda9-4918-a2b7-ad66940062a0
+name: Terry Roy
+given_name: Terry
+family_name: Roy
+gender: Male
+email: terry.roy@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/76045.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 31
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 31
+- start_date: 2022-12-07
+  end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 32
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=408925
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?member=408925
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9272
+  note: member detail page
+other_names:
+- name: Roy, T.
+- name: T. Roy
+sources:
+- url: https://ballotpedia.org/Terry_Roy
+- url: https://en.wikipedia.org/wiki/Terry_Roy
+- url: https://gc.nh.gov/house/members/member.aspx?member=408925
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?member=408925
+- url: https://justfacts.votesmart.org/candidate/biography/185521/terry-roy
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408925
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9272
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: M

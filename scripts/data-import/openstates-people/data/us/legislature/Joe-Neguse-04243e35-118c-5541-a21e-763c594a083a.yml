@@ -1,0 +1,79 @@
+id: ocd-person/04243e35-118c-5541-a21e-763c594a083a
+name: Joe Neguse
+given_name: Joe
+family_name: Neguse
+birth_date: 1984-05-13
+gender: Male
+email: https://neguse.house.gov/contact
+image: https://unitedstates.github.io/images/congress/450x550/N000191.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CO-2
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CO-2
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CO-2
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: CO-2
+offices:
+- classification: capitol
+  address: 2400 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-2161
+- classification: district
+  address: 1220 S. College Ave. Unit 100A, Fort Collins, CO 80524
+  voice: 970-372-3971
+- classification: district
+  address: 2503 Walnut St. Suite 300, Boulder, CO 80302
+  voice: 303-335-1045
+links:
+- url: https://neguse.house.gov
+  note: website
+- url: https://neguse.house.gov/
+other_names:
+- name: J. Neguse
+- name: J.D. Neguse
+- name: Neguse, J.
+ids:
+  twitter: RepJoeNeguse
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Joe Neguse
+- scheme: bioguide
+  identifier: N000191
+- scheme: fec
+  identifier: H8CO02160
+- scheme: google_entity_id
+  identifier: kg:/g/11gnsnch0m
+- scheme: govtrack
+  identifier: '412761'
+- scheme: icpsr
+  identifier: '21948'
+- scheme: opensecrets
+  identifier: N00041080
+- scheme: pictorial
+  identifier: '12968'
+- scheme: votesmart
+  identifier: '151075'
+- scheme: wikidata
+  identifier: Q57242006
+sources:
+- url: https://ballotpedia.org/Joe_Neguse
+- url: https://en.wikipedia.org/wiki/Joe_Neguse
+- url: https://neguse.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.linkedin.com/in/joe-neguse-a7a333b

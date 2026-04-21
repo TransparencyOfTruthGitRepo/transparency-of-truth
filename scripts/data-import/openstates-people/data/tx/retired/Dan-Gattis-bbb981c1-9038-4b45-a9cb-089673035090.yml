@@ -1,0 +1,20 @@
+id: ocd-person/bbb981c1-9038-4b45-a9cb-089673035090
+name: Dan Gattis
+given_name: Dan
+family_name: Gattis
+image: http://www.legdir.legis.state.tx.us/FlashCardDocs/images/House/small/A2960.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '20'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TXL000263
+- scheme: legacy_openstates
+  identifier: TXL000081
+sources:
+- url: http://www.legdir.legis.state.tx.us/MemberInfo.aspx?Chamber=H&Code=A2960

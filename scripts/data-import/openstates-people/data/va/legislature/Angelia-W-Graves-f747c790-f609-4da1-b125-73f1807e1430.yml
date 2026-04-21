@@ -1,0 +1,51 @@
+id: ocd-person/f747c790-f609-4da1-b125-73f1807e1430
+name: Angelia Graves
+given_name: Angelia
+family_name: Graves
+birth_date: 1972-01-12
+gender: Female
+email: senatorwilliamsgraves@senate.virginia.gov
+image: https://apps.senate.virginia.gov/Senator/images/member_photos/Williams%20Graves21
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '21'
+- start_date: 2021-01-11
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '90'
+offices:
+- classification: capitol
+  address: Room 507, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7521
+- classification: district-mail
+  address: P.O. Box 41359, Norfolk, VA 23502
+  voice: 757-524-4941
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S130
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H331
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S130
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0331
+other_names:
+- name: A. Graves
+- name: A.M.W. Graves
+- name: Angelia Marie Williams Graves
+- name: Angelia Williams Graves
+- name: Graves, A.
+- name: Williams Graves, Angelia
+ids:
+  twitter: AWGNorfolk
+  facebook: awgnorfolk
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S130
+- url: https://ballotpedia.org/Angelia_Williams_Graves
+- url: https://en.wikipedia.org/wiki/Angelia_Williams_Graves
+- url: https://justfacts.votesmart.org/candidate/biography/132686/angelia-williams-graves
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H331
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S130
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0331
+- url: https://www.linkedin.com/in/homesbyangelia

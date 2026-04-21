@@ -1,0 +1,34 @@
+id: ocd-organization/e31f279a-d38d-4145-9043-d65e250763ee
+jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+classification: committee
+name: Energy and Natural Resources
+chamber: upper
+sources:
+- url: https://gc.nh.gov/Senate/committees/committee_details.aspx?cc=41
+- url: https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=41
+  note: Committee details page
+- url: https://www.gencourt.state.nh.us/Senate/committees/senate_committees.aspx
+  note: Committees list page
+links:
+- url: https://gc.nh.gov/Senate/committees/committee_details.aspx?cc=41
+- url: https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=41
+members:
+- name: Kevin Avard
+  role: chair
+  person_id: ocd-person/b99b0bbb-4710-43c7-a6b5-0e04524eedf0
+- name: Howard Pearl
+  role: vice chair
+  person_id: ocd-person/c4122c6a-ed23-492e-b813-59a0fed1ec86
+- name: Cindy Rosenwald
+  role: member
+  person_id: ocd-person/f3e949ce-6d98-4826-bbca-08039cea4ea4
+- name: David Watters
+  role: member
+  person_id: ocd-person/cf24defe-6df3-49f3-88ca-c6774b144f19
+- name: Mark McConkey
+  role: member
+  person_id: ocd-person/c344ed7a-6fea-4f17-9c48-4e27d67bebc8
+other_names:
+- name: Senate Committee on Energy and Natural Resources
+- name: Senate Energy and Natural Resources
+- name: Senate Energy and Natural Resources Committee

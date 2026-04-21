@@ -1,0 +1,55 @@
+id: ocd-person/cb7d8c1d-3c26-4f35-8d37-d1cf8a7ce207
+name: Jason Anavitarte
+given_name: Jason
+family_name: Anavitarte
+birth_date: 1978-06-14
+gender: Male
+email: jason.anavitarte@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/anavitarte-jason-4980.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '31'
+offices:
+- classification: capitol
+  address: State Capitol Room 236, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-0085
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/4980
+- url: https://www.legis.ga.gov/members/senate/4980?session=1029
+- url: https://www.legis.ga.gov/members/senate/4980?session=1031
+  note: HTML member detail page
+- url: https://www.legis.ga.gov/members/senate/4980?session=1032
+other_names:
+- name: ANAVITARTE, 31ST
+- name: Anavitarte, J.
+- name: J. Anavitarte
+- name: J.R. Anavitarte
+- name: Jason Anavitarte
+- name: Jason Raul Anavitarte
+sources:
+- url: https://ballotpedia.org/Jason_Anavitarte
+- url: https://en.wikipedia.org/wiki/Jason_Anavitarte
+- url: https://justfacts.votesmart.org/candidate/biography/190320/jason-anavitarte
+- url: https://www.legis.ga.gov/api/members/detail/4980?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4980?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/4980
+- url: https://www.legis.ga.gov/members/senate/4980?session=1029
+- url: https://www.legis.ga.gov/members/senate/4980?session=1031
+- url: https://www.linkedin.com/in/jasonanavitarte
+extras:
+  residence: Dallas
+  city: Dallas
+  georgia_id: 4980
+  staff: Anna Horvath
+  staff email: anna.horvath@senate.ga.gov jqte-setlink=
+  title: Majority Caucus Chair

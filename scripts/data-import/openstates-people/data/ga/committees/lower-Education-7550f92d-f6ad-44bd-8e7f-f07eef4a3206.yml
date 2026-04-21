@@ -1,0 +1,92 @@
+id: ocd-organization/7550f92d-f6ad-44bd-8e7f-f07eef4a3206
+jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+classification: committee
+name: Education
+chamber: lower
+sources:
+- url: https://www.legis.ga.gov/api/committees/details/102/1029
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/details/102/1031
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1029
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/api/committees/List/1031
+  note: Initial list page (requires authorization token)
+- url: https://www.legis.ga.gov/committees/house/102
+links:
+- url: https://www.legis.ga.gov/committees/house/102
+  note: homepage
+members:
+- name: Chris Erwin
+  role: chair
+  person_id: ocd-person/d79c3e9b-b73d-416b-9bfd-8a0338d8256c
+- name: Carmen Rice
+  role: vice chair
+  person_id: ocd-person/3646e872-85a6-4383-97c5-36ff96ca7113
+- name: Scott Hilton
+  role: secretary
+  person_id: ocd-person/91abe321-5ea4-4f17-b8d8-573d7cb913e6
+- name: Bethany Ballard
+  role: member
+  person_id: ocd-person/8b4b00cb-6f78-4b69-b788-796b19d94752
+- name: Brent Cox
+  role: member
+  person_id: ocd-person/c0b205e2-1542-4802-896d-fa7b2b6fc4d9
+- name: David Clark
+  role: member
+  person_id: ocd-person/ad18dba4-9247-4542-95b1-2ccef815dbc7
+- name: David Wilkerson
+  role: member
+  person_id: ocd-person/83a7bbf2-d69c-4813-bbeb-52820e6b9af4
+- name: Doreen Carter
+  role: member
+  person_id: ocd-person/818f1afb-2850-448e-99c1-be63a9acfe95
+- name: Jan Jones
+  role: member
+  person_id: ocd-person/85740034-23b0-4001-9190-8948bd9f3b37
+- name: Karen Lupton
+  role: member
+  person_id: ocd-person/eb28f991-35c9-4d84-a907-5be56aed1aff
+- name: Karlton Howard
+  role: member
+  person_id: ocd-person/4b3fdb35-d3fb-40aa-843e-d3900df37ce4
+- name: Lydia Glaize
+  role: member
+  person_id: ocd-person/ee575d7a-b5a1-419c-949d-4aa9290a67a1
+- name: Matt Dubnik
+  role: member
+  person_id: ocd-person/99f0a2a7-8817-4756-a40e-575e259890e7
+- name: Mike Cheokas
+  role: member
+  person_id: ocd-person/1831cc73-e694-4cea-83a4-b55c3495f76a
+- name: Miriam Paris
+  role: member
+  person_id: ocd-person/bad14891-c7bc-4ac4-b23a-fb5ae3878d67
+- name: Phil Olaleye
+  role: member
+  person_id: ocd-person/80928bd9-c963-4b21-954c-c62ee9373064
+- name: Rick Jasperse
+  role: member
+  person_id: ocd-person/4d1f5379-01e9-4f58-9868-42acc07ec7a8
+- name: Rick Townsend
+  role: member
+  person_id: ocd-person/1da20ad9-1a05-42ab-addb-7fbf295a0e5d
+- name: Sandy Donatucci
+  role: member
+  person_id: ocd-person/4ab15127-5b7a-40bc-8807-26e8e8a73397
+- name: Segun Adeyina
+  role: member
+  person_id: ocd-person/702658f4-8382-479a-9416-79928239d5e7
+- name: Todd Jones
+  role: member
+  person_id: ocd-person/45567c87-3ba6-49ec-9ea2-5ebb880aa94c
+- name: Will Wade
+  role: member
+  person_id: ocd-person/97a002db-6151-4fdf-9bce-013a6344764f
+other_names:
+- name: House Committee on Education
+- name: House Education
+- name: House Education Committee
+extras:
+  address: 504-A Coverdell Legislative Office Bldg.  Atlanta, GA 30334
+  phone: '4046560188'

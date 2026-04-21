@@ -1,0 +1,25 @@
+id: ocd-person/75b8ade9-f7a2-400f-b2de-532072fcabe3
+name: Thomas J. Quigley
+given_name: Thomas
+family_name: Quigley
+image: http://www.legis.state.pa.us/images/members/200/1039.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '146'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000200
+- scheme: legacy_openstates
+  identifier: PAL000489
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1039
+extras:
+  facebook: https://www.facebook.com/pages/PA-State-Rep-Tom-Quigley/663621033759090
+  youtube: http://www.youtube.com/user/RepTomQuigley

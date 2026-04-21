@@ -1,0 +1,25 @@
+id: ocd-person/573043a9-0df8-41f8-a3e3-18a72c38aac6
+name: Ty Dressler
+given_name: Ty
+family_name: Dressler
+gender: Male
+email: tdressler@ndlegis.gov
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '36'
+offices:
+- classification: capitol
+  address: State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505
+links:
+- url: https://ndlegis.gov/biography/ty-dressler
+other_names:
+- name: Dressler, T.
+- name: T. Dressler
+sources:
+- url: https://ballotpedia.org/Ty_Dressler
+- url: https://en.wikipedia.org/wiki/Ty_Dressler
+- url: https://ndlegis.gov/biography/ty-dressler

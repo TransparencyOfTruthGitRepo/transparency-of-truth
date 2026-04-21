@@ -1,0 +1,50 @@
+id: ocd-organization/76bfa75b-f79a-461d-aef3-e38fad7fcde0
+jurisdiction: ocd-jurisdiction/country:us/state:al/government
+classification: committee
+name: Madison County Legislation
+chamber: lower
+sources:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: Committee list api call
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/HouseCommittees.aspx
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=2349&COMMITTEE=Madison%20County%20Legislation
+links:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=2349&COMMITTEE=Madison%20County%20Legislation
+  note: homepage
+members:
+- name: Rex Reynolds
+  role: chair
+  person_id: ocd-person/e95b6e20-1207-4cdc-9875-15d14bfd72d2
+- name: Andy Whitt
+  role: vice chair
+  person_id: ocd-person/c128ed12-dd1b-4b5f-8c64-9d86bf9d6580
+- name: Anthony Daniels
+  role: member
+  person_id: ocd-person/95f7541d-5429-41aa-85e5-7fc9cf33d688
+- name: James Lomax
+  role: member
+  person_id: ocd-person/d54b8dfc-7921-4f35-ad22-ad2efdaad100
+- name: Laura Hall
+  role: member
+  person_id: ocd-person/9314859d-000f-447c-9aa7-4993b13e8010
+- name: Marilyn Lands
+  role: member
+  person_id: ocd-person/eb947430-2674-4158-8290-0d973c59e834
+- name: Phillip Rigsby
+  role: member
+  person_id: ocd-person/78f07b0c-9939-4e03-81f8-f851511a46cb
+- name: Ritchie Whorton
+  role: member
+  person_id: ocd-person/7e00e45e-24bf-4939-83b8-a56a90e3ea61
+other_names:
+- name: House Committee on Madison County Legislation
+- name: House Madison County Legislation
+- name: House Madison County Legislation Committee
+extras:
+  Clerk: Clif Richard
+  Phone: (334) 261-0458
+  Email: clif.richard@alhouse.gov
+  Room: Room 401 B

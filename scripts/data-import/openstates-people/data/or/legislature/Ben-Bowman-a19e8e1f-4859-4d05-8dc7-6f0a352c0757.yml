@@ -1,0 +1,31 @@
+id: ocd-person/a19e8e1f-4859-4d05-8dc7-6f0a352c0757
+name: Ben Bowman
+given_name: Ben
+family_name: Bowman
+birth_date: 1992-01-23
+gender: Male
+email: rep.benbowman@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/bowman/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '25'
+offices:
+- classification: capitol
+  address: Room H-295, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1425
+links:
+- url: https://www.oregonlegislature.gov/bowman
+  note: homepage
+other_names:
+- name: B. Bowman
+- name: Bowman, B.
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Ben_Bowman
+- url: https://en.wikipedia.org/wiki/Ben_Bowman_(politician)
+- url: https://www.linkedin.com/in/benjaminwbowman
+- url: https://www.oregonlegislature.gov/bowman

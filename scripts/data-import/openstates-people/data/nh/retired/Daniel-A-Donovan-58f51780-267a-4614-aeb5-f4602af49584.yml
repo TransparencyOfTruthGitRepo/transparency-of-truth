@@ -1,0 +1,27 @@
+id: ocd-person/58f51780-267a-4614-aeb5-f4602af49584
+name: Daniel A. Donovan
+given_name: Daniel A.
+family_name: Donovan
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 2
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000113
+- scheme: legacy_openstates
+  identifier: NHL001155
+- scheme: legacy_openstates
+  identifier: NHL001490
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376932
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+extras:
+  first_name: Daniel
+  last_name: Donovan
+  middle_name: A.

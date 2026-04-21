@@ -1,0 +1,47 @@
+id: ocd-person/2ae3e4e2-70c7-4855-bcd3-fab9b0da5c09
+name: Joe Perry
+given_name: Joe
+family_name: Perry
+gender: Male
+email: joseph.perry@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/37c627f4-f72a-4db9-990f-0236f34ef452_perryjc-2019.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '24'
+  end_date: 2025-01-27
+- start_date: 2019-03-14
+  end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '124'
+offices: []
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/559
+  note: homepage
+other_names:
+- name: J. Perry
+- name: J.C. Perry
+- name: Joseph C. Perry
+- name: Joseph C. Perry Sr.
+- name: Joseph PERRY
+- name: PERRY of Bangor
+- name: Perry, J.
+sources:
+- url: https://ballotpedia.org/Joseph_Perry_(Maine)
+- url: https://en.wikipedia.org/wiki/Joe_Perry_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/11101/joseph-perry-sr
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/559
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://www.linkedin.com/in/joe-perry-56aa1738
+extras:
+  Seat Number: '143'
+  towns represented:
+  - Orono (Part)
+  - Veazie
+  - Bangor (Part)
+  - Brewer (Part)
+  occupation: Convenience Store Owner

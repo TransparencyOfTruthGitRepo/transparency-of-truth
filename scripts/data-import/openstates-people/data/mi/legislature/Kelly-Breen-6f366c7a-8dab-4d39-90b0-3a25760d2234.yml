@@ -1,0 +1,39 @@
+id: ocd-person/6f366c7a-8dab-4d39-90b0-3a25760d2234
+name: Kelly Breen
+given_name: Kelly
+family_name: Breen
+birth_date: 1978-08-18
+gender: Female
+email: kellybreen@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '21'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '38'
+offices:
+- classification: capitol
+  address: Room S-785, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-2575
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/kelly-breen/
+other_names:
+- name: Breen, K.
+- name: K. Breen
+sources:
+- url: https://ballotpedia.org/Kelly_Breen
+- url: https://en.wikipedia.org/wiki/Kelly_Breen_(politician)
+- url: https://housedems.com/kelly-breen
+- url: https://housedems.com/kelly-breen/
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
+- url: https://www.linkedin.com/in/kelly-breen-06a2818

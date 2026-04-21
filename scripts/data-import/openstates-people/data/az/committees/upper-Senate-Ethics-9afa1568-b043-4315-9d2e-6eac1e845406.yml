@@ -1,0 +1,41 @@
+id: ocd-organization/9afa1568-b043-4315-9d2e-6eac1e845406
+jurisdiction: ocd-jurisdiction/country:us/state:az/government
+classification: committee
+name: Ethics
+chamber: upper
+sources:
+- url: https://apps.azleg.gov/api/Committee/?sessionId=123&includeMembers=true
+- url: https://apps.azleg.gov/api/Committee/?sessionId=127&includeMembers=true
+- url: https://apps.azleg.gov/api/Committee/?sessionId=128&includeMembers=true
+  note: API with all committee details
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2230&sessionId=129
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView?SessionID=128
+links:
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2030&sessionId=128
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2230&sessionId=129
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView?SessionID=128
+  note: homepage
+members:
+- name: Shawnna Bolick
+  role: chair
+  person_id: ocd-person/355be281-2f88-4108-b894-62c54b67fba3
+- name: Wendy Rogers
+  role: vice chair
+  person_id: ocd-person/417c9599-7617-4b6d-ac0a-1d1b2a005f4e
+- name: Dave Farnsworth
+  role: member
+  person_id: ocd-person/263ebe9c-566a-4b5c-bfbc-ea1f1d0dc3f2
+- name: Eva Diaz
+  role: member
+  person_id: ocd-person/e1cd66fa-a0de-45fd-ae53-a4db7d178d21
+- name: Kiana Sears
+  role: member
+  person_id: ocd-person/78fce9ac-3aa4-484f-b345-f55bbbf9db9b
+other_names:
+- name: Senate Committee on Ethics
+- name: Senate Ethics
+- name: Senate Ethics Committee
+extras:
+  Committee ID: 2030
+  Committee Short Name: ETHICS
+  Committee Type: Standing

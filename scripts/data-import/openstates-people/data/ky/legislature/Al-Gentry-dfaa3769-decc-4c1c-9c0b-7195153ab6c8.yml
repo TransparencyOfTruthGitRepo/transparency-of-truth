@@ -1,0 +1,42 @@
+id: ocd-person/dfaa3769-decc-4c1c-9c0b-7195153ab6c8
+name: Al Gentry
+given_name: Al
+family_name: Gentry
+birth_date: 1964-10-12
+gender: Male
+email: al.gentry@kylegislature.gov
+image: https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house46.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '46'
+offices:
+- classification: capitol-mail
+  address: Room Annex 429, 702 Capital Ave., Frankfort, KY 40601
+  voice: 502-564-8100
+links:
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=46
+  note: homepage
+other_names:
+- name: A. Gentry
+- name: A.J. Gentry
+- name: Alan Gentry
+- name: Gentry, A.
+ids:
+  twitter: kyalgentry
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000249
+sources:
+- url: https://ballotpedia.org/Alan_Gentry
+- url: https://en.wikipedia.org/wiki/Al_Gentry_(politician)
+- url: https://legislature.ky.gov/Legislators/house-of-representatives
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=46
+extras:
+  counties represented:
+  - Jefferson
+  mailing address: 8406 Cloverport Dr Louisville, KY 40228
+  home city: Louisville

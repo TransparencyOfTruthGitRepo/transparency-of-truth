@@ -1,0 +1,23 @@
+id: ocd-person/440554b1-edf9-4995-a820-9d4b65f14418
+name: L. Grace Spencer
+given_name: L.
+family_name: Spencer
+middle_name: Grace
+image: http://www.njleg.state.nj.us/members/memberphotos/spencer_color.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2017-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '29'
+links:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=288
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000088
+sources:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=288
+- url: http://www.njleg.state.nj.us/downloads.asp
+- url: http://politickernj.com/2016/06/senate-judiciary-committee-signs-off-on-spencer-judgeship/

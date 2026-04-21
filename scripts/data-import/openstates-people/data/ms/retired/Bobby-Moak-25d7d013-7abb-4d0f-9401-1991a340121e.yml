@@ -1,0 +1,20 @@
+id: ocd-person/25d7d013-7abb-4d0f-9401-1991a340121e
+name: Bobby Moak
+given_name: Bobby
+family_name: Moak
+image: http://billstatus.ls.state.ms.us/members/house/moak.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2015-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '53'
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/moak.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000075
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/moak.xml

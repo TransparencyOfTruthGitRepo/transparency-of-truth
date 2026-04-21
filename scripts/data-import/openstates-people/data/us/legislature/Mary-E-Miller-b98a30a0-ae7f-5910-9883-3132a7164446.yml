@@ -1,0 +1,77 @@
+id: ocd-person/b98a30a0-ae7f-5910-9883-3132a7164446
+name: Mary Miller
+given_name: Mary
+family_name: Miller
+birth_date: 1959-08-27
+gender: Female
+email: https://marymiller.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/M001211.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-15
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-15
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-15
+offices:
+- classification: capitol
+  address: 1740 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-5271
+  fax: 202-225-5880
+- classification: district
+  address: 3236 Broadway St. Suite 200, Quincy, IL 62301
+  voice: 217-640-6210
+- classification: district
+  address: 604 E. Main St. Suite G, Mahomet, IL 61853
+  voice: 217-703-6100
+links:
+- url: https://marymiller.house.gov
+  note: website
+- url: https://marymiller.house.gov/
+other_names:
+- name: M. Miller
+- name: M.E. Miller
+- name: Mary E. Miller
+- name: Miller, M.
+ids:
+  twitter: RepMaryMiller
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Mary Miller (Illinois)
+- scheme: bioguide
+  identifier: M001211
+- scheme: fec
+  identifier: H0IL15129
+- scheme: google_entity_id
+  identifier: kg:/g/11fsd5mh_l
+- scheme: govtrack
+  identifier: '456820'
+- scheme: opensecrets
+  identifier: N00045703
+- scheme: pictorial
+  identifier: '13047'
+- scheme: votesmart
+  identifier: '187988'
+- scheme: wikidata
+  identifier: Q101204553
+- scheme: wikipedia
+  identifier: Mary Miller (politician)
+sources:
+- url: https://ballotpedia.org/Mary_Miller_(Illinois)
+- url: https://en.wikipedia.org/wiki/Mary_Miller_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/187988/mary-miller
+- url: https://marymiller.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/mary_miller/456820

@@ -1,0 +1,19 @@
+id: ocd-person/d8d28ebd-50af-404a-bf93-0e34e8fc15d5
+name: Paul S Stull
+given_name: Paul
+family_name: Stull
+middle_name: S
+image: http://mdarchives.us/msa/mdmanual/06hse/images/1198-1-1233b.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2007-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 4A
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000365
+sources:
+- url: http://www.msa.md.gov/msa/mdmanual/06hse/html/msa12310.html

@@ -1,0 +1,54 @@
+id: ocd-person/c2c98fe8-fef2-4d38-93f6-9eff4d591bed
+name: Jim Tomes
+given_name: Jim
+family_name: Tomes
+birth_date: 1948-07-31
+gender: Male
+email: s49@iga.in.gov
+image: https://cdn.zephyrcms.com/a18fe9f0-b8a3-411e-bcc2-6d9fb9423a19/-/progressive/yes/-/format/jpeg/-/scale_crop/200x300/center/-/stretch/off/2021-tomes-2.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2010-11-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '49'
+offices:
+- classification: capitol
+  address: 200 W. Washington St., Indianapolis, IN 46204
+  voice: 317-232-9400
+links:
+- url: https://iga.in.gov/legislative/2021/legislators/legislator_james_tomes_1041
+- url: https://iga.in.gov/legislative/2021/legislators/legislator_james_tomes_1041/
+- url: https://iga.in.gov/legislative/2022/legislators/legislator_james_tomes_1041/
+- url: https://www.indianasenaterepublicans.com/tomes
+  note: homepage
+other_names:
+- name: J. Tomes
+- name: J.A. Tomes
+- name: James Tomes
+- name: Tomes, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: INL000042
+- scheme: legacy_openstates
+  identifier: INL000231
+sources:
+- url: https://api.iga.in.gov/2021/legislators/james_tomes_1041
+- url: https://ballotpedia.org/Jim_Tomes
+- url: https://en.wikipedia.org/wiki/Jim_Tomes
+- url: https://iga.in.gov/legislative/2021/legislators/legislator_james_tomes_1041
+- url: https://iga.in.gov/legislative/2022/legislators/legislator_james_tomes_1041
+- url: https://iga.in.gov/legislative/2022/legislators/legislator_james_tomes_1041/
+- url: https://justfacts.votesmart.org/candidate/biography/34052/jim-tomes
+- url: https://www.indianasenaterepublicans.com/senators
+- url: https://www.indianasenaterepublicans.com/tomes
+- url: https://www.linkedin.com/in/jim-tomes-92b93927
+extras:
+  second phone: 317-232-9400
+  legislative assistant name: Walter Aleksic
+  legislative assistant phone: 317-232-9414
+  legislative assistant email: Walter.Aleksic@iga.in.gov
+  media contact name: Samantha Deese
+  media contact phone: 317-234-9133
+  media contact email: Samantha.Deese@iga.in.gov

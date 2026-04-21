@@ -1,0 +1,54 @@
+id: ocd-organization/85ba7c85-a81e-40c2-a447-868607f869e7
+jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+classification: committee
+name: Management Audit
+chamber: legislature
+sources:
+- url: https://web.wyoleg.gov/LsoService/api/committeeDetail/2024/SMA
+  note: Committee JSON from wyoleg.gov site
+- url: https://www.wyoleg.gov/Committees/2024/SMA
+- url: https://www.wyoleg.gov/Committees/2025/SMA
+- url: https://www.wyoleg.gov/Committees/2026/SMA
+links:
+- url: https://www.wyoleg.gov/Committees/2024/SMA
+  note: homepage
+- url: https://www.wyoleg.gov/Committees/2025/SMA
+- url: https://www.wyoleg.gov/Committees/2026/SMA
+members:
+- name: Chris Knapp
+  role: chair
+  person_id: ocd-person/ffe52a1f-bc33-424a-bd8c-a2df967ac83a
+- name: Dan Laursen
+  role: vice chair
+  person_id: ocd-person/982cdb50-2a81-47b4-97e8-cf80b92d1412
+- name: Bob Ide
+  role: member
+  person_id: ocd-person/6d1c2665-46ea-444d-b88b-b22e2623e660
+- name: Chris Rothfuss
+  role: member
+  person_id: ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e
+- name: Dan Dockstader
+  role: member
+  person_id: ocd-person/5395223c-9b56-410d-b18f-978d9e2a07a9
+- name: Jared Olsen
+  role: member
+  person_id: ocd-person/63e25ff3-1832-45c8-a9af-669bb74a3aa4
+- name: Jayme Lien
+  role: member
+  person_id: ocd-person/89408a3a-ae27-4a8d-aa93-0050a48cf93d
+- name: Rachel Rodriguez-Williams
+  role: member
+  person_id: ocd-person/2fc47a70-0bf7-4d7c-bda2-5cdbf75a99ea
+- name: Tony Locke
+  role: member
+  person_id: ocd-person/0cd9d0d3-09eb-4cf1-8e5b-bfc15a71b337
+- name: Trey Sherwood
+  role: member
+  person_id: ocd-person/b2265fcb-f768-4617-ad03-15f5b65af79f
+- name: Troy McKeown
+  role: member
+  person_id: ocd-person/c1525bf9-8a43-4807-b72a-e42f94267b09
+other_names:
+- name: Joint Committee on Management Audit
+- name: Joint Management Audit
+- name: Joint Management Audit Committee

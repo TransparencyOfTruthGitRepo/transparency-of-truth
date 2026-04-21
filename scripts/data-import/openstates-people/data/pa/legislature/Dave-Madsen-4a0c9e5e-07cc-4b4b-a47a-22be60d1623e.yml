@@ -1,0 +1,45 @@
+id: ocd-person/4a0c9e5e-07cc-4b4b-a47a-22be60d1623e
+name: Dave Madsen
+given_name: Dave
+family_name: Madsen
+gender: Male
+email: repmadsen@pahouse.net
+image: https://www.legis.state.pa.us/images/members/200/1959.jpg?1703415645672
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '104'
+offices:
+- classification: capitol
+  address: Room 25B, East Wing P.O. Box 202104, Harrisburg, PA 17120
+  voice: 717-772-2362
+- classification: district
+  address: 383 S. Front St., Steelton, PA 17113
+  voice: 717-986-1673
+links:
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1959
+  note: homepage
+- url: https://www.pahouse.com/madsen/
+- url: https://www.palegis.us/house/members/bio/1959/rep-madsen
+other_names:
+- name: D. Madsen
+- name: D.A. Madsen
+- name: Madsen, D.
+ids:
+  twitter: RepMadsen
+  facebook: RepMadsen
+sources:
+- url: https://ballotpedia.org/Dave_Madsen
+- url: https://en.wikipedia.org/wiki/Dave_Madsen
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1959
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.pahouse.com/madsen
+- url: https://www.palegis.us/house/members/bio/1959/rep-madsen
+extras:
+  Education:
+  - Middletown Area High School, 2004
+  - BA Political Science
+  - MA in European Studies Aarhus, Denmark

@@ -1,0 +1,22 @@
+id: ocd-person/1f13743b-56da-4fa8-a486-feff115f0904
+name: Robert F. Fennell
+given_name: Robert
+family_name: Fennell
+middle_name: F.
+image: https://malegislature.gov/Images/MemberProfile/Web/rfennell.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 10th Essex
+links:
+- url: http://www.malegislature.gov/People/Profile/RFF1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000090
+sources:
+- url: http://www.malegislature.gov/People/Profile/RFF1
+- url: http://www.lynnjournal.com/2015/12/17/fennell-named-deputy-director-of-lynn-water-and-sewer-commission/

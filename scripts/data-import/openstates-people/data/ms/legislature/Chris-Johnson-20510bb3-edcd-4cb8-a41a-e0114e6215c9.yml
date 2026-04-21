@@ -1,0 +1,58 @@
+id: ocd-person/20510bb3-edcd-4cb8-a41a-e0114e6215c9
+name: Chris Johnson
+given_name: Chris
+family_name: Johnson
+gender: Male
+email: chjohnson@senate.ms.gov
+image: http://billstatus.ls.state.ms.us/members/senate/johnson.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2026-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '44'
+- end_date: 2020-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '45'
+  start_date: 2020-01-07
+- end_date: 2020-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '87'
+offices:
+- classification: capitol
+  address: State Capitol Room 407, 400 High St., Jackson, MS 39201
+  voice: 601-359-2220
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+- classification: district-mail
+  address: P.O. Box 18247, Hattiesburg, MS 39404
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/johnson_(87th).xml
+- url: https://billstatus.ls.state.ms.us/members/senate/johnson.xml
+  note: homepage
+other_names:
+- name: C. Johnson
+- name: Johnson, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000269
+sources:
+- url: https://ballotpedia.org/Chris_Johnson_(Mississippi)
+- url: https://billstatus.ls.state.ms.us/members/house/johnson_(87th).xml
+- url: https://billstatus.ls.state.ms.us/members/senate/johnson.xml
+- url: https://billstatus.ls.state.ms.us/members/ss_membs.xml
+- url: https://justfacts.votesmart.org/candidate/biography/156366/chris-johnson
+- url: https://www.linkedin.com/in/chris-johnson-92386bab
+extras:
+  occupation: Business Owner
+  education:
+  - University of Southern MS, B.S.
+  - Pearl River C.C.
+  - Forrest County Agricultural H.S.
+  counties represented:
+  - Forrest
+  - Perry
+  other phone: (601)270-1314

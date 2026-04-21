@@ -1,0 +1,17 @@
+id: ocd-person/79f2fc28-9d5c-478a-92ba-10cb8836f75e
+name: Brita Sailer
+given_name: Brita
+family_name: Sailer
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 2B
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000071
+sources:
+- url: http://www.house.leg.state.mn.us/members/meminfo.xls

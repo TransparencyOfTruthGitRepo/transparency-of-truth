@@ -1,0 +1,70 @@
+id: ocd-person/029be488-4aad-5a5f-95f1-7ab1aaf27c29
+name: Mike Lawler
+given_name: Mike
+family_name: Lawler
+birth_date: 1986-09-09
+gender: Male
+email: https://lawler.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/L000599.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NY-17
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NY-17
+offices:
+- classification: capitol
+  address: 324 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-6506
+- classification: district
+  address: 60 McAlpin Ave., Mahopac, NY 10541
+  voice: 845-743-7130
+- classification: district-mail
+  address: One Blue Hill Plaza Third Floor P.O. Box 1645, Pearl River, NY 10965
+  voice: 845-201-2060
+links:
+- url: https://lawler.house.gov
+  note: website
+- url: https://lawler.house.gov/
+other_names:
+- name: Lawler, M.
+- name: M. Lawler
+- name: M.V. Lawler
+- name: Michael Lawler
+ids:
+  twitter: RepMikeLawler
+other_identifiers:
+- scheme: bioguide
+  identifier: L000599
+- scheme: fec
+  identifier: H2NY17162
+- scheme: google_entity_id
+  identifier: kg:/g/11qwsdzzd6
+- scheme: govtrack
+  identifier: '456924'
+- scheme: opensecrets
+  identifier: N00051208
+- scheme: pictorial
+  identifier: '13185'
+- scheme: votesmart
+  identifier: '192271'
+- scheme: wikidata
+  identifier: Q105179052
+- scheme: wikipedia
+  identifier: Mike Lawler
+sources:
+- url: https://ballotpedia.org/Michael_Lawler_(New_York)
+- url: https://en.wikipedia.org/wiki/Michael_Lawler
+- url: https://justfacts.votesmart.org/candidate/biography/192271/mike-lawler
+- url: https://lawler.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/michael_lawler/456924
+- url: https://www.linkedin.com/in/mike-lawler-735903103

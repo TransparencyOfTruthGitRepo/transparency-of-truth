@@ -1,0 +1,34 @@
+id: ocd-person/b1187e7a-8cea-4e91-9c9f-7c7c61df3c85
+name: Bryce Berry
+given_name: Bryce
+family_name: Berry
+birth_date: 2001-06-16
+gender: Male
+email: bryce.berry@house.ga.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Bryce_Berry.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '56'
+offices:
+- classification: capitol
+  address: Room 509-B, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0220
+- classification: district-mail
+  address: P.O. Box 93004, Atlanta, GA 30318
+links:
+- url: https://www.legis.ga.gov/members/house/5069
+other_names:
+- name: B. Berry
+- name: BERRY, 56TH
+- name: Berry, B.
+sources:
+- url: https://ballotpedia.org/Bryce_Berry
+- url: https://en.wikipedia.org/wiki/Bryce_Berry
+- url: https://justfacts.votesmart.org/candidate/215226/bryce-berry
+- url: https://www.legis.ga.gov/members/house/5069
+- url: https://www.linkedin.com/in/bryce-berry-he-him-his-307014193

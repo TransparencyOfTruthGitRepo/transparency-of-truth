@@ -1,0 +1,24 @@
+id: ocd-person/38a7ca91-fc3b-4ddf-94e4-eef20bc3bb79
+name: Kyle Schoenfish
+given_name: Kyle
+family_name: Schoenfish
+email: Kyle.Schoenfish@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Schoenfish_2017.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '19'
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1492&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1581&Session=2019
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000195
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1492&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1581&Session=2019
+extras:
+  occupation: Certified Public Accountant

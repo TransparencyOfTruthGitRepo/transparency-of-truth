@@ -1,0 +1,56 @@
+id: ocd-person/aa90c35b-88cb-4f97-9d66-70d777f7cae4
+name: Kristi Morris
+given_name: Kristi
+family_name: Morris
+gender: Male
+email: kmorris2@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/KristiMorris.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Windsor-3
+- start_date: 2019-06-20
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Windsor-3
+- start_date: 2020-01-07
+  end_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Windsor-3-2
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+- classification: home
+  address: 59 Coolidge Road, Springfield, VT 05156
+  voice: 802-885-2949
+links:
+- url: https://legislature.vermont.gov/Documents/SmallMaps/WDR-3-2.pdf
+  note: district map
+- url: https://legislature.vermont.gov/people/single/2020/33012
+- url: https://legislature.vermont.gov/people/single/2022/33012
+  note: homepage
+- url: https://legislature.vermont.gov/people/single/2024/33012
+- url: https://legislature.vermont.gov/people/single/2026/33012
+other_names:
+- name: K. Morris
+- name: Kristi C. Morris
+- name: Morris, K.
+sources:
+- url: https://ballotpedia.org/Kristi_Morris
+- url: https://en.wikipedia.org/wiki/Kristi_Morris
+- url: https://justfacts.votesmart.org/candidate/186812/kristi-morris
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/single/2020/33012
+- url: https://legislature.vermont.gov/people/single/2022/33012
+- url: https://legislature.vermont.gov/people/single/2024/33012
+- url: https://legislature.vermont.gov/people/single/2026/33012
+- url: https://www.linkedin.com/in/kristi-morris-3abb803b
+extras:
+  home address: Springfield, VT 05156

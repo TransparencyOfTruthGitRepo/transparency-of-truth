@@ -1,0 +1,32 @@
+id: ocd-person/c55d85ff-7172-42d4-9c8f-da2f258dc19b
+name: Aicha Davis
+given_name: Aicha
+family_name: Davis
+gender: Female
+email: aicha.davis@house.texas.gov
+image: https://www.house.texas.gov/images/members/4465.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '109'
+offices:
+- classification: capitol
+  address: Room E2.302, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0953
+links:
+- url: https://www.house.texas.gov/members/109
+other_names:
+- name: A. Davis
+- name: A.M. Davis
+- name: Davis, A.
+- name: Davis, Aicha
+sources:
+- url: https://ballotpedia.org/Aicha_Davis
+- url: https://en.wikipedia.org/wiki/Aicha_Davis
+- url: https://justfacts.votesmart.org/candidate/biography/177375/aicha-davis
+- url: https://www.house.texas.gov/members/109
+- url: https://www.house.texas.gov/members/4465/biography
+- url: https://www.linkedin.com/in/aicha-davis-2b0a1a160

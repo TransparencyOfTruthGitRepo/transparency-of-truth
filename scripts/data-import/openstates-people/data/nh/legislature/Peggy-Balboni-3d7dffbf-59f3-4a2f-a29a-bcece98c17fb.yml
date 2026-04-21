@@ -1,0 +1,35 @@
+id: ocd-person/3d7dffbf-59f3-4a2f-a29a-bcece98c17fb
+name: Peggy Balboni
+given_name: Peggy
+family_name: Balboni
+gender: Female
+email: peggy.balboni@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123163.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 38
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10885
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10885
+  note: member detail page
+other_names:
+- name: Balboni, P.
+- name: P. Balboni
+sources:
+- url: https://ballotpedia.org/Peggy_Balboni
+- url: https://en.wikipedia.org/wiki/Peggy_Balboni
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10885
+- url: https://justfacts.votesmart.org/candidate/210283/peggy-balboni
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10885
+extras:
+  county: Rockingham
+  elected status: new
+  gender code: F

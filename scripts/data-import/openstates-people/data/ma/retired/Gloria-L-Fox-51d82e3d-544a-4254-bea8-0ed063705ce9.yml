@@ -1,0 +1,21 @@
+id: ocd-person/51d82e3d-544a-4254-bea8-0ed063705ce9
+name: Gloria L. Fox
+given_name: Gloria
+family_name: Fox
+middle_name: L.
+image: https://malegislature.gov/Images/MemberProfile/Web/gfox.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 7th Suffolk
+links:
+- url: http://www.malegislature.gov/People/Profile/GLF1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000096
+sources:
+- url: http://www.malegislature.gov/People/Profile/GLF1

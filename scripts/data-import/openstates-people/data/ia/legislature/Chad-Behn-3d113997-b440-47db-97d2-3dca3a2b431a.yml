@@ -1,0 +1,28 @@
+id: ocd-person/3d113997-b440-47db-97d2-3dca3a2b431a
+name: Chad Behn
+given_name: Chad
+family_name: Behn
+gender: Male
+email: chad.behn@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37384
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '48'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37384
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37384
+other_names:
+- name: Behn, C.
+- name: C. Behn
+sources:
+- url: https://ballotpedia.org/Chad_Behn
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37384
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37384

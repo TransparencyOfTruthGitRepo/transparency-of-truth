@@ -1,0 +1,22 @@
+id: ocd-person/0eee9a02-ff9f-435f-8180-f4ddd50f9fd1
+name: Michael P McGeehan
+given_name: Michael
+family_name: McGeehan
+middle_name: P
+image: http://www.house.state.pa.us/members/districts/173/images/217.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '173'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=217
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000164
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=217

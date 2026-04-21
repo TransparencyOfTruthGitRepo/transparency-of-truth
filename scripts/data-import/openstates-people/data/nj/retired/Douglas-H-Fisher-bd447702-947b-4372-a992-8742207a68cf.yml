@@ -1,0 +1,18 @@
+id: ocd-person/bd447702-947b-4372-a992-8742207a68cf
+name: Douglas H. Fisher
+given_name: Douglas
+family_name: Fisher
+middle_name: H.
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2009-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '3'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000132
+sources:
+- url: ftp://www.njleg.state.nj.us/ag/2008data/ROSTER.DBF

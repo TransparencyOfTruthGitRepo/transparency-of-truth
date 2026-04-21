@@ -1,0 +1,34 @@
+id: ocd-person/0240017c-38e7-45da-8841-c40b007965dc
+name: Jeff Golden
+given_name: Jeff
+family_name: Golden
+birth_date: 1950-04-24
+gender: Male
+email: sen.jeffgolden@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/golden/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '3'
+offices:
+- classification: capitol
+  address: Room S-421, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1703
+links:
+- url: https://www.oregonlegislature.gov/golden
+  note: homepage
+other_names:
+- name: Golden, J.
+- name: J. Golden
+- name: J.S. Golden
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Jeff_Golden_(Oregon)
+- url: https://en.wikipedia.org/wiki/Jeff_Golden
+- url: https://justfacts.votesmart.org/candidate/biography/179932/jeff-golden
+- url: https://www.linkedin.com/in/jeff-golden-bba8015
+- url: https://www.oregonlegislature.gov/golden

@@ -1,0 +1,34 @@
+id: ocd-person/437d084e-35d3-4a37-9ccb-61d6fcc43b1c
+name: Katy Peternel
+given_name: Katy
+family_name: Peternel
+gender: Female
+email: katy.peternel@gc.nh.gov
+image: https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/2022-07/Katy-Peternel.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 6
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-387-5876
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10579
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10579
+  note: member detail page
+other_names:
+- name: K. Peternel
+- name: Peternel, K.
+sources:
+- url: https://ballotpedia.org/Katy_Peternel
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10579
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10579
+- url: https://www.linkedin.com/in/katy-peternel-53ba28243
+extras:
+  county: Carroll
+  elected status: new
+  gender code: F

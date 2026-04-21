@@ -1,0 +1,53 @@
+id: ocd-person/87464fca-8690-4e1e-a7aa-499008a9c0b1
+name: John Clemmons
+given_name: John
+family_name: Clemmons
+birth_date: 1977-07-14
+gender: Male
+email: rep.john.ray.clemmons@capitol.tn.gov
+image: http://www.capitol.tn.gov/house/members/images/h55.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2014-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '55'
+offices:
+- classification: capitol
+  address: Room 662, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville,
+    TN 37243
+  voice: 615-741-4410
+links:
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H55
+  note: homepage
+- url: https://www.capitol.tn.gov/house/members/h55.html
+other_names:
+- name: Clemmons, J
+- name: Clemmons, J.
+- name: J. Clemmons
+- name: J.R. Clemmons
+- name: John Ray Clemmons
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000450
+sources:
+- url: https://ballotpedia.org/John_Ray_Clemmons
+- url: https://en.wikipedia.org/wiki/John_Ray_Clemmons
+- url: https://justfacts.votesmart.org/candidate/biography/153298/john-clemmons
+- url: https://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H55
+- url: https://www.capitol.tn.gov/house/members
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h55.html
+- url: https://www.linkedin.com/in/john-ray-clemmons-7247854
+extras:
+  office: 662 CHB
+  personal info:
+  - Born July 14, 1977
+  - Married, wife Tamara Baxt Clemmons, children, John, Finn and Henry
+  - Christian and Jewish Family
+  - Attorney/Mediator
+  - J.D., University of Memphis Law School, 2006
+  - B.A. History, Columbia University, 1999
+  - Lebanon (TN) High School, Honors, 1995

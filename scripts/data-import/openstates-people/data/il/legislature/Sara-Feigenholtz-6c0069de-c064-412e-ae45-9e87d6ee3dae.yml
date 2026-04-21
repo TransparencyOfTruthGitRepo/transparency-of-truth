@@ -1,0 +1,63 @@
+id: ocd-person/6c0069de-c064-412e-ae45-9e87d6ee3dae
+name: Sara Feigenholtz
+given_name: Sara
+family_name: Feigenholtz
+birth_date: 1956-12-11
+gender: Female
+email: sara@senatorsara.com
+image: https://cdn.ilga.gov/assets/img/members/{E77394AE-D896-4FEB-A325-B33A553554EB}.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-01-21
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '6'
+- end_date: 2020-01-21
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '12'
+offices:
+- classification: capitol
+  address: Room 121-D, Capitol Building, Springfield, IL 62706
+  voice: 217-557-0523
+- classification: district
+  address: 3223 N. Sheffield Ave. Suite A, Chicago, IL 60657
+  voice: 773-296-4141
+links:
+- url: https://ilga.gov/senate/Senator.asp?GA=101&MemberID=2778
+- url: https://ilga.gov/senate/Senator.asp?GA=102&MemberID=2977
+- url: https://ilga.gov/senate/Senator.asp?GA=103&MemberID=3168
+  note: homepage
+- url: https://staterepsara.com/
+- url: https://www.ilga.gov/Senate/Members/Details/3376
+- url: https://www.ilga.gov/senate/Senator.asp?GA=103&MemberID=3168
+- url: https://www.ilga.gov/senate/Senator.asp?GA=104&MemberID=3376
+- url: https://www.senatorsara.com/
+other_names:
+- name: Feigenholtz, S.
+- name: Feigenholtz, Sara
+- name: S. Feigenholtz
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ILL000098
+- scheme: legacy_openstates
+  identifier: ILL000452
+- scheme: legacy_openstates
+  identifier: ILL000273
+sources:
+- url: https://ballotpedia.org/Sara_Feigenholtz
+- url: https://en.wikipedia.org/wiki/Sara_Feigenholtz
+- url: https://ilga.gov/senate/default.asp?GA=101
+- url: https://ilga.gov/senate/default.asp?GA=102
+- url: https://ilga.gov/senate/default.asp?GA=103
+- url: https://ilga.gov/senate/Senator.asp?GA=101&MemberID=2778
+- url: https://ilga.gov/senate/Senator.asp?GA=102&MemberID=2977
+- url: https://ilga.gov/senate/Senator.asp?GA=103&MemberID=3168
+- url: https://staterepsara.com
+- url: https://staterepsara.com/
+- url: https://www.ilga.gov/Senate/Members/Details/3376
+- url: https://www.ilga.gov/senate/Senator.asp?GA=103&MemberID=3168
+- url: https://www.ilga.gov/senate/Senator.asp?GA=104&MemberID=3376
+- url: https://www.linkedin.com/in/sara-feigenholtz-7483b224
+- url: https://www.senatorsara.com

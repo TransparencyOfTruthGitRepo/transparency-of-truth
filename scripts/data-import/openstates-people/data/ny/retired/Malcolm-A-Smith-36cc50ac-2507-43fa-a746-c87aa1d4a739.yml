@@ -1,0 +1,22 @@
+id: ocd-person/36cc50ac-2507-43fa-a746-c87aa1d4a739
+name: Malcolm A Smith
+given_name: Malcolm
+family_name: Smith
+middle_name: A
+image: http://www.nysenate.gov/files/profile-pictures/Smith-HS-024.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '14'
+links:
+- url: http://www.nysenate.gov/senator/malcolm-smith
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000056
+sources:
+- url: http://www.nysenate.gov/senators
+- url: http://www.nysenate.gov/senator/malcolm-smith/contact

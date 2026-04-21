@@ -1,0 +1,32 @@
+id: ocd-person/4b23e066-26f2-4b23-ac81-060462b2a956
+name: Travis Sitzmann
+given_name: Travis
+family_name: Sitzmann
+gender: Male
+email: travis.sitzmann@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37378
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '13'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37378
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37378
+other_names:
+- name: Sitzmann, T.
+- name: T. Sitzmann
+- name: T.M. Sitzmann
+sources:
+- url: https://ballotpedia.org/Travis_Sitzmann
+- url: https://en.wikipedia.org/wiki/Travis_Sitzmann
+- url: https://justfacts.votesmart.org/candidate/biography/215571/travis-sitzmann
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37378
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37378
+- url: https://www.linkedin.com/in/travis-sitzmann-2714867b

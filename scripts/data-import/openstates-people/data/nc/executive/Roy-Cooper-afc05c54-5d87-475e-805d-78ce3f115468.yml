@@ -1,0 +1,25 @@
+id: ocd-person/afc05c54-5d87-475e-805d-78ce3f115468
+name: Roy Cooper
+given_name: Roy
+family_name: Cooper
+birth_date: 1957-06-13
+image: https://files.nc.gov/nc-governor/styles/carousel/public/cooper-banner-1440x568.jpg?VersionId=YiHSMIsDmZjnJ21qpvNC19EU2_fCdQml&itok=VAV37rRM
+party:
+- name: Democratic
+roles:
+- start_date: '2017-01-01'
+  end_date: '2025-01-01'
+  type: governor
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+links:
+- url: https://governor.nc.gov/
+- url: https://governor.nc.gov/contact/contact-governor-cooper
+  note: webform
+ids:
+  twitter: nc_governor
+sources:
+- url: https://governor.nc.gov/
+offices:
+- address: 20301 Mail Service Center; Raleigh, NC 27699-0301;
+  voice: 919-814-2000
+  classification: capitol

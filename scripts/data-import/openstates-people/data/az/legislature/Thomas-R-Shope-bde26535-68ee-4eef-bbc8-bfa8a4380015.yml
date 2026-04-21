@@ -1,0 +1,63 @@
+id: ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015
+name: T.J. Shope
+given_name: T.J.
+family_name: Shope
+birth_date: 1985-08-12
+gender: Male
+email: tshope@azleg.gov
+image: https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/SHOPE.png
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '16'
+- end_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room 212, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-3012
+links:
+- url: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1871
+- url: https://www.azleg.gov/senate-member/?legislature=56&legislator=2142
+- url: https://www.azleg.gov/senate-member/?legislature=57&legislator=2396
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=123&legislator=1962
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=125&legislator=1962
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2142
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2142
+- url: https://www.linkedin.com/in/t-j-shope-76585a132/
+  note: linkedin
+other_names:
+- name: Shope, T.
+- name: T. Shope
+- name: T.R. Shope
+- name: Thomas "T.J." Shope
+- name: Thomas "T.J." Shope, Jr.
+- name: Thomas Ray Shope
+- name: Thomas Shope
+ids:
+  twitter: tjshopeforaz
+  facebook: TJSHOPEFORARIZONA
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AZL000377
+- scheme: openstates
+  identifier: ocd-person/2f01ccca-ad88-4bce-b341-0f71bc2c1342
+- scheme: openstates
+  identifier: ocd-person/70655ec9-ecaf-4fb7-b39b-32ec5ddb66ad
+sources:
+- url: https://ballotpedia.org/T.J._Shope
+- url: https://en.wikipedia.org/wiki/T._J._Shope
+- url: https://justfacts.votesmart.org/candidate/biography/141366/tj-shope
+- url: https://www.azleg.gov/MemberRoster/?body=H
+- url: https://www.azleg.gov/MemberRoster/?body=S
+- url: https://www.azleg.gov/memberroster/?body=S
+- url: https://www.azleg.gov/senate-member/?legislature=56&legislator=2142
+- url: https://www.azleg.gov/senate-member/?legislature=57&legislator=2396
+- url: https://www.linkedin.com/in/t-j-shope-76585a132
+extras:
+  title: President Pro Tempore

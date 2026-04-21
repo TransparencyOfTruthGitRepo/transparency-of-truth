@@ -1,0 +1,53 @@
+id: ocd-organization/05436c3d-2bbc-4ab1-a01e-888f6a682444
+jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+classification: committee
+name: Commerce and Energy
+chamber: upper
+sources:
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1172
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1209
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/68
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/69
+- url: https://sdlegislature.gov/Session/Committee/1172/Detail
+- url: https://sdlegislature.gov/Session/Committee/1209/Detail
+- url: https://sdlegislature.gov/Session/Committee/1243/Detail
+- url: https://sdlegislature.gov/Session/Committee/1278/Detail
+links:
+- url: https://sdlegislature.gov/Session/Committee/1172/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1209/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1243/Detail
+- url: https://sdlegislature.gov/Session/Committee/1278/Detail
+members:
+- name: Casey Crabtree
+  role: chair
+  person_id: ocd-person/6dabb48d-f267-4fb3-9e8c-0a3c182d44d3
+- name: Sue Peterson
+  role: vice chair
+  person_id: ocd-person/10c3de09-4e65-4885-bbbb-78b2903a36e2
+- name: Carl Perry
+  role: member
+  person_id: ocd-person/5a5c92d7-0b2c-418e-a0ce-8ba0a6e4790a
+- name: Chris Karr
+  role: member
+  person_id: ocd-person/85616a5d-63b7-4794-8eb0-63ab7b121761
+- name: Jim Mehlhaff
+  role: member
+  person_id: ocd-person/c8ca77f5-97e7-4604-aec3-fe4ee5e7dc31
+- name: Joy Hohn
+  role: member
+  person_id: ocd-person/3a454e94-ca27-4e34-b603-c2768c047bc3
+- name: Liz Larson
+  role: member
+  person_id: ocd-person/81df3498-7677-4749-9753-c1ae9799e444
+- name: Randy Deibert
+  role: member
+  person_id: ocd-person/73f418c4-6d07-4ef5-924f-1664738d2b46
+- name: Steve Kolbeck
+  role: member
+  person_id: ocd-person/d8b7a70b-2c34-4319-aaaf-54112c5ca471
+other_names:
+- name: Senate Commerce and Energy
+- name: Senate Commerce and Energy Committee
+- name: Senate Committee on Commerce and Energy

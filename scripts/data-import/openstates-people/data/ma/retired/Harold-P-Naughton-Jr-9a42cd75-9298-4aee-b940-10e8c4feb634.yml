@@ -1,0 +1,23 @@
+id: ocd-person/9a42cd75-9298-4aee-b940-10e8c4feb634
+name: Harold P. Naughton Jr
+given_name: Harold
+family_name: Naughton
+middle_name: P.
+image: https://malegislature.gov/Images/MemberProfile/Web/hnaughton.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 12th Worcester
+links:
+- url: http://www.malegislature.gov/People/Profile/HPN1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000147
+- scheme: legacy_openstates
+  identifier: MAL000317
+sources:
+- url: http://www.malegislature.gov/People/Profile/HPN1

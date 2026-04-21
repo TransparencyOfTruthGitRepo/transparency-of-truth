@@ -1,0 +1,44 @@
+id: ocd-person/6b644492-bb54-496c-8ad3-22ec002056d4
+name: Chris Blackshear
+given_name: Chris
+family_name: Blackshear
+birth_date: 1974-03-11
+gender: Male
+email: chris.blackshear@alhouse.gov
+image: https://www.legislature.state.al.us/pdf/house/members/Blackshear_80.png
+party:
+- name: Republican
+roles:
+- start_date: 2016-01-29
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '80'
+offices:
+- classification: capitol
+  address: Room 410-C, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0428
+- classification: district-mail
+  address: P.O. Box 1178, Smiths Station, AL 36877
+  voice: 706-464-8941
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100562&OID_PERSON=7981
+other_names:
+- name: Blackshear, C.
+- name: C. Blackshear
+- name: C.E. Blackshear
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000550
+sources:
+- url: https://ballotpedia.org/Chris_Blackshear
+- url: https://en.wikipedia.org/wiki/Chris_Blackshear
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/143782/chris-blackshear
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Blackshear&OID_SPONSOR=100562&OID_PERSON=7981&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100562&OID_PERSON=7981
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+extras:
+  counties: Lee County, Russell County

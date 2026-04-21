@@ -1,0 +1,40 @@
+id: ocd-organization/a03c3113-86f0-4acf-a942-2e294bf33418
+jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+classification: committee
+name: Judiciary
+chamber: lower
+sources:
+- url: https://njleg.state.nj.us/committees/assembly-committees?committee=AJU
+- url: https://www.njleg.state.nj.us/api/legislatorData/committeeInfo/assembly-committees
+  note: JSON data page from NJ Legislative API
+- url: https://www.njleg.state.nj.us/committees/assembly-committees
+links:
+- url: https://njleg.state.nj.us/committees/assembly-committees?committee=AJU
+- url: https://www.njleg.state.nj.us/committees/assembly-committees
+  note: homepage
+members:
+- name: Ellen Park
+  role: chair
+  person_id: ocd-person/e5da04d8-e25f-4ab3-a453-84e692fe89c4
+- name: Luanne Peterpaul
+  role: vice chair
+  person_id: ocd-person/589a73bd-a164-472a-8b50-4b4d0846cd24
+- name: Bob Auth
+  role: member
+  person_id: ocd-person/acff039b-0a83-4184-8b6b-7b051cfcdc77
+- name: Kenyatta Stewart
+  role: member
+  person_id: ocd-person/0bf3c2a3-9004-40cb-8d3a-eeeca4b0b967
+- name: Larry Wainstein
+  role: member
+  person_id: ocd-person/036d00b8-5e0b-4bc0-ae46-f0bf5e1b9a73
+- name: Vicky Flynn
+  role: member
+  person_id: ocd-person/379945ef-55af-4b76-96ce-fcddbcb0c1c6
+other_names:
+- name: Assembly Committee on Judiciary
+- name: Assembly Judiciary
+- name: Assembly Judiciary Committee
+- name: House Committee on Judiciary
+- name: House Judiciary
+- name: House Judiciary Committee

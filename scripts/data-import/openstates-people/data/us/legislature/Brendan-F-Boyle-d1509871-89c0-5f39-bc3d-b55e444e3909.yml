@@ -1,0 +1,109 @@
+id: ocd-person/d1509871-89c0-5f39-bc3d-b55e444e3909
+name: Brendan Boyle
+given_name: Brendan
+family_name: Boyle
+birth_date: 1977-02-06
+gender: Male
+email: https://boyle.house.gov/address_authentication?form=/contact/email
+image: https://unitedstates.github.io/images/congress/450x550/B001296.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: PA-2
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: PA-2
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: PA-2
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: PA-2
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: PA-13
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: PA-13
+offices:
+- classification: capitol
+  address: 1502 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-6111
+  fax: 771-200-5845
+- classification: district
+  address: 1318 W. Girard Ave., Philadelphia, PA 19123
+  voice: 215-982-1156
+  fax: 267-639-9944
+- classification: district
+  address: 8572 Bustleton Ave., Philadelphia, PA 19152
+  voice: 215-335-3355
+  fax: 215-856-3734
+- classification: district
+  address: One and Olney Shopping Center 5675 N. Front St., Suite 180, Philadelphia,
+    PA 19120
+  voice: 267-335-5643
+  fax: 267-437-3886
+links:
+- url: https://boyle.house.gov
+  note: website
+- url: https://boyle.house.gov/
+other_names:
+- name: B. Boyle
+- name: B.F. Boyle
+- name: Boyle, B.
+- name: Brendan F. Boyle
+ids:
+  twitter: CongBoyle
+  youtube: UCMP_Anj7lz4eZuSh8GwFqQQ
+  facebook: CongressmanBoyle
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Brendan Boyle
+- scheme: bioguide
+  identifier: B001296
+- scheme: cspan
+  identifier: '76428'
+- scheme: fec
+  identifier: H4PA13199
+- scheme: google_entity_id
+  identifier: kg:/m/04f4fjk
+- scheme: govtrack
+  identifier: '412652'
+- scheme: icpsr
+  identifier: '21548'
+- scheme: maplight
+  identifier: '2108'
+- scheme: opensecrets
+  identifier: N00035307
+- scheme: pictorial
+  identifier: '13222'
+- scheme: thomas
+  identifier: '02267'
+- scheme: votesmart
+  identifier: '47357'
+- scheme: wikidata
+  identifier: Q4960876
+sources:
+- url: https://ballotpedia.org/Brendan_Boyle
+- url: https://boyle.house.gov
+- url: https://boyle.house.gov/about/biography
+- url: https://en.wikipedia.org/wiki/Brendan_Boyle
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://voteboyle.com/about-brendan
+- url: https://www.govtrack.us/congress/members/brendan_boyle/412652
+- url: https://www.linkedin.com/in/brendan-boyle-6504328

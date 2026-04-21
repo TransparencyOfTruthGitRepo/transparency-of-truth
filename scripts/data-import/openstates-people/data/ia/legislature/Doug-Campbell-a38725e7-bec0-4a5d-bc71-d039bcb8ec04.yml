@@ -1,0 +1,30 @@
+id: ocd-person/a38725e7-bec0-4a5d-bc71-d039bcb8ec04
+name: Doug Campbell
+given_name: Doug
+family_name: Campbell
+birth_date: 1954-10-17
+gender: Male
+email: doug.campbell@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37463
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '30'
+offices:
+- classification: capitol
+  address: 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3371
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37463
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37463
+other_names:
+- name: Campbell, D.
+- name: D. Campbell
+sources:
+- url: https://ballotpedia.org/Doug_Campbell_(Iowa)
+- url: https://iowasenaterepublicans.com/senators/doug-campbell
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37463
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=37463

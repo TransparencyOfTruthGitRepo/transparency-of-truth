@@ -1,0 +1,22 @@
+id: ocd-person/ca3a0225-7cbb-42a4-bd6c-c81aab174b6e
+name: Leonard L Bembry
+given_name: Leonard
+family_name: Bembry
+middle_name: L
+image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4438.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '10'
+links:
+- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4438&SessionId=70
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: FLL000048
+sources:
+- url: http://www.flhouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4438&SessionId=70

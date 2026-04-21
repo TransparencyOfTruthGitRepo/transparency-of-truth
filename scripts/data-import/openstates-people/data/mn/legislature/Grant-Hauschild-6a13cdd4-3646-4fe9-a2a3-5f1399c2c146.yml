@@ -1,0 +1,31 @@
+id: ocd-person/6a13cdd4-3646-4fe9-a2a3-5f1399c2c146
+name: Grant Hauschild
+given_name: Grant
+family_name: Hauschild
+gender: Male
+email: sen.grant.hauschild@senate.mn
+image: https://www.senate.mn/graphics/03Hauschild.jpg
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '3'
+offices:
+- classification: capitol
+  address: Room 3111, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-1789
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1252
+other_names:
+- name: G. Hauschild
+- name: Hauschild, G.
+sources:
+- url: https://ballotpedia.org/Grant_Hauschild_(Minnesota)
+- url: https://en.wikipedia.org/wiki/Grant_Hauschild
+- url: https://justfacts.votesmart.org/candidate/biography/170724/grant-hauschild
+- url: https://www.linkedin.com/in/granthauschild
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1252

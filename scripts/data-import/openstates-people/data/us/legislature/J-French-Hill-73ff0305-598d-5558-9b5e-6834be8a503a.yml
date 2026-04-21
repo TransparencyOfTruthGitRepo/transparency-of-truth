@@ -1,0 +1,100 @@
+id: ocd-person/73ff0305-598d-5558-9b5e-6834be8a503a
+name: French Hill
+given_name: French
+family_name: Hill
+birth_date: 1956-12-05
+gender: Male
+email: https://hill.house.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/H001072.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2015-01-06
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AR-2
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AR-2
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AR-2
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AR-2
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AR-2
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: AR-2
+offices:
+- classification: capitol
+  address: 1533 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-2506
+  fax: 202-225-5903
+- classification: district
+  address: 1501 N. University Ave. Suite 630, Little Rock, AR 72207
+  voice: 501-324-5941
+  fax: 501-324-6029
+links:
+- url: https://hill.house.gov
+  note: website
+- url: https://hill.house.gov/
+other_names:
+- name: F. Hill
+- name: Hill, F.
+- name: J. French Hill
+- name: J.F. Hill
+ids:
+  twitter: RepFrenchHill
+  youtube: UCT8uWroJtkwSsCJlVg0IKvQ
+  facebook: RepFrenchHill
+other_identifiers:
+- scheme: ballotpedia
+  identifier: French Hill
+- scheme: bioguide
+  identifier: H001072
+- scheme: cspan
+  identifier: '9265172'
+- scheme: fec
+  identifier: H4AR02141
+- scheme: google_entity_id
+  identifier: kg:/m/0127p1zk
+- scheme: govtrack
+  identifier: '412609'
+- scheme: icpsr
+  identifier: '21503'
+- scheme: maplight
+  identifier: '2065'
+- scheme: opensecrets
+  identifier: N00035792
+- scheme: pictorial
+  identifier: '12902'
+- scheme: thomas
+  identifier: '02223'
+- scheme: votesmart
+  identifier: '146290'
+- scheme: wikidata
+  identifier: Q18631366
+- scheme: wikipedia
+  identifier: French Hill (politician)
+sources:
+- url: https://ballotpedia.org/French_Hill
+- url: https://en.wikipedia.org/wiki/French_Hill_(politician)
+- url: https://hill.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/french_hill/412609
+- url: https://www.linkedin.com/in/j-french-hill-83466526

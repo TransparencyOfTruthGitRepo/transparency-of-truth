@@ -1,0 +1,68 @@
+id: ocd-organization/f46b1765-c3a2-4c16-9fb6-c916b0855ff2
+jurisdiction: ocd-jurisdiction/country:us/state:la/government
+classification: committee
+name: Education
+chamber: lower
+sources:
+- url: https://house.louisiana.gov/H_Cmtes/Education
+- url: https://house.louisiana.gov/H_Cmtes/Education.aspx
+  note: Committee Detail Page
+- url: https://www.legis.la.gov/legis/Committees.aspx?c=H
+  note: Committees List Page
+links:
+- url: https://house.louisiana.gov/H_Cmtes/Education
+- url: https://house.louisiana.gov/H_Cmtes/Education.aspx
+  note: homepage
+members:
+- name: Laurie Schlegel
+  role: chair
+  person_id: ocd-person/1dbd875c-89b6-4ea1-a73b-7c8efdb203a3
+- name: "Beryl Amed\xE9e"
+  role: vice chair
+  person_id: ocd-person/cbe53992-3b3c-4ec0-a94a-58ddf96e6edd
+- name: Mike Johnson
+  role: ex-officio
+  person_id: ocd-person/0e901294-3718-49df-9922-0ac4503acee2
+- name: Phillip DeVillier
+  role: ex-officio
+  person_id: ocd-person/ee23b4bf-f5f7-498c-9fcc-f3b2d6f8fb1d
+- name: Barbara Carpenter
+  role: member
+  person_id: ocd-person/ad514eed-2832-4ae3-a0c5-62d8f2721297
+- name: Barbara Freiberg
+  role: member
+  person_id: ocd-person/bd179bf7-f90d-4e3a-baea-a590c3002586
+- name: Chasity Martinez
+  role: member
+  person_id: ocd-person/c58cdaf8-5e0d-4a0c-ac40-7e95c38ac83e
+- name: Chuck Owen
+  role: member
+  person_id: ocd-person/2a4d4c31-ee06-4f32-a67b-c55db60502e4
+- name: Josh Carlson
+  role: member
+  person_id: ocd-person/85df7a11-9edb-4e27-b7ce-60ffe7b35d39
+- name: Kathy Edmonston
+  role: member
+  person_id: ocd-person/92f7834e-8ce3-437f-bdbf-8dad3528ae3b
+- name: Kim Carver
+  role: member
+  person_id: ocd-person/bd6d41fc-8ad8-468f-8259-223d38d42bd8
+- name: Phil Tarver
+  role: member
+  person_id: ocd-person/04a524b7-1f7a-4d01-8491-c52df47e20cc
+- name: Skip Broussard
+  role: member
+  person_id: ocd-person/b114df8c-8388-44b1-8274-c346addd67c4
+- name: Sylvia Taylor
+  role: member
+  person_id: ocd-person/586f002d-71da-4836-a306-6e8a3d485263
+- name: Terry Landry
+  role: member
+  person_id: ocd-person/709dfea8-f9a9-4734-8b6d-e495f4d51aa3
+- name: Vinney St. Blanc
+  role: member
+  person_id: ocd-person/c75a9e00-6017-4e74-95fd-70fbfa803c58
+other_names:
+- name: House Committee on Education
+- name: House Education
+- name: House Education Committee

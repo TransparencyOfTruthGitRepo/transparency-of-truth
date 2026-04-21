@@ -1,0 +1,17 @@
+id: ocd-person/6767ed3a-4d49-4c3c-a754-635cc412fcd5
+name: Frederick Scalera
+given_name: Frederick
+family_name: Scalera
+party:
+- name: Democratic
+roles:
+- start_date: '2008-01-01'
+  end_date: '2011-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '36'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000110
+sources:
+- url: ftp://www.njleg.state.nj.us/ag/2008data/ROSTER.DBF

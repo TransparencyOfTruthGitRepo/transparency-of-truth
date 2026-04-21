@@ -1,0 +1,64 @@
+id: ocd-organization/82c65522-f7d6-4415-ba22-a511ec5961fa
+jurisdiction: ocd-jurisdiction/country:us/state:al/government
+classification: committee
+name: Economic Development and Tourism
+chamber: lower
+sources:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: Committee list api call
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/HouseCommittees.aspx
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=2952&COMMITTEE=Economic%20Development%20and%20Tourism
+links:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=2952&COMMITTEE=Economic%20Development%20and%20Tourism
+  note: homepage
+members:
+- name: Andy Whitt
+  role: chair
+  person_id: ocd-person/c128ed12-dd1b-4b5f-8c64-9d86bf9d6580
+- name: Ginny Shaver
+  role: vice chair
+  person_id: ocd-person/08fce57e-b511-4572-bcb8-7c712d8e7d05
+- name: Rolanda Hollis
+  role: ranking member
+  person_id: ocd-person/721421f8-e118-4163-bae9-72f3662696e9
+- name: Allen Treadaway
+  role: member
+  person_id: ocd-person/3f96a690-e9a3-4774-8484-49a5a079b18c
+- name: Chad Robertson
+  role: member
+  person_id: ocd-person/60ec1e11-da78-43be-90e5-5d850bf3edc7
+- name: Chip Brown
+  role: member
+  person_id: ocd-person/04a1794d-93f0-435f-8c68-1b435f2fc1a0
+- name: Frances Holk-Jones
+  role: member
+  person_id: ocd-person/3bc2e263-71cf-41e2-80c5-3f97cad999ff
+- name: Greg Barnes
+  role: member
+  person_id: ocd-person/319cc74b-3113-4053-8bda-0e1903227207
+- name: James Lomax
+  role: member
+  person_id: ocd-person/d54b8dfc-7921-4f35-ad22-ad2efdaad100
+- name: Neil Rafferty
+  role: member
+  person_id: ocd-person/dc6e41ae-d1b3-47c7-b225-1d5ec88a9fdc
+- name: Steve Clouse
+  role: member
+  person_id: ocd-person/6b191fda-698d-4061-8396-fef9771847ee
+- name: TaShina Morris
+  role: member
+  person_id: ocd-person/2ba6dc9a-31db-4371-9d69-7fa000e7a08a
+other_names:
+- name: Committee on Economic Development and Tourism
+- name: Economic Development and Tourism Committee
+- name: House Committee on Economic Development and Tourism
+- name: House Economic Development and Tourism
+- name: House Economic Development and Tourism Committee
+extras:
+  Clerk: Teresa Evans
+  Phone: (334) 261-0550
+  Email: teresa.evans@alhouse.gov
+  Room: Room 535

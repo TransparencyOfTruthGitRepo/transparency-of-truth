@@ -1,0 +1,53 @@
+id: ocd-person/0ac05fa7-143f-4ae9-8ac8-99de42d21779
+name: Nancy Murphy
+given_name: Nancy
+family_name: Murphy
+gender: Female
+email: nancy.murphy@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123402.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 12
+- start_date: 2018-12-05
+  end_date: 2020-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 12
+- end_date: 2020-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 21
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9089
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9089
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9089
+  note: member detail page
+other_names:
+- name: Murphy, N.
+- name: N. Murphy
+- name: N.A. Murphy
+- name: N.O. Murphy
+- name: Nancy A. Murphy
+- name: Nancy Olson Murphy
+sources:
+- url: https://ballotpedia.org/Nancy_Murphy
+- url: https://en.wikipedia.org/wiki/Nancy_Murphy
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9089
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9089
+- url: https://justfacts.votesmart.org/candidate/biography/185558/nancy-murphy
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408861
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9089
+extras:
+  county: Hillsborough
+  elected status: new
+  gender code: F

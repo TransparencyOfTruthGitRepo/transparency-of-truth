@@ -1,0 +1,76 @@
+id: ocd-person/0ee1b661-2035-5dc1-ab1c-b87d25682775
+name: Tommy Tuberville
+given_name: Tommy
+family_name: Tuberville
+birth_date: 1954-09-18
+gender: Male
+email: https://www.tuberville.senate.gov/contact-old/contact-form/
+image: https://unitedstates.github.io/images/congress/450x550/T000278.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Alabama
+offices:
+- classification: capitol
+  address: 455 Russell Senate Office Building, Washington, DC 20510
+  voice: 202-224-4124
+- classification: district
+  address: 100 W. Troy St. Suite 302, Dothan, AL 36303
+  voice: 334-547-7441
+- classification: district
+  address: 2101 Clinton Ave. West Suite 300, Huntsville, AL 35805
+  voice: 256-692-7500
+- classification: district
+  address: BB&T Centre 41 W. I-65 Service Road North, Suite 2300-A, Mobile, AL 36608
+  voice: 251-308-7233
+- classification: district
+  address: Frank M Johnson Jr. Annex 1 Church St., Suite 500-B, Montgomery, AL 36104
+  voice: 334-523-7424
+- classification: district
+  address: Galleria Tower 3000 Riverchase, Suite 915, Hoover, AL 35244
+  voice: 205-760-7307
+links:
+- url: https://www.tuberville.senate.gov
+  note: website
+- url: https://www.tuberville.senate.gov/contact/contact-form/
+  note: contact form
+other_names:
+- name: T. Tuberville
+- name: T.H. Tuberville
+- name: Tuberville, T.
+ids:
+  twitter: SenTuberville
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Tommy Tuberville
+- scheme: bioguide
+  identifier: T000278
+- scheme: fec
+  identifier: S0AL00230
+- scheme: google_entity_id
+  identifier: kg:/m/04tmr4
+- scheme: govtrack
+  identifier: '456796'
+- scheme: lis
+  identifier: S412
+- scheme: opensecrets
+  identifier: N00044434
+- scheme: pictorial
+  identifier: '13365'
+- scheme: votesmart
+  identifier: '188306'
+- scheme: wikidata
+  identifier: Q7819948
+sources:
+- url: https://ballotpedia.org/Tommy_Tuberville
+- url: https://en.wikipedia.org/wiki/Tommy_Tuberville
+- url: https://justfacts.votesmart.org/candidate/biography/188306/tommy-tuberville
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/tommy_tuberville/456796
+- url: https://www.linkedin.com/in/tommy-tuberville-4395a71a
+- url: https://www.tuberville.senate.gov

@@ -1,0 +1,58 @@
+id: ocd-person/082079ab-53d2-43e5-be5f-cb7c6054edd3
+name: Michael Lee
+given_name: Michael
+family_name: Lee
+birth_date: 1968-11-29
+gender: Male
+email: michael.lee@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/S/387/Low
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '7'
+- start_date: 2014-08-18
+  end_date: 2019-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '9'
+- start_date: 2021-01-01
+  end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '9'
+offices:
+- classification: capitol
+  address: Room 300-B, Legislative Office Building 300 N. Salisbury St., Raleigh,
+    NC 27603
+  voice: 919-715-2525
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/387
+- url: https://www.ncleg.gov/Members/Committees/S/387
+- url: https://www.ncleg.gov/Members/IntroducedBills/S/387
+- url: https://www.ncleg.gov/Members/Votes/S/387
+other_names:
+- name: Lee, M.
+- name: M. Lee
+- name: M.V. Lee
+- name: Michael V. Lee
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000324
+- scheme: legacy_openstates
+  identifier: NCL000326
+sources:
+- url: https://ballotpedia.org/Michael_V._Lee
+- url: https://ballotpedia.org/Michael_V._Lee_(North_Carolina_State_Senate)
+- url: https://en.wikipedia.org/wiki/Michael_V._Lee
+- url: https://justfacts.votesmart.org/candidate/biography/102957/michael-lee
+- url: https://www.linkedin.com/in/michael-lee-5669b59
+- url: https://www.ncleg.gov/Members/Biography/S/387
+- url: https://www.ncleg.gov/Members/MemberTable/S
+extras:
+  terms in senate: 4+ (0 in House)
+  represented counties: New Hanover
+  legislative assistant: Candace Bowden
+  legislative assistant email: Candace.Bowden@ncleg.gov

@@ -1,0 +1,18 @@
+id: ocd-person/8ba89ebc-03b6-4d94-958e-a7d5c121a55d
+name: "Lori Salda\xF1a"
+given_name: Lori
+family_name: "Salda\xF1a"
+image: http://www.assembly.ca.gov/images/members/76.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/government
+  district: '76'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CAL000115
+sources:
+- url: ftp://www.leginfo.ca.gov/pub/bill/

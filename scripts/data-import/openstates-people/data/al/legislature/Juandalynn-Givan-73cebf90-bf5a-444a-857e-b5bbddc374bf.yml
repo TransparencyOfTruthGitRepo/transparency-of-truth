@@ -1,0 +1,48 @@
+id: ocd-person/73cebf90-bf5a-444a-857e-b5bbddc374bf
+name: Juandalynn Givan
+given_name: Juandalynn
+family_name: Givan
+gender: Female
+email: juandalynn.givan@alhouse.gov
+image: https://www.legislature.state.al.us/pdf/house/members/Givan_60.png
+party:
+- name: Democratic
+roles:
+- start_date: 2010-11-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '60'
+offices:
+- classification: capitol
+  address: Room 528-E, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0584
+- classification: district
+  address: 63 Greenlead Drive, Birmingham, AL 35214
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100541&OID_PERSON=6665
+other_names:
+- name: Givan, J.
+- name: J. Givan
+- name: J.D. Givan
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000070
+- scheme: legacy_openstates
+  identifier: ALL000417
+- scheme: legacy_openstates
+  identifier: ALL000195
+- scheme: legacy_openstates
+  identifier: ALL000494
+sources:
+- url: https://ballotpedia.org/Juandalynn_Givan
+- url: https://en.wikipedia.org/wiki/Juandalynn_Givan
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/121471/juandalynn-givan
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Givan&OID_SPONSOR=100541&OID_PERSON=6665&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100541&OID_PERSON=6665
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+extras:
+  counties: Jefferson County

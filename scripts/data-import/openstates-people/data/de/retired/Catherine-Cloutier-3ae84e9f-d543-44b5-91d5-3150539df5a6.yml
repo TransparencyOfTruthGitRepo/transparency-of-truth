@@ -1,0 +1,25 @@
+id: ocd-person/3ae84e9f-d543-44b5-91d5-3150539df5a6
+name: Catherine Cloutier
+given_name: Catherine
+family_name: Cloutier
+image: https://legis.delaware.gov/images/default-source/Legislators/CatherineCloutier.jpg?sfvrsn=2
+party:
+- name: Republican
+roles:
+- end_date: '2020-11-03'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:de/government
+  district: '5'
+links:
+- url: https://legis.delaware.gov/LegislatorDetail?personId=14
+  note: legislator page
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: DEL000006
+- scheme: legacy_openstates
+  identifier: DEL000063
+- scheme: legacy_openstates
+  identifier: DEL000067
+sources:
+- url: https://legis.delaware.gov/Senate
+  note: legislator list page

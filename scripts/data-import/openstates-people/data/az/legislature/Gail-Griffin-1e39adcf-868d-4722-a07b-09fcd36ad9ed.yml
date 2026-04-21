@@ -1,0 +1,54 @@
+id: ocd-person/1e39adcf-868d-4722-a07b-09fcd36ad9ed
+name: Gail Griffin
+given_name: Gail
+family_name: Griffin
+gender: Female
+email: ggriffin@azleg.gov
+image: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/GRIFFIN.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '19'
+- end_date: 2018-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '14'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '14'
+offices:
+- classification: capitol
+  address: Room 225, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-5895
+links:
+- url: https://www.azleg.gov/house-member/?legislature=55&legislator=2053
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2309
+- url: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1913
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2053
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2053
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2164
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2164
+- url: https://www.legistorm.com/bo.php/core_person/edit/core_person_id/189190
+other_names:
+- name: G. Griffin
+- name: Griffin, G.
+ids:
+  facebook: Gail-Griffin-161930173930830
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: AZL000110
+- scheme: legacy_openstates
+  identifier: AZL000221
+sources:
+- url: https://ballotpedia.org/Gail_Griffin
+- url: https://en.wikipedia.org/wiki/Gail_Griffin
+- url: https://justfacts.votesmart.org/candidate/biography/12274/gail-griffin
+- url: https://www.azleg.gov/house-member/?legislature=55&legislator=2053
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2309
+- url: https://www.azleg.gov/MemberRoster/?body=H
+- url: https://www.azleg.gov/memberroster/?body=H
+- url: https://www.legistorm.com/bo.php/core_person/edit/core_person_id/189190

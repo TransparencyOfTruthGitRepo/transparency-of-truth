@@ -1,0 +1,62 @@
+id: ocd-organization/7472c7bd-a335-44b1-9ee4-9e77124cb05b
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: 'Appropriations: Public Safety and Infrastructure'
+chamber: lower
+sources:
+- url: https://www.ilga.gov/house/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2883&GA=103
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3053&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3053
+links:
+- url: https://www.ilga.gov/house/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2883&GA=103
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3053&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3053
+members:
+- name: Rita Mayfield
+  role: chair
+  person_id: ocd-person/cb9d1283-1029-46cf-8507-1e7ed6937606
+- name: Barbara Hernandez
+  role: vice chair
+  person_id: ocd-person/fb481641-3999-4fe4-9bac-878becdde97d
+- name: John Cabello
+  role: republican spokesperson
+  person_id: ocd-person/b442db35-fab4-4318-a07b-0e88c314fbaa
+- name: Camille Lilly
+  role: member
+  person_id: ocd-person/a51455ff-b0ae-47f6-b3ee-2722adbe38c2
+- name: Dennis Tipsword
+  role: member
+  person_id: ocd-person/13dc4688-95d1-4a5d-abc7-fb9a46a432c8
+- name: Jason Bunting
+  role: member
+  person_id: ocd-person/4a588ccf-b32f-4b66-978a-3415f71d2774
+- name: Marti Deuter
+  role: member
+  person_id: ocd-person/035b25c2-e97c-413e-8d84-d5c618f6a2fa
+- name: Mary Beth Canty
+  role: member
+  person_id: ocd-person/48d73b90-0109-4fb2-8689-57e803c8294a
+- name: Sonya Harper
+  role: member
+  person_id: ocd-person/8a39d16f-edbf-454b-8a77-33030fa9a8c2
+- name: Travis Weaver
+  role: member
+  person_id: ocd-person/63883963-04b0-454c-8d18-81dcca230b55
+- name: Will Davis
+  role: member
+  person_id: ocd-person/fcc072f5-5cbc-4c8e-bc3d-e70b0e102878
+- name: Yolonda Morris
+  role: member
+  person_id: ocd-person/753dc145-9162-4e02-9b76-836be48498cb
+other_names:
+- name: 'Appropriations: Public Safety'
+- name: 'House Appropriations: Public Safety'
+- name: 'House Appropriations: Public Safety and Infrastructure'
+- name: 'House Appropriations: Public Safety and Infrastructure Committee'
+- name: 'House Appropriations: Public Safety Committee'
+- name: 'House Committee on Appropriations: Public Safety'
+- name: 'House Committee on Appropriations: Public Safety and Infrastructure'

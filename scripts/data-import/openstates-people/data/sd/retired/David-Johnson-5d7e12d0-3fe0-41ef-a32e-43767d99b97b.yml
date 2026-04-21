@@ -1,0 +1,24 @@
+id: ocd-person/5d7e12d0-3fe0-41ef-a32e-43767d99b97b
+name: David Johnson
+given_name: David
+family_name: Johnson
+email: David.Johnson@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Johnson_2017.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '33'
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1548&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1438&Session=2019
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000298
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1548&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1438&Session=2019
+extras:
+  occupation: Tree Nurseryman, Arborist, Commercial Pilot

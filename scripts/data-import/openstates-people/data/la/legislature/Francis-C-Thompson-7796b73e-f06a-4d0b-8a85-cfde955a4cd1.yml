@@ -1,0 +1,69 @@
+id: ocd-person/7796b73e-f06a-4d0b-8a85-cfde955a4cd1
+name: Francis Thompson
+given_name: Francis
+family_name: Thompson
+birth_date: 1941-10-29
+gender: Male
+email: thompsof@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep19.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-03-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '19'
+- end_date: 2020-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '19'
+  start_date: 2023-03-17
+- start_date: 2020-01-13
+  end_date: 2023-03-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '19'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district-mail
+  address: P.O. Box 68, Delhi, LA 71232
+  voice: 318-878-9408
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=19
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=19
+other_names:
+- name: F. Thompson
+- name: F.C. Thompson
+- name: Francis C. Thompson
+- name: Thompson, F.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000170
+- scheme: legacy_openstates
+  identifier: LAL000317
+- scheme: legacy_openstates
+  identifier: LAL000518
+- scheme: legacy_openstates
+  identifier: LAL000767
+- scheme: legacy_openstates
+  identifier: LAL000783
+sources:
+- url: https://ballotpedia.org/Francis_C._Thompson
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=19
+- url: https://house.louisiana.gov/H_Reps/members?ID=19
+- url: https://justfacts.votesmart.org/candidate/biography/4610/francis-thompson
+extras:
+  legislative assistant: Sharon Gilmore
+  representing parishes:
+  - East Carroll
+  - Madison
+  - Morehouse
+  - Ouachita
+  - Richland
+  - and West Carroll
+  education: Louisiana Technical University, B.S.; Northeast Louisiana University,
+    EdD; Northeast Louisiana University, Med; Louisiana Technical University, MS

@@ -1,0 +1,49 @@
+id: ocd-person/acff039b-0a83-4184-8b6b-7b051cfcdc77
+name: Bob Auth
+given_name: Bob
+family_name: Auth
+birth_date: 1956-07-04
+gender: Male
+email: asmauth@njleg.org
+image: https://www.njleg.state.nj.us/members/memberphotos/auth_robert_2017.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2014-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '39'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 84 Herbert Ave. Building A, Suite 103, Closter, NJ 07624
+  voice: 201-564-7420
+links:
+- url: https://www.njassemblygop.com/216/Robert-Auth
+- url: https://www.njassemblygop.com/auth/
+- url: https://www.njleg.state.nj.us/legislative-roster/366/assemblyman-auth
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=366
+other_names:
+- name: Auth, B.
+- name: Auth, Robert
+- name: B. Auth
+- name: R.J. Auth
+- name: Robert Auth
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000181
+sources:
+- url: https://ballotpedia.org/Robert_Auth
+- url: https://en.wikipedia.org/wiki/Robert_Auth
+- url: https://justfacts.votesmart.org/candidate/biography/144626/bob-auth
+- url: https://www.njassemblygop.com/216/Robert-Auth
+- url: https://www.njassemblygop.com/auth
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/366
+- url: https://www.njleg.state.nj.us/downloads.asp
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/366/assemblyman-auth
+- url: https://www.njleg.state.nj.us/members/abcroster.asp
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=366
+- url: https://www.njleg.state.nj.us/members/BIO.asp?Leg=366

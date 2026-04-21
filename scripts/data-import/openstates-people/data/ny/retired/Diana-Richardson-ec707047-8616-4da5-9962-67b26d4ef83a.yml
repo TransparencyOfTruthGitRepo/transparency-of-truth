@@ -1,0 +1,27 @@
+id: ocd-person/ec707047-8616-4da5-9962-67b26d4ef83a
+name: Diana C. Richardson
+given_name: Diana
+family_name: Richardson
+email: district43@nyassembly.gov
+image: https://assembly.state.ny.us/write/upload/member_files/043/headshot/043.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2022-02-04'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '43'
+  end_reason: Appointed Brooklyn deputy borough president
+links:
+- url: http://assembly.state.ny.us/mem/?sh=email
+- url: https://assembly.state.ny.us/mem/Diana-C-Richardson
+other_names:
+- name: Diana Richardson
+ids:
+  twitter: YourFavoriteASW
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000357
+sources:
+- url: http://assembly.state.ny.us/mem/Diana-C-Richardson
+- url: https://assembly.state.ny.us/mem/Diana-C-Richardson

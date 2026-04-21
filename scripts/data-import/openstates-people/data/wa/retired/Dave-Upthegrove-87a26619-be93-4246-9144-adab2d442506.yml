@@ -1,0 +1,20 @@
+id: ocd-person/87a26619-be93-4246-9144-adab2d442506
+name: Dave Upthegrove
+given_name: Dave
+family_name: Upthegrove
+image: http://www.leg.wa.gov/house/representatives/publishingimages/upthegrove.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '33'
+links:
+- url: http://www.leg.wa.gov/house/representatives/Pages/upthegrove.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000142
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/upthegrove.aspx

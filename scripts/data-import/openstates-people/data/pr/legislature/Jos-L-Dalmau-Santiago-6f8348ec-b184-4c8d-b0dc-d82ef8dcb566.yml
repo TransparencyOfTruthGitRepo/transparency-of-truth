@@ -1,0 +1,67 @@
+id: ocd-person/6f8348ec-b184-4c8d-b0dc-d82ef8dcb566
+name: "Jos\xE9 Dalmau Santiago"
+given_name: "Jos\xE9"
+family_name: Dalmau Santiago
+birth_date: 1966-09-19
+gender: Male
+email: jldalmau@senado.pr.gov
+image: https://senado.pr.gov/document_vault/senator/4/FourYearPeriods/7/photo/JOSE
+  L DALMAU.jpg
+party:
+- name: "Partido Popular Democr\xE1tico"
+roles:
+- start_date: 2021-01-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: At-Large
+- start_date: 2001-01-02
+  end_date: 2009-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: At-Large
+- start_date: 2009-01-02
+  end_date: 2013-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: At-Large
+- start_date: 2013-01-02
+  end_date: 2021-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: At-Large
+- end_date: 2020-12-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
+  district: VII
+offices:
+- classification: capitol
+  address: Senado, El Capitolio P.O. Box 9023431, San Juan, PR 00902
+  voice: 787-724-2030
+links:
+- url: https://senado.pr.gov/Pages/Senators/HON--JOSE-L--DALMAU-SANTIAGO.aspx
+- url: https://senado.pr.gov/senators/hon-jos%C3%A9-l-dalmau-santiago
+- url: "https://senado.pr.gov/senators/hon-jos\xE9-l-dalmau-santiago"
+  note: homepage
+- url: https://www.senado.pr.gov/hon-jos%C3%A9-l-dalmau-santiago
+other_names:
+- name: Dalmau Santiago, J.
+- name: J. Dalmau Santiago
+- name: J.L. Dalmau Santiago
+- name: "Jos\xE9 L. Dalmau Santiago"
+- name: "JOS\xE9 L. DALMAU SANTIAGO"
+- name: "Jos\xE9 Luis Dalmau Santiago"
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PRL000293
+- scheme: legacy_openstates
+  identifier: PRL000300
+- scheme: openstates
+  identifier: ocd-person/2465e317-75a4-4e38-97c6-b9958ed8a457
+sources:
+- url: https://ballotpedia.org/Jos%C3%A9_Dalmau_Santiago
+- url: https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Dalmau
+- url: https://senado.pr.gov/index.cfm?module=senadores
+- url: https://senado.pr.gov/Pages/Senators/HON--JOSE-L--DALMAU-SANTIAGO.aspx
+- url: https://senado.pr.gov/senators/hon-jos%C3%A9-l-dalmau-santiago
+- url: "https://senado.pr.gov/senators/hon-jos\xE9-l-dalmau-santiago"
+- url: https://www.senado.pr.gov/hon-jos%C3%A9-l-dalmau-santiago

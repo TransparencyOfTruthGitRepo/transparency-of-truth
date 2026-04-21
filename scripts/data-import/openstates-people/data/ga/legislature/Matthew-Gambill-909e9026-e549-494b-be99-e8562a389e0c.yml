@@ -1,0 +1,62 @@
+id: ocd-person/909e9026-e549-494b-be99-e8562a389e0c
+name: Matthew Gambill
+given_name: Matthew
+family_name: Gambill
+birth_date: 1981-02-27
+gender: Male
+email: matthew.gambill@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/gambill-matthew-4934.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '15'
+offices:
+- classification: capitol
+  address: State Capitol Room 109, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-651-7737
+- classification: district-mail
+  address: P.O. Box 487, Cartersville, GA 30120
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4934&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4934
+- url: https://www.legis.ga.gov/members/house/4934?session=1029
+- url: https://www.legis.ga.gov/members/house/4934?session=1031
+  note: HTML member detail page
+other_names:
+- name: GAMBILL, 15TH
+- name: Gambill, M.
+- name: M. Gambill
+- name: M.H. Gambill
+- name: Matthew Gambill
+- name: Matthew Harris Gambill
+sources:
+- url: https://ballotpedia.org/Matthew_Gambill
+- url: https://en.wikipedia.org/wiki/Matthew_Gambill
+- url: https://justfacts.votesmart.org/candidate/biography/178719/matthew-gambill
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4934&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4934?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4934?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4934
+- url: https://www.legis.ga.gov/members/house/4934?session=1029
+- url: https://www.linkedin.com/in/matthew-gambill-64929726
+extras:
+  residence: Cartersville
+  city: Cartersville
+  georgia_id: 4934
+  birthday: February 27
+  occupation: Insurance
+  press: https://house-press.com/representative/Matthew-Gambill
+  spouse: Danae
+  staff: Madison Spangler-McDonald - Administrative Assistant
+  staff email: madison.spangler-mcdonald@house.ga.gov
+  title: Governor's Floor Leader

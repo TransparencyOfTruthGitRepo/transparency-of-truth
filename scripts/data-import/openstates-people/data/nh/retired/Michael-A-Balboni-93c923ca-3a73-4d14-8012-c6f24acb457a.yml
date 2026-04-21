@@ -1,0 +1,20 @@
+id: ocd-person/93c923ca-3a73-4d14-8012-c6f24acb457a
+name: Michael A Balboni
+given_name: Michael
+family_name: Balboni
+middle_name: A
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 21
+links:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376301
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000036
+sources:
+- url: http://gencourt.state.nh.us/downloads/Members(Asterisk%20Delimited).txt

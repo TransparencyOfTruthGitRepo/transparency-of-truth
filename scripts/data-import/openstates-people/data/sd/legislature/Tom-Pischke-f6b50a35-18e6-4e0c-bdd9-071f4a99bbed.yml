@@ -1,0 +1,54 @@
+id: ocd-person/f6b50a35-18e6-4e0c-bdd9-071f4a99bbed
+name: Tom Pischke
+given_name: Tom
+family_name: Pischke
+birth_date: 1982-05-04
+gender: Male
+email: tom.pischke@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Pischke_2017.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '25'
+- start_date: 2017-01-10
+  end_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '25'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3821
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1446&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1543&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Profile/1837/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4404/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4653/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4803/Detail
+other_names:
+- name: Pischke, T.
+- name: T. Pischke
+- name: Tom C. Pischke
+- name: Tom Pischke
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000316
+- scheme: openstates
+  identifier: ocd-person/84e7ecf1-c053-4bf1-9561-efa39f32006a
+sources:
+- url: https://ballotpedia.org/Tom_Pischke
+- url: https://en.wikipedia.org/wiki/Tom_Pischke
+- url: https://justfacts.votesmart.org/candidate/biography/169854/tom-pischke
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1446&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1543&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Profile/1837/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4404/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4653/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4803/Detail
+- url: https://www.linkedin.com/in/tom-pischke-5561a990
+extras:
+  occupation: Insurance

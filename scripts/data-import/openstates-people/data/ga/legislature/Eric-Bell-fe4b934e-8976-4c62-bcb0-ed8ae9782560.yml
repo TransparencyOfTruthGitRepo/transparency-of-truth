@@ -1,0 +1,52 @@
+id: ocd-person/fe4b934e-8976-4c62-bcb0-ed8ae9782560
+name: Eric Bell
+given_name: Eric
+family_name: Bell
+gender: Male
+email: eric.bell@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/bell-eric-5061.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-03-27
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '75'
+offices:
+- classification: capitol
+  address: Room 411-D, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0126
+- classification: district
+  address: Jonesboro, GA
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5061
+- url: https://www.legis.ga.gov/members/house/5061?session=1031
+  note: HTML member detail page
+other_names:
+- name: BELL, 75TH
+- name: Bell, E.
+- name: E. Bell
+- name: E.W. Bell
+- name: Eric Bell
+- name: Eric W. Bell
+sources:
+- url: https://ballotpedia.org/Eric_Bell_II_(Georgia)
+- url: https://en.wikipedia.org/wiki/Eric_Bell_II
+- url: https://justfacts.votesmart.org/candidate/biography/211596/eric-bell
+- url: https://www.bellforus.com/meeteric
+- url: https://www.legis.ga.gov/api/members/detail/5061?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5061
+- url: https://www.linkedin.com/in/ericwbell
+extras:
+  residence: Jonesboro
+  city: Jonesboro
+  georgia_id: 5061
+  press: https://house-press.com/representative/Eric-Bell
+  staff: Angela Nichols - Administrative Assistant
+  staff email: angela.nichols@house.ga.gov

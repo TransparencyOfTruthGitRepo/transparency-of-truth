@@ -1,0 +1,33 @@
+id: ocd-person/0065fe7b-08cf-4d17-b358-c0c04ab45616
+name: Dick Fascia
+given_name: Dick
+family_name: Fascia
+birth_date: 1956-11-26
+gender: Male
+email: rep-fascia@rilegislature.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Richard_Fascia_20240808_092707.png
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '42'
+offices:
+- classification: capitol
+  address: 82 Smith St., Providence, RI 02903
+  voice: 401-222-3580
+- classification: district
+  address: 20 Jasmine Lane, Johnston, RI 02919
+  voice: 401-903-0314
+links:
+- url: https://rilegislature.gov/representatives/Fascia/Pages/Biography.aspx
+other_names:
+- name: D. Fascia
+- name: Fascia, D.
+- name: R.R. Fascia
+sources:
+- url: https://ballotpedia.org/Richard_Fascia
+- url: https://justfacts.votesmart.org/candidate/biography/126105/richard-fascia
+- url: https://rilegislature.gov/representatives/Fascia/Pages/Biography.aspx
+- url: https://www.linkedin.com/in/richard-fascia-a0436422

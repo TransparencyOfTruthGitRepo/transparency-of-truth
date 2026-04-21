@@ -1,0 +1,44 @@
+id: ocd-person/7074c9f6-6a8e-4c63-b0b3-ae43b9cfba0d
+name: Dave Craven
+given_name: Dave
+family_name: Craven
+gender: Male
+email: david.craven@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/S/423/Low
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '29'
+- start_date: 2020-07-17
+  end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room 2108, North Carolina Legislative Building 16 W. Jones St., Raleigh,
+    NC 27601
+  voice: 919-733-5870
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/423
+- url: https://www.ncleg.gov/Members/Committees/S/423
+- url: https://www.ncleg.gov/Members/IntroducedBills/S/423
+- url: https://www.ncleg.gov/Members/Votes/S/423
+other_names:
+- name: Craven, D.
+- name: D. Craven
+- name: D.W. Craven
+- name: David W. Craven Jr.
+- name: David W. Craven, Jr.
+sources:
+- url: https://www.linkedin.com/in/dave-craven-b6b088a4
+- url: https://www.ncleg.gov/Members/Biography/S/423
+- url: https://www.ncleg.gov/Members/MemberTable/S
+extras:
+  terms in senate: 2+ (0 in House)
+  represented counties: Anson, Montgomery, Randolph, Richmond, Union
+  legislative assistant: Suzanne Castleberry
+  legislative assistant email: Suzanne.Castleberry@ncleg.gov

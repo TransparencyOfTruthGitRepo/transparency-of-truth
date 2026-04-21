@@ -1,0 +1,35 @@
+id: ocd-person/f086a8e8-70ea-40bc-a77f-2012b74f3a00
+name: Ken Gucker
+given_name: Ken
+family_name: Gucker
+birth_date: 1964-09-14
+gender: Male
+email: ken.gucker@cga.ct.gov
+party:
+- name: Democratic/Working Families
+roles:
+- start_date: 2025-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '138'
+- start_date: 2019-01-09
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '138'
+offices:
+- classification: capitol
+  address: Room 4052, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 800-842-8267
+links:
+- url: https://www.housedems.ct.gov/gucker
+other_names:
+- name: Gucker, K.
+- name: K. Gucker
+- name: K.M. Gucker
+- name: Kenneth Gucker
+sources:
+- url: https://ballotpedia.org/Kenneth_Gucker
+- url: https://en.wikipedia.org/wiki/Ken_Gucker
+- url: https://justfacts.votesmart.org/candidate/biography/172359/kenneth-gucker
+- url: https://www.housedems.ct.gov/gucker

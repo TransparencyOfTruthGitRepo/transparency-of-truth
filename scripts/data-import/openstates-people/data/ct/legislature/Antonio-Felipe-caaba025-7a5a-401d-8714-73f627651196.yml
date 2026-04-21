@@ -1,0 +1,43 @@
+id: ocd-person/caaba025-7a5a-401d-8714-73f627651196
+name: Tone Felipe
+given_name: Tone
+family_name: Felipe
+birth_date: 1996-02-02
+gender: Male
+email: antonio.felipe@cga.ct.gov
+image: http://www2.housedems.ct.gov/Felipe/images/Felipe_HS.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-05-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '130'
+offices:
+- classification: capitol
+  address: Room 1801, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8585
+links:
+- url: https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27130%27&dist_name=Felipe,%20Antonio
+- url: https://www.housedems.ct.gov/felipe
+other_names:
+- name: A. Felipe
+- name: A.D. Felipe
+- name: Antonio Felipe
+- name: Felipe, A.
+- name: Felipe, Antonio
+- name: Felipe, T.
+- name: T. Felipe
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Antonio_Felipe
+- url: https://en.wikipedia.org/wiki/Antonio_Felipe
+- url: https://justfacts.votesmart.org/candidate/biography/186463/antonio-felipe
+- url: https://www.housedems.ct.gov/felipe
+- url: https://www.linkedin.com/in/antonio-felipe-8810aa157
+extras:
+  gender: Male
+  title: Deputy Majority Leader
+  committees: Appropriations; Education; Environment
+  committee codes: ;APP;ED;ENV;
+  prison: '0'

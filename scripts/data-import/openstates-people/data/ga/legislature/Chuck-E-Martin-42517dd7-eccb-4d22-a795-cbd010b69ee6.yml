@@ -1,0 +1,67 @@
+id: ocd-person/42517dd7-eccb-4d22-a795-cbd010b69ee6
+name: Chuck Martin
+given_name: Chuck
+family_name: Martin
+birth_date: 1961-07-20
+gender: Male
+email: chuck.martin@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/martin-chuck-164.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '49'
+offices:
+- classification: capitol
+  address: State Capitol Room 417-A, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-5146
+- classification: district
+  address: 11770 Haynes Bridge Road Suite 205-544, Alpharetta, GA 30004
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=164&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/164
+- url: https://www.legis.ga.gov/members/house/164?session=1029
+- url: https://www.legis.ga.gov/members/house/164?session=1031
+  note: HTML member detail page
+other_names:
+- name: C. Martin
+- name: C.E. Martin
+- name: Charles E. Martin
+- name: Charles Martin
+- name: Chuck Martin
+- name: MARTIN, 49TH
+- name: Martin, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000159
+- scheme: legacy_openstates
+  identifier: GAL000327
+sources:
+- url: https://ballotpedia.org/Charles_Martin_Jr.
+- url: https://en.wikipedia.org/wiki/Chuck_Martin_(politician)
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=164&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/164?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/164?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/164
+- url: https://www.legis.ga.gov/members/house/164?session=1029
+- url: https://www.linkedin.com/in/chuck-martin-4901aa2
+extras:
+  residence: Alpharetta
+  city: Alpharetta
+  georgia_id: 164
+  birthday: July 20
+  occupation: Director, Ryan
+  press: https://house-press.com/representative/Charles-Martin
+  spouse: Johnna
+  staff: Brittany Valentine - Administrative Assistant
+  staff email: brittany.valentine@house.ga.gov
+  title: Chairman, Higher Education

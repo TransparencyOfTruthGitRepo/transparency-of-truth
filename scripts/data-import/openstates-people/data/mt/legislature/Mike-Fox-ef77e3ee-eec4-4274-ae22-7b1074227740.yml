@@ -1,0 +1,46 @@
+id: ocd-person/ef77e3ee-eec4-4274-ae22-7b1074227740
+name: Mike Fox
+given_name: Mike
+family_name: Fox
+gender: Male
+email: michael.fox@legmt.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '32'
+- start_date: 2021-01-04
+  end_date: 2025-01-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '32'
+- start_date: 2021-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '16'
+  end_date: 2025-01-06
+offices:
+- classification: capitol
+  address: Capitol Building, 1301 E. 6th Ave. P.O. Box 200400, Helena, MT 59620
+  voice: 406-444-4800
+- classification: district-mail
+  address: P.O. Box 442, Hays, MT 59527
+links:
+- url: https://leg.mt.gov/legislator-information/roster/individual/6817
+- url: https://leg.mt.gov/legislator-information/roster/individual/7509
+- url: https://legislators.legmt.gov/#/legislator/136
+- url: https://www.legmt.gov/legislators/1344/
+other_names:
+- name: Fox, M.
+- name: Fox, Mike
+- name: M. Fox
+sources:
+- url: https://ballotpedia.org/Mike_Fox
+- url: https://en.wikipedia.org/wiki/Mike_Fox_(politician)
+- url: https://leg.mt.gov/legislator-information/roster/individual/6817
+- url: https://leg.mt.gov/legislator-information/roster/individual/7509
+- url: https://legislators.legmt.gov/#/legislator/136
+- url: https://www.legmt.gov/legislators/1344
+- url: https://www.linkedin.com/in/mike-fox-28b98b28

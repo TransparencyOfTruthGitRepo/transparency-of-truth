@@ -1,0 +1,69 @@
+id: ocd-organization/63191979-ab9b-4fe2-bbdb-24c9053a4d68
+jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+classification: committee
+name: Finance
+chamber: lower
+sources:
+- url: https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HFIN&CommitteeName=Finance
+- url: https://webserver.rilegislature.gov/ComMembers/ComMemr.asp?ComChoiceR=HFIN
+- url: https://webserver.rilin.state.ri.us/ComMembers/ComMemr.asp?ComChoiceR=HFIN
+- url: https://www.rilegislature.gov/pages/committees.aspx
+links:
+- url: https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HFIN&CommitteeName=Finance
+- url: https://webserver.rilegislature.gov/ComMembers/ComMemr.asp?ComChoiceR=HFIN
+  note: homepage
+- url: https://webserver.rilin.state.ri.us/ComMembers/ComMemr.asp?ComChoiceR=HFIN
+members:
+- name: Marvin Abney
+  role: chair
+  person_id: ocd-person/ed735cca-8f53-4304-a1ec-9e212744ec17
+- name: Scott Slater
+  role: first vice chair
+  person_id: ocd-person/1cd78f67-6adb-47c6-98cd-f49ca8eb603f
+- name: Alex Marszalkowski
+  role: second vice chair
+  person_id: ocd-person/7769ff96-3f6e-4747-b14b-de0a8648af61
+- name: Alex Finkelman
+  role: member
+  person_id: ocd-person/202a1def-abb3-4f77-8ef1-5c453d2d5423
+- name: Bill O'Brien
+  role: member
+  person_id: ocd-person/4352dbd3-90e5-4cf3-9bf6-accff7592c33
+- name: George Nardone
+  role: member
+  person_id: ocd-person/5d976bb8-2481-45d2-bae9-df4b565d9526
+- name: Grace Diaz
+  role: member
+  person_id: ocd-person/44424388-03a6-452b-992b-3c082949f62f
+- name: Jackie Baginski
+  role: member
+  person_id: ocd-person/c2b18728-5409-42b0-a789-d7f5bd717780
+- name: Jay Edwards
+  role: member
+  person_id: ocd-person/85b2ef21-1f02-4d9e-9f74-a40a2e942f7c
+- name: Karen Alzate
+  role: member
+  person_id: ocd-person/016b40cf-1be0-4e66-acdf-78a029822e1c
+- name: Nathan Biah
+  role: member
+  person_id: ocd-person/39bdc05c-bda5-4ea9-b4ad-4cc7172adf56
+- name: Raymond Hull
+  role: member
+  person_id: ocd-person/da9a4b15-1cbf-4645-bd98-58ce413b68e1
+- name: Sherry Roberts
+  role: member
+  person_id: ocd-person/6c7285bd-fdd3-4629-be6f-4a01d19e9c25
+- name: Teresa Tanzi
+  role: member
+  person_id: ocd-person/bdccc3f1-4b2d-4f64-8653-ada4322d6a10
+- name: Terri Cortvriend
+  role: member
+  person_id: ocd-person/0e459c44-8d77-408e-9db6-c0e0b79274fd
+other_names:
+- name: House Committee on Finance
+- name: House Finance
+- name: House Finance Committee
+extras:
+  Clerk: Christopher O'Brien
+  Phone: 222-6916
+  Email: HouseFinance@rilegislature.gov

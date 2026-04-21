@@ -1,0 +1,47 @@
+id: ocd-person/88861a7f-ca46-4ed7-a053-0d463cca48e0
+name: Justin Bamberg
+given_name: Justin
+family_name: Bamberg
+birth_date: 1987-03-07
+gender: Male
+email: justinbamberg@schouse.gov
+image: https://scstatehouse.gov/images/members/0102840897.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2014-11-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '90'
+offices:
+- classification: capitol
+  address: Room 335C, Blatt Building P.O. Box 11867, Columbia, SC 29201
+  voice: 803-212-6907
+links:
+- url: https://scstatehouse.gov/member.php?code=0102840897
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=0102840897
+  note: homepage
+other_names:
+- name: Bamberg, J.
+- name: Bamberg, Justin
+- name: Bamberg, Justin T.
+- name: J. Bamberg
+- name: J.T. Bamberg
+- name: Justin T. Bamberg
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000225
+- scheme: legacy_openstates
+  identifier: SCL000232
+sources:
+- url: https://ballotpedia.org/Justin_Bamberg
+- url: https://en.wikipedia.org/wiki/Justin_Bamberg
+- url: https://justfacts.votesmart.org/candidate/biography/152607/justin-bamberg
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=0102840897
+- url: https://www.linkedin.com/in/justinbamberg
+- url: https://www.scstatehouse.gov/member.php?chamber=H
+- url: https://www.scstatehouse.gov/member.php?code=0102840897
+extras:
+  counties represented: Bamberg & Orangeburg Counties

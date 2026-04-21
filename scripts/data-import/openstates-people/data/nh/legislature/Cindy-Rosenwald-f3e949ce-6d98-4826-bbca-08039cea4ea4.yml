@@ -1,0 +1,60 @@
+id: ocd-person/f3e949ce-6d98-4826-bbca-08039cea4ea4
+name: Cindy Rosenwald
+given_name: Cindy
+family_name: Rosenwald
+birth_date: 1954-04-23
+gender: Female
+email: cindy.rosenwald@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/50355.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2018-12-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '13'
+- start_date: 2004-12-01
+  end_date: 2018-12-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '13'
+- end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 30
+offices:
+- classification: capitol
+  address: Room 120, State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3207
+links:
+- url: https://gc.nh.gov/senate/members/webpages/district13.aspx
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/senate/members/webpages/district13.aspx
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/Senate/members/webpages/district13.aspx
+  note: homepage
+other_names:
+- name: C. Rosenwald
+- name: L. Rosenwald
+- name: Lucinda Rosenwald
+- name: Rosenwald, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000326
+- scheme: legacy_openstates
+  identifier: NHL000714
+- scheme: openstates
+  identifier: ocd-person/3ca76f7b-e7c4-40c0-ab15-fe06d6b1cafd
+sources:
+- url: https://ballotpedia.org/Lucinda_Rosenwald
+- url: https://en.wikipedia.org/wiki/Cindy_Rosenwald
+- url: https://gc.nh.gov/senate/members/webpages/district13.aspx
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/senate/members/webpages/district13.aspx
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/Senate/members/webpages/district13.aspx
+extras:
+  county: Hillsborough
+  elected status: Incumbent
+  gender code: F

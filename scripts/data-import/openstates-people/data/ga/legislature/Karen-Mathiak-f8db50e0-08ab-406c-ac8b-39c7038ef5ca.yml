@@ -1,0 +1,73 @@
+id: ocd-person/f8db50e0-08ab-406c-ac8b-39c7038ef5ca
+name: Karen Mathiak
+given_name: Karen
+family_name: Mathiak
+birth_date: 1955-11-06
+gender: Female
+email: karen.mathiak@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/mathiak-karen-4894.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '82'
+- start_date: 2023-01-09
+  end_date: 2025-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '74'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '73'
+offices:
+- classification: capitol
+  address: Room 508-D, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0213
+- classification: district
+  address: 127 Dunwoody Circle, Griffin, GA 30223
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4894&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4894
+- url: https://www.legis.ga.gov/members/house/4894?session=1029
+- url: https://www.legis.ga.gov/members/house/4894?session=1031
+  note: HTML member detail page
+other_names:
+- name: K. Mathiak
+- name: K.I. Mathiak
+- name: MATHIAK, 82ND
+- name: Mathiak, K.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000461
+sources:
+- url: https://ballotpedia.org/Karen_Mathiak
+- url: https://en.wikipedia.org/wiki/Karen_Mathiak
+- url: https://justfacts.votesmart.org/candidate/biography/168333/karen-mathiak
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4894&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4894?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4894?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4894
+- url: https://www.legis.ga.gov/members/house/4894?session=1029
+- url: https://www.linkedin.com/in/karen-mathiak-b3b25a5
+extras:
+  residence: Griffin
+  city: Griffin
+  georgia_id: 4894
+  birthday: November 6
+  occupation: Chiropractor
+  press: https://house-press.com/representative/Karen-Mathiak
+  spouse: Marty
+  staff: Sarah Lutterbie - Administrative Assistant
+  staff email: sarah.lutterbie@house.ga.gov
+  title: Chairman, State Planning & Community Affairs

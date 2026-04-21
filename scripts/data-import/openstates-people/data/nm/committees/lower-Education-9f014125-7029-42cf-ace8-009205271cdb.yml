@@ -1,0 +1,55 @@
+id: ocd-organization/9f014125-7029-42cf-ace8-009205271cdb
+jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+classification: committee
+name: Education
+chamber: lower
+sources:
+- url: https://www.nmlegis.gov/Committee/
+  note: Committee Page from nmlegis.gov site
+- url: https://www.nmlegis.gov/Committee/Standing_Committee?CommitteeCode=HEC
+links:
+- url: https://www.nmlegis.gov/Committee/Standing_Committee?CommitteeCode=HEC
+members:
+- name: "Andr\xE9s Romero"
+  role: chair
+  person_id: ocd-person/5cf6976d-e616-4579-a194-ec3c37260ebd
+- name: Joy Garratt
+  role: vice chair
+  person_id: ocd-person/930a9ffb-d292-49d5-8c43-c42bdab290ff
+- name: Brian Baca
+  role: ranking member
+  person_id: ocd-person/05f3609c-c2a6-42fc-bf6a-5141f8050ff8
+- name: Anita Gonzales
+  role: member
+  person_id: ocd-person/ee127909-55b5-4854-b3c6-2e45e19b7156
+- name: Catherine Cullen
+  role: member
+  person_id: ocd-person/35f36593-4252-4205-b123-cc7236e96954
+- name: "Diane Torres-Vel\xE1squez"
+  role: member
+  person_id: ocd-person/c8e6de13-632b-4e09-8d1f-ff8ab2431acc
+- name: Harlan Vincent
+  role: member
+  person_id: ocd-person/e7e8e973-411b-45fd-8fd7-7e4ea7d9f1be
+- name: Jack Chatfield
+  role: member
+  person_id: ocd-person/c41b373a-7376-4084-b0de-3648cfce9b05
+- name: Martha Garcia
+  role: member
+  person_id: ocd-person/fb0443f9-b6d7-4b3b-a87e-0d8b143ed64b
+- name: Pat Roybal Caballero
+  role: member
+  person_id: ocd-person/20dc90cf-7805-4609-8631-45db1973cd5c
+- name: Ray Lara
+  role: member
+  person_id: ocd-person/e8d69d4c-dfd4-4e22-939a-cc356ba7ac05
+- name: Tanya Moya
+  role: member
+  person_id: ocd-person/f2394325-2797-4403-8f77-7f4dd3db0bb9
+- name: Yanira Gurrola
+  role: member
+  person_id: ocd-person/bc947ac1-c584-4e5f-84a9-ea9f6ac959c6
+other_names:
+- name: House Committee on Education
+- name: House Education
+- name: House Education Committee

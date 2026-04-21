@@ -1,0 +1,47 @@
+id: ocd-person/1e9d742c-c20b-45cf-9e22-e7752189fa7a
+name: Sean Garballey
+given_name: Sean
+family_name: Garballey
+birth_date: 1985-02-22
+gender: Male
+email: sean.garballey@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/S_G1.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 23rd Middlesex
+  start_date: 2011-01-01
+offices:
+- classification: capitol
+  address: Room 540, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2090
+  fax: 617-722-2848
+links:
+- url: https://malegislature.gov/Legislators/Profile/S_G1
+other_names:
+- name: Garballey, S.
+- name: S. Garballey
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000459
+- scheme: legacy_openstates
+  identifier: MAL000100
+- scheme: openstates
+  identifier: ocd-person/dda2082e-88b7-417b-b61b-1a69b2264f6d
+sources:
+- url: https://ballotpedia.org/Sean_Garballey
+- url: https://en.wikipedia.org/wiki/Sean_Garballey
+- url: https://justfacts.votesmart.org/candidate/biography/103921/sean-garballey
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/S_G1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/S_G1
+- url: https://malegislature.gov/Legislators/Profile/S_G1
+- url: https://seangarballey.wordpress.com
+- url: https://www.linkedin.com/in/sean-garballey-b5b5a313b
+extras:
+  member code: S_G1

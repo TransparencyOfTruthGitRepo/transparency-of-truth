@@ -1,0 +1,49 @@
+id: ocd-organization/0c369a49-5b86-406d-a930-56144c8b8788
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: Economic Opportunity and Equity
+chamber: lower
+sources:
+- url: https://www.ilga.gov/house/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2934&GA=103
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3101&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3101
+links:
+- url: https://www.ilga.gov/house/committees/default.asp
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=2934&GA=103
+  note: homepage
+- url: https://www.ilga.gov/house/committees/members.asp?CommitteeID=3101&GA=104
+- url: https://www.ilga.gov/House/Committees/Members/3101
+members:
+- name: Will Guzzardi
+  role: chair
+  person_id: ocd-person/df11068d-eb77-4eb8-90c8-95056891e633
+- name: Carol Ammons
+  role: vice chair
+  person_id: ocd-person/bc409660-f360-4624-914f-ba785bbf9b7b
+- name: Chris Miller
+  role: republican spokesperson
+  person_id: ocd-person/f5a10a95-3160-4cac-9f4e-ba31e5362e7b
+- name: C.D. Davidsmeyer
+  role: member
+  person_id: ocd-person/384c08f3-49fd-45a7-bb7b-5689bdeae7a7
+- name: Dee Avelar
+  role: member
+  person_id: ocd-person/4c05af2c-7756-4002-a45d-cc9f2f5acbfd
+- name: Lisa Davis
+  role: member
+  person_id: ocd-person/607e0b8f-4f4a-46ae-bfac-24b179d67542
+- name: Nick Smith
+  role: member
+  person_id: ocd-person/a5e32db2-c1a9-4b4a-b42e-d2d541bd5825
+- name: Regan Deering
+  role: member
+  person_id: ocd-person/8d81a4e9-f895-4a60-8064-2ddd2bd785c8
+- name: Sharon Chung
+  role: member
+  person_id: ocd-person/95032a7e-18c4-40be-b89f-1f61b132533a
+other_names:
+- name: House Committee on Economic Opportunity and Equity
+- name: House Economic Opportunity and Equity
+- name: House Economic Opportunity and Equity Committee

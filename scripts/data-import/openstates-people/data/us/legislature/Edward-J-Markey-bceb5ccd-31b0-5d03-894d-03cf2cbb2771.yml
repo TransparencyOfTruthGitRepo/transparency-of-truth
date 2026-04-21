@@ -1,0 +1,190 @@
+id: ocd-person/bceb5ccd-31b0-5d03-894d-03cf2cbb2771
+name: Ed Markey
+given_name: Ed
+family_name: Markey
+birth_date: 1946-07-11
+gender: Male
+email: https://www.markey.senate.gov/contact
+image: https://unitedstates.github.io/images/congress/450x550/M000133.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-07-16
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Massachusetts
+- start_date: 2015-01-06
+  end_date: 2021-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Massachusetts
+- start_date: 2013-07-16
+  end_date: 2015-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Massachusetts
+- start_date: 2013-01-03
+  end_date: 2013-07-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-5
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 2009-01-06
+  end_date: 2011-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 2007-01-04
+  end_date: 2009-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 2005-01-04
+  end_date: 2007-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 2003-01-07
+  end_date: 2005-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 2001-01-03
+  end_date: 2003-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 1999-01-06
+  end_date: 2001-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 1997-01-07
+  end_date: 1999-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 1995-01-04
+  end_date: 1997-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 1993-01-05
+  end_date: 1995-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 1991-01-03
+  end_date: 1993-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 1989-01-03
+  end_date: 1991-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 1987-01-06
+  end_date: 1989-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 1985-01-03
+  end_date: 1987-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 1983-01-03
+  end_date: 1985-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 1981-01-05
+  end_date: 1983-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 1979-01-15
+  end_date: 1981-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 1977-01-04
+  end_date: 1979-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+- start_date: 1975-01-14
+  end_date: 1977-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: MA-7
+offices:
+- classification: capitol
+  address: 255 Dirksen Senate Office Building, Washington, DC 20510
+  voice: 202-224-2742
+- classification: capitol
+  address: 975 John F. Kennedy Federal Building 15 New Sudbury St., Boston, MA 02203
+  voice: 617-565-8519
+- classification: district
+  address: 1550 Main St. 4th Floor, Springfield, MA 01103
+  voice: 413-785-4610
+links:
+- url: https://www.markey.senate.gov
+  note: website
+- url: https://www.markey.senate.gov/
+- url: https://www.markey.senate.gov/contact
+  note: contact form
+other_names:
+- name: E. Markey
+- name: E.J. Markey
+- name: Edward J. Markey
+- name: Markey, E.
+ids:
+  twitter: SenMarkey
+  youtube: UCT1ujew5yQy2uMhGrjiKHoA
+  facebook: EdJMarkey
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Ed Markey
+- scheme: bioguide
+  identifier: M000133
+- scheme: cspan
+  identifier: '260'
+- scheme: fec
+  identifier: H6MA07101
+- scheme: google_entity_id
+  identifier: kg:/m/028vr4
+- scheme: govtrack
+  identifier: '400253'
+- scheme: house_history
+  identifier: '17493'
+- scheme: icpsr
+  identifier: '14435'
+- scheme: lis
+  identifier: S369
+- scheme: maplight
+  identifier: '351'
+- scheme: opensecrets
+  identifier: N00000270
+- scheme: pictorial
+  identifier: '13363'
+- scheme: thomas
+  identifier: '00735'
+- scheme: votesmart
+  identifier: '26900'
+- scheme: wikidata
+  identifier: Q1282411
+sources:
+- url: https://ballotpedia.org/Edward_Markey
+- url: https://en.wikipedia.org/wiki/Ed_Markey
+- url: https://justfacts.votesmart.org/candidate/biography/26900/ed-markey
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/edward_markey/400253
+- url: https://www.markey.senate.gov

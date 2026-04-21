@@ -1,0 +1,51 @@
+id: ocd-person/fd1a4542-8537-4af3-90c8-4052be561c66
+name: Donnie Bell
+given_name: Donnie
+family_name: Bell
+birth_date: 1963-03-03
+gender: Male
+email: dbell@house.ms.gov
+image: https://billstatus.ls.state.ms.us/members/house/bell_(21st).jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-11-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '21'
+- start_date: 2008-01-08
+  end_date: 2011-11-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '21'
+offices:
+- classification: capitol
+  address: State Capitol Room 400-A, 400 High St., Jackson, MS 39201
+  voice: 601-359-3396
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/bell_(21st).xml
+  note: homepage
+other_names:
+- name: Bell (21st)
+- name: Bell, D.
+- name: D. Bell
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000097
+sources:
+- url: https://ballotpedia.org/Donnie_Bell
+- url: https://billstatus.ls.state.ms.us/members/house/bell_(21st).xml
+- url: https://billstatus.ls.state.ms.us/members/hr_membs.xml
+- url: https://en.wikipedia.org/wiki/Donnie_Bell
+- url: https://justfacts.votesmart.org/candidate/biography/69899/donnie-bell
+- url: https://www.linkedin.com/in/donnie-bell-7b961a113
+extras:
+  occupation: Teacher
+  education:
+  - Itawamba Community College
+  - Mississippi State University, B.S.
+  counties represented:
+  - Itawamba
+  - Tishomingo

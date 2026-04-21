@@ -1,0 +1,22 @@
+id: ocd-person/79c9ee67-90b5-4a2b-80c8-3d258e99b9bd
+name: Patrick A Kirschman
+given_name: Patrick
+family_name: Kirschman
+middle_name: A
+image: http://legis.sd.gov/img/Legislators/KIRSCHMAN_PATRICK_A_2015.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '15'
+links:
+- url: http://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=982&Session=2016
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SDL000067
+sources:
+- url: http://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=982&Session=2016
+- url: http://legis.sd.gov/Legislators/Legislators/MemberCommittees.aspx?Member=982&Session=2016

@@ -1,0 +1,53 @@
+id: ocd-person/ea2a9403-248c-4474-aea0-47b45265e0be
+name: Angelica Rubio
+given_name: Angelica
+family_name: Rubio
+birth_date: 1979-05-30
+gender: Female
+email: angelica.rubio@nmlegis.gov
+image: https://www.nmlegis.gov/Images/Legislators/House/HRUBI.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-17
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '35'
+offices:
+- classification: capitol
+  address: State Capitol Room 204B, New Mexico  490 Old Santa Fe Trail, Santa Fe,
+    NM 87501
+  voice: 505-986-4210
+- classification: district-mail
+  address: P.O. Box 2155, Las Cruces, NM 88004
+links:
+- url: https://www.linkedin.com/in/angelicarubio/
+  note: linkedin
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HRUBI
+  note: homepage
+- url: https://www.youtube.com/channel/UC2VFQSuJ2XNJylakavA0EMw
+  note: youtube
+other_names:
+- name: A. Rubio
+- name: A.M. Rubio
+- name: Angelica M. Rubio
+- name: Rubio, A.
+- name: Rubio, Angelica
+ids:
+  twitter: anrubio
+  instagram: roguerubio
+  facebook: RubioNM35
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000436
+sources:
+- url: https://ballotpedia.org/Angelica_Rubio
+- url: https://en.wikipedia.org/wiki/Angelica_Rubio
+- url: https://justfacts.votesmart.org/candidate/biography/168321/angelica-rubio
+- url: https://www.linkedin.com/in/angelicarubio
+- url: https://www.nmlegis.gov/Members/Legislator?SponCode=HRUBI
+- url: https://www.nmlegis.gov/Members/Legislator_List?T=R
+extras:
+  counties represented: "Do\xF1a Ana"
+  service: Representative since 2017
+  occupation: Nonprofit Consultant

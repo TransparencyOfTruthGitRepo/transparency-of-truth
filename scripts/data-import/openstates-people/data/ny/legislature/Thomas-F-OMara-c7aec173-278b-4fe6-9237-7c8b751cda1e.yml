@@ -1,0 +1,54 @@
+id: ocd-person/c7aec173-278b-4fe6-9237-7c8b751cda1e
+name: Tom O'Mara
+given_name: Tom
+family_name: O'Mara
+birth_date: 1963-05-31
+gender: Male
+email: omara@nysenate.gov
+image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/02-10-15_official_hs_omara-hs-040_0.jpg?itok=0S6A6rmV
+party:
+- name: Republican/Conservative
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '58'
+offices:
+- classification: capitol
+  address: Room 706, Legislative Office Building, Albany, NY 12247
+  voice: 518-455-2091
+- classification: district
+  address: 100 W. Church St. Suite 103, Elmira, NY 14901
+  voice: 607-735-9671
+- classification: district
+  address: 105 E. Steuben St., Bath, NY 14810
+  voice: 607-776-3201
+- classification: district
+  address: Seneca County Office Building 1 Dipronio Drive, 3rd Floor, Waterloo, NY
+    13165
+  voice: 315-393-3024
+links:
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/thomas-f-omara
+- url: https://www.nysenate.gov/senators/thomas-f-omara/contact
+other_names:
+- name: O'Mara, T.
+- name: T. O'Mara
+- name: T.F. O'Mara
+- name: Thomas F. O'Mara
+ids:
+  twitter: SenatorOMara
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000041
+- scheme: legacy_openstates
+  identifier: NYL000238
+- scheme: legacy_openstates
+  identifier: NYL000377
+sources:
+- url: https://ballotpedia.org/Thomas_O%27Mara
+- url: https://en.wikipedia.org/wiki/Tom_O%27Mara
+- url: https://justfacts.votesmart.org/candidate/biography/44804/thomas-omara
+- url: https://www.linkedin.com/in/thomas-f-o-mara-13196820
+- url: https://www.nysenate.gov/senators/thomas-f-omara
+- url: https://www.nysenate.gov/senators/thomas-f-omara/contact

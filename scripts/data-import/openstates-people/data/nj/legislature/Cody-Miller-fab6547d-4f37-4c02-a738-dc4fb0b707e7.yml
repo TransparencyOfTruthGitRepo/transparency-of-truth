@@ -1,0 +1,38 @@
+id: ocd-person/fab6547d-4f37-4c02-a738-dc4fb0b707e7
+name: Cody Miller
+given_name: Cody
+family_name: Miller
+birth_date: 1990-12-12
+gender: Male
+email: asmmiller@njleg.org
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '4'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 129 Johnson Road Suite 1, Turnersville, NJ 08012
+  voice: 856-232-6700
+links:
+- url: https://www.assemblydems.com/161/Cody-Miller---District-4
+- url: https://www.assemblydems.com/cody-miller/
+- url: https://www.njleg.state.nj.us/legislative-roster/463/assemblyman-miller
+other_names:
+- name: C. Miller
+- name: C.D. Miller
+- name: Miller, C.
+- name: Miller, Cody D.
+sources:
+- url: https://ballotpedia.org/Cody_Miller
+- url: https://en.wikipedia.org/wiki/Cody_Miller_(New_Jersey_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/211624/cody-miller
+- url: https://www.assemblydems.com/161/Cody-Miller---District-4
+- url: https://www.assemblydems.com/cody-miller
+- url: https://www.linkedin.com/in/cody-d-miller-0960b936
+- url: https://www.njleg.state.nj.us/legislative-roster/463/assemblyman-miller

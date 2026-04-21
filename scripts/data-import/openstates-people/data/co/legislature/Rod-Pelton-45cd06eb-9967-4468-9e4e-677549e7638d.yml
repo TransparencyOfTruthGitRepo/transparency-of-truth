@@ -1,0 +1,52 @@
+id: ocd-person/45cd06eb-9967-4468-9e4e-677549e7638d
+name: Rod Pelton
+given_name: Rod
+family_name: Pelton
+gender: Male
+email: rod.pelton.senate@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_pelton%2C%20rod.jpg?itok=UiBGO0En
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '35'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '65'
+offices:
+- classification: capitol
+  address: State Capitol Room 346, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-4884
+links:
+- url: https://leg.colorado.gov/legislators/rod-pelton
+  note: homepage
+other_names:
+- name: Pelton R.
+- name: Pelton, R.
+- name: R. Pelton
+sources:
+- url: https://ballotpedia.org/Rod_Pelton
+- url: https://ballotpedia.org/Rodney_Pelton
+- url: https://en.wikipedia.org/wiki/Rod_Pelton
+- url: https://justfacts.votesmart.org/candidate/biography/148937/rod-pelton
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/rod-pelton
+extras:
+  counties represented:
+  - Baca
+  - Bent
+  - Cheyenne
+  - Crowley
+  - El Paso
+  - Elbert
+  - Huerfano
+  - Kiowa
+  - Kit Carson
+  - Las Animas
+  - Lincoln
+  - Otero
+  - Prowers

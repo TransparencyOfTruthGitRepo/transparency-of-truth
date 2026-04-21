@@ -1,0 +1,37 @@
+id: ocd-person/fc43b9e1-5e0d-4767-a12e-b2e801444d22
+name: Sam Jenkins
+given_name: Sam
+family_name: Jenkins
+gender: Male
+email: sen39@legis.la.gov
+image: https://senate.la.gov/SenPics/Sen39.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '39'
+- start_date: 2016-01-11
+  end_date: 2024-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '39'
+offices:
+- classification: capitol
+  address: P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-2024
+- classification: district
+  address: 2419 Kings Highway, Shreveport, LA 71103
+  voice: 318-632-5970
+links:
+- url: https://senate.la.gov/smembers?ID=39
+other_names:
+- name: Jenkins, S.
+- name: S. Jenkins
+- name: S.L. Jenkins
+- name: Samuel Jenkins
+sources:
+- url: https://ballotpedia.org/Sam_Jenkins
+- url: https://en.wikipedia.org/wiki/Samuel_Jenkins_Jr.
+- url: https://senate.la.gov/smembers?ID=39

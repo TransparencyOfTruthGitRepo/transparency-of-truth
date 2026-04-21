@@ -1,0 +1,57 @@
+id: ocd-organization/0cf70fc6-4c68-42a5-87c3-fad63de3aa8e
+jurisdiction: ocd-jurisdiction/country:us/government
+classification: subcommittee
+name: Foreign Affairs Committee Europe
+chamber: lower
+sources:
+- url: https://foreignaffairs.house.gov/subcommittee/europe
+- url: https://foreignaffairs.house.gov/subcommittees/europe-subcommittee-119th-congress
+parent: ocd-organization/6f645bd7-0332-5edc-82c0-6da644369bfa
+links:
+- url: https://foreignaffairs.house.gov/subcommittee/europe
+- url: https://foreignaffairs.house.gov/subcommittees/europe-subcommittee-119th-congress
+members:
+- name: Keith Self
+  role: chair
+  person_id: ocd-person/404f8ca3-d216-5c95-b5aa-17176b25aa16
+- name: Bill Keating
+  role: ranking member
+  person_id: ocd-person/ec0f62a4-5b85-5df2-888a-200166766b17
+- name: Anna Luna
+  role: member
+  person_id: ocd-person/d18ec0cb-328b-54c8-8785-5f924799f5fe
+- name: Dina Titus
+  role: member
+  person_id: ocd-person/51152aac-2c93-5445-99ed-026df5b6ad37
+- name: Gabe Amo
+  role: member
+  person_id: ocd-person/c0f06e59-7d28-535f-8efe-5f49f273763d
+- name: Jim Costa
+  role: member
+  person_id: ocd-person/8d953afe-9b42-5c80-9f43-4ccf8af79513
+- name: Joe Wilson
+  role: member
+  person_id: ocd-person/af50abf4-b711-5bbc-a920-465e39c99f42
+- name: Julie Johnson
+  role: member
+  person_id: ocd-person/ea06a401-ba19-4028-8986-38e950a657b6
+- name: Michael McCaul
+  role: member
+  person_id: ocd-person/15d37180-ddd2-5bb6-8dd4-cdd2690eca86
+- name: Randy Fine
+  role: member
+  person_id: ocd-person/75a3fd65-8775-4482-8943-6961de0b886a
+- name: Sarah McBride
+  role: member
+  person_id: ocd-person/6c2db65b-b764-4c18-abde-8e6318fbfb99
+- name: Warren Davidson
+  role: member
+  person_id: ocd-person/1eaeee77-2e74-51b9-a70f-30e16378f080
+- name: Young Kim
+  role: member
+  person_id: ocd-person/34a22a9d-abf9-5e79-91f5-e4e08be6d2c9
+other_names:
+- name: House Committee on Foreign Affairs Europe Subcommittee
+- name: House Foreign Affairs Committee Europe
+- name: House Foreign Affairs Committee Europe Subcommittee
+- name: House Subcommittee on Foreign Affairs Committee Europe

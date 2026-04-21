@@ -1,0 +1,109 @@
+id: ocd-organization/7e6f3cb2-92cd-48bb-8e9f-9c5808b6b43f
+jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+classification: committee
+name: Labor
+chamber: lower
+sources:
+- url: https://assembly.state.ny.us/comm/
+- url: https://assembly.state.ny.us/comm/?id=25
+- url: https://assembly.state.ny.us/comm/?id=25&sec=news
+- url: https://nyassembly.gov/comm/?id=25
+links:
+- url: https://assembly.state.ny.us/comm/?id=25
+  note: homepage
+- url: https://assembly.state.ny.us/comm/?id=25&sec=news
+- url: https://nyassembly.gov/comm/?id=25
+members:
+- name: Harry Bronson
+  role: chair
+  person_id: ocd-person/a23e140f-4beb-43d5-b850-198ff81a75f3
+- name: Al Taylor
+  role: member
+  person_id: ocd-person/c197076b-7dde-4f90-b04f-352053fbab94
+- name: Alex Bores
+  role: member
+  person_id: ocd-person/9c986c4c-5371-4b77-b095-5a7283a93729
+- name: Angelo Morinello
+  role: member
+  person_id: ocd-person/461e374c-cde4-4865-9fec-141502275a8b
+- name: Catalina Cruz
+  role: member
+  person_id: ocd-person/864e417d-df2e-4207-83e4-98450555f48a
+- name: Danny Norber
+  role: member
+  person_id: ocd-person/2e502adc-4b0e-46fa-b5d4-0d2f7696db49
+- name: Dave DiPietro
+  role: member
+  person_id: ocd-person/67c280c8-c9a5-4eff-93de-480570d6a414
+- name: George Alvarez
+  role: member
+  person_id: ocd-person/722e778a-7824-49fb-bb44-ba1da8bab675
+- name: Jodi Giglio
+  role: member
+  person_id: ocd-person/983d7603-0ccc-4995-8afe-2ece30a487c7
+- name: Joe DeStefano
+  role: member
+  person_id: ocd-person/691f0b4b-a2b3-47d6-b5ba-6bf503340e10
+- name: Joe Sempolinski
+  role: member
+  person_id: ocd-person/45837ecf-38a2-41cb-9de1-eae175a32dfe
+- name: Jon Rivera
+  role: member
+  person_id: ocd-person/869acf23-9c50-48da-897c-515c5a7adcfe
+- name: Jonathan Jacobson
+  role: member
+  person_id: ocd-person/105874fa-018e-4e77-8190-7f6d59538386
+- name: Karines Reyes
+  role: member
+  person_id: ocd-person/ddcffc59-f65a-426c-8390-9a28d1f1533d
+- name: Karl Brabenec
+  role: member
+  person_id: ocd-person/8378f15a-1d99-4cd6-aaad-f36b3bc57e1e
+- name: Khaleel Anderson
+  role: member
+  person_id: ocd-person/cf330444-ddcb-44aa-882d-f1488c42533e
+- name: Matt Slater
+  role: member
+  person_id: ocd-person/eba4d98e-baa7-4ee3-a705-ed38b137ee27
+- name: Michael Benedetto
+  role: member
+  person_id: ocd-person/b2b9862e-f665-4848-9d9c-5dcf2c986fed
+- name: Michael Durso
+  role: member
+  person_id: ocd-person/d72babb1-84cc-49d4-8b91-7945b7b9abf5
+- name: Nikki Lucas
+  role: member
+  person_id: ocd-person/075a2bdd-9f2f-4160-bec6-dfa293da4c4e
+- name: Nily Rozic
+  role: member
+  person_id: ocd-person/2dfa3301-d40b-4d1a-89c7-62a2b965bace
+- name: Noah Burroughs
+  role: member
+  person_id: ocd-person/43ad8195-7ba5-4b53-8365-383a737f0489
+- name: Phil Ramos
+  role: member
+  person_id: ocd-person/efcd9b6f-4657-41aa-94a1-9b048c7043cf
+- name: Phil Steck
+  role: member
+  person_id: ocd-person/968287e2-d20f-4e07-9f66-5765ca51b475
+- name: Stefani Zinerman
+  role: member
+  person_id: ocd-person/d4d53fcb-59b0-4869-bad8-42963b716e59
+- name: Steven Raga
+  role: member
+  person_id: ocd-person/b3a5dc39-1c55-48b7-986c-d36a3db0917e
+- name: Tony Simone
+  role: member
+  person_id: ocd-person/83e08970-f529-4270-adcb-e15c660d8b7a
+- name: William Colton
+  role: member
+  person_id: ocd-person/664246f6-8749-4d3e-8b03-524dd4273b0a
+- name: Yudelka Tapia
+  role: member
+  person_id: ocd-person/e924d52f-f944-4beb-9b67-bc243639a107
+other_names:
+- name: Assembly Committee on Labor
+- name: Assembly Labor
+- name: Assembly Labor Committee
+extras:
+  address: LOB 524; Albany, NY 12248

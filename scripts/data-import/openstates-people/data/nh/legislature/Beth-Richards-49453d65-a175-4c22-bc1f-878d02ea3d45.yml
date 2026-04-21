@@ -1,0 +1,57 @@
+id: ocd-person/49453d65-a175-4c22-bc1f-878d02ea3d45
+name: Beth Richards
+given_name: Beth
+family_name: Richards
+gender: Female
+email: bethrichardsforward3@gmail.com
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/59313.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 17
+- start_date: 2016-12-07
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 17
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 13
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=408564
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408564
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8564
+  note: member detail page
+other_names:
+- name: B. Richards
+- name: B.S. Richards
+- name: Beth S. Richards
+- name: Richards, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001402
+sources:
+- url: https://ballotpedia.org/Beth_Richards
+- url: https://en.wikipedia.org/wiki/Beth_Richards
+- url: https://gc.nh.gov/house/members/member.aspx?member=408564
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/172705/beth-richards
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408564
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8564
+- url: https://www.linkedin.com/in/beth-richards-54396a
+extras:
+  county: Merrimack
+  elected status: Incumbent
+  gender code: F

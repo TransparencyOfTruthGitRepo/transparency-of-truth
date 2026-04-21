@@ -1,0 +1,46 @@
+id: ocd-person/bd74c8bf-cc11-4bfc-a721-269a01a6ccb1
+name: Kyle Schoenfish
+given_name: Kyle
+family_name: Schoenfish
+birth_date: 1987-11-01
+gender: Male
+email: kyle.schoenfish@sdlegislature.gov
+image: http://sdlegislature.gov/inc/img/Legislators/Schoenfish_2019.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '19'
+- start_date: 2013-01-11
+  end_date: 2020-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '19'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3821
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/1851/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4414/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4559/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4665/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4817/Detail
+other_names:
+- name: K. Schoenfish
+- name: K.R. Schoenfish
+- name: Kyle R. Schoenfish
+- name: Schoenfish, K.
+sources:
+- url: https://ballotpedia.org/Kyle_Schoenfish
+- url: https://en.wikipedia.org/wiki/Kyle_Schoenfish
+- url: https://justfacts.votesmart.org/candidate/biography/121354/kyle-schoenfish
+- url: https://sdlegislature.gov/Legislators/Profile/1851/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4414/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4559/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4665/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4817/Detail
+extras:
+  occupation: Certified Public Accountant:CPA

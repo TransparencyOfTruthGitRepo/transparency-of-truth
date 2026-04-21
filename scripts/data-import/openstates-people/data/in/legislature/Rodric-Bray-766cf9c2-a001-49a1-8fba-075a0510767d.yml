@@ -1,0 +1,51 @@
+id: ocd-person/766cf9c2-a001-49a1-8fba-075a0510767d
+name: Rod Bray
+given_name: Rod
+family_name: Bray
+gender: Male
+email: s37@iga.in.gov
+image: https://cdn.zephyrcms.com/300cdb3a-5a3e-4686-9576-da26eb5ed28f/-/progressive/yes/-/format/jpeg/-/scale_crop/200x300/center/-/stretch/off/bray-website.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2012-11-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '37'
+offices:
+- classification: capitol
+  address: 200 W. Washington St., Indianapolis, IN 46204
+  voice: 317-232-9400
+links:
+- url: https://iga.in.gov/legislative/2021/legislators/legislator_rodric_bray_1106
+- url: https://iga.in.gov/legislative/2022/legislators/legislator_rodric_bray_1106/
+- url: https://www.indianasenaterepublicans.com/bray
+  note: homepage
+other_names:
+- name: Bray, R.
+- name: R. Bray
+- name: R.D. Bray
+- name: Rodric Bray
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: INL000153
+sources:
+- url: https://api.iga.in.gov/2021/legislators/rodric_bray_1106
+- url: https://ballotpedia.org/Rodric_D._Bray
+- url: https://en.wikipedia.org/wiki/Rodric_Bray
+- url: https://iga.in.gov/legislative/2021/legislators/legislator_rodric_bray_1106
+- url: https://iga.in.gov/legislative/2022/legislators/legislator_rodric_bray_1106
+- url: https://iga.in.gov/legislative/2022/legislators/legislator_rodric_bray_1106/
+- url: https://justfacts.votesmart.org/candidate/biography/136001/rodric-bray
+- url: https://www.indianasenaterepublicans.com/bray
+- url: https://www.indianasenaterepublicans.com/senators
+- url: https://www.linkedin.com/in/rod-bray-63338316
+extras:
+  title: President Pro Tempore
+  second phone: 317-232-9400
+  legislative assistant name: Kayla Caviness
+  legislative assistant phone: 317-232-9416
+  legislative assistant email: Kayla.Caviness@iga.in.gov
+  media contact name: Molly Swigart
+  media contact phone: 317-232-9521
+  media contact email: Molly.Swigart@iga.in.gov

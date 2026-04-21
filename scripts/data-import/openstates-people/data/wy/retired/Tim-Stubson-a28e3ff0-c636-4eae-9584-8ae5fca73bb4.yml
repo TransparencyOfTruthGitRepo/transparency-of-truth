@@ -1,0 +1,21 @@
+id: ocd-person/a28e3ff0-c636-4eae-9584-8ae5fca73bb4
+name: Tim Stubson
+given_name: Tim
+family_name: Stubson
+image: http://legisweb.state.wy.us/LegislatorSummary/photos/StubsonTH56.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '56'
+links:
+- url: http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=1143
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000084
+sources:
+- url: http://legisweb.state.wy.us/LegislatorSummary/LegislatorList.aspx?strHouse=H&strStatus=N
+- url: http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=1143

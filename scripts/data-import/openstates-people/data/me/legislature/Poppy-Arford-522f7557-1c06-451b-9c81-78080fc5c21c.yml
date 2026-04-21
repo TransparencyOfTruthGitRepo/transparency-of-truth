@@ -1,0 +1,51 @@
+id: ocd-person/522f7557-1c06-451b-9c81-78080fc5c21c
+name: Poppy Arford
+given_name: Poppy
+family_name: Arford
+gender: Female
+email: poppy.arford@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/e67bda1d-1bd9-46a4-8dca-4c3616a20dfa_ArfordNEW.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '101'
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '101'
+- start_date: 2020-12-02
+  end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '49'
+offices:
+- classification: capitol
+  address: Room 333, House Democratic Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1421
+  note: homepage
+- url: https://legislature.maine.gov/housedems/arfordp/index.html
+- url: https://www.maine.gov/housedems/arfordp
+other_names:
+- name: ARFORD of Brunswick
+- name: Arford, P.
+- name: P. Arford
+- name: P.T. Arford
+- name: Poppy Thacher Arford
+sources:
+- url: https://ballotpedia.org/Poppy_Arford
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1421
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/housedems/arfordp/index.html
+- url: https://www.maine.gov/housedems/arfordp
+extras:
+  Seat Number: '97'
+  towns represented:
+  - Brunswick (Part)
+  occupation: Healthcare Advocate
+  education: University of Southern Maine

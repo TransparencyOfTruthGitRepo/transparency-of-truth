@@ -1,0 +1,56 @@
+id: ocd-person/af0d6647-3a7b-48d0-971c-bde55a75e78c
+name: Michael Rodrigues
+given_name: Michael
+family_name: Rodrigues
+birth_date: 1959-05-30
+gender: Male
+email: michael.rodrigues@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/MJR0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2011-01-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: First Bristol and Plymouth
+- start_date: 1996-01-04
+  end_date: 2011-01-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: First Bristol and Plymouth
+offices:
+- classification: capitol
+  address: Room 212, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1114
+- classification: district
+  address: MA
+  voice: 508-646-0650
+links:
+- url: https://malegislature.gov/Legislators/Profile/MJR0
+- url: https://www.senatorrodrigues.com/
+other_names:
+- name: M. Rodrigues
+- name: M.J. Rodrigues
+- name: Michael J. Rodrigues
+- name: Rodrigues, M.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000031
+- scheme: legacy_openstates
+  identifier: MAL000229
+- scheme: legacy_openstates
+  identifier: MAL000266
+sources:
+- url: https://ballotpedia.org/Michael_Rodrigues
+- url: https://en.wikipedia.org/wiki/Michael_Rodrigues_(politician)
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/MJR0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/MJR0
+- url: https://malegislature.gov/Legislators/Profile/MJR0
+- url: https://www.senatorrodrigues.com
+extras:
+  leadership position: Senate Ways and Means Chair
+  member code: MJR0

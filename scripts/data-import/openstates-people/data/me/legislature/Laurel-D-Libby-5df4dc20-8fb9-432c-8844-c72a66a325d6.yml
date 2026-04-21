@@ -1,0 +1,55 @@
+id: ocd-person/5df4dc20-8fb9-432c-8844-c72a66a325d6
+name: Laurel Libby
+given_name: Laurel
+family_name: Libby
+birth_date: 1981-05-15
+gender: Female
+email: laurel.libby@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/12533ded-aef6-4f67-a45a-d9c25b51d38a_Libby.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '90'
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '90'
+- start_date: 2020-12-02
+  end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '64'
+offices:
+- classification: capitol
+  address: Room 332, House Republican Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1423
+  note: homepage
+- url: https://mainehousegop.org/members/libby-laurel/
+other_names:
+- name: L. Libby
+- name: L.D.M. Libby
+- name: Laurel D. Libby
+- name: Laurel Dawson Munsell Libby
+- name: Laurel LIBBY
+- name: LIBBY of Auburn
+- name: Libby, L.
+sources:
+- url: https://ballotpedia.org/Laurel_Libby
+- url: https://en.wikipedia.org/wiki/Laurel_Libby
+- url: https://justfacts.votesmart.org/candidate/biography/192645/laurel-libby
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1423
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://mainehousegop.org/members/libby-laurel
+- url: https://www.linkedin.com/in/laurel-libby-7991a69
+extras:
+  Seat Number: '36'
+  towns represented:
+  - Minot
+  - Auburn (Part)
+  occupation: Interior Decor

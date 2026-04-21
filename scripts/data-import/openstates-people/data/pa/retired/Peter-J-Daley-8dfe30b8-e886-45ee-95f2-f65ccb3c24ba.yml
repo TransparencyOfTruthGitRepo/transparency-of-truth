@@ -1,0 +1,22 @@
+id: ocd-person/8dfe30b8-e886-45ee-95f2-f65ccb3c24ba
+name: Peter J Daley
+given_name: Peter
+family_name: Daley
+middle_name: J
+image: http://www.legis.state.pa.us/images/members/200/39.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '49'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=39
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000085
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=39

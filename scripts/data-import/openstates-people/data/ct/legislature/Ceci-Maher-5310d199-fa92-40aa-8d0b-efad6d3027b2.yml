@@ -1,0 +1,41 @@
+id: ocd-person/5310d199-fa92-40aa-8d0b-efad6d3027b2
+name: Ceci Maher
+given_name: Ceci
+family_name: Maher
+birth_date: 1953-11-19
+gender: Female
+email: ceci.maher@cga.ct.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room 3100, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-0068
+links:
+- url: https://www.senatedems.ct.gov/maher
+- url: https://www.senatedems.ct.gov/senator/ceci-maher
+other_names:
+- name: C. Maher
+- name: C.C. Maher
+- name: Maher, C.
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Ceci_Maher
+- url: https://en.wikipedia.org/wiki/Ceci_Maher
+- url: https://justfacts.votesmart.org/candidate/biography/208763/cecilia-maher
+- url: https://www.linkedin.com/in/cqmaher
+- url: https://www.senatedems.ct.gov/maher
+- url: https://www.senatedems.ct.gov/senator/ceci-maher
+- url: https://www.senatedems.ct.gov/senator/ceci-maher/bio
+extras:
+  gender: Female
+  title: Deputy President Pro Tempore
+  committees: Committee on Children (Chair); Higher Education and Employment Advancement
+    (Vice Chair); Energy and Technology; Human Services; Internship; Judiciary
+  committee codes: ;ET;HED;HS;ISC;JUD;KID;
+  prison: '0'

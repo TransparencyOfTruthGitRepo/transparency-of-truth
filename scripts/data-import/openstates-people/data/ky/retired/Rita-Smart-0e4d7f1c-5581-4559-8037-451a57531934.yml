@@ -1,0 +1,20 @@
+id: ocd-person/0e4d7f1c-5581-4559-8037-451a57531934
+name: Rita Smart
+given_name: Rita
+family_name: Smart
+image: http://www.lrc.ky.gov/pubinfo/thumbnails/House81.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '81'
+links:
+- url: http://www.lrc.ky.gov/legislator/H081.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000122
+sources:
+- url: http://www.lrc.ky.gov/legislator/H081.htm

@@ -1,0 +1,51 @@
+id: ocd-person/9d10ccec-b571-4eea-b025-9ed7634b6516
+name: Kevin Verville
+given_name: Kevin
+family_name: Verville
+gender: Male
+email: kevin.verville@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/59219.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2016-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 2
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=408388
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?member=408388
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8388
+  note: member detail page
+other_names:
+- name: K. Verville
+- name: Kevin G. Verville
+- name: Kevin Verville
+- name: Verville, K.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001387
+- scheme: openstates
+  identifier: ocd-person/3eb13a8d-a14d-4c0b-82b7-24713cc670b7
+sources:
+- url: https://ballotpedia.org/Kevin_Verville
+- url: https://en.wikipedia.org/wiki/Kevin_Verville
+- url: https://gc.nh.gov/house/members/member.aspx?member=408388
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?member=408388
+- url: https://justfacts.votesmart.org/candidate/biography/172491/kevin-verville
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408388
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8388
+- url: https://www.linkedin.com/in/kevin-verville-1b677776
+extras:
+  county: Rockingham
+  elected status: Incumbent
+  gender code: M

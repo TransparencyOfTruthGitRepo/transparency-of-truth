@@ -1,0 +1,38 @@
+id: ocd-person/e40f7f2c-4c6a-4064-9fde-e6b380dde2aa
+name: Rob Wagner
+given_name: Rob
+family_name: Wagner
+birth_date: 1973-01-10
+gender: Male
+email: sen.robwagner@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/wagner/PublishingImages/Headshot%20in%20the%20shrub.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2018-01-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '19'
+offices:
+- classification: capitol
+  address: Room S-201, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1600
+links:
+- url: https://www.oregonlegislature.gov/wagner
+  note: homepage
+other_names:
+- name: R. Wagner
+- name: R.A. Wagner
+- name: Wagner, R.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000402
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Rob_Wagner
+- url: https://en.wikipedia.org/wiki/Rob_Wagner_(politician)
+- url: https://www.linkedin.com/in/robert-wagner-4b74855
+- url: https://www.oregonlegislature.gov/wagner
+extras:
+  title: President

@@ -1,0 +1,24 @@
+id: ocd-person/a3fe89b9-cc16-4419-a43a-78639370d0fc
+name: Ronnie Johns
+given_name: Ronnie
+family_name: Johns
+email: johnsr@legis.la.gov
+party:
+- name: Republican
+roles:
+- end_date: '2021-07-23'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '27'
+  end_reason: Appointed as the Chairman of the Louisiana Gaming Control Board
+links:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=27
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000436
+- scheme: legacy_openstates
+  identifier: LAL000501
+- scheme: legacy_openstates
+  identifier: LAL000756
+sources:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=27

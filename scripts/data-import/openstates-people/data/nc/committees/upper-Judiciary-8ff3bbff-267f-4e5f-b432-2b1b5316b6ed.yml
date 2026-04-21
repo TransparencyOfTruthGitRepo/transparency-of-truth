@@ -1,0 +1,69 @@
+id: ocd-organization/8ff3bbff-267f-4e5f-b432-2b1b5316b6ed
+jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+classification: committee
+name: Judiciary
+chamber: upper
+sources:
+- url: https://www.ncleg.gov/committees
+  note: committees list page
+- url: https://www.ncleg.gov/Committees/CommitteeInfo/SenateStanding/147
+  note: committee details page
+links:
+- url: https://www.ncleg.gov/Committees/CommitteeInfo/SenateStanding/147
+  note: homepage
+members:
+- name: Buck Newton
+  role: chair
+  person_id: ocd-person/b560f232-dfa2-49f7-81c8-42000cc9027b
+- name: Danny Britt
+  role: chair
+  person_id: ocd-person/91f238a6-29fd-4b65-bc48-1464da11786b
+- name: Warren Daniel
+  role: chair
+  person_id: ocd-person/5397305f-16ba-460d-aa16-3bee6185299b
+- name: Amy Galey
+  role: member
+  person_id: ocd-person/8be9deca-bbd6-404f-8726-0aecaeb19ca7
+- name: Benton Sawrey
+  role: member
+  person_id: ocd-person/0c960acb-381f-4ce9-b9d3-313fd882b6e1
+- name: Brad Overcash
+  role: member
+  person_id: ocd-person/dfacde1f-3324-4ebe-bc96-ae473548e951
+- name: Chris Measmer
+  role: member
+  person_id: ocd-person/9dfc9308-ec16-4da8-b5c7-8a9cc55df534
+- name: Dan Blue
+  role: member
+  person_id: ocd-person/06dca4de-5217-45fc-b78a-fc7870ae7faf
+- name: Dave Craven
+  role: member
+  person_id: ocd-person/7074c9f6-6a8e-4c63-b0b3-ae43b9cfba0d
+- name: Lisa Grafstein
+  role: member
+  person_id: ocd-person/a370c6f1-338d-49c3-a0b4-41e885dc0d80
+- name: Michael Lazzara
+  role: member
+  person_id: ocd-person/f0121b49-81cc-45f5-98e1-1fbeee882c81
+- name: Michael Lee
+  role: member
+  person_id: ocd-person/082079ab-53d2-43e5-be5f-cb7c6054edd3
+- name: Mujtaba Mohammed
+  role: member
+  person_id: ocd-person/c733e47e-af6a-4f31-a350-010043b5164b
+- name: Norman Sanderson
+  role: member
+  person_id: ocd-person/7493bee0-b1ed-4d45-b772-b7fce91be4ff
+- name: Sophia Chitlik
+  role: member
+  person_id: ocd-person/c8c4c09a-5b3a-4521-82d4-2e2ded1b6b0a
+- name: Sydney Batch
+  role: member
+  person_id: ocd-person/f29f268e-5a29-4f49-8c5e-3fa19688f4a2
+- name: Terence Everitt
+  role: member
+  person_id: ocd-person/1217dc52-8590-4c6b-832b-666b57ef121c
+other_names:
+- name: Senate Committee on Judiciary
+- name: Senate Judiciary
+- name: Senate Judiciary Committee

@@ -1,0 +1,14 @@
+id: ocd-person/43fd04d4-0ddb-45e5-bfef-ea60d02f319d
+name: Jennifer Perez
+given_name: Jennifer
+family_name: Perez
+email: jperez@norwalkca.gov
+roles:
+- end_date: '2021-04-06'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/place:norwalk/government
+offices:
+- classification: primary
+  address: 12700 Norwalk Boulevard;Norwalk, CA 90650
+  voice: 562-929-5305
+  fax: 562-929-5773

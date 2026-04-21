@@ -1,0 +1,37 @@
+id: ocd-person/82019391-800c-469e-b17b-fbbf700b6555
+name: Zoe Manos
+given_name: Zoe
+family_name: Manos
+gender: Female
+email: zoe.manos@gc.nh.gov
+image: https://www.gannett-cdn.com/presto/2022/10/20/NPOH/d99fd355-15a2-43ba-b2ac-6f0353ba64e3-Manos.jpeg?width=300&height=317&fit=crop&format=pjpg&auto=webp
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Rockingham 12
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10857
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10857
+  note: member detail page
+other_names:
+- name: Manos, Z.
+- name: Z. Manos
+- name: Zoe R Manos
+sources:
+- url: https://ballotpedia.org/Zoe_Manos
+- url: https://en.wikipedia.org/wiki/Zoe_Manos
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10857
+- url: https://justfacts.votesmart.org/candidate/208916/zoe-manos
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10857
+- url: https://www.linkedin.com/in/zoe-r-manos-65057757
+extras:
+  county: Rockingham
+  elected status: new
+  gender code: F

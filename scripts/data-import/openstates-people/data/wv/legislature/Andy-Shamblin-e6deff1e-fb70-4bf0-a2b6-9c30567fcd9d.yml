@@ -1,0 +1,34 @@
+id: ocd-person/e6deff1e-fb70-4bf0-a2b6-9c30567fcd9d
+name: Andy Shamblin
+given_name: Andy
+family_name: Shamblin
+birth_date: 1990-05-25
+gender: Male
+email: andy.shamblin@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/shamblin_andy.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '59'
+offices:
+- classification: capitol
+  address: State Capitol Room 207E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3392
+links:
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Shamblin
+other_names:
+- name: A. Shamblin
+- name: Shamblin, A
+- name: Shamblin, A.
+sources:
+- url: https://ballotpedia.org/Andy_Shamblin
+- url: https://en.wikipedia.org/wiki/Andy_Shamblin
+- url: https://www.linkedin.com/in/andy-shamblin-902892ab
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Shamblin
+- url: https://www.wvlegislature.gov/House/roster.cfm
+extras:
+  title: Assistant Majority Whip

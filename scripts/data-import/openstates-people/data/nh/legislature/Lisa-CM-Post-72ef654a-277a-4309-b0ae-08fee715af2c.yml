@@ -1,0 +1,51 @@
+id: ocd-person/72ef654a-277a-4309-b0ae-08fee715af2c
+name: Lisa Post
+given_name: Lisa
+family_name: Post
+gender: Female
+email: lisacmpost@gmail.com
+image: https://img1.wsimg.com/isteam/ip/6c315054-4fed-4fed-ad1c-411ab3cf43e8/lisa603Apic2.1%20(2).jpg/:/rs=h:600/qt=q:95
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 42
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 42
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 4
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9896
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9896
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9896
+  note: member detail page
+other_names:
+- name: L. Post
+- name: L.C. Post
+- name: Lisa C.M. Post
+- name: Post, L.
+sources:
+- url: https://ballotpedia.org/Lisa_Post
+- url: https://en.wikipedia.org/wiki/Lisa_Post_(politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9896
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9896
+- url: https://justfacts.votesmart.org/candidate/194991/lisa-post
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9896
+extras:
+  county: Hillsborough
+  elected status: Incumbent
+  gender code: F

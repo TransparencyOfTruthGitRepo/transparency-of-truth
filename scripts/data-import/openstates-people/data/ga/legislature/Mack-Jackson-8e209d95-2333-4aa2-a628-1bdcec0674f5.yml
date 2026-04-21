@@ -1,0 +1,65 @@
+id: ocd-person/8e209d95-2333-4aa2-a628-1bdcec0674f5
+name: Mack Jackson
+given_name: Mack
+family_name: Jackson
+birth_date: 1951-07-15
+gender: Male
+email: mack.jackson@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/jackson-mack-738.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2009-01-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '128'
+offices:
+- classification: capitol
+  address: Room 611-H, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0314
+- classification: district
+  address: 733 Evelyn St., Sandersville, GA 31082
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=738&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/738
+- url: https://www.legis.ga.gov/members/house/738?session=1029
+- url: https://www.legis.ga.gov/members/house/738?session=1031
+  note: HTML member detail page
+other_names:
+- name: JACKSON, 128TH
+- name: Jackson, M.
+- name: M. Jackson
+- name: W.M. Jackson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000139
+- scheme: legacy_openstates
+  identifier: GAL000310
+sources:
+- url: https://ballotpedia.org/Mack_Jackson
+- url: https://en.wikipedia.org/wiki/Mack_Jackson
+- url: https://justfacts.votesmart.org/candidate/biography/105230/mack-jackson-jr
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=738&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/738?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/738?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/738
+- url: https://www.legis.ga.gov/members/house/738?session=1029
+- url: https://www.linkedin.com/in/mack-jackson-b109b527
+extras:
+  residence: Sandersville
+  city: Sandersville
+  georgia_id: 738
+  birthday: July 15
+  occupation: Benchmark Partners LLC/Pastor
+  press: https://house-press.com/representative/Mack-Jackson
+  spouse: Valarie
+  staff: a href="
+  staff email: ''

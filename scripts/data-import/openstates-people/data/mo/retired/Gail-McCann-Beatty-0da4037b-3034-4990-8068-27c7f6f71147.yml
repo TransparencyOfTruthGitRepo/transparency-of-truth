@@ -1,0 +1,27 @@
+id: ocd-person/0da4037b-3034-4990-8068-27c7f6f71147
+name: Gail McCann Beatty
+given_name: Gail
+family_name: McCann Beatty
+party:
+- name: Democratic
+roles:
+- start_date: '2013-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '26'
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '43'
+links:
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=26
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MOL000127
+- scheme: legacy_openstates
+  identifier: MOL000300
+sources:
+- url: http://house.mo.gov/MemberGridCluster.aspx
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=26

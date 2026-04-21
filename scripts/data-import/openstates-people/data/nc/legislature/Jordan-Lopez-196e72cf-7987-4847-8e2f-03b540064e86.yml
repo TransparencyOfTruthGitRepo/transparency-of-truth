@@ -1,0 +1,31 @@
+id: ocd-person/196e72cf-7987-4847-8e2f-03b540064e86
+name: Jordan Lopez
+given_name: Jordan
+family_name: Lopez
+gender: Male
+email: jordan.lopez@ncleg.gov
+image: https://lopez4nc.com/wp-content/uploads/2023/12/FAV1127_LOPEZ_-121.webp
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '112'
+offices:
+- classification: capitol
+  address: Room 1325, North Carolina Legislative Building 16 W. Jones St., Raleigh,
+    NC 27601
+  voice: 919-733-5749
+- classification: district-mail
+  address: Room 1325, 16 W. Jones St., Raleigh, NC 27601
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/835
+other_names:
+- name: J. Lopez
+- name: J.A. Lopez
+- name: Lopez, J.
+sources:
+- url: https://ballotpedia.org/Jordan_Lopez
+- url: https://www.linkedin.com/in/jordanalopez
+- url: https://www.ncleg.gov/Members/Biography/H/835

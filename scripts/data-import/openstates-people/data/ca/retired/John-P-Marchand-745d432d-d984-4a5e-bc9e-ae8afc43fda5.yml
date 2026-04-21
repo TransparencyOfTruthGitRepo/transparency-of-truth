@@ -1,0 +1,13 @@
+id: ocd-person/745d432d-d984-4a5e-bc9e-ae8afc43fda5
+name: John P. Marchand
+given_name: John P.
+family_name: Marchand
+email: mayormarchand@cityoflivermore.net
+roles:
+- end_date: '2020-12-31'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/place:livermore/government
+offices:
+- classification: primary
+  address: 1052 S. Livermore Ave.;Livermore, CA 94550
+  voice: 925-960-4020

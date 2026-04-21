@@ -1,0 +1,46 @@
+id: ocd-person/80c98569-2ce0-44e9-8cf4-632f2dce684c
+name: Jason Ballard
+given_name: Jason
+family_name: Ballard
+gender: Male
+email: deljballard@house.virginia.gov
+image: https://memdata.virginiageneralassembly.gov/images/display_image/H0333
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '42'
+- start_date: 2022-01-12
+  end_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '12'
+offices:
+- classification: capitol
+  address: Room 710, General Assembly Building 201 N. 9th St., Richmond, VA 23219
+  voice: 804-698-1042
+- classification: district-mail
+  address: P.O. Box 341, Pearisburg, VA 24134
+  voice: 540-787-5011
+links:
+- url: https://house.vga.virginia.gov/members/H0333
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H333
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H333
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0333
+other_names:
+- name: Ballard, J.
+- name: Ballard, Jason S.
+- name: J. Ballard
+- name: J.S. Ballard
+- name: Jason S. Ballard
+sources:
+- url: https://ballotpedia.org/Jason_Ballard
+- url: https://en.wikipedia.org/wiki/Jason_Ballard
+- url: https://house.vga.virginia.gov/members/H0333
+- url: https://justfacts.votesmart.org/candidate/196371/jason-ballard
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H333
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H333
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0333
+- url: https://www.linkedin.com/in/jason-ballard-esq-4504857

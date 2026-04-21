@@ -1,0 +1,32 @@
+id: ocd-person/219dcec3-8f83-401b-91df-1a79ac725889
+name: Rob Geringer
+given_name: Rob
+family_name: Geringer
+gender: Male
+email: rob.geringer@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-GeringerRob.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '42'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+  voice: 307-777-7881
+- classification: district-mail
+  address: P.O. Box 1992, Cheyenne, WY 82003
+  voice: 307-317-8995
+links:
+- url: https://wyoleg.gov/Legislators/2025/H/2142
+other_names:
+- name: Geringer, R
+- name: Geringer, R.
+- name: R. Geringer
+sources:
+- url: https://ballotpedia.org/Rob_Geringer
+- url: https://justfacts.votesmart.org/candidate/218339/rob-geringer
+- url: https://www.linkedin.com/in/robgeringer
+- url: https://wyoleg.gov/Legislators/2025/H/2142

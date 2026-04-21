@@ -1,0 +1,60 @@
+id: ocd-person/5a8792bc-1520-56aa-ab19-729008cd559b
+name: JD Vance
+given_name: JD
+family_name: Vance
+birth_date: 1984-08-02
+gender: Male
+email: https://www.vance.senate.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/V000137.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2025-01-19
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Ohio
+offices: []
+links:
+- url: https://www.vance.senate.gov
+  note: website
+- url: https://www.vance.senate.gov/contact/
+  note: contact form
+- url: https://www.vance.senate.gov/
+other_names:
+- name: J. Vance
+- name: J.D. Vance
+- name: Vance, J.
+other_identifiers:
+- scheme: bioguide
+  identifier: V000137
+- scheme: lis
+  identifier: S421
+- scheme: fec
+  identifier: S2OH00436
+- scheme: govtrack
+  identifier: '456876'
+- scheme: opensecrets
+  identifier: N00048832
+- scheme: wikidata
+  identifier: Q28935729
+- scheme: wikipedia
+  identifier: JD Vance
+- scheme: google_entity_id
+  identifier: kg:/g/11c6v_wj1r
+- scheme: ballotpedia
+  identifier: J.D. Vance
+- scheme: pictorial
+  identifier: '13348'
+- scheme: votesmart
+  identifier: '201794'
+sources:
+- url: https://unitedstates.github.io/
+- url: https://ballotpedia.org/J.D._Vance
+- url: https://en.wikipedia.org/wiki/J._D._Vance
+- url: https://jdvance.com/about
+- url: https://unitedstates.github.io
+- url: https://www.govtrack.us/congress/members/jd_james_vance/456876
+- url: https://www.linkedin.com/in/jd-vance-770a9047
+- url: https://www.vance.senate.gov
+- url: https://www.vance.senate.gov/about

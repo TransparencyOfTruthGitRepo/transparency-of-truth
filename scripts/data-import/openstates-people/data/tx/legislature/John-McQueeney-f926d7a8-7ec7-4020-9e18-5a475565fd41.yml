@@ -1,0 +1,36 @@
+id: ocd-person/f926d7a8-7ec7-4020-9e18-5a475565fd41
+name: John McQueeney
+given_name: John
+family_name: McQueeney
+birth_date: 1980-04-19
+gender: Male
+email: john.mcqueeney@house.texas.gov
+image: https://www.house.texas.gov/images/members/4665.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '97'
+offices:
+- classification: capitol
+  address: Room E2.720, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0608
+- classification: district
+  address: 4521 S. Hulen St. Suite 122, Fort Worth, TX 76109
+  voice: 682-200-4822
+links:
+- url: https://www.house.texas.gov/members/97
+other_names:
+- name: J. McQueeney
+- name: J.W. McQueeney
+- name: McQueeney, J.
+- name: McQueeney, John
+sources:
+- url: https://ballotpedia.org/John_McQueeney
+- url: https://en.wikipedia.org/wiki/John_McQueeney
+- url: https://justfacts.votesmart.org/candidate/biography/213473/john-mcqueeney
+- url: https://www.house.texas.gov/members/4665/biography
+- url: https://www.house.texas.gov/members/97
+- url: https://www.linkedin.com/in/john-mcqueeney-356342174

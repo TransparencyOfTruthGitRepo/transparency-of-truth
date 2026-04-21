@@ -1,0 +1,42 @@
+id: ocd-person/6ddaaa6f-48c9-468e-a744-714728251586
+name: Brandon Potter
+given_name: Brandon
+family_name: Potter
+gender: Male
+email: rep-potter@rilegislature.gov
+image: http://www.rilegislature.gov/representatives/Pictures/potter.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '16'
+offices:
+- classification: capitol
+  address: 82 Smith St., Providence, RI 02903
+  voice: 401-222-3580
+- classification: district
+  address: 62 Grove Ave., Cranston, RI 02910
+  voice: 401-400-2276
+links:
+- url: https://www.rilegislature.gov/representatives/carson/default.aspx
+- url: https://www.rilegislature.gov/representatives/potter/default.aspx
+- url: https://www.rilegislature.gov/representatives/potter/Pages/Biography.aspx
+other_names:
+- name: B. Potter
+- name: Brandon C. Potter
+- name: Potter
+- name: Potter, B.
+sources:
+- url: https://ballotpedia.org/Brandon_Potter
+- url: https://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: https://www.linkedin.com/in/brandon-potter-16734732
+- url: https://www.rilegislature.gov/representatives/potter/default.aspx
+- url: https://www.rilegislature.gov/representatives/potter/Pages/Biography.aspx
+  note: Image Source
+- url: https://www.rilegislature.gov/SiteAssets/MailingLists/Representatives.xls
+- url: https://www.rilegislature.gov/SiteAssets/Representatives.xls
+  note: Detail Excel Source
+extras:
+  City/Town Represented: Cranston

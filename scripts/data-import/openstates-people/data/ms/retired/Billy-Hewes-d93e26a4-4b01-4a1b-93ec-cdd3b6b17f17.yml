@@ -1,0 +1,20 @@
+id: ocd-person/d93e26a4-4b01-4a1b-93ec-cdd3b6b17f17
+name: Billy Hewes
+given_name: Billy
+family_name: Hewes
+image: http://billstatus.ls.state.ms.us/members/senate/hewes.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2008-01-01'
+  end_date: '2011-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '49'
+links:
+- url: http://billstatus.ls.state.ms.us/members/senate/Hewes.xml
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000037
+sources:
+- url: http://billstatus.ls.state.ms.us/members/senate/Hewes.xml

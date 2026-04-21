@@ -1,0 +1,32 @@
+id: ocd-person/41cf59c9-a2c3-442d-85f1-7d6ec8de1a97
+name: Andy Smith
+given_name: Andy
+family_name: Smith
+birth_date: 1991-05-24
+gender: Male
+email: rep.andy.smith@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/25B.gif?v=112221
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 25B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155
+  voice: 651-296-9249
+links:
+- url: https://www.house.mn.gov/members/profile/15606
+other_names:
+- name: A. Smith
+- name: Andrew Smith
+- name: Smith, A.
+sources:
+- url: https://ballotpedia.org/Andrew_Smith_(Minnesota_House_District_25B_candidate)
+- url: https://ballotpedia.org/Andy_Smith_(Minnesota)
+- url: https://en.wikipedia.org/wiki/Andy_Smith_(Minnesota_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/208017/andrew-smith
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15606

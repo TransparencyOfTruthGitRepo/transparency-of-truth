@@ -1,0 +1,39 @@
+id: ocd-organization/3998cbbb-b349-433e-8350-44b8085b8d6e
+jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+classification: committee
+name: State and Local Government
+chamber: upper
+sources:
+- url: https://ndlegis.gov/assembly/69-2025/committees/senate/state-and-local-government
+- url: https://www.ndlegis.gov/assembly/68-2023/committees
+  note: Committee List page of ndlegis gov site
+- url: https://www.ndlegis.gov/assembly/68-2023/committees/senate/state-and-local-government
+  note: Committee Details page
+links:
+- url: https://ndlegis.gov/assembly/68-2023/committees/senate/state-and-local-government
+- url: https://ndlegis.gov/assembly/69-2025/committees/senate/state-and-local-government
+- url: https://www.ndlegis.gov/assembly/68-2023/committees/senate/state-and-local-government
+  note: homepage
+members:
+- name: Kristin Roers
+  role: chair
+  person_id: ocd-person/dd6fc6e2-9b7f-405a-9121-28afd911ecdd
+- name: Jose Castaneda
+  role: vice chair
+  person_id: ocd-person/2abbe0b0-fc8b-47f0-8b29-78e7c1315322
+- name: Chuck Walen
+  role: member
+  person_id: ocd-person/43e25c66-8935-4938-8634-b8666bfdb876
+- name: Jeff Barta
+  role: member
+  person_id: ocd-person/49d467a4-d6ad-49bb-b498-445117bd1669
+- name: Judy Lee
+  role: member
+  person_id: ocd-person/75e58364-853b-4b08-b902-7c84deb98e4a
+- name: Ryan Braunberger
+  role: member
+  person_id: ocd-person/66b053e6-9766-40f0-8da3-2a40f517d9e1
+other_names:
+- name: Senate Committee on State and Local Government
+- name: Senate State and Local Government
+- name: Senate State and Local Government Committee

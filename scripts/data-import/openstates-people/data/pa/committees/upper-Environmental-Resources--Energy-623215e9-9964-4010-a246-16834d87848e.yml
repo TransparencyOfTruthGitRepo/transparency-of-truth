@@ -1,0 +1,58 @@
+id: ocd-organization/623215e9-9964-4010-a246-16834d87848e
+jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+classification: committee
+name: Environmental Resources and Energy
+chamber: upper
+sources:
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=9&CteeBody=S
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=9&CteeBody=S&SessYear=2021
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=9&CteeBody=S&SessYear=2023
+  note: Committee homepage
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/StandingCommittees.cfm?CteeBody=S
+  note: Committee list page
+- url: https://www.palegis.us/senate/committees/9/environmental-resources-and-energy
+links:
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=9&CteeBody=S
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=9&CteeBody=S&SessYear=2021
+  note: homepage
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=9&CteeBody=S&SessYear=2023
+  note: homepage
+- url: https://www.palegis.us/senate/committees/9/environmental-resources-and-energy
+members:
+- name: Gene Yaw
+  role: chair
+  person_id: ocd-person/18127660-d04e-43c2-b931-084f0c87142c
+- name: Scott Hutchinson
+  role: vice chair
+  person_id: ocd-person/5d3e2203-b11c-4471-8f35-5106c30263ec
+- name: Carolyn Comitta
+  role: democratic chair
+  person_id: ocd-person/91c58c1d-de9d-471b-8178-f6ef89c1286b
+- name: Kim Ward
+  role: ex-officio
+  person_id: ocd-person/c48a0179-5770-410d-ba97-bdbc05d20786
+- name: Camera Bartolotta
+  role: member
+  person_id: ocd-person/66b8c0a7-f8be-4acd-aafb-29ca02fcde65
+- name: Dan Laughlin
+  role: member
+  person_id: ocd-person/431a823e-0268-4921-a62d-5f698211e706
+- name: Elder Vogel
+  role: member
+  person_id: ocd-person/8a2a9b56-cdfa-45e0-a26e-b45b547a2eae
+- name: John Kane
+  role: member
+  person_id: ocd-person/c45052c1-f3e4-485e-a3d2-f346fa51839b
+- name: Katie Muth
+  role: member
+  person_id: ocd-person/ade3ef98-a98c-4448-a974-ec4e0eede98f
+- name: Nikil Saval
+  role: member
+  person_id: ocd-person/6f172bc8-50b0-4dd3-aed6-b5fd48b70eeb
+- name: Scott Martin
+  role: member
+  person_id: ocd-person/c2fcd2dc-22f8-4ec2-b70a-439bc6d60802
+other_names:
+- name: Senate Committee on Environmental Resources and Energy
+- name: Senate Environmental Resources and Energy
+- name: Senate Environmental Resources and Energy Committee

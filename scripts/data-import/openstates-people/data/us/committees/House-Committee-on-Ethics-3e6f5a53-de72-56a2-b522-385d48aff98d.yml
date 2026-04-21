@@ -1,0 +1,51 @@
+id: ocd-organization/3e6f5a53-de72-56a2-b522-385d48aff98d
+jurisdiction: ocd-jurisdiction/country:us/government
+classification: committee
+name: Ethics
+chamber: lower
+sources:
+- url: https://ethics.house.gov
+- url: https://unitedstates.github.io/
+links:
+- url: https://ethics.house.gov
+- url: https://ethics.house.gov/
+  note: homepage
+members:
+- name: Michael Guest
+  role: chair
+  person_id: ocd-person/6b015607-c3dd-5867-a1bb-733bf84fe091
+- name: Mark DeSaulnier
+  role: ranking member
+  person_id: ocd-person/a1d66d4f-5f94-5605-9e25-96c8f5b4e2df
+- name: Andrew Garbarino
+  role: member
+  person_id: ocd-person/4ec1dbc4-ea21-5f61-92b1-fa55b47a4c61
+- name: Ashley Hinson
+  role: member
+  person_id: ocd-person/50705d33-6967-5424-8f57-7df22ecbc6e6
+- name: Brad Knott
+  role: member
+  person_id: ocd-person/c4c7954c-f559-4dc5-8660-36bb53499283
+- name: Deborah Ross
+  role: member
+  person_id: ocd-person/ea21df34-9ef4-5746-b83a-700bdc2d1918
+- name: Glenn Ivey
+  role: member
+  person_id: ocd-person/3e53830a-108c-5864-92f1-9f9c8f7b1d0f
+- name: Nathaniel Moran
+  role: member
+  person_id: ocd-person/0c6bf250-87f0-5c8b-8c0f-31366a703a37
+- name: Suhas Subramanyam
+  role: member
+  person_id: ocd-person/3c344094-40c3-4550-be0c-a1e28191218c
+- name: Sylvia Garcia
+  role: member
+  person_id: ocd-person/168e0e9e-0d4c-57d2-99a6-8fc99be594be
+other_names:
+- name: House Committee on Ethics
+- name: House Ethics
+- name: House Ethics Committee
+extras:
+  address: 1015 LHOB; Washington, DC 20515-6328
+  phone: (202) 225-7103
+  type: house

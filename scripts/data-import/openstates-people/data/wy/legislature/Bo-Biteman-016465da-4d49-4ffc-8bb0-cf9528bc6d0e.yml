@@ -1,0 +1,81 @@
+id: ocd-person/016465da-4d49-4ffc-8bb0-cf9528bc6d0e
+name: Bo Biteman
+given_name: Bo
+family_name: Biteman
+birth_date: 1978-10-23
+gender: Male
+email: bo.biteman@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-BitemanBo.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-07
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '21'
+- start_date: 2017-01-02
+  end_date: 2019-01-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '21'
+- end_date: 2019-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '51'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 283, Ranchester, WY 82839
+links:
+- url: https://www.wyoleg.gov/Legislators/2018/H/2044
+- url: https://www.wyoleg.gov/Legislators/2023/S/2044
+- url: https://www.wyoleg.gov/Legislators/2025/S/2044
+- url: https://wyoleg.gov/Legislators/2019/R/2044
+- url: https://wyoleg.gov/Legislators/2021/R/2044
+other_names:
+- name: B. Biteman
+- name: Biteman, B
+- name: Biteman, B.
+- name: D.D. Biteman
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000140
+sources:
+- url: https://ballotpedia.org/Bo_Biteman
+- url: https://en.wikipedia.org/wiki/Bo_Biteman
+- url: https://justfacts.votesmart.org/candidate/biography/171297/bo-biteman
+- url: https://www.linkedin.com/in/bobiteman
+- url: https://www.wyoleg.gov/Legislators/2018/H/2044
+- url: https://www.wyoleg.gov/Legislators/2023/S/2044
+- url: https://www.wyoleg.gov/Legislators/2025/S/2044
+- url: https://wyoleg.gov/Legislators/2019/R/2044
+- url: https://wyoleg.gov/Legislators/2021/R/2044
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2044
+extras:
+  county: Sheridan County
+  education:
+  - schoolName: Grand Valley State University
+    gradYear: '2002'
+    degree: Bachelor of Business Administration
+  religion: Christian
+  spouse name: Mercedes
+  number of children: '2'
+  birth place: Midland, Michigan
+  occupation: Certified Professional Landman
+  organizations:
+  - orgname: Tongue River Fire Department-Volunteer Firefighter
+  - orgname: American Association of Professional Landmen
+  - orgname: Wyoming Association of Professional Landmen
+  house years: 'House:  2017-Present'
+  prior service:
+  - chamber: House
+    startYear: 2017
+    endYear: '2018'
+    district: ' District 51, '
+  - chamber: Senate
+    startYear: 2019
+    endYear: Present
+    district: ' District 21, '

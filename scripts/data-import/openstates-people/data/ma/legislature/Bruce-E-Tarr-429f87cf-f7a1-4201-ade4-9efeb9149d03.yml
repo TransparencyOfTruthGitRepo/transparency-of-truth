@@ -1,0 +1,52 @@
+id: ocd-person/429f87cf-f7a1-4201-ade4-9efeb9149d03
+name: Bruce Tarr
+given_name: Bruce
+family_name: Tarr
+birth_date: 1964-01-02
+gender: Male
+email: bruce.tarr@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/BET0.jpg
+party:
+- name: Republican
+roles:
+- start_date: 1995-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: First Essex and Middlesex
+- start_date: 1991-01-03
+  end_date: 1995-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: First Essex and Middlesex
+offices:
+- classification: capitol
+  address: Room 308, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1600
+links:
+- url: https://malegislature.gov/Legislators/Profile/BET0
+- url: https://www.tarrtalk.com/
+other_names:
+- name: B. Tarr
+- name: B.E. Tarr
+- name: Bruce E. Tarr
+- name: Tarr, B.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000036
+- scheme: legacy_openstates
+  identifier: MAL000271
+sources:
+- url: https://ballotpedia.org/Bruce_Tarr
+- url: https://en.wikipedia.org/wiki/Bruce_Tarr
+- url: https://justfacts.votesmart.org/candidate/biography/4759/bruce-tarr
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/BET0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/BET0
+- url: https://malegislature.gov/Legislators/Profile/BET0
+- url: https://www.tarrtalk.com
+extras:
+  leadership position: Minority Leader
+  member code: BET0

@@ -1,0 +1,18 @@
+id: ocd-person/3f4f44c4-4668-4714-98dc-4ee7900e4bd1
+name: Douglas Y Yongue
+given_name: Douglas
+family_name: Yongue
+middle_name: Y
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '46'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000180
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/memberList.pl?sChamber=House

@@ -1,0 +1,19 @@
+id: ocd-person/695f61b5-0fe0-47db-b0ba-30cd70e1223b
+name: Arthur J. O'Neill
+given_name: Arthur
+family_name: O'Neill
+email: Arthur.ONeill@housegop.ct.gov
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '69'
+links:
+- url: http://www.cthousegop.com/ONeill/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000105
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

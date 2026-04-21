@@ -1,0 +1,35 @@
+id: ocd-person/ef5a2ea8-61b0-484c-bbe1-b52c5ad2f075
+name: Hillary Hickland
+given_name: Hillary
+family_name: Hickland
+birth_date: 1982-10-18
+gender: Female
+email: hillary.hickland@house.texas.gov
+image: https://www.house.texas.gov/images/members/4520.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '55'
+offices:
+- classification: capitol
+  address: Room E1.218, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0630
+- classification: district
+  address: 2180 N. Main St. Office H7, Belton, TX 76513
+  voice: 254-870-6940
+links:
+- url: https://www.house.texas.gov/members/55
+other_names:
+- name: H. Hickland
+- name: H.G. Hickland
+- name: Hickland, H.
+- name: Hickland, Hillary
+sources:
+- url: https://ballotpedia.org/Hillary_Hickland
+- url: https://justfacts.votesmart.org/candidate/biography/213387/hillary-hickland
+- url: https://www.house.texas.gov/members/4520/biography
+- url: https://www.house.texas.gov/members/55
+- url: https://www.linkedin.com/in/hillary-hickland-87746621b

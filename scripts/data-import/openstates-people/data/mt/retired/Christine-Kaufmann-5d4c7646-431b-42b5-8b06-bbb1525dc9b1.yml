@@ -1,0 +1,28 @@
+id: ocd-person/5d4c7646-431b-42b5-8b06-bbb1525dc9b1
+name: Christine Kaufmann
+given_name: Christine
+family_name: Kaufmann
+image: http://leg.mt.gov/images/legislators_64th/14470.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '41'
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '40'
+links:
+- url: http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=14470
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MTL000022
+- scheme: legacy_openstates
+  identifier: MTL000259
+sources:
+- url: http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=14470
+- url: http://leg.mt.gov/content/sessions/64th/2015SenateMembers.txt

@@ -1,0 +1,97 @@
+id: ocd-person/67c3f0bb-7182-51b8-98d0-253144992bfe
+name: Ted Budd
+given_name: Ted
+family_name: Budd
+birth_date: 1971-10-21
+gender: Male
+email: https://www.budd.senate.gov/contact/
+image: https://unitedstates.github.io/images/congress/450x550/B001305.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: North Carolina
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NC-13
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NC-13
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NC-13
+offices:
+- classification: capitol
+  address: 354 Russell Senate Office Building, Washington, DC 20510
+  voice: 202-224-3154
+- classification: district
+  address: 151 Patton Ave. Suite 204, Asheville, NC 28801
+  voice: 828-333-4130
+- classification: district
+  address: 333 Fayetteville St. Suite 1504, Raleigh, NC 27601
+  voice: 984-349-5061
+- classification: district
+  address: 5380 U.S. Highway 158 Suite 202, Advance, NC 27006
+  voice: 336-941-4470
+- classification: district
+  address: 929 N. Front St. Suite 460, Wilmington, NC 28401
+  voice: 910-218-7600
+links:
+- url: https://www.budd.senate.gov
+  note: website
+- url: https://www.budd.senate.gov/
+- url: https://www.budd.senate.gov/contact/
+  note: contact form
+other_names:
+- name: Budd, T.
+- name: T. Budd
+- name: T.P. Budd
+ids:
+  twitter: RepTedBudd
+  facebook: RepTedBudd
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Ted Budd
+- scheme: bioguide
+  identifier: B001305
+- scheme: cspan
+  identifier: '103513'
+- scheme: fec
+  identifier: H6NC13129
+- scheme: google_entity_id
+  identifier: kg:/g/11c2nmnsj0
+- scheme: govtrack
+  identifier: '412712'
+- scheme: icpsr
+  identifier: '21708'
+- scheme: lis
+  identifier: S417
+- scheme: maplight
+  identifier: '2224'
+- scheme: opensecrets
+  identifier: N00039551
+- scheme: pictorial
+  identifier: '13415'
+- scheme: votesmart
+  identifier: '171489'
+- scheme: wikidata
+  identifier: Q27733792
+sources:
+- url: https://ballotpedia.org/Ted_Budd
+- url: https://en.wikipedia.org/wiki/Ted_Budd
+- url: https://justfacts.votesmart.org/candidate/biography/171489/ted-budd
+- url: https://tedbudd.com/meet-ted
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.budd.senate.gov
+- url: https://www.govtrack.us/congress/members/ted_budd/412712
+- url: https://www.linkedin.com/in/ted-budd-0a44643

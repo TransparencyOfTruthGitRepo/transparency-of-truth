@@ -1,0 +1,41 @@
+id: ocd-person/192ea166-adcc-4d74-b497-2fd4db882a00
+name: Julie Brixie
+given_name: Julie
+family_name: Brixie
+gender: Female
+email: juliebrixie@house.mi.gov
+image: https://housedems.com/sites/default/files/Images/Representative_Images/D069_Julie_Brixie/069_Brixie.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '73'
+- end_date: 2022-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '69'
+offices:
+- classification: capitol
+  address: Room N-1092, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0218
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/brixie
+- url: https://housedems.com/julie-brixie/
+other_names:
+- name: Brixie, J.
+- name: J. Brixie
+sources:
+- url: https://ballotpedia.org/Julie_Brixie
+- url: https://en.wikipedia.org/wiki/Julie_Brixie
+- url: https://housedems.com/brixie
+- url: https://housedems.com/julie-brixie
+- url: https://housedems.com/julie-brixie/
+- url: https://justfacts.votesmart.org/candidate/biography/76611/julie-brixie
+- url: https://www.house.mi.gov/AllRepresentatives
+- url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
+- url: https://www.linkedin.com/in/juliebrixie

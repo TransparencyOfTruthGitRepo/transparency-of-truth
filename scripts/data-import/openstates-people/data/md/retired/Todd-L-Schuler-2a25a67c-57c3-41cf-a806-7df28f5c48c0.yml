@@ -1,0 +1,19 @@
+id: ocd-person/2a25a67c-57c3-41cf-a806-7df28f5c48c0
+name: Todd L Schuler
+given_name: Todd
+family_name: Schuler
+middle_name: L
+image: http://mdarchives.us/msa/mdmanual/06hse/images/1198-1-1660b.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2007-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '8'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000353
+sources:
+- url: http://www.msa.md.gov/msa/mdmanual/06hse/html/msa14632.html

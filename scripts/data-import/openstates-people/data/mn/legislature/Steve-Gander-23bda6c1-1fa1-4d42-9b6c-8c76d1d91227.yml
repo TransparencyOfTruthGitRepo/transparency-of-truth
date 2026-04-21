@@ -1,0 +1,34 @@
+id: ocd-person/23bda6c1-1fa1-4d42-9b6c-8c76d1d91227
+name: Steve Gander
+given_name: Steve
+family_name: Gander
+birth_date: 1961-08-27
+gender: Male
+email: rep.steve.gander@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/01B.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 1B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-5091
+- classification: district
+  address: MN
+  voice: 218-773-3447
+links:
+- url: https://www.house.mn.gov/members/profile/15631
+other_names:
+- name: Gander, S.
+- name: S. Gander
+- name: S.P. Gander
+sources:
+- url: https://ballotpedia.org/Steve_Gander
+- url: https://en.wikipedia.org/wiki/Steve_Gander
+- url: https://justfacts.votesmart.org/candidate/218700/steve-gander
+- url: https://www.house.mn.gov/members/profile/15631
+- url: https://www.linkedin.com/in/steve-gander-b6538811

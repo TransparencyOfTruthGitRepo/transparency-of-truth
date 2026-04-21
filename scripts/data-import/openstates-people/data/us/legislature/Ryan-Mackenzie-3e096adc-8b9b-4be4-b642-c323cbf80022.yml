@@ -1,0 +1,53 @@
+id: ocd-person/3e096adc-8b9b-4be4-b642-c323cbf80022
+name: Ryan Mackenzie
+given_name: Ryan
+family_name: Mackenzie
+birth_date: 1982-08-03
+gender: Male
+email: https://mackenzie.house.gov/address_authentication?form=/contact/email-me
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: PA-7
+offices:
+- classification: capitol
+  address: 121 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-6411
+- classification: district
+  address: 1125 S. Cedar Crest Blvd. Suite 109, Allentown, PA 18103
+  voice: 484-781-6000
+- classification: district
+  address: 1163 Interchange Road Suite C, Lehighton, PA 18235
+  voice: 570-807-0333
+- classification: district
+  address: 2151 Emrick Blvd. Suite 204, Bethlehem, PA 18020
+  voice: 610-333-1170
+- classification: district
+  address: 840 W. Hamilton St. Suite 201, Allentown, PA 18101
+  voice: 484-781-6932
+links:
+- url: https://mackenzie.house.gov
+- url: https://www.palegis.us/house/members/bio/1614/rep-r-mackenzie
+- url: https://www.repmackenzie.com/
+other_names:
+- name: Mackenzie, R.
+- name: R. Mackenzie
+- name: R.E. Mackenzie
+other_identifiers:
+- scheme: bioguide
+  identifier: M001230
+sources:
+- url: https://ballotpedia.org/Ryan_Mackenzie
+- url: https://en.wikipedia.org/wiki/Ryan_Mackenzie
+- url: https://justfacts.votesmart.org/candidate/136465/ryan-mackenzie
+- url: https://justfacts.votesmart.org/candidate/biography/136465/ryan-mackenzie
+- url: https://mackenzie.house.gov
+- url: https://www.linkedin.com/in/ryanemackenzie
+- url: https://www.mackenzieforcongress.com/about
+- url: https://www.palegis.us/house/members/bio/1614/rep-r-mackenzie
+- url: https://www.repmackenzie.com
+- url: https://www.repmackenzie.com/about

@@ -1,0 +1,39 @@
+id: ocd-organization/61a3606f-3a53-4f1a-a173-7b364086b09d
+jurisdiction: ocd-jurisdiction/country:us/state:ne/government
+classification: committee
+name: Government, Military and Veterans Affairs
+chamber: legislature
+sources:
+- url: https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=7
+  note: Committee Details Page
+- url: https://nebraskalegislature.gov/committees/standing-committees.php
+  note: Standing Committees List Page
+links:
+- url: https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=7
+- url: https://nebraskalegislature.gov/committees/standing-committees.php
+members:
+- name: Rita Sanders
+  role: chair
+  person_id: ocd-person/de8d4e0a-36dd-4a84-96ee-e4b7bc4cf69d
+- name: Bob Andersen
+  role: vice chair
+  person_id: ocd-person/db002bad-ee6a-4e22-b5c5-840c665ecad4
+- name: Dan Lonowski
+  role: member
+  person_id: ocd-person/40eb4961-5467-4d1b-af44-59a2e4de6fae
+- name: Dunixi Guereca
+  role: member
+  person_id: ocd-person/54fe68ba-6857-483f-b2ae-ba3233a548c4
+- name: Fred Meyer
+  role: member
+  person_id: ocd-person/5868ed3b-2931-4080-a7c2-9b4eb0e3d487
+- name: John Cavanaugh
+  role: member
+  person_id: ocd-person/0436186a-3b62-46f1-8f36-55e09fca3e77
+- name: Megan Hunt
+  role: member
+  person_id: ocd-person/1b988941-ec1a-4f87-b17a-51fb0309dea0
+- name: Woody Wordekemper
+  role: member
+  person_id: ocd-person/86a9643e-4777-48d4-a79a-5ed192fb7f70
+other_names: []

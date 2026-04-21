@@ -1,0 +1,38 @@
+id: ocd-person/60ae519b-a739-4dc5-80bb-c0161269607a
+name: Cam Cavitt
+given_name: Cam
+family_name: Cavitt
+gender: Male
+email: camcavitt@house.mi.gov
+image: https://www.house.mi.gov/media/Representatives/Cavitt-106.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '106'
+offices:
+- classification: capitol
+  address: Room S-1485, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-0833
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/RepCamCavitt/posts
+other_names:
+- name: C. Cavitt
+- name: Cameron Cavitt
+- name: Cavitt, C.
+sources:
+- url: https://ballotpedia.org/Cameron_Cavitt
+- url: https://gophouse.org/member/RepCamCavitt/about
+- url: https://gophouse.org/member/RepCamCavitt/posts
+- url: https://RepCavitt.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.house.mi.gov/repdetail/repCameronCavitt
+  note: Member Details Page
+- url: https://www.linkedin.com/in/cameron-cavitt-9582ba12

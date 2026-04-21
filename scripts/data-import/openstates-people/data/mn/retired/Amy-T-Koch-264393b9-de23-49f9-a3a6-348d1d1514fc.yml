@@ -1,0 +1,21 @@
+id: ocd-person/264393b9-de23-49f9-a3a6-348d1d1514fc
+name: Amy T Koch
+given_name: Amy
+family_name: Koch
+middle_name: T
+image: http://www.senate.leg.state.mn.us//graphics/19Koch.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '19'
+links:
+- url: http://www.senate.leg.state.mn.us//members/member_bio.php?mem_id=1070&ls=
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000027
+sources:
+- url: http://www.senate.leg.state.mn.us/members/member_list.php

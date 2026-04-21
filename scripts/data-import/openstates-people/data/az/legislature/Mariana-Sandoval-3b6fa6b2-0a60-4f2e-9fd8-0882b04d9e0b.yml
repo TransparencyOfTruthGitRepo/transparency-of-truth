@@ -1,0 +1,33 @@
+id: ocd-person/3b6fa6b2-0a60-4f2e-9fd8-0882b04d9e0b
+name: Mariana Sandoval
+given_name: Mariana
+family_name: Sandoval
+gender: Female
+email: msandoval@azleg.gov
+image: https://azleg.gov/alisImages/MemberPhotos/56leg/House/SANDOVAL.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '23'
+offices:
+- classification: capitol
+  address: Room 326, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-3740
+links:
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2194
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2334
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2194
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2194
+other_names:
+- name: M. Sandoval
+- name: Sandoval, M.
+sources:
+- url: https://ballotpedia.org/Mariana_Sandoval
+- url: https://en.wikipedia.org/wiki/Mariana_Sandoval
+- url: https://justfacts.votesmart.org/candidate/192539/mariana-sandoval
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2194
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2334
+- url: https://www.azleg.gov/memberroster/?body=H

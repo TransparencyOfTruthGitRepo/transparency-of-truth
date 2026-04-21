@@ -1,0 +1,50 @@
+id: ocd-organization/0934ac59-938d-4edf-b6b2-15b3dc1c77e8
+jurisdiction: ocd-jurisdiction/country:us/state:az/government
+classification: committee
+name: Health and Human Services
+chamber: upper
+sources:
+- url: https://apps.azleg.gov/api/Committee/?sessionId=123&includeMembers=true
+- url: https://apps.azleg.gov/api/Committee/?sessionId=127&includeMembers=true
+- url: https://apps.azleg.gov/api/Committee/?sessionId=128&includeMembers=true
+  note: API with all committee details
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2225&sessionId=129
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView?SessionID=128
+links:
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2025&sessionId=128
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2225&sessionId=129
+- url: https://apps.azleg.gov/BillStatus/CommitteeOverView?SessionID=128
+  note: homepage
+members:
+- name: Carine Werner
+  role: chair
+  person_id: ocd-person/051cb7cf-e965-49a7-844a-a8830447df0c
+- name: T.J. Shope
+  role: vice chair
+  person_id: ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015
+- name: Hildy Angius
+  role: member
+  person_id: ocd-person/a739b3e9-8161-4b10-b007-3d1e90de791f
+- name: Janae Shamp
+  role: member
+  person_id: ocd-person/c94f542a-52e0-4831-8479-02793a97ccd9
+- name: Kiana Sears
+  role: member
+  person_id: ocd-person/78fce9ac-3aa4-484f-b345-f55bbbf9db9b
+- name: Lela Alston
+  role: member
+  person_id: ocd-person/030638cb-5fcd-4637-8c59-c129e28db988
+- name: "Rosanna Gabald\xF3n"
+  role: member
+  person_id: ocd-person/6de57177-1b9e-4864-bb87-97c528842030
+- name: Sally Gonzales
+  role: member
+  person_id: ocd-person/3c965e03-1e51-4f10-a037-4fb2f35292c5
+other_names:
+- name: Senate Committee on Health and Human Services
+- name: Senate Health and Human Services
+- name: Senate Health and Human Services Committee
+extras:
+  Committee ID: 2025
+  Committee Short Name: HHS
+  Committee Type: Standing

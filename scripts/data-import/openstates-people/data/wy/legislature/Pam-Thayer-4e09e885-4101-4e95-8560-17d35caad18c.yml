@@ -1,0 +1,31 @@
+id: ocd-person/4e09e885-4101-4e95-8560-17d35caad18c
+name: Pam Thayer
+given_name: Pam
+family_name: Thayer
+gender: Female
+email: pam.thayer@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-ThayerPamela.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '15'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district
+  address: 219 W. Maple St., Rawlins, WY 82301
+links:
+- url: https://www.wyoleg.gov/Legislators/2025/H/2119
+other_names:
+- name: P. Thayer
+- name: Thayer, P
+- name: Thayer, P.
+sources:
+- url: https://ballotpedia.org/Pam_Thayer
+- url: https://en.wikipedia.org/wiki/Pam_Thayer
+- url: https://justfacts.votesmart.org/candidate/biography/218319/pamela-thayer
+- url: https://www.linkedin.com/in/pam-thayer-289a5918b
+- url: https://www.wyoleg.gov/Legislators/2025/H/2119

@@ -1,0 +1,28 @@
+id: ocd-person/3fc028e6-c73a-4959-8889-63b4e3e50f1c
+name: Jonathan Cooper
+given_name: Jonathan
+family_name: Cooper
+gender: Male
+email: jcooper@leg.state.vt.us
+image: https://legislature.vermont.gov/Documents/Legislators/Cooper,Jonathan.jpeg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Bennington-1
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 05633
+  voice: 802-828-2228
+links:
+- url: https://legislature.vermont.gov/people/single/2026/40399
+other_names:
+- name: Cooper, J.
+- name: J. Cooper
+sources:
+- url: https://ballotpedia.org/Jonathan_Cooper_(Vermont)
+- url: https://en.wikipedia.org/wiki/Jonathan_Cooper_(politician)
+- url: https://legislature.vermont.gov/people/single/2026/40399
+- url: https://www.linkedin.com/in/jonathan-cooper-cecd

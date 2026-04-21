@@ -1,0 +1,33 @@
+id: ocd-person/c5b24334-9dfa-4356-8aa2-8f91c2a3d692
+name: Mitch Boggs
+given_name: Mitch
+family_name: Boggs
+gender: Male
+email: mitch.boggs@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2241
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '157'
+offices:
+- classification: capitol
+  address: Room 113, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-4077
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=157
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=157
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=157
+other_names:
+- name: Boggs, M.
+- name: Boggs, Mitch
+- name: M. Boggs
+sources:
+- url: https://ballotpedia.org/Mitch_Boggs
+- url: https://house.mo.gov/MemberDetails.aspx?district=157
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=157
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=157
+extras:
+  hometown: LaRussell

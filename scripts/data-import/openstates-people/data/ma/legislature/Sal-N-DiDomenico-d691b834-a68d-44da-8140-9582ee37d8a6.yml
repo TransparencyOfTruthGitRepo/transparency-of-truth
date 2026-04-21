@@ -1,0 +1,51 @@
+id: ocd-person/d691b834-a68d-44da-8140-9582ee37d8a6
+name: Sal DiDomenico
+given_name: Sal
+family_name: DiDomenico
+birth_date: 1971-06-20
+gender: Male
+email: sal.didomenico@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/SND0.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2010-05-20
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Middlesex and Suffolk
+offices:
+- classification: capitol
+  address: Room 405, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-1650
+links:
+- url: https://malegislature.gov/Legislators/Profile/SND0
+- url: https://www.senatordidomenico.com/
+other_names:
+- name: DiDomenico, S.
+- name: S. DiDomenico
+- name: S.N. DiDomenico
+- name: Sal N. DiDomenico
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000009
+- scheme: legacy_openstates
+  identifier: MAL000236
+- scheme: legacy_openstates
+  identifier: MAL000250
+sources:
+- url: https://ballotpedia.org/Sal_DiDomenico
+- url: https://en.wikipedia.org/wiki/Sal_DiDomenico
+- url: https://justfacts.votesmart.org/candidate/75393/sal-didomenico
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/SND0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/SND0
+- url: https://malegislature.gov/Legislators/Profile/SND0
+- url: https://www.linkedin.com/in/sal-didomenico-a398238
+- url: https://www.senatordidomenico.com
+- url: https://www.senatordidomenico.com/about
+extras:
+  leadership position: Assistant Majority Leader
+  member code: SND0

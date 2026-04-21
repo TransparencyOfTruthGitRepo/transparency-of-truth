@@ -1,0 +1,23 @@
+id: ocd-person/32597e2e-14f7-42b3-b011-8b7158628ca2
+name: Nelson Dollar
+given_name: Nelson
+family_name: Dollar
+image: http://www.ncleg.net/House/pictures/hiRes/489.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '36'
+links:
+- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=House&nUserID=489
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000086
+sources:
+- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=House&nUserID=489
+extras:
+  counties:
+  - Wake
+  notice: null

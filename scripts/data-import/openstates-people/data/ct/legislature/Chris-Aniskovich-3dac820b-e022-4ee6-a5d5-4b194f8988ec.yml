@@ -1,0 +1,36 @@
+id: ocd-person/3dac820b-e022-4ee6-a5d5-4b194f8988ec
+name: Chris Aniskovich
+given_name: Chris
+family_name: Aniskovich
+gender: Male
+email: chris.aniskovich@housegop.ct.gov
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '35'
+offices:
+- classification: capitol
+  address: Room 4200, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-8700
+links:
+- url: https://www.cthousegop.com/aniskovich/
+- url: https://www.cthousegop.com/Aniskovich/
+other_names:
+- name: Aniskovich, C.
+- name: C. Aniskovich
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Chris_Aniskovich
+- url: https://en.wikipedia.org/wiki/Chris_Aniskovich
+- url: https://justfacts.votesmart.org/candidate/biography/208578/christopher-aniskovich
+- url: https://www.cthousegop.com/Aniskovich
+- url: https://www.cthousegop.com/Aniskovich/
+- url: https://www.linkedin.com/in/chris-aniskovich-67a9456
+extras:
+  gender: Male
+  committees: Banking; Commerce; General Law
+  committee codes: ;BA;CE;GL;
+  prison: '0'

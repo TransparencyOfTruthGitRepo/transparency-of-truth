@@ -1,0 +1,21 @@
+id: ocd-person/c856daea-5882-4852-9a6e-1f321eef0897
+name: JoAn E. Wood
+given_name: JoAn
+family_name: Wood
+middle_name: E.
+image: http://legislature.idaho.gov/images/Wood70.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: '35'
+links:
+- url: http://legislature.idaho.gov/house/membershipSingle.cfm?ID=70
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IDL000106
+sources:
+- url: http://legislature.idaho.gov/house/membership.cfm

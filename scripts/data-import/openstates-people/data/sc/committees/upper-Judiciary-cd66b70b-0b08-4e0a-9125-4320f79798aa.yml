@@ -1,0 +1,87 @@
+id: ocd-organization/cd66b70b-0b08-4e0a-9125-4320f79798aa
+jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+classification: committee
+name: Judiciary
+chamber: upper
+sources:
+- url: https://www.scstatehouse.gov/committee.php?chamber=S
+  note: Committee list page
+- url: https://www.scstatehouse.gov/CommitteeInfo/senatejudiciary.php
+  note: Committee details page
+links:
+- url: https://www.scstatehouse.gov/CommitteeInfo/senatejudiciary.php
+  note: homepage
+members:
+- name: Luke Rankin
+  role: chair
+  person_id: ocd-person/27fb6caf-f757-44a3-8973-6ce72aacd7e2
+- name: Allen Blackmon
+  role: member
+  person_id: ocd-person/52d28efd-d83d-4825-8572-c9e30b8d7c77
+- name: Brian Adams
+  role: member
+  person_id: ocd-person/9f665ce8-ed4c-4bef-841f-3036ac03a181
+- name: Carlisle Kennedy
+  role: member
+  person_id: ocd-person/31de54c6-a271-4c9e-a109-35de035197ce
+- name: Chip Campsen
+  role: member
+  person_id: ocd-person/2ff21c9e-e03e-4f5c-ac4e-7b1e5633969d
+- name: Deon Tedder
+  role: member
+  person_id: ocd-person/4f07a054-384b-4fc7-b60a-f5848ea514d4
+- name: Ed Sutton
+  role: member
+  person_id: ocd-person/6cabdb85-c770-42ce-9eaf-68326c9dc0aa
+- name: Everett Stubbs
+  role: member
+  person_id: ocd-person/c699e1e2-e3f4-4b78-8aeb-7bef9374518f
+- name: J.D. Chaplin
+  role: member
+  person_id: ocd-person/a34e27e4-59ab-41a6-89ee-1b5d82fcbcf6
+- name: Jason Elliott
+  role: member
+  person_id: ocd-person/3d40ff3f-ddbf-4611-a366-9be7d55b9247
+- name: Jeff Zell
+  role: member
+  person_id: ocd-person/236892d9-be31-4afa-9c3c-e68dff8bf480
+- name: Jeffrey Graham
+  role: member
+  person_id: ocd-person/2a153d17-d828-4285-a361-fb9f736dd388
+- name: Josh Kimbrell
+  role: member
+  person_id: ocd-person/abab175f-5281-4f94-9550-09131ee156ad
+- name: Lee Bright
+  role: member
+  person_id: ocd-person/3ebbdeb2-9bbf-41d3-8175-2d4e901cb9d1
+- name: Matt Leber
+  role: member
+  person_id: ocd-person/1bf0b19d-9fa1-474a-99f2-16e7835064cf
+- name: Michael Johnson
+  role: member
+  person_id: ocd-person/ef901990-e178-4836-b40c-1b5822227650
+- name: Mike Reichenbach
+  role: member
+  person_id: ocd-person/c2a237ba-67b6-4280-9cf2-430f1d10d28e
+- name: Overture Walker
+  role: member
+  person_id: ocd-person/3e43cada-6457-40bf-9f6d-ed024f737177
+- name: Richard Cash
+  role: member
+  person_id: ocd-person/69162972-6151-4fe2-b5fe-dee599d86ad3
+- name: Russell Ott
+  role: member
+  person_id: ocd-person/458d191f-6584-4548-b464-a3a24cda3cf3
+- name: Shane Massey
+  role: member
+  person_id: ocd-person/340b7b78-4f07-49ef-8872-dab35cf48c5c
+- name: Tameika Isaac Devine
+  role: member
+  person_id: ocd-person/51410bac-c642-4cd8-9935-dd87b16a6972
+- name: Tom Fernandez
+  role: member
+  person_id: ocd-person/74b41634-f393-47b4-807b-124c14277ecb
+other_names:
+- name: Senate Committee on Judiciary
+- name: Senate Judiciary
+- name: Senate Judiciary Committee

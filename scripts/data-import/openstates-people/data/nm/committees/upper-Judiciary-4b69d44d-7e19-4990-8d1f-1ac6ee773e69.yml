@@ -1,0 +1,43 @@
+id: ocd-organization/4b69d44d-7e19-4990-8d1f-1ac6ee773e69
+jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+classification: committee
+name: Judiciary
+chamber: upper
+sources:
+- url: https://www.nmlegis.gov/Committee/
+  note: Committee Page from nmlegis.gov site
+- url: https://www.nmlegis.gov/Committee/Standing_Committee?CommitteeCode=SJC
+links:
+- url: https://www.nmlegis.gov/Committee/Standing_Committee?CommitteeCode=SJC
+members:
+- name: Joe Cervantes
+  role: chair
+  person_id: ocd-person/14f0186e-bf9b-46aa-aa00-1ccc8f58490b
+- name: Moe Maestas
+  role: vice chair
+  person_id: ocd-person/2913173a-2bfe-4474-8bdc-d145f868c4de
+- name: Crystal Brantley
+  role: ranking member
+  person_id: ocd-person/1ed6a003-54c1-4da3-b297-0cec8ddf4882
+- name: Antoinette Sedillo Lopez
+  role: member
+  person_id: ocd-person/3dcac810-1d9b-4a4d-9e82-8b6e49eba735
+- name: Jim Townsend
+  role: member
+  person_id: ocd-person/667a8a3c-dbe9-4aba-b768-e90be503df88
+- name: Katy Duhigg
+  role: member
+  person_id: ocd-person/cce76180-bf09-413a-9d9d-1cc8ae7cf2db
+- name: Mimi Stewart
+  role: member
+  person_id: ocd-person/f1144347-0a16-43e4-97b9-01308a890631
+- name: Pat Boone
+  role: member
+  person_id: ocd-person/4093c9b8-d07a-4a12-b13b-abbd4130b1fe
+- name: Peter Wirth
+  role: member
+  person_id: ocd-person/7595b557-0c70-44e3-a26b-af533d1ca94d
+other_names:
+- name: Senate Committee on Judiciary
+- name: Senate Judiciary
+- name: Senate Judiciary Committee

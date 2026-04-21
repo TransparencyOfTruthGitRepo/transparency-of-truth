@@ -1,0 +1,20 @@
+id: ocd-person/b56ac685-dc65-4583-9209-e8fd129455e2
+name: Ezequiel Santiago
+given_name: Ezequiel
+family_name: Santiago
+death_date: 2019-03-15
+party:
+- name: Democratic
+roles:
+- end_date: '2019-03-15'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '130'
+  end_reason: Deceased
+links:
+- url: http://www.housedems.ct.gov/Santiago
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000166
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

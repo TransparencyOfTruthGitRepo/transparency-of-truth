@@ -1,0 +1,52 @@
+id: ocd-person/3b2b3cb2-3ef8-400d-b395-6b0895ea7631
+name: Bradford Blackmon
+given_name: Bradford
+family_name: Blackmon
+gender: Male
+email: bblackmon@senate.ms.gov
+image: https://billstatus.ls.state.ms.us/members/senate/blackmon.jpeg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '21'
+offices:
+- classification: capitol
+  address: State Capitol Room 405, 400 High St., Jackson, MS 39201
+  voice: 601-359-2224
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/senate/blackmon.xml
+  note: homepage
+other_names:
+- name: B. Blackmon
+- name: B.J. Blackmon
+- name: Barbara Blackmon
+- name: Blackmon, B.
+- name: Bradford J. Blackmon
+- name: Bradford Jerome Blackmon
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000260
+sources:
+- url: https://ballotpedia.org/Bradford_Blackmon
+- url: https://billstatus.ls.state.ms.us/members/senate/blackmon.xml
+- url: https://billstatus.ls.state.ms.us/members/ss_membs.xml
+- url: https://blackmonlawfirm.com/attorneys/bradfordblackmon
+- url: https://www.linkedin.com/in/bradford-blackmon-a90752b4
+extras:
+  occupation: Attorney
+  education:
+  - Jackson State University, B.S. Business Administration
+  - University of Alabama M.B.A.
+  - University of Mississippi, Juris Doctorate
+  - New York University, L.L.M. (Taxation)
+  counties represented:
+  - Attala
+  - Holmes
+  - Leake
+  - Madison
+  - Yazoo

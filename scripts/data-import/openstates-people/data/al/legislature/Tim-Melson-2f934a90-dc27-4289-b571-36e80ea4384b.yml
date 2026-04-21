@@ -1,0 +1,49 @@
+id: ocd-person/2f934a90-dc27-4289-b571-36e80ea4384b
+name: Tim Melson
+given_name: Tim
+family_name: Melson
+birth_date: 1960-01-01
+gender: Male
+email: tim.melson@alsenate.gov
+image: https://www.legislature.state.al.us/pdf/senate/members/Melson_1.png
+party:
+- name: Republican
+roles:
+- start_date: 2014-11-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '1'
+offices:
+- classification: capitol
+  address: Room 726, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0888
+links:
+- url: https://alison.legislature.state.al.us/senate-leaders-members
+  note: homepage
+- url: https://alsenaterepublicans.org/representatives/001-tim-melson/
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100444&OID_PERSON=7688
+other_names:
+- name: Melson, T.
+- name: T. Melson
+- name: T.I. Melson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ALL000183
+- scheme: legacy_openstates
+  identifier: ALL000296
+- scheme: legacy_openstates
+  identifier: ALL000333
+- scheme: legacy_openstates
+  identifier: ALL000538
+sources:
+- url: https://alsenaterepublicans.org/representatives/001-tim-melson
+- url: https://ballotpedia.org/Tim_Melson
+- url: https://en.wikipedia.org/wiki/Tim_Melson
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/149972/tim-melson
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Melson&OID_SPONSOR=100444&OID_PERSON=7688&SESSNAME=Regular%20Session%202022
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?OID_SPONSOR=100444&OID_PERSON=7688
+- url: https://www.legislature.state.al.us/aliswww/ISD/Senate/ALSenators.aspx
+extras:
+  counties: Lauderdale County, Limestone County

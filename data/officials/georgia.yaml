@@ -1,225 +1,227 @@
-state: georgia
+﻿state: georgia
 state_abbrev: GA
 last_updated: "2026-04-20"
 officials:
 
-  # ── EXECUTIVE ──────────────────────────────────────────
-  - person_id: "ga-gov-kemp-brian"
-    full_name: "Brian Kemp"
-    office_title: "Governor"
-    chamber: "executive"
-    party: "Republican"
-    status: "active"
-    phone: "(404) 656-1776"
-    email: null
-    official_website: "https://gov.georgia.gov"
-    office_page_url: "https://gov.georgia.gov"
-    bio_short: "82nd Governor of Georgia, serving since January 2019."
-    review_status: "source-confirmed"
-    source_urls: ["https://gov.georgia.gov"]
+  # â”€â”€ EXECUTIVE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+- person_id: "ga-gov-kemp-brian"
+  full_name: "Brian Kemp"
+  office_title: "Governor"
+  chamber: "executive"
+  party: "Republican"
+  status: "active"
+  phone: "(404) 656-1776"
+  email: null
+  official_website: "https://gov.georgia.gov"
+  office_page_url: "https://gov.georgia.gov"
+  bio_short: "82nd Governor of Georgia, serving since January 2019."
+  review_status: "source-confirmed"
+  source_urls: ["https://gov.georgia.gov"]
 
-  - person_id: "ga-ltgov-jones-burt"
-    full_name: "Burt Jones"
-    office_title: "Lieutenant Governor"
-    chamber: "executive"
-    party: "Republican"
-    status: "active"
-    phone: "(404) 656-5030"
-    email: null
-    official_website: "https://ltgov.georgia.gov"
-    office_page_url: "https://ltgov.georgia.gov"
-    bio_short: "Lieutenant Governor of Georgia, serving since January 2023."
-    review_status: "source-confirmed"
-    source_urls: ["https://ltgov.georgia.gov"]
+- person_id: "ga-ltgov-jones-burt"
+  full_name: "Burt Jones"
+  office_title: "Lieutenant Governor"
+  chamber: "executive"
+  party: "Republican"
+  status: "active"
+  phone: "(404) 656-5030"
+  email: null
+  official_website: "https://ltgov.georgia.gov"
+  office_page_url: "https://ltgov.georgia.gov"
+  bio_short: "Lieutenant Governor of Georgia, serving since January 2023."
+  review_status: "source-confirmed"
+  source_urls: ["https://ltgov.georgia.gov"]
 
-  - person_id: "ga-ag-carr-chris"
-    full_name: "Chris Carr"
-    office_title: "Attorney General"
-    chamber: "executive"
-    party: "Republican"
-    status: "active"
-    phone: "(404) 656-3300"
-    email: null
-    official_website: "https://law.georgia.gov"
-    office_page_url: "https://law.georgia.gov"
-    bio_short: "Attorney General of Georgia, serving since December 2016."
-    review_status: "source-confirmed"
-    source_urls: ["https://law.georgia.gov"]
+- person_id: "ga-ag-carr-chris"
+  full_name: "Chris Carr"
+  office_title: "Attorney General"
+  chamber: "executive"
+  party: "Republican"
+  status: "active"
+  phone: "(404) 656-3300"
+  email: null
+  official_website: "https://law.georgia.gov"
+  office_page_url: "https://law.georgia.gov"
+  bio_short: "Attorney General of Georgia, serving since December 2016."
+  review_status: "source-confirmed"
+  source_urls: ["https://law.georgia.gov"]
 
-  - person_id: "ga-sos-raffensperger-brad"
-    full_name: "Brad Raffensperger"
-    office_title: "Secretary of State"
-    chamber: "executive"
-    party: "Republican"
-    status: "active"
-    phone: "(404) 656-2881"
-    email: null
-    official_website: "https://sos.ga.gov"
-    office_page_url: "https://sos.ga.gov"
-    bio_short: "Georgia Secretary of State, serving since January 2019."
-    review_status: "source-confirmed"
-    source_urls: ["https://sos.ga.gov"]
+- person_id: "ga-sos-raffensperger-brad"
+  full_name: "Brad Raffensperger"
+  office_title: "Secretary of State"
+  chamber: "executive"
+  party: "Republican"
+  status: "active"
+  phone: "(404) 656-2881"
+  email: null
+  official_website: "https://sos.ga.gov"
+  office_page_url: "https://sos.ga.gov"
+  bio_short: "Georgia Secretary of State, serving since January 2019."
+  review_status: "source-confirmed"
+  source_urls: ["https://sos.ga.gov"]
 
-  - person_id: "ga-sfr-tyler-harper"
-    full_name: "Tyler Harper"
-    office_title: "Commissioner of Agriculture"
-    chamber: "executive"
-    party: "Republican"
-    status: "active"
-    phone: "(404) 656-3600"
-    email: null
-    official_website: "https://agr.georgia.gov"
-    office_page_url: "https://www.agr.georgia.gov/Commissioner-Tyler-Harper"
-    bio_short: "17th Commissioner of Agriculture, serving since January 2023. 7th generation farmer from rural South Georgia."
-    review_status: "source-confirmed"
-    source_urls: ["https://agr.georgia.gov", "https://www.agr.georgia.gov/Commissioner-Tyler-Harper"]
+- person_id: "ga-sfr-tyler-harper"
+  full_name: "Tyler Harper"
+  office_title: "Commissioner of Agriculture"
+  chamber: "executive"
+  party: "Republican"
+  status: "active"
+  phone: "(404) 656-3600"
+  email: null
+  official_website: "https://agr.georgia.gov"
+  office_page_url: "https://www.agr.georgia.gov/Commissioner-Tyler-Harper"
+  bio_short: "17th Commissioner of Agriculture, serving since January 2023. 7th generation farmer from rural South Georgia."
+  review_status: "source-confirmed"
+  source_urls: ["https://agr.georgia.gov", "https://www.agr.georgia.gov/Commissioner-Tyler-Harper"]
 
-  - person_id: "ga-ins-hudgens-ralph"
-    full_name: "John King"
-    office_title: "Commissioner of Insurance"
-    chamber: "executive"
-    party: "Republican"
-    status: "active"
-    phone: "(404) 656-2070"
-    email: null
-    official_website: "https://oci.georgia.gov"
-    office_page_url: "https://oci.georgia.gov"
-    bio_short: "Georgia Commissioner of Insurance and Safety Fire."
-    review_status: "source-confirmed"
-    source_urls: ["https://oci.georgia.gov"]
+- person_id: "ga-ins-hudgens-ralph"
+  full_name: "John King"
+  office_title: "Commissioner of Insurance"
+  chamber: "executive"
+  party: "Republican"
+  status: "active"
+  phone: "(404) 656-2070"
+  email: null
+  official_website: "https://oci.georgia.gov"
+  office_page_url: "https://oci.georgia.gov"
+  bio_short: "Georgia Commissioner of Insurance and Safety Fire."
+  review_status: "source-confirmed"
+  source_urls: ["https://oci.georgia.gov"]
 
-  - person_id: "ga-labor-butler-bruce"
-    full_name: "Bruce Thompson"
-    office_title: "Commissioner of Labor"
-    chamber: "executive"
-    party: "Republican"
-    status: "active"
-    phone: "(404) 656-3011"
-    email: null
-    official_website: "https://dol.georgia.gov"
-    office_page_url: "https://dol.georgia.gov"
-    bio_short: "Georgia Commissioner of Labor."
-    review_status: "source-confirmed"
-    source_urls: ["https://dol.georgia.gov"]
+- person_id: "ga-labor-butler-bruce"
+  full_name: "Bruce Thompson"
+  office_title: "Commissioner of Labor"
+  chamber: "executive"
+  party: "Republican"
+  status: "active"
+  phone: "(404) 656-3011"
+  email: null
+  official_website: "https://dol.georgia.gov"
+  office_page_url: "https://dol.georgia.gov"
+  bio_short: "Georgia Commissioner of Labor."
+  review_status: "source-confirmed"
+  source_urls: ["https://dol.georgia.gov"]
 
-  # ── SENATE LEADERSHIP ──────────────────────────────────
-  - person_id: "ga-sen-president-jones-burt"
-    full_name: "Burt Jones"
-    office_title: "President of the Senate"
-    chamber: "senate"
-    party: "Republican"
-    status: "active"
-    district: "Statewide"
-    phone: "(404) 656-5030"
-    email: null
-    official_website: "https://www.senate.ga.gov"
-    office_page_url: "https://www.senate.ga.gov/senators/en-US/member.aspx?Member=4"
-    bio_short: "President of the Georgia Senate (Lt. Governor). Senate District 25."
-    review_status: "source-confirmed"
-    source_urls: ["https://www.senate.ga.gov"]
+  # â”€â”€ SENATE LEADERSHIP â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+- person_id: "ga-sen-president-jones-burt"
+  full_name: "Burt Jones"
+  office_title: "President of the Senate"
+  chamber: "senate"
+  party: "Republican"
+  status: "active"
+  district: "Statewide"
+  phone: "(404) 656-5030"
+  email: null
+  official_website: "https://www.senate.ga.gov"
+  office_page_url: "https://www.senate.ga.gov/senators/en-US/member.aspx?Member=4"
+  bio_short: "President of the Georgia Senate (Lt. Governor). Senate District 25."
+  review_status: "source-confirmed"
+  source_urls: ["https://www.senate.ga.gov"]
 
-    - person_id: "ga-sen-pro-tem-miller-blake"
-    full_name: "Vacant"
-    office_title: "Senate President Pro Tempore"
-    chamber: "senate"
-    party: null
-    status: "vacant"
-    phone: null
-    email: null
-    official_website: "https://www.senate.ga.gov"
-    office_page_url: "https://www.senate.ga.gov"
-    bio_short: "Position vacant as of June 2025. Former Pro Tem John F. Kennedy vacated the role upon announcing his 2026 Lt. Governor campaign and resigned his Senate seat December 2025."
-    review_status: "source-confirmed"
-    source_urls: ["https://www.statesboroherald.com/local/macons-republican-jfk-runs-for-lt-govs-office-on-pro-business-pro-growth-track/", "https://www.fox5atlanta.com/news/sen-john-f-kennedy-resigns-campaign-full-time-lt-governor"]
+- person_id: "ga-sen-pro-tem-miller-blake"
+  full_name: "Vacant"
+  office_title: "Senate President Pro Tempore"
+  chamber: "senate"
+  party: null
+  status: "vacant"
+  phone: null
+  email: null
+  official_website: "https://www.senate.ga.gov"
+  office_page_url: "https://www.senate.ga.gov"
+  bio_short: "Position vacant as of June 2025. Former Pro Tem John F. Kennedy vacated the role upon announcing his 2026 Lt. Governor campaign and resigned his Senate seat December 2025."
+  review_status: "source-confirmed"
+  source_urls: ["https://www.statesboroherald.com/local/macons-republican-jfk-runs-for-lt-govs-office-on-pro-business-pro-growth-track/", "https://www.fox5atlanta.com/news/sen-john-f-kennedy-resigns-campaign-full-time-lt-governor"]
 
-  - person_id: "ga-sen-majority-leader"
-    full_name: "Steve Gooch"
-    office_title: "Senate Majority Leader"
-    chamber: "senate"
-    party: "Republican"
-    status: "active"
-    district: "District 51"
-    phone: "(404) 656-9221"
-    email: null
-    official_website: "https://www.senate.ga.gov"
-    office_page_url: "https://www.senate.ga.gov/senators/en-US/member.aspx?Member=49"
-    bio_short: "Georgia Senate Majority Leader. Announced 2026 Lt. Governor campaign — leadership status may change before November 2026."
-    review_status: "source-confirmed"
-    source_urls: ["https://www.senate.ga.gov"]
-    notes: "Running for Lt. Governor in 2026. Monitor for leadership title change."
+- person_id: "ga-sen-majority-leader"
+  full_name: "Steve Gooch"
+  office_title: "Senate Majority Leader"
+  chamber: "senate"
+  party: "Republican"
+  status: "active"
+  district: "District 51"
+  phone: "(404) 656-9221"
+  email: null
+  official_website: "https://www.senate.ga.gov"
+  office_page_url: "https://www.senate.ga.gov/senators/en-US/member.aspx?Member=49"
+  bio_short: "Georgia Senate Majority Leader. Announced 2026 Lt. Governor campaign â€” leadership status may change before November 2026."
+  review_status: "source-confirmed"
+  source_urls: ["https://www.senate.ga.gov"]
+  notes: "Running for Lt. Governor in 2026. Monitor for leadership title change."
 
-  - person_id: "ga-sen-minority-leader"
-    full_name: "Gloria Butler"
-    office_title: "Senate Minority Leader"
-    chamber: "senate"
-    party: "Democrat"
-    status: "active"
-    district: "District 55"
-    phone: "(404) 463-8053"
-    email: null
-    official_website: "https://www.senate.ga.gov"
-    office_page_url: "https://www.senate.ga.gov/senators/en-US/member.aspx?Member=55"
-    bio_short: "Georgia Senate Minority Leader."
-    review_status: "source-confirmed"
-    source_urls: ["https://www.senate.ga.gov"]
+- person_id: "ga-sen-minority-leader"
+  full_name: "Gloria Butler"
+  office_title: "Senate Minority Leader"
+  chamber: "senate"
+  party: "Democrat"
+  status: "active"
+  district: "District 55"
+  phone: "(404) 463-8053"
+  email: null
+  official_website: "https://www.senate.ga.gov"
+  office_page_url: "https://www.senate.ga.gov/senators/en-US/member.aspx?Member=55"
+  bio_short: "Georgia Senate Minority Leader."
+  review_status: "source-confirmed"
+  source_urls: ["https://www.senate.ga.gov"]
 
-  # ── HOUSE LEADERSHIP ───────────────────────────────────
-  - person_id: "ga-house-speaker-burns-jon"
-    full_name: "Jon Burns"
-    office_title: "Speaker of the House"
-    chamber: "house"
-    party: "Republican"
-    status: "active"
-    district: "District 159"
-    phone: "(404) 656-5020"
-    email: null
-    official_website: "https://www.house.ga.gov"
-    office_page_url: "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4"
-    bio_short: "Speaker of the Georgia House of Representatives."
-    review_status: "source-confirmed"
-    source_urls: ["https://www.house.ga.gov"]
+  # â”€â”€ HOUSE LEADERSHIP â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+- person_id: "ga-house-speaker-burns-jon"
+  full_name: "Jon Burns"
+  office_title: "Speaker of the House"
+  chamber: "house"
+  party: "Republican"
+  status: "active"
+  district: "District 159"
+  phone: "(404) 656-5020"
+  email: null
+  official_website: "https://www.house.ga.gov"
+  office_page_url: "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4"
+  bio_short: "Speaker of the Georgia House of Representatives."
+  review_status: "source-confirmed"
+  source_urls: ["https://www.house.ga.gov"]
 
-  - person_id: "ga-house-speaker-pro-tem"
-    full_name: "Jan Jones"
-    office_title: "Speaker Pro Tempore"
-    chamber: "house"
-    party: "Republican"
-    status: "active"
-    district: "District 47"
-    phone: "(404) 656-5072"
-    email: null
-    official_website: "https://www.house.ga.gov"
-    office_page_url: "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=14"
-    bio_short: "Speaker Pro Tempore of the Georgia House."
-    review_status: "source-confirmed"
-    source_urls: ["https://www.house.ga.gov"]
+- person_id: "ga-house-speaker-pro-tem"
+  full_name: "Jan Jones"
+  office_title: "Speaker Pro Tempore"
+  chamber: "house"
+  party: "Republican"
+  status: "active"
+  district: "District 47"
+  phone: "(404) 656-5072"
+  email: null
+  official_website: "https://www.house.ga.gov"
+  office_page_url: "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=14"
+  bio_short: "Speaker Pro Tempore of the Georgia House."
+  review_status: "source-confirmed"
+  source_urls: ["https://www.house.ga.gov"]
 
-  - person_id: "ga-house-majority-leader"
-    full_name: "Chuck Efstration"
-    office_title: "House Majority Leader"
-    chamber: "house"
-    party: "Republican"
-    status: "active"
-    district: "District 104"
-    phone: "(404) 656-5943"
-    email: null
-    official_website: "https://www.house.ga.gov"
-    office_page_url: "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=799"
-    bio_short: "Georgia House Majority Leader."
-    review_status: "source-confirmed"
-    source_urls: ["https://www.house.ga.gov"]
+- person_id: "ga-house-majority-leader"
+  full_name: "Chuck Efstration"
+  office_title: "House Majority Leader"
+  chamber: "house"
+  party: "Republican"
+  status: "active"
+  district: "District 104"
+  phone: "(404) 656-5943"
+  email: null
+  official_website: "https://www.house.ga.gov"
+  office_page_url: "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=799"
+  bio_short: "Georgia House Majority Leader."
+  review_status: "source-confirmed"
+  source_urls: ["https://www.house.ga.gov"]
 
-  - person_id: "ga-house-minority-leader"
-    full_name: "Carolyn Hugley"
-    office_title: "House Minority Leader"
-    chamber: "house"
-    party: "Democrat"
-    status: "active"
-    district: "District 136"
-    phone: "(404) 656-6372"
-    email: null
-    official_website: "https://www.house.ga.gov"
-    office_page_url: "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=133"
-    bio_short: "Georgia House Minority Leader."
-    review_status: "source-confirmed"
-    source_urls: ["https://www.house.ga.gov"]
+- person_id: "ga-house-minority-leader"
+  full_name: "Carolyn Hugley"
+  office_title: "House Minority Leader"
+  chamber: "house"
+  party: "Democrat"
+  status: "active"
+  district: "District 136"
+  phone: "(404) 656-6372"
+  email: null
+  official_website: "https://www.house.ga.gov"
+  office_page_url: "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=133"
+  bio_short: "Georgia House Minority Leader."
+  review_status: "source-confirmed"
+  source_urls: ["https://www.house.ga.gov"]
+
+

@@ -1,0 +1,31 @@
+id: ocd-person/0b527203-a2ca-4ad9-aa44-d63e02c0b336
+name: Perry E. Thurston, Jr.
+given_name: Perry
+family_name: Thurston
+email: thurston.perry.web@flsenate.gov
+image: https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s33_5191.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-01
+  end_date: '2022-01-10'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '33'
+  end_reason: Resigned to run in special election for the 20th Congressional District
+links:
+- url: http://www.flsenate.gov/Senators/s33
+other_names:
+- name: Perry E. Thurston Jr.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: FLL000148
+- scheme: legacy_openstates
+  identifier: FLL000312
+- scheme: legacy_openstates
+  identifier: FLL000478
+- scheme: openstates
+  identifier: ocd-person/c6a6e309-1ed0-4943-91f4-2e65611f8706
+sources:
+- url: http://www.flsenate.gov/Senators/
+- url: http://www.flsenate.gov/Senators/s33

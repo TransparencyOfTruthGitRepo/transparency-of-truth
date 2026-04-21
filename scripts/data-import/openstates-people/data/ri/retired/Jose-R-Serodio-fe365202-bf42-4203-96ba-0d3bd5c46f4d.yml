@@ -1,0 +1,22 @@
+id: ocd-person/fe365202-bf42-4203-96ba-0d3bd5c46f4d
+name: Joe R. Serodio
+gender: Male
+email: rep-serodio@rilegislature.gov
+image: http://www.rilin.state.ri.us/representatives/pictures/serodio.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '64'
+links:
+- url: http://www.rilin.state.ri.us/representatives/carson/
+sources:
+- url: http://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: http://www.rilin.state.ri.us/representatives/Serodio/
+extras:
+  name_first: Jose
+  name_last: Serodio
+  name_middle: R.
+  town_represented: East Providence

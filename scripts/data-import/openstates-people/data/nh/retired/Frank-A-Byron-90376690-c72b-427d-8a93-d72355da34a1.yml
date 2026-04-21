@@ -1,0 +1,26 @@
+id: ocd-person/90376690-c72b-427d-8a93-d72355da34a1
+name: Frank A. Byron
+given_name: Frank A.
+family_name: Byron
+image: http://www.gencourt.state.nh.us/house/images/memberpics/377078.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 20
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000474
+- scheme: legacy_openstates
+  identifier: NHL000933
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377078
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+extras:
+  first_name: Frank
+  last_name: Byron
+  middle_name: A.

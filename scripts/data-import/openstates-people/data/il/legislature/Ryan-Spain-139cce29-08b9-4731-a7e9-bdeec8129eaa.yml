@@ -1,0 +1,53 @@
+id: ocd-person/139cce29-08b9-4731-a7e9-bdeec8129eaa
+name: Ryan Spain
+given_name: Ryan
+family_name: Spain
+birth_date: 1982-10-11
+gender: Male
+email: repryanspain@gmail.com
+image: https://cdn.ilga.gov/assets/img/members/{4C25C70B-0E39-406B-9318-A899C2A6D1B0}.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '73'
+offices:
+- classification: capitol
+  address: Room 314, Capitol Building, Springfield, IL 62706
+  voice: 217-782-8108
+- classification: district
+  address: 5407 N. University St., Arbor Hall Suite B, Peoria, IL 61614
+  voice: 309-690-7373
+links:
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2693
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2910
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3111
+  note: homepage
+- url: https://repryanspain.com/
+- url: https://www.ilga.gov/House/Members/Details/3325
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3111
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3325
+other_names:
+- name: R. Spain
+- name: Spain, R.
+- name: Spain, Ryan
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ILL001045
+sources:
+- url: https://ballotpedia.org/Ryan_Spain
+- url: https://en.wikipedia.org/wiki/Ryan_Spain
+- url: https://ilga.gov/house/default.asp?GA=101
+- url: https://ilga.gov/house/default.asp?GA=102
+- url: https://ilga.gov/house/default.asp?GA=103
+- url: https://ilga.gov/house/Rep.asp?GA=101&MemberID=2693
+- url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2910
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3111
+- url: https://justfacts.votesmart.org/candidate/biography/74434/ryan-spain
+- url: https://repryanspain.com
+- url: https://www.ilga.gov/House/Members/Details/3325
+- url: https://www.ilga.gov/house/Rep.asp?GA=103&MemberID=3111
+- url: https://www.ilga.gov/house/Rep.asp?MemberID=3325
+- url: https://www.linkedin.com/in/ryan-spain-78580918

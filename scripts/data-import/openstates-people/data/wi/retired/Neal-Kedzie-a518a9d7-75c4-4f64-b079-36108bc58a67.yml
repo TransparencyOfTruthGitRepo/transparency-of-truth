@@ -1,0 +1,20 @@
+id: ocd-person/a518a9d7-75c4-4f64-b079-36108bc58a67
+name: Neal Kedzie
+given_name: Neal
+family_name: Kedzie
+image: http://legis.wisconsin.gov/sitecollectionimages/2013/sen11.jpeg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '11'
+links:
+- url: http://legis.wisconsin.gov/Pages/leg-info.aspx?d=11&h=S
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000332
+sources:
+- url: http://legis.wisconsin.gov/Pages/leg-info.aspx?d=11&h=S

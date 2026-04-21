@@ -1,0 +1,22 @@
+id: ocd-person/d21e3ebe-60f4-439e-9c39-3aad7f07d12a
+name: Joseph F Brennan
+given_name: Joseph
+family_name: Brennan
+middle_name: F
+image: http://www.house.state.pa.us/members/districts/133/images/1116.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '133'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1116
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000064
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1116

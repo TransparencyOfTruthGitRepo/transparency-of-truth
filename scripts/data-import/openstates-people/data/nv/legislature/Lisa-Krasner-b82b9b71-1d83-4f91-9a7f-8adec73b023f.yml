@@ -1,0 +1,54 @@
+id: ocd-person/b82b9b71-1d83-4f91-9a7f-8adec73b023f
+name: Lisa Krasner
+given_name: Lisa
+family_name: Krasner
+gender: Female
+email: lisa.krasner@sen.state.nv.us
+image: http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Krasner.Lisa.327.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '16'
+- start_date: 2016-11-09
+  end_date: 2022-11-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '16'
+- end_date: 2022-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '26'
+offices:
+- classification: capitol
+  address: Room 2156, Nevada Senate 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-1450
+- classification: district
+  address: Room 343, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=327
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/26
+  note: homepage
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/16
+  note: homepage
+other_names:
+- name: Krasner, L.
+- name: Krasner, Lisa
+- name: L. Krasner
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NVL000380
+sources:
+- url: https://ballotpedia.org/Lisa_Krasner
+- url: https://en.wikipedia.org/wiki/Lisa_Krasner
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=327
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/26
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/16
+- url: https://www.linkedin.com/in/lisa-krasner-36a345b4
+- url: https://www.lisakrasnerfornevada.com/meet-lisa
+extras:
+  title: Co-Minority Whip

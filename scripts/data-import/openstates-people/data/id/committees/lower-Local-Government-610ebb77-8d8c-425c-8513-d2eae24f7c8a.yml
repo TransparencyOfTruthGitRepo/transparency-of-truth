@@ -1,0 +1,81 @@
+id: ocd-organization/610ebb77-8d8c-425c-8513-d2eae24f7c8a
+jurisdiction: ocd-jurisdiction/country:us/state:id/government
+classification: committee
+name: Local Government
+chamber: lower
+sources:
+- url: https://legislature.idaho.gov/committees/
+  note: homepage
+- url: https://legislature.idaho.gov/committees/housecommittees/
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HLOC
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HLOC/
+- url: https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HLOC/#hcode-tab-style2members
+  note: Committee Details page
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HLOC/#hcode-tab-style2members
+  note: Committee Details page
+- url: https://legislature.idaho.gov/sessioninfo/2025/standingcommittees/HLOC
+- url: https://legislature.idaho.gov/sessioninfo/2026/standingcommittees/HLOC
+links:
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HLOC
+- url: https://legislature.idaho.gov/sessioninfo/2021/standingcommittees/HLOC/
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HLOC/#hcode-tab-style2members
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HLOC
+- url: https://legislature.idaho.gov/sessioninfo/2024/standingcommittees/HLOC/#hcode-tab-style2members
+  note: homepage
+- url: https://legislature.idaho.gov/sessioninfo/2025/standingcommittees/HLOC
+- url: https://legislature.idaho.gov/sessioninfo/2026/standingcommittees/HLOC
+members:
+- name: Barbara Ehardt
+  role: chair
+  person_id: ocd-person/c8c374b3-22b8-4221-a65a-6a4616cb107d
+- name: Jeff Cornilles
+  role: vice chair
+  person_id: ocd-person/42d3b7d7-1a3a-4d58-ae68-a84cbaaf7ad0
+- name: Bruce Skaug
+  role: member
+  person_id: ocd-person/e8eea4c8-b669-4609-b991-13ef3a6ff10b
+- name: Clint Hostetler
+  role: member
+  person_id: ocd-person/39fe1103-009e-4594-8ae1-107ba5ffd388
+- name: Cornel Rasor
+  role: member
+  person_id: ocd-person/a41cd894-d64d-406e-99cd-f1935e40a812
+- name: Dale Hawkins
+  role: member
+  person_id: ocd-person/d9426884-2195-45ee-8130-4a8cf0d61adf
+- name: Elaine Price
+  role: member
+  person_id: ocd-person/f6437e18-b7fb-4e53-8c40-a2423d82853d
+- name: Joe Alfieri
+  role: member
+  person_id: ocd-person/561516c4-4e4f-45bc-b1d0-6ed359006597
+- name: Jon Weber
+  role: member
+  person_id: ocd-person/4501fe8d-11d8-43ee-a9bd-5ba3a82eb5d4
+- name: Josh Wheeler
+  role: member
+  person_id: ocd-person/647e5e14-6813-4fc7-a20d-be175157ffb0
+- name: Kent Marmon
+  role: member
+  person_id: ocd-person/c92ba4ff-72aa-4985-b8c0-bb3178187c81
+- name: Lucas Cayler
+  role: member
+  person_id: ocd-person/f51cb798-c8e6-4cb7-954c-6507c0d3d054
+- name: Marco Erickson
+  role: member
+  person_id: ocd-person/a9af8eba-9dc3-4961-9305-fa325cb86948
+- name: Monica Church
+  role: member
+  person_id: ocd-person/b3878069-33ec-4ecc-8236-f9d0de68f5da
+- name: Rick Cheatum
+  role: member
+  person_id: ocd-person/bb03d309-94c3-4d63-bb69-ede616be8c72
+- name: Steve Berch
+  role: member
+  person_id: ocd-person/0c413128-0ec7-4228-aa8b-93572d153c6f
+other_names:
+- name: House Committee on Local Government
+- name: House Local Government
+- name: House Local Government Committee

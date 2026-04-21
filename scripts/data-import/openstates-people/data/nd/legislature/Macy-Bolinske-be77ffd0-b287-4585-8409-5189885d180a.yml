@@ -1,0 +1,28 @@
+id: ocd-person/be77ffd0-b287-4585-8409-5189885d180a
+name: Macy Bolinske
+given_name: Macy
+family_name: Bolinske
+gender: Female
+email: mbolinske@ndlegis.gov
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRozO487RdH1VF6tytGgra4INZIQ_QGs9v_7w&s
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '40'
+offices:
+- classification: capitol
+  address: State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505
+links:
+- url: https://ndlegis.gov/biography/macy-bolinske
+other_names:
+- name: Bolinske, M.
+- name: M. Bolinske
+- name: M.M. Bolinske
+sources:
+- url: https://ballotpedia.org/Macy_Bolinske
+- url: https://en.wikipedia.org/wiki/Macy_Bolinske
+- url: https://ndlegis.gov/biography/macy-bolinske
+- url: https://www.linkedin.com/in/macy-christianson-bb8a19115

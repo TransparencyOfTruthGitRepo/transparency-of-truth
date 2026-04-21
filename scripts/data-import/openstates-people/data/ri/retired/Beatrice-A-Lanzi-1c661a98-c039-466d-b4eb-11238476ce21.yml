@@ -1,0 +1,19 @@
+id: ocd-person/1c661a98-c039-466d-b4eb-11238476ce21
+name: Beatrice A. Lanzi
+given_name: Beatrice A.
+family_name: Lanzi
+party:
+- name: Democratic
+roles:
+- start_date: '2012-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '26'
+links:
+- url: http://webserver.rilin.state.ri.us/Lanzi/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000026
+sources:
+- url: http://webserver.rilin.state.ri.us/Documents/Senators.xls

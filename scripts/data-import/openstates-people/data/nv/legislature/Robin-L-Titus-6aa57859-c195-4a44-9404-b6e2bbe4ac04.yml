@@ -1,0 +1,58 @@
+id: ocd-person/6aa57859-c195-4a44-9404-b6e2bbe4ac04
+name: Robin Titus
+given_name: Robin
+family_name: Titus
+birth_date: 1954-02-21
+gender: Female
+email: robin.titus@sen.state.nv.us
+image: http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Titus.Robin.281.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-11-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '17'
+- start_date: 2014-11-05
+  end_date: 2022-11-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '17'
+- end_date: 2022-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '38'
+offices:
+- classification: capitol
+  address: Room 2160, Nevada Senate 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-1470
+- classification: district
+  address: Room 228, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=281
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/38
+  note: homepage
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/17
+  note: homepage
+other_names:
+- name: R. Titus
+- name: R.L. Titus
+- name: Robin L. Titus
+- name: Robin Titus
+- name: Titus, R.
+- name: Titus, Robin
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NVL000278
+- scheme: legacy_openstates
+  identifier: NVL000335
+sources:
+- url: https://ballotpedia.org/Robin_Titus
+- url: https://en.wikipedia.org/wiki/Robin_L._Titus
+- url: https://justfacts.votesmart.org/candidate/biography/151015/robin-titus
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=281
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/38
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current
+- url: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/17
+- url: https://www.linkedin.com/in/dr-robin-titus-a4917126

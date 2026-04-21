@@ -1,0 +1,44 @@
+id: ocd-person/8dc5a857-0514-4a81-8215-a2f21a069075
+name: Peri Pourier
+given_name: Peri
+family_name: Pourier
+gender: Female
+email: peri.pourier@sdlegislature.gov
+image: https://sdlegislature.gov/inc/img/Legislators/Pourier_2019.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '27'
+offices:
+- classification: capitol
+  address: Capitol Building 500 E. Capitol Ave., Pierre, SD 57501
+  voice: 605-773-3851
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1638&Session=2019
+- url: https://sdlegislature.gov/Legislators/Profile/1839/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4405/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4654/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4804/Detail
+other_names:
+- name: P. Pourier
+- name: Peri Pourier
+- name: Peri R. Pourier
+- name: Pourier, P.
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/b414d3c8-bdaf-41c9-a667-c0bfb22ad39c
+sources:
+- url: https://ballotpedia.org/Peri_Pourier
+- url: https://en.wikipedia.org/wiki/Peri_Pourier
+- url: https://justfacts.votesmart.org/candidate/biography/180872/peri-pourier
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1638&Session=2019
+- url: https://sdlegislature.gov/Legislators/Profile/1839/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4405/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4654/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4804/Detail
+- url: https://www.linkedin.com/in/prpourier1
+extras:
+  occupation: Investigator/Non-Profit Founder

@@ -1,0 +1,47 @@
+id: ocd-organization/83fb2189-69b7-48ec-9303-12d50c992e04
+jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+classification: committee
+name: Judiciary
+chamber: upper
+sources:
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1177
+- url: https://sdlegislature.gov/api/SessionCommittees/Detail/1214
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/68
+- url: https://sdlegislature.gov/api/SessionCommittees/Session/69
+- url: https://sdlegislature.gov/Session/Committee/1177/Detail
+- url: https://sdlegislature.gov/Session/Committee/1214/Detail
+- url: https://sdlegislature.gov/Session/Committee/1248/Detail
+- url: https://sdlegislature.gov/Session/Committee/1283/Detail
+links:
+- url: https://sdlegislature.gov/Session/Committee/1177/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1214/Detail
+  note: homepage
+- url: https://sdlegislature.gov/Session/Committee/1248/Detail
+- url: https://sdlegislature.gov/Session/Committee/1283/Detail
+members:
+- name: Steve Kolbeck
+  role: chair
+  person_id: ocd-person/d8b7a70b-2c34-4319-aaaf-54112c5ca471
+- name: Amber Hulse
+  role: vice chair
+  person_id: ocd-person/ae4b500c-4a37-43ed-a3a2-dbb08071e265
+- name: Greg Blanc
+  role: member
+  person_id: ocd-person/4a052dc7-31aa-4a24-b72d-7e922ce7bf8b
+- name: Helene Duhamel
+  role: member
+  person_id: ocd-person/e0548110-ef50-435f-8c99-fbd53a06d8ff
+- name: Jim Mehlhaff
+  role: member
+  person_id: ocd-person/c8ca77f5-97e7-4604-aec3-fe4ee5e7dc31
+- name: Tamara Grove
+  role: member
+  person_id: ocd-person/e195011d-04f8-4e39-a9f9-b804495b3f2c
+- name: Tom Pischke
+  role: member
+  person_id: ocd-person/f6b50a35-18e6-4e0c-bdd9-071f4a99bbed
+other_names:
+- name: Senate Committee on Judiciary
+- name: Senate Judiciary
+- name: Senate Judiciary Committee

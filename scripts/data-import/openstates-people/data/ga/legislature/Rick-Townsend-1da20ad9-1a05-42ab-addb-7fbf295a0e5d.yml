@@ -1,0 +1,51 @@
+id: ocd-person/1da20ad9-1a05-42ab-addb-7fbf295a0e5d
+name: Rick Townsend
+given_name: Rick
+family_name: Townsend
+gender: Male
+email: rick.townsend@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/townsend-rick-5055.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '179'
+offices:
+- classification: capitol
+  address: Room 501-G, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0178
+- classification: district-mail
+  address: P.O. Box 20514, Saint Simons Island, GA 31522
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5055
+- url: https://www.legis.ga.gov/members/house/5055?session=1031
+  note: HTML member detail page
+other_names:
+- name: R. Townsend
+- name: TOWNSEND, 179TH
+- name: Townsend, R.
+sources:
+- url: https://ballotpedia.org/Rick_Townsend
+- url: https://en.wikipedia.org/wiki/Rick_Townsend
+- url: https://justfacts.votesmart.org/candidate/biography/203352/rick-townsend
+- url: https://www.legis.ga.gov/api/members/detail/5055?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5055
+- url: https://www.linkedin.com/in/dr-rick-townsend-082a1a6a
+extras:
+  residence: Brunswick
+  city: Brunswick
+  georgia_id: 5055
+  birthday: June 9
+  occupation: Retired Educator and Small Business Owner
+  press: https://house-press.com/representative/Rick-Townsend
+  spouse: Carolyn
+  staff: Shaniqua Johnson - Administrative Assistant
+  staff email: shaniqua.johnson@house.ga.gov

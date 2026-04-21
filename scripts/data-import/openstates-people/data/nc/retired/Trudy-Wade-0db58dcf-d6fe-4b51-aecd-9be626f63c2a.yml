@@ -1,0 +1,23 @@
+id: ocd-person/0db58dcf-d6fe-4b51-aecd-9be626f63c2a
+name: Trudy Wade
+given_name: Trudy
+family_name: Wade
+image: http://www.ncleg.net/Senate/pictures/hiRes/377.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '27'
+links:
+- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=Senate&nUserID=377
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000263
+sources:
+- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=Senate&nUserID=377
+extras:
+  counties:
+  - Guilford
+  notice: null

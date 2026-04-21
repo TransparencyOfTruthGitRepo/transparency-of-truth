@@ -1,0 +1,17 @@
+id: ocd-person/348bc0fb-dc57-4604-b710-52b0ff1b43db
+name: Dave Cogdill
+given_name: Dave
+family_name: Cogdill
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/government
+  district: '14'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CAL000011
+sources:
+- url: ftp://www.leginfo.ca.gov/pub/bill/

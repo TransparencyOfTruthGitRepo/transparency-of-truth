@@ -1,0 +1,40 @@
+id: ocd-person/4eca904a-5153-440d-8e5c-4c9e056a1dd1
+name: Darrell Jackson
+given_name: Darrell
+family_name: Jackson
+birth_date: 1957-02-01
+gender: Male
+email: darrelljackson@scsenate.gov
+image: https://scstatehouse.gov/images/members/0920454435.jpg
+party:
+- name: Democratic
+roles:
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '21'
+offices:
+- classification: capitol
+  address: Room 612, Gressette Building P.O. Box 142, Columbia, SC 29201
+  voice: 803-212-6048
+links:
+- url: https://scstatehouse.gov/member.php?code=0920454435
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=0920454435
+  note: homepage
+other_names:
+- name: D. Jackson
+- name: Jackson, D.
+- name: Jackson, Darrell
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000019
+sources:
+- url: https://ballotpedia.org/Darrell_Jackson_(South_Carolina)
+- url: https://en.wikipedia.org/wiki/Darrell_Jackson_(politician)
+- url: https://scstatehouse.gov/member.php?chamber=S
+- url: https://scstatehouse.gov/member.php?code=0920454435
+- url: https://www.scstatehouse.gov/member.php?chamber=S
+- url: https://www.scstatehouse.gov/member.php?code=0920454435
+extras:
+  Home Address Home Phone: (803) 776-6954
+  counties represented: Richland County

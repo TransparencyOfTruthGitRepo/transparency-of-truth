@@ -1,0 +1,30 @@
+id: ocd-person/472f8b30-237d-44fe-8d3e-af33b833d8eb
+name: Matt Drew
+given_name: Matt
+family_name: Drew
+gender: Male
+email: matt.drew@gc.nh.gov
+image: https://assets.civicengine.com/uploads/candidate/headshot/829995/829995.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 19
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=11355
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=11355
+other_names:
+- name: Drew, M.
+- name: M. Drew
+sources:
+- url: https://ballotpedia.org/Matt_Drew
+- url: https://en.wikipedia.org/wiki/Matt_Drew
+- url: https://gc.nh.gov/house/members/member.aspx?pid=11355
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=11355
+- url: https://justfacts.votesmart.org/candidate/218991/matt-drew

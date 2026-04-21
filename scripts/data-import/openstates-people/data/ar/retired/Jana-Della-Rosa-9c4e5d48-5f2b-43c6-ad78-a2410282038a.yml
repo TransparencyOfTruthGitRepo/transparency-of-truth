@@ -1,0 +1,24 @@
+id: ocd-person/9c4e5d48-5f2b-43c6-ad78-a2410282038a
+name: Jana Della Rosa
+given_name: Jana
+family_name: Della Rosa
+email: Jana.DellaRosa@arkansashouse.org
+image: http://www.arkleg.state.ar.us/Content/photos/House/473_sm.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '90'
+links:
+- url: http://www.arkleg.state.ar.us/Legislators/Detail?member=Della+Rosa&ddBienniumSession=2019%2F2020F
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ARL000282
+- scheme: legacy_openstates
+  identifier: ARL000326
+sources:
+- url: http://www.arkleg.state.ar.us/Legislators/Detail?member=Della+Rosa&ddBienniumSession=2019%2F2020F
+extras:
+  occupation: Homemaker

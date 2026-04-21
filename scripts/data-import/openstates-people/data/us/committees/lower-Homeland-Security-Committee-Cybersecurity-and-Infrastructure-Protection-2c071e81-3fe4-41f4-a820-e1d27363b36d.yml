@@ -1,0 +1,49 @@
+id: ocd-organization/2c071e81-3fe4-41f4-a820-e1d27363b36d
+jurisdiction: ocd-jurisdiction/country:us/government
+classification: subcommittee
+name: Homeland Security Committee Cybersecurity and Infrastructure Protection
+chamber: lower
+sources:
+- url: https://homeland.house.gov/cybersecurity-infrastructure-protection-and-innovation
+parent: ocd-organization/1b4c8042-794d-5f20-bfb9-114bf565df17
+links:
+- url: https://homeland.house.gov/cybersecurity-infrastructure-protection-and-innovation
+members:
+- name: Andy Ogles
+  role: chair
+  person_id: ocd-person/5916e23e-c486-5d60-88c8-56bb65c23763
+- name: Andrew Garbarino
+  role: ex officio
+  person_id: ocd-person/4ec1dbc4-ea21-5f61-92b1-fa55b47a4c61
+- name: Bennie Thompson
+  role: ex officio
+  person_id: ocd-person/c171d352-db84-5c96-8260-1fcd7eab2575
+- name: "Carlos Gim\xE9nez"
+  role: member
+  person_id: ocd-person/9db37a87-2ba9-56a0-9b42-89697222e044
+- name: James Walkinshaw
+  role: member
+  person_id: ocd-person/1e692f82-663e-46f8-aa96-88207dab107f
+- name: LaMonica McIver
+  role: member
+  person_id: ocd-person/026068b4-d78d-4221-80cb-27c17bd1d46f
+- name: Morgan Luttrell
+  role: member
+  person_id: ocd-person/868d6300-e9e7-5df4-bfe1-2e7fd1a632ac
+- name: Nick LaLota
+  role: member
+  person_id: ocd-person/30fe5d74-0224-5d11-92d2-5766471e6cc5
+- name: Seth Magaziner
+  role: member
+  person_id: ocd-person/2b7e8cfa-f37a-5155-ac79-e769b3cf71da
+- name: Vince Fong
+  role: member
+  person_id: ocd-person/2d6b7f7f-a241-5064-9812-9506beb2b76e
+other_names:
+- name: House Committee on Homeland Security Subcommittee on Cybersecurity and Infrastructure
+    Protection
+- name: House Homeland Security Committee Cybersecurity and Infrastructure Protection
+- name: House Homeland Security Committee Cybersecurity and Infrastructure Protection
+    Subcommittee
+- name: House Subcommittee on Homeland Security Committee Cybersecurity and Infrastructure
+    Protection

@@ -1,0 +1,21 @@
+id: ocd-person/5dae9fe0-b658-44f5-a276-a0dfcea55e5a
+name: Marie Rader
+given_name: Marie
+family_name: Rader
+image: http://www.lrc.ky.gov/pubinfo/thumbnails/House89.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  district: '89'
+links:
+- url: http://www.lrc.ky.gov/legislator/H089.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KYL000111
+sources:
+- url: http://www.lrc.ky.gov/legislator/H089.htm
+- url: http://wkms.org/post/republican-representative-marie-rader-resigns-89th-district-house-seat

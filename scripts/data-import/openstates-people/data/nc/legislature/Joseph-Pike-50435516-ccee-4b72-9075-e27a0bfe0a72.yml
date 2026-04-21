@@ -1,0 +1,40 @@
+id: ocd-person/50435516-ccee-4b72-9075-e27a0bfe0a72
+name: Joe Pike
+given_name: Joe
+family_name: Pike
+gender: Male
+email: joe.pike@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/H/808/Low
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '6'
+offices:
+- classification: capitol
+  address: Room 542, Legislative Office Building 300 N. Salisbury St., Raleigh, NC
+    27603
+  voice: 919-733-5906
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/808
+- url: https://www.ncleg.gov/Members/Committees/H/808
+- url: https://www.ncleg.gov/Members/IntroducedBills/H/808
+- url: https://www.ncleg.gov/Members/Votes/H/808
+other_names:
+- name: J. Pike
+- name: Joseph Pike
+- name: Pike, J.
+sources:
+- url: https://ballotpedia.org/Joe_Pike
+- url: https://www.linkedin.com/in/joseph-pike-924b2615a
+- url: https://www.ncleg.gov/Members/Biography/H/808
+- url: https://www.ncleg.gov/Members/MemberTable/H
+extras:
+  mailing address: 300 N. Salisbury Street, Rm. 542; Raleigh, NC 27603-5925
+  terms in senate: 1 (0 in Senate)
+  represented counties: Harnett
+  legislative assistant: Deborah Holder
+  legislative assistant email: Deborah.Holder@ncleg.gov
+  occupation: Business Owner/President, Twisted Grape Investments Inc.

@@ -1,0 +1,43 @@
+id: ocd-person/3a2e8f7d-e657-45e2-93d7-2f5e8499ccfd
+name: Hester Jackson-McCray
+given_name: Hester
+family_name: Jackson-McCray
+birth_date: 1977-05-19
+gender: Female
+email: hmccray@house.ms.gov
+image: http://billstatus.ls.state.ms.us/members/house/mccray.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '40'
+offices:
+- classification: capitol
+  address: State Capitol 400 High St., Jackson, MS 39201
+  voice: 601-359-3770
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/mccray.xml
+  note: homepage
+other_names:
+- name: H. Jackson-McCray
+- name: Hester Jackson McCray
+- name: Jackson-McCray, H.
+- name: McCray
+sources:
+- url: https://ballotpedia.org/Hester_Jackson_McCray
+- url: https://billstatus.ls.state.ms.us/members/house/mccray.xml
+- url: https://billstatus.ls.state.ms.us/members/hr_membs.xml
+- url: https://en.wikipedia.org/wiki/Hester_Jackson-McCray
+- url: https://www.linkedin.com/in/hester-jackson-mccray-38a917155
+extras:
+  occupation: Nurse-Certified Dementia Practitioner
+  education:
+  - Trition College, River Forest, IL.
+  - Westinghouse Vocational High school
+  counties represented:
+  - DeSoto
+  other phone: (901)410-7875

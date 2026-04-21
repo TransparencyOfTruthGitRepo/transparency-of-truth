@@ -1,0 +1,37 @@
+id: ocd-person/a86c6f40-304e-49fd-a312-3aa30660fcdf
+name: Ontario Tillman
+given_name: Ontario
+family_name: Tillman
+gender: Male
+email: ojtillman@gmail.com
+image: https://www.legislature.state.al.us/pdf/house/members/Tillman_56.png
+party:
+- name: Democratic
+roles:
+- start_date: 2022-11-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '56'
+offices:
+- classification: capitol
+  address: Room 540-D, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0529
+- classification: district
+  address: 2326 2nd Ave. North, Birmingham, AL 35020
+  voice: 205-417-1032
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+other_names:
+- name: O. Tillman
+- name: O.J. Tillman
+- name: Tillman, O.
+sources:
+- url: https://ballotpedia.org/Ontario_Tillman
+- url: https://en.wikipedia.org/wiki/Ontario_Tillman
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/201897/ontario-tillman
+- url: https://www.linkedin.com/in/ontario-tillman-b8517a41
+extras:
+  counties: Jefferson County

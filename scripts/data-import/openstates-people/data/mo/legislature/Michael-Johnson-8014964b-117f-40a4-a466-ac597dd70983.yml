@@ -1,0 +1,34 @@
+id: ocd-person/8014964b-117f-40a4-a466-ac597dd70983
+name: Michael Johnson
+given_name: Michael
+family_name: Johnson
+gender: Male
+email: michael.johnson@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2255
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '23'
+offices:
+- classification: capitol
+  address: Room 105-F, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-0538
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=023
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=023
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=023
+other_names:
+- name: Johnson, M.
+- name: Johnson, Michael
+- name: M. Johnson
+sources:
+- url: https://ballotpedia.org/Michael_Johnson_(Missouri)
+- url: https://house.mo.gov/MemberDetails.aspx?district=023
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=023
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=023
+- url: https://www.linkedin.com/in/michael-johnson-56965015a
+extras:
+  hometown: Kansas City

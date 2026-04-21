@@ -1,0 +1,69 @@
+id: ocd-person/861428f5-6456-4c94-b1ed-838b01a7d845
+name: Melissa Ballard
+given_name: Melissa
+family_name: Ballard
+gender: Female
+email: mballard@le.utah.gov
+image: https://le.utah.gov/images/legislator/BALLAMG.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '20'
+offices:
+- classification: capitol
+  address: P.O. Box 145030 350 N. State St., Suite 350, Salt Lake City, UT 84114
+  voice: 801-538-1029
+- classification: district
+  address: UT
+  voice: 801-633-6561
+links:
+- url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415006
+  note: finance report
+- url: https://house.utah.gov/rep/BALLAMG
+- url: https://house.utah.gov/rep/BALLAMG/
+  note: homepage
+- url: https://house.utleg.gov/rep/BALLAMG/
+- url: https://le.utah.gov/asp/billsintro/RepResults.asp?Listbox3=BALLAMG
+  note: legislation
+- url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=BALLAMG
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2020/House_Dist20.pdf
+  note: district demographics
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/House_Dist20.pdf
+  note: district demographics
+- url: https://le.utah.gov/house2/CofI/COFIBALLAMG.pdf
+  note: conflict of interest 1
+- url: https://le.utah.gov/house2/CofI/COFIBALLAMG1.pdf
+  note: conflict of interest 0
+other_names:
+- name: Ballard, M.
+- name: Ballard, M.G.
+- name: Ballard, Melissa
+- name: Ballard, Melissa G.
+- name: M. Ballard
+- name: M.G. Ballard
+- name: Melissa G. Ballard
+- name: Melissa Garff Ballard
+sources:
+- url: https://ballotpedia.org/Melissa_Garff_Ballard
+- url: https://en.wikipedia.org/wiki/Melissa_Garff_Ballard
+- url: https://house.utah.gov/rep/BALLAMG
+- url: https://house.utah.gov/rep/BALLAMG/
+- url: https://house.utleg.gov/rep/BALLAMG
+- url: https://house.utleg.gov/rep/BALLAMG/
+- url: https://justfacts.votesmart.org/candidate/biography/182150/melissa-ballard
+- url: https://le.utah.gov/data/legislators.json
+- url: https://www.linkedin.com/in/melissa-ballard-41719610
+extras:
+  service start: January 1, 2019
+  profession: Homemaker; Pianist and Teacher; Business Investor; Former adjunct faculty,
+    University of Utah
+  education: B.S., University of Utah; Masters of Music '94 Piano Performance and
+    Accompanying, and Bachelor of Music '92 Piano Performance, University of Utah;
+    Nationally Certified Teacher of Music
+  counties represented:
+  - Davis
+  cell phone: 801-633-6561

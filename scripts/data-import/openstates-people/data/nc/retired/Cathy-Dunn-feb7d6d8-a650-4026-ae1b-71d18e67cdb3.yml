@@ -1,0 +1,24 @@
+id: ocd-person/feb7d6d8-a650-4026-ae1b-71d18e67cdb3
+name: Cathy Dunn
+given_name: Cathy
+family_name: Dunn
+image: http://www.ncleg.net/Senate/pictures/hiRes/401.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '33'
+links:
+- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=Senate&nUserID=401
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000367
+sources:
+- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=Senate&nUserID=401
+extras:
+  counties:
+  - Davidson
+  - Montgomery
+  notice: null

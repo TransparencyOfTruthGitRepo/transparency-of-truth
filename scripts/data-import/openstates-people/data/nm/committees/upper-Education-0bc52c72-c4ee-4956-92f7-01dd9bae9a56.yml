@@ -1,0 +1,43 @@
+id: ocd-organization/0bc52c72-c4ee-4956-92f7-01dd9bae9a56
+jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+classification: committee
+name: Education
+chamber: upper
+sources:
+- url: https://www.nmlegis.gov/Committee/
+  note: Committee Page from nmlegis.gov site
+- url: https://www.nmlegis.gov/Committee/Standing_Committee?CommitteeCode=SEC
+links:
+- url: https://www.nmlegis.gov/Committee/Standing_Committee?CommitteeCode=SEC
+members:
+- name: Bill Soules
+  role: chair
+  person_id: ocd-person/33aa9a6b-b106-4216-8ea5-82d85cd2250a
+- name: Harold Pope
+  role: vice chair
+  person_id: ocd-person/713e2881-4ecb-4d66-9bd3-6422c898df91
+- name: Gabriel Ramos
+  role: ranking member
+  person_id: ocd-person/6677ca7f-f961-44f1-a241-d14280762f5d
+- name: Ant Thornton
+  role: member
+  person_id: ocd-person/02d806fd-fb8f-4d66-b9b8-6dacd2bd9656
+- name: Candy Ezzell
+  role: member
+  person_id: ocd-person/46464f19-1bda-489f-93cf-3772d0445407
+- name: Cindy Nava
+  role: member
+  person_id: ocd-person/631f715e-754c-4410-a967-1e5a928ae971
+- name: Martin Hickey
+  role: member
+  person_id: ocd-person/88fd357f-3fb1-4c2b-b49b-555231011c46
+- name: Natalie Figueroa
+  role: member
+  person_id: ocd-person/48969449-b004-4ca3-a72b-8508e95e0051
+- name: Pat Boone
+  role: member
+  person_id: ocd-person/4093c9b8-d07a-4a12-b13b-abbd4130b1fe
+other_names:
+- name: Senate Committee on Education
+- name: Senate Education
+- name: Senate Education Committee

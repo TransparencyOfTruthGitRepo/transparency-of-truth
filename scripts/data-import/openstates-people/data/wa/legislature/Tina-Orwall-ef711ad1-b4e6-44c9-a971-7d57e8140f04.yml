@@ -1,0 +1,56 @@
+id: ocd-person/ef711ad1-b4e6-44c9-a971-7d57e8140f04
+name: Tina Orwall
+given_name: Tina
+family_name: Orwall
+birth_date: 1965-04-03
+gender: Female
+email: tina.orwall@leg.wa.gov
+image: https://leg.wa.gov/memberphoto/14205.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-12-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '33'
+- start_date: 2009-01-12
+  end_date: 2024-12-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '33'
+- start_date: 2021-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '33'
+  end_date: 2024-12-10
+offices:
+- classification: capitol
+  address: Room 404, Legislative Building P.O. Box 40433, Olympia, WA 98504
+  voice: 360-786-7664
+links:
+- url: https://housedemocrats.wa.gov/legislators/Tina-Orwall/
+- url: https://housedemocrats.wa.gov/Orwall/
+- url: https://housedemocrats.wa.gov/orwall/
+- url: https://leg.wa.gov/legislators/member/tina-orwall
+- url: https://senatedemocrats.wa.gov/orwall/
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+other_names:
+- name: Orwall, T.
+- name: T. Orwall
+- name: T.L. Orwall
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000115
+sources:
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=House
+- url: https://ballotpedia.org/Tina_Orwall
+- url: https://en.wikipedia.org/wiki/Tina_Orwall
+- url: https://housedemocrats.wa.gov/orwall
+- url: https://housedemocrats.wa.gov/orwall/
+- url: https://justfacts.votesmart.org/candidate/biography/108273/tina-orwall
+- url: https://leg.wa.gov/legislators/member/tina-orwall
+- url: https://senatedemocrats.wa.gov/orwall
+- url: https://www.leg.wa.gov/house/representatives/Pages/default.aspx
+- url: https://www.linkedin.com/in/tina-orwall-65061447
+extras:
+  title: Speaker Pro Tempore

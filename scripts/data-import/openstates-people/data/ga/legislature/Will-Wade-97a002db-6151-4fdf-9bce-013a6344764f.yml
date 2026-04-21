@@ -1,0 +1,59 @@
+id: ocd-person/97a002db-6151-4fdf-9bce-013a6344764f
+name: Will Wade
+given_name: Will
+family_name: Wade
+birth_date: 1978-03-25
+gender: Male
+email: will.wade@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/wade-will-4988.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '9'
+offices:
+- classification: capitol
+  address: State Capitol Room 109, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-651-7737
+- classification: district-mail
+  address: P.O. Box 1685, Dawsonville, GA 30534
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4988
+- url: https://www.legis.ga.gov/members/house/4988?session=1029
+- url: https://www.legis.ga.gov/members/house/4988?session=1031
+  note: HTML member detail page
+other_names:
+- name: W. Wade
+- name: W.S. Wade
+- name: WADE, 9TH
+- name: Wade, W.
+- name: Will Wade
+- name: William Solomon Wade
+sources:
+- url: https://ballotpedia.org/Will_Wade
+- url: https://en.wikipedia.org/wiki/Will_Wade_(Georgia_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/190349/will-wade
+- url: https://www.legis.ga.gov/api/members/detail/4988?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4988?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4988
+- url: https://www.legis.ga.gov/members/house/4988?session=1029
+- url: https://www.linkedin.com/in/william-s-wade-4a140215
+extras:
+  residence: Dawsonville
+  city: Dawsonville
+  georgia_id: 4988
+  birthday: March 25
+  occupation: Community Banker
+  press: https://house-press.com/representative/Will-Wade
+  spouse: Jennifer
+  staff: Madison Spangler-McDonald - Administrative Assistant
+  staff email: madison.spangler-mcdonald@house.ga.gov
+  title: Governor's Floor Leader

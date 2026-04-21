@@ -1,0 +1,45 @@
+id: ocd-person/26eb8f32-d499-4b8b-82c6-8fef014633a3
+name: Dan Hawkins
+given_name: Dan
+family_name: Hawkins
+birth_date: 1960-11-01
+gender: Male
+email: dan.hawkins@house.ks.gov
+image: https://i0.wp.com/danhawkinskansas.com/wp-content/uploads/2020/06/Rep.-Hawkins.jpg?resize=1000%2C1000&ssl=1
+party:
+- name: Republican
+roles:
+- start_date: 2013-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '100'
+offices:
+- classification: capitol
+  address: State Capitol Room 368-W, Kansas  Building 300 SW 10th St., Topeka, KS
+    66612
+  voice: 785-296-2302
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_hawkins_daniel_1/
+- url: https://www.kslegislature.org/li/b2019_20/members/rep_hawkins_daniel_1/
+- url: https://www.kslegislature.org/li/b2021_22/members/rep_hawkins_daniel_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_hawkins_daniel_1/
+other_names:
+- name: D. Hawkins
+- name: D.R. Hawkins
+- name: Daniel Hawkins
+- name: Hawkins, D.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: KSL000216
+sources:
+- url: https://ballotpedia.org/Daniel_Hawkins_(Kansas)
+- url: https://en.wikipedia.org/wiki/Daniel_Hawkins_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/140839/daniel-hawkins
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_hawkins_daniel_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hawkins_daniel_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hawkins_daniel_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_hawkins_daniel_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_hawkins_daniel_1/
+- url: https://www.linkedin.com/in/danhawkinskansas
+extras:
+  occupation: Insurance Agent

@@ -1,0 +1,25 @@
+id: ocd-person/9a408e49-29bb-480d-aea2-f0c3050849c6
+name: Bert Brackett
+given_name: Bert
+family_name: Brackett
+email: bbrackett@senate.idaho.gov
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Brackett14.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-01
+  end_date: '2020-12-01'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: '23'
+links:
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2019&district=23
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IDL000291
+- scheme: legacy_openstates
+  identifier: IDL000005
+- scheme: openstates
+  identifier: ocd-person/cbf953d3-f77f-47db-bc0b-7a851a7b05be
+sources:
+- url: https://legislature.idaho.gov/senate/membership/

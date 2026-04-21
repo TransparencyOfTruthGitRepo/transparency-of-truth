@@ -1,0 +1,34 @@
+id: ocd-person/026c8d4d-bdd5-4b1f-838e-12c191323540
+name: Penelope Tsernoglou
+given_name: Penelope
+family_name: Tsernoglou
+gender: Female
+email: penelopetsernoglou@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '75'
+offices:
+- classification: capitol
+  address: Room N-1094, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-2668
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/Penelope-Tsernoglou/
+other_names:
+- name: P. Tsernoglou
+- name: Tsernoglou, P.
+sources:
+- url: https://ballotpedia.org/Penelope_Tsernoglou
+- url: https://housedems.com/Penelope-Tsernoglou
+- url: https://housedems.com/Penelope-Tsernoglou/
+  note: Member Details Page
+- url: https://housedems.com/penelope-tsernoglou/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/penelope-tsernoglou-6a267a6

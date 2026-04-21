@@ -1,0 +1,50 @@
+id: ocd-person/6ec04f29-e02d-4c39-96e8-e9ed823437e7
+name: Vicki Doudera
+given_name: Vicki
+family_name: Doudera
+gender: Female
+email: vicki.doudera@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/b23e405e-96d3-42e0-8cea-8c5bb8949003_Doudera.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '41'
+- start_date: 2018-12-05
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '41'
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '94'
+offices:
+- classification: capitol
+  address: Room 333, House Democratic Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1365
+  note: homepage
+other_names:
+- name: DOUDERA of Camden
+- name: Doudera, V.
+- name: V. Doudera
+- name: V.W. Doudera
+- name: Victoria DOUDERA
+- name: Victoria W. Doudera
+- name: Victoria Wenzel Doudera
+sources:
+- url: https://ballotpedia.org/Victoria_Doudera
+- url: https://justfacts.votesmart.org/candidate/biography/181250/victoria-doudera
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1365
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+extras:
+  Seat Number: '70'
+  towns represented:
+  - Camden
+  - Rockport
+  occupation: Realtor and Writer
+  education: Hamilton College

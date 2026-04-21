@@ -1,0 +1,22 @@
+id: ocd-person/b8a8f5b2-8686-47df-adb0-b51ae67a7698
+name: Matt Jones
+given_name: Matt
+family_name: Jones
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2018a_rsz_jones-co-17.jpg?itok=IAc_0aEl
+party:
+- name: Democratic
+roles:
+- end_date: '2019-01-01'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '17'
+links:
+- url: http://leg.colorado.gov/legislators/matt-jones
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: COL000082
+- scheme: legacy_openstates
+  identifier: COL000110
+sources:
+- url: http://leg.colorado.gov/legislators/matt-jones
+- url: http://leg.colorado.gov/legislators

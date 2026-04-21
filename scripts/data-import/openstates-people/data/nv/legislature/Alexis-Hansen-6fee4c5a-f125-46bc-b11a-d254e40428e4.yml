@@ -1,0 +1,37 @@
+id: ocd-person/6fee4c5a-f125-46bc-b11a-d254e40428e4
+name: Alexis Hansen
+given_name: Alexis
+family_name: Hansen
+gender: Female
+email: alexis.hansen@asm.state.nv.us
+image: http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Hansen.Alexis.366.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2018-11-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  district: '32'
+offices:
+- classification: capitol
+  address: Room 3129, Nevada Assembly 401 S. Carson St., Carson City, NV 89701
+  voice: 775-684-8851
+- classification: district
+  address: Room 321, 7230 Amigo St., Las Vegas, NV 89119
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=366
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/32
+  note: homepage
+other_names:
+- name: A. Hansen
+- name: A.L. Hansen
+- name: Hansen, A.
+- name: Hansen, Alexis
+sources:
+- url: https://ballotpedia.org/Alexis_Hansen
+- url: https://en.wikipedia.org/wiki/Alexis_Hansen
+- url: https://justfacts.votesmart.org/candidate/180994/alexis-hansen
+- url: https://www.alexishansennv.com/about-alexis
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=366
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current                              "
+- url: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/32

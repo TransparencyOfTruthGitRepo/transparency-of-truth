@@ -1,0 +1,59 @@
+id: ocd-person/22809c1b-0676-4ad9-8d0e-8a0a9d19063a
+name: Tom Buco
+given_name: Tom
+family_name: Buco
+gender: Male
+email: tom.buco@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/49512.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 1
+- end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 1
+  start_date: 2022-12-07
+- start_date: 2022-12-07
+  end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Carroll 2
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?member=376645
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376645
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=523
+  note: member detail page
+other_names:
+- name: Buco, T.
+- name: T. Buco
+- name: Thomas Buco
+- name: Thomas L. Buco
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000464
+- scheme: legacy_openstates
+  identifier: NHL001052
+sources:
+- url: https://ballotpedia.org/Tom_Buco
+- url: https://gc.nh.gov/house/members/member.aspx?member=376645
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://justfacts.votesmart.org/candidate/biography/42231/thomas-buco
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=376645
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=523
+- url: https://www.linkedin.com/in/tom-buco-17486233
+extras:
+  county: Carroll
+  elected status: Incumbent
+  gender code: M

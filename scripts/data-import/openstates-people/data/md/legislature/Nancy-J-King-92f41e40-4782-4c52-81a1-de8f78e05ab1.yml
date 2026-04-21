@@ -1,0 +1,42 @@
+id: ocd-person/92f41e40-4782-4c52-81a1-de8f78e05ab1
+name: Nancy King
+given_name: Nancy
+family_name: King
+birth_date: 1949-10-07
+gender: Female
+email: nancy.king@senate.maryland.gov
+image: http://mgaleg.maryland.gov/2016RS/images/king.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2007-09-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '39'
+offices:
+- classification: capitol
+  address: Room 123, James Senate Office Building 11 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3686
+  fax: 410-841-6370
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/king
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=king&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa14005.html
+other_names:
+- name: King, N.
+- name: N. King
+- name: N.J. King
+- name: Nancy J. King
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MDL000213
+- scheme: legacy_openstates
+  identifier: MDL000446
+sources:
+- url: https://ballotpedia.org/Nancy_King
+- url: https://en.wikipedia.org/wiki/Nancy_J._King
+- url: https://justfacts.votesmart.org/candidate/biography/36382/nancy-king
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/king
+- url: https://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=king&stab=01
+- url: https://msa.maryland.gov/msa/mdmanual/05sen/html/msa14005.html
+- url: https://www.linkedin.com/in/nancy-king-21236013

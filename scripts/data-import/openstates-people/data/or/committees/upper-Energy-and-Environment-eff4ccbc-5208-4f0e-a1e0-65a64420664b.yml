@@ -1,0 +1,42 @@
+id: ocd-organization/eff4ccbc-5208-4f0e-a1e0-65a64420664b
+jurisdiction: ocd-jurisdiction/country:us/state:or/government
+classification: committee
+name: Energy and Environment
+chamber: upper
+sources:
+- url: https://olis.oregonlegislature.gov/liz/2023R1/Committees/SEE/CommitteeMembers
+  note: Committee details page
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/SEE/CommitteeMembers
+  note: Committee details page
+- url: https://olis.oregonlegislature.gov/liz/2025I1/Committees/SEE/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025R1/Committees/SEE/Overview
+- url: https://olis.oregonlegislature.gov/liz/2026R1/Committees/SEE/Overview
+links:
+- url: https://olis.oregonlegislature.gov/liz/2023R1/Committees/SEE/CommitteeMembers
+  note: homepage
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/SEE/CommitteeMembers
+  note: homepage
+- url: https://olis.oregonlegislature.gov/liz/2024R1/Committees/SEE/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025I1/Committees/SEE/Overview
+- url: https://olis.oregonlegislature.gov/liz/2025R1/Committees/SEE/Overview
+- url: https://olis.oregonlegislature.gov/liz/2026R1/Committees/SEE/Overview
+members:
+- name: Janeen Sollman
+  role: chair
+  person_id: ocd-person/9d3f5669-f452-4926-91ec-a74a4c4a48e5
+- name: David Smith
+  role: vice chair
+  person_id: ocd-person/26a734f0-51f9-4959-a213-bc345c1050ec
+- name: Jeff Golden
+  role: member
+  person_id: ocd-person/0240017c-38e7-45da-8841-c40b007965dc
+- name: Khanh Pham
+  role: member
+  person_id: ocd-person/3b7edee5-fb20-48d2-98db-541721e24e65
+- name: Noah Robinson
+  role: member
+  person_id: ocd-person/15862ba2-3cdd-4a2e-a22e-28acdea73055
+other_names:
+- name: Senate Committee on Energy and Environment
+- name: Senate Energy and Environment
+- name: Senate Energy and Environment Committee

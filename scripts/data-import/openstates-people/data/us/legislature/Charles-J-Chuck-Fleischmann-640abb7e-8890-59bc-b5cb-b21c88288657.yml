@@ -1,0 +1,121 @@
+id: ocd-person/640abb7e-8890-59bc-b5cb-b21c88288657
+name: Chuck Fleischmann
+given_name: Chuck
+family_name: Fleischmann
+birth_date: 1962-10-11
+gender: Male
+email: https://fleischmann.house.gov/address_authentication?form=/contact/email
+image: https://unitedstates.github.io/images/congress/450x550/F000459.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2011-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TN-3
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TN-3
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TN-3
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TN-3
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TN-3
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TN-3
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TN-3
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TN-3
+offices:
+- classification: capitol
+  address: 2187 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-3271
+  fax: 202-225-3494
+- classification: district
+  address: 200 Administration Road Suite 100, Oak Ridge, TN 37830
+  voice: 865-576-1976
+  fax: 865-576-3221
+- classification: district
+  address: 900 Georgia Ave. Suite 126, Chattanooga, TN 37402
+  voice: 423-756-2342
+  fax: 423-756-6613
+- classification: district
+  address: Athens Courthouse 6 E. Madison Ave., Athens, TN 37303
+  voice: 423-745-4671
+  fax: 423-745-6025
+links:
+- url: https://fleischmann.house.gov
+  note: website
+- url: https://fleischmann.house.gov/
+other_names:
+- name: C. Fleischmann
+- name: C.J. Fleischmann
+- name: Charles J. "Chuck" Fleischmann
+- name: Fleischmann, C.
+ids:
+  twitter: RepChuck
+  youtube: UCTtRrJkM-R-f2K0byCMvHgw
+  facebook: repchuck
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Charles Fleischmann
+- scheme: bioguide
+  identifier: F000459
+- scheme: cspan
+  identifier: '95146'
+- scheme: fec
+  identifier: H0TN03254
+- scheme: google_entity_id
+  identifier: kg:/m/0ddd54f
+- scheme: govtrack
+  identifier: '412476'
+- scheme: house_history
+  identifier: '13563'
+- scheme: icpsr
+  identifier: '21178'
+- scheme: maplight
+  identifier: '1481'
+- scheme: opensecrets
+  identifier: N00030815
+- scheme: pictorial
+  identifier: '13251'
+- scheme: thomas
+  identifier: '02061'
+- scheme: votesmart
+  identifier: '123456'
+- scheme: wikidata
+  identifier: Q521959
+- scheme: wikipedia
+  identifier: Chuck Fleischmann
+sources:
+- url: https://ballotpedia.org/Charles_Fleischmann
+- url: https://en.wikipedia.org/wiki/Chuck_Fleischmann
+- url: https://fleischmann.house.gov
+- url: https://justfacts.votesmart.org/candidate/123456/chuck-fleischmann
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.chuckforcongress.com/meet-chuck
+- url: https://www.govtrack.us/congress/members/charles_fleischmann/412476

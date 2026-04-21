@@ -1,0 +1,42 @@
+id: ocd-person/6e106343-c9e7-4993-aca8-201210f61d64
+name: Mandie Landry
+given_name: Mandie
+family_name: Landry
+gender: Female
+email: hse091@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics20/rep91.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-01-13
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '91'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 4035 Washington Ave., New Orleans, LA 70125
+  voice: 504-383-3836
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=91
+  note: homepage
+- url: https://house.louisiana.gov/H_Reps/members?ID=91
+other_names:
+- name: Landry, M.
+- name: M. Landry
+- name: M.E. Landry
+sources:
+- url: https://ballotpedia.org/Mandie_Landry
+- url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=91
+- url: https://house.louisiana.gov/H_Reps/members?ID=91
+- url: https://justfacts.votesmart.org/candidate/biography/187045/mandie-landry
+- url: https://www.linkedin.com/in/mandie-landry-8764812
+extras:
+  legislative assistant: Nicole Hershey
+  representing parishes:
+  - Orleans
+  education: "University of Notre Dame, B.A., 2000; \r\nGeorgetown University Law\
+    \ Center, JD, 2005"

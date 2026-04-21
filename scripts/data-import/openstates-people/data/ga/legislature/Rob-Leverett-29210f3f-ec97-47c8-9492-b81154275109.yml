@@ -1,0 +1,63 @@
+id: ocd-person/29210f3f-ec97-47c8-9492-b81154275109
+name: Rob Leverett
+given_name: Rob
+family_name: Leverett
+birth_date: 1964-08-05
+gender: Male
+email: rob.leverett@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/leverett-rob-4993.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '123'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '33'
+offices:
+- classification: capitol
+  address: State Capitol Room 218-B, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-5132
+- classification: district-mail
+  address: P.O. Drawer 399, Elberton, GA 30635
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4993
+- url: https://www.legis.ga.gov/members/house/4993?session=1029
+- url: https://www.legis.ga.gov/members/house/4993?session=1031
+  note: HTML member detail page
+other_names:
+- name: LEVERETT, 123RD
+- name: Leverett, R.
+- name: R. Leverett
+- name: R.F. Leverett
+- name: Rob Leverett
+- name: Robert Freeman Leverett
+sources:
+- url: https://ballotpedia.org/Rob_Leverett
+- url: https://en.wikipedia.org/wiki/Rob_Leverett
+- url: https://justfacts.votesmart.org/candidate/biography/190366/rob-leverett
+- url: https://www.legis.ga.gov/api/members/detail/4993?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4993?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4993
+- url: https://www.legis.ga.gov/members/house/4993?session=1029
+- url: https://www.linkedin.com/in/rob-leverett-b1836445
+extras:
+  residence: Elberton
+  city: Elberton
+  georgia_id: 4993
+  birthday: August 5
+  occupation: Attorney
+  press: https://house-press.com/representative/Rob-Leverett
+  spouse: Mary Dana
+  staff: Sarah Lutterbie - Administrative Assistant
+  staff email: sarah.lutterbie@house.ga.gov
+  title: Chairman, Reapportionment & Redistricting

@@ -1,0 +1,25 @@
+id: ocd-person/ed48590f-6af4-4e9f-99d6-16227870b44f
+name: Joelle Martin
+given_name: Joelle
+family_name: Martin
+email: Joelle.Martin@leg.state.nh.us
+image: http://www.gencourt.state.nh.us/house/images/memberpics/408530.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 23
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001354
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408530
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+extras:
+  first_name: Joelle
+  last_name: Martin
+  middle_name: ''

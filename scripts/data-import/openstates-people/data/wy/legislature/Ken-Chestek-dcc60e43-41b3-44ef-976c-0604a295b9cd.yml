@@ -1,0 +1,60 @@
+id: ocd-person/dcc60e43-41b3-44ef-976c-0604a295b9cd
+name: Ken Chestek
+given_name: Ken
+family_name: Chestek
+gender: Male
+email: ken.chestek@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-ChestekKen.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '13'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+  voice: 307-777-7881
+- classification: district-mail
+  address: P.O. Box 217, Laramie, WY 82073
+  voice: 307-460-9139
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/H/2095
+- url: https://wyoleg.gov/Legislators/2021/D/2095
+  note: homepage
+other_names:
+- name: Chestek, K
+- name: Chestek, K.
+- name: K. Chestek
+- name: K.D. Chestek
+sources:
+- url: https://ballotpedia.org/Ken_Chestek
+- url: https://en.wikipedia.org/wiki/Ken_Chestek
+- url: https://justfacts.votesmart.org/candidate/biography/171292/ken-chestek
+- url: https://www.wyoleg.gov/Legislators/2023/H/2095
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2095
+extras:
+  county: Albany County
+  education:
+  - schoolName: University of Pittsburgh
+    gradYear: '1979'
+    degree: J.D.
+  - schoolName: Penn State University
+    gradYear: '1975'
+    degree: B.A
+  religion: Unitarian Universalist
+  number of children: '4'
+  number of grandchildren: '6'
+  birth place: Cincinnati, OH
+  occupation: Professor
+  organizations:
+  - orgname: Wyoming Promise
+  - orgname: Legal Writing Institute
+  house years: 'House:  2023-Present'
+  prior service:
+  - chamber: House
+    startYear: 2023
+    endYear: Present
+    district: ' District 13, '

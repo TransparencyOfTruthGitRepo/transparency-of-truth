@@ -1,0 +1,45 @@
+id: ocd-person/dc6ff9c0-f2b1-433d-a96b-292cf05bcb50
+name: Mallory McMorrow
+given_name: Mallory
+family_name: McMorrow
+birth_date: 1986-08-23
+gender: Female
+email: senmmcmorrow@senate.michigan.gov
+image: https://senatedems.com/mcmorrow/wp-content/uploads/sites/14/2023/02/MDS_McMorrow_DSC5342_dec20.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '8'
+- end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '13'
+offices:
+- classification: capitol
+  address: Room 6100, Binsfeld Building P.O. Box 30036, Lansing, MI 48909
+  voice: 517-373-2523
+  fax: 517-373-5669
+links:
+- url: https://senatedems.com/mcmorrow
+  note: Member Page
+- url: https://senatedems.com/mcmorrow/
+- url: https://senatedems.com/mcmorrow/contact
+  note: Contact
+other_names:
+- name: M. McMorrow
+- name: M.A. McMorrow
+- name: McMorrow, M.
+sources:
+- url: https://ballotpedia.org/Mallory_McMorrow
+- url: https://en.wikipedia.org/wiki/Mallory_McMorrow
+- url: https://senate.michigan.gov/senatorinfo_list.html
+- url: https://senate.michigan.gov/senators/SenatorData.json
+  note: Members List JSON Data Page
+- url: https://senate.michigan.gov/senators/senatorinfo_list.html
+  note: Members List HTML page
+- url: https://senatedems.com/mcmorrow
+- url: https://senatedems.com/mcmorrow/
+- url: https://www.linkedin.com/in/mallorymcmorrow

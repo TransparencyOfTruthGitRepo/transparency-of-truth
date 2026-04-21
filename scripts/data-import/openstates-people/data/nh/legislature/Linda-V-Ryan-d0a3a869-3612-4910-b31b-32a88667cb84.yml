@@ -1,0 +1,38 @@
+id: ocd-person/d0a3a869-3612-4910-b31b-32a88667cb84
+name: Linda Ryan
+given_name: Linda
+family_name: Ryan
+gender: Female
+email: linda.ryan@gc.nh.gov
+image: https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/2022-09/linda-v-ryan.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 4
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10776
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10776
+  note: member detail page
+other_names:
+- name: L. Ryan
+- name: L.V. Ryan
+- name: Linda V Ryan
+- name: Linda V. Ryan
+- name: Ryan, L.
+sources:
+- url: https://ballotpedia.org/Linda_Ryan
+- url: https://en.wikipedia.org/wiki/Linda_Ryan_(politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=10776
+- url: https://justfacts.votesmart.org/candidate/biography/208803/linda-ryan
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10776
+extras:
+  county: Hillsborough
+  elected status: new
+  gender code: F

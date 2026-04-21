@@ -1,0 +1,58 @@
+id: ocd-person/ec14a514-ce1c-4fba-b053-fcf133793445
+name: Bill DeSteph
+given_name: Bill
+family_name: DeSteph
+birth_date: 1964-10-28
+gender: Male
+email: senatordesteph@senate.virginia.gov
+image: https://apps.dlas.virginia.gov/senatepics/newbiopics/DeSteph08.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '20'
+- start_date: 2016-01-13
+  end_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room 608, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  voice: 804-698-7520
+- classification: district
+  address: 588 Central Drive, Virginia Beach, VA 23454
+  voice: 757-321-8180
+links:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S96
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S96
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S96
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S96
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S96
+other_names:
+- name: B. DeSteph
+- name: Bill R. DeSteph, Jr.
+- name: DeSteph, B.
+- name: DeSteph, Bill
+- name: W.R. DeSteph
+- name: William Robert DeSteph
+ids:
+  twitter: BillDeSteph
+  facebook: destephforva
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VAL000237
+sources:
+- url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S96
+- url: https://ballotpedia.org/Bill_R._DeSteph,_Jr
+- url: https://en.wikipedia.org/wiki/Bill_DeSteph
+- url: https://justfacts.votesmart.org/candidate/79462/bill-desteph-jr
+- url: https://lis.virginia.gov/191/mbr/MBR.HTM
+- url: https://lis.virginia.gov/201/mbr/MBR.HTM
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S96
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S96
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S96
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+S96
+- url: https://www.linkedin.com/in/bill-desteph-7b3a939

@@ -1,0 +1,36 @@
+id: ocd-person/05c84580-b849-4320-9aa4-e34d8b977aca
+name: Willard Haley
+given_name: Willard
+family_name: Haley
+gender: Male
+email: willard.haley@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2221
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '58'
+offices:
+- classification: capitol
+  address: Room 234, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-2077
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=058
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=058
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=058
+other_names:
+- name: Haley, W.
+- name: Haley, Willard
+- name: W. Haley
+sources:
+- url: https://ballotpedia.org/Willard_Haley
+- url: https://en.wikipedia.org/wiki/Willard_Haley
+- url: https://house.mo.gov/MemberDetails.aspx?district=058
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=058
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=058
+- url: https://justfacts.votesmart.org/candidate/biography/193330/willard-haley
+- url: https://www.linkedin.com/in/willard-haley-a0465227
+extras:
+  hometown: Eldon

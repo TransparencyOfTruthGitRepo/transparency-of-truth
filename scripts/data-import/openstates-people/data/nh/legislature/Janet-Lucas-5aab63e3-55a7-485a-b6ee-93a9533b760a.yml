@@ -1,0 +1,31 @@
+id: ocd-person/5aab63e3-55a7-485a-b6ee-93a9533b760a
+name: Janet Lucas
+given_name: Janet
+family_name: Lucas
+gender: Female
+email: janet.lucas@gc.nh.gov
+image: https://www.citizenscount.org/sites/default/files/2024-10/janet-lucas.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Grafton 7
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=11181
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=11181
+other_names:
+- name: J. Lucas
+- name: J.M. Lucas
+- name: Lucas, J.
+sources:
+- url: https://ballotpedia.org/Janet_Marie_Lucas
+- url: https://en.wikipedia.org/wiki/Janet_Lucas
+- url: https://gc.nh.gov/house/members/member.aspx?pid=11181
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=11181
+- url: https://justfacts.votesmart.org/candidate/biography/218906/janet-lucas

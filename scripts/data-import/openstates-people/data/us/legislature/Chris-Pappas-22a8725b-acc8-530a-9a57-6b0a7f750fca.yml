@@ -1,0 +1,86 @@
+id: ocd-person/22a8725b-acc8-530a-9a57-6b0a7f750fca
+name: Chris Pappas
+given_name: Chris
+family_name: Pappas
+birth_date: 1980-06-04
+gender: Male
+email: https://pappas.house.gov/zip_authentication?form=/contact/email-me
+image: https://unitedstates.github.io/images/congress/450x550/P000614.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NH-1
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NH-1
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NH-1
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NH-1
+offices:
+- classification: capitol
+  address: 452 Cannon House Office Building, Washington, DC 20515
+  voice: 202-225-5456
+- classification: district
+  address: 15 3rd St. Suite 101, Dover, NH 03820
+  voice: 603-285-4300
+  fax: 603-343-1326
+- classification: district
+  address: 2541 White Mountain Highway Building 1, Unit 4, North Conway, NH 03860
+  voice: 603-733-5100
+- classification: district
+  address: 889 Elm St., Manchester, NH 03101
+  voice: 603-935-6710
+links:
+- url: https://pappas.house.gov
+  note: website
+- url: https://pappas.house.gov/
+other_names:
+- name: C. Pappas
+- name: C.C. Pappas
+- name: Pappas, C.
+ids:
+  twitter: RepChrisPappas
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Chris Pappas
+- scheme: bioguide
+  identifier: P000614
+- scheme: fec
+  identifier: H8NH01210
+- scheme: google_entity_id
+  identifier: kg:/m/0nd3t8z
+- scheme: govtrack
+  identifier: '412795'
+- scheme: icpsr
+  identifier: '21951'
+- scheme: opensecrets
+  identifier: N00042161
+- scheme: pictorial
+  identifier: '13148'
+- scheme: votesmart
+  identifier: '42635'
+- scheme: wikidata
+  identifier: Q5107684
+- scheme: wikipedia
+  identifier: Chris Pappas (American politician)
+sources:
+- url: https://ballotpedia.org/Chris_Pappas
+- url: https://chrispappas.org/about
+- url: https://en.wikipedia.org/wiki/Chris_Pappas_(American_politician)
+- url: https://pappas.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/chris_pappas/412795

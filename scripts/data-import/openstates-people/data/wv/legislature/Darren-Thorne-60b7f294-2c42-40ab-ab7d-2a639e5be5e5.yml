@@ -1,0 +1,39 @@
+id: ocd-person/60b7f294-2c42-40ab-ab7d-2a639e5be5e5
+name: Darren Thorne
+given_name: Darren
+family_name: Thorne
+gender: Male
+email: darren.thorne@wvsenate.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/thorne_darren.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '15'
+- start_date: 2022-12-01
+  end_date: 2025-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '15'
+offices:
+- classification: capitol
+  address: State Capitol Room 200W, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-357-7980
+links:
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Thorne
+- url: https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Thorne
+other_names:
+- name: D. Thorne
+- name: D.J. Thorne
+- name: Thorne, D
+- name: Thorne, D.
+sources:
+- url: https://ballotpedia.org/Darren_Thorne
+- url: https://en.wikipedia.org/wiki/Darren_Thorne
+- url: https://justfacts.votesmart.org/candidate/201690/darren-thorne
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Thorne
+- url: https://www.wvlegislature.gov/House/roster.cfm
+- url: https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Thorne

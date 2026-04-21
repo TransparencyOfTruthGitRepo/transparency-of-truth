@@ -1,0 +1,32 @@
+id: ocd-person/b2eaa848-d651-4521-9abb-21b68da5d5c6
+name: Jeremy Bynum
+given_name: Jeremy
+family_name: Bynum
+birth_date: 1975-09-11
+gender: Male
+email: representative.jeremy.bynum@akleg.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/jbynum.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-21
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  district: '1'
+offices:
+- classification: capitol
+  address: State Capitol Room 400, 120 4th St., Juneau, AK 99801
+  voice: 907-465-3824
+- classification: district
+  address: 1900 First Ave., Ketchikan, AK 99901
+  voice: 907-247-4672
+links:
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=byn
+other_names:
+- name: Bynum, J.
+- name: J. Bynum
+- name: J.T. Bynum
+sources:
+- url: https://ballotpedia.org/Jeremy_Bynum
+- url: https://justfacts.votesmart.org/candidate/biography/200111/jeremy-bynum
+- url: https://www.akleg.gov/basis/Member/Detail/34?code=byn

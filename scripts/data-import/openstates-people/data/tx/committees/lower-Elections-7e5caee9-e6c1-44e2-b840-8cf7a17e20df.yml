@@ -1,0 +1,59 @@
+id: ocd-organization/7e5caee9-e6c1-44e2-b840-8cf7a17e20df
+jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+classification: committee
+name: Elections
+chamber: lower
+sources:
+- url: https://capitol.texas.gov/Committees/CommitteesMbrs.aspx?Chamber=H
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C240
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C240
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C240
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C240
+- url: https://house.texas.gov/committees/committee/240
+- url: https://house.texas.gov/committees/committee/?committee=C240
+links:
+- url: https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C240
+- url: https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=88R&CmteCode=C240
+  note: homepage
+- url: https://capitol.texas.gov/Committees/MembershipCmteHist.aspx?LegSess=88R&CmteCode=C240
+- url: https://capitol.texas.gov/Reports/Report.aspx?ID=committee&LegSess=88R&Code=C240
+- url: https://house.texas.gov/committees/committee/240
+- url: https://house.texas.gov/committees/committee/?committee=C240
+members:
+- name: Matt Shaheen
+  role: chair
+  person_id: ocd-person/71555c46-28b0-4887-98a1-997dc7482e75
+- name: John Bucy
+  role: vice chair
+  person_id: ocd-person/53b19d1e-5b07-4f6e-87a9-27baecddaf70
+- name: Carrie Isaac
+  role: member
+  person_id: ocd-person/64221b86-e3ca-4b67-b2bb-3f4f9641e133
+- name: "Mihaela Ple\u0219a"
+  role: member
+  person_id: ocd-person/b69579f7-74de-4a71-86ba-033264cc5bc7
+- name: Penny Morales Shaw
+  role: member
+  person_id: ocd-person/51a281ff-2983-4b4b-baf4-63ee17812835
+- name: Richard Raymond
+  role: member
+  person_id: ocd-person/d4a94a68-02a7-44c0-901f-9cd57350229a
+- name: Steve Toth
+  role: member
+  person_id: ocd-person/6c80914d-b07b-4d27-95e2-0e5aa2b0c7d9
+- name: Terry Wilson
+  role: member
+  person_id: ocd-person/ec19bc97-3146-4100-8294-329b88aec0e8
+- name: Valoree Swanson
+  role: member
+  person_id: ocd-person/7298c6a9-c6be-41cd-a2ba-0cc79c851373
+other_names:
+- name: House Committee on Elections
+- name: House Elections
+- name: House Elections Committee
+extras:
+  clerk: Lauren McCarthy
+  legislature: 88(R) - 2023
+  phone: (512) 463-0772
+  appointment date: 2/8/2023
+  room: EXT E2.144

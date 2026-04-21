@@ -1,0 +1,62 @@
+id: ocd-organization/d0957bf5-4c9b-4f27-b7ea-cff09cc7b228
+jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+classification: committee
+name: Appropriations
+chamber: legislature
+sources:
+- url: https://web.wyoleg.gov/LsoService/api/committeeDetail/2023/J02
+  note: Committee JSON from wyoleg.gov site
+- url: https://web.wyoleg.gov/LsoService/api/committeeDetail/2024/J02
+  note: Committee JSON from wyoleg.gov site
+- url: https://www.wyoleg.gov/Committees/2023/J02
+- url: https://www.wyoleg.gov/Committees/2024/J02
+- url: https://www.wyoleg.gov/Committees/2025/J02
+- url: https://www.wyoleg.gov/Committees/2026/J02
+links:
+- url: https://www.wyoleg.gov/Committees/2023/J02
+  note: homepage
+- url: https://www.wyoleg.gov/Committees/2024/J02
+  note: homepage
+- url: https://www.wyoleg.gov/Committees/2025/J02
+- url: https://www.wyoleg.gov/Committees/2026/J02
+members:
+- name: John Bear
+  role: chair
+  person_id: ocd-person/931a9e71-33a6-4e65-be91-703ad612447e
+- name: Tim Salazar
+  role: chair
+  person_id: ocd-person/4f702d02-54ad-4143-837a-09be9a03ee6e
+- name: Abby Angelos
+  role: member
+  person_id: ocd-person/9995703e-90eb-4d20-a2f6-bfd9542102bd
+- name: Bill Allemand
+  role: member
+  person_id: ocd-person/2f0d84dc-df29-4c3d-83ea-aa56beca9839
+- name: Dan Laursen
+  role: member
+  person_id: ocd-person/982cdb50-2a81-47b4-97e8-cf80b92d1412
+- name: Jeremy Haroldson
+  role: member
+  person_id: ocd-person/b9bbea38-a84b-4173-a599-cd9f5500b181
+- name: Ken Pendergraft
+  role: member
+  person_id: ocd-person/b7a5cb78-6473-4b7b-9c27-90c8ab2130a5
+- name: Mike Gierau
+  role: member
+  person_id: ocd-person/587874e4-f0c9-4679-aa08-a2442b7d33b1
+- name: Ogden Driskill
+  role: member
+  person_id: ocd-person/e72a31cf-cefd-42c1-9620-967af32a2f48
+- name: Scott Smith
+  role: member
+  person_id: ocd-person/201b5fe9-4060-4dfa-ae2c-c59a3a3120ff
+- name: Tim French
+  role: member
+  person_id: ocd-person/057afdb5-3c0e-4503-b6cd-50ba6df1aaab
+- name: Trey Sherwood
+  role: member
+  person_id: ocd-person/b2265fcb-f768-4617-ad03-15f5b65af79f
+other_names:
+- name: Joint Appropriations
+- name: Joint Appropriations Committee
+- name: Joint Committee on Appropriations

@@ -1,0 +1,31 @@
+id: ocd-person/1368c833-35b4-4cf3-9bb4-e9e41d1434f7
+name: Carolyn C. Dykema
+given_name: Carolyn
+family_name: Dykema
+gender: Female
+email: Carolyn.Dykema@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/CCD1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2011-01-01
+  end_date: '2022-02-11'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 8th Middlesex
+  end_reason: Resigned to become Director of Policy Northeast at Nexamp
+links:
+- url: https://malegislature.gov/Legislators/Profile/CCD1
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000441
+- scheme: legacy_openstates
+  identifier: MAL000086
+- scheme: openstates
+  identifier: ocd-person/c2843f6e-314b-4d24-b573-547602d27bee
+sources:
+- url: https://malegislature.gov/Legislators/Profile/CCD1
+- url: http://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/CCD1
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+extras:
+  member code: CCD1

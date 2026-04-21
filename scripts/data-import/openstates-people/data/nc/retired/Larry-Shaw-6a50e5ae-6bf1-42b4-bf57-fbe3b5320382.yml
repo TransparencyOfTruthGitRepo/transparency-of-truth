@@ -1,0 +1,17 @@
+id: ocd-person/6a50e5ae-6bf1-42b4-bf57-fbe3b5320382
+name: Larry Shaw
+given_name: Larry
+family_name: Shaw
+party:
+- name: Democratic
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '21'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000044
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/memberList.pl?sChamber=Senate

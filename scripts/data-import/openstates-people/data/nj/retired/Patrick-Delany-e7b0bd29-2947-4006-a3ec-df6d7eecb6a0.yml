@@ -1,0 +1,17 @@
+id: ocd-person/e7b0bd29-2947-4006-a3ec-df6d7eecb6a0
+name: Patrick Delany
+given_name: Patrick
+family_name: Delany
+party:
+- name: Republican
+roles:
+- start_date: '2010-01-01'
+  end_date: '2011-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '8'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000126
+sources:
+- url: ftp://www.njleg.state.nj.us/ag/2010data/ROSTER.DBF

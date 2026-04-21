@@ -1,0 +1,37 @@
+id: ocd-person/804c5518-7fdf-43c9-ba24-f2c24eb3b0ab
+name: Adam Scanlon
+given_name: Adam
+family_name: Scanlon
+gender: Male
+email: adam.scanlon@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/AJS1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 14th Bristol
+offices:
+- classification: capitol
+  address: Room 127, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2680
+links:
+- url: https://malegislature.gov/Legislators/Profile/AJS1
+other_names:
+- name: A. Scanlon
+- name: A.J. Scanlon
+- name: Adam J. Scanlon
+- name: Scanlon, A.
+sources:
+- url: https://ballotpedia.org/Adam_Scanlon
+- url: https://en.wikipedia.org/wiki/Adam_Scanlon
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/AJS1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/AJS1
+- url: https://malegislature.gov/Legislators/Profile/AJS1
+extras:
+  member code: AJS1

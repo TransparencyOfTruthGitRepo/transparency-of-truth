@@ -1,0 +1,23 @@
+id: ocd-person/97846a57-e0bf-4f79-b155-75b051692526
+name: Elijah Haahr
+given_name: Elijah
+family_name: Haahr
+email: Elijah.Haahr@house.mo.gov
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '134'
+links:
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=134
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MOL000263
+sources:
+- url: http://house.mo.gov/MemberGridCluster.aspx
+- url: http://www.house.mo.gov/MemberDetails.aspx?district=134
+extras:
+  first_name: Elijah
+  last_name: Haahr

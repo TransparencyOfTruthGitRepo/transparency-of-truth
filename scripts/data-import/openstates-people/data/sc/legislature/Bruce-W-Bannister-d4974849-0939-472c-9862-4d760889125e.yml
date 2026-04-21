@@ -1,0 +1,45 @@
+id: ocd-person/d4974849-0939-472c-9862-4d760889125e
+name: Bruce Bannister
+given_name: Bruce
+family_name: Bannister
+birth_date: 1972-07-21
+gender: Male
+email: brucebannister@schouse.gov
+image: https://scstatehouse.gov/images/members/0103409079.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2005-10-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  district: '24'
+offices:
+- classification: capitol
+  address: Room 525, Blatt Building P.O. Box 11867, Columbia, SC 29201
+  voice: 803-734-3144
+links:
+- url: https://scstatehouse.gov/member.php?code=0103409079
+  note: homepage
+- url: https://www.scstatehouse.gov/member.php?code=0103409079
+  note: homepage
+other_names:
+- name: B. Bannister
+- name: B.W. Bannister
+- name: Bannister, B.
+- name: Bannister, Bruce
+- name: Bannister, Bruce W.
+- name: Bruce W. Bannister
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: SCL000056
+sources:
+- url: https://ballotpedia.org/Bruce_Bannister
+- url: https://en.wikipedia.org/wiki/Bruce_W._Bannister
+- url: https://justfacts.votesmart.org/candidate/biography/59275/bruce-bannister
+- url: https://scstatehouse.gov/member.php?chamber=H
+- url: https://scstatehouse.gov/member.php?code=0103409079
+- url: https://www.linkedin.com/in/bruce-bannister-8b2a9b14
+- url: https://www.scstatehouse.gov/member.php?chamber=H
+- url: https://www.scstatehouse.gov/member.php?code=0103409079
+extras:
+  counties represented: Greenville County

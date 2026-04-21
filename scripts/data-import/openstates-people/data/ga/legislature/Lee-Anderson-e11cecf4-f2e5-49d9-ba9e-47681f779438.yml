@@ -1,0 +1,73 @@
+id: ocd-person/e11cecf4-f2e5-49d9-ba9e-47681f779438
+name: Lee Anderson
+given_name: Lee
+family_name: Anderson
+birth_date: 1957-01-06
+gender: Male
+email: lee.anderson@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/anderson-lee-723.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '24'
+- start_date: 2011-01-01
+  end_date: 2012-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '117'
+offices:
+- classification: capitol
+  address: Room 325-B, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-5114
+- classification: district
+  address: 160 Louisville Road, Grovetown, GA 30813
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/723
+- url: https://www.legis.ga.gov/members/senate/723?session=1029
+- url: https://www.legis.ga.gov/members/senate/723?session=1031
+  note: HTML member detail page
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=723&Session=27
+other_names:
+- name: ANDERSON, 24TH
+- name: Anderson, L.
+- name: L. Anderson
+- name: L.I. Anderson
+- name: Lee Anderson
+- name: Lee I. Anderson
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000443
+- scheme: legacy_openstates
+  identifier: GAL000059
+- scheme: openstates
+  identifier: ocd-person/5e9e4a33-4c6e-4e96-b87a-0f4a4b59aaf6
+sources:
+- url: https://ballotpedia.org/Lee_Anderson
+- url: https://en.wikipedia.org/wiki/Lee_Anderson_(American_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/84624/lee-anderson
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.legis.ga.gov/api/members/detail/723?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/723?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/723
+- url: https://www.legis.ga.gov/members/senate/723?session=1029
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=723&Session=27
+extras:
+  residence: Grovetown
+  city: Grovetown
+  georgia_id: 723
+  birthday: January 6
+  occupation: Farmer-Businessman
+  press: https://senatepress.net/category/senate-press/lee-anderson
+  spouse: Donna
+  staff: Kaylon Day
+  staff email: kaylon.day@senate.ga.gov

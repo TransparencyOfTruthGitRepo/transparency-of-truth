@@ -1,0 +1,45 @@
+id: ocd-person/df880b40-1e96-49d0-92bc-70732a1cce32
+name: Don Guardian
+given_name: Don
+family_name: Guardian
+birth_date: 1953-06-12
+gender: Male
+email: asmguardian@njleg.org
+party:
+- name: Republican
+roles:
+- start_date: 2022-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '2'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 3100 Hingston Ave. Suite 101, Egg Harbor Township, NJ 08234
+  voice: 609-677-8266
+- classification: district
+  address: 3123 Atlantic Ave. Suite 100, Atlantic City, NJ 08401
+  voice: 609-677-8266
+links:
+- url: https://www.njassemblygop.com/224/Donald-Guardian
+- url: https://www.njassemblygop.com/guardian/
+- url: https://www.njleg.state.nj.us/legislative-roster/437/assemblyman-guardian
+other_names:
+- name: D. Guardian
+- name: D.A. Guardian
+- name: Don A. Guardian
+- name: Donald A Guardian
+- name: Donald A. Guardian
+- name: Guardian, D.
+- name: Guardian, Donald A.
+sources:
+- url: https://ballotpedia.org/Don_Guardian
+- url: https://en.wikipedia.org/wiki/Don_Guardian
+- url: https://justfacts.votesmart.org/candidate/161286/donald-guardian
+- url: https://www.njassemblygop.com/224/Donald-Guardian
+- url: https://www.njassemblygop.com/guardian
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/437
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/437/assemblyman-guardian

@@ -1,0 +1,25 @@
+id: ocd-person/a95c5732-3a3c-46d6-9f50-a161f50f5c52
+name: Mike Groene
+given_name: Mike
+family_name: Groene
+email: mgroene@leg.ne.gov
+image: http://www.nebraskalegislature.gov/media/images/blogs/dist42.jpg
+party:
+- name: Nonpartisan
+roles:
+- end_date: '2022-02-21'
+  type: legislature
+  jurisdiction: ocd-jurisdiction/country:us/state:ne/government
+  district: '42'
+  end_reason: Resigned after allegations that he took sexually inappropriate photographs of a female legislative aide
+links:
+- url: http://news.legislature.ne.gov/dist42
+- url: http://news.legislature.ne.gov/dist42/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NEL000068
+- scheme: legacy_openstates
+  identifier: NEL000184
+sources:
+- url: http://news.legislature.ne.gov/dist42
+- url: http://news.legislature.ne.gov/dist42/

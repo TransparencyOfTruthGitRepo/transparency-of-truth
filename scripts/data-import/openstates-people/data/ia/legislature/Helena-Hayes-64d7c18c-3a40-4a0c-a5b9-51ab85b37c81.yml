@@ -1,0 +1,34 @@
+id: ocd-person/64d7c18c-3a40-4a0c-a5b9-51ab85b37c81
+name: Helena Hayes
+given_name: Helena
+family_name: Hayes
+gender: Female
+email: helena.hayes@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33991
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '88'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33991&ga=90
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33991
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33991
+other_names:
+- name: H. Hayes
+- name: Hayes, H.
+sources:
+- url: https://ballotpedia.org/Helena_Hayes
+- url: https://en.wikipedia.org/wiki/Helena_Hayes
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33991
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=33991
+extras:
+  home email: helenahayes74@yahoo.com
+  occupation: Self-Employed

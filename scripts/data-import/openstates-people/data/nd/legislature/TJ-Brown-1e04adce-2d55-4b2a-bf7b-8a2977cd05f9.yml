@@ -1,0 +1,27 @@
+id: ocd-person/1e04adce-2d55-4b2a-bf7b-8a2977cd05f9
+name: T.J. Brown
+given_name: T.J.
+family_name: Brown
+gender: Male
+email: tbrown@ndlegis.gov
+party:
+- name: Republican
+roles:
+- start_date: 2025-03-12
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '27'
+offices:
+- classification: capitol
+  address: State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505
+  voice: 701-328-3373
+links:
+- url: https://ndlegis.gov/biography/tj-brown
+other_names:
+- name: Brown, T.
+- name: T. Brown
+sources:
+- url: https://ballotpedia.org/Timothy_Brown_(North_Dakota)
+- url: https://en.wikipedia.org/wiki/Timothy_Brown_(North_Dakota_politician)
+- url: https://ndlegis.gov/biography/tj-brown
+- url: https://www.linkedin.com/in/timothybrown701

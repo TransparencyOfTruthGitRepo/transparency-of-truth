@@ -1,0 +1,33 @@
+id: ocd-person/68c38dfc-a12b-4c51-8b70-c4e02931cddf
+name: "Michele Pe\xF1a"
+given_name: Michele
+family_name: "Pe\xF1a"
+gender: Female
+email: mpena@azleg.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MichelePena.png
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '23'
+offices:
+- classification: capitol
+  address: Room 341, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-3696
+links:
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2189
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2331
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2189
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2189
+other_names:
+- name: "M. Pe\xF1a"
+- name: Michele Pena
+- name: "Pe\xF1a, M."
+sources:
+- url: https://ballotpedia.org/Michele_Pena
+- url: https://en.wikipedia.org/wiki/Michele_Pena
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2189
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2331
+- url: https://www.azleg.gov/memberroster/?body=H

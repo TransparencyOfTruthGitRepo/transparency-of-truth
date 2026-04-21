@@ -1,0 +1,47 @@
+id: ocd-person/d6379fd3-d283-4c6e-864b-7dca170b593d
+name: Mark Meek
+given_name: Mark
+family_name: Meek
+gender: Male
+email: sen.markmeek@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/meek/PublishingImages/member_photo.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '20'
+- start_date: 2017-01-09
+  end_date: 2023-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '20'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '40'
+offices:
+- classification: capitol
+  address: Room S-417, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1720
+links:
+- url: https://www.oregonlegislature.gov/meek
+  note: homepage
+other_names:
+- name: M. Meek
+- name: M.W. Meek
+- name: Meek, M.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000382
+- scheme: legacy_openstates
+  identifier: ORL000391
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Mark_Meek
+- url: https://en.wikipedia.org/wiki/Mark_Meek
+- url: https://justfacts.votesmart.org/candidate/biography/168081/mark-meek
+- url: https://www.linkedin.com/in/markmeekrealtorsinger
+- url: https://www.oregonlegislature.gov/meek

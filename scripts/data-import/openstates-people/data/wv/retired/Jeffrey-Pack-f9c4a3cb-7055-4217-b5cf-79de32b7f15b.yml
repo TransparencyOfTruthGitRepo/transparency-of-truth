@@ -1,0 +1,25 @@
+id: ocd-person/f9c4a3cb-7055-4217-b5cf-79de32b7f15b
+name: Jeffrey Pack
+given_name: Jeffrey
+family_name: Pack
+email: jeffrey.pack@wvhouse.gov
+image: http://www.legis.state.wv.us/images/members/2021/house/pack_jeffrey.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2021-07-30'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '28'
+  end_reason: Appointed as commissioner for the Bureau of Social Services in DHHR
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Pack
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Pack%2C+J.
+other_names:
+- name: Pack, J.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000394
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Pack
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Pack%2C+J.

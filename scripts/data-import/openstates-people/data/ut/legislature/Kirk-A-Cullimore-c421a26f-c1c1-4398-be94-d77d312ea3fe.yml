@@ -1,0 +1,63 @@
+id: ocd-person/c421a26f-c1c1-4398-be94-d77d312ea3fe
+name: Kirk Cullimore
+given_name: Kirk
+family_name: Cullimore
+gender: Male
+email: kcullimore@le.utah.gov
+image: https://le.utah.gov/images/legislator/CULLIKA.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '19'
+- start_date: 2019-01-01
+  end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '9'
+offices:
+- classification: capitol
+  address: P.O. Box 145115 350 N. State St., Suite 320, Salt Lake City, UT 84114
+  voice: 801-538-1035
+links:
+- url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415051
+  note: finance report
+- url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=CULLIKA
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2020/Senate_Dist09.pdf
+  note: district demographics
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/Senate_Dist19.pdf
+  note: district demographics
+- url: https://le.utah.gov/senate/CofI/COFICULLIKA.pdf
+  note: conflict of interest 0
+- url: https://senate.utah.gov/kirk-cullimore
+- url: https://senate.utah.gov/sen/CULLIKA/
+  note: homepage
+other_names:
+- name: Cullimore, K.
+- name: Cullimore, K. A.
+- name: Cullimore, Kirk
+- name: Cullimore, Kirk A.
+- name: K. Cullimore
+- name: K.A. Cullimore
+- name: Kirk A. Cullimore
+sources:
+- url: https://ballotpedia.org/Kirk_Cullimore
+- url: https://en.wikipedia.org/wiki/Kirk_Cullimore_Jr.
+- url: https://justfacts.votesmart.org/candidate/biography/182112/kirk-cullimore-jr
+- url: https://le.utah.gov/data/legislators.json
+- url: https://senate.utah.gov/sen/CULLIKA
+- url: https://senate.utah.gov/sen/CULLIKA/
+- url: https://www.linkedin.com/in/kirk-cullimore-b4309714
+extras:
+  service start: January 1, 2019
+  profession: Attorney
+  education: A.A. Utah Valley University; B.A. Brigham Young University; J.D. University
+    of Oklahoma
+  counties represented:
+  - Salt Lake
+  cell phone: 385-867-9474
+  home phone: 801-413-3298
+  title: Majority Assistant Whip

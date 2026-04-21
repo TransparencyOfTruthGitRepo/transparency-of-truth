@@ -1,0 +1,42 @@
+id: ocd-person/21405c5b-96dc-4c28-9b69-59c2cf00e9a5
+name: Henry Stone
+given_name: Henry
+family_name: Stone
+gender: Male
+email: henry.stone@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30645
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '9'
+- end_date: 2022-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '7'
+offices:
+- classification: capitol
+  address: State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319
+  voice: 515-281-3221
+links:
+- url: https://iowa.us7.list-manage.com/subscribe?u=b7d249185b0959748eda3cd67&id=04fa01942f
+- url: https://iowahouserepublicans.nationbuilder.com/reps
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30645
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=30645
+other_names:
+- name: H. Stone
+- name: Stone, H.
+sources:
+- url: https://ballotpedia.org/Henry_Stone
+- url: https://en.wikipedia.org/wiki/Henry_Stone_(born_1971)
+- url: https://en.wikipedia.org/wiki/Henry_Stone_(politician)
+- url: https://justfacts.votesmart.org/candidate/190949/henry-stone
+- url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30645
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=30645
+- url: https://www.legis.iowa.gov/legislators/legislator?personID=30645
+extras:
+  home email: henrystone462@gmail.com
+  occupation: Legislator

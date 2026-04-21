@@ -1,0 +1,25 @@
+id: ocd-person/5d16344c-cf54-4959-b581-f633e0e4f89e
+name: Linda Collins-Smith
+given_name: Linda
+family_name: Collins-Smith
+image: http://www.arkleg.state.ar.us/assembly/2019/Member%20Pictures/collins-smith.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '19'
+links:
+- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Collins-Smith
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ARL000024
+- scheme: legacy_openstates
+  identifier: ARL000351
+- scheme: legacy_openstates
+  identifier: ARL000343
+sources:
+- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Collins-Smith
+extras:
+  occupation: Lodging, Tourism, Real Estate

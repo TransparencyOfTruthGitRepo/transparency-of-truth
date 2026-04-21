@@ -1,0 +1,40 @@
+id: ocd-person/4209f53e-18f3-4c9e-8183-caa385c319ec
+name: Richard West
+given_name: Richard
+family_name: West
+birth_date: 1967-03-07
+gender: Male
+email: richard.west@house.mo.gov
+image: https://house.mo.gov/MemberPhoto.aspx?id=2245
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '102'
+- end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '63'
+offices:
+- classification: capitol
+  address: Room 200-A, 201 W. Capitol Ave., Jefferson City, MO 65101
+  voice: 573-751-9768
+links:
+- url: https://house.mo.gov/MemberDetails.aspx?district=102
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=063
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=102
+other_names:
+- name: R. West
+- name: R.W. West
+- name: West, R.
+- name: West, Richard
+sources:
+- url: https://ballotpedia.org/Richard_West_(Missouri)
+- url: https://house.mo.gov/MemberDetails.aspx?district=102
+- url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=063
+- url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=102
+- url: https://www.linkedin.com/in/richard-west-5b66956b
+extras:
+  hometown: Wentzville

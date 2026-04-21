@@ -1,0 +1,27 @@
+id: ocd-person/a13af74a-5ade-4769-8a76-db942fe71002
+name: Karen Brownlee
+given_name: Karen
+family_name: Brownlee
+gender: Female
+email: rep28@ohiohouse.gov
+image: https://www.gongwer-oh.com/public/KarenBrownlee_Cropped.png
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '28'
+offices:
+- classification: capitol
+  address: 77 S. High St. 10th Floor, Columbus, OH 43215
+  voice: 614-466-8120
+links:
+- url: https://ohiohouse.gov/members/karen-brownlee
+other_names:
+- name: Brownlee, K.
+- name: K. Brownlee
+sources:
+- url: https://ballotpedia.org/Karen_Brownlee
+- url: https://ohiohouse.gov/members/karen-brownlee
+- url: https://ohiohouse.gov/members/karen-brownlee/biography

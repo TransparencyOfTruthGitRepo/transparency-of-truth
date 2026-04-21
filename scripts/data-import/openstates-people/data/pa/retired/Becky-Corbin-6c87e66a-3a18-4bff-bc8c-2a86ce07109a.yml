@@ -1,0 +1,23 @@
+id: ocd-person/6c87e66a-3a18-4bff-bc8c-2a86ce07109a
+name: Becky Corbin
+given_name: Becky
+family_name: Corbin
+image: http://www.legis.state.pa.us/images/members/200/1621.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '155'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000443
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1621
+extras:
+  facebook: http://www.facebook.com/RepCorbin
+  youtube: http://www.youtube.com/RepCorbin

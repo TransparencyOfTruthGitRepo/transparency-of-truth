@@ -1,0 +1,19 @@
+id: ocd-person/903ba63f-920c-4772-8875-82842380eb1a
+name: Rhoda E. Perry
+given_name: Rhoda E.
+family_name: Perry
+party:
+- name: Democratic
+roles:
+- start_date: '2012-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  district: '3'
+links:
+- url: http://webserver.rilin.state.ri.us/Perry/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: RIL000003
+sources:
+- url: http://webserver.rilin.state.ri.us/Documents/Senators.xls

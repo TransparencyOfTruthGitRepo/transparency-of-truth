@@ -1,0 +1,40 @@
+id: ocd-person/e171a437-11bc-4200-ae58-f6f8c4971f39
+name: Martha Marx
+given_name: Martha
+family_name: Marx
+gender: Female
+email: martha.marx@cga.ct.gov
+party:
+- name: Democratic/Working Families
+roles:
+- start_date: 2023-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Room 2200, Legislative Office Building 300 Capitol Ave., Hartford, CT 06106
+  voice: 860-240-0436
+links:
+- url: https://www.senatedems.ct.gov/marx
+- url: https://www.senatedems.ct.gov/marx-contact
+- url: https://www.senatedems.ct.gov/senator/martha-marx
+other_names:
+- name: M. Marx
+- name: Marx, M.
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
+- url: https://ballotpedia.org/Martha_Marx
+- url: https://en.wikipedia.org/wiki/Martha_Marx
+- url: https://justfacts.votesmart.org/candidate/biography/185747/martha-marx
+- url: https://www.senatedems.ct.gov/marx
+- url: https://www.senatedems.ct.gov/senator/martha-marx
+- url: https://www.senatedems.ct.gov/senator/martha-marx/bio
+extras:
+  gender: Female
+  title: Deputy Majority Leader
+  committees: Veterans' and Military Affairs (Chair); Public Health (Vice Chair);
+    Aging; Appropriations; Government Administration and Elections; Insurance and
+    Real Estate
+  committee codes: ;AGE;APP;GAE;INS;PH;VA;
+  prison: '0'

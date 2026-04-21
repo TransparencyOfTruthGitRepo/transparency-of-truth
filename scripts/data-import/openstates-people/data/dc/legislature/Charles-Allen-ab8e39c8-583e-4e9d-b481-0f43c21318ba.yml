@@ -1,0 +1,49 @@
+id: ocd-person/ab8e39c8-583e-4e9d-b481-0f43c21318ba
+name: Charles Allen
+given_name: Charles
+family_name: Allen
+gender: Male
+email: callen@dccouncil.gov
+image: https://dccouncil.gov/wp-content/uploads/2017/06/C._Allen_small_1-75x75-c-default.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-02
+  type: legislature
+  jurisdiction: ocd-jurisdiction/country:us/district:dc/government
+  district: Ward 6
+offices:
+- classification: district
+  address: 1350 Pennsylvania Ave. NW Suite 110, Washington, DC 20004
+  voice: 202-724-8072
+links:
+- url: https://dccouncil.gov/council/councilmember-allen/
+  note: homepage
+- url: https://dccouncil.us/council/councilmember-allen/
+- url: https://www.charlesallenward6.com/
+other_names:
+- name: Allen, C.
+- name: Allen, Charles
+- name: C. Allen
+ids:
+  twitter: CMCharlesAllen
+  facebook: CMcharlesallen
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: DCL000024
+- scheme: legacy_openstates
+  identifier: DCL000031
+- scheme: legacy_openstates
+  identifier: DCL000051
+sources:
+- url: https://ballotpedia.org/Charles_Allen_(Washington_DC)
+- url: https://dccouncil.gov/council/councilmember-allen
+- url: https://dccouncil.gov/council/councilmember-allen/
+- url: https://dccouncil.us/council/councilmember-allen
+- url: https://dccouncil.us/council/councilmember-allen/
+- url: https://dccouncil.us/councilmembers
+- url: https://dccouncil.us/councilmembers/
+- url: https://en.wikipedia.org/wiki/Charles_Allen_%28Washington,_D.C._politician%29
+- url: https://www.charlesallenward6.com
+extras:
+  website: http://www.charlesallenward6.com/

@@ -1,0 +1,43 @@
+id: ocd-person/52424e91-a002-4908-a205-4ea27cfe68da
+name: Scott Oelslager
+given_name: Scott
+family_name: Oelslager
+birth_date: 1953-10-15
+gender: Male
+email: rep48@ohiohouse.gov
+image: https://www.legislature.ohio.gov/assets/people/scott-oelslager/headshots/thumbnails/medium/scott-oelslager-february-2023-headshot_medium.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '48'
+- end_date: 2018-12-31
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '29'
+offices:
+- classification: capitol
+  address: 77 S. High St. 13th Floor, Columbus, OH 43215
+  voice: 614-752-2438
+links:
+- url: https://ohiohouse.gov/scott-oelslager
+- url: https://www.ohiohouse.gov/members/scott-oelslager
+- url: https://www.ohiohouse.gov/scott-oelslager
+other_names:
+- name: Oelslager, S.
+- name: S. Oelslager
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000029
+sources:
+- url: https://ballotpedia.org/Scott_Oelslager
+- url: https://en.wikipedia.org/wiki/Scott_Oelslager
+- url: https://ohiohouse.gov/members/scott-oelslager
+  note: member details page
+- url: https://ohiohouse.gov/scott-oelslager
+- url: https://www.legislature.ohio.gov/legislators/house-directory
+  note: member list page
+- url: https://www.ohiohouse.gov/members/member-directory
+- url: https://www.ohiohouse.gov/members/scott-oelslager

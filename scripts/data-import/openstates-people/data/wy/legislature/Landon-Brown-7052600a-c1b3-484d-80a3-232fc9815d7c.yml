@@ -1,0 +1,64 @@
+id: ocd-person/7052600a-c1b3-484d-80a3-232fc9815d7c
+name: Landon Brown
+given_name: Landon
+family_name: Brown
+birth_date: 1987-02-26
+gender: Male
+email: landon.brown@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-BrownLandon.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '9'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district
+  address: 5312 Opal Drive, Cheyenne, WY 82009
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/H/2034
+- url: https://www.wyoleg.gov/Legislators/2025/H/2034
+- url: https://wyoleg.gov/Legislators/2019/R/2034
+- url: https://wyoleg.gov/Legislators/2021/R/2034
+other_names:
+- name: Brown, L
+- name: Brown, L.
+- name: L. Brown
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000145
+sources:
+- url: https://ballotpedia.org/Landon_Brown
+- url: https://en.wikipedia.org/wiki/Landon_Brown
+- url: https://justfacts.votesmart.org/candidate/biography/171204/landon-brown
+- url: https://www.linkedin.com/in/landon-brown-mpa-30790076
+- url: https://www.wyoleg.gov/Legislators/2023/H/2034
+- url: https://www.wyoleg.gov/Legislators/2025/H/2034
+- url: https://wyoleg.gov/Legislators/2019/R/2034
+- url: https://wyoleg.gov/Legislators/2021/R/2034
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
+- url: https://wyoleg.gov/LsoService/api/legislator/2034
+extras:
+  county: Laramie County
+  education:
+  - schoolName: Bellevue University
+    gradYear: '2012'
+    degree: Professional Retail Sales & Management
+  - schoolName: University of Wyoming
+    gradYear: '2015'
+    degree: Master's of Public Administration
+  occupation: Development Director, Cheyenne Regional Medical Center Foundation
+  organizations:
+  - orgname: Cheyenne Planning Commission
+  - orgname: Laramie County School District No. 1
+  - orgname: Black Dog Animal Rescue
+  house years: 'House:  2017-Present'
+  prior service:
+  - chamber: House
+    startYear: 2017
+    endYear: Present
+    district: ' District 09, '

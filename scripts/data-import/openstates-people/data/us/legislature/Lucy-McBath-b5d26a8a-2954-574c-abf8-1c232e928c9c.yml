@@ -1,0 +1,79 @@
+id: ocd-person/b5d26a8a-2954-574c-abf8-1c232e928c9c
+name: Lucy McBath
+given_name: Lucy
+family_name: McBath
+birth_date: 1960-06-01
+gender: Female
+email: https://mcbath.house.gov/email-me
+image: https://unitedstates.github.io/images/congress/450x550/M001208.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-6
+- start_date: 2023-01-03
+  end_date: 2025-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-7
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-6
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: GA-6
+offices:
+- classification: capitol
+  address: 2246 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-4501
+- classification: district
+  address: 3330 Cumberland Blvd. SE Suite 610, Atlanta, GA 30339
+  voice: 470-773-6330
+links:
+- url: https://mcbath.house.gov
+  note: website
+- url: https://mcbath.house.gov/
+other_names:
+- name: L. McBath
+- name: L.K. McBath
+- name: McBath, L.
+ids:
+  twitter: RepLucyMcBath
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Lucy McBath
+- scheme: bioguide
+  identifier: M001208
+- scheme: fec
+  identifier: H8GA06393
+- scheme: google_entity_id
+  identifier: kg:/g/11f647_0gj
+- scheme: govtrack
+  identifier: '412769'
+- scheme: icpsr
+  identifier: '21944'
+- scheme: opensecrets
+  identifier: N00042813
+- scheme: pictorial
+  identifier: '13016'
+- scheme: votesmart
+  identifier: '178538'
+- scheme: wikidata
+  identifier: Q54358424
+sources:
+- url: https://ballotpedia.org/Lucy_McBath
+- url: https://en.wikipedia.org/wiki/Lucy_McBath
+- url: https://justfacts.votesmart.org/candidate/biography/178538/lucy-mcbath
+- url: https://mcbath.house.gov
+- url: https://mcbath.house.gov/official-biography
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/lucy_mcbath/412769
+- url: https://www.linkedin.com/in/lucy-mcbath-9bb9b040

@@ -1,0 +1,67 @@
+id: ocd-person/a516a327-22fc-57af-931b-f28926b44b85
+name: Rob Menendez
+given_name: Rob
+family_name: Menendez
+birth_date: 1985-07-12
+gender: Male
+email: https://menendez.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/M001226.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NJ-8
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NJ-8
+offices:
+- classification: capitol
+  address: 2453 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-7919
+- classification: district
+  address: 257 Cornelison Ave. Suite 4408, Jersey City, NJ 07302
+  voice: 201-309-0301
+links:
+- url: https://menendez.house.gov
+  note: website
+- url: https://menendez.house.gov/
+other_names:
+- name: Menendez, R.
+- name: R. Menendez
+- name: R.J. Menendez
+- name: Robert Menendez
+ids:
+  twitter: RepMenendez
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Rob Menendez (New Jersey)
+- scheme: bioguide
+  identifier: M001226
+- scheme: fec
+  identifier: H2NJ08232
+- scheme: google_entity_id
+  identifier: kg:/g/11snp9md7d
+- scheme: govtrack
+  identifier: '456918'
+- scheme: opensecrets
+  identifier: N00049686
+- scheme: pictorial
+  identifier: '13157'
+- scheme: votesmart
+  identifier: '205678'
+- scheme: wikidata
+  identifier: Q115137457
+- scheme: wikipedia
+  identifier: Rob Menendez
+sources:
+- url: https://ballotpedia.org/Rob_Menendez_(New_Jersey)
+- url: https://en.wikipedia.org/wiki/Rob_Menendez
+- url: https://menendez.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.linkedin.com/in/rob-menendez-89630345

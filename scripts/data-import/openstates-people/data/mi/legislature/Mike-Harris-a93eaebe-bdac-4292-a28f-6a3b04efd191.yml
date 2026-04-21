@@ -1,0 +1,37 @@
+id: ocd-person/a93eaebe-bdac-4292-a28f-6a3b04efd191
+name: Mike Harris
+given_name: Mike
+family_name: Harris
+gender: Male
+email: mikeharris@house.mi.gov
+image: https://dtj5wlj7ond0z.cloudfront.net/uploads/2022/05/HS_HARRIS_0522_web-scaled.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '52'
+offices:
+- classification: capitol
+  address: Room H-374, Capitol Building 100 N. Capitol Ave., Lansing, MI 48909
+  voice: 517-373-0828
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://gophouse.org/member/repmikeharris/posts
+other_names:
+- name: Harris, M.
+- name: M. Harris
+- name: M.R. Harris
+sources:
+- url: https://ballotpedia.org/Mike_R._Harris_(Michigan_House_of_Representatives_candidate)
+- url: https://gophouse.org/member/repmikeharris
+- url: https://gophouse.org/member/repmikeharris/
+  note: Member Details Page
+- url: https://gophouse.org/member/repmikeharris/posts
+- url: https://RepHarris.com
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/mike-harris-71a492203

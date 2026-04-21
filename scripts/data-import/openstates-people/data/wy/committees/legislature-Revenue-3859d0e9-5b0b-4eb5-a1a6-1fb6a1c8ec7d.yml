@@ -1,0 +1,68 @@
+id: ocd-organization/3859d0e9-5b0b-4eb5-a1a6-1fb6a1c8ec7d
+jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+classification: committee
+name: Revenue
+chamber: legislature
+sources:
+- url: https://web.wyoleg.gov/LsoService/api/committeeDetail/2023/J03
+  note: Committee JSON from wyoleg.gov site
+- url: https://web.wyoleg.gov/LsoService/api/committeeDetail/2024/J03
+  note: Committee JSON from wyoleg.gov site
+- url: https://www.wyoleg.gov/Committees/2023/J03
+- url: https://www.wyoleg.gov/Committees/2024/J03
+- url: https://www.wyoleg.gov/Committees/2025/J03
+- url: https://www.wyoleg.gov/Committees/2026/J03
+links:
+- url: https://www.wyoleg.gov/Committees/2023/J03
+  note: homepage
+- url: https://www.wyoleg.gov/Committees/2024/J03
+  note: homepage
+- url: https://www.wyoleg.gov/Committees/2025/J03
+- url: https://www.wyoleg.gov/Committees/2026/J03
+members:
+- name: Tony Locke
+  role: chair
+  person_id: ocd-person/0cd9d0d3-09eb-4cf1-8e5b-bfc15a71b337
+- name: Troy McKeown
+  role: chair
+  person_id: ocd-person/c1525bf9-8a43-4807-b72a-e42f94267b09
+- name: Ann Lucas
+  role: member
+  person_id: ocd-person/4665c34f-70f5-4bc0-af49-0239e0e907a1
+- name: Bob Ide
+  role: member
+  person_id: ocd-person/6d1c2665-46ea-444d-b88b-b22e2623e660
+- name: Bob Wharff
+  role: member
+  person_id: ocd-person/bc53e98d-bd3c-4a67-9822-68e609f45251
+- name: Cale Case
+  role: member
+  person_id: ocd-person/0b07cbe8-73ba-4371-9acb-95cb7ecf6251
+- name: Clarence Styvar
+  role: member
+  person_id: ocd-person/0df4327b-df46-4886-ab09-0c8a55639548
+- name: Dan Dockstader
+  role: member
+  person_id: ocd-person/5395223c-9b56-410d-b18f-978d9e2a07a9
+- name: Gary Brown
+  role: member
+  person_id: ocd-person/472c50ea-da65-42c3-a9b3-3639a9881a7f
+- name: J.R. Riggins
+  role: member
+  person_id: ocd-person/25e8e592-1425-4e8d-bcce-97ec84ef66c3
+- name: Jayme Lien
+  role: member
+  person_id: ocd-person/89408a3a-ae27-4a8d-aa93-0050a48cf93d
+- name: Kevin Campbell
+  role: member
+  person_id: ocd-person/e6242790-9cdf-48ec-a5d3-aae3e5439733
+- name: Liz Storer
+  role: member
+  person_id: ocd-person/7d3ea3c1-de6a-433f-83e2-c53dde09be61
+- name: Stephan Pappas
+  role: member
+  person_id: ocd-person/f46abbfe-3a0a-4657-a4ac-fbc418adfcc7
+other_names:
+- name: Joint Committee on Revenue
+- name: Joint Revenue
+- name: Joint Revenue Committee

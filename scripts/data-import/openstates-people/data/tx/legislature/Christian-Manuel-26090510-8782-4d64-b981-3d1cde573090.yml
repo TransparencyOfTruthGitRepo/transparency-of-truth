@@ -1,0 +1,35 @@
+id: ocd-person/26090510-8782-4d64-b981-3d1cde573090
+name: Christian Manuel
+given_name: Christian
+family_name: Manuel
+gender: Male
+email: christian.manuel@house.texas.gov
+image: https://house.texas.gov/images/members/4255.jpg?v=1
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '22'
+offices:
+- classification: capitol
+  address: Room E2.412, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0662
+- classification: district
+  address: 2300 Highway 365 Suite 360, Nederland, TX 77627
+  voice: 409-344-4022
+links:
+- url: https://house.texas.gov/members/4255
+- url: https://house.texas.gov/members/member-page/?district=22
+other_names:
+- name: C. Manuel
+- name: Manuel, C.
+- name: Manuel, Christian
+sources:
+- url: https://ballotpedia.org/Christian_Hayes
+- url: https://en.wikipedia.org/wiki/Christian_Manuel
+- url: https://house.texas.gov/members/4255
+- url: https://house.texas.gov/members/4255/biography
+- url: https://house.texas.gov/members/member-page/?district=22
+- url: https://justfacts.votesmart.org/candidate/201317/christian-manuel

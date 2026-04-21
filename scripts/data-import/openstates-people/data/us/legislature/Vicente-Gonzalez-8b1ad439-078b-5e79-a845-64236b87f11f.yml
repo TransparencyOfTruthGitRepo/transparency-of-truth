@@ -1,0 +1,99 @@
+id: ocd-person/8b1ad439-078b-5e79-a845-64236b87f11f
+name: Vicente Gonzalez
+given_name: Vicente
+family_name: Gonzalez
+birth_date: 1967-09-04
+gender: Male
+email: https://gonzalez.house.gov/address_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/G000581.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-34
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-34
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-15
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-15
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-15
+offices:
+- classification: capitol
+  address: 1201 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-2531
+  fax: 202-225-5688
+- classification: district
+  address: 100 W. King Ave. Suite 106, Kingsville, TX 78363
+  voice: 956-682-5545
+  fax: 956-544-1884
+- classification: district
+  address: 255 S. Kansas Ave., Weslaco, TX 78596
+  voice: 956-682-5545
+  fax: 956-544-1884
+- classification: district
+  address: 835 E. Levee St. Sixth Floor, Brownsville, TX 78520
+  voice: 956-682-5545
+  fax: 956-544-1884
+links:
+- url: https://gonzalez.house.gov
+  note: website
+- url: https://gonzalez.house.gov/
+other_names:
+- name: Gonzalez, V.
+- name: V. Gonzalez
+ids:
+  twitter: RepGonzalez
+  youtube: UC5H6oYLKQ_xIXO5CG7fh4hw
+  facebook: USCongressmanVicenteGonzalez
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Vicente Gonzalez Jr.
+- scheme: bioguide
+  identifier: G000581
+- scheme: cspan
+  identifier: '103568'
+- scheme: fec
+  identifier: H6TX15162
+- scheme: google_entity_id
+  identifier: kg:/g/11c266m1z7
+- scheme: govtrack
+  identifier: '412725'
+- scheme: icpsr
+  identifier: '21722'
+- scheme: maplight
+  identifier: '2237'
+- scheme: opensecrets
+  identifier: N00038809
+- scheme: pictorial
+  identifier: '13291'
+- scheme: votesmart
+  identifier: '166483'
+- scheme: wikidata
+  identifier: Q27924921
+- scheme: wikipedia
+  identifier: Vicente Gonzalez (politician)
+sources:
+- url: https://ballotpedia.org/Vicente_Gonz%C3%A1lez
+- url: https://en.wikipedia.org/wiki/Vicente_Gonzalez_(politician)
+- url: https://gonzalez.house.gov
+- url: https://justfacts.votesmart.org/candidate/biography/166483/vicente-gonzalez
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/vicente_gonzalez/412725

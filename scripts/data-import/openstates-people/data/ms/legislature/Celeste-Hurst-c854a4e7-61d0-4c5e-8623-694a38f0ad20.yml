@@ -1,0 +1,32 @@
+id: ocd-person/c854a4e7-61d0-4c5e-8623-694a38f0ad20
+name: Celeste Hurst
+given_name: Celeste
+family_name: Hurst
+birth_date: 1976-08-31
+gender: Female
+email: churst@house.ms.gov
+image: https://static.wixstatic.com/media/4b62c6_190e934501654befbc52179bbb3d45b0~mv2.jpeg/v1/fill/w_605,h_713,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4b62c6_190e934501654befbc52179bbb3d45b0~mv2.jpeg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '75'
+offices:
+- classification: capitol
+  address: State Capitol 400 High St., Jackson, MS 39201
+  voice: 601-359-3770
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/house/hurst.xml
+other_names:
+- name: C. Hurst
+- name: C.M. Hurst
+- name: Hurst, C.
+sources:
+- url: https://ballotpedia.org/Celeste_Hurst
+- url: https://billstatus.ls.state.ms.us/members/house/hurst.xml
+- url: https://en.wikipedia.org/wiki/Celeste_Hurst
+- url: https://justfacts.votesmart.org/candidate/key-votes/211458/celeste-hurst

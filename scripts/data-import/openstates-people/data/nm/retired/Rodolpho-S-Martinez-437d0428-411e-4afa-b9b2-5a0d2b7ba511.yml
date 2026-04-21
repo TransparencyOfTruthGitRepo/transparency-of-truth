@@ -1,0 +1,23 @@
+id: ocd-person/437d0428-411e-4afa-b9b2-5a0d2b7ba511
+name: Rodolpho S. Martinez
+given_name: Rodolpho
+family_name: Martinez
+middle_name: S.
+image: http://www.nmlegis.gov/lcs/graphics/photos/HMARR.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  district: '39'
+links:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HMARR
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NML000081
+- scheme: legacy_openstates
+  identifier: NML000250
+sources:
+- url: http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HMARR

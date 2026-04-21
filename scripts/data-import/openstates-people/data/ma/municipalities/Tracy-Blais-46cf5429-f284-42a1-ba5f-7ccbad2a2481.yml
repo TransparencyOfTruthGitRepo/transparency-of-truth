@@ -1,0 +1,15 @@
+id: ocd-person/46cf5429-f284-42a1-ba5f-7ccbad2a2481
+name: Tracy Blais
+given_name: Tracy
+family_name: Blais
+email: administrator@townofnewbury.org
+roles:
+- end_date: 2025-06-30
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/place:newbury/government
+offices:
+- classification: primary
+  address: 12 Kent Way;Newbury, MA 01922
+  voice: 978-465-0862 ext. 301
+sources:
+- url: https://www.townofnewbury.org/town-administrator

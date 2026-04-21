@@ -1,0 +1,52 @@
+id: ocd-organization/a70c04e0-f599-46b2-969a-049d9adfa9a5
+jurisdiction: ocd-jurisdiction/country:us/state:il/government
+classification: committee
+name: Public Health
+chamber: upper
+sources:
+- url: https://www.ilga.gov/senate/committees/default.asp
+  note: homepage
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=2962
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=3119
+- url: https://www.ilga.gov/Senate/Committees/Members/3119
+links:
+- url: https://www.ilga.gov/senate/committees/default.asp
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=2962
+  note: homepage
+- url: https://www.ilga.gov/senate/committees/members.asp?CommitteeID=3119
+- url: https://www.ilga.gov/Senate/Committees/Members/3119
+members:
+- name: Mike Simmons-Gessesse
+  role: chair
+  person_id: ocd-person/0125b0ac-65ba-443e-b418-53cdf42b9f85
+- name: Rachel Ventura
+  role: vice chair
+  person_id: ocd-person/ed666567-961a-43f1-8ca3-ddd29e07f8af
+- name: Li Arellano
+  role: republican spokesperson
+  person_id: ocd-person/8f61ddbc-3976-49b0-8c80-1d24cca80dc0
+- name: Andrew Chesney
+  role: member
+  person_id: ocd-person/9def23d3-81e9-4baf-b0c8-eeb4e5587778
+- name: Dave Koehler
+  role: member
+  person_id: ocd-person/997e8947-dadd-4c8d-9538-0b58c077a812
+- name: Dave Syverson
+  role: member
+  person_id: ocd-person/d02beb7e-1f30-48f2-8418-4c9287452562
+- name: "Graciela Guzm\xE1n"
+  role: member
+  person_id: ocd-person/95d8f5ae-4cc9-483b-913f-ccd07aa73e13
+- name: Laura Fine
+  role: member
+  person_id: ocd-person/0ce44c13-37aa-4560-8489-67c309da913a
+- name: Mattie Hunter
+  role: member
+  person_id: ocd-person/879afbe3-9394-4a84-b57f-af36ca92cb14
+- name: Sara Feigenholtz
+  role: member
+  person_id: ocd-person/6c0069de-c064-412e-ae45-9e87d6ee3dae
+other_names:
+- name: Senate Committee on Public Health
+- name: Senate Public Health
+- name: Senate Public Health Committee

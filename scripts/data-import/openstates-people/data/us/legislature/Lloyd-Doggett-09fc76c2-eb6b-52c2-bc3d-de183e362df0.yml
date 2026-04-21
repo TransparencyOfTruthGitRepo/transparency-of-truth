@@ -1,0 +1,148 @@
+id: ocd-person/09fc76c2-eb6b-52c2-bc3d-de183e362df0
+name: Lloyd Doggett
+given_name: Lloyd
+family_name: Doggett
+birth_date: 1946-10-06
+gender: Male
+email: https://doggett.house.gov/zip_authentication?form=/contact
+image: https://unitedstates.github.io/images/congress/450x550/D000399.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-37
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-37
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-35
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-35
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-35
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-35
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-35
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-25
+- start_date: 2009-01-06
+  end_date: 2011-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-25
+- start_date: 2007-01-04
+  end_date: 2009-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-25
+- start_date: 2005-01-04
+  end_date: 2007-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-25
+- start_date: 2003-01-07
+  end_date: 2005-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-10
+- start_date: 2001-01-03
+  end_date: 2003-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-10
+- start_date: 1999-01-06
+  end_date: 2001-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-10
+- start_date: 1997-01-07
+  end_date: 1999-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-10
+- start_date: 1995-01-04
+  end_date: 1997-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: TX-10
+offices:
+- classification: capitol
+  address: 2307 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-4865
+- classification: district
+  address: J.J. Pickle Federal Building 300 E. 8th St., 7th Floor, Austin, TX 78701
+  voice: 512-916-5921
+links:
+- url: https://doggett.house.gov
+  note: website
+- url: https://doggett.house.gov/
+other_names:
+- name: Doggett, L.
+- name: L. Doggett
+- name: L.A. Doggett
+ids:
+  twitter: RepLloydDoggett
+  youtube: UCN-kiLKyHPcfRVZ28sAHS_g
+  facebook: lloyddoggett
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Lloyd Doggett
+- scheme: bioguide
+  identifier: D000399
+- scheme: cspan
+  identifier: '36810'
+- scheme: fec
+  identifier: H4TX10028
+- scheme: google_entity_id
+  identifier: kg:/m/03flzn
+- scheme: govtrack
+  identifier: '400111'
+- scheme: house_history
+  identifier: '12328'
+- scheme: icpsr
+  identifier: '29571'
+- scheme: maplight
+  identifier: '224'
+- scheme: opensecrets
+  identifier: N00006023
+- scheme: pictorial
+  identifier: '13294'
+- scheme: thomas
+  identifier: '00303'
+- scheme: votesmart
+  identifier: '21689'
+- scheme: wikidata
+  identifier: Q363817
+sources:
+- url: https://ballotpedia.org/Lloyd_Doggett
+- url: https://doggett.house.gov
+- url: https://doggett.house.gov/about/full-biography
+- url: https://en.wikipedia.org/wiki/Lloyd_Doggett
+- url: https://justfacts.votesmart.org/candidate/21689/lloyd-doggett-ii
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/lloyd_doggett/400111

@@ -1,0 +1,70 @@
+id: ocd-person/4f702d02-54ad-4143-837a-09be9a03ee6e
+name: Tim Salazar
+given_name: Tim
+family_name: Salazar
+gender: Male
+email: tim.salazar@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-SalazarTim.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2021-01-04
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '26'
+- start_date: 2017-01-02
+  end_date: 2021-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '26'
+- start_date: 2017-01-02
+  end_date: 2021-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '34'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district
+  address: 331 Peterson Road, Riverton, WY 82501
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/S/2028
+- url: https://www.wyoleg.gov/Legislators/2025/S/2028
+- url: https://wyoleg.gov/Legislators/2019/R/2028
+- url: https://wyoleg.gov/Legislators/2021/R/2028
+  note: homepage
+other_names:
+- name: Salazar, T
+- name: Salazar, T.
+- name: T. Salazar
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000144
+- scheme: openstates
+  identifier: ocd-person/a6d55cf1-880f-43bf-80a1-0fe854983a36
+sources:
+- url: https://ballotpedia.org/Tim_Salazar
+- url: https://en.wikipedia.org/wiki/Tim_Salazar
+- url: https://justfacts.votesmart.org/candidate/biography/153981/tim-salazar
+- url: https://www.wyoleg.gov/Legislators/2023/S/2028
+- url: https://www.wyoleg.gov/Legislators/2025/S/2028
+- url: https://wyoleg.gov/Legislators/2019/R/2028
+- url: https://wyoleg.gov/Legislators/2021/R/2028
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2028
+extras:
+  county: Fremont County
+  spouse name: Shannon
+  occupation: "1989 \u2013 2015 US Military, Retired"
+  house years: 'House:  2017-2020'
+  senate years: 'Senate: 2021-Present'
+  prior service:
+  - chamber: House
+    startYear: 2017
+    endYear: '2020'
+    district: ' District 34, '
+  - chamber: Senate
+    startYear: 2021
+    endYear: Present
+    district: ' District 26, '

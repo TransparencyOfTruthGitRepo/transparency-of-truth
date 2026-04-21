@@ -1,0 +1,35 @@
+id: ocd-person/5ae88c49-8938-4472-8de2-1c0f0bc0e2f0
+name: Manny Cruz
+given_name: Manny
+family_name: Cruz
+birth_date: 1992-01-28
+gender: Male
+email: manny.cruz@mahouse.gov
+image: https://www.wickedlocal.com/gcdn/authoring/2018/08/07/NWKL/ghows-WL-72d881e3-b92a-5ead-e053-0100007fbaea-a47ecf5e.jpeg?width=600&height=1068&fit=crop&format=pjpg&auto=webp
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 7th Essex
+offices:
+- classification: capitol
+  address: Room 146, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2011
+links:
+- url: https://malegislature.gov/Legislators/Profile/M_C3
+other_names:
+- name: Cruz, M.
+- name: M. Cruz
+sources:
+- url: https://ballotpedia.org/Manny_Cruz
+- url: https://en.wikipedia.org/wiki/Manny_Cruz
+- url: https://justfacts.votesmart.org/candidate/biography/209559/manny-cruz
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/M_C3
+- url: https://malegislature.gov/Legislators/Profile/M_C3
+- url: https://www.linkedin.com/in/mannycruz
+extras:
+  member code: M_C3

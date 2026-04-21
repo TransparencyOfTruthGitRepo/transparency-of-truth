@@ -1,0 +1,35 @@
+id: ocd-person/3b59f672-58f4-4d87-8b6e-6f9cc63a4d4c
+name: Noah Arbit
+given_name: Noah
+family_name: Arbit
+birth_date: 1995-09-21
+gender: Male
+email: noaharbit@house.mi.gov
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '20'
+offices:
+- classification: capitol
+  address: Room N-699, Anderson House Office Building 124 N. Capitol Ave., Lansing,
+    MI 48933
+  voice: 517-373-3816
+- classification: capitol-mail
+  address: House Office Building P.O. Box 30014, Lansing, MI 48909
+links:
+- url: https://housedems.com/Noah-Arbit/
+other_names:
+- name: Arbit, N.
+- name: N. Arbit
+sources:
+- url: https://ballotpedia.org/Noah_Arbit
+- url: https://housedems.com/Noah-Arbit
+- url: https://housedems.com/Noah-Arbit/
+  note: Member Details Page
+- url: https://housedems.com/noah-arbit/about
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page
+- url: https://www.linkedin.com/in/narbit

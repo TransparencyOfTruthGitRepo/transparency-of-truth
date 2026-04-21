@@ -1,0 +1,17 @@
+id: ocd-person/9314b599-230c-4368-9432-6f87ee7888ff
+name: W. Edward Goodall
+given_name: W. Edward
+family_name: Goodall
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '35'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NCL000025
+sources:
+- url: http://www.ncga.state.nc.us/gascripts/members/memberList.pl?sChamber=Senate

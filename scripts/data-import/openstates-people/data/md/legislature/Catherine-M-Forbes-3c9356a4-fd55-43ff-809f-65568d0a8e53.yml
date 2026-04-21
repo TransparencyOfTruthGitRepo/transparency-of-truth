@@ -1,0 +1,43 @@
+id: ocd-person/3c9356a4-fd55-43ff-809f-65568d0a8e53
+name: Cathi Forbes
+given_name: Cathi
+family_name: Forbes
+birth_date: 1965-06-15
+gender: Female
+email: catherine.forbes@house.maryland.gov
+image: http://mgaleg.maryland.gov/2019RS/images/forbes01.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 43B
+- start_date: 2019-10-29
+  end_date: 2023-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 43B
+- end_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: 42A
+offices:
+- classification: capitol
+  address: Room 304, House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3487
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/forbes01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18236.html
+other_names:
+- name: C. Forbes
+- name: C.M. Forbes
+- name: Catherine M. Forbes
+- name: Forbes
+- name: Forbes, C.
+sources:
+- url: https://ballotpedia.org/Cathi_Forbes
+- url: https://en.wikipedia.org/wiki/Cathi_Forbes
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/forbes01
+- url: https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18236.html
+- url: https://www.linkedin.com/in/cathiforbes

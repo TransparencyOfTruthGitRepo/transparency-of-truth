@@ -1,0 +1,41 @@
+id: ocd-person/e3f46d13-b49b-4fd9-a604-16ad12393a71
+name: SuAnn Olson
+given_name: SuAnn
+family_name: Olson
+gender: Female
+email: solson@ndlegis.gov
+image: https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/solson2023.jpg?itok=DQSnHPuC
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  district: '8'
+offices:
+- classification: capitol
+  address: State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505
+- classification: district-mail
+  address: ND
+  voice: 701-258-3887
+links:
+- url: https://ndlegis.gov/biography/suann-olson
+- url: https://www.ndlegis.gov/biography/suann-olson
+other_names:
+- name: Olson, S.
+- name: S. Olson
+sources:
+- url: https://ballotpedia.org/SuAnn_Olson
+- url: https://en.wikipedia.org/wiki/SuAnn_Olson
+- url: https://ndlegis.gov/biography/suann-olson
+- url: https://suannolson.com/about
+- url: https://www.linkedin.com/in/suann-olson-cpa-16746514
+- url: https://www.ndlegis.gov/assembly/68-2023/regular/members?combine=&field_legis_chamber_target_id=All&field_legis_district_target_id=All&field_legislator_party_target_id=All&page=5
+  note: members list page
+- url: https://www.ndlegis.gov/assembly/68-2023/regular/members?page=5
+  note: members list page
+- url: https://www.ndlegis.gov/biography/suann-olson
+  note: member details page
+extras:
+  cell: 701-220-0907
+  home: 701-258-3887

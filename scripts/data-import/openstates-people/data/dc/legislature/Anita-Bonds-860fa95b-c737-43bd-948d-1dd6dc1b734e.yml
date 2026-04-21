@@ -1,0 +1,51 @@
+id: ocd-person/860fa95b-c737-43bd-948d-1dd6dc1b734e
+name: Anita Bonds
+given_name: Anita
+family_name: Bonds
+gender: Female
+email: abonds@dccouncil.gov
+image: https://dccouncil.gov/wp-content/uploads/2017/03/Anita-Bonds-Official-Portrait-Shot-002-75x75-c-default.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2012-12-11
+  type: legislature
+  jurisdiction: ocd-jurisdiction/country:us/district:dc/government
+  district: At-Large
+offices:
+- classification: district
+  address: 1350 Pennsylvania Ave. NW Suite 404, Washington, DC 20004
+  voice: 202-724-8064
+links:
+- url: https://dccouncil.gov/council/anita-bonds/
+  note: homepage
+- url: https://dccouncil.us/council/anita-bonds/
+other_names:
+- name: A. Bonds
+- name: A.D. Bonds
+- name: Bonds, A.
+- name: Bonds, Anita
+ids:
+  twitter: AnitaBondsDC
+  facebook: anitabondsdc
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: DCL000021
+- scheme: legacy_openstates
+  identifier: DCL000041
+- scheme: legacy_openstates
+  identifier: DCL000029
+- scheme: legacy_openstates
+  identifier: DCL000049
+sources:
+- url: https://ballotpedia.org/Anita_Bonds
+- url: https://dccouncil.gov/council/anita-bonds
+- url: https://dccouncil.gov/council/anita-bonds/
+- url: https://dccouncil.us/council/anita-bonds
+- url: https://dccouncil.us/council/anita-bonds/
+- url: https://dccouncil.us/councilmembers
+- url: https://dccouncil.us/councilmembers/
+- url: https://en.wikipedia.org/wiki/Anita_Bonds
+- url: https://www.linkedin.com/in/anita-d-bonds-67343a84
+extras:
+  website: http://anitabonds.com/

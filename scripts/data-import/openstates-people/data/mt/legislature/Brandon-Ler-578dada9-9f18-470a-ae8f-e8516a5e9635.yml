@@ -1,0 +1,47 @@
+id: ocd-person/578dada9-9f18-470a-ae8f-e8516a5e9635
+name: Brandon Ler
+given_name: Brandon
+family_name: Ler
+gender: Male
+email: brandon.ler@legmt.gov
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '33'
+- start_date: 2021-01-04
+  end_date: 2025-01-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '33'
+- start_date: 2021-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  district: '35'
+  end_date: 2025-01-06
+offices:
+- classification: capitol
+  address: Capitol Building, 1301 E. 6th Ave. P.O. Box 200400, Helena, MT 59620
+  voice: 406-444-4800
+- classification: district
+  address: 11313 County Road 338, Savage, MT 59262
+  voice: 406-480-5687
+links:
+- url: https://leg.mt.gov/legislator-information/roster/individual/6842
+- url: https://leg.mt.gov/legislator-information/roster/individual/7548
+- url: https://legislators.legmt.gov/#/legislator/102
+- url: https://www.legmt.gov/legislators/1282/
+other_names:
+- name: B. Ler
+- name: Brandon Ler
+- name: Ler, B.
+- name: Ler, Brandon
+sources:
+- url: https://ballotpedia.org/Brandon_Ler
+- url: https://en.wikipedia.org/wiki/Brandon_Ler
+- url: https://leg.mt.gov/legislator-information/roster/individual/6842
+- url: https://leg.mt.gov/legislator-information/roster/individual/7548
+- url: https://legislators.legmt.gov/#/legislator/102
+- url: https://www.legmt.gov/legislators/1282

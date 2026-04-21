@@ -1,0 +1,43 @@
+id: ocd-person/4af5cab3-9d9c-4d27-8eda-d39dcaa74bd0
+name: Chris Tague
+given_name: Chris
+family_name: Tague
+birth_date: 1969-05-30
+gender: Male
+email: taguec@nyassembly.gov
+image: https://assembly.state.ny.us/write/upload/member_files/102/headshot/102.jpg?hst=1660074360
+party:
+- name: Republican
+roles:
+- start_date: 2018-05-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '102'
+offices:
+- classification: capitol
+  address: Room 937, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-5363
+- classification: district
+  address: 113 Park Place Suite 6, Schoharie, NY 12157
+  voice: 518-295-7250
+- classification: district
+  address: 45 Five Mile Woods Road Suite 3, Catskill, NY 12414
+  voice: 518-943-1371
+links:
+- url: https://assembly.state.ny.us/mem/?sh=email
+- url: https://assembly.state.ny.us/mem/Chris-Tague
+- url: https://nyassembly.gov/mem/Chris-Tague/
+other_names:
+- name: C. Tague
+- name: Christopher Tague
+- name: Tague, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NYL000478
+sources:
+- url: https://assembly.state.ny.us/mem/Chris-Tague
+- url: https://ballotpedia.org/Christopher_Tague
+- url: https://en.wikipedia.org/wiki/Christopher_Tague
+- url: https://justfacts.votesmart.org/candidate/175967/chris-tague
+- url: https://nyassembly.gov/mem/Chris-Tague
+- url: https://www.linkedin.com/in/chris-tague-6808968

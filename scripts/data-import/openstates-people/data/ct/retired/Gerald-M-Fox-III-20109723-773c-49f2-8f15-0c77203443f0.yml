@@ -1,0 +1,21 @@
+id: ocd-person/20109723-773c-49f2-8f15-0c77203443f0
+name: Gerald M. Fox III
+given_name: Gerald
+family_name: Fox
+middle_name: M.
+image: http://www.housedems.ct.gov/Fox/images/thumbnails/Fox_Testifying.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '146'
+links:
+- url: http://www.housedems.ct.gov/Fox
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000182
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

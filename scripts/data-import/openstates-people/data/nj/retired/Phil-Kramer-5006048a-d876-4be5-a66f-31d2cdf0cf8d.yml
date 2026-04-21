@@ -1,0 +1,15 @@
+id: ocd-person/5006048a-d876-4be5-a66f-31d2cdf0cf8d
+name: Phil Kramer
+given_name: Phil
+family_name: Kramer
+email: Mayor.Kramer@franklinnj.gov
+roles:
+- end_date: 2023-12-31
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/place:somerset/government
+offices:
+- classification: primary
+  address: 475 DeMott Lane;Somerset, NJ 08873
+  voice: 732-675-7912
+sources:
+- url: https://www.franklintwpnj.org/government/township-council/council-members

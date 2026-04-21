@@ -1,0 +1,23 @@
+id: ocd-person/2bebbd44-22e9-4218-9621-489c2794741f
+name: Cheryl L Grossman
+given_name: Cheryl
+family_name: Grossman
+middle_name: L
+image: http://www.ohiohouse.gov/Assets/Headshots/Small/23.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '23'
+links:
+- url: http://www.ohiohouse.gov/cheryl-l-grossman
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: OHL000056
+- scheme: legacy_openstates
+  identifier: OHL000192
+sources:
+- url: http://www.ohiohouse.gov/members/member-directory

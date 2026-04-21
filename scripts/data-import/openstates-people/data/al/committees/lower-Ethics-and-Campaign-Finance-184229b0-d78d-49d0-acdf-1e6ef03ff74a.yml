@@ -1,0 +1,61 @@
+id: ocd-organization/184229b0-d78d-49d0-acdf-1e6ef03ff74a
+jurisdiction: ocd-jurisdiction/country:us/state:al/government
+classification: committee
+name: Ethics and Campaign Finance
+chamber: lower
+sources:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: Committee list api call
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/HouseCommittees.aspx
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=2951&COMMITTEE=Ethics%20and%20Campaign%20Finance
+links:
+- url: https://alison.legislature.state.al.us/committees-house-standing-current
+  note: homepage
+- url: https://www.legislature.state.al.us/aliswww/ISD/HseCommittee.aspx?OID_ORGANIZATION=2951&COMMITTEE=Ethics%20and%20Campaign%20Finance
+  note: homepage
+members:
+- name: Matt Simpson
+  role: chair
+  person_id: ocd-person/52046189-0464-4140-9cdf-b6c66312d49d
+- name: Thomas Jackson
+  role: ranking member
+  person_id: ocd-person/3d737a2a-6fdf-4939-838d-4f035a647e23
+- name: Berry Forte
+  role: member
+  person_id: ocd-person/a5d0ab78-e643-4ea1-86f2-2dad948b498a
+- name: Chris England
+  role: member
+  person_id: ocd-person/b57cc6b9-3627-431f-8a01-4c3c7ba973d4
+- name: Curtis Travis
+  role: member
+  person_id: ocd-person/583c130d-a97a-48c9-9a18-03e94aa93930
+- name: James Lomax
+  role: member
+  person_id: ocd-person/d54b8dfc-7921-4f35-ad22-ad2efdaad100
+- name: Leigh Hulsey
+  role: member
+  person_id: ocd-person/f2489dbf-ac57-427f-8200-4cf6e6610980
+- name: Mike Shaw
+  role: member
+  person_id: ocd-person/cff09a3a-b81e-433d-80f5-45f6472f4642
+- name: Ritchie Whorton
+  role: member
+  person_id: ocd-person/7e00e45e-24bf-4939-83b8-a56a90e3ea61
+- name: Ron Bolton
+  role: member
+  person_id: ocd-person/b94526a8-1564-43f5-ad38-98b795e95f02
+- name: Shane Stringer
+  role: member
+  person_id: ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b
+other_names:
+- name: Committee on Ethics and Campaign Finance
+- name: Ethics and Campaign Finance Committee
+- name: House Committee on Ethics and Campaign Finance
+- name: House Ethics and Campaign Finance
+- name: House Ethics and Campaign Finance Committee
+extras:
+  Clerk: Adam Rawlins
+  Phone: 334-261-0058
+  Email: adam.rawlins@alhouse.gov
+  Room: 538-B

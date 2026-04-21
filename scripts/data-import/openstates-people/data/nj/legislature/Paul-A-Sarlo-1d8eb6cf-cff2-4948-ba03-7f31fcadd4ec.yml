@@ -1,0 +1,54 @@
+id: ocd-person/1d8eb6cf-cff2-4948-ba03-7f31fcadd4ec
+name: Paul Sarlo
+given_name: Paul
+family_name: Sarlo
+birth_date: 1968-08-31
+gender: Male
+email: sensarlo@njleg.org
+image: https://www.njleg.state.nj.us/members/memberphotos/sarlo_color.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2003-05-19
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '36'
+- start_date: 2002-01-08
+  end_date: 2003-05-19
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '36'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 496 Columbia Blvd. First Floor, Wood-Ridge, NJ 07075
+  voice: 201-804-8118
+links:
+- url: https://www.njleg.state.nj.us/legislative-roster/223/senator-sarlo
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=223
+- url: https://www.njsendems.org/senators/paul-a-sarlo/
+other_names:
+- name: P. Sarlo
+- name: P.A. Sarlo
+- name: Paul A. Sarlo
+- name: Sarlo, P.
+- name: Sarlo, Paul A.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000109
+sources:
+- url: https://ballotpedia.org/Paul_Sarlo
+- url: https://en.wikipedia.org/wiki/Paul_Sarlo
+- url: https://justfacts.votesmart.org/candidate/biography/55139/paul-sarlo
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/223
+- url: https://www.njleg.state.nj.us/downloads.asp
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/223/senator-sarlo
+- url: https://www.njleg.state.nj.us/members/abcroster.asp
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=223
+- url: https://www.njleg.state.nj.us/members/BIO.asp?Leg=223
+- url: https://www.njsendems.org/senators/paul-a-sarlo
+extras:
+  position: Deputy Majority Leader

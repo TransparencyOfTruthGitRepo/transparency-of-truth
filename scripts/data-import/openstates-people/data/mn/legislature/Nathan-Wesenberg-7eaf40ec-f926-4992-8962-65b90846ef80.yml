@@ -1,0 +1,31 @@
+id: ocd-person/7eaf40ec-f926-4992-8962-65b90846ef80
+name: Nathan Wesenberg
+given_name: Nathan
+family_name: Wesenberg
+gender: Male
+email: sen.nathan.wesenberg@mnsenate.gov
+image: https://www.senate.mn/graphics/10Wesenberg.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '10'
+offices:
+- classification: capitol
+  address: Room 2325, Minnesota Senate Building 95 University Ave. West, St. Paul,
+    MN 55155
+  voice: 651-296-4913
+links:
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1256
+other_names:
+- name: N. Wesenberg
+- name: Wesenberg, N.
+sources:
+- url: https://ballotpedia.org/Nathan_Wesenberg
+- url: https://en.wikipedia.org/wiki/Nathan_Wesenberg
+- url: https://justfacts.votesmart.org/candidate/207797/nathan-wesenberg
+- url: https://www.linkedin.com/in/nathan-wesenberg-83916b86
+- url: https://www.senate.mn/api/members
+- url: https://www.senate.mn/members/member_bio.html?mem_id=1256

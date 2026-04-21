@@ -1,0 +1,41 @@
+id: ocd-organization/fa48b5d4-e665-437d-8bee-a367cf8bd4ee
+jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+classification: committee
+name: Housing
+chamber: upper
+sources:
+- url: https://app.leg.wa.gov/ContentParts/CommitteeMembers/?agency=Senate&committee=HSG
+- url: https://app.leg.wa.gov/ContentParts/LegislativeCommittees/Index
+- url: https://leg.wa.gov/about-the-legislature/committees/senate/hsg
+- url: https://leg.wa.gov/Senate/Committees/HSG
+links:
+- url: https://leg.wa.gov/about-the-legislature/committees/senate/hsg
+- url: https://leg.wa.gov/Senate/Committees/HSG
+  note: homepage
+- url: https://leg.wa.gov/Senate/Committees/HSG/Pages/default.aspx
+members:
+- name: Jess Bateman
+  role: chair
+  person_id: ocd-person/ea4e5e77-aa55-421f-8ac5-48c65fbc2ab0
+- name: Emily Alvarado
+  role: vice chair
+  person_id: ocd-person/950b27fd-99cb-43a2-b594-9f721e1b1844
+- name: Keith Goehner
+  role: ranking member
+  person_id: ocd-person/f1d29afa-f381-46f2-a6e4-17ab801b3fdb
+- name: Chris Gildon
+  role: member
+  person_id: ocd-person/1e20aaf3-ffbb-4666-82c2-374b232b41ac
+- name: Jesse Salomon
+  role: member
+  person_id: ocd-person/f2eae839-31f5-4f33-be94-b532774da896
+- name: Tina Orwall
+  role: member
+  person_id: ocd-person/ef711ad1-b4e6-44c9-a971-7d57e8140f04
+- name: Yasmin Trudeau
+  role: member
+  person_id: ocd-person/28de7c48-9b66-4597-a15f-ce7b132fba5a
+other_names:
+- name: Senate Committee on Housing
+- name: Senate Housing
+- name: Senate Housing Committee

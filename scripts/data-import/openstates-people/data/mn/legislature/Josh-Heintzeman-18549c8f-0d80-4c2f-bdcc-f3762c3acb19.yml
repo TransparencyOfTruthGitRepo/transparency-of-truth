@@ -1,0 +1,42 @@
+id: ocd-person/18549c8f-0d80-4c2f-bdcc-f3762c3acb19
+name: Josh Heintzeman
+given_name: Josh
+family_name: Heintzeman
+birth_date: 1977-12-05
+gender: Male
+email: rep.josh.heintzeman@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/06B.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 6B
+- end_date: 2023-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 10A
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-4333
+- classification: district
+  address: MN
+  voice: 218-820-5674
+links:
+- url: https://www.house.mn.gov/members/profile/15435
+other_names:
+- name: Heintzeman, J.
+- name: J. Heintzeman
+- name: Joshua Heintzeman
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000695
+sources:
+- url: https://ballotpedia.org/Josh_Heintzeman
+- url: https://en.wikipedia.org/wiki/Josh_Heintzeman
+- url: https://justfacts.votesmart.org/candidate/152810/josh-heintzeman
+- url: https://www.house.leg.state.mn.us/members/hmem.asp
+- url: https://www.house.mn.gov/members/profile/15435
+- url: https://www.linkedin.com/in/josh-heintzeman-50b00199

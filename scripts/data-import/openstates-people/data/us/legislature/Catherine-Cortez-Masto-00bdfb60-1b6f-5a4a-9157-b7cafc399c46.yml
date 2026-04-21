@@ -1,0 +1,83 @@
+id: ocd-person/00bdfb60-1b6f-5a4a-9157-b7cafc399c46
+name: Catherine Cortez Masto
+given_name: Catherine
+family_name: Cortez Masto
+birth_date: 1964-03-29
+gender: Female
+email: https://www.cortezmasto.senate.gov/contact/connect/
+image: https://unitedstates.github.io/images/congress/450x550/C001113.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2017-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Nevada
+- start_date: 2017-01-03
+  end_date: 2023-01-03
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: Nevada
+offices:
+- classification: capitol
+  address: 309 Hart Senate Office Building, Washington, DC 20510
+  voice: 202-224-3542
+- classification: district
+  address: 333 Las Vegas Blvd. South Suite 8016, Las Vegas, NV 89101
+  voice: 702-388-5020
+  fax: 702-388-5030
+- classification: district
+  address: 400 S. Virginia St. Suite 902, Reno, NV 89501
+  voice: 775-686-5750
+  fax: 775-686-5757
+links:
+- url: https://www.cortezmasto.senate.gov
+  note: website
+- url: https://www.cortezmasto.senate.gov/
+- url: https://www.cortezmasto.senate.gov/contact
+  note: contact form
+other_names:
+- name: C. Cortez Masto
+- name: C.M. Cortez Masto
+- name: Cortez Masto, C.
+ids:
+  twitter: SenCortezMasto
+  youtube: UCip_83SiKUqwnUT57VOXrCg
+  facebook: SenatorCortezMasto
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Catherine Cortez Masto
+- scheme: bioguide
+  identifier: C001113
+- scheme: cspan
+  identifier: '105698'
+- scheme: fec
+  identifier: S6NV00200
+- scheme: google_entity_id
+  identifier: kg:/m/02rtp9t
+- scheme: govtrack
+  identifier: '412681'
+- scheme: icpsr
+  identifier: '41700'
+- scheme: lis
+  identifier: S385
+- scheme: maplight
+  identifier: '2193'
+- scheme: opensecrets
+  identifier: N00037161
+- scheme: pictorial
+  identifier: '13404'
+- scheme: votesmart
+  identifier: '69579'
+- scheme: wikidata
+  identifier: Q5052604
+sources:
+- url: https://ballotpedia.org/Catherine_Cortez_Masto
+- url: https://catherinecortezmasto.com/meet-catherine
+- url: https://en.wikipedia.org/wiki/Catherine_Cortez_Masto
+- url: https://justfacts.votesmart.org/candidate/biography/69579/catherine-cortez-masto
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.cortezmasto.senate.gov
+- url: https://www.govtrack.us/congress/members/catherine_cortez_masto/412681

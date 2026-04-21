@@ -1,0 +1,38 @@
+id: ocd-person/f40a7222-92eb-4d8e-ad4d-7008b859aae7
+name: Michael Garrett
+given_name: Michael
+family_name: Garrett
+gender: Male
+email: michael.garrett@ncleg.gov
+image: https://www.ncleg.gov/Members/MemberImage/S/414/Low
+party:
+- name: Democratic
+roles:
+- start_date: 2019-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '27'
+offices:
+- classification: capitol
+  address: Room 1109, North Carolina Legislative Building 16 W. Jones St., Raleigh,
+    NC 27601
+  voice: 919-733-5856
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/414
+- url: https://www.ncleg.gov/Members/Committees/S/414
+- url: https://www.ncleg.gov/Members/IntroducedBills/S/414
+- url: https://www.ncleg.gov/Members/Votes/S/414
+other_names:
+- name: Garrett, M.
+- name: M. Garrett
+- name: M.K. Garrett
+sources:
+- url: https://ballotpedia.org/Michael_Garrett_(North_Carolina)
+- url: https://www.linkedin.com/in/michael-garrett-12774212
+- url: https://www.ncleg.gov/Members/Biography/S/414
+- url: https://www.ncleg.gov/Members/MemberTable/S
+extras:
+  terms in senate: 3 (0 in House)
+  represented counties: Guilford
+  legislative assistant: Tim Moreland
+  legislative assistant email: Tim.Moreland@ncleg.gov

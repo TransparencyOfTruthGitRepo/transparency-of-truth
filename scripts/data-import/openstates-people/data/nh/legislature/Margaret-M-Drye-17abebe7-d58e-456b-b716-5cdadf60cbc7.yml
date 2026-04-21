@@ -1,0 +1,37 @@
+id: ocd-person/17abebe7-d58e-456b-b716-5cdadf60cbc7
+name: Margaret Drye
+given_name: Margaret
+family_name: Drye
+gender: Female
+email: margaret.drye@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123211.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Sullivan 7
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9284
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9284
+  note: member detail page
+other_names:
+- name: Drye, M.
+- name: M. Drye
+- name: M.M. Drye
+- name: Margaret M. Drye
+sources:
+- url: https://ballotpedia.org/Margaret_Drye
+- url: https://en.wikipedia.org/wiki/Margaret_Drye
+- url: https://gc.nh.gov/house/members/member.aspx?pid=9284
+- url: https://justfacts.votesmart.org/candidate/176609/margaret-drye
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9284
+extras:
+  county: Sullivan
+  elected status: new
+  gender code: F

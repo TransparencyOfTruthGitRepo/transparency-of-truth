@@ -1,0 +1,34 @@
+id: ocd-person/9c50a5a9-a217-4644-b29d-68d498d9e16d
+name: Steven Jackson
+given_name: Steven
+family_name: Jackson
+gender: Male
+email: hse002@legis.la.gov
+image: https://house.louisiana.gov/H_Reps/RepPics/rep2.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '2'
+offices:
+- classification: capitol
+  address: P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804
+  voice: 225-342-6945
+- classification: district
+  address: 101 Milam St. Suite 100, Shreveport, LA 71101
+  voice: 318-676-7747
+- classification: district-mail
+  address: P.O. Box 2113, Shreveport, LA 71166
+links:
+- url: https://house.louisiana.gov/H_Reps/members?ID=2
+other_names:
+- name: Jackson, S.
+- name: S. Jackson
+- name: S.P. Jackson
+sources:
+- url: https://ballotpedia.org/Steven_Jackson_(Louisiana)
+- url: https://en.wikipedia.org/wiki/Steven_Jackson_(politician)
+- url: https://house.louisiana.gov/H_Reps/members?ID=2
+- url: https://www.linkedin.com/in/stephen-jackson-83751041

@@ -1,0 +1,33 @@
+id: ocd-person/afca05de-e5ff-4b1c-b38c-444f37b92687
+name: Max Rymer
+given_name: Max
+family_name: Rymer
+birth_date: 1991-01-09
+gender: Male
+email: rep.max.rymer@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls94/28B.gif?v=112221
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 28B
+offices:
+- classification: capitol
+  address: Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155
+  voice: 651-296-5377
+- classification: district
+  address: MN
+  voice: 612-354-6164
+links:
+- url: https://www.house.mn.gov/members/profile/15643
+other_names:
+- name: M. Rymer
+- name: M.R. Rymer
+- name: Rymer, M.
+sources:
+- url: https://ballotpedia.org/Max_Rymer
+- url: https://justfacts.votesmart.org/candidate/biography/171595/max-rymer
+- url: https://www.house.mn.gov/members/profile/15643
+- url: https://www.linkedin.com/in/maxrymer

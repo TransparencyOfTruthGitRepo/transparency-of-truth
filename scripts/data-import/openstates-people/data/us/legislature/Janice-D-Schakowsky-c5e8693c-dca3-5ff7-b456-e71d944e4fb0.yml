@@ -1,0 +1,141 @@
+id: ocd-person/c5e8693c-dca3-5ff7-b456-e71d944e4fb0
+name: Jan Schakowsky
+given_name: Jan
+family_name: Schakowsky
+birth_date: 1944-05-26
+gender: Female
+email: https://schakowsky.house.gov/zip_authentication?form=/contact/email-me
+image: https://unitedstates.github.io/images/congress/450x550/S001145.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1999-01-03
+  end_date: 2030-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-9
+- start_date: 2023-01-03
+  end_date: 2025-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-9
+- start_date: 2021-01-03
+  end_date: 2023-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-9
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-9
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-9
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-9
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-9
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-9
+- start_date: 2009-01-06
+  end_date: 2011-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-9
+- start_date: 2007-01-04
+  end_date: 2009-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-9
+- start_date: 2005-01-04
+  end_date: 2007-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-9
+- start_date: 2003-01-07
+  end_date: 2005-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-9
+- start_date: 2001-01-03
+  end_date: 2003-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-9
+- start_date: 1999-01-06
+  end_date: 2001-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: IL-9
+offices:
+- classification: capitol
+  address: 2408 Rayburn House Office Building, Washington, DC 20515
+  voice: 202-225-2111
+  fax: 202-226-6890
+- classification: district
+  address: 4500 Oakton St., Skokie, IL 60076
+  voice: 773-506-7100
+  fax: 202-226-6890
+links:
+- url: https://schakowsky.house.gov
+  note: website
+- url: https://schakowsky.house.gov/
+other_names:
+- name: J. Schakowsky
+- name: J.D. Schakowsky
+- name: Janice D. Schakowsky
+- name: Schakowsky, J.
+ids:
+  twitter: JanSchakowsky
+  youtube: UCuCHHPSENUEaaeH8n_CYDXQ
+  facebook: janschakowsky
+other_identifiers:
+- scheme: ballotpedia
+  identifier: Jan Schakowsky
+- scheme: bioguide
+  identifier: S001145
+- scheme: cspan
+  identifier: '57874'
+- scheme: fec
+  identifier: H8IL09067
+- scheme: google_entity_id
+  identifier: kg:/m/0256nw
+- scheme: govtrack
+  identifier: '400360'
+- scheme: house_history
+  identifier: '22550'
+- scheme: icpsr
+  identifier: '29911'
+- scheme: maplight
+  identifier: '452'
+- scheme: opensecrets
+  identifier: N00004724
+- scheme: pictorial
+  identifier: '13041'
+- scheme: thomas
+  identifier: 01588
+- scheme: votesmart
+  identifier: '6387'
+- scheme: wikidata
+  identifier: Q440885
+sources:
+- url: https://ballotpedia.org/Jan_Schakowsky
+- url: https://en.wikipedia.org/wiki/Jan_Schakowsky
+- url: https://justfacts.votesmart.org/candidate/6387/jan-schakowsky
+- url: https://schakowsky.house.gov
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/janice_schakowsky/400360
+- url: https://www.linkedin.com/in/jan-schakowsky-59053413

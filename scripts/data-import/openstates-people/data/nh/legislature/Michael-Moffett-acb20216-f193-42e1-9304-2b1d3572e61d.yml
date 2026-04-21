@@ -1,0 +1,65 @@
+id: ocd-person/acb20216-f193-42e1-9304-2b1d3572e61d
+name: Mike Moffett
+given_name: Mike
+family_name: Moffett
+birth_date: 1955-05-30
+gender: Male
+email: michael.moffett@gc.nh.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/59314.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 4
+- start_date: 2016-12-07
+  end_date: 2018-12-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 4
+- start_date: 2020-12-02
+  end_date: 2022-12-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 4
+- end_date: 2018-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 9
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 9
+offices:
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 03301
+  voice: 603-271-3661
+links:
+- url: https://gc.nh.gov/house/members/member.aspx?pid=7144
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=7144
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+other_names:
+- name: M. Moffett
+- name: Michael I Moffett
+- name: Michael Moffett
+- name: Moffett, M.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001321
+sources:
+- url: https://ballotpedia.org/Michael_Moffett
+- url: https://en.wikipedia.org/wiki/Michael_Moffett_(politician)
+- url: https://gc.nh.gov/house/members/member.aspx?pid=7144
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=7144
+- url: https://justfacts.votesmart.org/candidate/biography/42035/michael-moffett
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=407144
+- url: https://www.linkedin.com/in/michael-moffett-050b9823
+extras:
+  county: Merrimack
+  elected status: Former
+  gender code: M

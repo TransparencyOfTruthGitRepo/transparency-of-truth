@@ -1,0 +1,28 @@
+id: ocd-person/e8548408-5e6b-4fda-bd93-99fa1c84c1bf
+name: Nick Allen
+given_name: Nick
+family_name: Allen
+gender: Male
+email: nick.allen@house.maryland.gov
+image: https://mgaleg.maryland.gov/2023RS/images/allen01.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '8'
+offices:
+- classification: capitol
+  address: Room 305, Lowe House Office Building 6 Bladen St., Annapolis, MD 21401
+  voice: 410-841-3365
+links:
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/allen01
+other_names:
+- name: Allen, N.
+- name: N. Allen
+- name: N.J. Allen
+sources:
+- url: https://ballotpedia.org/Nick_Allen
+- url: https://en.wikipedia.org/wiki/Nick_Allen_(politician)
+- url: https://mgaleg.maryland.gov/mgawebsite/Members/Details/allen01

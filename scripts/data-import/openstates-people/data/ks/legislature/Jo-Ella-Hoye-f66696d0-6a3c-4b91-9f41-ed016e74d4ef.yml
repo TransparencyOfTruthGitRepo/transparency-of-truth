@@ -1,0 +1,36 @@
+id: ocd-person/f66696d0-6a3c-4b91-9f41-ed016e74d4ef
+name: Jo Ella Hoye
+given_name: Jo Ella
+family_name: Hoye
+gender: Female
+email: joella.hoye@house.ks.gov
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jo-Ella-Hoye.PNG
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  district: '17'
+offices:
+- classification: capitol
+  address: State Capitol Room 50-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612
+  voice: 785-296-7331
+links:
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_hoye_jo_ella_1/
+- url: https://www.kslegislature.org/li/b2021_22/members/rep_hoye_jo_ella_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_hoye_jo_ella_1/
+other_names:
+- name: Hoye, J.
+- name: J. Hoye
+- name: J.E. Hoye
+sources:
+- url: https://ballotpedia.org/Jo_Ella_Hoye
+- url: https://en.wikipedia.org/wiki/Jo_Ella_Hoye
+- url: https://www.kslegislature.gov/li/b2025_26/members/rep_hoye_jo_ella_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoye_jo_ella_1
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoye_jo_ella_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_hoye_jo_ella_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_hoye_jo_ella_1/
+extras:
+  occupation: ''

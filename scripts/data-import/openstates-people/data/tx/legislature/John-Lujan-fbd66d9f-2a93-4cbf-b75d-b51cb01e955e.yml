@@ -1,0 +1,43 @@
+id: ocd-person/fbd66d9f-2a93-4cbf-b75d-b51cb01e955e
+name: John Lujan
+given_name: John
+family_name: Lujan
+birth_date: 1962-06-07
+gender: Male
+email: john.lujan@house.texas.gov
+image: https://house.texas.gov/images/members/3145.jpg?v=1
+party:
+- name: Republican
+roles:
+- start_date: 2021-11-16
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '118'
+- start_date: 2016-02-09
+  end_date: 2017-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  district: '118'
+offices:
+- classification: capitol
+  address: Room E2.822, P.O. Box 12910, Austin, TX 78711
+  voice: 512-463-0714
+- classification: district
+  address: 8307 S. Flores St., San Antonio, TX 78221
+  voice: 210-595-0068
+links:
+- url: https://house.texas.gov/members/3145
+- url: https://house.texas.gov/members/member-page/?district=118
+other_names:
+- name: J. Lujan
+- name: Lujan, J.
+- name: Lujan, John
+sources:
+- url: https://ballotpedia.org/John_Lujan
+- url: https://en.wikipedia.org/wiki/John_Lujan
+- url: https://house.texas.gov/members/3145
+- url: https://house.texas.gov/members/3145/biography
+- url: https://house.texas.gov/members/member-page/?district=118
+- url: https://justfacts.votesmart.org/candidate/biography/59377/john-lujan-iv
+- url: https://www.linkedin.com/in/john-lujan-it-executive-93258b1
+- url: https://ylconsulting.com/about/executive-profiles/john-lujan

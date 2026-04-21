@@ -1,0 +1,37 @@
+id: ocd-person/72cc3b25-8e1e-4095-93be-216ee191572c
+name: Barbara Bagshaw
+given_name: Barbara
+family_name: Bagshaw
+gender: Female
+email: barbara.bagshaw@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/d2a8373a-d1e8-4e25-936a-4fbcd3ac4087_BBAGSHAW.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '106'
+offices:
+- classification: capitol
+  address: Room 332, House Republican Office 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1473
+  note: homepage
+- url: https://mainehousegop.org/members/bagshaw-barbara/
+other_names:
+- name: B. Bagshaw
+- name: B.A. Bagshaw
+- name: BAGSHAW of Windham
+- name: Bagshaw, B.
+- name: Barbara A. Bagshaw
+sources:
+- url: https://ballotpedia.org/Barbara_Bagshaw
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1473
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://mainehousegop.org/members/bagshaw-barbara
+extras:
+  Seat Number: '126'
+  towns represented:
+  - Windham (Part)

@@ -1,0 +1,60 @@
+id: ocd-person/21651856-bba6-49fd-b3f8-8ed1b723e804
+name: Regina Lewis-Ward
+given_name: Regina
+family_name: Lewis-Ward
+birth_date: 1959-10-04
+gender: Female
+email: regina.lewis-ward@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/lewis-ward-regina-5001.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '115'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '109'
+offices:
+- classification: capitol
+  address: Room 607-A, Coverdell Legislative Office Building 18 Capitol Square SW,
+    Atlanta, GA 30334
+  voice: 404-656-0287
+- classification: district
+  address: 289 Jonesboro Road Suite 401, McDonough, GA 30253
+links:
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/5001
+- url: https://www.legis.ga.gov/members/house/5001?session=1029
+- url: https://www.legis.ga.gov/members/house/5001?session=1031
+  note: HTML member detail page
+other_names:
+- name: LEWIS-WARD, 115TH
+- name: Lewis-Ward, R.
+- name: R. Lewis-Ward
+- name: R.D. Lewis-Ward
+sources:
+- url: https://ballotpedia.org/Regina_Lewis-Ward
+- url: https://en.wikipedia.org/wiki/Regina_Lewis-Ward
+- url: https://justfacts.votesmart.org/candidate/biography/178960/regina-lewis-ward
+- url: https://www.legis.ga.gov/api/members/detail/5001?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/5001?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/5001
+- url: https://www.legis.ga.gov/members/house/5001?session=1029
+- url: https://www.linkedin.com/in/reginalewisward
+extras:
+  residence: McDonough
+  city: McDonough
+  georgia_id: 5001
+  birthday: October 4
+  occupation: Adjunct Instructor
+  press: https://house-press.com/representative/Regina-Lewis-Ward
+  staff: Jennifer Clark - Administrative Assistant
+  staff email: jennifer.clark@house.ga.gov

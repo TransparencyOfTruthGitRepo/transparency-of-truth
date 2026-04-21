@@ -1,0 +1,45 @@
+id: ocd-person/3770e09c-3492-4388-8047-e3dc83f026f3
+name: Ken Helm
+given_name: Ken
+family_name: Helm
+gender: Male
+email: rep.kenhelm@oregonlegislature.gov
+image: https://www.oregonlegislature.gov/helm/PublishingImages/HD18-784-Edit.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '27'
+- start_date: 2015-01-12
+  end_date: 2023-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '27'
+- end_date: 2023-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  district: '34'
+offices:
+- classification: capitol
+  address: Room H-490, 900 Court St. NE, Salem, OR 97301
+  voice: 503-986-1427
+links:
+- url: https://www.oregonlegislature.gov/helm
+  note: homepage
+other_names:
+- name: Helm, K.
+- name: K. Helm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: ORL000265
+- scheme: legacy_openstates
+  identifier: ORL000350
+sources:
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators
+- url: https://ballotpedia.org/Ken_Helm
+- url: https://en.wikipedia.org/wiki/Ken_Helm
+- url: https://www.linkedin.com/in/ken-helm-3401393
+- url: https://www.oregonlegislature.gov/helm

@@ -1,0 +1,18 @@
+id: ocd-person/a15815f4-b921-46bb-ab8c-438d719a16b5
+name: Lonnie Reed
+given_name: Lonnie
+family_name: Reed
+party:
+- name: Democratic
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  district: '102'
+links:
+- url: http://www.housedems.ct.gov/Reed
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: CTL000138
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

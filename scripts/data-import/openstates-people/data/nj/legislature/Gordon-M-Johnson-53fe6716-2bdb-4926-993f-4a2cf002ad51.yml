@@ -1,0 +1,59 @@
+id: ocd-person/53fe6716-2bdb-4926-993f-4a2cf002ad51
+name: Gordon Johnson
+given_name: Gordon
+family_name: Johnson
+birth_date: 1949-12-16
+gender: Male
+email: senjohnson@njleg.org
+image: https://www.njleg.state.nj.us/members/memberphotos/johnson_color.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2022-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '37'
+- start_date: 2002-01-08
+  end_date: 2022-01-10
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '37'
+- start_date: 2002-01-08
+  end_date: 2022-01-11
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  district: '37'
+offices:
+- classification: capitol
+  address: P.O. Box 068 State House, 145 W. State St., Trenton, NJ 08625
+  voice: 609-847-3905
+- classification: district
+  address: 96 Engle St., Englewood, NJ 07631
+  voice: 201-308-7060
+links:
+- url: https://www.njleg.state.nj.us/legislative-roster/434/senator-johnson
+- url: https://www.njsendems.org/senators/gordon-johnson/
+other_names:
+- name: G. Johnson
+- name: G.M. Johnson
+- name: Gordon M. Johnson
+- name: Johnson, G.
+- name: Johnson, Gordon M.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NJL000114
+- scheme: openstates
+  identifier: ocd-person/bd45cf15-bb60-4435-8739-6a837124ce67
+sources:
+- url: https://ballotpedia.org/Gordon_Johnson
+- url: https://en.wikipedia.org/wiki/Gordon_M._Johnson
+- url: https://justfacts.votesmart.org/candidate/55119/gordon-johnson
+- url: https://www.linkedin.com/in/gordon-johnson-10274012
+- url: https://www.linkedin.com/in/gordonmjohnson
+- url: https://www.njleg.state.nj.us/api/legislatorData/legislatorBio/434
+- url: https://www.njleg.state.nj.us/legislative-roster
+- url: https://www.njleg.state.nj.us/legislative-roster/434/senator-johnson
+- url: https://www.njleg.state.nj.us/members/bio.asp?Leg=214
+- url: https://www.njsendems.org/senators/gordon-johnson
+extras:
+  position: Assistant Majority Leader

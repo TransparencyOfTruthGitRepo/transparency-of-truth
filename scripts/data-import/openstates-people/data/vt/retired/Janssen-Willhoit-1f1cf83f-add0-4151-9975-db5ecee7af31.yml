@@ -1,0 +1,22 @@
+id: ocd-person/1f1cf83f-add0-4151-9975-db5ecee7af31
+name: Janssen Willhoit
+given_name: Janssen
+family_name: Willhoit
+image: https://legislature.vermont.gov/assets/Documents/Legislators/JWillhoit.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2019-01-08'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Caledonia-3
+links:
+- url: http://legislature.vermont.gov/people/single/2018.1/24028
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000499
+- scheme: legacy_openstates
+  identifier: VTL000701
+sources:
+- url: http://legislature.vermont.gov/people/loadAll/2018.1
+- url: http://legislature.vermont.gov/people/single/2018.1/24028

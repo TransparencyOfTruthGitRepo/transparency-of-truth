@@ -1,0 +1,62 @@
+id: ocd-person/1f7d013a-8861-4e08-b6bf-7c8d36f8107c
+name: Greg Dolezal
+given_name: Greg
+family_name: Dolezal
+birth_date: 1978-10-01
+gender: Male
+email: greg.dolezal@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/dolezal-greg-4925.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2019-01-14
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '27'
+offices:
+- classification: capitol
+  address: State Capitol Room 421-B, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-656-0040
+- classification: district
+  address: 6505 Shiloh Road Suite 200, Alpharetta, GA 30005
+links:
+- url: https://www.legis.ga.gov/members/senate
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/senate/4925
+- url: https://www.legis.ga.gov/members/senate/4925?session=1029
+- url: https://www.legis.ga.gov/members/senate/4925?session=1031
+  note: HTML member detail page
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4925&Session=27
+other_names:
+- name: DOLEZAL, 27TH
+- name: Dolezal, G.
+- name: G. Dolezal
+- name: G.R. Dolezal
+- name: Greg Dolezal
+- name: Gregory Robert Dolezal
+sources:
+- url: https://ballotpedia.org/Greg_Dolezal
+- url: https://en.wikipedia.org/wiki/Greg_Dolezal
+- url: https://justfacts.votesmart.org/candidate/biography/178679/greg-dolezal
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.legis.ga.gov/api/members/detail/4925?session=1029&chamber=2
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4925?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/senate/4925
+- url: https://www.legis.ga.gov/members/senate/4925?session=1029
+- url: https://www.linkedin.com/in/greg-dolezal-18b0ba9b
+- url: https://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4925&Session=27
+extras:
+  residence: Cumming
+  city: Cumming
+  georgia_id: 4925
+  birthday: October 1
+  occupation: Small Business Owner
+  press: https://senatepress.net/category/senate-press/greg-dolezal
+  religion: Christian
+  spouse: Natalie
+  staff: McKenzie Rhoades
+  staff email: mckenzie.rhoades@senate.ga.gov

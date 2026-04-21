@@ -1,0 +1,121 @@
+id: ocd-person/5f5817b7-43b0-5bb3-93de-0f838a801635
+name: "Ben Ray Luj\xE1n"
+given_name: Ben Ray
+family_name: "Luj\xE1n"
+birth_date: 1972-06-07
+gender: Male
+email: https://www.lujan.senate.gov/contact/contact-form/
+image: https://unitedstates.github.io/images/congress/450x550/L000570.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2021-01-03
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: New Mexico
+- start_date: 2019-01-03
+  end_date: 2021-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NM-3
+- start_date: 2017-01-03
+  end_date: 2019-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NM-3
+- start_date: 2015-01-06
+  end_date: 2017-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NM-3
+- start_date: 2013-01-03
+  end_date: 2015-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NM-3
+- start_date: 2011-01-05
+  end_date: 2013-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NM-3
+- start_date: 2009-01-06
+  end_date: 2011-01-03
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: NM-3
+offices:
+- classification: capitol
+  address: 498 Russell Senate Office Building, Washington, DC 20510
+  voice: 202-224-6621
+  fax: 202-224-3370
+- classification: district
+  address: 100 S. Avenue A Suite 113, Portales, NM 88130
+  voice: 575-252-6188
+  fax: 833-702-2620
+- classification: district
+  address: 120 S. Federal Place Suite 302, Santa Fe, NM 87501
+  voice: 505-230-7040
+  fax: 833-702-2621
+- classification: district
+  address: 201 N. Church St. Suite 201B, Las Cruces, NM 88001
+  voice: 575-288-4644
+  fax: 833-907-0887
+- classification: district
+  address: 500 Marquette Ave. NW Suite 1460, Albuquerque, NM 87102
+  voice: 505-337-7023
+  fax: 833-907-0886
+- classification: district
+  address: New Mexico Highlands University 1103 National Ave. Suite 210, Las Vegas,
+    NM 87701
+  voice: 505-398-9465
+  fax: 833-907-0888
+links:
+- url: https://www.lujan.senate.gov
+  note: website
+- url: https://www.lujan.senate.gov/
+- url: https://www.lujan.senate.gov/contact/
+  note: contact form
+other_names:
+- name: "B. Luj\xE1n"
+- name: "B.R. Luj\xE1n"
+- name: "Luj\xE1n, B."
+ids:
+  twitter: SenatorLujan
+other_identifiers:
+- scheme: ballotpedia
+  identifier: "Ben Ray Luj\xE1n"
+- scheme: bioguide
+  identifier: L000570
+- scheme: cspan
+  identifier: '1031351'
+- scheme: fec
+  identifier: H8NM03196
+- scheme: google_entity_id
+  identifier: kg:/m/0412qzq
+- scheme: govtrack
+  identifier: '412293'
+- scheme: house_history
+  identifier: '17317'
+- scheme: icpsr
+  identifier: '20932'
+- scheme: lis
+  identifier: S409
+- scheme: maplight
+  identifier: '775'
+- scheme: opensecrets
+  identifier: N00029562
+- scheme: thomas
+  identifier: 01939
+- scheme: votesmart
+  identifier: '102842'
+- scheme: wikidata
+  identifier: Q324256
+sources:
+- url: https://ballotpedia.org/Ben_Ray_Luj%C3%A1n
+- url: https://en.wikipedia.org/wiki/Ben_Ray_Luj%C3%A1n
+- url: https://justfacts.votesmart.org/candidate/biography/102842/ben-lujan-jr
+- url: https://unitedstates.github.io
+- url: https://unitedstates.github.io/
+- url: https://www.govtrack.us/congress/members/ben_lujan/412293
+- url: https://www.lujan.senate.gov

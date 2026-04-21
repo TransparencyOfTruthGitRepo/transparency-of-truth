@@ -1,0 +1,69 @@
+id: ocd-organization/cb72fb13-3038-43be-9a4b-29bfd9df1559
+jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+classification: committee
+name: Appropriations
+chamber: lower
+sources:
+- url: https://njleg.state.nj.us/committees/assembly-committees?committee=AAP
+- url: https://www.njleg.state.nj.us/api/legislatorData/committeeInfo/assembly-committees
+  note: JSON data page from NJ Legislative API
+- url: https://www.njleg.state.nj.us/committees/assembly-committees
+links:
+- url: https://njleg.state.nj.us/committees/assembly-committees?committee=AAP
+- url: https://www.njleg.state.nj.us/committees/assembly-committees
+  note: homepage
+members:
+- name: Lisa Swain
+  role: chair
+  person_id: ocd-person/28b4c7d2-d1c3-4735-b321-0f348ec27299
+- name: Verlina Reynolds-Jackson
+  role: vice chair
+  person_id: ocd-person/b432ec8c-f914-47dc-addd-740dfc95daaf
+- name: Antwan McClellan
+  role: member
+  person_id: ocd-person/4ebe8d6e-9814-4f68-aa9f-148c0942eaab
+- name: Balvir Singh
+  role: member
+  person_id: ocd-person/a189187b-df3f-4f10-8e5c-744ad7071787
+- name: Bob Auth
+  role: member
+  person_id: ocd-person/acff039b-0a83-4184-8b6b-7b051cfcdc77
+- name: Carmen Morales
+  role: member
+  person_id: ocd-person/38f2061a-a83f-45bc-92a2-817f44d6b377
+- name: Dave Bailey
+  role: member
+  person_id: ocd-person/64a8c09d-24a2-4d4c-a071-d09f0a30c79f
+- name: Eliana Pintor Marin
+  role: member
+  person_id: ocd-person/6056438b-65d3-4db4-b0ad-c367074bd47e
+- name: Gary Schaer
+  role: member
+  person_id: ocd-person/93a1a3ce-eb52-4e71-b01c-346f41b6bde4
+- name: Greg Myhre
+  role: member
+  person_id: ocd-person/85863833-b5e6-40f2-aafc-5a0fc5f790d0
+- name: Jay Webber
+  role: member
+  person_id: ocd-person/dbe67894-e4cd-46ea-bb59-877a8b4f26d0
+- name: Kenyatta Stewart
+  role: member
+  person_id: ocd-person/0bf3c2a3-9004-40cb-8d3a-eeeca4b0b967
+- name: Linda Carter
+  role: member
+  person_id: ocd-person/199dd5c8-3ef1-4a2c-9585-9de5def27e98
+- name: Melinda Kane
+  role: member
+  person_id: ocd-person/a33ec105-c8ff-446b-ae8b-1a79f402f983
+- name: Tennille McCoy
+  role: member
+  person_id: ocd-person/c05a0080-95df-4576-a81c-d509fb4a5063
+other_names:
+- name: Appropriations Committee
+- name: Assembly Appropriations
+- name: Assembly Appropriations Committee
+- name: Assembly Committee on Appropriations
+- name: Committee on Appropriations
+- name: House Appropriations
+- name: House Appropriations Committee
+- name: House Committee on Appropriations

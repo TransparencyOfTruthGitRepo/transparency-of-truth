@@ -1,0 +1,52 @@
+id: ocd-person/2e198563-4aeb-499b-8333-b4a46b605491
+name: Mike Day
+given_name: Mike
+family_name: Day
+gender: Male
+email: michael.day@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/MSD1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2015-01-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 31st Middlesex
+offices:
+- classification: capitol
+  address: Room 136, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2396
+links:
+- url: https://malegislature.gov/Legislators/Profile/MSD1
+other_names:
+- name: Day, M.
+- name: M. Day
+- name: M.S. Day
+- name: Michael S. Day
+- name: Michael Seamus Day
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000515
+- scheme: legacy_openstates
+  identifier: MAL000352
+- scheme: legacy_openstates
+  identifier: MAL000371
+- scheme: legacy_openstates
+  identifier: MAL000381
+- scheme: openstates
+  identifier: ocd-person/8bc68814-dc62-4746-b4c9-772cd6f25145
+sources:
+- url: https://ballotpedia.org/Michael_Day
+- url: https://ballotpedia.org/Michael_Day_(Massachusetts)
+- url: https://en.wikipedia.org/wiki/Mike_Day_(politician)
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/MSD1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/MSD1
+- url: https://malegislature.gov/Legislators/Profile/MSD1
+- url: https://www.linkedin.com/in/michaelsday
+- url: https://www.tshdlegal.com/attorneys/michael-day
+extras:
+  member code: MSD1

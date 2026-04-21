@@ -1,0 +1,71 @@
+id: ocd-person/78b7c95c-45a7-40cb-a82c-681db75f9529
+name: David Hinkins
+given_name: David
+family_name: Hinkins
+gender: Male
+email: dhinkins@le.utah.gov
+image: https://le.utah.gov/images/legislator/HINKIDP.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '26'
+- end_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '27'
+offices:
+- classification: capitol
+  address: P.O. Box 145115 350 N. State St., Suite 320, Salt Lake City, UT 84114
+  voice: 801-538-1035
+- classification: district-mail
+  address: P.O. Box 383, Ferron, UT 84523
+  voice: 435-384-5550
+links:
+- url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/2095
+  note: finance report
+- url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=HINKIDP
+  note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2020/Senate_Dist27.pdf
+  note: district demographics
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/Senate_Dist26.pdf
+  note: district demographics
+- url: https://le.utah.gov/senate/CofI/COFIHINKIDP.pdf
+  note: conflict of interest 0
+- url: https://senate.utah.gov/david-hinkins
+- url: https://senate.utah.gov/sen/HINKIDP/
+  note: homepage
+other_names:
+- name: D. Hinkins
+- name: D.P. Hinkins
+- name: David P. Hinkins
+- name: Hinkins, D.
+- name: Hinkins, David
+- name: Hinkins, David P.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: UTL000008
+- scheme: legacy_openstates
+  identifier: UTL000214
+sources:
+- url: https://ballotpedia.org/David_Hinkins
+- url: https://en.wikipedia.org/wiki/David_Hinkins
+- url: https://justfacts.votesmart.org/candidate/biography/103541/david-hinkins
+- url: https://le.utah.gov/data/legislators.json
+- url: https://senate.utah.gov/sen/HINKIDP
+- url: https://senate.utah.gov/sen/HINKIDP/
+extras:
+  service start: January 1, 2009
+  profession: Electrician
+  education: Emery County High School, Utah Technical College at Provo Associate Degree
+  counties represented:
+  - Carbon
+  - Emery
+  - Grand
+  - San Juan
+  - Utah
+  - Wasatch
+  cell phone: '4357492828'
+  home phone: 435-384-5550

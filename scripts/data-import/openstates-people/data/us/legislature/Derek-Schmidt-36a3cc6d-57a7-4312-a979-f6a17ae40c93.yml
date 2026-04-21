@@ -1,0 +1,42 @@
+id: ocd-person/36a3cc6d-57a7-4312-a979-f6a17ae40c93
+name: Derek Schmidt
+given_name: Derek
+family_name: Schmidt
+birth_date: 1968-01-23
+gender: Male
+email: https://schmidt.house.gov/address_authentication?form=/contact/email-me
+party:
+- name: Republican
+roles:
+- start_date: 2025-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: KS-2
+offices:
+- classification: capitol
+  address: 1223 Longworth House Office Building, Washington, DC 20515
+  voice: 202-225-6601
+- classification: district
+  address: 3550 SW 5th St. Suite B, Topeka, KS 66606
+  voice: 785-205-5253
+- classification: district
+  address: 402 N. Broadway St. Suite B, Pittsburg, KS 66762
+  voice: 620-308-7450
+links:
+- url: https://schmidt.house.gov/
+other_names:
+- name: D. Schmidt
+- name: D.L. Schmidt
+- name: Schmidt, D.
+other_identifiers:
+- scheme: bioguide
+  identifier: S001228
+sources:
+- url: https://ballotpedia.org/Derek_Schmidt
+- url: https://derekschmidt.com
+- url: https://en.wikipedia.org/wiki/Derek_Schmidt
+- url: https://justfacts.votesmart.org/candidate/34451/derek-schmidt
+- url: https://schmidt.house.gov
+- url: https://www.bloomberg.com/profile/person/17486807
+- url: https://www.linkedin.com/in/derek-schmidt-842293274

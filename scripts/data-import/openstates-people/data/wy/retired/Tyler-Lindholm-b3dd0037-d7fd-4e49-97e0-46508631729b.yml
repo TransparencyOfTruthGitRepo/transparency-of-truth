@@ -1,0 +1,29 @@
+id: ocd-person/b3dd0037-d7fd-4e49-97e0-46508631729b
+name: Tyler Lindholm
+given_name: Tyler
+family_name: Lindholm
+email: Tyler.Lindholm@wyoleg.gov
+birth_date: 1983-05-18
+image: http://wyoleg.gov/LegislatorSummary/Photos/lindholmtH01.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '1'
+links:
+- url: http://wyoleg.gov/Legislators/2019/R/2016
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000133
+sources:
+- url: http://wyoleg.gov/Legislators/2019/R/2016
+extras:
+  county: Crook, Weston
+  number_children: '4'
+  occupation: Substation Electrician and Rancher
+  place_of_birth: ''
+  religion: ''
+  spouse_given_name: Charity
+  wy_leg_id: 2016

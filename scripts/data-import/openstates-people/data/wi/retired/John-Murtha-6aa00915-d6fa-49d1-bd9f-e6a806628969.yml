@@ -1,0 +1,20 @@
+id: ocd-person/6aa00915-d6fa-49d1-bd9f-e6a806628969
+name: John Murtha
+given_name: John
+family_name: Murtha
+image: http://docs.legis.wisconsin.gov/2015/legislators/assembly/1262.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wi/government
+  district: '29'
+links:
+- url: https://docs.legis.wisconsin.gov/2015/legislators/assembly/1262
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WIL000395
+sources:
+- url: https://docs.legis.wisconsin.gov/2015/legislators/assembly/1262

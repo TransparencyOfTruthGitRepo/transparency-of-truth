@@ -1,0 +1,20 @@
+id: ocd-person/1875f5ad-cebb-4273-9ae6-368f6e895d0b
+name: Scott Dieckhaus
+given_name: Scott
+family_name: Dieckhaus
+image: http://www.house.mo.gov/billtracking/bills121/member/mem109.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '109'
+links:
+- url: http://www.house.mo.gov/member.aspx?year=2012&district=135
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MOL000067
+sources:
+- url: http://www.house.mo.gov/member.aspx?year=2012&district=109

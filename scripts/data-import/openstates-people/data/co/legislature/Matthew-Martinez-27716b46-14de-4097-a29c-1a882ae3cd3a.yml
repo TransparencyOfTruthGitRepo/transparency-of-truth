@@ -1,0 +1,42 @@
+id: ocd-person/27716b46-14de-4097-a29c-1a882ae3cd3a
+name: Matt Martinez
+given_name: Matt
+family_name: Martinez
+gender: Male
+email: matthew.martinez.house@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_martinez%2Cmatthew.jpg?itok=JOH2bZF1
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '62'
+offices:
+- classification: capitol
+  address: State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver,
+    CO 80203
+  voice: 303-866-2916
+links:
+- url: https://leg.colorado.gov/legislators/matthew-martinez
+  note: homepage
+other_names:
+- name: M. Martinez
+- name: Martinez M.
+- name: Martinez, M.
+- name: Matthew Martinez
+sources:
+- url: https://ballotpedia.org/Matthew_Martinez
+- url: https://leg.colorado.gov/legislators
+- url: https://leg.colorado.gov/legislators/matthew-martinez
+- url: https://www.linkedin.com/in/matthew-martinez-2a882094
+extras:
+  counties represented:
+  - Alamosa
+  - Conejos
+  - Costilla
+  - Huerfano
+  - Mineral
+  - Pueblo
+  - Rio Grande
+  - Saguache

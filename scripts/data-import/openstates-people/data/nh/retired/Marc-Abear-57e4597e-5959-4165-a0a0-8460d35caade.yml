@@ -1,0 +1,24 @@
+id: ocd-person/57e4597e-5959-4165-a0a0-8460d35caade
+name: Marc Abear
+given_name: Marc
+family_name: Abear
+image: http://www.gencourt.state.nh.us/house/images/memberpics/408256.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Belknap 2
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001440
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408256
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+extras:
+  first_name: Marc
+  last_name: Abear
+  middle_name: ''

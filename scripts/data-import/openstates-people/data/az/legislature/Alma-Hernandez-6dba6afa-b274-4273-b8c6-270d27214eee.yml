@@ -1,0 +1,52 @@
+id: ocd-person/6dba6afa-b274-4273-b8c6-270d27214eee
+name: "Alma Hern\xE1ndez"
+given_name: Alma
+family_name: "Hern\xE1ndez"
+gender: Female
+email: ahernandez@azleg.gov
+image: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/HERNANDEZ_A.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '20'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '3'
+offices:
+- classification: capitol
+  address: Room 338, 1700 W. Washington St., Phoenix, AZ 85007
+  voice: 602-926-3136
+links:
+- url: https://www.azleg.gov/house-member/?legislature=55&legislator=2033
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2312
+- url: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1893
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2033
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2033
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2168
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2168
+- url: https://www.linkedin.com/in/alma-hernandez-48139a188/
+  note: linkedin
+- url: https://www.youtube.com/channel/UCbBfWrdnhNiGe0NPq2j-3NQ/featured
+  note: youtube
+other_names:
+- name: "A. Hern\xE1ndez"
+- name: Alma Hernandez
+- name: "Alma Hern\xE1ndez"
+- name: "Hern\xE1ndez, A."
+ids:
+  twitter: almaforarizona
+  instagram: repahernandez
+  facebook: AlmaforAZ
+sources:
+- url: https://ballotpedia.org/Alma_Hernandez_(Arizona)
+- url: https://en.wikipedia.org/wiki/Alma_Hernandez
+- url: https://justfacts.votesmart.org/candidate/biography/184546/alma-hernandez
+- url: https://www.azleg.gov/house-member/?legislature=55&legislator=2033
+- url: https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2312
+- url: https://www.azleg.gov/MemberRoster/?body=H
+- url: https://www.azleg.gov/memberroster/?body=H
+- url: https://www.linkedin.com/in/alma-hernandez-a64b47156

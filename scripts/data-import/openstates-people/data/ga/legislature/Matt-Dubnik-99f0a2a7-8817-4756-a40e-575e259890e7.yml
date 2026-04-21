@@ -1,0 +1,66 @@
+id: ocd-person/99f0a2a7-8817-4756-a40e-575e259890e7
+name: Matt Dubnik
+given_name: Matt
+family_name: Dubnik
+birth_date: 1981-03-30
+gender: Male
+email: matt.dubnik@house.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/dubnik-matt-4886.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '29'
+offices:
+- classification: capitol
+  address: State Capitol Room 245-D, 206 Washington St. SW, Atlanta, GA 30334
+  voice: 404-463-2246
+- classification: district
+  address: Gainesville, GA
+links:
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4886&Session=27
+- url: https://www.legis.ga.gov/members/house
+  note: HTML members list page
+- url: https://www.legis.ga.gov/members/house/4886
+- url: https://www.legis.ga.gov/members/house/4886?session=1029
+- url: https://www.legis.ga.gov/members/house/4886?session=1031
+  note: HTML member detail page
+other_names:
+- name: DUBNIK, 29TH
+- name: Dubnik, M.
+- name: M. Dubnik
+- name: M.S. Dubnik
+- name: Matt Dubnik
+- name: Matthew Dubnik
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: GAL000450
+sources:
+- url: https://ballotpedia.org/Matt_Dubnik
+- url: https://en.wikipedia.org/wiki/Matt_Dubnik
+- url: https://justfacts.votesmart.org/candidate/biography/168220/matt-dubnik
+- url: https://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: https://www.forumspeaks.com/team/matt-dubnik
+- url: https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4886&Session=27
+- url: https://www.legis.ga.gov/api/members/detail/4886?session=1029&chamber=1
+  note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4886?session=1031&chamber=1
+  note: API member detail (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/members/house/4886
+- url: https://www.legis.ga.gov/members/house/4886?session=1029
+- url: https://www.linkedin.com/in/mdubnik
+extras:
+  residence: Gainesville
+  city: Gainesville
+  georgia_id: 4886
+  birthday: March 30
+  occupation: Marketing Consultant
+  press: https://house-press.com/representative/Matt-Dubnik
+  spouse: Katie
+  staff: Ivey Burch - Administrative Assistant
+  staff email: ivey.burch@house.ga.gov
+  title: 'Chairman, Appropriations: Education Subcommittee'

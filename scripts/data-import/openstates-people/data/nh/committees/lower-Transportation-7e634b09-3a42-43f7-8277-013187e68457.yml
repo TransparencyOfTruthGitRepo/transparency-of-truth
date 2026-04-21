@@ -1,0 +1,67 @@
+id: ocd-organization/7e634b09-3a42-43f7-8277-013187e68457
+jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+classification: committee
+name: Transportation
+chamber: lower
+sources:
+- url: https://gc.nh.gov/house/committees/committeedetails.aspx?id=18
+- url: https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=18
+  note: Committee details page
+- url: https://www.gencourt.state.nh.us/house/committees/standingcommittees.aspx
+  note: Committees list page
+links:
+- url: https://gc.nh.gov/house/committees/committeedetails.aspx?id=18
+- url: https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=18
+members:
+- name: Thomas Walsh
+  role: chair
+  person_id: ocd-person/e325954b-c90e-4b1e-aadb-3f5cc7ec1671
+- name: Ted Gorski
+  role: vice chair
+  person_id: ocd-person/c40abbd9-220c-4081-9ad8-9559c10f9aae
+- name: Karel Crawford
+  role: clerk
+  person_id: ocd-person/a0936f2f-8170-47f9-8b05-6c6697a95968
+- name: Charlie Foote
+  role: member
+  person_id: ocd-person/2cc808df-0763-4807-9a67-b53a1764f84c
+- name: Charlie St. Clair
+  role: member
+  person_id: ocd-person/643751f4-6db0-4021-bf76-b8f2483d640d
+- name: Dan Veilleux
+  role: member
+  person_id: ocd-person/88428a5a-4af6-40b8-a4ff-c2ea283b758f
+- name: Dru Fox
+  role: member
+  person_id: ocd-person/31e633fb-0fd5-43e8-8a18-2bd0c1d6bca9
+- name: Erik Johnson
+  role: member
+  person_id: ocd-person/5a468f0d-8baf-47e9-92da-2db62373030f
+- name: George Sykes
+  role: member
+  person_id: ocd-person/1d64c012-42cd-433e-9e51-d449279fe57e
+- name: Greg Hill
+  role: member
+  person_id: ocd-person/852df922-484b-412f-a604-c2d67efee5ec
+- name: Henry Giasson
+  role: member
+  person_id: ocd-person/1a1bb56f-cf92-4af0-b65e-3831e8a07b64
+- name: Joe Hamblen
+  role: member
+  person_id: ocd-person/5afc747c-0880-4f38-9ae3-28a966cd7a64
+- name: Marc Plamondon
+  role: member
+  person_id: ocd-person/a5b1edc7-c0a1-49fe-824c-a9177a8e1218
+- name: Matt Coker
+  role: member
+  person_id: ocd-person/3b11dc06-256a-430c-9f75-7ebe69267e4d
+- name: Matthew Pitaro
+  role: member
+  person_id: ocd-person/08622297-087a-4e0e-97ad-abd8e81a89d8
+- name: Seth Miller
+  role: member
+  person_id: ocd-person/027bd13f-0029-48f3-a5dd-76b15a95546d
+other_names:
+- name: House Committee on Transportation
+- name: House Transportation
+- name: House Transportation Committee

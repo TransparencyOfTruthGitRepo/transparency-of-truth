@@ -1,0 +1,44 @@
+id: ocd-person/60cdec6e-abad-4d5c-97ca-83da67ed7a67
+name: Neil Whaley
+given_name: Neil
+family_name: Whaley
+birth_date: 1988-05-24
+gender: Male
+email: nwhaley@senate.ms.gov
+image: http://billstatus.ls.state.ms.us/members/senate/whaley.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2017-12-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '10'
+offices:
+- classification: capitol
+  address: State Capitol 400 High St., Jackson, MS 39201
+  voice: 601-359-4088
+- classification: district-mail
+  address: P.O. Box 1018, Jackson, MS 39215
+links:
+- url: https://billstatus.ls.state.ms.us/members/senate/whaley.xml
+  note: homepage
+other_names:
+- name: N. Whaley
+- name: N.S. Whaley
+- name: Neil S. Whaley
+- name: Whaley, N.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000301
+sources:
+- url: https://ballotpedia.org/Neil_Whaley
+- url: https://billstatus.ls.state.ms.us/members/senate/whaley.xml
+- url: https://billstatus.ls.state.ms.us/members/ss_membs.xml
+- url: https://en.wikipedia.org/wiki/Neil_Whaley
+extras:
+  occupation: Business Owner/Cattleman
+  education:
+  - NWCC
+  counties represented:
+  - Marshall
+  - Tate

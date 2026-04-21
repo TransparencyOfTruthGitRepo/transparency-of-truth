@@ -1,0 +1,33 @@
+id: ocd-person/2ee0335d-f067-4ca3-99ce-e10944fa8875
+name: George Street
+given_name: George
+family_name: Street
+gender: Male
+email: george.street@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/street_george.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '83'
+offices:
+- classification: capitol
+  address: State Capitol Room 222E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston,
+    WV 25305
+  voice: 304-340-3160
+links:
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Street
+other_names:
+- name: G. Street
+- name: Street, G
+- name: Street, G.
+sources:
+- url: https://ballotpedia.org/George_Street
+- url: https://en.wikipedia.org/wiki/George_Street_(West_Virginia_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/201696/george-street
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Street
+- url: https://www.wvlegislature.gov/House/roster.cfm
+extras:
+  title: Assistant Majority Whip

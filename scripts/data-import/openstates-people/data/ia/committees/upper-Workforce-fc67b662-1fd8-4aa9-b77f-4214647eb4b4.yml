@@ -1,0 +1,55 @@
+id: ocd-organization/fc67b662-1fd8-4aa9-b77f-4214647eb4b4
+jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+classification: committee
+name: Workforce
+chamber: upper
+sources:
+- url: https://www.legis.iowa.gov/committees
+  note: Committee list page
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=325
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=325
+links:
+- url: https://www.legis.iowa.gov/committees/committee?ga=90&groupID=325
+  note: homepage
+- url: https://www.legis.iowa.gov/committees/committee?ga=91&groupID=325
+members:
+- name: Adrian Dickey
+  role: chair
+  person_id: ocd-person/9788064e-fad9-4130-9084-69e829884d9c
+- name: Jason Schultz
+  role: vice chair
+  person_id: ocd-person/32126238-17ce-4338-923a-3867b6517039
+- name: Molly Donahue
+  role: ranking member
+  person_id: ocd-person/d675a03b-f474-4e1c-b48a-b78b399488c4
+- name: Bill Dotzler
+  role: member
+  person_id: ocd-person/c1174a56-68c9-4103-aaee-fa3f1a2b25ca
+- name: Carrie Koelker
+  role: member
+  person_id: ocd-person/9b68d2a2-ead2-401e-a225-1edae68f6099
+- name: Dave Sires
+  role: member
+  person_id: ocd-person/b261b6a8-cb30-4808-b750-df2e7963d6c8
+- name: Dawn Driscoll
+  role: member
+  person_id: ocd-person/fe90f2b2-0892-4abd-9d6d-4b2ac1dae632
+- name: Jeff Taylor
+  role: member
+  person_id: ocd-person/cc1cff7e-82d6-4947-a906-f467b4017285
+- name: Mark Lofgren
+  role: member
+  person_id: ocd-person/b1110000-b6c3-4348-8655-8a7b51c8a9db
+- name: Mike Pike
+  role: member
+  person_id: ocd-person/fdb8c40c-9f1e-4799-bc5f-0249d21f3811
+- name: Tom Townsend
+  role: member
+  person_id: ocd-person/ba2c7b09-df43-4428-b268-1f5a4995282e
+- name: Zach Wahls
+  role: member
+  person_id: ocd-person/ab4528a8-eeca-4562-8475-967ce868eb68
+other_names:
+- name: Senate Committee on Workforce
+- name: Senate Workforce
+- name: Senate Workforce Committee

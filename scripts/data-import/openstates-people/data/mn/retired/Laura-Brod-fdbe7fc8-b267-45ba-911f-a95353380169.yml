@@ -1,0 +1,17 @@
+id: ocd-person/fdbe7fc8-b267-45ba-911f-a95353380169
+name: Laura Brod
+given_name: Laura
+family_name: Brod
+party:
+- name: Republican
+roles:
+- start_date: '2009-01-01'
+  end_date: '2010-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 25A
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MNL000116
+sources:
+- url: http://www.house.leg.state.mn.us/members/meminfo.xls

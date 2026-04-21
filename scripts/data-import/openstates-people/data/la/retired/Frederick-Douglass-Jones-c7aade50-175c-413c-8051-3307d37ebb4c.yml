@@ -1,0 +1,18 @@
+id: ocd-person/c7aade50-175c-413c-8051-3307d37ebb4c
+name: Frederick Douglass Jones
+email: hse016@legis.la.gov
+image: http://house.louisiana.gov/h_reps/RepPics09/rep16.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2021-07-23'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '16'
+  end_reason: Elected to the Fourth Judicial District Court
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=16
+other_names:
+- name: Frederick D. Jones
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=16

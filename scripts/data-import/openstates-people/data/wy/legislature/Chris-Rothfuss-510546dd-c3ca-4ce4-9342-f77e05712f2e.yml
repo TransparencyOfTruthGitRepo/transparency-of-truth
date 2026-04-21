@@ -1,0 +1,92 @@
+id: ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e
+name: Chris Rothfuss
+given_name: Chris
+family_name: Rothfuss
+birth_date: 1972-10-21
+gender: Male
+email: chris.rothfuss@wyoleg.gov
+image: https://wyoleg.gov/LegislatorSummary/Photos/68th-RothfussChris.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2011-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  district: '9'
+offices:
+- classification: capitol
+  address: State Capitol 200 W. 24th St., Cheyenne, WY 82002
+- classification: district-mail
+  address: P.O. Box 1791, Laramie, WY 82073
+links:
+- url: https://www.wyoleg.gov/Legislators/2023/S/1971
+- url: https://www.wyoleg.gov/Legislators/2025/S/1971
+- url: https://wyoleg.gov/Legislators/2019/D/1971
+- url: https://wyoleg.gov/Legislators/2021/D/1971
+other_names:
+- name: C. Rothfuss
+- name: C.J. Rothfuss
+- name: Rothfuss, C
+- name: Rothfuss, C.
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WYL000027
+sources:
+- url: https://ballotpedia.org/Chris_Rothfuss
+- url: https://en.wikipedia.org/wiki/Chris_Rothfuss
+- url: https://www.linkedin.com/in/rothfuss
+- url: https://www.wyoleg.gov/Legislators/2023/S/1971
+- url: https://www.wyoleg.gov/Legislators/2025/S/1971
+- url: https://wyoleg.gov/Legislators/2019/D/1971
+- url: https://wyoleg.gov/Legislators/2021/D/1971
+- url: https://wyoleg.gov/LsoService/api/legislator/1971
+- url: https://wyoleg.gov/LsoService/api/legislator/2021/S
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
+extras:
+  county: Albany County
+  education:
+  - schoolName: University of Washington
+    gradYear: '2002'
+    degree: PhD Chemical Engineering
+  - schoolName: University of Washington
+    gradYear: '2002'
+    degree: MS Applied Physics
+  - schoolName: University of Wyoming
+    gradYear: '1996'
+    degree: MS Chemical Engineering
+  - schoolName: University of Wyoming
+    gradYear: '1994'
+    degree: BA International Studies
+  title: Minority Floor Leader
+  occupation: Chemical Engineer/Consultant
+  leadership:
+  - startYear: '2023'
+    endYear: '2024'
+    position: 'Senate Minority Floor Leader                      '
+    currentLeader: true
+  - startYear: '2021'
+    endYear: '2022'
+    position: 'Senate Minority Floor Leader                      '
+    currentLeader: false
+  - startYear: '2019'
+    endYear: '2020'
+    position: Senate Minority Floor Leader
+    currentLeader: false
+  - startYear: '2017'
+    endYear: '2018'
+    position: Senate Minority Floor Leader
+    currentLeader: false
+  - startYear: '2015'
+    endYear: '2016'
+    position: Senate Minority Floor Leader
+    currentLeader: false
+  - startYear: '2013'
+    endYear: '2014'
+    position: Senate Minority Floor Leader
+    currentLeader: false
+  senate years: 'Senate: 2011-Present'
+  prior service:
+  - chamber: Senate
+    startYear: 2011
+    endYear: Present
+    district: ' District 09, '

@@ -1,0 +1,20 @@
+id: ocd-person/083e62fd-0c27-4ca6-9621-20bfd7e24e73
+name: Troy Carter
+given_name: Troy
+family_name: Carter
+email: cartert@legis.la.gov
+party:
+- name: Democratic
+roles:
+- end_date: '2021-05-10'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '7'
+  end_reason: Elected to U.S. House
+links:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=7
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: LAL000837
+sources:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=7

@@ -1,0 +1,17 @@
+id: ocd-person/6013f56f-d345-497d-951b-31c3eaa03eed
+name: Alan Nunnelee
+given_name: Alan
+family_name: Nunnelee
+party:
+- name: Republican
+roles:
+- start_date: '2008-01-01'
+  end_date: '2011-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  district: '6'
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MSL000012
+sources:
+- url: http://billstatus.ls.state.ms.us/members/senate/nunnelee.xml

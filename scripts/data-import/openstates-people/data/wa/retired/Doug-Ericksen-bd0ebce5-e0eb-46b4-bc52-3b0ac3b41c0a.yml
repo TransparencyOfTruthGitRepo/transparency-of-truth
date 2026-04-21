@@ -1,0 +1,24 @@
+id: ocd-person/bd0ebce5-e0eb-46b4-bc52-3b0ac3b41c0a
+name: Doug Ericksen
+given_name: Doug
+family_name: Ericksen
+email: doug.ericksen@leg.wa.gov
+death_date: 2021-12-17
+image: https://app.leg.wa.gov/ContentParts/MemberDirectory/LargePhoto?a=Senate&m=3473
+party:
+- name: Republican
+roles:
+- end_date: '2021-12-17'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  district: '42'
+  end_reason: Deceased
+links:
+- url: http://DougEricksen.src.wastateleg.org/
+- url: http://www.leg.wa.gov/senate/senators/Pages/default.aspx
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WAL000011
+sources:
+- url: http://www.leg.wa.gov/senate/senators/Pages/default.aspx
+- url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=Senate
