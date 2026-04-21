@@ -31,7 +31,7 @@ foreach ($o in $officials) {
   $dest = "$outDir\$($o.pid).md"
   if (Test-Path $dest) { Write-Host "SKIP: $dest"; continue }
 
-  $content = "---`ntitle: `"$($o.name)`"`ndate: $now`ndraft: false`ntype: `"officials`"`n`nofficial_id: `"$($o.pid)`"`nfull_name: `"$($o.name)`"`nsort_name: `"`"`nphoto_url: `"`"`n`nstate: `"$stateSlug`"`nstate_abbrev: `"$stateAbbrev`"`njurisdiction_level: `"state`"`njurisdiction_name: `"State of Georgia`"`noffice_title: `"$($o.office)`"`nchamber: `"$($o.chamber)`"`ndistrict: `"`"`nparty: `"$($o.party)`"`nstatus: `"$($o.status)`"`n`nofficial_website: `"$($o.website)`"`noffice_page_url: `"$($o.website)`"`nemail: `"`"`nphone: `"$($o.phone)`"`naddress: `"`"`n`nsource_ids: []`ndocument_ids: []`nlast_verified: `"`"`nretrieved_at: `"$today`"`nreview_status: `"seeded`"`n`nbio_short: `"`"`nbio_long: `"`"`ncommittees: []`nnotes: `"`"`n---`n"
+  $content = "---`ntitle: `"$($o.name)`"`ndate: $now`ndraft: false`ntype: `"officials`"`n`nofficial_id: `"$($o.pid)`"`nfull_name: `"$($o.name)`"`nsort_name: `"`"`nphoto_url: `"`"`n`nstate: `"$stateSlug`"`nstate_abbrev: `"$stateAbbrev`"`njurisdiction_level: `"state`"`njurisdiction_name: `"State of Georgia`"`noffice_title: `"$($o.office)`"`nchamber: `"$($o.chamber)`"`ndistrict: `"`"`nparty: `"$($o.party)`"`nstatus: `"$($o.status)`"`n`nofficial_website: `"$($o.website)`"`noffice_page_url: `"$($o.website)`"`nemail: `"`"`nphone: `"$($o.phone)`"`naddress: `"`"`n`nsource_ids: []`ndocument_ids: []`nlast_verified: `"`"`nretrieved_at: `"$today`"`nreview_status: `"source-confirmed`"`n`nbio_short: `"`"`nbio_long: `"`"`ncommittees: []`nnotes: `"`"`n---`n"
 
   Set-Content -Path $dest -Value $content -Encoding UTF8
   Write-Host "CREATED: $dest"

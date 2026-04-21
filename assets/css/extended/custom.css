@@ -20,7 +20,7 @@
 .party-democrat { background: rgba(50,100,200,0.2); color: #6a9fd8; }
 .party-independent { background: rgba(150,150,150,0.2); color: #aaa; }
 .official-status { font-size: 0.7rem; padding: 2px 8px; border-radius: 4px; white-space: nowrap; }
-.status-seeded { background: rgba(200,150,50,0.2); color: #d4a843; }
+.status-source-confirmed { background: rgba(200,150,50,0.2); color: #d4a843; }
 .status-source-confirmed { background: rgba(50,180,100,0.2); color: #5cb87a; }
 .status-published { background: rgba(50,150,200,0.2); color: #5aafd4; }
 .status-stale { background: rgba(200,50,50,0.15); color: #e07070; }
@@ -163,7 +163,7 @@
   flex-wrap: wrap;
 }
 .meta-divider { opacity: 0.3; }
-.status-seeded-label { color: #d4a843; opacity: 1; }
+.status-source-confirmed-label { color: #d4a843; opacity: 1; }
 .officials-chamber-section {
   margin: 2rem 0;
 }

@@ -19,7 +19,7 @@
     <p class="profile-office">{{ .Params.office_title }} · {{ .Params.state_abbrev }}</p>
     {{ if .Params.review_status }}
       <span class="review-status status-{{ .Params.review_status }}">
-        {{ if eq .Params.review_status "seeded" }}⚠ Seeded — pending source verification{{ end }}
+        {{ if eq .Params.review_status "source-confirmed" }}⚠ source-confirmed — pending source verification{{ end }}
         {{ if eq .Params.review_status "source-confirmed" }}✓ Source confirmed{{ end }}
         {{ if eq .Params.review_status "verified" }}✓ Verified{{ end }}
       </span>

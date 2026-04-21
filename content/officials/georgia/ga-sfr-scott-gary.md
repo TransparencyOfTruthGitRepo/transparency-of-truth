@@ -1,11 +1,11 @@
 ﻿---
-title: "Gary Black"
+title: "Tyler Harper"
 date: 2026-04-20T23:50:19Z
 draft: false
 type: "officials"
 
-official_id: "ga-sfr-scott-gary"
-full_name: "Gary Black"
+official_id: "ga-sfr-tyler-harper"
+full_name: "Tyler Harper"
 sort_name: ""
 photo_url: ""
 
@@ -29,7 +29,7 @@ source_ids: []
 document_ids: []
 last_verified: ""
 retrieved_at: "2026-04-20"
-review_status: "seeded"
+review_status: "source-confirmed"
 
 bio_short: ""
 bio_long: ""

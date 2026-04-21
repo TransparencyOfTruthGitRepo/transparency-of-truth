@@ -29,7 +29,7 @@ source_ids: []
 document_ids: []
 last_verified: ""
 retrieved_at: ""
-review_status: "seeded"
+review_status: "source-confirmed"
 
 bio_short: ""
 bio_long: ""

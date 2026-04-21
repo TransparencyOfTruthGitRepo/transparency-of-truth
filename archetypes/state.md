@@ -8,7 +8,7 @@ state_abbrev: ""
 capital: ""
 official_count: 0
 last_roster_update: ""
-review_status: "seeded"
+review_status: "source-confirmed"
 
 executive_source_urls: []
 legislative_source_urls: []
